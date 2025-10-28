@@ -1,7 +1,7 @@
 # Navigating the Genius Insanity Line - Insights from the Crazy Wisdom Podcast
 
 **Duration**: PT1M23S
-**Views**: 30
+**Views**: 31
 **Likes**: 0
 
 **Description**:
