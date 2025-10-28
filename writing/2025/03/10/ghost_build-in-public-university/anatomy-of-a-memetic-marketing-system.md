@@ -1,0 +1,5 @@
+---
+title: Anatomy of a Memetic Marketing System
+---
+
+<p>I've been working on a new type of AI system over the past couple of weeks.</p><p>The result: Glitch, the Ghost of Internet Past Future.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="__GHOST_URL__/content/images/2025/03/image-1--2--3--4-.jpg" class="kg-image" alt="" loading="lazy" width="1024" height="768" srcset="__GHOST_URL__/content/images/size/w600/2025/03/image-1--2--3--4-.jpg 600w, __GHOST_URL__/content/images/size/w1000/2025/03/image-1--2--3--4-.jpg 1000w, __GHOST_URL__/content/images/2025/03/image-1--2--3--4-.jpg 1024w" sizes="(min-width: 720px) 720px"><figcaption><span style="white-space: pre-wrap;">Say hi to Glitch, your unhinged Memetic Marketing System</span></figcaption></figure><p>The impetus for Glitch: my new campaign to Make the Internet Weird Again.</p>

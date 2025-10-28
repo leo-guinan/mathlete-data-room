@@ -1,0 +1,5 @@
+---
+title: Professor Links
+---
+
+<p>The enrollment process for Build In Public University depends on enrolling through links that reserve resources for specific professors. Here are a list of the links for professors.</p><p>DefenderOfBasic</p><ul><li>Tuition Link (Coming Soon)</li><li>Profile (Coming soon)</li></ul><p>Leo Guinan</p><ul><li><a href="https://buy.stripe.com/14k29Tfid8ycfdu3ck" rel="noreferrer">Tuition Link</a></li><li><a href="__GHOST_URL__/professor-profile-leo-guinan/" rel="noreferrer">Profile</a></li></ul><p>Jay Clouse</p><ul><li>Tuition Link (Coming Soon)</li><li>Profile (Coming soon)</li></ul><p>Corey Wilks</p><ul><li>Tuition Link (Coming Soon)</li><li>Profile (Coming soon)</li></ul><p>Lobow</p><ul><li>Tuition Link (Coming Soon)</li><li>Profile (Coming soon)</li></ul><p>Justin Allingham</p><ul><li>Tuition Link (Coming Soon)</li><li>Profile (Coming soon)</li></ul><p>Paul Millerd</p><ul><li>Tuition Link (Coming Soon)</li><li>Profile (Coming soon)</li></ul>

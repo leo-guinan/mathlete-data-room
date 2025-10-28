@@ -1,0 +1,5 @@
+---
+title: Conscious Investors See Signals Others Don't
+---
+
+<p>You should go to Manifold Markets and Sign up.</p><p>And Vote Yes. </p><p>The Signals Have Spoken.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://manifold.markets/LeoGuinanEqPl/will-this-video-be-over-1m-views-by?r=TGVvR3VpbmFuRXFQbA"><div class="kg-bookmark-content"><div class="kg-bookmark-title">Will this video be over 1M views by Monday October 6, 12AM Eastern?</div><div class="kg-bookmark-description">1.1% chance. Here’s a link to the video: https://dub.sh/fdWz73t</div><div class="kg-bookmark-metadata"><img class="kg-bookmark-icon" src="__GHOST_URL__/content/images/icon/favicon.ico" alt=""><span class="kg-bookmark-author">Manifold</span></div></div><div class="kg-bookmark-thumbnail"><img src="__GHOST_URL__/content/images/thumbnail/market" alt="" onerror="this.style.display = 'none'"></div></a></figure>
