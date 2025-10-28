@@ -1,0 +1,151 @@
+{
+  "id": "1333585016237006850",
+  "id_str": "1333585016237006850",
+  "created_at": "Tue Dec 01 01:33:39 +0000 2020",
+  "text": "RT @KlatuBaradaNiko: In life, perspective is everything https://t.co/FceogzEbJU",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "￮༺𓂂𓂃ᗙ 𝔐𝔞𝔯𝔱𝔦𝔫 ᗛ𓂃𓂂༻￮",
+        "screen_name": "KlatuBaradaNiko",
+        "indices": [
+          "3",
+          "19"
+        ],
+        "id_str": "1388656794",
+        "id": "1388656794"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/KlatuBaradaNiko/status/1311717989180342273/video/1",
+        "source_status_id": "1311717989180342273",
+        "indices": [
+          "56",
+          "79"
+        ],
+        "url": "https://t.co/FceogzEbJU",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311717968590458881/pu/img/ZKJCj6apk1AKV10D.jpg",
+        "id_str": "1311717968590458881",
+        "source_user_id": "1388656794",
+        "id": "1311717968590458881",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311717968590458881/pu/img/ZKJCj6apk1AKV10D.jpg",
+        "source_user_id_str": "1388656794",
+        "sizes": {
+          "large": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1311717989180342273",
+        "display_url": "pic.x.com/FceogzEbJU"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/KlatuBaradaNiko/status/1311717989180342273/video/1",
+        "source_status_id": "1311717989180342273",
+        "indices": [
+          "56",
+          "79"
+        ],
+        "url": "https://t.co/FceogzEbJU",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1311717968590458881/pu/img/ZKJCj6apk1AKV10D.jpg",
+        "id_str": "1311717968590458881",
+        "video_info": {
+          "aspect_ratio": [
+            "1",
+            "1"
+          ],
+          "duration_millis": "12633",
+          "variants": [
+            {
+              "bitrate": "1280000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1311717968590458881/pu/vid/720x720/J2gyMwcJpVnHGYJU.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1311717968590458881/pu/pl/i-OICi1aeVo0RQYP.m3u8?tag=10"
+            },
+            {
+              "bitrate": "432000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1311717968590458881/pu/vid/320x320/8xikQPMs0zE7qS2Z.mp4?tag=10"
+            },
+            {
+              "bitrate": "832000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1311717968590458881/pu/vid/480x480/2YrFjkph-H_Mr5QW.mp4?tag=10"
+            }
+          ]
+        },
+        "source_user_id": "1388656794",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1311717968590458881",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1311717968590458881/pu/img/ZKJCj6apk1AKV10D.jpg",
+        "source_user_id_str": "1388656794",
+        "sizes": {
+          "large": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1311717989180342273",
+        "display_url": "pic.x.com/FceogzEbJU"
+      }
+    ]
+  },
+  "lang": "en"
+}

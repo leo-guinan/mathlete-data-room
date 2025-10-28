@@ -1,0 +1,23 @@
+{
+  "id": "1552853424512827393",
+  "id_str": "1552853424512827393",
+  "created_at": "Fri Jul 29 03:08:01 +0000 2022",
+  "text": "ok, think I've got everything working with the OAuth1.1 flow.\n\nRefactored a bit while I was in there and now I've got it nice and clean and it can handle either auth pattern. \n\nAll config based now. Gotta make sure it all runs smoothly and runs overnight, but feeling good now.",
+  "in_reply_to_status_id": "1552836648005779456",
+  "in_reply_to_status_id_str": "1552836648005779456",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

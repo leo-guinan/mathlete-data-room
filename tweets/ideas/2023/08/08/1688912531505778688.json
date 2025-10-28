@@ -1,0 +1,101 @@
+{
+  "id": "1688912531505778688",
+  "id_str": "1688912531505778688",
+  "created_at": "Tue Aug 08 13:58:20 +0000 2023",
+  "text": "Now including sources!\n\nI have to fix a couple of styling issues with the way things are coming through, but overall, it's working pretty well.\n\nNeed to do some de-duplication though. Occasionally, I'll get the same links with different query params, and that's not ideal. https://t.co/B1gmShJiYo",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1688912531505778688/photo/1",
+        "indices": [
+          "273",
+          "296"
+        ],
+        "url": "https://t.co/B1gmShJiYo",
+        "media_url": "http://pbs.twimg.com/media/F3A4_nuawAEs281.jpg",
+        "id_str": "1688912525910523905",
+        "id": "1688912525910523905",
+        "media_url_https": "https://pbs.twimg.com/media/F3A4_nuawAEs281.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "1188",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "673",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1238",
+            "h": "1226",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/B1gmShJiYo"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1688912531505778688/photo/1",
+        "indices": [
+          "273",
+          "296"
+        ],
+        "url": "https://t.co/B1gmShJiYo",
+        "media_url": "http://pbs.twimg.com/media/F3A4_nuawAEs281.jpg",
+        "id_str": "1688912525910523905",
+        "id": "1688912525910523905",
+        "media_url_https": "https://pbs.twimg.com/media/F3A4_nuawAEs281.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "1188",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "673",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1238",
+            "h": "1226",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/B1gmShJiYo"
+      }
+    ]
+  },
+  "lang": "en"
+}

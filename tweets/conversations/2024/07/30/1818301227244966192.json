@@ -1,0 +1,23 @@
+{
+  "id": "1818301227244966192",
+  "id_str": "1818301227244966192",
+  "created_at": "Tue Jul 30 15:02:49 +0000 2024",
+  "text": "if the user doesn't specify the file to use, it picks the latest one uploaded. Otherwise, it matches the correct one, and returns the ID so I can pull it from the db and pass it to the function.\n\nWas cool to see how well that worked!",
+  "in_reply_to_status_id": "1818301225672056836",
+  "in_reply_to_status_id_str": "1818301225672056836",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "1325506632856514566",
+  "id_str": "1325506632856514566",
+  "created_at": "Sun Nov 08 18:33:02 +0000 2020",
+  "text": "RT @MeidasTouch: who made this https://t.co/wk1qgfcFO1",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "MeidasTouch",
+        "screen_name": "MeidasTouch",
+        "indices": [
+          "3",
+          "15"
+        ],
+        "id_str": "1243560408025198593",
+        "id": "1243560408025198593"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/MeidasTouch/status/1325477066364514304/photo/1",
+        "source_status_id": "1325477066364514304",
+        "indices": [
+          "31",
+          "54"
+        ],
+        "url": "https://t.co/wk1qgfcFO1",
+        "media_url": "http://pbs.twimg.com/media/EmUKXgoU0AU8fRR.jpg",
+        "id_str": "1325477064342818821",
+        "source_user_id": "1243560408025198593",
+        "id": "1325477064342818821",
+        "media_url_https": "https://pbs.twimg.com/media/EmUKXgoU0AU8fRR.jpg",
+        "source_user_id_str": "1243560408025198593",
+        "sizes": {
+          "large": {
+            "w": "405",
+            "h": "403",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "405",
+            "h": "403",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "405",
+            "h": "403",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1325477066364514304",
+        "display_url": "pic.x.com/wk1qgfcFO1"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/MeidasTouch/status/1325477066364514304/photo/1",
+        "source_status_id": "1325477066364514304",
+        "indices": [
+          "31",
+          "54"
+        ],
+        "url": "https://t.co/wk1qgfcFO1",
+        "media_url": "http://pbs.twimg.com/media/EmUKXgoU0AU8fRR.jpg",
+        "id_str": "1325477064342818821",
+        "source_user_id": "1243560408025198593",
+        "id": "1325477064342818821",
+        "media_url_https": "https://pbs.twimg.com/media/EmUKXgoU0AU8fRR.jpg",
+        "source_user_id_str": "1243560408025198593",
+        "sizes": {
+          "large": {
+            "w": "405",
+            "h": "403",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "405",
+            "h": "403",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "405",
+            "h": "403",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1325477066364514304",
+        "display_url": "pic.x.com/wk1qgfcFO1"
+      }
+    ]
+  },
+  "lang": "en"
+}

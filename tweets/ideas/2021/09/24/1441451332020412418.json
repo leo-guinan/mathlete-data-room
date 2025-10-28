@@ -1,0 +1,33 @@
+{
+  "id": "1441451332020412418",
+  "id_str": "1441451332020412418",
+  "created_at": "Fri Sep 24 17:15:53 +0000 2021",
+  "text": "Thinking about this, this is how I would make it work.\n\nTypeform with 2 ?s, name and location\nFrom there, add to Google sheet/notion table/airtable \nWhen row added to table, add pin to Google map with name as the label\n\nOr you could build a product that does that under the hood.. https://t.co/FG6z22PSpl",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/FG6z22PSpl",
+        "expanded_url": "https://x.com/jackbutcher/status/1441442823144833030",
+        "display_url": "x.com/jackbutcher/st…",
+        "indices": [
+          "281",
+          "304"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1423805312289607684",
+  "id_str": "1423805312289607684",
+  "created_at": "Sat Aug 07 00:36:54 +0000 2021",
+  "text": "I'll need to either store it in a database or a file. I'm also considering if I want to start storing all user data in a single spot and essentially caching the data for each user. Then I could just grab ids and pull in data for users I haven't looked up yet.",
+  "in_reply_to_status_id": "1423805310569955328",
+  "in_reply_to_status_id_str": "1423805310569955328",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1475576643615965189",
+  "id_str": "1475576643615965189",
+  "created_at": "Mon Dec 27 21:17:41 +0000 2021",
+  "text": "Realized my stripe payment flow was completely broken in prod. Getting an error that doesn't seem to make sense, so committed a change that will hopefully help me confirm that the wrong error is showing and hopefully point me to the right issue. \n\nWorks fine locally.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

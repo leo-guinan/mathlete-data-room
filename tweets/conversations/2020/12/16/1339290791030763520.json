@@ -1,0 +1,179 @@
+{
+  "id": "1339290791030763520",
+  "id_str": "1339290791030763520",
+  "created_at": "Wed Dec 16 19:26:22 +0000 2020",
+  "text": "RT @ColumbusCrewSC: Brought a little surprise for @Pedro32santos &amp; @darlingtonnagbe 🏆 https://t.co/gQ2pkM81kC",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "CCSC",
+        "screen_name": "columbuscrewsc",
+        "indices": [
+          "3",
+          "18"
+        ],
+        "id_str": "2792544626",
+        "id": "2792544626"
+      },
+      {
+        "name": "Pedro miguel santos",
+        "screen_name": "Pedro32santos",
+        "indices": [
+          "50",
+          "64"
+        ],
+        "id_str": "902916215735189505",
+        "id": "902916215735189505"
+      },
+      {
+        "name": "Darlington Nagbe",
+        "screen_name": "darlingtonnagbe",
+        "indices": [
+          "71",
+          "87"
+        ],
+        "id_str": "233958816",
+        "id": "233958816"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/ColumbusCrewSC/status/1339283618850549761/video/1",
+        "source_status_id": "1339283618850549761",
+        "indices": [
+          "90",
+          "113"
+        ],
+        "url": "https://t.co/gQ2pkM81kC",
+        "media_url": "http://pbs.twimg.com/media/EpYP4NIWMAghhnF.jpg",
+        "id_str": "1339274841954922498",
+        "source_user_id": "16960789",
+        "id": "1339274841954922498",
+        "media_url_https": "https://pbs.twimg.com/media/EpYP4NIWMAghhnF.jpg",
+        "source_user_id_str": "16960789",
+        "sizes": {
+          "large": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1339283618850549761",
+        "display_url": "pic.x.com/gQ2pkM81kC"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/ColumbusCrewSC/status/1339283618850549761/video/1",
+        "source_status_id": "1339283618850549761",
+        "indices": [
+          "90",
+          "113"
+        ],
+        "url": "https://t.co/gQ2pkM81kC",
+        "media_url": "http://pbs.twimg.com/media/EpYP4NIWMAghhnF.jpg",
+        "id_str": "1339274841954922498",
+        "video_info": {
+          "aspect_ratio": [
+            "1",
+            "1"
+          ],
+          "duration_millis": "59892",
+          "variants": [
+            {
+              "bitrate": "832000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1339274841954922498/vid/480x480/b--Jkf0Xi0po820X.mp4?tag=13"
+            },
+            {
+              "bitrate": "432000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1339274841954922498/vid/320x320/6B4dm9_0Zz-Xqf1O.mp4?tag=13"
+            },
+            {
+              "bitrate": "1280000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1339274841954922498/vid/720x720/sO7SBsquVEGgd_xq.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1339274841954922498/pl/el30aRXDhJ6miCCF.m3u8?tag=13"
+            }
+          ]
+        },
+        "source_user_id": "16960789",
+        "additional_media_info": {
+          "embeddable": true,
+          "monetizable": false,
+          "description": "",
+          "call_to_actions": {
+            "visit_site": {
+              "url": "https://www.columbuscrewsc.com/"
+            }
+          },
+          "title": "Santos and Nagbe's first look at MLS Cup"
+        },
+        "id": "1339274841954922498",
+        "media_url_https": "https://pbs.twimg.com/media/EpYP4NIWMAghhnF.jpg",
+        "source_user_id_str": "16960789",
+        "sizes": {
+          "large": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "720",
+            "h": "720",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1339283618850549761",
+        "display_url": "pic.x.com/gQ2pkM81kC"
+      }
+    ]
+  },
+  "lang": "en"
+}

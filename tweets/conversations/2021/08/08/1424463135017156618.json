@@ -1,0 +1,23 @@
+{
+  "id": "1424463135017156618",
+  "id_str": "1424463135017156618",
+  "created_at": "Sun Aug 08 20:10:51 +0000 2021",
+  "text": "Ok, looks like I can use boto3 to connect to the dynamodb tables directly. I tried it out in the python console. Interesting fact: the table names have lovely identification strings added to their names in the UI. \n\nAlso, I don't do a great job of cleaning up after old projects",
+  "in_reply_to_status_id": "1424459829691756549",
+  "in_reply_to_status_id_str": "1424459829691756549",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

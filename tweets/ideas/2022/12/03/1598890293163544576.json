@@ -1,0 +1,23 @@
+{
+  "id": "1598890293163544576",
+  "id_str": "1598890293163544576",
+  "created_at": "Sat Dec 03 04:02:06 +0000 2022",
+  "text": "Playing with the Twitter Account Activity API tonight. Setting up a webhook to receive account activity.\n\nNot the easiest thing to get working, but I've got it set up now. Actually, this tweet is hopefully going to send an event to my local webhook.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "5",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

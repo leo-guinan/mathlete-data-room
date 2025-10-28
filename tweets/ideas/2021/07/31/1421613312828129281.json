@@ -1,0 +1,23 @@
+{
+  "id": "1421613312828129281",
+  "id_str": "1421613312828129281",
+  "created_at": "Sat Jul 31 23:26:40 +0000 2021",
+  "text": "Been a pretty productive day.\n\nFrantically working away on the Twitter CRM. Spent way more time trying to fix a stupid bug than I care to admit.\n\nTurns out, tokenSecret and secretToken are not the same thing. And if you populate the one, and try to read from the other, no worky.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "8",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

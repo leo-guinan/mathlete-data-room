@@ -1,0 +1,137 @@
+{
+  "id": "1921687599992709207",
+  "id_str": "1921687599992709207",
+  "created_at": "Sun May 11 22:03:21 +0000 2025",
+  "text": "Testing out a new way to analyze my twitter archive. I want to see how much drift various areas of my life move around vs others. https://t.co/EKO0MXsIIO",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1921687599992709207/video/1",
+        "indices": [
+          "130",
+          "153"
+        ],
+        "url": "https://t.co/EKO0MXsIIO",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1921687176372236288/img/c1LG89hlevqVknf_.jpg",
+        "id_str": "1921687176372236288",
+        "id": "1921687176372236288",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1921687176372236288/img/c1LG89hlevqVknf_.jpg",
+        "sizes": {
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/EKO0MXsIIO"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1921687599992709207/video/1",
+        "indices": [
+          "130",
+          "153"
+        ],
+        "url": "https://t.co/EKO0MXsIIO",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1921687176372236288/img/c1LG89hlevqVknf_.jpg",
+        "id_str": "1921687176372236288",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "duration_millis": "29548",
+          "variants": [
+            {
+              "bitrate": "10368000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1921687176372236288/vid/avc1/1920x1080/3Z3uUeS8TylU6sF9.mp4"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1921687176372236288/pl/TcJNnHs8Iy7V6_jJ.m3u8"
+            },
+            {
+              "bitrate": "832000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1921687176372236288/vid/avc1/640x360/b1I5mblKsHi49Ikp.mp4"
+            },
+            {
+              "bitrate": "256000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1921687176372236288/vid/avc1/480x270/hGQGNHR_bNBK9b5N.mp4"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1921687176372236288/vid/avc1/1280x720/eskdfEIM99L50Adh.mp4"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1921687176372236288",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1921687176372236288/img/c1LG89hlevqVknf_.jpg",
+        "sizes": {
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "display_url": "pic.x.com/EKO0MXsIIO"
+      }
+    ]
+  },
+  "lang": "en"
+}

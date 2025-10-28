@@ -1,0 +1,44 @@
+{
+  "id": "1904525547842969644",
+  "id_str": "1904525547842969644",
+  "created_at": "Tue Mar 25 13:27:29 +0000 2025",
+  "text": "On the fly transcription is live for the @BuildInPublicU livestream with @gladia_io now!\n\nFirst feature I'm building on top of this: I'm using the  named entity recognition to identify sponsor mentions. I'm going to set up a dashboard with my sponsors and how often I mention them…",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Build In Public University",
+        "screen_name": "BuildInPublicU",
+        "indices": [
+          "41",
+          "56"
+        ],
+        "id_str": "1553802498720374784",
+        "id": "1553802498720374784"
+      },
+      {
+        "name": "Gladia.io",
+        "screen_name": "gladia_io",
+        "indices": [
+          "73",
+          "83"
+        ],
+        "id_str": "1481301784018698240",
+        "id": "1481301784018698240"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

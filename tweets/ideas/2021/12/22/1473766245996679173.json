@@ -1,0 +1,23 @@
+{
+  "id": "1473766245996679173",
+  "id_str": "1473766245996679173",
+  "created_at": "Wed Dec 22 21:23:48 +0000 2021",
+  "text": "Ok, so I've managed to prove I can hit Twitters rate limits on their api. \n\nAt some point, I need to add in handling for that so it can back off requests instead of continuing to blast them. \n\nThat's probably sooner rather than later, honestly.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "6",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

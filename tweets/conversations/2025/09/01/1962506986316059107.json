@@ -1,0 +1,44 @@
+{
+  "id": "1962506986316059107",
+  "id_str": "1962506986316059107",
+  "created_at": "Mon Sep 01 13:25:01 +0000 2025",
+  "text": "@christophcsmith I'm testing a hypothesis I have around training costs and accuracy, so I'm training models that can implement only very specific pieces of the @mastra_ai framework. \n\nThe first model I'm fine tuning only writes agents. Then I'm going to have models that handle workflows,…",
+  "in_reply_to_status_id": "1962505621019775359",
+  "in_reply_to_status_id_str": "1962505621019775359",
+  "in_reply_to_user_id": "707078994852622336",
+  "in_reply_to_user_id_str": "707078994852622336",
+  "in_reply_to_screen_name": "christophcsmith",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Christopher C. Smith",
+        "screen_name": "christophcsmith",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "707078994852622336",
+        "id": "707078994852622336"
+      },
+      {
+        "name": "Mastra",
+        "screen_name": "mastra_ai",
+        "indices": [
+          "160",
+          "170"
+        ],
+        "id_str": "1861308613563949057",
+        "id": "1861308613563949057"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

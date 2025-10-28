@@ -1,0 +1,159 @@
+{
+  "id": "1688581613880291328",
+  "id_str": "1688581613880291328",
+  "created_at": "Mon Aug 07 16:03:23 +0000 2023",
+  "text": "RT @LobowSpark: A funny #ADHD press conference…with love and support as always… https://t.co/hBhrNN36uh",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Lobow's SPARK",
+        "screen_name": "LobowSpark",
+        "indices": [
+          "3",
+          "14"
+        ],
+        "id_str": "1383553628888211456",
+        "id": "1383553628888211456"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/LobowSpark/status/1688426349273272320/video/1",
+        "source_status_id": "1688426349273272320",
+        "indices": [
+          "80",
+          "103"
+        ],
+        "url": "https://t.co/hBhrNN36uh",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1688426282617290753/pu/img/A_a0KqgfCCoIM3Ry.jpg",
+        "id_str": "1688426282617290753",
+        "source_user_id": "1383553628888211456",
+        "id": "1688426282617290753",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1688426282617290753/pu/img/A_a0KqgfCCoIM3Ry.jpg",
+        "source_user_id_str": "1383553628888211456",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "720",
+            "h": "1280",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1688426349273272320",
+        "display_url": "pic.x.com/hBhrNN36uh"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "ADHD",
+        "indices": [
+          "24",
+          "29"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/LobowSpark/status/1688426349273272320/video/1",
+        "source_status_id": "1688426349273272320",
+        "indices": [
+          "80",
+          "103"
+        ],
+        "url": "https://t.co/hBhrNN36uh",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1688426282617290753/pu/img/A_a0KqgfCCoIM3Ry.jpg",
+        "id_str": "1688426282617290753",
+        "video_info": {
+          "aspect_ratio": [
+            "9",
+            "16"
+          ],
+          "duration_millis": "53135",
+          "variants": [
+            {
+              "bitrate": "632000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1688426282617290753/pu/vid/320x568/oyYGR3FbOGsO4AL7.mp4?tag=12"
+            },
+            {
+              "bitrate": "950000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1688426282617290753/pu/vid/480x852/hS0fEUnJVlw9oEiu.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1688426282617290753/pu/pl/1lHNS3yOOZrSUm0r.m3u8?tag=12&v=6fd"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1688426282617290753/pu/vid/720x1280/pcNaradZB7urL6Vr.mp4?tag=12"
+            }
+          ]
+        },
+        "source_user_id": "1383553628888211456",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1688426282617290753",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1688426282617290753/pu/img/A_a0KqgfCCoIM3Ry.jpg",
+        "source_user_id_str": "1383553628888211456",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "720",
+            "h": "1280",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1688426349273272320",
+        "display_url": "pic.x.com/hBhrNN36uh"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1682784131233509376",
+  "id_str": "1682784131233509376",
+  "created_at": "Sat Jul 22 16:06:16 +0000 2023",
+  "text": "Ok, progress so far today. \n\nProposal sent. \n\nChat interface built.\n\nBasic chat experience working. Have the chat history stored in both Postgres and Mongo right now, because I wanted to see how they were different in their implementation.\n\nWant to get the site live today. https://t.co/uCK0FRXbKs",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "5",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/uCK0FRXbKs",
+        "expanded_url": "https://x.com/leo_guinan/status/1682753927463223298",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "274",
+          "297"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

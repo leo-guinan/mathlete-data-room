@@ -1,0 +1,125 @@
+{
+  "id": "1799287859318255987",
+  "id_str": "1799287859318255987",
+  "created_at": "Sat Jun 08 03:50:29 +0000 2024",
+  "text": "@yoheinakajima But this is what it looks like https://t.co/HRUuLcnwVf",
+  "in_reply_to_status_id": "1798914799038074915",
+  "in_reply_to_status_id_str": "1798914799038074915",
+  "in_reply_to_user_id": "30439303",
+  "in_reply_to_user_id_str": "30439303",
+  "in_reply_to_screen_name": "yoheinakajima",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Yohei",
+        "screen_name": "yoheinakajima",
+        "indices": [
+          "0",
+          "14"
+        ],
+        "id_str": "30439303",
+        "id": "30439303"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1799287859318255987/photo/1",
+        "indices": [
+          "46",
+          "69"
+        ],
+        "url": "https://t.co/HRUuLcnwVf",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GPhaxO6XYAABmky.jpg",
+        "id_str": "1799287852997500928",
+        "id": "1799287852997500928",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GPhaxO6XYAABmky.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "322",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "322",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "322",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/HRUuLcnwVf"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1799287859318255987/photo/1",
+        "indices": [
+          "46",
+          "69"
+        ],
+        "url": "https://t.co/HRUuLcnwVf",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GPhaxO6XYAABmky.jpg",
+        "id_str": "1799287852997500928",
+        "video_info": {
+          "aspect_ratio": [
+            "240",
+            "161"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GPhaxO6XYAABmky.mp4"
+            }
+          ]
+        },
+        "id": "1799287852997500928",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GPhaxO6XYAABmky.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "322",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "322",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "322",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/HRUuLcnwVf"
+      }
+    ]
+  },
+  "lang": "en"
+}

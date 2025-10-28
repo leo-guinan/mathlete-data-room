@@ -1,0 +1,114 @@
+{
+  "id": "1542322424670208007",
+  "id_str": "1542322424670208007",
+  "created_at": "Thu Jun 30 01:41:35 +0000 2022",
+  "text": "@bytesizedpiecez haha, sometimes that's just what it takes! https://t.co/BGaA5BKdCf",
+  "in_reply_to_status_id": "1542277866523529217",
+  "in_reply_to_status_id_str": "1542277866523529217",
+  "in_reply_to_user_id": "1533297806533726208",
+  "in_reply_to_user_id_str": "1533297806533726208",
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1542322424670208007/photo/1",
+        "indices": [
+          "60",
+          "83"
+        ],
+        "url": "https://t.co/BGaA5BKdCf",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FWduEVWWYAUzUzQ.jpg",
+        "id_str": "1542322418127101957",
+        "id": "1542322418127101957",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWduEVWWYAUzUzQ.jpg",
+        "sizes": {
+          "small": {
+            "w": "350",
+            "h": "498",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "350",
+            "h": "498",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "350",
+            "h": "498",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/BGaA5BKdCf"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1542322424670208007/photo/1",
+        "indices": [
+          "60",
+          "83"
+        ],
+        "url": "https://t.co/BGaA5BKdCf",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FWduEVWWYAUzUzQ.jpg",
+        "id_str": "1542322418127101957",
+        "video_info": {
+          "aspect_ratio": [
+            "175",
+            "249"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FWduEVWWYAUzUzQ.mp4"
+            }
+          ]
+        },
+        "id": "1542322418127101957",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWduEVWWYAUzUzQ.jpg",
+        "sizes": {
+          "small": {
+            "w": "350",
+            "h": "498",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "350",
+            "h": "498",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "350",
+            "h": "498",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/BGaA5BKdCf"
+      }
+    ]
+  },
+  "lang": "en"
+}

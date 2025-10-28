@@ -1,0 +1,61 @@
+{
+  "id": "1432355704023699459",
+  "id_str": "1432355704023699459",
+  "created_at": "Mon Aug 30 14:53:06 +0000 2021",
+  "text": "@SankethYS Launched my first SaaS tool last week! A CRM for Twitter\n\n@feathercrm - https://t.co/bzkHUNjWRW\n\nAnd kicking off the first cohort of #SuperchargeYourTime, a course on automation principles (https://t.co/IqYHTosIuk)",
+  "in_reply_to_status_id": "1432354420059095046",
+  "in_reply_to_status_id_str": "1432354420059095046",
+  "in_reply_to_user_id": "2557106694",
+  "in_reply_to_user_id_str": "2557106694",
+  "in_reply_to_screen_name": "SankethYS",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SuperchargeYourTime",
+        "indices": [
+          "144",
+          "164"
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Sanketh",
+        "screen_name": "SankethYS",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "2557106694",
+        "id": "2557106694"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/bzkHUNjWRW",
+        "expanded_url": "https://feathercrm.io",
+        "display_url": "feathercrm.io",
+        "indices": [
+          "83",
+          "106"
+        ]
+      },
+      {
+        "url": "https://t.co/IqYHTosIuk",
+        "expanded_url": "https://superchargeyourtime.com",
+        "display_url": "superchargeyourtime.com",
+        "indices": [
+          "201",
+          "224"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

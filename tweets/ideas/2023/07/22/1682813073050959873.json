@@ -1,0 +1,33 @@
+{
+  "id": "1682813073050959873",
+  "id_str": "1682813073050959873",
+  "created_at": "Sat Jul 22 18:01:16 +0000 2023",
+  "text": "Decided to go with Mongo for the conversation history.\n\nNow I've got a set of questions that I can ask first when users first sign in and start chatting, and then after that, it passes things off to the AI model.\n\nNow I've got to plug in my prompt + populate the answers https://t.co/Y96Nfwaf9v",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/Y96Nfwaf9v",
+        "expanded_url": "https://x.com/leo_guinan/status/1682784131233509376",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "271",
+          "294"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

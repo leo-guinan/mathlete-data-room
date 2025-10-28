@@ -1,0 +1,23 @@
+{
+  "id": "1778558007061647785",
+  "id_str": "1778558007061647785",
+  "created_at": "Thu Apr 11 22:57:27 +0000 2024",
+  "text": "Just did a bit of refactoring for the submind research step for My AI Cofounder.\n\nI like using Anthropic, but keep hitting rate limits.\n\ngpt-4-turbo is great, but expensive.\n\ngpt-3.5-turbo is ok, but not a large context window.\n\nSo, I ended up doing a recursive summarization step",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

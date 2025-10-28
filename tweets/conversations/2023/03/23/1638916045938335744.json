@@ -1,0 +1,44 @@
+{
+  "id": "1638916045938335744",
+  "id_str": "1638916045938335744",
+  "created_at": "Thu Mar 23 14:50:09 +0000 2023",
+  "text": "@alvarlagerlof @flydotio ah sorry, I misread the question. \n\nYou can use pyenv to control python versions similar to using nvmrc.",
+  "in_reply_to_status_id": "1637455322645241856",
+  "in_reply_to_status_id_str": "1637455322645241856",
+  "in_reply_to_user_id": "3025714996",
+  "in_reply_to_user_id_str": "3025714996",
+  "in_reply_to_screen_name": "alvarlagerlof",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Alvar Lagerlöf",
+        "screen_name": "alvarlagerlof",
+        "indices": [
+          "0",
+          "14"
+        ],
+        "id_str": "3025714996",
+        "id": "3025714996"
+      },
+      {
+        "name": "Fly.io",
+        "screen_name": "flydotio",
+        "indices": [
+          "15",
+          "24"
+        ],
+        "id_str": "836308794774814721",
+        "id": "836308794774814721"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

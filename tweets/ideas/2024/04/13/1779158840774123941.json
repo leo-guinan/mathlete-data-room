@@ -1,0 +1,23 @@
+{
+  "id": "1779158840774123941",
+  "id_str": "1779158840774123941",
+  "created_at": "Sat Apr 13 14:44:57 +0000 2024",
+  "text": "Got the new Submind architecture running in prod yesterday, and after putting it through some tests, realized something important:\n\nI need to limit the amount of research the Submind does.\n\nBased on one question I wrote, it pulled in so much data it was processing it for an hour",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

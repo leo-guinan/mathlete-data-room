@@ -1,0 +1,44 @@
+{
+  "id": "1808498911608283384",
+  "id_str": "1808498911608283384",
+  "created_at": "Wed Jul 03 13:51:55 +0000 2024",
+  "text": "@arvidkahl @bkh_leung I think that's a good idea, honestly, because it avoids the Google problem.\n\nInstead, you are separating out the data from the discovery. This allows multiple search and discovery platforms to co-exist, without trying to squash them as competitors.",
+  "in_reply_to_status_id": "1808494676418179318",
+  "in_reply_to_status_id_str": "1808494676418179318",
+  "in_reply_to_user_id": "343990983",
+  "in_reply_to_user_id_str": "343990983",
+  "in_reply_to_screen_name": "arvidkahl",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Arvid Kahl",
+        "screen_name": "arvidkahl",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "343990983",
+        "id": "343990983"
+      },
+      {
+        "name": "Brian Leung | SwiftAds.io ⏩",
+        "screen_name": "bkh_leung",
+        "indices": [
+          "11",
+          "21"
+        ],
+        "id_str": "293839862",
+        "id": "293839862"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

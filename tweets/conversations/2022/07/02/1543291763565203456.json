@@ -1,0 +1,125 @@
+{
+  "id": "1543291763565203456",
+  "id_str": "1543291763565203456",
+  "created_at": "Sat Jul 02 17:53:24 +0000 2022",
+  "text": "@CSMikeCardona https://t.co/iTz84nLEQo",
+  "in_reply_to_status_id": "1543265430202003461",
+  "in_reply_to_status_id_str": "1543265430202003461",
+  "in_reply_to_user_id": "2904219673",
+  "in_reply_to_user_id_str": "2904219673",
+  "in_reply_to_screen_name": "CSMikeCardona",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Mike Cardona | Automation Alchemist 🧪🔧",
+        "screen_name": "CSMikeCardona",
+        "indices": [
+          "0",
+          "14"
+        ],
+        "id_str": "2904219673",
+        "id": "2904219673"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1543291763565203456/photo/1",
+        "indices": [
+          "15",
+          "38"
+        ],
+        "url": "https://t.co/iTz84nLEQo",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FWrfrRlWAAA3k5C.jpg",
+        "id_str": "1543291756875218944",
+        "id": "1543291756875218944",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWrfrRlWAAA3k5C.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/iTz84nLEQo"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1543291763565203456/photo/1",
+        "indices": [
+          "15",
+          "38"
+        ],
+        "url": "https://t.co/iTz84nLEQo",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FWrfrRlWAAA3k5C.jpg",
+        "id_str": "1543291756875218944",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FWrfrRlWAAA3k5C.mp4"
+            }
+          ]
+        },
+        "id": "1543291756875218944",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWrfrRlWAAA3k5C.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/iTz84nLEQo"
+      }
+    ]
+  },
+  "lang": "qme"
+}

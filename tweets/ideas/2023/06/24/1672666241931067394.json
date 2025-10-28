@@ -1,0 +1,23 @@
+{
+  "id": "1672666241931067394",
+  "id_str": "1672666241931067394",
+  "created_at": "Sat Jun 24 18:01:23 +0000 2023",
+  "text": "So close to getting this automation working. Biggest issue right now: trying to input paragraphs into Notion pages with length &gt; 2000 characters is apparently not supported.\n\nSo creating an N8N node that can split the text into sections of no longer than 1600 characters.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

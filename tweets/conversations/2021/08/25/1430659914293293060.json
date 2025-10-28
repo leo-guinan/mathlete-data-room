@@ -1,0 +1,23 @@
+{
+  "id": "1430659914293293060",
+  "id_str": "1430659914293293060",
+  "created_at": "Wed Aug 25 22:34:38 +0000 2021",
+  "text": "But luckily, the latest version allows me to access a user's session data so I was able to modify the check to just update the users account by ID and not email. \n\nAnd I no longer need to request the user's email from Twitter.\n\nSo that's a plus.",
+  "in_reply_to_status_id": "1430659913487880193",
+  "in_reply_to_status_id_str": "1430659913487880193",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

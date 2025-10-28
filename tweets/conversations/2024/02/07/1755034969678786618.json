@@ -1,0 +1,135 @@
+{
+  "id": "1755034969678786618",
+  "id_str": "1755034969678786618",
+  "created_at": "Wed Feb 07 01:05:18 +0000 2024",
+  "text": "@jposhaughnessy @p_millerd https://t.co/MwVbdqCCYb",
+  "in_reply_to_status_id": "1754894090703954251",
+  "in_reply_to_status_id_str": "1754894090703954251",
+  "in_reply_to_user_id": "28369153",
+  "in_reply_to_user_id_str": "28369153",
+  "in_reply_to_screen_name": "jposhaughnessy",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Jim O'Shaughnessy",
+        "screen_name": "jposhaughnessy",
+        "indices": [
+          "0",
+          "15"
+        ],
+        "id_str": "28369153",
+        "id": "28369153"
+      },
+      {
+        "name": "Paul Millerd",
+        "screen_name": "p_millerd",
+        "indices": [
+          "16",
+          "26"
+        ],
+        "id_str": "14338338",
+        "id": "14338338"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1755034969678786618/photo/1",
+        "indices": [
+          "27",
+          "50"
+        ],
+        "url": "https://t.co/MwVbdqCCYb",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GFsjAEDXwAAVb5h.jpg",
+        "id_str": "1755034963785793536",
+        "id": "1755034963785793536",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GFsjAEDXwAAVb5h.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "300",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "300",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "300",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/MwVbdqCCYb"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1755034969678786618/photo/1",
+        "indices": [
+          "27",
+          "50"
+        ],
+        "url": "https://t.co/MwVbdqCCYb",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GFsjAEDXwAAVb5h.jpg",
+        "id_str": "1755034963785793536",
+        "video_info": {
+          "aspect_ratio": [
+            "8",
+            "5"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GFsjAEDXwAAVb5h.mp4"
+            }
+          ]
+        },
+        "id": "1755034963785793536",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GFsjAEDXwAAVb5h.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "300",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "300",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "300",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/MwVbdqCCYb"
+      }
+    ]
+  },
+  "lang": "qme"
+}

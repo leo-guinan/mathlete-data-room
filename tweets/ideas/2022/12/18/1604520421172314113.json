@@ -1,0 +1,23 @@
+{
+  "id": "1604520421172314113",
+  "id_str": "1604520421172314113",
+  "created_at": "Sun Dec 18 16:54:13 +0000 2022",
+  "text": "Had to do a little bit of productionalization on my servers. \n\nSome things didn't run this morning and I have no idea why. So I added some persistent logging with alerts so that I can be notified when things don't work.\n\nOne of those 15 minute tasks I should have done way sooner",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1776697852304998752",
+  "id_str": "1776697852304998752",
+  "created_at": "Sat Apr 06 19:45:52 +0000 2024",
+  "text": "@eggs_mayhem If you want to take a look through the code, it's all here: https://t.co/zKkd5ajZa7\n\nNot documented yet, and still really messy, but the internet lookup piece is done using Arvid Kahl's Podscan api via my django backend, so it tries to learn stuff from podcasts.",
+  "in_reply_to_status_id": "1776697342726422742",
+  "in_reply_to_status_id_str": "1776697342726422742",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+        "screen_name": "eggs_mayhem",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "1307769479867363328",
+        "id": "1307769479867363328"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/zKkd5ajZa7",
+        "expanded_url": "https://github.com/leo-guinan/submind",
+        "display_url": "github.com/leo-guinan/sub…",
+        "indices": [
+          "73",
+          "96"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

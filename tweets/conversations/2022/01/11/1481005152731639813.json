@@ -1,0 +1,23 @@
+{
+  "id": "1481005152731639813",
+  "id_str": "1481005152731639813",
+  "created_at": "Tue Jan 11 20:48:38 +0000 2022",
+  "text": "start by asking what’s missing:\n\n- are all choices a user could make represented?\n- Are all the variables in the feature well defined?\n\nThen think about what users would do if they were acting maliciously\n\nFinally, consider what is most likely and least likely",
+  "in_reply_to_status_id": "1481005151569813508",
+  "in_reply_to_status_id_str": "1481005151569813508",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

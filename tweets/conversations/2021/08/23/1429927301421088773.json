@@ -1,0 +1,23 @@
+{
+  "id": "1429927301421088773",
+  "id_str": "1429927301421088773",
+  "created_at": "Mon Aug 23 22:03:30 +0000 2021",
+  "text": "Ok, got that figured out. Turns out, I needed to set secureProxy to \"true\" on the passport strategy config.\n\nNot the best documentation, but got it figured out.\n\nAlso, on a side note, if you only get 100 free api requests a month, maybe don't schedule a call every 5 minutes.",
+  "in_reply_to_status_id": "1429916359878746119",
+  "in_reply_to_status_id_str": "1429916359878746119",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

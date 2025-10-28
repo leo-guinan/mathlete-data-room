@@ -1,0 +1,140 @@
+{
+  "id": "1629572574391808001",
+  "id_str": "1629572574391808001",
+  "created_at": "Sat Feb 25 20:02:32 +0000 2023",
+  "text": "Small #BuildInPublic Update from today's work:\n\nI'm continuing to add more functionality for the app, right now focusing on individual podcast episodes.\n\nNew Button: Get Summary. https://t.co/q0yJg6ksbF",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "5",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1629572574391808001/video/1",
+        "indices": [
+          "179",
+          "202"
+        ],
+        "url": "https://t.co/q0yJg6ksbF",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1629572486315536390/pu/img/EH9O0hI6XAbxHNld.jpg",
+        "id_str": "1629572486315536390",
+        "id": "1629572486315536390",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1629572486315536390/pu/img/EH9O0hI6XAbxHNld.jpg",
+        "sizes": {
+          "large": {
+            "w": "1280",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/q0yJg6ksbF"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "BuildInPublic",
+        "indices": [
+          "6",
+          "20"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1629572574391808001/video/1",
+        "indices": [
+          "179",
+          "202"
+        ],
+        "url": "https://t.co/q0yJg6ksbF",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1629572486315536390/pu/img/EH9O0hI6XAbxHNld.jpg",
+        "id_str": "1629572486315536390",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "duration_millis": "45962",
+          "variants": [
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1629572486315536390/pu/vid/1280x720/LGzsQb7fHR5YWxR6.mp4?tag=12"
+            },
+            {
+              "bitrate": "256000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1629572486315536390/pu/vid/480x270/2R5dK-2aj90pITec.mp4?tag=12"
+            },
+            {
+              "bitrate": "832000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1629572486315536390/pu/vid/640x360/-6k5RxvgiaTpJR3w.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1629572486315536390/pu/pl/8Yyqbz-MR5AhLrN0.m3u8?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1629572486315536390",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1629572486315536390/pu/img/EH9O0hI6XAbxHNld.jpg",
+        "sizes": {
+          "large": {
+            "w": "1280",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "display_url": "pic.x.com/q0yJg6ksbF"
+      }
+    ]
+  },
+  "lang": "en"
+}

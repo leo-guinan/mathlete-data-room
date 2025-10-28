@@ -1,0 +1,23 @@
+{
+  "id": "1430516716564623361",
+  "id_str": "1430516716564623361",
+  "created_at": "Wed Aug 25 13:05:37 +0000 2021",
+  "text": "Trying to figure out what's happening with @feathercrm in prod.\n\nI've got a couple of theories.\n\nBest guess right now is that they are taking too long to complete and Vercel ends up dumping the processes. \n\nI'm trying to reduce how many followers I request per call.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

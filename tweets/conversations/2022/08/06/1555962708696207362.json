@@ -1,0 +1,54 @@
+{
+  "id": "1555962708696207362",
+  "id_str": "1555962708696207362",
+  "created_at": "Sat Aug 06 17:03:12 +0000 2022",
+  "text": "@yagudaev @paolaruizglobal @Twitter Nice. I'm using Django for my backend right now and Blitz/NextJS/React as a more of a fullstack-ish frontend,  so a bit of a weird hybrid model but I've found it works with letting me have a shared backend to do certain tasks and then have apps that use it.",
+  "in_reply_to_status_id": "1555960177794301953",
+  "in_reply_to_status_id_str": "1555960177794301953",
+  "in_reply_to_user_id": "238023498",
+  "in_reply_to_user_id_str": "238023498",
+  "in_reply_to_screen_name": "yagudaev",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Michael Yagudaev 🧑🏻‍💻🇨🇦",
+        "screen_name": "yagudaev",
+        "indices": [
+          "0",
+          "9"
+        ],
+        "id_str": "238023498",
+        "id": "238023498"
+      },
+      {
+        "name": "♟️Thestrategysolution",
+        "screen_name": "paolaruizglobal",
+        "indices": [
+          "10",
+          "26"
+        ],
+        "id_str": "845898067",
+        "id": "845898067"
+      },
+      {
+        "name": "Twitter",
+        "screen_name": "twitter",
+        "indices": [
+          "27",
+          "35"
+        ],
+        "id_str": "1683696495198089217",
+        "id": "1683696495198089217"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

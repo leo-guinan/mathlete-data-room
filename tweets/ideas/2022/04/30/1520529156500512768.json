@@ -1,0 +1,23 @@
+{
+  "id": "1520529156500512768",
+  "id_str": "1520529156500512768",
+  "created_at": "Sat Apr 30 22:22:55 +0000 2022",
+  "text": "Ok, went down some rabbit holes trying to get my Django models to come through as JSON. \n\nI ended up dropping back to super simple serialization on a few fields instead of trying to get the ModelSerializer to work.\n\nSince I'm shooting for fast implementation over \"right\".",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "4",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "1562132007899086848",
+  "id_str": "1562132007899086848",
+  "created_at": "Tue Aug 23 17:37:48 +0000 2022",
+  "text": "@gjsequeira Haha, thanks! \n\nWill say, GPT-3 is really good at what it does. I'm actually surprised it went away from the pattern I provided (I focused on 98% of &lt;whoever&gt; do &lt;something&gt; style examples, so was thinking it would give more of those). But it did so in a really powerful way. https://t.co/MWosf5szj6",
+  "in_reply_to_status_id": "1562108814878441474",
+  "in_reply_to_status_id_str": "1562108814878441474",
+  "in_reply_to_user_id": "94181198",
+  "in_reply_to_user_id_str": "94181198",
+  "in_reply_to_screen_name": "gjsequeira",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "GJ Sequeira",
+        "screen_name": "gjsequeira",
+        "indices": [
+          "0",
+          "11"
+        ],
+        "id_str": "94181198",
+        "id": "94181198"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1562132007899086848/photo/1",
+        "indices": [
+          "300",
+          "323"
+        ],
+        "url": "https://t.co/MWosf5szj6",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fa3Ox2xWAAATj7S.jpg",
+        "id_str": "1562132001678819328",
+        "id": "1562132001678819328",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fa3Ox2xWAAATj7S.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/MWosf5szj6"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1562132007899086848/photo/1",
+        "indices": [
+          "300",
+          "323"
+        ],
+        "url": "https://t.co/MWosf5szj6",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fa3Ox2xWAAATj7S.jpg",
+        "id_str": "1562132001678819328",
+        "video_info": {
+          "aspect_ratio": [
+            "4",
+            "3"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Fa3Ox2xWAAATj7S.mp4"
+            }
+          ]
+        },
+        "id": "1562132001678819328",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fa3Ox2xWAAATj7S.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/MWosf5szj6"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "1486352146610200585",
+  "id_str": "1486352146610200585",
+  "created_at": "Wed Jan 26 14:55:41 +0000 2022",
+  "text": "Updated the way I display tweets on @feathercrm this morning. \n\nThey take a little longer to load now, but they look way better and I can take advantage of some already built in functions for modifying the way they display.\nBefore/After https://t.co/Gjxtuim4eR",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1486352146610200585/photo/1",
+        "indices": [
+          "237",
+          "260"
+        ],
+        "url": "https://t.co/Gjxtuim4eR",
+        "media_url": "http://pbs.twimg.com/media/FKCVGXIX0BMzfBd.jpg",
+        "id_str": "1486351813553147923",
+        "id": "1486351813553147923",
+        "media_url_https": "https://pbs.twimg.com/media/FKCVGXIX0BMzfBd.jpg",
+        "sizes": {
+          "medium": {
+            "w": "896",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "508",
+            "h": "680",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1002",
+            "h": "1342",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/Gjxtuim4eR"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1486352146610200585/photo/1",
+        "indices": [
+          "237",
+          "260"
+        ],
+        "url": "https://t.co/Gjxtuim4eR",
+        "media_url": "http://pbs.twimg.com/media/FKCVGXIX0BMzfBd.jpg",
+        "id_str": "1486351813553147923",
+        "id": "1486351813553147923",
+        "media_url_https": "https://pbs.twimg.com/media/FKCVGXIX0BMzfBd.jpg",
+        "sizes": {
+          "medium": {
+            "w": "896",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "508",
+            "h": "680",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1002",
+            "h": "1342",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/Gjxtuim4eR"
+      },
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1486352146610200585/photo/1",
+        "indices": [
+          "237",
+          "260"
+        ],
+        "url": "https://t.co/Gjxtuim4eR",
+        "media_url": "http://pbs.twimg.com/media/FKCVXv3XEAQnPxR.jpg",
+        "id_str": "1486352112250458116",
+        "id": "1486352112250458116",
+        "media_url_https": "https://pbs.twimg.com/media/FKCVXv3XEAQnPxR.jpg",
+        "sizes": {
+          "large": {
+            "w": "1588",
+            "h": "892",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "382",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "674",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/Gjxtuim4eR"
+      }
+    ]
+  },
+  "lang": "en"
+}

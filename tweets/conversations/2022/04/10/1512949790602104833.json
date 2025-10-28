@@ -1,0 +1,120 @@
+{
+  "id": "1512949790602104833",
+  "id_str": "1512949790602104833",
+  "created_at": "Sun Apr 10 00:25:13 +0000 2022",
+  "text": "RT @JohnDiesattheEn: Some of us have been watching the exact same cycle play out since 90s-era IRC chat room days https://t.co/xdGsBIdhaT",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "",
+        "screen_name": "JohnDiesattheEn",
+        "indices": [
+          "3",
+          "19"
+        ],
+        "id_str": "-1",
+        "id": "-1"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/JohnDiesattheEn/status/1510995552573562888/photo/1",
+        "source_status_id": "1510995552573562888",
+        "indices": [
+          "114",
+          "137"
+        ],
+        "url": "https://t.co/xdGsBIdhaT",
+        "media_url": "http://pbs.twimg.com/media/FPgh_gHXIAwCWOy.png",
+        "id_str": "1510995049819086860",
+        "source_user_id": "23404794",
+        "id": "1510995049819086860",
+        "media_url_https": "https://pbs.twimg.com/media/FPgh_gHXIAwCWOy.png",
+        "source_user_id_str": "23404794",
+        "sizes": {
+          "medium": {
+            "w": "800",
+            "h": "797",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "800",
+            "h": "797",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "677",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1510995552573562888",
+        "display_url": "pic.x.com/xdGsBIdhaT"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/JohnDiesattheEn/status/1510995552573562888/photo/1",
+        "source_status_id": "1510995552573562888",
+        "indices": [
+          "114",
+          "137"
+        ],
+        "url": "https://t.co/xdGsBIdhaT",
+        "media_url": "http://pbs.twimg.com/media/FPgh_gHXIAwCWOy.png",
+        "id_str": "1510995049819086860",
+        "source_user_id": "23404794",
+        "id": "1510995049819086860",
+        "media_url_https": "https://pbs.twimg.com/media/FPgh_gHXIAwCWOy.png",
+        "source_user_id_str": "23404794",
+        "sizes": {
+          "medium": {
+            "w": "800",
+            "h": "797",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "800",
+            "h": "797",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "677",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1510995552573562888",
+        "display_url": "pic.x.com/xdGsBIdhaT"
+      }
+    ]
+  },
+  "lang": "en"
+}

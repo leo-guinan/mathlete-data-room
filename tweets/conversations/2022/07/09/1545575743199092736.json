@@ -1,0 +1,125 @@
+{
+  "id": "1545575743199092736",
+  "id_str": "1545575743199092736",
+  "created_at": "Sat Jul 09 01:09:07 +0000 2022",
+  "text": "@robertodigital_ haha, exactly! https://t.co/lWMU9fhiSx",
+  "in_reply_to_status_id": "1545573894286819328",
+  "in_reply_to_status_id_str": "1545573894286819328",
+  "in_reply_to_user_id": "122240174",
+  "in_reply_to_user_id_str": "122240174",
+  "in_reply_to_screen_name": "robertodigital_",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Roberto Robles 😺 🚀",
+        "screen_name": "robertodigital_",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "122240174",
+        "id": "122240174"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1545575743199092736/photo/1",
+        "indices": [
+          "32",
+          "55"
+        ],
+        "url": "https://t.co/lWMU9fhiSx",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FXL88bYXgAA5HXe.jpg",
+        "id_str": "1545575737213812736",
+        "id": "1545575737213812736",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXL88bYXgAA5HXe.jpg",
+        "sizes": {
+          "medium": {
+            "w": "498",
+            "h": "372",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "498",
+            "h": "372",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "498",
+            "h": "372",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/lWMU9fhiSx"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1545575743199092736/photo/1",
+        "indices": [
+          "32",
+          "55"
+        ],
+        "url": "https://t.co/lWMU9fhiSx",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FXL88bYXgAA5HXe.jpg",
+        "id_str": "1545575737213812736",
+        "video_info": {
+          "aspect_ratio": [
+            "83",
+            "62"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FXL88bYXgAA5HXe.mp4"
+            }
+          ]
+        },
+        "id": "1545575737213812736",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXL88bYXgAA5HXe.jpg",
+        "sizes": {
+          "medium": {
+            "w": "498",
+            "h": "372",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "498",
+            "h": "372",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "498",
+            "h": "372",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/lWMU9fhiSx"
+      }
+    ]
+  },
+  "lang": "en"
+}

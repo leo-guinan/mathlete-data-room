@@ -1,0 +1,135 @@
+{
+  "id": "1527452126863151104",
+  "id_str": "1527452126863151104",
+  "created_at": "Fri May 20 00:52:20 +0000 2022",
+  "text": "@amandanat @ShaanVP Respect for the butchery. https://t.co/3QZkV6poGJ",
+  "in_reply_to_status_id": "1527380586670608394",
+  "in_reply_to_status_id_str": "1527380586670608394",
+  "in_reply_to_user_id": "14878237",
+  "in_reply_to_user_id_str": "14878237",
+  "in_reply_to_screen_name": "amandanat",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Amanda Natividad",
+        "screen_name": "amandanat",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "14878237",
+        "id": "14878237"
+      },
+      {
+        "name": "Shaan Puri",
+        "screen_name": "ShaanVP",
+        "indices": [
+          "11",
+          "19"
+        ],
+        "id_str": "101354595",
+        "id": "101354595"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1527452126863151104/photo/1",
+        "indices": [
+          "46",
+          "69"
+        ],
+        "url": "https://t.co/3QZkV6poGJ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FTKZm2sWYBQhJUS.jpg",
+        "id_str": "1527452116427628564",
+        "id": "1527452116427628564",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTKZm2sWYBQhJUS.jpg",
+        "sizes": {
+          "large": {
+            "w": "250",
+            "h": "168",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "250",
+            "h": "168",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "250",
+            "h": "168",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/3QZkV6poGJ"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1527452126863151104/photo/1",
+        "indices": [
+          "46",
+          "69"
+        ],
+        "url": "https://t.co/3QZkV6poGJ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FTKZm2sWYBQhJUS.jpg",
+        "id_str": "1527452116427628564",
+        "video_info": {
+          "aspect_ratio": [
+            "125",
+            "84"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FTKZm2sWYBQhJUS.mp4"
+            }
+          ]
+        },
+        "id": "1527452116427628564",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTKZm2sWYBQhJUS.jpg",
+        "sizes": {
+          "large": {
+            "w": "250",
+            "h": "168",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "250",
+            "h": "168",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "250",
+            "h": "168",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/3QZkV6poGJ"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1942558689636090302",
+  "id_str": "1942558689636090302",
+  "created_at": "Tue Jul 08 12:17:37 +0000 2025",
+  "text": "Realized something interesting about context bleed on social media because of this and now I’m trying to implement a detection algorithm https://t.co/c67zC1octt",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/c67zC1octt",
+        "expanded_url": "https://x.com/leo_guinan/status/1942350327899931071",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "137",
+          "160"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

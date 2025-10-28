@@ -1,0 +1,120 @@
+{
+  "id": "1900542121045549284",
+  "id_str": "1900542121045549284",
+  "created_at": "Fri Mar 14 13:38:46 +0000 2025",
+  "text": "RT @Sauers_: \"Please infer my next prompt and respond accordingly\" https://t.co/u4hbumsxKX",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Sauers",
+        "screen_name": "Sauers_",
+        "indices": [
+          "3",
+          "11"
+        ],
+        "id_str": "1763797553513103360",
+        "id": "1763797553513103360"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/Sauers_/status/1900381116248342936/photo/1",
+        "source_status_id": "1900381116248342936",
+        "indices": [
+          "67",
+          "90"
+        ],
+        "url": "https://t.co/u4hbumsxKX",
+        "media_url": "http://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+        "id_str": "1900381025756188672",
+        "source_user_id": "1763797553513103360",
+        "id": "1900381025756188672",
+        "media_url_https": "https://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+        "source_user_id_str": "1763797553513103360",
+        "sizes": {
+          "large": {
+            "w": "1024",
+            "h": "995",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "1024",
+            "h": "995",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "661",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1900381116248342936",
+        "display_url": "pic.x.com/u4hbumsxKX"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/Sauers_/status/1900381116248342936/photo/1",
+        "source_status_id": "1900381116248342936",
+        "indices": [
+          "67",
+          "90"
+        ],
+        "url": "https://t.co/u4hbumsxKX",
+        "media_url": "http://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+        "id_str": "1900381025756188672",
+        "source_user_id": "1763797553513103360",
+        "id": "1900381025756188672",
+        "media_url_https": "https://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+        "source_user_id_str": "1763797553513103360",
+        "sizes": {
+          "large": {
+            "w": "1024",
+            "h": "995",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "1024",
+            "h": "995",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "661",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1900381116248342936",
+        "display_url": "pic.x.com/u4hbumsxKX"
+      }
+    ]
+  },
+  "lang": "en"
+}

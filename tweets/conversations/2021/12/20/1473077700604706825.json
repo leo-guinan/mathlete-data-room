@@ -1,0 +1,44 @@
+{
+  "id": "1473077700604706825",
+  "id_str": "1473077700604706825",
+  "created_at": "Mon Dec 20 23:47:46 +0000 2021",
+  "text": "@benjamingreeley @PhilipLakin They usually aren't too bad, once you figure them out.\n\nBut they tend to be logically organized and easily searchable.\n\nGroup things together that belong together.  Organize it in modules. Use abstraction to conceal details when they aren't needed, but have the details.",
+  "in_reply_to_status_id": "1473072615417913344",
+  "in_reply_to_status_id_str": "1473072615417913344",
+  "in_reply_to_user_id": "1277959050727239680",
+  "in_reply_to_user_id_str": "1277959050727239680",
+  "in_reply_to_screen_name": "benjamingreeley",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Benjamin C.E.O. Greeley",
+        "screen_name": "benjamingreeley",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "1277959050727239680",
+        "id": "1277959050727239680"
+      },
+      {
+        "name": "Philip Lakin",
+        "screen_name": "PhilipLakin",
+        "indices": [
+          "17",
+          "29"
+        ],
+        "id_str": "2941007140",
+        "id": "2941007140"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

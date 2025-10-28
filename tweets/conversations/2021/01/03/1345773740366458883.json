@@ -1,0 +1,112 @@
+{
+  "id": "1345773740366458883",
+  "id_str": "1345773740366458883",
+  "created_at": "Sun Jan 03 16:47:17 +0000 2021",
+  "text": "@nixw20 Rose says \"boop!\" https://t.co/sFteBXiDiD",
+  "in_reply_to_status_id": "1345773209719857153",
+  "in_reply_to_status_id_str": "1345773209719857153",
+  "in_reply_to_user_id": "2213014429",
+  "in_reply_to_user_id_str": "2213014429",
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "6",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "NiXøw ツ",
+        "screen_name": "NiXw20",
+        "indices": [
+          "0",
+          "7"
+        ],
+        "id_str": "1536259140699533315",
+        "id": "1536259140699533315"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1345773740366458883/photo/1",
+        "indices": [
+          "26",
+          "49"
+        ],
+        "url": "https://t.co/sFteBXiDiD",
+        "media_url": "http://pbs.twimg.com/media/Eq0mFZ7W4AEnA0o.jpg",
+        "id_str": "1345773737954697217",
+        "id": "1345773737954697217",
+        "media_url_https": "https://pbs.twimg.com/media/Eq0mFZ7W4AEnA0o.jpg",
+        "sizes": {
+          "large": {
+            "w": "1536",
+            "h": "2048",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "900",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "510",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/sFteBXiDiD"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1345773740366458883/photo/1",
+        "indices": [
+          "26",
+          "49"
+        ],
+        "url": "https://t.co/sFteBXiDiD",
+        "media_url": "http://pbs.twimg.com/media/Eq0mFZ7W4AEnA0o.jpg",
+        "id_str": "1345773737954697217",
+        "id": "1345773737954697217",
+        "media_url_https": "https://pbs.twimg.com/media/Eq0mFZ7W4AEnA0o.jpg",
+        "sizes": {
+          "large": {
+            "w": "1536",
+            "h": "2048",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "900",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "510",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/sFteBXiDiD"
+      }
+    ]
+  },
+  "lang": "en"
+}

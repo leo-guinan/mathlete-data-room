@@ -1,0 +1,23 @@
+{
+  "id": "1814775327207379440",
+  "id_str": "1814775327207379440",
+  "created_at": "Sat Jul 20 21:32:09 +0000 2024",
+  "text": "Got annoyed by an airtable limitation.\n\nTried to prepopulate a form with existing information, but when trying to do so, airtable's 'send email' functionality was filtering out some characters in the url string, which broke the whole process.\n\nSo I ended up switching over to my…",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

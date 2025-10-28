@@ -1,0 +1,23 @@
+{
+  "id": "1608538657979342848",
+  "id_str": "1608538657979342848",
+  "created_at": "Thu Dec 29 19:01:15 +0000 2022",
+  "text": "Got the main flow working for who followed me, but turns out the number of tweets I pulled ended up being too long to process in some instances. \n\nSo now approaching it a little bit differently. Will have to adjust the way it's done and deploy a fix tonight.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

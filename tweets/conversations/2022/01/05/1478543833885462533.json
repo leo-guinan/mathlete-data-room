@@ -1,0 +1,120 @@
+{
+  "id": "1478543833885462533",
+  "id_str": "1478543833885462533",
+  "created_at": "Wed Jan 05 01:48:14 +0000 2022",
+  "text": "RT @patriciomolina: Minimum Viable Product. https://t.co/2lQAAb88uq",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Pato Molina",
+        "screen_name": "patriciomolina",
+        "indices": [
+          "3",
+          "18"
+        ],
+        "id_str": "1805413653031829504",
+        "id": "1805413653031829504"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/patriciomolina/status/1478486567723233282/photo/1",
+        "source_status_id": "1478486567723233282",
+        "indices": [
+          "44",
+          "67"
+        ],
+        "url": "https://t.co/2lQAAb88uq",
+        "media_url": "http://pbs.twimg.com/media/FISjse7XwAMvjq_.jpg",
+        "id_str": "1478486562296020995",
+        "source_user_id": "14768048",
+        "id": "1478486562296020995",
+        "media_url_https": "https://pbs.twimg.com/media/FISjse7XwAMvjq_.jpg",
+        "source_user_id_str": "14768048",
+        "sizes": {
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "740",
+            "h": "740",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "740",
+            "h": "740",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1478486567723233282",
+        "display_url": "pic.x.com/2lQAAb88uq"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/patriciomolina/status/1478486567723233282/photo/1",
+        "source_status_id": "1478486567723233282",
+        "indices": [
+          "44",
+          "67"
+        ],
+        "url": "https://t.co/2lQAAb88uq",
+        "media_url": "http://pbs.twimg.com/media/FISjse7XwAMvjq_.jpg",
+        "id_str": "1478486562296020995",
+        "source_user_id": "14768048",
+        "id": "1478486562296020995",
+        "media_url_https": "https://pbs.twimg.com/media/FISjse7XwAMvjq_.jpg",
+        "source_user_id_str": "14768048",
+        "sizes": {
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "740",
+            "h": "740",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "740",
+            "h": "740",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1478486567723233282",
+        "display_url": "pic.x.com/2lQAAb88uq"
+      }
+    ]
+  },
+  "lang": "en"
+}

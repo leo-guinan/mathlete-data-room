@@ -1,0 +1,34 @@
+{
+  "id": "1799839075635167723",
+  "id_str": "1799839075635167723",
+  "created_at": "Sun Jun 09 16:20:49 +0000 2024",
+  "text": "@HausOfErostribe Maybe this will help:\n\nEach component is a container. \n\nAnything held as a state will refresh the container it's in anytime it changes. \n\nReact is typically pretty good at optimizing what needs refreshed and when, so use/update the data in the component that needs it.",
+  "in_reply_to_status_id": "1799707619403481568",
+  "in_reply_to_status_id_str": "1799707619403481568",
+  "in_reply_to_user_id": "1327026808726855680",
+  "in_reply_to_user_id_str": "1327026808726855680",
+  "in_reply_to_screen_name": "HausOfErostribe",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Corderosa Amada Kugla",
+        "screen_name": "HausOfErostribe",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "1327026808726855680",
+        "id": "1327026808726855680"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "1709742742140518830",
+  "id_str": "1709742742140518830",
+  "created_at": "Thu Oct 05 01:30:09 +0000 2023",
+  "text": "@jayacunzo @jayclouse @cathrynlavery @businessbarista Ah, so to have a better website I just need to change my name to Jay!\n\nMan, Twitter really is a free university! https://t.co/lPhjjgvDFi",
+  "in_reply_to_status_id": "1709741364752081327",
+  "in_reply_to_status_id_str": "1709741364752081327",
+  "in_reply_to_user_id": "112596381",
+  "in_reply_to_user_id_str": "112596381",
+  "in_reply_to_screen_name": "jayacunzo",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Jay Acunzo",
+        "screen_name": "jayacunzo",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "112596381",
+        "id": "112596381"
+      },
+      {
+        "name": "Jay Clouse",
+        "screen_name": "jayclouse",
+        "indices": [
+          "11",
+          "21"
+        ],
+        "id_str": "45851500",
+        "id": "45851500"
+      },
+      {
+        "name": "Cathryn",
+        "screen_name": "cathrynlavery",
+        "indices": [
+          "22",
+          "36"
+        ],
+        "id_str": "16904662",
+        "id": "16904662"
+      },
+      {
+        "name": "Alex Lieberman",
+        "screen_name": "businessbarista",
+        "indices": [
+          "37",
+          "53"
+        ],
+        "id_str": "846417084192055296",
+        "id": "846417084192055296"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1709742742140518830/photo/1",
+        "indices": [
+          "167",
+          "190"
+        ],
+        "url": "https://t.co/lPhjjgvDFi",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/F7o59E4WIAAatQE.jpg",
+        "id_str": "1709742729985400832",
+        "id": "1709742729985400832",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/F7o59E4WIAAatQE.jpg",
+        "sizes": {
+          "large": {
+            "w": "640",
+            "h": "360",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "640",
+            "h": "360",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "640",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/lPhjjgvDFi"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1709742742140518830/photo/1",
+        "indices": [
+          "167",
+          "190"
+        ],
+        "url": "https://t.co/lPhjjgvDFi",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/F7o59E4WIAAatQE.jpg",
+        "id_str": "1709742729985400832",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/F7o59E4WIAAatQE.mp4"
+            }
+          ]
+        },
+        "id": "1709742729985400832",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/F7o59E4WIAAatQE.jpg",
+        "sizes": {
+          "large": {
+            "w": "640",
+            "h": "360",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "640",
+            "h": "360",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "640",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/lPhjjgvDFi"
+      }
+    ]
+  },
+  "lang": "en"
+}

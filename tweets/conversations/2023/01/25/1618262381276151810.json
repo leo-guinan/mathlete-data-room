@@ -1,0 +1,132 @@
+{
+  "id": "1618262381276151810",
+  "id_str": "1618262381276151810",
+  "created_at": "Wed Jan 25 14:59:52 +0000 2023",
+  "text": "A new episode of How To Scale Yourself, featuring a returning guest, dropping this afternoon: https://t.co/mFWDhTrBEW",
+  "in_reply_to_status_id": "1618262255467896833",
+  "in_reply_to_status_id_str": "1618262255467896833",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1618262381276151810/video/1",
+        "indices": [
+          "94",
+          "117"
+        ],
+        "url": "https://t.co/mFWDhTrBEW",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1618262273306361856/img/lerOPjokT_vm9AkQ.jpg",
+        "id_str": "1618262273306361856",
+        "id": "1618262273306361856",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1618262273306361856/img/lerOPjokT_vm9AkQ.jpg",
+        "sizes": {
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/mFWDhTrBEW"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1618262381276151810/video/1",
+        "indices": [
+          "94",
+          "117"
+        ],
+        "url": "https://t.co/mFWDhTrBEW",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1618262273306361856/img/lerOPjokT_vm9AkQ.jpg",
+        "id_str": "1618262273306361856",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "duration_millis": "47520",
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1618262273306361856/pl/IBv_qrMZ69Ta20Nh.m3u8?tag=14"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1618262273306361856/vid/1280x720/Cxb7wAKRhGGwiQLR.mp4?tag=14"
+            },
+            {
+              "bitrate": "832000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1618262273306361856/vid/640x360/DIkDaQL9c1EXL2h8.mp4?tag=14"
+            },
+            {
+              "bitrate": "288000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1618262273306361856/vid/480x270/d79f1dcPOD1Ym8ZM.mp4?tag=14"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1618262273306361856",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1618262273306361856/img/lerOPjokT_vm9AkQ.jpg",
+        "sizes": {
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "display_url": "pic.x.com/mFWDhTrBEW"
+      }
+    ]
+  },
+  "lang": "en"
+}

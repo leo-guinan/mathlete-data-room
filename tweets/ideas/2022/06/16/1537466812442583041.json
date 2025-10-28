@@ -1,0 +1,23 @@
+{
+  "id": "1537466812442583041",
+  "id_str": "1537466812442583041",
+  "created_at": "Thu Jun 16 16:07:07 +0000 2022",
+  "text": "Ran into an interesting problem. Had 10 Celery processes running while grabbing twitter data and they all ended up hitting the rate limit of the API. And it seems like they aren't releasing at all, so they all keep waiting and then trying again and instantly hitting the limit",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

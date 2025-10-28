@@ -1,0 +1,23 @@
+{
+  "id": "1553445176978309120",
+  "id_str": "1553445176978309120",
+  "created_at": "Sat Jul 30 18:19:26 +0000 2022",
+  "text": "Remember what I said about things breaking and not knowing enough to fix them? Yeah, called that.\n\nI've got the Quirrel instance deployed, but it breaks on the redis connection for some reason, giving me an auth error.\n\nNow wondering if I try fixing, or switch gears.",
+  "in_reply_to_status_id": "1553420324816953348",
+  "in_reply_to_status_id_str": "1553420324816953348",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

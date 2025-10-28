@@ -1,0 +1,137 @@
+{
+  "id": "1932860017834635387",
+  "id_str": "1932860017834635387",
+  "created_at": "Wed Jun 11 17:58:33 +0000 2025",
+  "text": "Let's make the unicorns start cleaning up their shit. https://t.co/WXpL5PyIvF",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1932860017834635387/video/1",
+        "indices": [
+          "54",
+          "77"
+        ],
+        "url": "https://t.co/WXpL5PyIvF",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1932859866252464128/img/8nZ2PdT54mNJeOxo.jpg",
+        "id_str": "1932859866252464128",
+        "id": "1932859866252464128",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1932859866252464128/img/8nZ2PdT54mNJeOxo.jpg",
+        "sizes": {
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/WXpL5PyIvF"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1932860017834635387/video/1",
+        "indices": [
+          "54",
+          "77"
+        ],
+        "url": "https://t.co/WXpL5PyIvF",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1932859866252464128/img/8nZ2PdT54mNJeOxo.jpg",
+        "id_str": "1932859866252464128",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "duration_millis": "64254",
+          "variants": [
+            {
+              "bitrate": "256000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1932859866252464128/vid/avc1/480x270/hiGH37p6GlKQKLvO.mp4"
+            },
+            {
+              "bitrate": "10368000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1932859866252464128/vid/avc1/1920x1080/3Rj8dJYa-MI7EY5h.mp4"
+            },
+            {
+              "bitrate": "832000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1932859866252464128/vid/avc1/640x360/6XFwKTk3-qQYPg7B.mp4"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1932859866252464128/vid/avc1/1280x720/mzOKZaM6VxDFeSAR.mp4"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1932859866252464128/pl/Pt2V4RIV_37uNWBV.m3u8"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1932859866252464128",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1932859866252464128/img/8nZ2PdT54mNJeOxo.jpg",
+        "sizes": {
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "display_url": "pic.x.com/WXpL5PyIvF"
+      }
+    ]
+  },
+  "lang": "en"
+}

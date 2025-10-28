@@ -1,0 +1,23 @@
+{
+  "id": "1524113334383038470",
+  "id_str": "1524113334383038470",
+  "created_at": "Tue May 10 19:45:10 +0000 2022",
+  "text": "Finally get everything working the way I want it using Twitter OAuth 1 login.\n\nHit my api endpoint. \n\nDiscover I need Twitter Oauth2 for that endpoint. \n\nCry.\n\nStart refactoring everything. \n\nGot the front-end working with OAuth2 login.\n\nStill gotta get the backend fixed.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

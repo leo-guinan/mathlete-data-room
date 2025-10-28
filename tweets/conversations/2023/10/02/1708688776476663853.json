@@ -1,0 +1,44 @@
+{
+  "id": "1708688776476663853",
+  "id_str": "1708688776476663853",
+  "created_at": "Mon Oct 02 03:42:04 +0000 2023",
+  "text": "@jasonleowsg @golifelog Depending on how in depth you want to go with it,  it's really not too hard.\n\nHow many pages are we talking about?\n\nBasic approach is to run all the pages through an endpoint that can convert them to Semantic embeddings (like OpenAI, although not the only option), put those in a…",
+  "in_reply_to_status_id": "1708421140027523311",
+  "in_reply_to_status_id_str": "1708421140027523311",
+  "in_reply_to_user_id": "2890893720",
+  "in_reply_to_user_id_str": "2890893720",
+  "in_reply_to_screen_name": "jasonleowsg",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Jason Leow",
+        "screen_name": "jasonleowsg",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "2890893720",
+        "id": "2890893720"
+      },
+      {
+        "name": "Lifelog: Write 100 words a day",
+        "screen_name": "golifelog",
+        "indices": [
+          "13",
+          "23"
+        ],
+        "id_str": "1344096685270605824",
+        "id": "1344096685270605824"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

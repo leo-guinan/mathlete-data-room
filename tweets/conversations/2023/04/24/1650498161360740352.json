@@ -1,0 +1,44 @@
+{
+  "id": "1650498161360740352",
+  "id_str": "1650498161360740352",
+  "created_at": "Mon Apr 24 13:53:21 +0000 2023",
+  "text": "@byhazellim @helloakashm What language are you coding in?\n\nIf python or js, you could look at Langchain. It's a good way to get set up with a really flexible library that uses abstractions that make it almost trivial to swap between chat/complete models as needed.",
+  "in_reply_to_status_id": "1650496869141708802",
+  "in_reply_to_status_id_str": "1650496869141708802",
+  "in_reply_to_user_id": "369113288",
+  "in_reply_to_user_id_str": "369113288",
+  "in_reply_to_screen_name": "byhazellim",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Hazel Lim",
+        "screen_name": "byhazellim",
+        "indices": [
+          "0",
+          "11"
+        ],
+        "id_str": "369113288",
+        "id": "369113288"
+      },
+      {
+        "name": "Akash",
+        "screen_name": "helloakashm",
+        "indices": [
+          "12",
+          "24"
+        ],
+        "id_str": "906776894",
+        "id": "906776894"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1735027744612794562",
+  "id_str": "1735027744612794562",
+  "created_at": "Wed Dec 13 20:03:44 +0000 2023",
+  "text": "@yawnxyz @LangChainAI Yeah, I didn't find anything built in. \n\nI did manage to get it to work though, I just gave the agent a tool that told it the final answer was that it had to wait for a response.\n\nAnd the tool that makes the request passes along a webhook URL that can receive the response from…",
+  "in_reply_to_status_id": "1735026703909671052",
+  "in_reply_to_status_id_str": "1735026703909671052",
+  "in_reply_to_user_id": "1022157402014195712",
+  "in_reply_to_user_id_str": "1022157402014195712",
+  "in_reply_to_screen_name": "yawnxyz",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Jan 🥱",
+        "screen_name": "yawnxyz",
+        "indices": [
+          "0",
+          "8"
+        ],
+        "id_str": "1022157402014195712",
+        "id": "1022157402014195712"
+      },
+      {
+        "name": "LangChain",
+        "screen_name": "LangChainAI",
+        "indices": [
+          "9",
+          "21"
+        ],
+        "id_str": "1589007443853340672",
+        "id": "1589007443853340672"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

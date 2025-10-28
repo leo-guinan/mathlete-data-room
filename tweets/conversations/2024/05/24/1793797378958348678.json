@@ -1,0 +1,125 @@
+{
+  "id": "1793797378958348678",
+  "id_str": "1793797378958348678",
+  "created_at": "Fri May 24 00:13:16 +0000 2024",
+  "text": "@oluadedej Your design skills make my job a lot easier :) https://t.co/VnHSb5qXix",
+  "in_reply_to_status_id": "1793736735895273966",
+  "in_reply_to_status_id_str": "1793736735895273966",
+  "in_reply_to_user_id": "1379146178244268035",
+  "in_reply_to_user_id_str": "1379146178244268035",
+  "in_reply_to_screen_name": "oluadedej",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Olu",
+        "screen_name": "oluadedej",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "1379146178244268035",
+        "id": "1379146178244268035"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1793797378958348678/photo/1",
+        "indices": [
+          "58",
+          "81"
+        ],
+        "url": "https://t.co/VnHSb5qXix",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GOTZNMBWwAAdj6N.jpg",
+        "id_str": "1793797372188737536",
+        "id": "1793797372188737536",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GOTZNMBWwAAdj6N.jpg",
+        "sizes": {
+          "medium": {
+            "w": "220",
+            "h": "146",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "220",
+            "h": "146",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "220",
+            "h": "146",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "146",
+            "h": "146",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/VnHSb5qXix"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1793797378958348678/photo/1",
+        "indices": [
+          "58",
+          "81"
+        ],
+        "url": "https://t.co/VnHSb5qXix",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GOTZNMBWwAAdj6N.jpg",
+        "id_str": "1793797372188737536",
+        "video_info": {
+          "aspect_ratio": [
+            "110",
+            "73"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GOTZNMBWwAAdj6N.mp4"
+            }
+          ]
+        },
+        "id": "1793797372188737536",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GOTZNMBWwAAdj6N.jpg",
+        "sizes": {
+          "medium": {
+            "w": "220",
+            "h": "146",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "220",
+            "h": "146",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "220",
+            "h": "146",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "146",
+            "h": "146",
+            "resize": "crop"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/VnHSb5qXix"
+      }
+    ]
+  },
+  "lang": "en"
+}

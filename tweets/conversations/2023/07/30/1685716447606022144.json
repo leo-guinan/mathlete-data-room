@@ -1,0 +1,23 @@
+{
+  "id": "1685716447606022144",
+  "id_str": "1685716447606022144",
+  "created_at": "Sun Jul 30 18:18:14 +0000 2023",
+  "text": "It took on the personality, but a little too extreme... \n\nSomething I did that made my life easier though: I stored the prompt in a database table that I can grab dynamically, so I don't need to push to prod to tweak it anymore.\n\nWill also give me the ability to split test",
+  "in_reply_to_status_id": "1685715191084838913",
+  "in_reply_to_status_id_str": "1685715191084838913",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

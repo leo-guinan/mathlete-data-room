@@ -1,0 +1,164 @@
+{
+  "id": "1398017655861387269",
+  "id_str": "1398017655861387269",
+  "created_at": "Thu May 27 20:45:57 +0000 2021",
+  "text": "RT @MorningBrew: The last explanation of crypto you'll ever need \n\ncourtesy of @kylascan https://t.co/wpiXf5bJFL",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Morning Brew ☕️",
+        "screen_name": "MorningBrew",
+        "indices": [
+          "3",
+          "15"
+        ],
+        "id_str": "3092541736",
+        "id": "3092541736"
+      },
+      {
+        "name": "Kyla Scanlon",
+        "screen_name": "kylascan",
+        "indices": [
+          "79",
+          "88"
+        ],
+        "id_str": "2725104191",
+        "id": "2725104191"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/MorningBrew/status/1398017073910063105/video/1",
+        "source_status_id": "1398017073910063105",
+        "indices": [
+          "89",
+          "112"
+        ],
+        "url": "https://t.co/wpiXf5bJFL",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1398015162800607238/img/8UY9B2E8DXFcv1aC.jpg",
+        "id_str": "1398015162800607238",
+        "source_user_id": "3092541736",
+        "id": "1398015162800607238",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1398015162800607238/img/8UY9B2E8DXFcv1aC.jpg",
+        "source_user_id_str": "3092541736",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "576",
+            "h": "1024",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "576",
+            "h": "1024",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1398017073910063105",
+        "display_url": "pic.x.com/wpiXf5bJFL"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/MorningBrew/status/1398017073910063105/video/1",
+        "source_status_id": "1398017073910063105",
+        "indices": [
+          "89",
+          "112"
+        ],
+        "url": "https://t.co/wpiXf5bJFL",
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1398015162800607238/img/8UY9B2E8DXFcv1aC.jpg",
+        "id_str": "1398015162800607238",
+        "video_info": {
+          "aspect_ratio": [
+            "9",
+            "16"
+          ],
+          "duration_millis": "58400",
+          "variants": [
+            {
+              "bitrate": "950000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1398015162800607238/vid/480x852/e5q8y6Z2pQ6E4I4V.mp4?tag=14"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1398015162800607238/pl/SLMuGfGtuay9zi2V.m3u8?tag=14"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1398015162800607238/vid/576x1024/HjCZ3cX_qiU2b0id.mp4?tag=14"
+            },
+            {
+              "bitrate": "632000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1398015162800607238/vid/320x568/aOrofNsMaPeJiD9P.mp4?tag=14"
+            }
+          ]
+        },
+        "source_user_id": "3092541736",
+        "additional_media_info": {
+          "title": "Crypto, explained ",
+          "description": "Everyone could use a little brush up on the blockchain",
+          "embeddable": true,
+          "monetizable": false
+        },
+        "id": "1398015162800607238",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1398015162800607238/img/8UY9B2E8DXFcv1aC.jpg",
+        "source_user_id_str": "3092541736",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "576",
+            "h": "1024",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "576",
+            "h": "1024",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1398017073910063105",
+        "display_url": "pic.x.com/wpiXf5bJFL"
+      }
+    ]
+  },
+  "lang": "en"
+}

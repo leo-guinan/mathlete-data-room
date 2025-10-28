@@ -1,0 +1,125 @@
+{
+  "id": "1501930664152682496",
+  "id_str": "1501930664152682496",
+  "created_at": "Thu Mar 10 14:39:09 +0000 2022",
+  "text": "@venturedevelopr https://t.co/JXm7oMexqZ",
+  "in_reply_to_status_id": "1501926541424402432",
+  "in_reply_to_status_id_str": "1501926541424402432",
+  "in_reply_to_user_id": "709352736618192896",
+  "in_reply_to_user_id_str": "709352736618192896",
+  "in_reply_to_screen_name": "venturedevelopr",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "JC | 🇵🇭 's Community & Content Guy",
+        "screen_name": "venturedevelopr",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "709352736618192896",
+        "id": "709352736618192896"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1501930664152682496/photo/1",
+        "indices": [
+          "17",
+          "40"
+        ],
+        "url": "https://t.co/JXm7oMexqZ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNft-VJWQAEOBQW.jpg",
+        "id_str": "1501930655835373569",
+        "id": "1501930655835373569",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNft-VJWQAEOBQW.jpg",
+        "sizes": {
+          "medium": {
+            "w": "498",
+            "h": "300",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "498",
+            "h": "300",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "498",
+            "h": "300",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/JXm7oMexqZ"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1501930664152682496/photo/1",
+        "indices": [
+          "17",
+          "40"
+        ],
+        "url": "https://t.co/JXm7oMexqZ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNft-VJWQAEOBQW.jpg",
+        "id_str": "1501930655835373569",
+        "video_info": {
+          "aspect_ratio": [
+            "83",
+            "50"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FNft-VJWQAEOBQW.mp4"
+            }
+          ]
+        },
+        "id": "1501930655835373569",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNft-VJWQAEOBQW.jpg",
+        "sizes": {
+          "medium": {
+            "w": "498",
+            "h": "300",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "498",
+            "h": "300",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "498",
+            "h": "300",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/JXm7oMexqZ"
+      }
+    ]
+  },
+  "lang": "qme"
+}

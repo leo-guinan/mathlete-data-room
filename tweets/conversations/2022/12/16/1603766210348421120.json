@@ -1,0 +1,34 @@
+{
+  "id": "1603766210348421120",
+  "id_str": "1603766210348421120",
+  "created_at": "Fri Dec 16 14:57:15 +0000 2022",
+  "text": "Starting playing around with @LangChainAI last night.\n\nIt's making some things really easy. First use case is I'm breaking down a large piece of text into chunks and passing the chunks off to GPT-3 for processing.\n\nNow, I've got to give a bit of though to my architecture.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "14",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "LangChain",
+        "screen_name": "LangChainAI",
+        "indices": [
+          "29",
+          "41"
+        ],
+        "id_str": "1589007443853340672",
+        "id": "1589007443853340672"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

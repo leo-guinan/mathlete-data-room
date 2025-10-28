@@ -1,0 +1,138 @@
+{
+  "id": "1337966152627212290",
+  "id_str": "1337966152627212290",
+  "created_at": "Sun Dec 13 03:42:43 +0000 2020",
+  "text": "RT @OptaJack: 3 - @ColumbusCrewSC is the first team to win #MLSCup by a 3-goal margin. Original. https://t.co/P2Sax9XZsm",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "OptaJack⚽️",
+        "screen_name": "OptaJack",
+        "indices": [
+          "3",
+          "12"
+        ],
+        "id_str": "246744451",
+        "id": "246744451"
+      },
+      {
+        "name": "CCSC",
+        "screen_name": "columbuscrewsc",
+        "indices": [
+          "18",
+          "33"
+        ],
+        "id_str": "2792544626",
+        "id": "2792544626"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/OptaJack/status/1337964346551508993/photo/1",
+        "source_status_id": "1337964346551508993",
+        "indices": [
+          "97",
+          "120"
+        ],
+        "url": "https://t.co/P2Sax9XZsm",
+        "media_url": "http://pbs.twimg.com/media/EpFmMNjXMAIxluh.jpg",
+        "id_str": "1337962924288192514",
+        "source_user_id": "246744451",
+        "id": "1337962924288192514",
+        "media_url_https": "https://pbs.twimg.com/media/EpFmMNjXMAIxluh.jpg",
+        "source_user_id_str": "246744451",
+        "sizes": {
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "1500",
+            "h": "1500",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1337964346551508993",
+        "display_url": "pic.x.com/P2Sax9XZsm"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "MLSCup",
+        "indices": [
+          "59",
+          "66"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/OptaJack/status/1337964346551508993/photo/1",
+        "source_status_id": "1337964346551508993",
+        "indices": [
+          "97",
+          "120"
+        ],
+        "url": "https://t.co/P2Sax9XZsm",
+        "media_url": "http://pbs.twimg.com/media/EpFmMNjXMAIxluh.jpg",
+        "id_str": "1337962924288192514",
+        "source_user_id": "246744451",
+        "id": "1337962924288192514",
+        "media_url_https": "https://pbs.twimg.com/media/EpFmMNjXMAIxluh.jpg",
+        "source_user_id_str": "246744451",
+        "sizes": {
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "1500",
+            "h": "1500",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1337964346551508993",
+        "display_url": "pic.x.com/P2Sax9XZsm"
+      }
+    ]
+  },
+  "lang": "en"
+}

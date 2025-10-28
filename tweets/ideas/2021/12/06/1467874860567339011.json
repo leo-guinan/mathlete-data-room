@@ -1,0 +1,23 @@
+{
+  "id": "1467874860567339011",
+  "id_str": "1467874860567339011",
+  "created_at": "Mon Dec 06 15:13:33 +0000 2021",
+  "text": "Spent a bit of time yesterday/this morning bug fixing. Went to test out production and realized my login flow wasn't working correctly if users log in with Twitter. So I ended up removing email login for now and just using Twitter OAuth for now.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

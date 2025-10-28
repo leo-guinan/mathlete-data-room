@@ -1,0 +1,23 @@
+{
+  "id": "1799567478013444433",
+  "id_str": "1799567478013444433",
+  "created_at": "Sat Jun 08 22:21:35 +0000 2024",
+  "text": "Success: got my RAG flow working nicely with the info I got from running the webscraper earlier. \n\nEnded up going with a multiquery retriever that breaks a single question down into multiple questions and that really improved the results I was able to get.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

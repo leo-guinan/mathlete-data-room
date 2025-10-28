@@ -1,0 +1,44 @@
+{
+  "id": "1812605387335438475",
+  "id_str": "1812605387335438475",
+  "created_at": "Sun Jul 14 21:49:35 +0000 2024",
+  "text": "Hmm, this was a weird finding. I've been playing around with @LangChainAI and @trychroma as I prepare to launch my chatbot.\n\nI started seeing some weird retrieval results, and dug in a bit.\n\nTurns out, if I query directly with Chroma, I get excellent results. But when I try to…",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "LangChain",
+        "screen_name": "LangChainAI",
+        "indices": [
+          "61",
+          "73"
+        ],
+        "id_str": "1589007443853340672",
+        "id": "1589007443853340672"
+      },
+      {
+        "name": "Chroma",
+        "screen_name": "trychroma",
+        "indices": [
+          "78",
+          "88"
+        ],
+        "id_str": "1507488634458439685",
+        "id": "1507488634458439685"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

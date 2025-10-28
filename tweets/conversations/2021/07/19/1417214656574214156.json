@@ -1,0 +1,101 @@
+{
+  "id": "1417214656574214156",
+  "id_str": "1417214656574214156",
+  "created_at": "Mon Jul 19 20:07:59 +0000 2021",
+  "text": "A directed graph means that the edges between nodes go in only one direction. \nThe image depicts a cyclic graph because you can go from B to C to E to D and back to B. That's a cycle. https://t.co/0mHyGSt5zH",
+  "in_reply_to_status_id": "1417214652325384202",
+  "in_reply_to_status_id_str": "1417214652325384202",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1417214656574214156/photo/1",
+        "indices": [
+          "184",
+          "207"
+        ],
+        "url": "https://t.co/0mHyGSt5zH",
+        "media_url": "http://pbs.twimg.com/media/E6r1OF5VUAI0qDE.png",
+        "id_str": "1417214655211065346",
+        "id": "1417214655211065346",
+        "media_url_https": "https://pbs.twimg.com/media/E6r1OF5VUAI0qDE.png",
+        "sizes": {
+          "large": {
+            "w": "285",
+            "h": "177",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "285",
+            "h": "177",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "285",
+            "h": "177",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/0mHyGSt5zH"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1417214656574214156/photo/1",
+        "indices": [
+          "184",
+          "207"
+        ],
+        "url": "https://t.co/0mHyGSt5zH",
+        "media_url": "http://pbs.twimg.com/media/E6r1OF5VUAI0qDE.png",
+        "id_str": "1417214655211065346",
+        "id": "1417214655211065346",
+        "media_url_https": "https://pbs.twimg.com/media/E6r1OF5VUAI0qDE.png",
+        "sizes": {
+          "large": {
+            "w": "285",
+            "h": "177",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "285",
+            "h": "177",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "285",
+            "h": "177",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/0mHyGSt5zH"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "1501322285113880581",
+  "id_str": "1501322285113880581",
+  "created_at": "Tue Mar 08 22:21:40 +0000 2022",
+  "text": "@bkh_leung https://t.co/TCuuV1w3eX",
+  "in_reply_to_status_id": "1501320543978590212",
+  "in_reply_to_status_id_str": "1501320543978590212",
+  "in_reply_to_user_id": "293839862",
+  "in_reply_to_user_id_str": "293839862",
+  "in_reply_to_screen_name": "bkh_leung",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Brian Leung | SwiftAds.io ⏩",
+        "screen_name": "bkh_leung",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "293839862",
+        "id": "293839862"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1501322285113880581/photo/1",
+        "indices": [
+          "11",
+          "34"
+        ],
+        "url": "https://t.co/TCuuV1w3eX",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNXEqGfXsAAGJ-k.jpg",
+        "id_str": "1501322278373666816",
+        "id": "1501322278373666816",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNXEqGfXsAAGJ-k.jpg",
+        "sizes": {
+          "large": {
+            "w": "300",
+            "h": "162",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "300",
+            "h": "162",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "300",
+            "h": "162",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/TCuuV1w3eX"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1501322285113880581/photo/1",
+        "indices": [
+          "11",
+          "34"
+        ],
+        "url": "https://t.co/TCuuV1w3eX",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNXEqGfXsAAGJ-k.jpg",
+        "id_str": "1501322278373666816",
+        "video_info": {
+          "aspect_ratio": [
+            "50",
+            "27"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FNXEqGfXsAAGJ-k.mp4"
+            }
+          ]
+        },
+        "id": "1501322278373666816",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNXEqGfXsAAGJ-k.jpg",
+        "sizes": {
+          "large": {
+            "w": "300",
+            "h": "162",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "300",
+            "h": "162",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "300",
+            "h": "162",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/TCuuV1w3eX"
+      }
+    ]
+  },
+  "lang": "qme"
+}

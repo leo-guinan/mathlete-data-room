@@ -1,0 +1,44 @@
+{
+  "id": "1566851765345058816",
+  "id_str": "1566851765345058816",
+  "created_at": "Mon Sep 05 18:12:26 +0000 2022",
+  "text": "@LeeEnglestone @should_unfollow Unfortunately it does. I tried using the newer Oauth 2 implementation but it was too buggy. The token refresh wasn't reliable,  so I switched back to oauth1.1, which has read, read/write, and read/write/DM permissions. \n\nIt's set at read/write which is the lowest for it to work.",
+  "in_reply_to_status_id": "1566851186162110464",
+  "in_reply_to_status_id_str": "1566851186162110464",
+  "in_reply_to_user_id": "21288689",
+  "in_reply_to_user_id_str": "21288689",
+  "in_reply_to_screen_name": "LeeEnglestone",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Lee Englestone 💡🧠👨‍💻🚀",
+        "screen_name": "LeeEnglestone",
+        "indices": [
+          "0",
+          "14"
+        ],
+        "id_str": "21288689",
+        "id": "21288689"
+      },
+      {
+        "name": "Who Should I Unfollow?",
+        "screen_name": "should_unfollow",
+        "indices": [
+          "15",
+          "31"
+        ],
+        "id_str": "1544441682741043203",
+        "id": "1544441682741043203"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

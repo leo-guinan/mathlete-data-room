@@ -1,0 +1,23 @@
+{
+  "id": "1430538101152227333",
+  "id_str": "1430538101152227333",
+  "created_at": "Wed Aug 25 14:30:36 +0000 2021",
+  "text": "And looks like it's starting to work now. \n\nThat's a good sign. Now just got to figure out ways to handle errors if things end up timing out and failing.\n\nCurrently leaning towards having a db table to track requests, logging when they start and removing when complete.",
+  "in_reply_to_status_id": "1430537075430989828",
+  "in_reply_to_status_id_str": "1430537075430989828",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

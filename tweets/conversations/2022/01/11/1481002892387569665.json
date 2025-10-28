@@ -1,0 +1,145 @@
+{
+  "id": "1481002892387569665",
+  "id_str": "1481002892387569665",
+  "created_at": "Tue Jan 11 20:39:39 +0000 2022",
+  "text": "@fernandoparnes @alexisohanian Can confirm that @fernandoparnes is currently seizing it. https://t.co/ZG3QM9hpr3",
+  "in_reply_to_status_id": "1481002020886614017",
+  "in_reply_to_status_id_str": "1481002020886614017",
+  "in_reply_to_user_id": "1136454673521528832",
+  "in_reply_to_user_id_str": "1136454673521528832",
+  "in_reply_to_screen_name": "fernandoparnes",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Fernando Parnes",
+        "screen_name": "fernandoparnes",
+        "indices": [
+          "0",
+          "15"
+        ],
+        "id_str": "1136454673521528832",
+        "id": "1136454673521528832"
+      },
+      {
+        "name": "Alexis Ohanian 🗽",
+        "screen_name": "alexisohanian",
+        "indices": [
+          "16",
+          "30"
+        ],
+        "id_str": "811350",
+        "id": "811350"
+      },
+      {
+        "name": "Fernando Parnes",
+        "screen_name": "fernandoparnes",
+        "indices": [
+          "48",
+          "63"
+        ],
+        "id_str": "1136454673521528832",
+        "id": "1136454673521528832"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1481002892387569665/photo/1",
+        "indices": [
+          "89",
+          "112"
+        ],
+        "url": "https://t.co/ZG3QM9hpr3",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FI2URz5XsAkgFxY.jpg",
+        "id_str": "1481002886184284169",
+        "id": "1481002886184284169",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI2URz5XsAkgFxY.jpg",
+        "sizes": {
+          "large": {
+            "w": "220",
+            "h": "222",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "220",
+            "h": "222",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "220",
+            "h": "222",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/ZG3QM9hpr3"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1481002892387569665/photo/1",
+        "indices": [
+          "89",
+          "112"
+        ],
+        "url": "https://t.co/ZG3QM9hpr3",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FI2URz5XsAkgFxY.jpg",
+        "id_str": "1481002886184284169",
+        "video_info": {
+          "aspect_ratio": [
+            "110",
+            "111"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FI2URz5XsAkgFxY.mp4"
+            }
+          ]
+        },
+        "id": "1481002886184284169",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI2URz5XsAkgFxY.jpg",
+        "sizes": {
+          "large": {
+            "w": "220",
+            "h": "222",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "220",
+            "h": "222",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "220",
+            "h": "222",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/ZG3QM9hpr3"
+      }
+    ]
+  },
+  "lang": "en"
+}

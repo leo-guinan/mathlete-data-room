@@ -1,0 +1,64 @@
+{
+  "id": "1560471462426845185",
+  "id_str": "1560471462426845185",
+  "created_at": "Fri Aug 19 03:39:23 +0000 2022",
+  "text": "@friend_content @goforbg @sanjay_spikey @AnthonyCastrio @GetMakerlog Sorry, looks like my bot has gone a bit rogue. This is not the tweet it should have responded to. It should only respond to mentions. Gotta debug this.. 😂",
+  "in_reply_to_status_id": "1560470864793157633",
+  "in_reply_to_status_id_str": "1560470864793157633",
+  "in_reply_to_user_id": "1549521007370817536",
+  "in_reply_to_user_id_str": "1549521007370817536",
+  "in_reply_to_screen_name": "friend_content",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Friend Content",
+        "screen_name": "friend_content",
+        "indices": [
+          "0",
+          "15"
+        ],
+        "id_str": "1549521007370817536",
+        "id": "1549521007370817536"
+      },
+      {
+        "name": "BG",
+        "screen_name": "goforbg",
+        "indices": [
+          "16",
+          "24"
+        ],
+        "id_str": "2249587110",
+        "id": "2249587110"
+      },
+      {
+        "name": "Anthony Castrio",
+        "screen_name": "AnthonyCastrio",
+        "indices": [
+          "40",
+          "55"
+        ],
+        "id_str": "1309141400",
+        "id": "1309141400"
+      },
+      {
+        "name": "getmakerlog",
+        "screen_name": "getmakerlog",
+        "indices": [
+          "56",
+          "68"
+        ],
+        "id_str": "1768472579017191424",
+        "id": "1768472579017191424"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

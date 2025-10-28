@@ -1,0 +1,112 @@
+{
+  "id": "1952406574116622478",
+  "id_str": "1952406574116622478",
+  "created_at": "Mon Aug 04 16:29:35 +0000 2025",
+  "text": "@andruyeung I agree. \n\nIt’s going to require a high trust layer built on top of the internet. https://t.co/AdSmDRNojx",
+  "in_reply_to_status_id": "1952404812605116464",
+  "in_reply_to_status_id_str": "1952404812605116464",
+  "in_reply_to_user_id": "59711807",
+  "in_reply_to_user_id_str": "59711807",
+  "in_reply_to_screen_name": "andruyeung",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Andrew Yeung",
+        "screen_name": "andruyeung",
+        "indices": [
+          "0",
+          "11"
+        ],
+        "id_str": "59711807",
+        "id": "59711807"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1952406574116622478/photo/1",
+        "indices": [
+          "94",
+          "117"
+        ],
+        "url": "https://t.co/AdSmDRNojx",
+        "media_url": "http://pbs.twimg.com/media/GxhXbkzWgAAyZ41.jpg",
+        "id_str": "1952406569712254976",
+        "id": "1952406569712254976",
+        "media_url_https": "https://pbs.twimg.com/media/GxhXbkzWgAAyZ41.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1073",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1320",
+            "h": "1476",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "608",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/AdSmDRNojx"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1952406574116622478/photo/1",
+        "indices": [
+          "94",
+          "117"
+        ],
+        "url": "https://t.co/AdSmDRNojx",
+        "media_url": "http://pbs.twimg.com/media/GxhXbkzWgAAyZ41.jpg",
+        "id_str": "1952406569712254976",
+        "id": "1952406569712254976",
+        "media_url_https": "https://pbs.twimg.com/media/GxhXbkzWgAAyZ41.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1073",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1320",
+            "h": "1476",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "608",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/AdSmDRNojx"
+      }
+    ]
+  },
+  "lang": "en"
+}

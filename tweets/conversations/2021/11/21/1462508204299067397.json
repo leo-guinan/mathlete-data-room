@@ -1,0 +1,64 @@
+{
+  "id": "1462508204299067397",
+  "id_str": "1462508204299067397",
+  "created_at": "Sun Nov 21 19:48:22 +0000 2021",
+  "text": "@steventey @jones_spencera @prisma @prisma is awesome",
+  "in_reply_to_status_id": "1462506503466733568",
+  "in_reply_to_status_id_str": "1462506503466733568",
+  "in_reply_to_user_id": "334173439",
+  "in_reply_to_user_id_str": "334173439",
+  "in_reply_to_screen_name": "steventey",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "6",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Steven Tey",
+        "screen_name": "steventey",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "334173439",
+        "id": "334173439"
+      },
+      {
+        "name": "Spencer Jones",
+        "screen_name": "jones_spencera",
+        "indices": [
+          "11",
+          "26"
+        ],
+        "id_str": "1268934001852657664",
+        "id": "1268934001852657664"
+      },
+      {
+        "name": "Prisma Postgres",
+        "screen_name": "prisma",
+        "indices": [
+          "27",
+          "34"
+        ],
+        "id_str": "4924429943",
+        "id": "4924429943"
+      },
+      {
+        "name": "Prisma Postgres",
+        "screen_name": "prisma",
+        "indices": [
+          "35",
+          "42"
+        ],
+        "id_str": "4924429943",
+        "id": "4924429943"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

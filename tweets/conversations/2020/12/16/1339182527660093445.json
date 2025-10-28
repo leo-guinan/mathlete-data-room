@@ -1,0 +1,141 @@
+{
+  "id": "1339182527660093445",
+  "id_str": "1339182527660093445",
+  "created_at": "Wed Dec 16 12:16:10 +0000 2020",
+  "text": "RT @C_Campisano: New favorite #Crew96 gif https://t.co/8JMOMIIkDT",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Charles Campisano",
+        "screen_name": "C_Campisano",
+        "indices": [
+          "3",
+          "15"
+        ],
+        "id_str": "519921881",
+        "id": "519921881"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/C_Campisano/status/1338997344113741824/photo/1",
+        "source_status_id": "1338997344113741824",
+        "indices": [
+          "42",
+          "65"
+        ],
+        "url": "https://t.co/8JMOMIIkDT",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpUS-w7XMAARqwh.jpg",
+        "id_str": "1338997333707665408",
+        "source_user_id": "519921881",
+        "id": "1338997333707665408",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpUS-w7XMAARqwh.jpg",
+        "source_user_id_str": "519921881",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1338997344113741824",
+        "display_url": "pic.x.com/8JMOMIIkDT"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "Crew96",
+        "indices": [
+          "30",
+          "37"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/C_Campisano/status/1338997344113741824/photo/1",
+        "source_status_id": "1338997344113741824",
+        "indices": [
+          "42",
+          "65"
+        ],
+        "url": "https://t.co/8JMOMIIkDT",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpUS-w7XMAARqwh.jpg",
+        "id_str": "1338997333707665408",
+        "video_info": {
+          "aspect_ratio": [
+            "4",
+            "3"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/EpUS-w7XMAARqwh.mp4"
+            }
+          ]
+        },
+        "source_user_id": "519921881",
+        "id": "1338997333707665408",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpUS-w7XMAARqwh.jpg",
+        "source_user_id_str": "519921881",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "source_status_id_str": "1338997344113741824",
+        "display_url": "pic.x.com/8JMOMIIkDT"
+      }
+    ]
+  },
+  "lang": "en"
+}

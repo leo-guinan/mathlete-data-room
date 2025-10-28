@@ -1,0 +1,23 @@
+{
+  "id": "1431357262061346825",
+  "id_str": "1431357262061346825",
+  "created_at": "Fri Aug 27 20:45:39 +0000 2021",
+  "text": "New @feathercrm landing page is live!\n\nStill adding in the Stripe integration and usage tracking,  but getting closer. \n\nRealized I had a bug today where users could see all tags added to Twitter users so ended up having to tweak my data model.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

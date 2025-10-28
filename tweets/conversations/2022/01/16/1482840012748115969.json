@@ -1,0 +1,23 @@
+{
+  "id": "1482840012748115969",
+  "id_str": "1482840012748115969",
+  "created_at": "Sun Jan 16 22:19:43 +0000 2022",
+  "text": "And we have a working docker container. And the building of the container takes care of migrating the database.\n\nSo no problems like the one the other day, where I forgot to run the migration against the prod db.\n\nGetting closer...",
+  "in_reply_to_status_id": "1482828938611200005",
+  "in_reply_to_status_id_str": "1482828938611200005",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

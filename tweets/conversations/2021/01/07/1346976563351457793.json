@@ -1,0 +1,135 @@
+{
+  "id": "1346976563351457793",
+  "id_str": "1346976563351457793",
+  "created_at": "Thu Jan 07 00:26:52 +0000 2021",
+  "text": "@TiggsAKAClaudia @AOC https://t.co/YnYnMdwESD",
+  "in_reply_to_status_id": "1346976226871816195",
+  "in_reply_to_status_id_str": "1346976226871816195",
+  "in_reply_to_user_id": "1319108941578530816",
+  "in_reply_to_user_id_str": "1319108941578530816",
+  "in_reply_to_screen_name": "TiggsAKAClaudia",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Claudia AKA Tiggs 🇺🇸 🌊⚖️😷",
+        "screen_name": "TiggsAKAClaudia",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "1319108941578530816",
+        "id": "1319108941578530816"
+      },
+      {
+        "name": "Alexandria Ocasio-Cortez",
+        "screen_name": "AOC",
+        "indices": [
+          "17",
+          "21"
+        ],
+        "id_str": "138203134",
+        "id": "138203134"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1346976563351457793/photo/1",
+        "indices": [
+          "22",
+          "45"
+        ],
+        "url": "https://t.co/YnYnMdwESD",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErFsByvXMAgsUeU.jpg",
+        "id_str": "1346976541616582664",
+        "id": "1346976541616582664",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErFsByvXMAgsUeU.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/YnYnMdwESD"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1346976563351457793/photo/1",
+        "indices": [
+          "22",
+          "45"
+        ],
+        "url": "https://t.co/YnYnMdwESD",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErFsByvXMAgsUeU.jpg",
+        "id_str": "1346976541616582664",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/ErFsByvXMAgsUeU.mp4"
+            }
+          ]
+        },
+        "id": "1346976541616582664",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErFsByvXMAgsUeU.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/YnYnMdwESD"
+      }
+    ]
+  },
+  "lang": "qme"
+}

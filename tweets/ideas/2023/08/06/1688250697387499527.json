@@ -1,0 +1,33 @@
+{
+  "id": "1688250697387499527",
+  "id_str": "1688250697387499527",
+  "created_at": "Sun Aug 06 18:08:27 +0000 2023",
+  "text": "Almost done modifying https://t.co/KphsBfjoF1 to no longer ask default questions. Instead, it builds a profile of the user based on the chat history and extracts the information.\n\nSo the more users ask it, the better it will get.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/KphsBfjoF1",
+        "expanded_url": "http://buildinpublic.coach",
+        "display_url": "buildinpublic.coach",
+        "indices": [
+          "22",
+          "45"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

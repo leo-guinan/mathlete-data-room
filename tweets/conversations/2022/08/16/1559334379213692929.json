@@ -1,0 +1,23 @@
+{
+  "id": "1559334379213692929",
+  "id_str": "1559334379213692929",
+  "created_at": "Tue Aug 16 00:21:01 +0000 2022",
+  "text": "Hmm, had to adjust things again. Didn't want to bump up my redis limit again, so instead, I changed the eviction policy. Now I'll evict some messages from the queue, in an LRU policy, which is the other one Celery recommends. No idea what that will do in practice, so let's see!",
+  "in_reply_to_status_id": "1559323033034178562",
+  "in_reply_to_status_id_str": "1559323033034178562",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

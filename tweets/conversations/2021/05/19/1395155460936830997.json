@@ -1,0 +1,125 @@
+{
+  "id": "1395155460936830997",
+  "id_str": "1395155460936830997",
+  "created_at": "Wed May 19 23:12:37 +0000 2021",
+  "text": "@WhatTheADHD https://t.co/zjcmNlENbd",
+  "in_reply_to_status_id": "1395035069883035656",
+  "in_reply_to_status_id_str": "1395035069883035656",
+  "in_reply_to_user_id": "1341112484476968960",
+  "in_reply_to_user_id_str": "1341112484476968960",
+  "in_reply_to_screen_name": "WhatTheADHD",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "sydni | what in the ADHD?",
+        "screen_name": "WhatTheADHD",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "1341112484476968960",
+        "id": "1341112484476968960"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1395155460936830997/photo/1",
+        "indices": [
+          "13",
+          "36"
+        ],
+        "url": "https://t.co/zjcmNlENbd",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E1yWfn1WYAUCZgB.jpg",
+        "id_str": "1395155454590869509",
+        "id": "1395155454590869509",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1yWfn1WYAUCZgB.jpg",
+        "sizes": {
+          "small": {
+            "w": "496",
+            "h": "368",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "496",
+            "h": "368",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "496",
+            "h": "368",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/zjcmNlENbd"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1395155460936830997/photo/1",
+        "indices": [
+          "13",
+          "36"
+        ],
+        "url": "https://t.co/zjcmNlENbd",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E1yWfn1WYAUCZgB.jpg",
+        "id_str": "1395155454590869509",
+        "video_info": {
+          "aspect_ratio": [
+            "31",
+            "23"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/E1yWfn1WYAUCZgB.mp4"
+            }
+          ]
+        },
+        "id": "1395155454590869509",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1yWfn1WYAUCZgB.jpg",
+        "sizes": {
+          "small": {
+            "w": "496",
+            "h": "368",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "496",
+            "h": "368",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "496",
+            "h": "368",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/zjcmNlENbd"
+      }
+    ]
+  },
+  "lang": "qme"
+}

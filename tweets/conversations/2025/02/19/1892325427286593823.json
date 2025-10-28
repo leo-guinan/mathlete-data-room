@@ -1,0 +1,44 @@
+{
+  "id": "1892325427286593823",
+  "id_str": "1892325427286593823",
+  "created_at": "Wed Feb 19 21:28:34 +0000 2025",
+  "text": "@exgenesis @DefenderOfBasic yeah, I'm working on that part, along with filtering along labelled groups. \n\nI processed all of them to break them down into things like topics, sentiment, predictions, and several other things, and I want to easily see slices of the data. \n\nThis was the first version, and the…",
+  "in_reply_to_status_id": "1892324572193526188",
+  "in_reply_to_status_id_str": "1892324572193526188",
+  "in_reply_to_user_id": "322603863",
+  "in_reply_to_user_id_str": "322603863",
+  "in_reply_to_screen_name": "exgenesis",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "❤️‍🔥 xiq in NYC until Nov 4",
+        "screen_name": "exgenesis",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "322603863",
+        "id": "322603863"
+      },
+      {
+        "name": "Defender",
+        "screen_name": "DefenderOfBasic",
+        "indices": [
+          "11",
+          "27"
+        ],
+        "id_str": "1680757426889342977",
+        "id": "1680757426889342977"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

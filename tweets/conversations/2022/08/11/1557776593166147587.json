@@ -1,0 +1,125 @@
+{
+  "id": "1557776593166147587",
+  "id_str": "1557776593166147587",
+  "created_at": "Thu Aug 11 17:10:56 +0000 2022",
+  "text": "@eggs_mayhem Love the ambition! https://t.co/Ju18gi5D0V",
+  "in_reply_to_status_id": "1557434335141269504",
+  "in_reply_to_status_id_str": "1557434335141269504",
+  "in_reply_to_user_id": "1307769479867363328",
+  "in_reply_to_user_id_str": "1307769479867363328",
+  "in_reply_to_screen_name": "eggs_mayhem",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+        "screen_name": "eggs_mayhem",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "1307769479867363328",
+        "id": "1307769479867363328"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1557776593166147587/photo/1",
+        "indices": [
+          "32",
+          "55"
+        ],
+        "url": "https://t.co/Ju18gi5D0V",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ5VjV6WYAA6KXr.jpg",
+        "id_str": "1557776586782433280",
+        "id": "1557776586782433280",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ5VjV6WYAA6KXr.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/Ju18gi5D0V"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1557776593166147587/photo/1",
+        "indices": [
+          "32",
+          "55"
+        ],
+        "url": "https://t.co/Ju18gi5D0V",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZ5VjV6WYAA6KXr.jpg",
+        "id_str": "1557776586782433280",
+        "video_info": {
+          "aspect_ratio": [
+            "6",
+            "5"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FZ5VjV6WYAA6KXr.mp4"
+            }
+          ]
+        },
+        "id": "1557776586782433280",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZ5VjV6WYAA6KXr.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/Ju18gi5D0V"
+      }
+    ]
+  },
+  "lang": "en"
+}

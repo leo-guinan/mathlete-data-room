@@ -1,0 +1,23 @@
+{
+  "id": "1547064568354045955",
+  "id_str": "1547064568354045955",
+  "created_at": "Wed Jul 13 03:45:10 +0000 2022",
+  "text": "Finally tweaked some things and got issues figured out. Had to fix some error handling and enable retries in some cases. Should be decently solid now. \n\nNeed to add a job that will automatically run accounts that are pending though, in case users step away.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

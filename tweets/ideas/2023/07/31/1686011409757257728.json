@@ -1,0 +1,33 @@
+{
+  "id": "1686011409757257728",
+  "id_str": "1686011409757257728",
+  "created_at": "Mon Jul 31 13:50:19 +0000 2023",
+  "text": "Working on a new feature for https://t.co/KphsBfjoF1: sources.\n\nBasically, when it makes suggestions, I want it to back up it's suggestions with articles from trusted sites, so I'm indexing those sites now.\n\nThen I can add a step to pull them in and pass them to the user.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/KphsBfjoF1",
+        "expanded_url": "http://buildinpublic.coach",
+        "display_url": "buildinpublic.coach",
+        "indices": [
+          "29",
+          "52"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

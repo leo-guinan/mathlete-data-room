@@ -1,0 +1,151 @@
+{
+  "id": "1431437879071420424",
+  "id_str": "1431437879071420424",
+  "created_at": "Sat Aug 28 02:05:59 +0000 2021",
+  "text": "RT @ColumbusCrew: VAMOS COLUMBUS. https://t.co/0Wey9GtshI",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "The Crew",
+        "screen_name": "ColumbusCrew",
+        "indices": [
+          "3",
+          "16"
+        ],
+        "id_str": "16960789",
+        "id": "16960789"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/ColumbusCrew/status/1431422324608311296/video/1",
+        "source_status_id": "1431422324608311296",
+        "indices": [
+          "34",
+          "57"
+        ],
+        "url": "https://t.co/0Wey9GtshI",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431422253812654085/pu/img/fYouIB9paREMqom5.jpg",
+        "id_str": "1431422253812654085",
+        "source_user_id": "16960789",
+        "id": "1431422253812654085",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431422253812654085/pu/img/fYouIB9paREMqom5.jpg",
+        "source_user_id_str": "16960789",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "720",
+            "h": "1280",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1431422324608311296",
+        "display_url": "pic.x.com/0Wey9GtshI"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/ColumbusCrew/status/1431422324608311296/video/1",
+        "source_status_id": "1431422324608311296",
+        "indices": [
+          "34",
+          "57"
+        ],
+        "url": "https://t.co/0Wey9GtshI",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1431422253812654085/pu/img/fYouIB9paREMqom5.jpg",
+        "id_str": "1431422253812654085",
+        "video_info": {
+          "aspect_ratio": [
+            "9",
+            "16"
+          ],
+          "duration_millis": "11700",
+          "variants": [
+            {
+              "bitrate": "632000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1431422253812654085/pu/vid/320x568/cw_Mz7wXsKl9P1ki.mp4?tag=12"
+            },
+            {
+              "bitrate": "950000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1431422253812654085/pu/vid/480x852/5vjzjlHxsKicURzg.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1431422253812654085/pu/pl/ZZw5b8Fu-M9S2Weq.m3u8?tag=12"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1431422253812654085/pu/vid/720x1280/Kh0sO-gDP8FuMIns.mp4?tag=12"
+            }
+          ]
+        },
+        "source_user_id": "16960789",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1431422253812654085",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1431422253812654085/pu/img/fYouIB9paREMqom5.jpg",
+        "source_user_id_str": "16960789",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "720",
+            "h": "1280",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1431422324608311296",
+        "display_url": "pic.x.com/0Wey9GtshI"
+      }
+    ]
+  },
+  "lang": "pt"
+}

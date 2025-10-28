@@ -1,0 +1,23 @@
+{
+  "id": "1777345115880620443",
+  "id_str": "1777345115880620443",
+  "created_at": "Mon Apr 08 14:37:51 +0000 2024",
+  "text": "Pushing out some updates to the submind architecture this morning.\n\n1: Tracking historical mind states. I want to start measuring the learning rate of the submind by looking at the delta after each run.\n2: Sleeping for a minute after each anthropic call. Keep hitting rate limits",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

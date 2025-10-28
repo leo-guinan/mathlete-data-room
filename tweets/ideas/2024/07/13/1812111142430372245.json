@@ -1,0 +1,33 @@
+{
+  "id": "1812111142430372245",
+  "id_str": "1812111142430372245",
+  "created_at": "Sat Jul 13 13:05:38 +0000 2024",
+  "text": "More work on this today. Want to get the chatbot deployed by tomorrow.\n\nCurrently creating embeddings for the content and making sure I can map over to it correctly.\n\nAlso, had another idea for a fun test of what I can do with this: https://t.co/zjbdoB0oP1",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/zjbdoB0oP1",
+        "expanded_url": "https://x.com/leo_guinan/status/1811850631969472571",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "233",
+          "256"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

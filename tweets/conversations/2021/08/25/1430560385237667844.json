@@ -1,0 +1,23 @@
+{
+  "id": "1430560385237667844",
+  "id_str": "1430560385237667844",
+  "created_at": "Wed Aug 25 15:59:09 +0000 2021",
+  "text": "Thinking about getting a bit creative with things. \n\nIm using the same database locally and in production. That's why I initially missed the issues with deploying and running things on prod.\n\nThat gives me an option to set up a queue that runs the api requests locally.",
+  "in_reply_to_status_id": "1430538102133645317",
+  "in_reply_to_status_id_str": "1430538102133645317",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

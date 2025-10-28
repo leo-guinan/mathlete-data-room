@@ -1,0 +1,125 @@
+{
+  "id": "1553771262161424385",
+  "id_str": "1553771262161424385",
+  "created_at": "Sun Jul 31 15:55:11 +0000 2022",
+  "text": "@flybayer Is that a feature or a bug? https://t.co/FZ8twkDCkn",
+  "in_reply_to_status_id": "1553542011189329920",
+  "in_reply_to_status_id_str": "1553542011189329920",
+  "in_reply_to_user_id": "2826554209",
+  "in_reply_to_user_id_str": "2826554209",
+  "in_reply_to_screen_name": "flybayer",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Brandon 🚀 Flightcontrol",
+        "screen_name": "flybayer",
+        "indices": [
+          "0",
+          "9"
+        ],
+        "id_str": "2826554209",
+        "id": "2826554209"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1553771262161424385/photo/1",
+        "indices": [
+          "38",
+          "61"
+        ],
+        "url": "https://t.co/FZ8twkDCkn",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZAauZHWQAgy1kV.jpg",
+        "id_str": "1553771255760830472",
+        "id": "1553771255760830472",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZAauZHWQAgy1kV.jpg",
+        "sizes": {
+          "large": {
+            "w": "498",
+            "h": "498",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "498",
+            "h": "498",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "498",
+            "h": "498",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/FZ8twkDCkn"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1553771262161424385/photo/1",
+        "indices": [
+          "38",
+          "61"
+        ],
+        "url": "https://t.co/FZ8twkDCkn",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZAauZHWQAgy1kV.jpg",
+        "id_str": "1553771255760830472",
+        "video_info": {
+          "aspect_ratio": [
+            "1",
+            "1"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FZAauZHWQAgy1kV.mp4"
+            }
+          ]
+        },
+        "id": "1553771255760830472",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZAauZHWQAgy1kV.jpg",
+        "sizes": {
+          "large": {
+            "w": "498",
+            "h": "498",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "498",
+            "h": "498",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "498",
+            "h": "498",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/FZ8twkDCkn"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "1559271539631177728",
+  "id_str": "1559271539631177728",
+  "created_at": "Mon Aug 15 20:11:19 +0000 2022",
+  "text": "Well, looks like a successful day from a metrics perspective...\n\nThat worker is running pretty hot right now. And RAM is up, but not spiking.\n\nBut watching the logs, might need to bump up the number of threads I'm running Celery workers on. Think I'm a bit backed up.\n\n#LaunchDay https://t.co/yhaoPU8d8a",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1559271539631177728/photo/1",
+        "indices": [
+          "280",
+          "303"
+        ],
+        "url": "https://t.co/yhaoPU8d8a",
+        "media_url": "http://pbs.twimg.com/media/FaOksRAXEAc1Xqe.jpg",
+        "id_str": "1559270976386437127",
+        "id": "1559270976386437127",
+        "media_url_https": "https://pbs.twimg.com/media/FaOksRAXEAc1Xqe.jpg",
+        "sizes": {
+          "large": {
+            "w": "2048",
+            "h": "1303",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "433",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "764",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/yhaoPU8d8a"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "LaunchDay",
+        "indices": [
+          "269",
+          "279"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1559271539631177728/photo/1",
+        "indices": [
+          "280",
+          "303"
+        ],
+        "url": "https://t.co/yhaoPU8d8a",
+        "media_url": "http://pbs.twimg.com/media/FaOksRAXEAc1Xqe.jpg",
+        "id_str": "1559270976386437127",
+        "id": "1559270976386437127",
+        "media_url_https": "https://pbs.twimg.com/media/FaOksRAXEAc1Xqe.jpg",
+        "sizes": {
+          "large": {
+            "w": "2048",
+            "h": "1303",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "433",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "764",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/yhaoPU8d8a"
+      }
+    ]
+  },
+  "lang": "en"
+}

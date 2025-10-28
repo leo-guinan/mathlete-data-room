@@ -1,0 +1,23 @@
+{
+  "id": "1552836642649546753",
+  "id_str": "1552836642649546753",
+  "created_at": "Fri Jul 29 02:01:20 +0000 2022",
+  "text": "But the refresh of the token sometimes just fails. And then is completely broken until the user logs back in again. I thought I had a solution, because I thought the issue was a race condition around how I had the timing of refreshes set.\n\nBut that's not it.",
+  "in_reply_to_status_id": "1552836641219289088",
+  "in_reply_to_status_id_str": "1552836641219289088",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

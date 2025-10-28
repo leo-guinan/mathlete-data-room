@@ -1,0 +1,23 @@
+{
+  "id": "1485356994160693259",
+  "id_str": "1485356994160693259",
+  "created_at": "Sun Jan 23 21:01:18 +0000 2022",
+  "text": "Figuring out how to use getServerSideProps with Blitz.\n\nUsing this to create the validation page. \n\nOnce I started playing with it, pretty straightforward. Need to do it this way so I can make the db calls on page load to validate the token.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,4 +1,4 @@
-# Data Room for meta_athlete
+# Data Room for username
 
 > A structured archive of all content across Twitter, Ghost, Substack, and Medium.
 
@@ -495,8 +495,13 @@
 
 ```
 ├── tweets/
-│   ├── ideas/          # Standalone thoughts
-│   └── conversations/  # Tweets mentioning others
+│   └── YYYY/MM/DD/
+│       ├── ideas/          # Standalone thoughts
+│       │   ├── {tweet-id}.md
+│       │   └── {tweet-id}.json
+│       └── conversations/  # Tweets mentioning others
+│           ├── {tweet-id}.md
+│           └── {tweet-id}.json
 ├── writing/
 │   └── YYYY/MM/DD/
 │       ├── {platform}_{blog}/
@@ -506,7 +511,11 @@
 ├── videos/
 │   └── YYYY/MM/DD/
 │       ├── shorts/     # YouTube Shorts
+│       │   ├── {video-id}.md
+│       │   └── {video-id}.json
 │       └── longform/   # Longform videos
+│           ├── {video-id}.md
+│           └── {video-id}.json
 └── .cache/             # Root-level statistics
 ```
 
@@ -516,9 +525,10 @@ This data room is automatically maintained. Content is organized by date with me
 
 ## 📝 Notes
 
-- All content is preserved with complete metadata
-- Posts are stored as markdown (`.md`) with JSON metadata (`.json`)
-- Tweets are stored as individual JSON files
+- All content follows a consistent format:
+  - Markdown (`.md`) files contain human-readable content with YAML frontmatter
+  - JSON (`.json`) files contain complete metadata for programmatic access
+- Tweets, posts, and videos all follow this same pattern
 - Caching system enables fast statistics calculation
 
 ---

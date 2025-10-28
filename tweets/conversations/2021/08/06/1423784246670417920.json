@@ -1,0 +1,23 @@
+{
+  "id": "1423784246670417920",
+  "id_str": "1423784246670417920",
+  "created_at": "Fri Aug 06 23:13:11 +0000 2021",
+  "text": "In Airflow, you design a workflow as a DAG. \n\nAt its simplest, this is simply a series of tasks.\n\nSo when I'm attempting to build out a workflow, I start by thinking about the tasks that I want to be able to perform. Airflow uses operators to perform the logic in a given step.",
+  "in_reply_to_status_id": "1423784245210800128",
+  "in_reply_to_status_id_str": "1423784245210800128",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

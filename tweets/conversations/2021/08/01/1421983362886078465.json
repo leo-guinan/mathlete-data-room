@@ -1,0 +1,23 @@
+{
+  "id": "1421983362886078465",
+  "id_str": "1421983362886078465",
+  "created_at": "Sun Aug 01 23:57:07 +0000 2021",
+  "text": "Only thing I'm not a huge fan of: to use Heroku postgres, I actually had to set up 2 databases, a regular and a \"shadow\". Apparently it has something to do with how Blitz uses prisma to manage migrations. \n\nBut still, not too bad. Got it working pretty quickly.",
+  "in_reply_to_status_id": "1421979253197971457",
+  "in_reply_to_status_id_str": "1421979253197971457",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

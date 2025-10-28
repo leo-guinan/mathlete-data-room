@@ -1,0 +1,34 @@
+{
+  "id": "1666491644550471694",
+  "id_str": "1666491644550471694",
+  "created_at": "Wed Jun 07 17:05:44 +0000 2023",
+  "text": "New YouTube video premiering now!\n\nUsing @LangChainAI to run a multi-step prompt chain for a chat bot to determine user intent, answer the question, evaluate the response, and determine whether or not to actually share the response or ask for more info.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "LangChain",
+        "screen_name": "LangChainAI",
+        "indices": [
+          "41",
+          "53"
+        ],
+        "id_str": "1589007443853340672",
+        "id": "1589007443853340672"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

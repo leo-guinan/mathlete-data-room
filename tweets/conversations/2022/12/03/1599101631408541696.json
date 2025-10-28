@@ -1,0 +1,54 @@
+{
+  "id": "1599101631408541696",
+  "id_str": "1599101631408541696",
+  "created_at": "Sat Dec 03 18:01:53 +0000 2022",
+  "text": "@mbusigin @eggs_mayhem Have you looked at LangChain? https://t.co/92ntLmWSYY",
+  "in_reply_to_status_id": "1599083846028648448",
+  "in_reply_to_status_id_str": "1599083846028648448",
+  "in_reply_to_user_id": "19111917",
+  "in_reply_to_user_id_str": "19111917",
+  "in_reply_to_screen_name": "mbusigin",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Matt Busigin",
+        "screen_name": "mbusigin",
+        "indices": [
+          "0",
+          "9"
+        ],
+        "id_str": "19111917",
+        "id": "19111917"
+      },
+      {
+        "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+        "screen_name": "eggs_mayhem",
+        "indices": [
+          "10",
+          "22"
+        ],
+        "id_str": "1307769479867363328",
+        "id": "1307769479867363328"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/92ntLmWSYY",
+        "expanded_url": "https://github.com/hwchase17/langchain/",
+        "display_url": "github.com/hwchase17/lang…",
+        "indices": [
+          "53",
+          "76"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

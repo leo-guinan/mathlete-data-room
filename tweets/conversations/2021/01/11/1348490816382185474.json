@@ -1,0 +1,154 @@
+{
+  "id": "1348490816382185474",
+  "id_str": "1348490816382185474",
+  "created_at": "Mon Jan 11 04:43:59 +0000 2021",
+  "text": "RT @Browns: https://t.co/k8FVngdvfW",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Cleveland Browns",
+        "screen_name": "Browns",
+        "indices": [
+          "3",
+          "10"
+        ],
+        "id_str": "40358743",
+        "id": "40358743"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/Browns/status/1348489618379911168/video/1",
+        "source_status_id": "1348489618379911168",
+        "indices": [
+          "12",
+          "35"
+        ],
+        "url": "https://t.co/k8FVngdvfW",
+        "media_url": "http://pbs.twimg.com/media/ErbLIagW8AUm-88.jpg",
+        "id_str": "1348488312747646980",
+        "source_user_id": "40358743",
+        "id": "1348488312747646980",
+        "media_url_https": "https://pbs.twimg.com/media/ErbLIagW8AUm-88.jpg",
+        "source_user_id_str": "40358743",
+        "sizes": {
+          "large": {
+            "w": "1280",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1348489618379911168",
+        "display_url": "pic.x.com/k8FVngdvfW"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/Browns/status/1348489618379911168/video/1",
+        "source_status_id": "1348489618379911168",
+        "indices": [
+          "12",
+          "35"
+        ],
+        "url": "https://t.co/k8FVngdvfW",
+        "media_url": "http://pbs.twimg.com/media/ErbLIagW8AUm-88.jpg",
+        "id_str": "1348488312747646980",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "duration_millis": "2568",
+          "variants": [
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1348488312747646980/vid/1280x720/mmIyEk6u4QQb0lX1.mp4?tag=13"
+            },
+            {
+              "bitrate": "832000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1348488312747646980/vid/640x360/zMzGJi9EePfCsCLa.mp4?tag=13"
+            },
+            {
+              "bitrate": "288000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1348488312747646980/vid/480x270/e9k-NNPKOTe_dT3t.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1348488312747646980/pl/HPaoNazey84QsBlG.m3u8?tag=13"
+            }
+          ]
+        },
+        "source_user_id": "40358743",
+        "additional_media_info": {
+          "title": "",
+          "description": "",
+          "embeddable": true,
+          "monetizable": true
+        },
+        "id": "1348488312747646980",
+        "media_url_https": "https://pbs.twimg.com/media/ErbLIagW8AUm-88.jpg",
+        "source_user_id_str": "40358743",
+        "sizes": {
+          "large": {
+            "w": "1280",
+            "h": "720",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1348489618379911168",
+        "display_url": "pic.x.com/k8FVngdvfW"
+      }
+    ]
+  },
+  "lang": "zxx"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "1590728179031093253",
+  "id_str": "1590728179031093253",
+  "created_at": "Thu Nov 10 15:28:46 +0000 2022",
+  "text": "@GuideHQ_ https://t.co/CpeGPzBQpc",
+  "in_reply_to_status_id": "1590058827273363457",
+  "in_reply_to_status_id_str": "1590058827273363457",
+  "in_reply_to_user_id": "1123766791371620353",
+  "in_reply_to_user_id_str": "1123766791371620353",
+  "in_reply_to_screen_name": "GuideHQ_",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Guide | Talent Experience Solutions & Services...",
+        "screen_name": "GuideHQ_",
+        "indices": [
+          "0",
+          "9"
+        ],
+        "id_str": "1123766791371620353",
+        "id": "1123766791371620353"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1590728179031093253/photo/1",
+        "indices": [
+          "10",
+          "33"
+        ],
+        "url": "https://t.co/CpeGPzBQpc",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FhNm2FbXoAATZsB.jpg",
+        "id_str": "1590728172747857920",
+        "id": "1590728172747857920",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FhNm2FbXoAATZsB.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/CpeGPzBQpc"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1590728179031093253/photo/1",
+        "indices": [
+          "10",
+          "33"
+        ],
+        "url": "https://t.co/CpeGPzBQpc",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FhNm2FbXoAATZsB.jpg",
+        "id_str": "1590728172747857920",
+        "video_info": {
+          "aspect_ratio": [
+            "6",
+            "5"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FhNm2FbXoAATZsB.mp4"
+            }
+          ]
+        },
+        "id": "1590728172747857920",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FhNm2FbXoAATZsB.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/CpeGPzBQpc"
+      }
+    ]
+  },
+  "lang": "qme"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1605247740182728705",
+  "id_str": "1605247740182728705",
+  "created_at": "Tue Dec 20 17:04:19 +0000 2022",
+  "text": "Worked on a couple of bug fixes for Who Followed Me? last night. \n\nThink I've knocked the majority out now. A couple of accounts who didn't finish the signup process ended up stopping the flow, so put in some handling for that state.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "4",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

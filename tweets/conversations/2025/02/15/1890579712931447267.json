@@ -1,0 +1,151 @@
+{
+  "id": "1890579712931447267",
+  "id_str": "1890579712931447267",
+  "created_at": "Sat Feb 15 01:51:43 +0000 2025",
+  "text": "RT @JustinAllingham: I did. It worked and it changed everything. https://t.co/m03CxO1zYZ",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Justin Allingham",
+        "screen_name": "JustinAllingham",
+        "indices": [
+          "3",
+          "19"
+        ],
+        "id_str": "2918253344",
+        "id": "2918253344"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/JustinAllingham/status/1890576081356238876/video/1",
+        "source_status_id": "1890576081356238876",
+        "indices": [
+          "65",
+          "88"
+        ],
+        "url": "https://t.co/m03CxO1zYZ",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1890575478819524608/pu/img/yulmjlaqcUfldb8r.jpg",
+        "id_str": "1890575478819524608",
+        "source_user_id": "2918253344",
+        "id": "1890575478819524608",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1890575478819524608/pu/img/yulmjlaqcUfldb8r.jpg",
+        "source_user_id_str": "2918253344",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1080",
+            "h": "1920",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1890576081356238876",
+        "display_url": "pic.x.com/m03CxO1zYZ"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/JustinAllingham/status/1890576081356238876/video/1",
+        "source_status_id": "1890576081356238876",
+        "indices": [
+          "65",
+          "88"
+        ],
+        "url": "https://t.co/m03CxO1zYZ",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1890575478819524608/pu/img/yulmjlaqcUfldb8r.jpg",
+        "id_str": "1890575478819524608",
+        "video_info": {
+          "aspect_ratio": [
+            "9",
+            "16"
+          ],
+          "duration_millis": "43221",
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1890575478819524608/pu/pl/4JisgLLFhQGSgDCg.m3u8?tag=12"
+            },
+            {
+              "bitrate": "950000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1890575478819524608/pu/vid/avc1/480x852/sxxf42s99CtZaBbh.mp4?tag=12"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1890575478819524608/pu/vid/avc1/720x1280/-wwsGOuljenaAtgo.mp4?tag=12"
+            },
+            {
+              "bitrate": "632000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1890575478819524608/pu/vid/avc1/320x568/3E1o08au2H15Lym_.mp4?tag=12"
+            }
+          ]
+        },
+        "source_user_id": "2918253344",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1890575478819524608",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1890575478819524608/pu/img/yulmjlaqcUfldb8r.jpg",
+        "source_user_id_str": "2918253344",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1080",
+            "h": "1920",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1890576081356238876",
+        "display_url": "pic.x.com/m03CxO1zYZ"
+      }
+    ]
+  },
+  "lang": "en"
+}

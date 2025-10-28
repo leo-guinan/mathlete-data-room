@@ -1,0 +1,23 @@
+{
+  "id": "1468992129783537664",
+  "id_str": "1468992129783537664",
+  "created_at": "Thu Dec 09 17:13:10 +0000 2021",
+  "text": "Spent a few hours on a problem with @feathercrm . It wasn't working in prod, so I started troubleshooting last night. Went through a process of figuring out how to run a self-hosted component of my stack.\n\nThen realized I just needed to add an environment variable.\n\nNow it works!",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

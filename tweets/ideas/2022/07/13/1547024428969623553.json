@@ -1,0 +1,23 @@
+{
+  "id": "1547024428969623553",
+  "id_str": "1547024428969623553",
+  "created_at": "Wed Jul 13 01:05:40 +0000 2022",
+  "text": "Have been trying to figure out some really weird behavior on my app. It was triggering things and then hitting limits that didn't seem to exist.\n\nRealized I had mixed up 2 sets of keys. My api key and secret were for 1 account and my client ID and secret were for another.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

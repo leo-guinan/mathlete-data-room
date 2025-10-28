@@ -1,0 +1,44 @@
+{
+  "id": "1787940608872526245",
+  "id_str": "1787940608872526245",
+  "created_at": "Tue May 07 20:20:34 +0000 2024",
+  "text": "@FounderKyle @oluadedej That's actually ok. One of the things that I really like about this architecture is that if something is asked that it doesn't know, it can pass that message back to you.\n\nOnce you answer it, it can then remember it and pass the answer along to the person who asked it.",
+  "in_reply_to_status_id": "1787939354310025592",
+  "in_reply_to_status_id_str": "1787939354310025592",
+  "in_reply_to_user_id": "562325716",
+  "in_reply_to_user_id_str": "562325716",
+  "in_reply_to_screen_name": "FounderKyle",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Founder Kyle",
+        "screen_name": "FounderKyle",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "562325716",
+        "id": "562325716"
+      },
+      {
+        "name": "Olu",
+        "screen_name": "oluadedej",
+        "indices": [
+          "13",
+          "23"
+        ],
+        "id_str": "1379146178244268035",
+        "id": "1379146178244268035"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

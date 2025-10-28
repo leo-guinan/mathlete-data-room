@@ -1,0 +1,112 @@
+{
+  "id": "1974087286141890813",
+  "id_str": "1974087286141890813",
+  "created_at": "Fri Oct 03 12:21:00 +0000 2025",
+  "text": "Is @ManifoldMarkets having issues with their SSL for anyone else? I went to try to onboard people from my community and I can't pull up the site. https://t.co/uM83D1UBuM",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Manifold",
+        "screen_name": "ManifoldMarkets",
+        "indices": [
+          "3",
+          "19"
+        ],
+        "id_str": "1466559813752606725",
+        "id": "1466559813752606725"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1974087286141890813/photo/1",
+        "indices": [
+          "146",
+          "169"
+        ],
+        "url": "https://t.co/uM83D1UBuM",
+        "media_url": "http://pbs.twimg.com/media/G2Vd1buWUAEk50D.jpg",
+        "id_str": "1974087184228438017",
+        "id": "1974087184228438017",
+        "media_url_https": "https://pbs.twimg.com/media/G2Vd1buWUAEk50D.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "958",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "2048",
+            "h": "1636",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "543",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/uM83D1UBuM"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1974087286141890813/photo/1",
+        "indices": [
+          "146",
+          "169"
+        ],
+        "url": "https://t.co/uM83D1UBuM",
+        "media_url": "http://pbs.twimg.com/media/G2Vd1buWUAEk50D.jpg",
+        "id_str": "1974087184228438017",
+        "id": "1974087184228438017",
+        "media_url_https": "https://pbs.twimg.com/media/G2Vd1buWUAEk50D.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "958",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "2048",
+            "h": "1636",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "543",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/uM83D1UBuM"
+      }
+    ]
+  },
+  "lang": "en"
+}

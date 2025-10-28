@@ -1,0 +1,23 @@
+{
+  "id": "1778558008605204689",
+  "id_str": "1778558008605204689",
+  "created_at": "Thu Apr 11 22:57:27 +0000 2024",
+  "text": "instead of trying to put all of the results into a single prompt and combining them into an answer, I instead use one result at a time and simply update the answer with information from the new snippet. And I cascade through models, starting with claude -&gt; gpt-3.5, -&gt; 4",
+  "in_reply_to_status_id": "1778558007061647785",
+  "in_reply_to_status_id_str": "1778558007061647785",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

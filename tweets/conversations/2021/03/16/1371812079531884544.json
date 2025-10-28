@@ -1,0 +1,44 @@
+{
+  "id": "1371812079531884544",
+  "id_str": "1371812079531884544",
+  "created_at": "Tue Mar 16 13:14:21 +0000 2021",
+  "text": "Working on redoing the @net_defi site today. Still using @Ghost as the backend/admin but creating a @GatsbyJS front end. Learning how to push to s3 and serve the static site from there. There is a ton to learning AWS, but the more I do, the more I realize I am just scratching",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Ghost",
+        "screen_name": "Ghost",
+        "indices": [
+          "57",
+          "63"
+        ],
+        "id_str": "767545134",
+        "id": "767545134"
+      },
+      {
+        "name": "Gatsby",
+        "screen_name": "GatsbyJS",
+        "indices": [
+          "100",
+          "109"
+        ],
+        "id_str": "3227338044",
+        "id": "3227338044"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

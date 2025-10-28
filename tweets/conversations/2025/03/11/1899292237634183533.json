@@ -1,0 +1,44 @@
+{
+  "id": "1899292237634183533",
+  "id_str": "1899292237634183533",
+  "created_at": "Tue Mar 11 02:52:11 +0000 2025",
+  "text": "@janwilmake Absolutely. I've got a cloudflare worker up that sits in front of the airtable database.\n\nhttps://t.co/l5d9iXRLXK\n\nJust let me know where you want to call it from and I can update the CORS to support it :)",
+  "in_reply_to_status_id": "1899289260806541724",
+  "in_reply_to_status_id_str": "1899289260806541724",
+  "in_reply_to_user_id": "153933445",
+  "in_reply_to_user_id_str": "153933445",
+  "in_reply_to_screen_name": "janwilmake",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Jan Wilmake",
+        "screen_name": "janwilmake",
+        "indices": [
+          "0",
+          "11"
+        ],
+        "id_str": "153933445",
+        "id": "153933445"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/l5d9iXRLXK",
+        "expanded_url": "https://github.com/leo-guinan/weird-powers-rebellion/blob/main/src/lib/airtable-funding.ts",
+        "display_url": "github.com/leo-guinan/wei…",
+        "indices": [
+          "102",
+          "125"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

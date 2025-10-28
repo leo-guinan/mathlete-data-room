@@ -1,0 +1,33 @@
+{
+  "id": "1892015792683639163",
+  "id_str": "1892015792683639163",
+  "created_at": "Wed Feb 19 00:58:11 +0000 2025",
+  "text": "Now that I'm done crying, I'm re-running it. \n\nThis time, I'm saving intermediate states in sqlite and running batches in parallel. \n\nShould be faster and more robust now.\n\nVibe coding with the L in this case initially. Good thing 03-mini is cheap! https://t.co/XtQP50qpTh",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/XtQP50qpTh",
+        "expanded_url": "https://x.com/leo_guinan/status/1891847127933874317",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "249",
+          "272"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1814779830610665926",
+  "id_str": "1814779830610665926",
+  "created_at": "Sat Jul 20 21:50:03 +0000 2024",
+  "text": "@amasad I also think there's something about explicit vs implicit context. AI focused IDEs try to have the full context, but a lot of times, that ends up misdirecting the LLMs attention.\n\nIn Claude, the engineer dictates the context and adds more as needed.\nhttps://t.co/oMibOsI7Za",
+  "in_reply_to_status_id": "1814745896179175621",
+  "in_reply_to_status_id_str": "1814745896179175621",
+  "in_reply_to_user_id": "166138615",
+  "in_reply_to_user_id_str": "166138615",
+  "in_reply_to_screen_name": "amasad",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Amjad Masad",
+        "screen_name": "amasad",
+        "indices": [
+          "0",
+          "7"
+        ],
+        "id_str": "166138615",
+        "id": "166138615"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/oMibOsI7Za",
+        "expanded_url": "https://x.com/leo_guinan/status/1813570285339029646?t=gPuj3AV7sIoXGFV_UeDcYw&s=19",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "258",
+          "281"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

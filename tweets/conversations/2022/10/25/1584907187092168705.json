@@ -1,0 +1,44 @@
+{
+  "id": "1584907187092168705",
+  "id_str": "1584907187092168705",
+  "created_at": "Tue Oct 25 13:58:14 +0000 2022",
+  "text": "Ok, testing out the new feature for @YourSMGarden:\n\nhttps://t.co/6ubT6bk4or\n\nThis link should include an in-tweet player with the podcast episode.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Social Media Gardens",
+        "screen_name": "YourSMGarden",
+        "indices": [
+          "36",
+          "49"
+        ],
+        "id_str": "1568995210998194176",
+        "id": "1568995210998194176"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/6ubT6bk4or",
+        "expanded_url": "https://app.socialmediagardens.com/content/15",
+        "display_url": "app.socialmediagardens.com/content/15",
+        "indices": [
+          "52",
+          "75"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1533598964766986242",
+  "id_str": "1533598964766986242",
+  "created_at": "Sun Jun 05 23:57:40 +0000 2022",
+  "text": "Weird question going out to anyone who's using headlessUI and multiple Switch components:\n\nWhat's the best way to handle those changes? I've got a table of records, each with a switch. Should I just keep a map of records and update all of them each time one is changed?",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

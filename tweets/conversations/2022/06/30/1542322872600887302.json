@@ -1,0 +1,125 @@
+{
+  "id": "1542322872600887302",
+  "id_str": "1542322872600887302",
+  "created_at": "Thu Jun 30 01:43:22 +0000 2022",
+  "text": "@juliafmorgado Pretty sure some gremlins got into the code I've been stuck in. \n\nthat's about the only explanation that makes sense at this point. Maybe they're spreading? https://t.co/YoSdBoomEb",
+  "in_reply_to_status_id": "1542275710387101698",
+  "in_reply_to_status_id_str": "1542275710387101698",
+  "in_reply_to_user_id": "1070855057564782594",
+  "in_reply_to_user_id_str": "1070855057564782594",
+  "in_reply_to_screen_name": "juliafmorgado",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Julia Furst Morgado",
+        "screen_name": "juliafmorgado",
+        "indices": [
+          "0",
+          "14"
+        ],
+        "id_str": "1070855057564782594",
+        "id": "1070855057564782594"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1542322872600887302/photo/1",
+        "indices": [
+          "172",
+          "195"
+        ],
+        "url": "https://t.co/YoSdBoomEb",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FWdueclXoAAGrmm.jpg",
+        "id_str": "1542322866745745408",
+        "id": "1542322866745745408",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWdueclXoAAGrmm.jpg",
+        "sizes": {
+          "large": {
+            "w": "498",
+            "h": "278",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "498",
+            "h": "278",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "498",
+            "h": "278",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/YoSdBoomEb"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1542322872600887302/photo/1",
+        "indices": [
+          "172",
+          "195"
+        ],
+        "url": "https://t.co/YoSdBoomEb",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FWdueclXoAAGrmm.jpg",
+        "id_str": "1542322866745745408",
+        "video_info": {
+          "aspect_ratio": [
+            "249",
+            "139"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FWdueclXoAAGrmm.mp4"
+            }
+          ]
+        },
+        "id": "1542322866745745408",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FWdueclXoAAGrmm.jpg",
+        "sizes": {
+          "large": {
+            "w": "498",
+            "h": "278",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "498",
+            "h": "278",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "498",
+            "h": "278",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/YoSdBoomEb"
+      }
+    ]
+  },
+  "lang": "en"
+}

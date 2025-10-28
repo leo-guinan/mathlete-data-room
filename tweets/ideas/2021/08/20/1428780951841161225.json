@@ -1,0 +1,23 @@
+{
+  "id": "1428780951841161225",
+  "id_str": "1428780951841161225",
+  "created_at": "Fri Aug 20 18:08:19 +0000 2021",
+  "text": "Ok, so I've gotten the search working on @feathercrm . But I'm running into an issue on commit. \n\nI refactored the project and screwed up what typescript thought it knew. So now, when I try to commit the code to my repo, the checks blow up because it",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

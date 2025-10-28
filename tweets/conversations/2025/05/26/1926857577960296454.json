@@ -1,0 +1,112 @@
+{
+  "id": "1926857577960296454",
+  "id_str": "1926857577960296454",
+  "created_at": "Mon May 26 04:27:00 +0000 2025",
+  "text": "@mykola It's twitter, but with verified ideas. And the criteria for verified ideas is determined locally, not globally, so it allows for any type of information network to emerge.\n\nWe'll be able to use the RhizomeDB at various layers to capture deltas and compare across resolutions. https://t.co/AqPG18m8KP",
+  "in_reply_to_status_id": "1926856028777288189",
+  "in_reply_to_status_id_str": "1926856028777288189",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Your friend Myk 🌻🍉",
+        "screen_name": "mykola",
+        "indices": [
+          "0",
+          "7"
+        ],
+        "id_str": "5614412",
+        "id": "5614412"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1926857577960296454/photo/1",
+        "indices": [
+          "284",
+          "307"
+        ],
+        "url": "https://t.co/AqPG18m8KP",
+        "media_url": "http://pbs.twimg.com/media/Gr2SPw3X0AAY-Vu.png",
+        "id_str": "1926857015097282560",
+        "id": "1926857015097282560",
+        "media_url_https": "https://pbs.twimg.com/media/Gr2SPw3X0AAY-Vu.png",
+        "sizes": {
+          "large": {
+            "w": "1838",
+            "h": "912",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "595",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "337",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/AqPG18m8KP"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1926857577960296454/photo/1",
+        "indices": [
+          "284",
+          "307"
+        ],
+        "url": "https://t.co/AqPG18m8KP",
+        "media_url": "http://pbs.twimg.com/media/Gr2SPw3X0AAY-Vu.png",
+        "id_str": "1926857015097282560",
+        "id": "1926857015097282560",
+        "media_url_https": "https://pbs.twimg.com/media/Gr2SPw3X0AAY-Vu.png",
+        "sizes": {
+          "large": {
+            "w": "1838",
+            "h": "912",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "1200",
+            "h": "595",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "337",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/AqPG18m8KP"
+      }
+    ]
+  },
+  "lang": "en"
+}

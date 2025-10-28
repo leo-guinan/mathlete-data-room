@@ -1,0 +1,146 @@
+{
+  "id": "1892678169716535441",
+  "id_str": "1892678169716535441",
+  "created_at": "Thu Feb 20 20:50:14 +0000 2025",
+  "text": "RT @exgenesis: welcome to the hackathon!! https://t.co/beXBoVy6cZ",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "❤️‍🔥 xiq in NYC until Nov 4",
+        "screen_name": "exgenesis",
+        "indices": [
+          "3",
+          "13"
+        ],
+        "id_str": "322603863",
+        "id": "322603863"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/exgenesis/status/1892646530143625500/video/1",
+        "source_status_id": "1892646530143625500",
+        "indices": [
+          "42",
+          "65"
+        ],
+        "url": "https://t.co/beXBoVy6cZ",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1892646466235047936/pu/img/h3TScymGCfL_D2kQ.jpg",
+        "id_str": "1892646466235047936",
+        "source_user_id": "322603863",
+        "id": "1892646466235047936",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1892646466235047936/pu/img/h3TScymGCfL_D2kQ.jpg",
+        "source_user_id_str": "322603863",
+        "sizes": {
+          "small": {
+            "w": "372",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "464",
+            "h": "848",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "464",
+            "h": "848",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1892646530143625500",
+        "display_url": "pic.x.com/beXBoVy6cZ"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/exgenesis/status/1892646530143625500/video/1",
+        "source_status_id": "1892646530143625500",
+        "indices": [
+          "42",
+          "65"
+        ],
+        "url": "https://t.co/beXBoVy6cZ",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1892646466235047936/pu/img/h3TScymGCfL_D2kQ.jpg",
+        "id_str": "1892646466235047936",
+        "video_info": {
+          "aspect_ratio": [
+            "29",
+            "53"
+          ],
+          "duration_millis": "12233",
+          "variants": [
+            {
+              "bitrate": "632000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1892646466235047936/pu/vid/avc1/320x584/91k2FmiP6TqEs4Ul.mp4?tag=12"
+            },
+            {
+              "bitrate": "950000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1892646466235047936/pu/vid/avc1/464x848/1ZV1yfNJgoZAAlZq.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1892646466235047936/pu/pl/TB_zjBs_4W1ZlFxg.m3u8?tag=12&v=a03"
+            }
+          ]
+        },
+        "source_user_id": "322603863",
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1892646466235047936",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1892646466235047936/pu/img/h3TScymGCfL_D2kQ.jpg",
+        "source_user_id_str": "322603863",
+        "sizes": {
+          "small": {
+            "w": "372",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "464",
+            "h": "848",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "464",
+            "h": "848",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "source_status_id_str": "1892646530143625500",
+        "display_url": "pic.x.com/beXBoVy6cZ"
+      }
+    ]
+  },
+  "lang": "en"
+}

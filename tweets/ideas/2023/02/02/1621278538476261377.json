@@ -1,0 +1,23 @@
+{
+  "id": "1621278538476261377",
+  "id_str": "1621278538476261377",
+  "created_at": "Thu Feb 02 22:45:00 +0000 2023",
+  "text": "Need some help: does anyone have any experience deploying models to async endpoints on Sagemaker?\n\nFrom what I can tell, it should be able to process larger file sizes if you put the files on S3.\n\nI've got the async endpoint set up, but when I pass in the s3 path, I get a 413",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

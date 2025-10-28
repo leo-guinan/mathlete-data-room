@@ -1,0 +1,23 @@
+{
+  "id": "1475998973332709379",
+  "id_str": "1475998973332709379",
+  "created_at": "Wed Dec 29 01:15:52 +0000 2021",
+  "text": "Ok, so it looks like I'm getting a Cartesian product somewhere most likely. The first run on a fresh db worked fine. The second went off the rails. Still not sure what I've got screwed up, but getting closer to the root cause.",
+  "in_reply_to_status_id": "1475959471037894660",
+  "in_reply_to_status_id_str": "1475959471037894660",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

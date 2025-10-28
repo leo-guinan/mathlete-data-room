@@ -1,0 +1,23 @@
+{
+  "id": "1533600145346002950",
+  "id_str": "1533600145346002950",
+  "created_at": "Mon Jun 06 00:02:22 +0000 2022",
+  "text": "yeah, that was easy enough....\n\nso I have the switch wrapped in a component that takes a function to update the value for that id, and an internal function that handles the change for that specific instance and triggers the passed in function for the passed in id.",
+  "in_reply_to_status_id": "1533598968818589697",
+  "in_reply_to_status_id_str": "1533598968818589697",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1423766264430960647",
+  "id_str": "1423766264430960647",
+  "created_at": "Fri Aug 06 22:01:44 +0000 2021",
+  "text": "Looks like Airflow might be needed now. I should be able to build a DAG that watches the User table (although since I'm using Prisma for database management, I don't know if I'll be able to access the database with a normal DB client.",
+  "in_reply_to_status_id": "1423766262530850819",
+  "in_reply_to_status_id_str": "1423766262530850819",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1425507556366094337",
+  "id_str": "1425507556366094337",
+  "created_at": "Wed Aug 11 17:21:00 +0000 2021",
+  "text": "Well, I can already see some ugliness popping out. \n\nDyanmodb apparently doesn't allow you to set a field as unique. You have to add a Lambda that can check for a given username and reject creation of a duplicate. This seems to be a really weird design choice.",
+  "in_reply_to_status_id": "1425504673264545800",
+  "in_reply_to_status_id_str": "1425504673264545800",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

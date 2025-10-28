@@ -1,0 +1,23 @@
+{
+  "id": "1619517233931382784",
+  "id_str": "1619517233931382784",
+  "created_at": "Sun Jan 29 02:06:12 +0000 2023",
+  "text": "Ok, so realized why there is a huge speed discrepancy. The slow version is deployed on a CPU. Tried it after deploying to a GPU and that took the processing time from an ~1hr podcast episode from 20 minutes to &lt;1.\n\nBut the bill for that is $450/month, compared to $90/month",
+  "in_reply_to_status_id": "1619497015083425792",
+  "in_reply_to_status_id_str": "1619497015083425792",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

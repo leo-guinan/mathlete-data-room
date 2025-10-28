@@ -1,0 +1,44 @@
+{
+  "id": "1483412572720279552",
+  "id_str": "1483412572720279552",
+  "created_at": "Tue Jan 18 12:14:52 +0000 2022",
+  "text": "@gouthamjay8 @feathercrm I am hosting on AWS, but through a new provider called Flightcontrol (https://t.co/rEdxzC9HAy) This is what I working on switching over to. The app is currently running on Vercel.",
+  "in_reply_to_status_id": "1483406107997798404",
+  "in_reply_to_status_id_str": "1483406107997798404",
+  "in_reply_to_user_id": "815894131452956672",
+  "in_reply_to_user_id_str": "815894131452956672",
+  "in_reply_to_screen_name": "gouthamjay8",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Goutham Jay ⚡",
+        "screen_name": "gouthamjay8",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "815894131452956672",
+        "id": "815894131452956672"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/rEdxzC9HAy",
+        "expanded_url": "http://flightcontrol.dev",
+        "display_url": "flightcontrol.dev",
+        "indices": [
+          "95",
+          "118"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

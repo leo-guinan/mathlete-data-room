@@ -1,0 +1,125 @@
+{
+  "id": "1363946049598066689",
+  "id_str": "1363946049598066689",
+  "created_at": "Mon Feb 22 20:17:33 +0000 2021",
+  "text": "@RobAnderson2018 @JimBelushi https://t.co/ECUfLhS3mg",
+  "in_reply_to_status_id": "1363945830097580033",
+  "in_reply_to_status_id_str": "1363945830097580033",
+  "in_reply_to_user_id": "963223121363861504",
+  "in_reply_to_user_id_str": "963223121363861504",
+  "in_reply_to_screen_name": "R_JonAnderson",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Jim Belushi",
+        "screen_name": "JimBelushi",
+        "indices": [
+          "17",
+          "28"
+        ],
+        "id_str": "1018627848",
+        "id": "1018627848"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1363946049598066689/photo/1",
+        "indices": [
+          "29",
+          "52"
+        ],
+        "url": "https://t.co/ECUfLhS3mg",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu21sbdU4AMvdV4.jpg",
+        "id_str": "1363946037052760067",
+        "id": "1363946037052760067",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu21sbdU4AMvdV4.jpg",
+        "sizes": {
+          "small": {
+            "w": "400",
+            "h": "256",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "400",
+            "h": "256",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "400",
+            "h": "256",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/ECUfLhS3mg"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1363946049598066689/photo/1",
+        "indices": [
+          "29",
+          "52"
+        ],
+        "url": "https://t.co/ECUfLhS3mg",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eu21sbdU4AMvdV4.jpg",
+        "id_str": "1363946037052760067",
+        "video_info": {
+          "aspect_ratio": [
+            "25",
+            "16"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Eu21sbdU4AMvdV4.mp4"
+            }
+          ]
+        },
+        "id": "1363946037052760067",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eu21sbdU4AMvdV4.jpg",
+        "sizes": {
+          "small": {
+            "w": "400",
+            "h": "256",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "400",
+            "h": "256",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "400",
+            "h": "256",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/ECUfLhS3mg"
+      }
+    ]
+  },
+  "lang": "qme"
+}

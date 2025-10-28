@@ -1,0 +1,125 @@
+{
+  "id": "1602381065452126223",
+  "id_str": "1602381065452126223",
+  "created_at": "Mon Dec 12 19:13:11 +0000 2022",
+  "text": "@arvidkahl Shrödinger developer here. https://t.co/bzI2vaGW74",
+  "in_reply_to_status_id": "1602309370364182531",
+  "in_reply_to_status_id_str": "1602309370364182531",
+  "in_reply_to_user_id": "343990983",
+  "in_reply_to_user_id_str": "343990983",
+  "in_reply_to_screen_name": "arvidkahl",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Arvid Kahl",
+        "screen_name": "arvidkahl",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "343990983",
+        "id": "343990983"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1602381065452126223/photo/1",
+        "indices": [
+          "38",
+          "61"
+        ],
+        "url": "https://t.co/bzI2vaGW74",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FjzNFY5WABo3y4Q.jpg",
+        "id_str": "1602381059903062042",
+        "id": "1602381059903062042",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FjzNFY5WABo3y4Q.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "324",
+            "h": "498",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "324",
+            "h": "498",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "324",
+            "h": "498",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/bzI2vaGW74"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1602381065452126223/photo/1",
+        "indices": [
+          "38",
+          "61"
+        ],
+        "url": "https://t.co/bzI2vaGW74",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FjzNFY5WABo3y4Q.jpg",
+        "id_str": "1602381059903062042",
+        "video_info": {
+          "aspect_ratio": [
+            "54",
+            "83"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FjzNFY5WABo3y4Q.mp4"
+            }
+          ]
+        },
+        "id": "1602381059903062042",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FjzNFY5WABo3y4Q.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "324",
+            "h": "498",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "324",
+            "h": "498",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "324",
+            "h": "498",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/bzI2vaGW74"
+      }
+    ]
+  },
+  "lang": "ro"
+}

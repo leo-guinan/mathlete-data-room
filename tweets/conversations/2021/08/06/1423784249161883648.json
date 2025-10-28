@@ -1,0 +1,23 @@
+{
+  "id": "1423784249161883648",
+  "id_str": "1423784249161883648",
+  "created_at": "Fri Aug 06 23:13:12 +0000 2021",
+  "text": "If you design it right, you should end up with an idempotent step (you can run it over and over again, and the results won't be changed)\n\nAirflow was designed to process large amounts of data. If you accidentally run a step twice, it shouldn't ruin the data or mess up the process",
+  "in_reply_to_status_id": "1423784247966437377",
+  "in_reply_to_status_id_str": "1423784247966437377",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

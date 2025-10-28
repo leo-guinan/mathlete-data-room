@@ -1,0 +1,130 @@
+{
+  "id": "1482904991551610881",
+  "id_str": "1482904991551610881",
+  "created_at": "Mon Jan 17 02:37:55 +0000 2022",
+  "text": "RT @chris__lu: https://t.co/QgPQqzHwH3\n\nVoting ends tonight! https://t.co/3lvEg77x58",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Chris Lu",
+        "screen_name": "chris__lu",
+        "indices": [
+          "3",
+          "13"
+        ],
+        "id_str": "2838767611",
+        "id": "2838767611"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/QgPQqzHwH3",
+        "expanded_url": "https://www.producthunt.com/golden-kitty-awards-2021/product-of-the-year",
+        "display_url": "producthunt.com/golden-kitty-a…",
+        "indices": [
+          "15",
+          "38"
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/chris__lu/status/1482903837761544192/photo/1",
+        "source_status_id": "1482903837761544192",
+        "indices": [
+          "61",
+          "84"
+        ],
+        "url": "https://t.co/3lvEg77x58",
+        "media_url": "http://pbs.twimg.com/media/FJRVLjdX0AAoXiR.jpg",
+        "id_str": "1482903834297094144",
+        "source_user_id": "2838767611",
+        "id": "1482903834297094144",
+        "media_url_https": "https://pbs.twimg.com/media/FJRVLjdX0AAoXiR.jpg",
+        "source_user_id_str": "2838767611",
+        "sizes": {
+          "small": {
+            "w": "505",
+            "h": "680",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "892",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "892",
+            "h": "1200",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1482903837761544192",
+        "display_url": "pic.x.com/3lvEg77x58"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/chris__lu/status/1482903837761544192/photo/1",
+        "source_status_id": "1482903837761544192",
+        "indices": [
+          "61",
+          "84"
+        ],
+        "url": "https://t.co/3lvEg77x58",
+        "media_url": "http://pbs.twimg.com/media/FJRVLjdX0AAoXiR.jpg",
+        "id_str": "1482903834297094144",
+        "source_user_id": "2838767611",
+        "id": "1482903834297094144",
+        "media_url_https": "https://pbs.twimg.com/media/FJRVLjdX0AAoXiR.jpg",
+        "source_user_id_str": "2838767611",
+        "sizes": {
+          "small": {
+            "w": "505",
+            "h": "680",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "892",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "892",
+            "h": "1200",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1482903837761544192",
+        "display_url": "pic.x.com/3lvEg77x58"
+      }
+    ]
+  },
+  "lang": "en"
+}

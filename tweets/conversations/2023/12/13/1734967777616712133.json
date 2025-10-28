@@ -1,0 +1,34 @@
+{
+  "id": "1734967777616712133",
+  "id_str": "1734967777616712133",
+  "created_at": "Wed Dec 13 16:05:26 +0000 2023",
+  "text": "Ok, could use some help from anyone who knows @LangChainAI really well.\n\nI'm playing around with an agent that can send out requests, but after it does, I want it to stop, save state, and resume once a webhook is received.\n\nHas anyone had luck with a \"suspend\" tool?",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "4",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "LangChain",
+        "screen_name": "LangChainAI",
+        "indices": [
+          "46",
+          "58"
+        ],
+        "id_str": "1589007443853340672",
+        "id": "1589007443853340672"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1423766271863267336",
+  "id_str": "1423766271863267336",
+  "created_at": "Fri Aug 06 22:01:46 +0000 2021",
+  "text": "It might be worth adding in an extra layer though. I could use prisma only for holding auth data and storing data from Twitter in another db. Time to play around with some ideas and see what pops out.",
+  "in_reply_to_status_id": "1423766269782802438",
+  "in_reply_to_status_id_str": "1423766269782802438",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

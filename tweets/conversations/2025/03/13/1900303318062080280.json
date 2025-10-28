@@ -1,0 +1,54 @@
+{
+  "id": "1900303318062080280",
+  "id_str": "1900303318062080280",
+  "created_at": "Thu Mar 13 21:49:51 +0000 2025",
+  "text": "@janwilmake @Cloudflare the good news is that @cursor_ai figured it out for me and it's up and running with the proxy setting (and I think configured correctly from a security standpoint?)",
+  "in_reply_to_status_id": "1900302658201641157",
+  "in_reply_to_status_id_str": "1900302658201641157",
+  "in_reply_to_user_id": "153933445",
+  "in_reply_to_user_id_str": "153933445",
+  "in_reply_to_screen_name": "janwilmake",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Jan Wilmake",
+        "screen_name": "janwilmake",
+        "indices": [
+          "0",
+          "11"
+        ],
+        "id_str": "153933445",
+        "id": "153933445"
+      },
+      {
+        "name": "Cloudflare",
+        "screen_name": "Cloudflare",
+        "indices": [
+          "12",
+          "23"
+        ],
+        "id_str": "32499999",
+        "id": "32499999"
+      },
+      {
+        "name": "Cursor",
+        "screen_name": "cursor_ai",
+        "indices": [
+          "46",
+          "56"
+        ],
+        "id_str": "1695890961094909952",
+        "id": "1695890961094909952"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

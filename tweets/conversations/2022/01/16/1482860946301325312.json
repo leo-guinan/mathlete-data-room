@@ -1,0 +1,34 @@
+{
+  "id": "1482860946301325312",
+  "id_str": "1482860946301325312",
+  "created_at": "Sun Jan 16 23:42:54 +0000 2022",
+  "text": "@markyerkes1734 A docker container is essentially a box that holds the whole app. \n\nIt has everything it needs to run the app in it. \n\nAnd I can take that box and put it out on any number of servers and they'll be able to run it because it's self contained.",
+  "in_reply_to_status_id": "1482855008777474048",
+  "in_reply_to_status_id_str": "1482855008777474048",
+  "in_reply_to_user_id": "115456939",
+  "in_reply_to_user_id_str": "115456939",
+  "in_reply_to_screen_name": "markyerkes1734",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Mark Yerkes",
+        "screen_name": "markyerkes1734",
+        "indices": [
+          "0",
+          "15"
+        ],
+        "id_str": "115456939",
+        "id": "115456939"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

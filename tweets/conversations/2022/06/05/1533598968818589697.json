@@ -1,0 +1,23 @@
+{
+  "id": "1533598968818589697",
+  "id_str": "1533598968818589697",
+  "created_at": "Sun Jun 05 23:57:41 +0000 2022",
+  "text": "Actually, as I'm writing this up, I realized I can probably just wrap it in a component and have the onchange function located in the component and pass the info I need to the function I send in via the props...\n\nDon't know if that's the best way but it seems like it should work",
+  "in_reply_to_status_id": "1533598966142709767",
+  "in_reply_to_status_id_str": "1533598966142709767",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

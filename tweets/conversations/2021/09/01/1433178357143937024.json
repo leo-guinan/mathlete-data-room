@@ -1,0 +1,23 @@
+{
+  "id": "1433178357143937024",
+  "id_str": "1433178357143937024",
+  "created_at": "Wed Sep 01 21:22:02 +0000 2021",
+  "text": "It's going to push my timelines back a little bit, but I've realized that some of my decisions I made to get things up don't scale particularly well. Specifically if I started trying to pull in Twitter data for all users at once. It should be able to handle 8 users. But doesn't",
+  "in_reply_to_status_id": "1433178356032409608",
+  "in_reply_to_status_id_str": "1433178356032409608",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

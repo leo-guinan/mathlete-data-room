@@ -1,0 +1,23 @@
+{
+  "id": "1430582236341055491",
+  "id_str": "1430582236341055491",
+  "created_at": "Wed Aug 25 17:25:58 +0000 2021",
+  "text": "Sometimes, you just need to be the server you wish you had.\n\nNow I've got a cron job running that will do all the data pulls locally. The deployed version will insert the first record when the user links their Twitter account. Then the job will pick it up and process it.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

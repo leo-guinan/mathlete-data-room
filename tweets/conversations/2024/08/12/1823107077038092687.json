@@ -1,0 +1,101 @@
+{
+  "id": "1823107077038092687",
+  "id_str": "1823107077038092687",
+  "created_at": "Mon Aug 12 21:19:33 +0000 2024",
+  "text": "Ok, now have the topics clustered from the tweets captured in the last time window (currently testing out 1 hour increments)\n\nThis is the current extension popup. I've got a button to trigger the topic call to test out the logic.\n\nNow going to pass those topics to my content… https://t.co/E2klZdkRuQ",
+  "in_reply_to_status_id": "1823100963655229794",
+  "in_reply_to_status_id_str": "1823100963655229794",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1823107077038092687/photo/1",
+        "indices": [
+          "277",
+          "300"
+        ],
+        "url": "https://t.co/E2klZdkRuQ",
+        "media_url": "http://pbs.twimg.com/media/GUz5_pcWIAIbNA8.png",
+        "id_str": "1823106821030027266",
+        "id": "1823106821030027266",
+        "media_url_https": "https://pbs.twimg.com/media/GUz5_pcWIAIbNA8.png",
+        "sizes": {
+          "small": {
+            "w": "571",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "672",
+            "h": "800",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "672",
+            "h": "800",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/E2klZdkRuQ"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1823107077038092687/photo/1",
+        "indices": [
+          "277",
+          "300"
+        ],
+        "url": "https://t.co/E2klZdkRuQ",
+        "media_url": "http://pbs.twimg.com/media/GUz5_pcWIAIbNA8.png",
+        "id_str": "1823106821030027266",
+        "id": "1823106821030027266",
+        "media_url_https": "https://pbs.twimg.com/media/GUz5_pcWIAIbNA8.png",
+        "sizes": {
+          "small": {
+            "w": "571",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "672",
+            "h": "800",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "672",
+            "h": "800",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/E2klZdkRuQ"
+      }
+    ]
+  },
+  "lang": "en"
+}

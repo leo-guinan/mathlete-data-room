@@ -1,0 +1,23 @@
+{
+  "id": "1477643013027516422",
+  "id_str": "1477643013027516422",
+  "created_at": "Sun Jan 02 14:08:42 +0000 2022",
+  "text": "Looks like I just need to move 1 line of code. Which is good, because I was really confused for a moment. Everything looked like it was behaving as expected.\n\nBut I initialized an array outside of the loop, so each subscription just added on top of the one before it.\n\nFix pushed",
+  "in_reply_to_status_id": "1477635675252006921",
+  "in_reply_to_status_id_str": "1477635675252006921",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

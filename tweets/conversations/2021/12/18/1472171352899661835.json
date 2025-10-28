@@ -1,0 +1,135 @@
+{
+  "id": "1472171352899661835",
+  "id_str": "1472171352899661835",
+  "created_at": "Sat Dec 18 11:46:16 +0000 2021",
+  "text": "@NotechAna @bkh_leung @feathercrm Thanks! Will absolutely do so! https://t.co/dXOFMuzoxr",
+  "in_reply_to_status_id": "1472170054670340096",
+  "in_reply_to_status_id_str": "1472170054670340096",
+  "in_reply_to_user_id": "1316342249341542400",
+  "in_reply_to_user_id_str": "1316342249341542400",
+  "in_reply_to_screen_name": "NotechAna",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Ana Bibikova",
+        "screen_name": "NotechAna",
+        "indices": [
+          "0",
+          "10"
+        ],
+        "id_str": "1316342249341542400",
+        "id": "1316342249341542400"
+      },
+      {
+        "name": "Brian Leung | SwiftAds.io ⏩",
+        "screen_name": "bkh_leung",
+        "indices": [
+          "11",
+          "21"
+        ],
+        "id_str": "293839862",
+        "id": "293839862"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1472171352899661835/photo/1",
+        "indices": [
+          "65",
+          "88"
+        ],
+        "url": "https://t.co/dXOFMuzoxr",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FG40CjvXsAoXDr9.jpg",
+        "id_str": "1472171346755039242",
+        "id": "1472171346755039242",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FG40CjvXsAoXDr9.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/dXOFMuzoxr"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1472171352899661835/photo/1",
+        "indices": [
+          "65",
+          "88"
+        ],
+        "url": "https://t.co/dXOFMuzoxr",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FG40CjvXsAoXDr9.jpg",
+        "id_str": "1472171346755039242",
+        "video_info": {
+          "aspect_ratio": [
+            "6",
+            "5"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FG40CjvXsAoXDr9.mp4"
+            }
+          ]
+        },
+        "id": "1472171346755039242",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FG40CjvXsAoXDr9.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "400",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/dXOFMuzoxr"
+      }
+    ]
+  },
+  "lang": "en"
+}

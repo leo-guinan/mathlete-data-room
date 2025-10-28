@@ -1,0 +1,23 @@
+{
+  "id": "1433449031880019969",
+  "id_str": "1433449031880019969",
+  "created_at": "Thu Sep 02 15:17:36 +0000 2021",
+  "text": "This part has been a little trickier so far. I'm running into an issue where blitz tries to do something with a subfolder of .git. \n\nBut I set up my repo as a submodule, with another submodule containing the nest code.\n\nAnd when you do that, the submodule has a .git file.",
+  "in_reply_to_status_id": "1433428425113358339",
+  "in_reply_to_status_id_str": "1433428425113358339",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

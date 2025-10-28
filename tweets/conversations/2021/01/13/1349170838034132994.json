@@ -1,0 +1,133 @@
+{
+  "id": "1349170838034132994",
+  "id_str": "1349170838034132994",
+  "created_at": "Wed Jan 13 01:46:08 +0000 2021",
+  "text": "RT @WRBolen: Everyone who was at the capital that night https://t.co/deOEloaGyi",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Ross Bolen",
+        "screen_name": "WRBolen",
+        "indices": [
+          "3",
+          "11"
+        ],
+        "id_str": "57499843",
+        "id": "57499843"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/WRBolen/status/1349168443417894912/photo/1",
+        "source_status_id": "1349168443417894912",
+        "indices": [
+          "56",
+          "79"
+        ],
+        "url": "https://t.co/deOEloaGyi",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Erk1i9DWMAIb9vN.jpg",
+        "id_str": "1349168437994598402",
+        "source_user_id": "57499843",
+        "id": "1349168437994598402",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Erk1i9DWMAIb9vN.jpg",
+        "source_user_id_str": "57499843",
+        "sizes": {
+          "large": {
+            "w": "480",
+            "h": "264",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "264",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "264",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1349168443417894912",
+        "display_url": "pic.x.com/deOEloaGyi"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/WRBolen/status/1349168443417894912/photo/1",
+        "source_status_id": "1349168443417894912",
+        "indices": [
+          "56",
+          "79"
+        ],
+        "url": "https://t.co/deOEloaGyi",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Erk1i9DWMAIb9vN.jpg",
+        "id_str": "1349168437994598402",
+        "video_info": {
+          "aspect_ratio": [
+            "20",
+            "11"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Erk1i9DWMAIb9vN.mp4"
+            }
+          ]
+        },
+        "source_user_id": "57499843",
+        "id": "1349168437994598402",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Erk1i9DWMAIb9vN.jpg",
+        "source_user_id_str": "57499843",
+        "sizes": {
+          "large": {
+            "w": "480",
+            "h": "264",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "480",
+            "h": "264",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "264",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "animated_gif",
+        "source_status_id_str": "1349168443417894912",
+        "display_url": "pic.x.com/deOEloaGyi"
+      }
+    ]
+  },
+  "lang": "en"
+}

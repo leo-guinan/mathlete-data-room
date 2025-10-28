@@ -1,0 +1,112 @@
+{
+  "id": "1944826693283115353",
+  "id_str": "1944826693283115353",
+  "created_at": "Mon Jul 14 18:29:51 +0000 2025",
+  "text": "hmmm... \n\n@mykola, here's something that the schemas in rhizomedb can be used for specifically.\n\nI believe this would end up necessarily lending itself incredibly well to narrative calculus as well. https://t.co/cHnJ3plX5T",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Your friend Myk 🌻🍉",
+        "screen_name": "mykola",
+        "indices": [
+          "10",
+          "17"
+        ],
+        "id_str": "5614412",
+        "id": "5614412"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1944826693283115353/photo/1",
+        "indices": [
+          "199",
+          "222"
+        ],
+        "url": "https://t.co/cHnJ3plX5T",
+        "media_url": "http://pbs.twimg.com/media/Gv1o4JxWwAAohE2.png",
+        "id_str": "1944825927998816256",
+        "id": "1944825927998816256",
+        "media_url_https": "https://pbs.twimg.com/media/Gv1o4JxWwAAohE2.png",
+        "sizes": {
+          "small": {
+            "w": "680",
+            "h": "352",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1172",
+            "h": "606",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1172",
+            "h": "606",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/cHnJ3plX5T"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1944826693283115353/photo/1",
+        "indices": [
+          "199",
+          "222"
+        ],
+        "url": "https://t.co/cHnJ3plX5T",
+        "media_url": "http://pbs.twimg.com/media/Gv1o4JxWwAAohE2.png",
+        "id_str": "1944825927998816256",
+        "id": "1944825927998816256",
+        "media_url_https": "https://pbs.twimg.com/media/Gv1o4JxWwAAohE2.png",
+        "sizes": {
+          "small": {
+            "w": "680",
+            "h": "352",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1172",
+            "h": "606",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1172",
+            "h": "606",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/cHnJ3plX5T"
+      }
+    ]
+  },
+  "lang": "en"
+}

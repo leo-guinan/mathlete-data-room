@@ -1,0 +1,23 @@
+{
+  "id": "1424867220757299200",
+  "id_str": "1424867220757299200",
+  "created_at": "Mon Aug 09 22:56:32 +0000 2021",
+  "text": "Ok, need to dig into how Airflow handles waiting tasks. If I exceed the rate limit, Tweepy automatically sleeps, which is great. Except Airflow seems to think that the process got stuck, so it kills it. \n\nMight need to increase the timeout limit.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1566817259544367107",
+  "id_str": "1566817259544367107",
+  "created_at": "Mon Sep 05 15:55:19 +0000 2022",
+  "text": "Something I'll be implementing soon: an admin control panel for @should_unfollow .\n\nOne of the things that's not easy for me is the ability to diagnose user issues easily, so I want to be able to trigger things and view user's data a little easier when it's not displaying right",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Who Should I Unfollow?",
+        "screen_name": "should_unfollow",
+        "indices": [
+          "64",
+          "80"
+        ],
+        "id_str": "1544441682741043203",
+        "id": "1544441682741043203"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1478861350210314241",
+  "id_str": "1478861350210314241",
+  "created_at": "Wed Jan 05 22:49:56 +0000 2022",
+  "text": "Note to self: if you are attempting to figure out why the sort isn't working as expected, make sure your expectations are correct.\n\nWas just trying to figure out why things weren't sorted alphabetically. \n\nIt's because they are sorted by last updated, not alphabetically",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

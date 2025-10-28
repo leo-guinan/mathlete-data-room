@@ -1,0 +1,112 @@
+{
+  "id": "1924475706769092851",
+  "id_str": "1924475706769092851",
+  "created_at": "Mon May 19 14:42:18 +0000 2025",
+  "text": "@alegator_cs Right, but they have to be designed to be fault tolerant, by using multiple validator nodes together.\n\nYou can't trust a single validator node, but you can trust a network of them operating in tandem that verify the work of the other validators.\n\nYou need validators for the… https://t.co/hJbQmJphDi",
+  "in_reply_to_status_id": "1924473507787723099",
+  "in_reply_to_status_id_str": "1924473507787723099",
+  "in_reply_to_user_id": "1675589499223506944",
+  "in_reply_to_user_id_str": "1675589499223506944",
+  "in_reply_to_screen_name": "alegator_cs",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "alegator",
+        "screen_name": "alegator_cs",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "1675589499223506944",
+        "id": "1675589499223506944"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1924475706769092851/photo/1",
+        "indices": [
+          "289",
+          "312"
+        ],
+        "url": "https://t.co/hJbQmJphDi",
+        "media_url": "http://pbs.twimg.com/media/GrUbq25W0AAIbi6.jpg",
+        "id_str": "1924474838875295744",
+        "id": "1924474838875295744",
+        "media_url_https": "https://pbs.twimg.com/media/GrUbq25W0AAIbi6.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "927",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "2048",
+            "h": "1583",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "526",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/hJbQmJphDi"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1924475706769092851/photo/1",
+        "indices": [
+          "289",
+          "312"
+        ],
+        "url": "https://t.co/hJbQmJphDi",
+        "media_url": "http://pbs.twimg.com/media/GrUbq25W0AAIbi6.jpg",
+        "id_str": "1924474838875295744",
+        "id": "1924474838875295744",
+        "media_url_https": "https://pbs.twimg.com/media/GrUbq25W0AAIbi6.jpg",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "927",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "2048",
+            "h": "1583",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "526",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/hJbQmJphDi"
+      }
+    ]
+  },
+  "lang": "en"
+}

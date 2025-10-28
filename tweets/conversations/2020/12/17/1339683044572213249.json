@@ -1,0 +1,120 @@
+{
+  "id": "1339683044572213249",
+  "id_str": "1339683044572213249",
+  "created_at": "Thu Dec 17 21:25:02 +0000 2020",
+  "text": "RT @I_amBlueJay: Behold the fuckers!! https://t.co/Y1DJSduNTW",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "BlueJay",
+        "screen_name": "I_amBlueJay",
+        "indices": [
+          "3",
+          "15"
+        ],
+        "id_str": "1258660774089801728",
+        "id": "1258660774089801728"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/I_amBlueJay/status/1339582390713294850/photo/1",
+        "source_status_id": "1339582390713294850",
+        "indices": [
+          "38",
+          "61"
+        ],
+        "url": "https://t.co/Y1DJSduNTW",
+        "media_url": "http://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+        "id_str": "1339582387269857280",
+        "source_user_id": "1258660774089801728",
+        "id": "1339582387269857280",
+        "media_url_https": "https://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+        "source_user_id_str": "1258660774089801728",
+        "sizes": {
+          "large": {
+            "w": "585",
+            "h": "392",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "585",
+            "h": "392",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "585",
+            "h": "392",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1339582390713294850",
+        "display_url": "pic.x.com/Y1DJSduNTW"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/I_amBlueJay/status/1339582390713294850/photo/1",
+        "source_status_id": "1339582390713294850",
+        "indices": [
+          "38",
+          "61"
+        ],
+        "url": "https://t.co/Y1DJSduNTW",
+        "media_url": "http://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+        "id_str": "1339582387269857280",
+        "source_user_id": "1258660774089801728",
+        "id": "1339582387269857280",
+        "media_url_https": "https://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+        "source_user_id_str": "1258660774089801728",
+        "sizes": {
+          "large": {
+            "w": "585",
+            "h": "392",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "585",
+            "h": "392",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "585",
+            "h": "392",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1339582390713294850",
+        "display_url": "pic.x.com/Y1DJSduNTW"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1549440407997763585",
+  "id_str": "1549440407997763585",
+  "created_at": "Tue Jul 19 17:05:55 +0000 2022",
+  "text": "Working on squashing database migrations into a single one. We ran into an issue with our build process running out of ram because we had so many migrations.\n\nThe orm loads all the files into memory before processing them, which isn't ideal, but oh well.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

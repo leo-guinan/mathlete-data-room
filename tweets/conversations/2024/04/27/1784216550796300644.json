@@ -1,0 +1,133 @@
+{
+  "id": "1784216550796300644",
+  "id_str": "1784216550796300644",
+  "created_at": "Sat Apr 27 13:42:29 +0000 2024",
+  "text": "RT @leo_guinan: Well, I did ask ChatGPT for a loading spinner... https://t.co/Zvw68lx0Vh",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Leo Guinan (📈)",
+        "screen_name": "leo_guinan",
+        "indices": [
+          "3",
+          "14"
+        ],
+        "id_str": "1325102346792218629",
+        "id": "1325102346792218629"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1783956029614547277/photo/1",
+        "source_status_id": "1783956029614547277",
+        "indices": [
+          "65",
+          "88"
+        ],
+        "url": "https://t.co/Zvw68lx0Vh",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GMHif8-X0AAP-yQ.jpg",
+        "id_str": "1783955965986983936",
+        "source_user_id": "1325102346792218629",
+        "id": "1783955965986983936",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GMHif8-X0AAP-yQ.jpg",
+        "source_user_id_str": "1325102346792218629",
+        "sizes": {
+          "large": {
+            "w": "1114",
+            "h": "540",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1114",
+            "h": "540",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "330",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1783956029614547277",
+        "display_url": "pic.x.com/Zvw68lx0Vh"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1783956029614547277/photo/1",
+        "source_status_id": "1783956029614547277",
+        "indices": [
+          "65",
+          "88"
+        ],
+        "url": "https://t.co/Zvw68lx0Vh",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GMHif8-X0AAP-yQ.jpg",
+        "id_str": "1783955965986983936",
+        "video_info": {
+          "aspect_ratio": [
+            "557",
+            "270"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GMHif8-X0AAP-yQ.mp4"
+            }
+          ]
+        },
+        "source_user_id": "1325102346792218629",
+        "id": "1783955965986983936",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GMHif8-X0AAP-yQ.jpg",
+        "source_user_id_str": "1325102346792218629",
+        "sizes": {
+          "large": {
+            "w": "1114",
+            "h": "540",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "1114",
+            "h": "540",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "330",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "source_status_id_str": "1783956029614547277",
+        "display_url": "pic.x.com/Zvw68lx0Vh"
+      }
+    ]
+  },
+  "lang": "en"
+}

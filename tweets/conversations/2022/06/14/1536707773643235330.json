@@ -1,0 +1,125 @@
+{
+  "id": "1536707773643235330",
+  "id_str": "1536707773643235330",
+  "created_at": "Tue Jun 14 13:50:58 +0000 2022",
+  "text": "@JamieTheMashMan It would be helpful to have Bob on board... https://t.co/GfpBSc9Wbz",
+  "in_reply_to_status_id": "1536612461549391874",
+  "in_reply_to_status_id_str": "1536612461549391874",
+  "in_reply_to_user_id": "1411735990293643269",
+  "in_reply_to_user_id_str": "1411735990293643269",
+  "in_reply_to_screen_name": "JamieTheMashMan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Jamie",
+        "screen_name": "JamieTheMashMan",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "1411735990293643269",
+        "id": "1411735990293643269"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1536707773643235330/photo/1",
+        "indices": [
+          "61",
+          "84"
+        ],
+        "url": "https://t.co/GfpBSc9Wbz",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FVN7kp6WIAMHY-e.jpg",
+        "id_str": "1536707767519551491",
+        "id": "1536707767519551491",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVN7kp6WIAMHY-e.jpg",
+        "sizes": {
+          "small": {
+            "w": "498",
+            "h": "276",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "498",
+            "h": "276",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "498",
+            "h": "276",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/GfpBSc9Wbz"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1536707773643235330/photo/1",
+        "indices": [
+          "61",
+          "84"
+        ],
+        "url": "https://t.co/GfpBSc9Wbz",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FVN7kp6WIAMHY-e.jpg",
+        "id_str": "1536707767519551491",
+        "video_info": {
+          "aspect_ratio": [
+            "83",
+            "46"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FVN7kp6WIAMHY-e.mp4"
+            }
+          ]
+        },
+        "id": "1536707767519551491",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVN7kp6WIAMHY-e.jpg",
+        "sizes": {
+          "small": {
+            "w": "498",
+            "h": "276",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "498",
+            "h": "276",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "498",
+            "h": "276",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/GfpBSc9Wbz"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1549223367978487809",
+  "id_str": "1549223367978487809",
+  "created_at": "Tue Jul 19 02:43:28 +0000 2022",
+  "text": "Fixing some bugs. This was a fun one. Someone tried to check out and said that the page froze on them.\n\nStarted looking at it and realized I apparently got into a loop where I was creating a new stripe customer over and over.\n\nNow running a script to delete over 7K duplicates...",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "1570408789278343172",
+  "id_str": "1570408789278343172",
+  "created_at": "Thu Sep 15 13:46:46 +0000 2022",
+  "text": "@cassandrafaris @AndyHaskell2013 #CuteProblems, right?\n\nYesterday, the cat took over lol https://t.co/kd5aP31ZVh",
+  "in_reply_to_status_id": "1569892408158199808",
+  "in_reply_to_status_id_str": "1569892408158199808",
+  "in_reply_to_user_id": "76635078",
+  "in_reply_to_user_id_str": "76635078",
+  "in_reply_to_screen_name": "cassandrafaris",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Cassandra",
+        "screen_name": "cassandrafaris",
+        "indices": [
+          "0",
+          "15"
+        ],
+        "id_str": "76635078",
+        "id": "76635078"
+      },
+      {
+        "name": "andyhaskell2013",
+        "screen_name": "andyhaskell2013",
+        "indices": [
+          "16",
+          "32"
+        ],
+        "id_str": "1723835156329349120",
+        "id": "1723835156329349120"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1570408789278343172/photo/1",
+        "indices": [
+          "89",
+          "112"
+        ],
+        "url": "https://t.co/kd5aP31ZVh",
+        "media_url": "http://pbs.twimg.com/media/Fcs2d9yXgAIpsFI.jpg",
+        "id_str": "1570408783498674178",
+        "id": "1570408783498674178",
+        "media_url_https": "https://pbs.twimg.com/media/Fcs2d9yXgAIpsFI.jpg",
+        "sizes": {
+          "small": {
+            "w": "510",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "1536",
+            "h": "2048",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "900",
+            "h": "1200",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/kd5aP31ZVh"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "CuteProblems",
+        "indices": [
+          "33",
+          "46"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1570408789278343172/photo/1",
+        "indices": [
+          "89",
+          "112"
+        ],
+        "url": "https://t.co/kd5aP31ZVh",
+        "media_url": "http://pbs.twimg.com/media/Fcs2d9yXgAIpsFI.jpg",
+        "id_str": "1570408783498674178",
+        "id": "1570408783498674178",
+        "media_url_https": "https://pbs.twimg.com/media/Fcs2d9yXgAIpsFI.jpg",
+        "sizes": {
+          "small": {
+            "w": "510",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "large": {
+            "w": "1536",
+            "h": "2048",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "900",
+            "h": "1200",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/kd5aP31ZVh"
+      }
+    ]
+  },
+  "lang": "en"
+}

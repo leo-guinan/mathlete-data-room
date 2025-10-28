@@ -1,0 +1,142 @@
+{
+  "id": "1345044555603849216",
+  "id_str": "1345044555603849216",
+  "created_at": "Fri Jan 01 16:29:46 +0000 2021",
+  "text": "RT @MarkSShenouda: Happy new year  #DEVCommunit 👨‍💻👨‍💻😀😀🥳🥳🥳🤩🤩🤩\n#100DaysOfCode #javascript https://t.co/emm4xGmVGa",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Mark Shenouda",
+        "screen_name": "MarkSShenouda",
+        "indices": [
+          "3",
+          "17"
+        ],
+        "id_str": "984187545427894273",
+        "id": "984187545427894273"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/MarkSShenouda/status/1344807170530029580/photo/1",
+        "source_status_id": "1344807170530029580",
+        "indices": [
+          "90",
+          "113"
+        ],
+        "url": "https://t.co/emm4xGmVGa",
+        "media_url": "http://pbs.twimg.com/media/Eqm2_noXAAEJbSp.jpg",
+        "id_str": "1344807167833079809",
+        "source_user_id": "984187545427894273",
+        "id": "1344807167833079809",
+        "media_url_https": "https://pbs.twimg.com/media/Eqm2_noXAAEJbSp.jpg",
+        "source_user_id_str": "984187545427894273",
+        "sizes": {
+          "small": {
+            "w": "460",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "710",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "710",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1344807170530029580",
+        "display_url": "pic.x.com/emm4xGmVGa"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "DEVCommunit",
+        "indices": [
+          "35",
+          "47"
+        ]
+      },
+      {
+        "text": "100DaysOfCode",
+        "indices": [
+          "63",
+          "77"
+        ]
+      },
+      {
+        "text": "javascript",
+        "indices": [
+          "78",
+          "89"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/MarkSShenouda/status/1344807170530029580/photo/1",
+        "source_status_id": "1344807170530029580",
+        "indices": [
+          "90",
+          "113"
+        ],
+        "url": "https://t.co/emm4xGmVGa",
+        "media_url": "http://pbs.twimg.com/media/Eqm2_noXAAEJbSp.jpg",
+        "id_str": "1344807167833079809",
+        "source_user_id": "984187545427894273",
+        "id": "1344807167833079809",
+        "media_url_https": "https://pbs.twimg.com/media/Eqm2_noXAAEJbSp.jpg",
+        "source_user_id_str": "984187545427894273",
+        "sizes": {
+          "small": {
+            "w": "460",
+            "h": "680",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "710",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "710",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1344807170530029580",
+        "display_url": "pic.x.com/emm4xGmVGa"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1468995672649121805",
+  "id_str": "1468995672649121805",
+  "created_at": "Thu Dec 09 17:27:15 +0000 2021",
+  "text": "@benjamingreeley I think it would be interesting to record a user session and automatically play it back during a release process, and if it no longer failed, automatically close the ticket and notify the user.\n\nIssue filed -&gt; test case -&gt; when passes, notify customer and close issue",
+  "in_reply_to_status_id": "1468994863320424451",
+  "in_reply_to_status_id_str": "1468994863320424451",
+  "in_reply_to_user_id": "1277959050727239680",
+  "in_reply_to_user_id_str": "1277959050727239680",
+  "in_reply_to_screen_name": "benjamingreeley",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Benjamin C.E.O. Greeley",
+        "screen_name": "benjamingreeley",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "1277959050727239680",
+        "id": "1277959050727239680"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

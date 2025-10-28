@@ -1,0 +1,124 @@
+{
+  "id": "1881927051709645029",
+  "id_str": "1881927051709645029",
+  "created_at": "Wed Jan 22 04:49:08 +0000 2025",
+  "text": "Who’s ready to play? https://t.co/QNTAy4lbKD https://t.co/piW3NqXNuj",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "4",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/QNTAy4lbKD",
+        "expanded_url": "https://x.com/reddy2go/status/1881922019618701539",
+        "display_url": "x.com/reddy2go/statu…",
+        "indices": [
+          "21",
+          "44"
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1881927051709645029/photo/1",
+        "indices": [
+          "45",
+          "68"
+        ],
+        "url": "https://t.co/piW3NqXNuj",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Gh3yrVgXUAAEP3E.jpg",
+        "id_str": "1881927045631922176",
+        "id": "1881927045631922176",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gh3yrVgXUAAEP3E.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/piW3NqXNuj"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1881927051709645029/photo/1",
+        "indices": [
+          "45",
+          "68"
+        ],
+        "url": "https://t.co/piW3NqXNuj",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Gh3yrVgXUAAEP3E.jpg",
+        "id_str": "1881927045631922176",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/Gh3yrVgXUAAEP3E.mp4"
+            }
+          ]
+        },
+        "id": "1881927045631922176",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gh3yrVgXUAAEP3E.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/piW3NqXNuj"
+      }
+    ]
+  },
+  "lang": "en"
+}

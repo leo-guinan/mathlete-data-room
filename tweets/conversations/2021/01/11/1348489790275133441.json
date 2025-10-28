@@ -1,0 +1,141 @@
+{
+  "id": "1348489790275133441",
+  "id_str": "1348489790275133441",
+  "created_at": "Mon Jan 11 04:39:54 +0000 2021",
+  "text": "RT @Reflog_18: THE CLEVELAND #BROWNS BEAT THE STEELERS TO ADVANCE!!! https://t.co/45cGEwJOBJ",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "McNeil",
+        "screen_name": "Reflog_18",
+        "indices": [
+          "3",
+          "13"
+        ],
+        "id_str": "490900538",
+        "id": "490900538"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/Reflog_18/status/1348489246240366593/photo/1",
+        "source_status_id": "1348489246240366593",
+        "indices": [
+          "69",
+          "92"
+        ],
+        "url": "https://t.co/45cGEwJOBJ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErbL0KhXAAI9RCm.jpg",
+        "id_str": "1348489235481952258",
+        "source_user_id": "490900538",
+        "id": "1348489235481952258",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErbL0KhXAAI9RCm.jpg",
+        "source_user_id_str": "490900538",
+        "sizes": {
+          "medium": {
+            "w": "410",
+            "h": "232",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "410",
+            "h": "232",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "410",
+            "h": "232",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1348489246240366593",
+        "display_url": "pic.x.com/45cGEwJOBJ"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "BROWNS",
+        "indices": [
+          "29",
+          "36"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/Reflog_18/status/1348489246240366593/photo/1",
+        "source_status_id": "1348489246240366593",
+        "indices": [
+          "69",
+          "92"
+        ],
+        "url": "https://t.co/45cGEwJOBJ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErbL0KhXAAI9RCm.jpg",
+        "id_str": "1348489235481952258",
+        "video_info": {
+          "aspect_ratio": [
+            "205",
+            "116"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/ErbL0KhXAAI9RCm.mp4"
+            }
+          ]
+        },
+        "source_user_id": "490900538",
+        "id": "1348489235481952258",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErbL0KhXAAI9RCm.jpg",
+        "source_user_id_str": "490900538",
+        "sizes": {
+          "medium": {
+            "w": "410",
+            "h": "232",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "410",
+            "h": "232",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "410",
+            "h": "232",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "animated_gif",
+        "source_status_id_str": "1348489246240366593",
+        "display_url": "pic.x.com/45cGEwJOBJ"
+      }
+    ]
+  },
+  "lang": "en"
+}

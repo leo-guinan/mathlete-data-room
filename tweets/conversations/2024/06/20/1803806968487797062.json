@@ -1,0 +1,44 @@
+{
+  "id": "1803806968487797062",
+  "id_str": "1803806968487797062",
+  "created_at": "Thu Jun 20 15:07:49 +0000 2024",
+  "text": "ICYMI: I've prototyped a new tool for Youtube creators based on what I've learned from @jayclouse's podcast.\n\nIt can evaluate titles, thumbnails, and scripts. I've been doing a little testing on it this morning.\n\nStarting off by testing the title tool based on a video I watched. https://t.co/dBmb6QgGeQ",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Jay Clouse",
+        "screen_name": "jayclouse",
+        "indices": [
+          "87",
+          "97"
+        ],
+        "id_str": "45851500",
+        "id": "45851500"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/dBmb6QgGeQ",
+        "expanded_url": "https://x.com/leo_guinan/status/1803567824079671313",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "280",
+          "303"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

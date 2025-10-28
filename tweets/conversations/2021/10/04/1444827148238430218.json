@@ -1,0 +1,23 @@
+{
+  "id": "1444827148238430218",
+  "id_str": "1444827148238430218",
+  "created_at": "Mon Oct 04 00:50:10 +0000 2021",
+  "text": "Doesn't seem like much, but the way I had set things up, multiple emails could support the same Twitter account, and those Twitter accounts would be duplicates in the DB. But I needed to modify that to make Twitter accounts unique so people could login with just that.",
+  "in_reply_to_status_id": "1444827146996813825",
+  "in_reply_to_status_id_str": "1444827146996813825",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

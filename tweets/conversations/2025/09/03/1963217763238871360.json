@@ -1,0 +1,34 @@
+{
+  "id": "1963217763238871360",
+  "id_str": "1963217763238871360",
+  "created_at": "Wed Sep 03 12:29:24 +0000 2025",
+  "text": "adding in the email functionality to the coaching platform this morning. \n\nthis will let me send the invites to clients and manage other comms.\n\nafter that, it's on to @calcom for scheduling and then probably stripe for billing.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Cal.com",
+        "screen_name": "calcom",
+        "indices": [
+          "168",
+          "175"
+        ],
+        "id_str": "1370833096283672580",
+        "id": "1370833096283672580"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

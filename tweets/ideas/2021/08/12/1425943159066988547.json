@@ -1,0 +1,23 @@
+{
+  "id": "1425943159066988547",
+  "id_str": "1425943159066988547",
+  "created_at": "Thu Aug 12 22:11:56 +0000 2021",
+  "text": "Hit a bit of a wall this week. I'm stuck in between two architectures on the Twitter CRM. \n\nI was able to get the data pull from Twitter working with Python/DynamoDB. But my front-end/user management is using BlitzJs/Prisma/Postgres.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

@@ -1,0 +1,132 @@
+{
+  "id": "1890814867214389322",
+  "id_str": "1890814867214389322",
+  "created_at": "Sat Feb 15 17:26:08 +0000 2025",
+  "text": "Ok, need everyone to tell me why this video sucks.\n\nGo. https://t.co/BFLFTpSt6G",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1890814867214389322/video/1",
+        "indices": [
+          "56",
+          "79"
+        ],
+        "url": "https://t.co/BFLFTpSt6G",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1890778431597481984/pu/img/3Bd3aJZbJsLt_DbQ.jpg",
+        "id_str": "1890778431597481984",
+        "id": "1890778431597481984",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1890778431597481984/pu/img/3Bd3aJZbJsLt_DbQ.jpg",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1080",
+            "h": "1920",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/BFLFTpSt6G"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1890814867214389322/video/1",
+        "indices": [
+          "56",
+          "79"
+        ],
+        "url": "https://t.co/BFLFTpSt6G",
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1890778431597481984/pu/img/3Bd3aJZbJsLt_DbQ.jpg",
+        "id_str": "1890778431597481984",
+        "video_info": {
+          "aspect_ratio": [
+            "9",
+            "16"
+          ],
+          "duration_millis": "30250",
+          "variants": [
+            {
+              "bitrate": "950000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1890778431597481984/pu/vid/avc1/480x852/pBXrmpkmQQx8Z0Q0.mp4?tag=12"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1890778431597481984/pu/pl/CM41f4u0nIcdQXRu.m3u8?tag=12"
+            },
+            {
+              "bitrate": "632000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1890778431597481984/pu/vid/avc1/320x568/f6HIDM5fM3mUYOLC.mp4?tag=12"
+            },
+            {
+              "bitrate": "2176000",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1890778431597481984/pu/vid/avc1/720x1280/5TixDzSndw77MAlo.mp4?tag=12"
+            }
+          ]
+        },
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "id": "1890778431597481984",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1890778431597481984/pu/img/3Bd3aJZbJsLt_DbQ.jpg",
+        "sizes": {
+          "medium": {
+            "w": "675",
+            "h": "1200",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1080",
+            "h": "1920",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "383",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "video",
+        "display_url": "pic.x.com/BFLFTpSt6G"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1550936597121605632",
+  "id_str": "1550936597121605632",
+  "created_at": "Sat Jul 23 20:11:14 +0000 2022",
+  "text": "So what I'm doing is pushing those decisions down as far as possible, so I can just call getObject and get the object I need, with the bottom layer making the choice of whether to make the external call or not and if so, how to authenticate.",
+  "in_reply_to_status_id": "1550936595662086144",
+  "in_reply_to_status_id_str": "1550936595662086144",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

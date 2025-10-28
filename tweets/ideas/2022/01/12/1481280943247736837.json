@@ -1,0 +1,23 @@
+{
+  "id": "1481280943247736837",
+  "id_str": "1481280943247736837",
+  "created_at": "Wed Jan 12 15:04:32 +0000 2022",
+  "text": "Pushing out the new @feathercrm DM handling today I think. Ended up being fairly easy with how i wanted to do it. \n\nNoisy emails for the first run, as it processes the last 50 events.\n\nBut the daily run after the first one should be pretty decent.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

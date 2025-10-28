@@ -1,0 +1,125 @@
+{
+  "id": "1516843831290961925",
+  "id_str": "1516843831290961925",
+  "created_at": "Wed Apr 20 18:18:45 +0000 2022",
+  "text": "@theworstdev https://t.co/dgdCr7FzPZ",
+  "in_reply_to_status_id": "1516842599130279936",
+  "in_reply_to_status_id_str": "1516842599130279936",
+  "in_reply_to_user_id": "1056152730",
+  "in_reply_to_user_id_str": "1056152730",
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "O pior desenvolvedor do mundo",
+        "screen_name": "TheWorstDev",
+        "indices": [
+          "0",
+          "12"
+        ],
+        "id_str": "1720649475444580352",
+        "id": "1720649475444580352"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1516843831290961925/photo/1",
+        "indices": [
+          "13",
+          "36"
+        ],
+        "url": "https://t.co/dgdCr7FzPZ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQzpbCSXIAM0X1U.jpg",
+        "id_str": "1516843825196638211",
+        "id": "1516843825196638211",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQzpbCSXIAM0X1U.jpg",
+        "sizes": {
+          "large": {
+            "w": "200",
+            "h": "288",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "200",
+            "h": "288",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "200",
+            "h": "288",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/dgdCr7FzPZ"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1516843831290961925/photo/1",
+        "indices": [
+          "13",
+          "36"
+        ],
+        "url": "https://t.co/dgdCr7FzPZ",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQzpbCSXIAM0X1U.jpg",
+        "id_str": "1516843825196638211",
+        "video_info": {
+          "aspect_ratio": [
+            "25",
+            "36"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/FQzpbCSXIAM0X1U.mp4"
+            }
+          ]
+        },
+        "id": "1516843825196638211",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQzpbCSXIAM0X1U.jpg",
+        "sizes": {
+          "large": {
+            "w": "200",
+            "h": "288",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "200",
+            "h": "288",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "200",
+            "h": "288",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/dgdCr7FzPZ"
+      }
+    ]
+  },
+  "lang": "qme"
+}

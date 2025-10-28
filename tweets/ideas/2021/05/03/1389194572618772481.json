@@ -1,0 +1,33 @@
+{
+  "id": "1389194572618772481",
+  "id_str": "1389194572618772481",
+  "created_at": "Mon May 03 12:26:10 +0000 2021",
+  "text": "Currently deploying the new version of @net_defi \n\nI have it working with the stripe webhooks locally, just need to test it running in a prod environment and then switch it over to live. Feel free to take a look here: https://t.co/XpCiREvQDQ",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/XpCiREvQDQ",
+        "expanded_url": "https://nft-store.vercel.app/",
+        "display_url": "nft-store.vercel.app",
+        "indices": [
+          "218",
+          "241"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

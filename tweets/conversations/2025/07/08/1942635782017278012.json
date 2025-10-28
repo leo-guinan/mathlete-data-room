@@ -1,0 +1,44 @@
+{
+  "id": "1942635782017278012",
+  "id_str": "1942635782017278012",
+  "created_at": "Tue Jul 08 17:23:57 +0000 2025",
+  "text": "@attentionmech Not a prompt, but a system. \n\nI’ve figured out the shape of it, now I’m figuring out the implementation. \n\nI also need to get my repo out today so others can test their own dataset. https://t.co/c67zC1octt",
+  "in_reply_to_status_id": "1942634160188973306",
+  "in_reply_to_status_id_str": "1942634160188973306",
+  "in_reply_to_user_id": "1863435997368786944",
+  "in_reply_to_user_id_str": "1863435997368786944",
+  "in_reply_to_screen_name": "attentionmech",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "4",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "am",
+        "screen_name": "attentionmech",
+        "indices": [
+          "0",
+          "14"
+        ],
+        "id_str": "1863435997368786944",
+        "id": "1863435997368786944"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/c67zC1octt",
+        "expanded_url": "https://x.com/leo_guinan/status/1942350327899931071",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "197",
+          "220"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

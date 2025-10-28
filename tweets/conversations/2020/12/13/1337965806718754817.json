@@ -1,0 +1,138 @@
+{
+  "id": "1337965806718754817",
+  "id_str": "1337965806718754817",
+  "created_at": "Sun Dec 13 03:41:21 +0000 2020",
+  "text": "RT @MLS: Best in MLS. 👏\n\n@ColumbusCrewSC are your 2020 #MLSCup winners! 👑 https://t.co/uowVP2azMw",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Major League Soccer",
+        "screen_name": "MLS",
+        "indices": [
+          "3",
+          "7"
+        ],
+        "id_str": "107146095",
+        "id": "107146095"
+      },
+      {
+        "name": "CCSC",
+        "screen_name": "columbuscrewsc",
+        "indices": [
+          "25",
+          "40"
+        ],
+        "id_str": "2792544626",
+        "id": "2792544626"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/MLS/status/1337964562352648197/photo/1",
+        "source_status_id": "1337964562352648197",
+        "indices": [
+          "74",
+          "97"
+        ],
+        "url": "https://t.co/uowVP2azMw",
+        "media_url": "http://pbs.twimg.com/media/EpFnqF-W8AIwPmt.jpg",
+        "id_str": "1337964537161641986",
+        "source_user_id": "107146095",
+        "id": "1337964537161641986",
+        "media_url_https": "https://pbs.twimg.com/media/EpFnqF-W8AIwPmt.jpg",
+        "source_user_id_str": "107146095",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1337964562352648197",
+        "display_url": "pic.x.com/uowVP2azMw"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "MLSCup",
+        "indices": [
+          "55",
+          "62"
+        ]
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/MLS/status/1337964562352648197/photo/1",
+        "source_status_id": "1337964562352648197",
+        "indices": [
+          "74",
+          "97"
+        ],
+        "url": "https://t.co/uowVP2azMw",
+        "media_url": "http://pbs.twimg.com/media/EpFnqF-W8AIwPmt.jpg",
+        "id_str": "1337964537161641986",
+        "source_user_id": "107146095",
+        "id": "1337964537161641986",
+        "media_url_https": "https://pbs.twimg.com/media/EpFnqF-W8AIwPmt.jpg",
+        "source_user_id_str": "107146095",
+        "sizes": {
+          "medium": {
+            "w": "1200",
+            "h": "675",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "1920",
+            "h": "1080",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "680",
+            "h": "383",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1337964562352648197",
+        "display_url": "pic.x.com/uowVP2azMw"
+      }
+    ]
+  },
+  "lang": "en"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "1544381879117307904",
+  "id_str": "1544381879117307904",
+  "created_at": "Tue Jul 05 18:05:07 +0000 2022",
+  "text": "That does have a couple of potential issues with the way I can pull tweets with the API, but I think I can just iterate over things when needed. Can also add in checks that won't make me duplicate requests. I'm sure I'm doing a good bit of that too.",
+  "in_reply_to_status_id": "1544381876340654081",
+  "in_reply_to_status_id_str": "1544381876340654081",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

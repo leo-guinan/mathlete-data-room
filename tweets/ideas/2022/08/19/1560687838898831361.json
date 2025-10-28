@@ -1,0 +1,31 @@
+{
+  "id": "1560687838898831361",
+  "id_str": "1560687838898831361",
+  "created_at": "Fri Aug 19 17:59:11 +0000 2022",
+  "text": "#BuildInPublicFail last night.\n\nTold people to start using my new bot.\n\nIt didn't work at all. I screwed up about 4 different things when I deployed it and didn't test it once it was live in prod.\n\nWhoops.\n\nBut no big deal. Now it's running live and people are trying it out!",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BuildInPublicFail",
+        "indices": [
+          "0",
+          "18"
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

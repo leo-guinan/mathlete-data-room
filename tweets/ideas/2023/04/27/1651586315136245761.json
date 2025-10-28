@@ -1,0 +1,23 @@
+{
+  "id": "1651586315136245761",
+  "id_str": "1651586315136245761",
+  "created_at": "Thu Apr 27 13:57:17 +0000 2023",
+  "text": "Playing with a script that can pull a git repo and toss it into a vector database.\n\nGoal: I want to be able to pull a repo and  use GPT-4 to write code based on that repo.\n\nWill make it a lot easier to use it to write code based on newer libraries than it was trained on.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "2",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

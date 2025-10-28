@@ -1,0 +1,122 @@
+{
+  "id": "1940179008412623160",
+  "id_str": "1940179008412623160",
+  "created_at": "Tue Jul 01 22:41:37 +0000 2025",
+  "text": "@nevmed @TomFrankly The Internet 2.0 rule states that everyone’s view is important, valuable, and private by default, but more valuable when shared. https://t.co/BIURcVHgS6",
+  "in_reply_to_status_id": "1940178760353165606",
+  "in_reply_to_status_id_str": "1940178760353165606",
+  "in_reply_to_user_id": "24286463",
+  "in_reply_to_user_id_str": "24286463",
+  "in_reply_to_screen_name": "nevmed",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Neville Medhora",
+        "screen_name": "nevmed",
+        "indices": [
+          "0",
+          "7"
+        ],
+        "id_str": "24286463",
+        "id": "24286463"
+      },
+      {
+        "name": "Thomas Frank",
+        "screen_name": "TomFrankly",
+        "indices": [
+          "8",
+          "19"
+        ],
+        "id_str": "39262778",
+        "id": "39262778"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1940179008412623160/photo/1",
+        "indices": [
+          "149",
+          "172"
+        ],
+        "url": "https://t.co/BIURcVHgS6",
+        "media_url": "http://pbs.twimg.com/media/Guzmg2aXQAAvMFk.jpg",
+        "id_str": "1940178991526133760",
+        "id": "1940178991526133760",
+        "media_url_https": "https://pbs.twimg.com/media/Guzmg2aXQAAvMFk.jpg",
+        "sizes": {
+          "small": {
+            "w": "313",
+            "h": "680",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "943",
+            "h": "2048",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "553",
+            "h": "1200",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/BIURcVHgS6"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1940179008412623160/photo/1",
+        "indices": [
+          "149",
+          "172"
+        ],
+        "url": "https://t.co/BIURcVHgS6",
+        "media_url": "http://pbs.twimg.com/media/Guzmg2aXQAAvMFk.jpg",
+        "id_str": "1940178991526133760",
+        "id": "1940178991526133760",
+        "media_url_https": "https://pbs.twimg.com/media/Guzmg2aXQAAvMFk.jpg",
+        "sizes": {
+          "small": {
+            "w": "313",
+            "h": "680",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "943",
+            "h": "2048",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "553",
+            "h": "1200",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/BIURcVHgS6"
+      }
+    ]
+  },
+  "lang": "en"
+}

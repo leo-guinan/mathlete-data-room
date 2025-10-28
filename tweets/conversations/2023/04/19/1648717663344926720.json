@@ -1,0 +1,23 @@
+{
+  "id": "1648717663344926720",
+  "id_str": "1648717663344926720",
+  "created_at": "Wed Apr 19 15:58:17 +0000 2023",
+  "text": "Starting out, I used LangChain's Summarize chain with the \"refine\" method to summarize the podcast transcript.\n\nIt runs a summary on the first piece and then uses each subsequent batch of text to refine the summary.\n\nIt seemed to have the best results vs stuff/map-reduce.",
+  "in_reply_to_status_id": "1648717661394673664",
+  "in_reply_to_status_id_str": "1648717661394673664",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

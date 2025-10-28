@@ -1,0 +1,23 @@
+{
+  "id": "1431664424599920643",
+  "id_str": "1431664424599920643",
+  "created_at": "Sat Aug 28 17:06:12 +0000 2021",
+  "text": "Fixed a bug on the @feathercrm search that allowed users to search everyone's relationships instead of just their own.\n\nFigured it out when I saw myself show up multiple times while I was searching as @feathercrm.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

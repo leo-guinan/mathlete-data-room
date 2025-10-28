@@ -1,0 +1,120 @@
+{
+  "id": "1346444787247964162",
+  "id_str": "1346444787247964162",
+  "created_at": "Tue Jan 05 13:13:47 +0000 2021",
+  "text": "RT @SethAndrewsTTA: I agonized over this. Am I an idiot? (DON'T ANSWER THAT!) https://t.co/QUcpe9uOUk",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Seth Andrews",
+        "screen_name": "SethAndrewsTTA",
+        "indices": [
+          "3",
+          "18"
+        ],
+        "id_str": "2320645506",
+        "id": "2320645506"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/SethAndrewsTTA/status/1346443649459093505/photo/1",
+        "source_status_id": "1346443649459093505",
+        "indices": [
+          "78",
+          "101"
+        ],
+        "url": "https://t.co/QUcpe9uOUk",
+        "media_url": "http://pbs.twimg.com/media/Eq-HNvbXYAolCFO.jpg",
+        "id_str": "1346443483746361354",
+        "source_user_id": "2320645506",
+        "id": "1346443483746361354",
+        "media_url_https": "https://pbs.twimg.com/media/Eq-HNvbXYAolCFO.jpg",
+        "source_user_id_str": "2320645506",
+        "sizes": {
+          "medium": {
+            "w": "700",
+            "h": "707",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "700",
+            "h": "707",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "673",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1346443649459093505",
+        "display_url": "pic.x.com/QUcpe9uOUk"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/SethAndrewsTTA/status/1346443649459093505/photo/1",
+        "source_status_id": "1346443649459093505",
+        "indices": [
+          "78",
+          "101"
+        ],
+        "url": "https://t.co/QUcpe9uOUk",
+        "media_url": "http://pbs.twimg.com/media/Eq-HNvbXYAolCFO.jpg",
+        "id_str": "1346443483746361354",
+        "source_user_id": "2320645506",
+        "id": "1346443483746361354",
+        "media_url_https": "https://pbs.twimg.com/media/Eq-HNvbXYAolCFO.jpg",
+        "source_user_id_str": "2320645506",
+        "sizes": {
+          "medium": {
+            "w": "700",
+            "h": "707",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "700",
+            "h": "707",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "673",
+            "h": "680",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1346443649459093505",
+        "display_url": "pic.x.com/QUcpe9uOUk"
+      }
+    ]
+  },
+  "lang": "en"
+}

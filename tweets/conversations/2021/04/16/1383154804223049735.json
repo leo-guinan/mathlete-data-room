@@ -1,0 +1,120 @@
+{
+  "id": "1383154804223049735",
+  "id_str": "1383154804223049735",
+  "created_at": "Fri Apr 16 20:26:17 +0000 2021",
+  "text": "RT @chazhutton: Happy Friday all. https://t.co/Rx8329skIw",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Chaz Hutton",
+        "screen_name": "chazhutton",
+        "indices": [
+          "3",
+          "14"
+        ],
+        "id_str": "43644872",
+        "id": "43644872"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/chazhutton/status/1382966252331753472/photo/1",
+        "source_status_id": "1382966252331753472",
+        "indices": [
+          "34",
+          "57"
+        ],
+        "url": "https://t.co/Rx8329skIw",
+        "media_url": "http://pbs.twimg.com/media/EzFIebLXEAQ6tvO.jpg",
+        "id_str": "1382966248108134404",
+        "source_user_id": "43644872",
+        "id": "1382966248108134404",
+        "media_url_https": "https://pbs.twimg.com/media/EzFIebLXEAQ6tvO.jpg",
+        "source_user_id_str": "43644872",
+        "sizes": {
+          "large": {
+            "w": "734",
+            "h": "734",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "734",
+            "h": "734",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1382966252331753472",
+        "display_url": "pic.x.com/Rx8329skIw"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/chazhutton/status/1382966252331753472/photo/1",
+        "source_status_id": "1382966252331753472",
+        "indices": [
+          "34",
+          "57"
+        ],
+        "url": "https://t.co/Rx8329skIw",
+        "media_url": "http://pbs.twimg.com/media/EzFIebLXEAQ6tvO.jpg",
+        "id_str": "1382966248108134404",
+        "source_user_id": "43644872",
+        "id": "1382966248108134404",
+        "media_url_https": "https://pbs.twimg.com/media/EzFIebLXEAQ6tvO.jpg",
+        "source_user_id_str": "43644872",
+        "sizes": {
+          "large": {
+            "w": "734",
+            "h": "734",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "734",
+            "h": "734",
+            "resize": "fit"
+          },
+          "small": {
+            "w": "680",
+            "h": "680",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "source_status_id_str": "1382966252331753472",
+        "display_url": "pic.x.com/Rx8329skIw"
+      }
+    ]
+  },
+  "lang": "en"
+}

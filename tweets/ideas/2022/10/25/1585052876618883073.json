@@ -1,0 +1,33 @@
+{
+  "id": "1585052876618883073",
+  "id_str": "1585052876618883073",
+  "created_at": "Tue Oct 25 23:37:09 +0000 2022",
+  "text": "Ok, realized I was trying to do something a bit beyond the easy implementation that I thought I had, but still think it's a decent idea. Will just require a bit more code than I thought.\n\nPotentially a cool feature set if the assumptions prove to be true throughout each step. https://t.co/kUVBKjRyZ3",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/kUVBKjRyZ3",
+        "expanded_url": "https://x.com/leo_guinan/status/1584181672299622402",
+        "display_url": "x.com/leo_guinan/sta…",
+        "indices": [
+          "277",
+          "300"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

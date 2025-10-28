@@ -1,0 +1,23 @@
+{
+  "id": "1546306720158416899",
+  "id_str": "1546306720158416899",
+  "created_at": "Mon Jul 11 01:33:45 +0000 2022",
+  "text": "Example command:\nSELECT setval('tablename_id_seq', (SELECT MAX(id) FROM tablename)+1);\n\nWas doing final testing before I send out beta codes and started getting this error.\n\nGlad I decided to do a final round of testing. Going to start sending out codes tonight!",
+  "in_reply_to_status_id": "1546306718757519366",
+  "in_reply_to_status_id_str": "1546306718757519366",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

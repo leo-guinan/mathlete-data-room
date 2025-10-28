@@ -1,0 +1,125 @@
+{
+  "id": "1334302528641622018",
+  "id_str": "1334302528641622018",
+  "created_at": "Thu Dec 03 01:04:47 +0000 2020",
+  "text": "@TiggsAKAClaudia https://t.co/kmyUNmIHeU",
+  "in_reply_to_status_id": "1334302107214598146",
+  "in_reply_to_status_id_str": "1334302107214598146",
+  "in_reply_to_user_id": "1319108941578530816",
+  "in_reply_to_user_id_str": "1319108941578530816",
+  "in_reply_to_screen_name": "TiggsAKAClaudia",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "name": "Claudia AKA Tiggs 🇺🇸 🌊⚖️😷",
+        "screen_name": "TiggsAKAClaudia",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "1319108941578530816",
+        "id": "1319108941578530816"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1334302528641622018/photo/1",
+        "indices": [
+          "17",
+          "40"
+        ],
+        "url": "https://t.co/kmyUNmIHeU",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EoRlETXWMAQoe4A.jpg",
+        "id_str": "1334302514200588292",
+        "id": "1334302514200588292",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoRlETXWMAQoe4A.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/kmyUNmIHeU"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1334302528641622018/photo/1",
+        "indices": [
+          "17",
+          "40"
+        ],
+        "url": "https://t.co/kmyUNmIHeU",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EoRlETXWMAQoe4A.jpg",
+        "id_str": "1334302514200588292",
+        "video_info": {
+          "aspect_ratio": [
+            "16",
+            "9"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/EoRlETXWMAQoe4A.mp4"
+            }
+          ]
+        },
+        "id": "1334302514200588292",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EoRlETXWMAQoe4A.jpg",
+        "sizes": {
+          "small": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "medium": {
+            "w": "480",
+            "h": "270",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/kmyUNmIHeU"
+      }
+    ]
+  },
+  "lang": "qme"
+}

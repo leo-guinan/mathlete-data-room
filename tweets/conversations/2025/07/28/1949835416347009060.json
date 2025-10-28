@@ -1,0 +1,44 @@
+{
+  "id": "1949835416347009060",
+  "id_str": "1949835416347009060",
+  "created_at": "Mon Jul 28 14:12:44 +0000 2025",
+  "text": "@finereli This is something I've been exploring too.\n\nI think there's actually a formal way to do it, which I'm exploring here: https://t.co/ranzGpqJrS\n\nI realized that, with each larger model that comes out, there's an increasing number of incorrect answers that can come out.\n\nSo we…",
+  "in_reply_to_status_id": "1949760712437301490",
+  "in_reply_to_status_id_str": "1949760712437301490",
+  "in_reply_to_user_id": "6378712",
+  "in_reply_to_user_id_str": "6378712",
+  "in_reply_to_screen_name": "finereli",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Eli Finer",
+        "screen_name": "finereli",
+        "indices": [
+          "0",
+          "9"
+        ],
+        "id_str": "6378712",
+        "id": "6378712"
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ranzGpqJrS",
+        "expanded_url": "https://github.com/leo-guinan/businessos/tree/main",
+        "display_url": "github.com/leo-guinan/bus…",
+        "indices": [
+          "128",
+          "151"
+        ]
+      }
+    ]
+  },
+  "lang": "en"
+}

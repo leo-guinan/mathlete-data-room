@@ -1,0 +1,42 @@
+{
+  "id": "1365437723478282242",
+  "id_str": "1365437723478282242",
+  "created_at": "Fri Feb 26 23:04:56 +0000 2021",
+  "text": "RT @viamirror: We've identified the bug with verifying Tweets in $WRITE RACE. 🚨\n\nHot patch coming imminently.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [
+      {
+        "text": "WRITE",
+        "indices": [
+          "65",
+          "71"
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "name": "Mirror",
+        "screen_name": "viamirror",
+        "indices": [
+          "3",
+          "13"
+        ],
+        "id_str": "1314619820399353857",
+        "id": "1314619820399353857"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

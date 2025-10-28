@@ -1,0 +1,34 @@
+{
+  "id": "1862162542962835771",
+  "id_str": "1862162542962835771",
+  "created_at": "Thu Nov 28 15:52:02 +0000 2024",
+  "text": "Currently loading all of the tweets from the community archive into @trychroma collections so I can do some additional analysis, in addition to hooking it up to the Claude MCP.\n\nGot smart and parallelized it + added some fault tolerance, so now it's just cooking along.\n\nSome of…",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Chroma",
+        "screen_name": "trychroma",
+        "indices": [
+          "68",
+          "78"
+        ],
+        "id_str": "1507488634458439685",
+        "id": "1507488634458439685"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

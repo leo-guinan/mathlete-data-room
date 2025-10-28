@@ -1,0 +1,114 @@
+{
+  "id": "1817951152501104695",
+  "id_str": "1817951152501104695",
+  "created_at": "Mon Jul 29 15:51:45 +0000 2024",
+  "text": "Finally defeated a bug I've been fighting for way too long: the app not scrolling the way I wanted it to. \n\nShould have been super easy, but was a giant pain in the ass.\n\nBut I won. https://t.co/HFna9ha0hp",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "1",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1817951152501104695/photo/1",
+        "indices": [
+          "182",
+          "205"
+        ],
+        "url": "https://t.co/HFna9ha0hp",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GTqo76RXAAAEKp9.jpg",
+        "id_str": "1817951146805231616",
+        "id": "1817951146805231616",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GTqo76RXAAAEKp9.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "photo",
+        "display_url": "pic.x.com/HFna9ha0hp"
+      }
+    ],
+    "hashtags": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "expanded_url": "https://x.com/leo_guinan/status/1817951152501104695/photo/1",
+        "indices": [
+          "182",
+          "205"
+        ],
+        "url": "https://t.co/HFna9ha0hp",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/GTqo76RXAAAEKp9.jpg",
+        "id_str": "1817951146805231616",
+        "video_info": {
+          "aspect_ratio": [
+            "4",
+            "3"
+          ],
+          "variants": [
+            {
+              "bitrate": "0",
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/GTqo76RXAAAEKp9.mp4"
+            }
+          ]
+        },
+        "id": "1817951146805231616",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GTqo76RXAAAEKp9.jpg",
+        "sizes": {
+          "thumb": {
+            "w": "150",
+            "h": "150",
+            "resize": "crop"
+          },
+          "small": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "medium": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          },
+          "large": {
+            "w": "480",
+            "h": "360",
+            "resize": "fit"
+          }
+        },
+        "type": "animated_gif",
+        "display_url": "pic.x.com/HFna9ha0hp"
+      }
+    ]
+  },
+  "lang": "en"
+}

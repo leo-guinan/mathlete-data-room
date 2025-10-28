@@ -1,0 +1,23 @@
+{
+  "id": "1412053758062825479",
+  "id_str": "1412053758062825479",
+  "created_at": "Mon Jul 05 14:20:25 +0000 2021",
+  "text": "Tried switching the AWS region, but that wasn't the issue. After giving it some thought overnight, I'm changing tactics a bit. Going to deploy the backend via Amplify and use Vercel to deploy the frontend. That should work fine",
+  "in_reply_to_status_id": "1411821961244782592",
+  "in_reply_to_status_id_str": "1411821961244782592",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

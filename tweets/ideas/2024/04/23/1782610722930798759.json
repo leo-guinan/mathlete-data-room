@@ -1,0 +1,23 @@
+{
+  "id": "1782610722930798759",
+  "id_str": "1782610722930798759",
+  "created_at": "Tue Apr 23 03:21:30 +0000 2024",
+  "text": "Fun thing I learned:\n\nIf you are using Langchain with Mongodb to store chat histories, and you try to modify the same chat history with both the python and typescript versions, it doesn't work, because they don't use the same logic or field names! That's a fun surprise.",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}

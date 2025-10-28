@@ -1,0 +1,54 @@
+{
+  "id": "1923371982675935504",
+  "id_str": "1923371982675935504",
+  "created_at": "Fri May 16 13:36:29 +0000 2025",
+  "text": "Currently working on my @mastra_ai hackathon submission with @jessyka_boat's IndieParrot.\n\nDoing a test run of a workflow we put together that will be the backbone of her SaaS.\n\nIt looks for audio recordings on S3, transcribes the audio with @gladia_io and saves it to Mongo.…",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {},
+  "retweet_count": "1",
+  "favorite_count": "5",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Mastra",
+        "screen_name": "mastra_ai",
+        "indices": [
+          "24",
+          "34"
+        ],
+        "id_str": "1861308613563949057",
+        "id": "1861308613563949057"
+      },
+      {
+        "name": "Jessyka Boatright",
+        "screen_name": "jessyka_boat",
+        "indices": [
+          "61",
+          "74"
+        ],
+        "id_str": "1400492097082327040",
+        "id": "1400492097082327040"
+      },
+      {
+        "name": "Gladia.io",
+        "screen_name": "gladia_io",
+        "indices": [
+          "242",
+          "252"
+        ],
+        "id_str": "1481301784018698240",
+        "id": "1481301784018698240"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

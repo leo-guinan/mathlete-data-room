@@ -1,0 +1,54 @@
+{
+  "id": "1869196444873183422",
+  "id_str": "1869196444873183422",
+  "created_at": "Wed Dec 18 01:42:15 +0000 2024",
+  "text": "@JustinAllingham @thesamparr Thanks for the tag @JustinAllingham!\n\nThe ideal solution is tbd. I'm working on designing an individual data ownership model, but until that exists you have a couple of options.\n\nThe first is trying to migrate everything to Claude (or something else). That's time consuming with…",
+  "in_reply_to_status_id": "1869191824449163449",
+  "in_reply_to_status_id_str": "1869191824449163449",
+  "in_reply_to_user_id": "2918253344",
+  "in_reply_to_user_id_str": "2918253344",
+  "in_reply_to_screen_name": "JustinAllingham",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "0",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Justin Allingham",
+        "screen_name": "JustinAllingham",
+        "indices": [
+          "0",
+          "16"
+        ],
+        "id_str": "2918253344",
+        "id": "2918253344"
+      },
+      {
+        "name": "Sam Parr",
+        "screen_name": "thesamparr",
+        "indices": [
+          "17",
+          "28"
+        ],
+        "id_str": "625733783",
+        "id": "625733783"
+      },
+      {
+        "name": "Justin Allingham",
+        "screen_name": "JustinAllingham",
+        "indices": [
+          "48",
+          "64"
+        ],
+        "id_str": "2918253344",
+        "id": "2918253344"
+      }
+    ],
+    "urls": []
+  },
+  "lang": "en"
+}

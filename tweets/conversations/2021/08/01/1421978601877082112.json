@@ -1,0 +1,23 @@
+{
+  "id": "1421978601877082112",
+  "id_str": "1421978601877082112",
+  "created_at": "Sun Aug 01 23:38:12 +0000 2021",
+  "text": "Ok, starting to really start moving along. I've managed to get the login with Twitter part working, which though it took a little bit of work, really wasn't too bad.\n\nEspecially considering I had to change my datastore from Mongo (via Atlas) to Postgres (via Heroku).",
+  "in_reply_to_status_id": "1421944801939935234",
+  "in_reply_to_status_id_str": "1421944801939935234",
+  "in_reply_to_user_id": "1325102346792218629",
+  "in_reply_to_user_id_str": "1325102346792218629",
+  "in_reply_to_screen_name": "leo_guinan",
+  "user": {},
+  "retweet_count": "0",
+  "favorite_count": "3",
+  "favorited": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "lang": "en"
+}
