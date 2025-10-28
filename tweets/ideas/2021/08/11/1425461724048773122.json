@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425461724048773122"
+        ],
+        "editableUntil": "2021-08-11T15:18:53.468Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "72",
+            "77"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "3",
+    "id_str": "1425461724048773122",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425461724048773122",
+    "created_at": "Wed Aug 11 14:18:53 +0000 2021",
+    "favorited": false,
+    "full_text": "Having a hard time getting the bees in my head to shut up this morning. #ADHD",
+    "lang": "en"
+  }
+}

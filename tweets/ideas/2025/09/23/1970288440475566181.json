@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1970288440475566181"
+        ],
+        "editableUntil": "2025-09-23T01:45:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970288440475566181/photo/1",
+          "indices": [
+            "240",
+            "263"
+          ],
+          "url": "https://t.co/VKFBjXHLBU",
+          "media_url": "http://pbs.twimg.com/media/G1fY_GpWcAABsc8.png",
+          "id_str": "1970281940625289216",
+          "id": "1970281940625289216",
+          "media_url_https": "https://pbs.twimg.com/media/G1fY_GpWcAABsc8.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "375",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1190",
+              "h": "656",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1190",
+              "h": "656",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VKFBjXHLBU"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "263"
+    ],
+    "favorite_count": "27",
+    "id_str": "1970288440475566181",
+    "truncated": false,
+    "retweet_count": "6",
+    "id": "1970288440475566181",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 23 00:45:45 +0000 2025",
+    "favorited": false,
+    "full_text": "So what exactly is \"Time Violence\"?\n\nThat's the question you should be asking. In a nutshell, it's the amount of time something takes vs how much it should take.\n\nBut let's actually take a look at some math that shows how bad it can get. 👇 https://t.co/VKFBjXHLBU",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970288440475566181/photo/1",
+          "indices": [
+            "240",
+            "263"
+          ],
+          "url": "https://t.co/VKFBjXHLBU",
+          "media_url": "http://pbs.twimg.com/media/G1fY_GpWcAABsc8.png",
+          "id_str": "1970281940625289216",
+          "id": "1970281940625289216",
+          "media_url_https": "https://pbs.twimg.com/media/G1fY_GpWcAABsc8.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "375",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1190",
+              "h": "656",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1190",
+              "h": "656",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VKFBjXHLBU"
+        }
+      ]
+    }
+  }
+}

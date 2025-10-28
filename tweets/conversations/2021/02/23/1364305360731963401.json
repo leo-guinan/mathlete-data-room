@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1364305360731963401"
+        ],
+        "editableUntil": "2021-02-23T21:05:20.223Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Janine Sickmeyer",
+          "screen_name": "myfriendjanine",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "14766188",
+          "id": "14766188"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1364286018745225218",
+    "id_str": "1364305360731963401",
+    "in_reply_to_user_id": "14766188",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1364305360731963401",
+    "in_reply_to_status_id": "1364286018745225218",
+    "created_at": "Tue Feb 23 20:05:20 +0000 2021",
+    "favorited": false,
+    "full_text": "@myfriendjanine @timsalau This was timely for me. Thank you.",
+    "lang": "en",
+    "in_reply_to_screen_name": "myfriendjanine",
+    "in_reply_to_user_id_str": "14766188"
+  }
+}

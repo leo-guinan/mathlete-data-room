@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1361791843172769794"
+        ],
+        "editableUntil": "2021-02-16T22:37:30.938Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Tim Connors",
+          "screen_name": "itstimconnors",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "273565626",
+          "id": "273565626"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1361791843172769794/photo/1",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/qQbymSCyL6",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EuYOdfZWgBASGyP.jpg",
+          "id_str": "1361791837132980240",
+          "id": "1361791837132980240",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuYOdfZWgBASGyP.jpg",
+          "sizes": {
+            "medium": {
+              "w": "320",
+              "h": "218",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "320",
+              "h": "218",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "320",
+              "h": "218",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qQbymSCyL6"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1361785330874023938",
+    "id_str": "1361791843172769794",
+    "in_reply_to_user_id": "273565626",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1361791843172769794",
+    "in_reply_to_status_id": "1361785330874023938",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 16 21:37:30 +0000 2021",
+    "favorited": false,
+    "full_text": "@itstimconnors https://t.co/qQbymSCyL6",
+    "lang": "qme",
+    "in_reply_to_screen_name": "itstimconnors",
+    "in_reply_to_user_id_str": "273565626",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1361791843172769794/photo/1",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/qQbymSCyL6",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EuYOdfZWgBASGyP.jpg",
+          "id_str": "1361791837132980240",
+          "video_info": {
+            "aspect_ratio": [
+              "160",
+              "109"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EuYOdfZWgBASGyP.mp4"
+              }
+            ]
+          },
+          "id": "1361791837132980240",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EuYOdfZWgBASGyP.jpg",
+          "sizes": {
+            "medium": {
+              "w": "320",
+              "h": "218",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "320",
+              "h": "218",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "320",
+              "h": "218",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/qQbymSCyL6"
+        }
+      ]
+    }
+  }
+}

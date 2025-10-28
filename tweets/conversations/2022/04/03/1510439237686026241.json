@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1510439237686026241"
+        ],
+        "editableUntil": "2022-04-03T03:09:11.525Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "4",
+            "15"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s8WcUVe2LZ",
+          "expanded_url": "https://lobow.buzzsprout.com/1661950/10366905",
+          "display_url": "lobow.buzzsprout.com/1661950/103669…",
+          "indices": [
+            "97",
+            "120"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "3",
+    "id_str": "1510439237686026241",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1510439237686026241",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 03 02:09:11 +0000 2022",
+    "favorited": false,
+    "full_text": "New @LobowSpark episode is now live!\n\nListening to \"CONTAGIOUS COURAGE w/ADHD Warrior Angel\" at  https://t.co/s8WcUVe2LZ",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1970459645383774695"
+        ],
+        "editableUntil": "2025-09-23T13:06:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "⸜(｡˃ ᵕ ˂ )⸝♡",
+          "screen_name": "blublairies",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "380609535",
+          "id": "380609535"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970459645383774695/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/eg2RzoI8wL",
+          "media_url": "http://pbs.twimg.com/media/G1h6bnmW8AA_jFk.jpg",
+          "id_str": "1970459451879518208",
+          "id": "1970459451879518208",
+          "media_url_https": "https://pbs.twimg.com/media/G1h6bnmW8AA_jFk.jpg",
+          "sizes": {
+            "large": {
+              "w": "1194",
+              "h": "1620",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "884",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "501",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eg2RzoI8wL"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "305"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1970257279938371633",
+    "id_str": "1970459645383774695",
+    "in_reply_to_user_id": "380609535",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1970459645383774695",
+    "in_reply_to_status_id": "1970257279938371633",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 23 12:06:03 +0000 2025",
+    "favorited": false,
+    "full_text": "@blublairies I think you are very close, based on what I've been digging into.\n\nI've been looking at how the systems we create put stress on our brains and bodies and connected all sorts of dots if you use a thermodynamic lens to look at how the brain evolved. Explains so so much. https://t.co/eg2RzoI8wL",
+    "lang": "en",
+    "in_reply_to_screen_name": "blublairies",
+    "in_reply_to_user_id_str": "380609535",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970459645383774695/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/eg2RzoI8wL",
+          "media_url": "http://pbs.twimg.com/media/G1h6bnmW8AA_jFk.jpg",
+          "id_str": "1970459451879518208",
+          "id": "1970459451879518208",
+          "media_url_https": "https://pbs.twimg.com/media/G1h6bnmW8AA_jFk.jpg",
+          "sizes": {
+            "large": {
+              "w": "1194",
+              "h": "1620",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "884",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "501",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eg2RzoI8wL"
+        }
+      ]
+    }
+  }
+}

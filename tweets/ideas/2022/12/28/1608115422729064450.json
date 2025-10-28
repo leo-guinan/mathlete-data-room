@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1608115422729064450"
+        ],
+        "editableUntil": "2022-12-28T15:29:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "251"
+    ],
+    "favorite_count": "2",
+    "id_str": "1608115422729064450",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1608115422729064450",
+    "created_at": "Wed Dec 28 14:59:28 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally got the major issues fixed last night with Who Followed Me?.\n\nNow account summaries are coming through correctly. \n\nDid notice a few small issues that I want to fix, for example, if a private account follows you it gets flagged as likely spam.",
+    "lang": "en"
+  }
+}

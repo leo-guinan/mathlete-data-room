@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423720589194371079"
+        ],
+        "editableUntil": "2021-08-06T20:00:14.570Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "6",
+    "id_str": "1423720589194371079",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423720589194371079",
+    "created_at": "Fri Aug 06 19:00:14 +0000 2021",
+    "favorited": false,
+    "full_text": "Twitter CRM Friday updates:\n\nSpent time redoing my data models a bit this morning. I didn't like how they were set up.  Involved destroying the database and starting over quite a few times. I do enjoy being able to do that. Will get a bit harder when I have users... 😅",
+    "lang": "en"
+  }
+}

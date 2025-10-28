@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808571370353181093"
+        ],
+        "editableUntil": "2024-07-03T19:39:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "molinar",
+          "screen_name": "fluttermatt",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "712684869097168899",
+          "id": "712684869097168899"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1808562908827430936",
+    "id_str": "1808571370353181093",
+    "in_reply_to_user_id": "712684869097168899",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808571370353181093",
+    "in_reply_to_status_id": "1808562908827430936",
+    "created_at": "Wed Jul 03 18:39:50 +0000 2024",
+    "favorited": false,
+    "full_text": "@fluttermatt Pro tip: embrace being a \"bad developer\".\n\nThen you can get faster at putting things together.\n\nSomething I heard that has stuck with me:\n1. Make it work.\n2. Make it right.\n3. Make it fast.\n\nThat was in corporate. Since I went indie, I realized 1 was all that really mattered.",
+    "lang": "en",
+    "in_reply_to_screen_name": "fluttermatt",
+    "in_reply_to_user_id_str": "712684869097168899"
+  }
+}

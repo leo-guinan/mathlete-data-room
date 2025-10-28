@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1908956537713787232"
+        ],
+        "editableUntil": "2025-04-06T19:54:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jordi Hays",
+          "screen_name": "jordihays",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "4188045073",
+          "id": "4188045073"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1908915244837257466",
+    "id_str": "1908956537713787232",
+    "in_reply_to_user_id": "4188045073",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1908956537713787232",
+    "in_reply_to_status_id": "1908915244837257466",
+    "created_at": "Sun Apr 06 18:54:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@jordihays No man ever fries the same beans twice. \n\n*hears about refried beans*\n\nI…. Need to adjust my world model",
+    "lang": "en",
+    "in_reply_to_screen_name": "jordihays",
+    "in_reply_to_user_id_str": "4188045073"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895812256971010201"
+        ],
+        "editableUntil": "2025-03-01T13:23:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "active resonator",
+          "screen_name": "loopholekid",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1915273423",
+          "id": "1915273423"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1895707309961331019",
+    "id_str": "1895812256971010201",
+    "in_reply_to_user_id": "1915273423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895812256971010201",
+    "in_reply_to_status_id": "1895707309961331019",
+    "created_at": "Sat Mar 01 12:23:59 +0000 2025",
+    "favorited": false,
+    "full_text": "@loopholekid that's fair, sorry. There are a bunch of connections in my head that aren't always easy to convey. Really appreciate that feedback.\n\nLet me try a different approach.\n\nThe housing crisis is downstream of a broken economic risk calculus. In other words, people without money are…",
+    "lang": "en",
+    "in_reply_to_screen_name": "loopholekid",
+    "in_reply_to_user_id_str": "1915273423"
+  }
+}

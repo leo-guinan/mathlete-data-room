@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1751383772551934427"
+        ],
+        "editableUntil": "2024-01-28T00:16:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tyler Tringas",
+          "screen_name": "tylertringas",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "33353061",
+          "id": "33353061"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1751349748043247779",
+    "id_str": "1751383772551934427",
+    "in_reply_to_user_id": "33353061",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1751383772551934427",
+    "in_reply_to_status_id": "1751349748043247779",
+    "created_at": "Sat Jan 27 23:16:45 +0000 2024",
+    "favorited": false,
+    "full_text": "@tylertringas Well, that depends.\n\nHonestly, I don't think it will be what it previously was. So then we've got to decide at which scale we want the level of feisty debate. It's easy in a small group that knows/trusts each other. It's harder at worldwide scale.",
+    "lang": "en",
+    "in_reply_to_screen_name": "tylertringas",
+    "in_reply_to_user_id_str": "33353061"
+  }
+}

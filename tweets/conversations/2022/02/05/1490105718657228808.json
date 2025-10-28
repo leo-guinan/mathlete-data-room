@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1490105718657228808"
+        ],
+        "editableUntil": "2022-02-06T00:31:02.810Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kyri Leontiou",
+          "screen_name": "kyrileontiou",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1470450463849992192",
+          "id": "1470450463849992192"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "14",
+            "24"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Kilian Poulin 🦾",
+          "screen_name": "KilianPoulinTW",
+          "indices": [
+            "25",
+            "40"
+          ],
+          "id_str": "2225613595",
+          "id": "2225613595"
+        },
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "41",
+            "49"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "321"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1490062925234593794",
+    "id_str": "1490105718657228808",
+    "in_reply_to_user_id": "1470450463849992192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1490105718657228808",
+    "in_reply_to_status_id": "1490062925234593794",
+    "created_at": "Sat Feb 05 23:31:02 +0000 2022",
+    "favorited": false,
+    "full_text": "@kyrileontiou @NotechAna @KilianPoulinTW @copy_ai There are definitely a ton of benefits.\nIt promotes a builder culture where everyone is constantly experimenting and looking for places to improve. \n\nAnd there's a ton of ways to grow within early stage companies. One of the things I'm looking to grow into is leadership.",
+    "lang": "en",
+    "in_reply_to_screen_name": "kyrileontiou",
+    "in_reply_to_user_id_str": "1470450463849992192"
+  }
+}

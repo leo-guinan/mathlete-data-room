@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1518217012736049155"
+        ],
+        "editableUntil": "2022-04-24T13:45:17.601Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "5",
+    "id_str": "1518217012736049155",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1518217012736049155",
+    "created_at": "Sun Apr 24 13:15:17 +0000 2022",
+    "favorited": false,
+    "full_text": "Digging into some Django today.\n\nI've been meaning to figure it out for a long time and just haven't put the time in.\n\nBut want to use it for a few things I'm working on.\n\nNot too bad so far. Working on adding models to the admin interface right now.\n\nGot Twitter login working",
+    "lang": "en"
+  }
+}

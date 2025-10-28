@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1555946938419363840"
+        ],
+        "editableUntil": "2022-08-06T16:30:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/cSHfQYng80",
+          "expanded_url": "https://blog.buildinpublicuniversity.com/the-build-in-public-university-mascot/",
+          "display_url": "blog.buildinpublicuniversity.com/the-build-in-p…",
+          "indices": [
+            "77",
+            "100"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "0",
+    "id_str": "1555946938419363840",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1555946938419363840",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 06 16:00:32 +0000 2022",
+    "favorited": false,
+    "full_text": "New post on the blog for Build In Public University:\n\nNow there's a mascot!\n\nhttps://t.co/cSHfQYng80",
+    "lang": "en"
+  }
+}

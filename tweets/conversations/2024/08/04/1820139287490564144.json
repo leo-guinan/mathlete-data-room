@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1820139287490564144"
+        ],
+        "editableUntil": "2024-08-04T17:46:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Daniel Vassallo",
+          "screen_name": "dvassallo",
+          "indices": [
+            "53",
+            "63"
+          ],
+          "id_str": "24179991",
+          "id": "24179991"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "160",
+            "171"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "237"
+    ],
+    "favorite_count": "5",
+    "id_str": "1820139287490564144",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1820139287490564144",
+    "created_at": "Sun Aug 04 16:46:37 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, put together my Lifetime Consulting page (h/t to @dvassallo for the idea!)\n\nStill requesting some testimonials, but grabbed some from Twitter and, luckily, @LobowSpark put together a highlight reel for me. So I embedded that as well.",
+    "lang": "en"
+  }
+}

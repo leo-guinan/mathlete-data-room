@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1653791083841593345"
+        ],
+        "editableUntil": "2023-05-03T16:28:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "LangChain",
+          "screen_name": "LangChainAI",
+          "indices": [
+            "34",
+            "46"
+          ],
+          "id_str": "1589007443853340672",
+          "id": "1589007443853340672"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "2",
+    "id_str": "1653791083841593345",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1653791083841593345",
+    "created_at": "Wed May 03 15:58:14 +0000 2023",
+    "favorited": false,
+    "full_text": "Interested in playing around with @LangChainAI? \n\nThis is something I use almost daily at this point. I'm constantly playing around with various chains, agents, and approaches to using LLMs in all aspects of my life.\n\nI've started adding some videos to my Youtube channel too!",
+    "lang": "en"
+  }
+}

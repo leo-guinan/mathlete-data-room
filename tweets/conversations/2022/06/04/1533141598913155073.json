@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1533141598913155073"
+        ],
+        "editableUntil": "2022-06-04T18:10:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1533141598913155073/photo/1",
+          "indices": [
+            "77",
+            "100"
+          ],
+          "url": "https://t.co/tTLFRV2y5G",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FUbQJ-eWIAIIGjH.jpg",
+          "id_str": "1533141592973910018",
+          "id": "1533141592973910018",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FUbQJ-eWIAIIGjH.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/tTLFRV2y5G"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1533140600249253888",
+    "id_str": "1533141598913155073",
+    "in_reply_to_user_id": "1383553628888211456",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1533141598913155073",
+    "in_reply_to_status_id": "1533140600249253888",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 04 17:40:16 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark I love every episode! \n\nAlways excited when a new one comes out. https://t.co/tTLFRV2y5G",
+    "lang": "en",
+    "in_reply_to_screen_name": "LobowSpark",
+    "in_reply_to_user_id_str": "1383553628888211456",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1533141598913155073/photo/1",
+          "indices": [
+            "77",
+            "100"
+          ],
+          "url": "https://t.co/tTLFRV2y5G",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FUbQJ-eWIAIIGjH.jpg",
+          "id_str": "1533141592973910018",
+          "video_info": {
+            "aspect_ratio": [
+              "4",
+              "3"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FUbQJ-eWIAIIGjH.mp4"
+              }
+            ]
+          },
+          "id": "1533141592973910018",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FUbQJ-eWIAIIGjH.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/tTLFRV2y5G"
+        }
+      ]
+    }
+  }
+}

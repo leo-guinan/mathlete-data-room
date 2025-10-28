@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1384115180129320967"
+        ],
+        "editableUntil": "2021-04-19T13:02:29.216Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "🎗️ ThinckFinck (Jeremy) | ∞ADHD∞",
+          "screen_name": "ThinckFinck",
+          "indices": [
+            "11",
+            "23"
+          ],
+          "id_str": "1249559490061574145",
+          "id": "1249559490061574145"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1384115180129320967/photo/1",
+          "indices": [
+            "24",
+            "47"
+          ],
+          "url": "https://t.co/nwJ4TgPvtN",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EzVdaV_UcAEWS6f.jpg",
+          "id_str": "1384115167647002625",
+          "id": "1384115167647002625",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzVdaV_UcAEWS6f.jpg",
+          "sizes": {
+            "medium": {
+              "w": "450",
+              "h": "480",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "450",
+              "h": "480",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "450",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nwJ4TgPvtN"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "47"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1384113844797149186",
+    "id_str": "1384115180129320967",
+    "in_reply_to_user_id": "1377588216526745601",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1384115180129320967",
+    "in_reply_to_status_id": "1384113844797149186",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 19 12:02:29 +0000 2021",
+    "favorited": false,
+    "full_text": "@ARTofADHD @ThinckFinck https://t.co/nwJ4TgPvtN",
+    "lang": "qme",
+    "in_reply_to_screen_name": "4WeekYear",
+    "in_reply_to_user_id_str": "1377588216526745601",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1384115180129320967/photo/1",
+          "indices": [
+            "24",
+            "47"
+          ],
+          "url": "https://t.co/nwJ4TgPvtN",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EzVdaV_UcAEWS6f.jpg",
+          "id_str": "1384115167647002625",
+          "video_info": {
+            "aspect_ratio": [
+              "15",
+              "16"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EzVdaV_UcAEWS6f.mp4"
+              }
+            ]
+          },
+          "id": "1384115167647002625",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EzVdaV_UcAEWS6f.jpg",
+          "sizes": {
+            "medium": {
+              "w": "450",
+              "h": "480",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "450",
+              "h": "480",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "450",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/nwJ4TgPvtN"
+        }
+      ]
+    }
+  }
+}

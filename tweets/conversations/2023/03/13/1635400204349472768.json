@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1635400204349472768"
+        ],
+        "editableUntil": "2023-03-13T22:29:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1635393632957255681",
+    "id_str": "1635400204349472768",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1635400204349472768",
+    "in_reply_to_status_id": "1635393632957255681",
+    "created_at": "Mon Mar 13 21:59:27 +0000 2023",
+    "favorited": false,
+    "full_text": "@JustinAllingham I could do that, but then I would have to give up some control on what gets returned. I'd rather establish the relationship by answering the question through a personal email instead of returning a random result from a Google search.\n\nAs I add more sources, better results.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

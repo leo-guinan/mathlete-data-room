@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1924541575142457823"
+        ],
+        "editableUntil": "2025-05-19T20:04:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tIXWlj5luF",
+          "expanded_url": "https://x.com/mykola/status/1923029892142186790",
+          "display_url": "x.com/mykola/status/…",
+          "indices": [
+            "36",
+            "59"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "1",
+    "id_str": "1924541575142457823",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1924541575142457823",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 19 19:04:02 +0000 2025",
+    "favorited": false,
+    "full_text": "simultaneity is at best an illusion https://t.co/tIXWlj5luF",
+    "lang": "en"
+  }
+}

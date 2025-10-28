@@ -1,0 +1,151 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1817996152563724422"
+        ],
+        "editableUntil": "2024-07-29T19:50:34.163Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "$TBALL on $SOL 🏐",
+          "screen_name": "tetherballcoin",
+          "indices": [
+            "40",
+            "55"
+          ],
+          "id_str": "1795945743410483200",
+          "id": "1795945743410483200"
+        }
+      ],
+      "urls": [],
+      "symbols": [
+        {
+          "text": "TBALL",
+          "indices": [
+            "81",
+            "87"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "expanded_url": "https://x.com/StroutMotivateU/status/1817995498122260520/photo/1",
+          "source_status_id": "1817995498122260520",
+          "indices": [
+            "92",
+            "115"
+          ],
+          "url": "https://t.co/OyYu7N3SJ3",
+          "media_url": "http://pbs.twimg.com/media/GTrRRRwWAAA8wBk.jpg",
+          "id_str": "1817995494351568896",
+          "source_user_id": "1378776755738140675",
+          "id": "1817995494351568896",
+          "media_url_https": "https://pbs.twimg.com/media/GTrRRRwWAAA8wBk.jpg",
+          "source_user_id_str": "1378776755738140675",
+          "sizes": {
+            "medium": {
+              "w": "1062",
+              "h": "1038",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1062",
+              "h": "1038",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "665",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1817995498122260520",
+          "display_url": "pic.x.com/OyYu7N3SJ3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "0",
+    "id_str": "1817996152563724422",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1817996152563724422",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 29 18:50:34 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @StroutMotivateU: the wait is over - @tetherballcoin is listed - time to grab $TBALL 🚀🚀🚀 https://t.co/OyYu7N3SJ3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/StroutMotivateU/status/1817995498122260520/photo/1",
+          "source_status_id": "1817995498122260520",
+          "indices": [
+            "92",
+            "115"
+          ],
+          "url": "https://t.co/OyYu7N3SJ3",
+          "media_url": "http://pbs.twimg.com/media/GTrRRRwWAAA8wBk.jpg",
+          "id_str": "1817995494351568896",
+          "source_user_id": "1378776755738140675",
+          "id": "1817995494351568896",
+          "media_url_https": "https://pbs.twimg.com/media/GTrRRRwWAAA8wBk.jpg",
+          "source_user_id_str": "1378776755738140675",
+          "sizes": {
+            "medium": {
+              "w": "1062",
+              "h": "1038",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1062",
+              "h": "1038",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "665",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1817995498122260520",
+          "display_url": "pic.x.com/OyYu7N3SJ3"
+        }
+      ]
+    }
+  }
+}

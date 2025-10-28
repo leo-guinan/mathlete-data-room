@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1830950440076484657"
+        ],
+        "editableUntil": "2024-09-03T13:46:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1830252921843323351",
+    "id_str": "1830950440076484657",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1830950440076484657",
+    "in_reply_to_status_id": "1830252921843323351",
+    "created_at": "Tue Sep 03 12:46:16 +0000 2024",
+    "favorited": false,
+    "full_text": "@dagorenouf A SaaS tool is knowledge packaged in code. A course is knowledge packaged in video (or some other format). Code does it for you whereas a course requires them to learn to do it themselves.\n\nIt's not nearly as different as it feels. Same scale is possible, just different approach",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561"
+  }
+}

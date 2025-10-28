@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1500561200077230085"
+        ],
+        "editableUntil": "2022-03-06T20:57:23.834Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bobby Goodlatte",
+          "screen_name": "rsg",
+          "indices": [
+            "0",
+            "4"
+          ],
+          "id_str": "2948211",
+          "id": "2948211"
+        },
+        {
+          "name": "Balaji",
+          "screen_name": "balajis",
+          "indices": [
+            "5",
+            "13"
+          ],
+          "id_str": "2178012643",
+          "id": "2178012643"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1500550267569385475",
+    "id_str": "1500561200077230085",
+    "in_reply_to_user_id": "2948211",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1500561200077230085",
+    "in_reply_to_status_id": "1500550267569385475",
+    "created_at": "Sun Mar 06 19:57:23 +0000 2022",
+    "favorited": false,
+    "full_text": "@rsg @balajis There's a need to rethink how we do social media.\n\nIt's become too media and not enough social.\n\nWhich makes sense based on how it was designed.\n\nSocial networks will never succeed when they optimize for on network behavior. \n\nThey'll end up like what they are now.",
+    "lang": "en",
+    "in_reply_to_screen_name": "rsg",
+    "in_reply_to_user_id_str": "2948211"
+  }
+}

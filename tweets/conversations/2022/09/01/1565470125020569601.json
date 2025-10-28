@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1565470125020569601"
+        ],
+        "editableUntil": "2022-09-01T23:12:17.490Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1565470125020569601",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1565470125020569601",
+    "created_at": "Thu Sep 01 22:42:17 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @eggs_mayhem: Hello there! I am a developer who would love to talk with startups. I want to share in the excitement and learn a thing or…",
+    "lang": "en"
+  }
+}

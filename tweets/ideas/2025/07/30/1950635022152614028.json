@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1950635022152614028"
+        ],
+        "editableUntil": "2025-07-30T20:10:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vMS1pIHIzW",
+          "expanded_url": "https://x.com/smthomas3/status/1950571905846497372",
+          "display_url": "x.com/smthomas3/stat…",
+          "indices": [
+            "270",
+            "293"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "8",
+    "id_str": "1950635022152614028",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1950635022152614028",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 30 19:10:04 +0000 2025",
+    "favorited": false,
+    "full_text": "Seriously, Mastra is the best agent framework I've built with. And I've built with a lot of different ones. \n\nI spent a long time picking the framework I wanted to build in, because I knew when I had what I wanted to build figured out, I'd want to build it quickly and… https://t.co/vMS1pIHIzW",
+    "lang": "en"
+  }
+}

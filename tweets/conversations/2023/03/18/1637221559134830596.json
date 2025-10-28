@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1637221559134830596"
+        ],
+        "editableUntil": "2023-03-18T23:06:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "adolfo",
+          "screen_name": "adolfos_tweets",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1779992314657595392",
+          "id": "1779992314657595392"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1637194007414448128",
+    "id_str": "1637221559134830596",
+    "in_reply_to_user_id": "1270173744548311040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1637221559134830596",
+    "in_reply_to_status_id": "1637194007414448128",
+    "created_at": "Sat Mar 18 22:36:52 +0000 2023",
+    "favorited": false,
+    "full_text": "@adolfos_tweets I think RSS is something that isn't used enough anymore. I've been building a lot of functionality on top of that too.\n\nSocial is tough because a lot of companies aren't being particularly nice with their APIs right now, although scraping is getting better, so...",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1270173744548311040"
+  }
+}

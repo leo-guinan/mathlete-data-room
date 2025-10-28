@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811034015945703622"
+        ],
+        "editableUntil": "2024-07-10T14:45:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter Zakin",
+          "screen_name": "pzakin",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "23171244",
+          "id": "23171244"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1810891768285790350",
+    "id_str": "1811034015945703622",
+    "in_reply_to_user_id": "23171244",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1811034015945703622",
+    "in_reply_to_status_id": "1810891768285790350",
+    "created_at": "Wed Jul 10 13:45:31 +0000 2024",
+    "favorited": false,
+    "full_text": "@pzakin That's my opinion on it. Agents have to make value-based decisions, so it only makes sense to offer defaults, but allow individuals to swap them out with better alignment with needs.\n\nOtherwise, locking down to your value system limits you to all the people who can't do better.",
+    "lang": "en",
+    "in_reply_to_screen_name": "pzakin",
+    "in_reply_to_user_id_str": "23171244"
+  }
+}

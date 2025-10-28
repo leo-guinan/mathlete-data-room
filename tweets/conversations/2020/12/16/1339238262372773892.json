@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339238262372773892"
+        ],
+        "editableUntil": "2020-12-16T16:57:38.250Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dave Lee",
+          "screen_name": "heydave7",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "29893444",
+          "id": "29893444"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1339237709076979712",
+    "id_str": "1339238262372773892",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339238262372773892",
+    "in_reply_to_status_id": "1339237709076979712",
+    "created_at": "Wed Dec 16 15:57:38 +0000 2020",
+    "favorited": false,
+    "full_text": "@heydave7 have good returns, regardless of NPV. The trick is to use your money to get data and drive future decisions for where to put the next round. Everybody puts up so many damn rules to make the numbers work. But the real key is paying attention and listening to the data. That's 💰",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1967314092164841871"
+        ],
+        "editableUntil": "2025-09-14T20:46:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1967314092164841871/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/Ks4kTS6FmW",
+          "media_url": "http://pbs.twimg.com/media/G01NBQOXgAAUhkf.jpg",
+          "id_str": "1967313296161210368",
+          "id": "1967313296161210368",
+          "media_url_https": "https://pbs.twimg.com/media/G01NBQOXgAAUhkf.jpg",
+          "sizes": {
+            "large": {
+              "w": "1224",
+              "h": "1088",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "604",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1067",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Ks4kTS6FmW"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "299"
+    ],
+    "favorite_count": "2",
+    "id_str": "1967314092164841871",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1967314092164841871",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 14 19:46:45 +0000 2025",
+    "favorited": false,
+    "full_text": "The last expert in the world dies on January 31, 2027.\n\nThat's the first date entered in the Hitchhiker's Guide to the Future.\n\nThis is the story of their last three days of life, lived in reverse.\n\nThat's also the date that the entry for September 14, 2025 will be written,… https://t.co/Ks4kTS6FmW",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1967314092164841871/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/Ks4kTS6FmW",
+          "media_url": "http://pbs.twimg.com/media/G01NBQOXgAAUhkf.jpg",
+          "id_str": "1967313296161210368",
+          "id": "1967313296161210368",
+          "media_url_https": "https://pbs.twimg.com/media/G01NBQOXgAAUhkf.jpg",
+          "sizes": {
+            "large": {
+              "w": "1224",
+              "h": "1088",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "604",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1067",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Ks4kTS6FmW"
+        }
+      ]
+    }
+  }
+}

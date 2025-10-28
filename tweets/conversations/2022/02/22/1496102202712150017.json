@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1496102202712150017"
+        ],
+        "editableUntil": "2022-02-22T13:38:56.018Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kevon Cheung 🥦",
+          "screen_name": "MeetKevon",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "51882249",
+          "id": "51882249"
+        },
+        {
+          "name": "JC | 🇵🇭 's Community & Content Guy",
+          "screen_name": "venturedevelopr",
+          "indices": [
+            "11",
+            "27"
+          ],
+          "id_str": "709352736618192896",
+          "id": "709352736618192896"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1496088491683364866",
+    "id_str": "1496102202712150017",
+    "in_reply_to_user_id": "51882249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1496102202712150017",
+    "in_reply_to_status_id": "1496088491683364866",
+    "created_at": "Tue Feb 22 12:38:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@MeetKevon @venturedevelopr Exactly. There's way too much focus on a large audience. For most people, that's impossible to manage and just results in a lot of noise for them to sort through.\n\nMaking a bunch of friends who are interested in the stuff you are and want to help you? That's life-changing.",
+    "lang": "en",
+    "in_reply_to_screen_name": "MeetKevon",
+    "in_reply_to_user_id_str": "51882249"
+  }
+}

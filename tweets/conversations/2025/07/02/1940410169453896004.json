@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940410169453896004"
+        ],
+        "editableUntil": "2025-07-02T15:00:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "249",
+            "265"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940410169453896004/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/1GyqNq3Cy4",
+          "media_url": "http://pbs.twimg.com/media/Gu24b8mXAAAa9PG.jpg",
+          "id_str": "1940409804729548800",
+          "id": "1940409804729548800",
+          "media_url_https": "https://pbs.twimg.com/media/Gu24b8mXAAAa9PG.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1176",
+              "h": "776",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1176",
+              "h": "776",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "449",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1GyqNq3Cy4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1940386300701663322",
+    "id_str": "1940410169453896004",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940410169453896004",
+    "in_reply_to_status_id": "1940386300701663322",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 02 14:00:10 +0000 2025",
+    "favorited": false,
+    "full_text": "There's something people don't realize. A business is a game. \n\nGames use game engines.\n\nAll businesses exist within the same metagame, the economy.\n\nTherefore, there exists an engine that can power all possible businesses.\n\nA metagame engine.\n\nCC: @DefenderOfBasic https://t.co/1GyqNq3Cy4",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940410169453896004/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/1GyqNq3Cy4",
+          "media_url": "http://pbs.twimg.com/media/Gu24b8mXAAAa9PG.jpg",
+          "id_str": "1940409804729548800",
+          "id": "1940409804729548800",
+          "media_url_https": "https://pbs.twimg.com/media/Gu24b8mXAAAa9PG.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1176",
+              "h": "776",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1176",
+              "h": "776",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "449",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1GyqNq3Cy4"
+        }
+      ]
+    }
+  }
+}

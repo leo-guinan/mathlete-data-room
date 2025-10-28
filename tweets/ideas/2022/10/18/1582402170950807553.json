@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1582402170950807553"
+        ],
+        "editableUntil": "2022-10-18T16:34:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "259"
+    ],
+    "favorite_count": "2",
+    "id_str": "1582402170950807553",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1582402170950807553",
+    "created_at": "Tue Oct 18 16:04:11 +0000 2022",
+    "favorited": false,
+    "full_text": "Learned the importance of SQL Query structure today, specifically when it comes to really large tables.\n\nI was sorting by a different field than I was filtering on:  took over 1.5 minutes (never let it resolve so I don't know how long it would take to finish)",
+    "lang": "en"
+  }
+}

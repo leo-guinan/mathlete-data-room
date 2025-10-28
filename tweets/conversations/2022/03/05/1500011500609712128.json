@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1500011500609712128"
+        ],
+        "editableUntil": "2022-03-05T08:33:05.268Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vS2iz8OZLq",
+          "expanded_url": "https://link.medium.com/YtLIFx0I7nb",
+          "display_url": "link.medium.com/YtLIFx0I7nb",
+          "indices": [
+            "113",
+            "136"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "0",
+    "id_str": "1500011500609712128",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1500011500609712128",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 05 07:33:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: “‘I would never die for my beliefs because I might be wrong.’ — Bertrand Russell” — Mehboob Khan https://t.co/vS2iz8OZLq",
+    "lang": "en"
+  }
+}

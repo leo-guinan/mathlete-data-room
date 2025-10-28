@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1435617249591767047"
+        ],
+        "editableUntil": "2021-09-08T15:53:19.438Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7yvx47hDLo",
+          "expanded_url": "https://www.loom.com/share/912f9601266949068db29ee41975c228",
+          "display_url": "loom.com/share/912f9601…",
+          "indices": [
+            "162",
+            "185"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "185"
+    ],
+    "favorite_count": "2",
+    "id_str": "1435617249591767047",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1435617249591767047",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 08 14:53:19 +0000 2021",
+    "favorited": false,
+    "full_text": "Now that I've gotten @feathercrm running, put together a couple of Loom videos to show how it works.\n\nHere's how to sign up and link your Twitter Account:\n[Home] https://t.co/7yvx47hDLo",
+    "lang": "en"
+  }
+}

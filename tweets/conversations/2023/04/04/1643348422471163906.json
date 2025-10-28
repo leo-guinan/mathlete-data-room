@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1643348422471163906"
+        ],
+        "editableUntil": "2023-04-04T20:52:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1643347739164700672",
+    "id_str": "1643348422471163906",
+    "in_reply_to_user_id": "16884623",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1643348422471163906",
+    "in_reply_to_status_id": "1643347739164700672",
+    "created_at": "Tue Apr 04 20:22:50 +0000 2023",
+    "favorited": false,
+    "full_text": "@visakanv The divide between knowing and implementing is sometimes an uncrossable chasm and the only way is to go down to the bottom and climb up the other side.\n\nLearning to enjoy the climb when that's the case.",
+    "lang": "en",
+    "in_reply_to_screen_name": "visakanv",
+    "in_reply_to_user_id_str": "16884623"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1471107406067380227"
+        ],
+        "editableUntil": "2021-12-15T14:18:32.117Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1471107406067380227",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1471107406067380227",
+    "created_at": "Wed Dec 15 13:18:32 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @NotechAna: Today is the day!\n\nI'm launching Marketing Palybook for early-stage startup founders 🤩\n\nRT and DM me in the next 12 hours an…",
+    "lang": "en"
+  }
+}

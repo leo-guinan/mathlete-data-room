@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1952140475026256363"
+        ],
+        "editableUntil": "2025-08-03T23:52:12.919Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1952138621726691389/photo/1",
+          "source_status_id": "1952138621726691389",
+          "indices": [
+            "86",
+            "109"
+          ],
+          "url": "https://t.co/iiE0uwCQ89",
+          "media_url": "http://pbs.twimg.com/media/GxdjnH_XAAAM9-S.jpg",
+          "id_str": "1952138487299244032",
+          "source_user_id": "1680757426889342977",
+          "id": "1952138487299244032",
+          "media_url_https": "https://pbs.twimg.com/media/GxdjnH_XAAAM9-S.jpg",
+          "source_user_id_str": "1680757426889342977",
+          "sizes": {
+            "large": {
+              "w": "1824",
+              "h": "1692",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "631",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1113",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1952138621726691389",
+          "display_url": "pic.x.com/iiE0uwCQ89"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "0",
+    "id_str": "1952140475026256363",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1952140475026256363",
+    "possibly_sensitive": false,
+    "created_at": "Sun Aug 03 22:52:12 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @DefenderOfBasic: \"How smart nerds hinder the spread of good ideas\", a short story https://t.co/iiE0uwCQ89",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1952138621726691389/photo/1",
+          "source_status_id": "1952138621726691389",
+          "indices": [
+            "86",
+            "109"
+          ],
+          "url": "https://t.co/iiE0uwCQ89",
+          "media_url": "http://pbs.twimg.com/media/GxdjnH_XAAAM9-S.jpg",
+          "id_str": "1952138487299244032",
+          "source_user_id": "1680757426889342977",
+          "id": "1952138487299244032",
+          "media_url_https": "https://pbs.twimg.com/media/GxdjnH_XAAAM9-S.jpg",
+          "source_user_id_str": "1680757426889342977",
+          "sizes": {
+            "large": {
+              "w": "1824",
+              "h": "1692",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "631",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1113",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1952138621726691389",
+          "display_url": "pic.x.com/iiE0uwCQ89"
+        }
+      ]
+    }
+  }
+}

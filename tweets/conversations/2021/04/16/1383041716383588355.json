@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1383041716383588355"
+        ],
+        "editableUntil": "2021-04-16T13:56:55.515Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W9fEUAAuMf",
+          "expanded_url": "https://think-boundless.com/navigating-life-without-a-map/",
+          "display_url": "think-boundless.com/navigating-lif…",
+          "indices": [
+            "76",
+            "99"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "0",
+    "id_str": "1383041716383588355",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1383041716383588355",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 16 12:56:55 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @p_millerd: Wrote about this in terms of becoming self-employed as well.\nhttps://t.co/W9fEUAAuMf",
+    "lang": "en"
+  }
+}

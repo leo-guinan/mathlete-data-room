@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1664328104444043273"
+        ],
+        "editableUntil": "2023-06-01T18:18:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Llull",
+          "screen_name": "AlexLlullTW",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1088899525987782657",
+          "id": "1088899525987782657"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1664285478512889858",
+    "id_str": "1664328104444043273",
+    "in_reply_to_user_id": "1088899525987782657",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1664328104444043273",
+    "in_reply_to_status_id": "1664285478512889858",
+    "created_at": "Thu Jun 01 17:48:36 +0000 2023",
+    "favorited": false,
+    "full_text": "@AlexLlullTW 100%. That's why my new Youtube channel has quite a bit of content about various tools and approaches you can use to integrate AI into your existing processes.\n\nAs well as stuff for devs who want to start building with AI models.\n\nHate the negative hooks.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AlexLlullTW",
+    "in_reply_to_user_id_str": "1088899525987782657"
+  }
+}

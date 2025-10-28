@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507812885350727680"
+        ],
+        "editableUntil": "2022-03-26T21:13:00.333Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jon Mercer",
+          "screen_name": "jonnmercer",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "49541830",
+          "id": "49541830"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1507812885350727680/photo/1",
+          "indices": [
+            "75",
+            "98"
+          ],
+          "url": "https://t.co/0gGCb16BCa",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FOzT0x8XMAYNK6_.jpg",
+          "id_str": "1507812878975447046",
+          "id": "1507812878975447046",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOzT0x8XMAYNK6_.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "268",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "268",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "268",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0gGCb16BCa"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1507728427796897800",
+    "id_str": "1507812885350727680",
+    "in_reply_to_user_id": "49541830",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507812885350727680",
+    "in_reply_to_status_id": "1507728427796897800",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 26 20:13:00 +0000 2022",
+    "favorited": false,
+    "full_text": "@jonnmercer That does make a lot of things easier,  can't argue with that. https://t.co/0gGCb16BCa",
+    "lang": "en",
+    "in_reply_to_screen_name": "jonnmercer",
+    "in_reply_to_user_id_str": "49541830",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1507812885350727680/photo/1",
+          "indices": [
+            "75",
+            "98"
+          ],
+          "url": "https://t.co/0gGCb16BCa",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FOzT0x8XMAYNK6_.jpg",
+          "id_str": "1507812878975447046",
+          "video_info": {
+            "aspect_ratio": [
+              "120",
+              "67"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FOzT0x8XMAYNK6_.mp4"
+              }
+            ]
+          },
+          "id": "1507812878975447046",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOzT0x8XMAYNK6_.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "268",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "268",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "268",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/0gGCb16BCa"
+        }
+      ]
+    }
+  }
+}

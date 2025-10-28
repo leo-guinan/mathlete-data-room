@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887310525345800504"
+        ],
+        "editableUntil": "2025-02-06T02:21:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Taijitu Observer",
+          "screen_name": "taijitu_sees",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1580914207645921280",
+          "id": "1580914207645921280"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "236"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1887307908779811019",
+    "id_str": "1887310525345800504",
+    "in_reply_to_user_id": "1580914207645921280",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887310525345800504",
+    "in_reply_to_status_id": "1887307908779811019",
+    "created_at": "Thu Feb 06 01:21:08 +0000 2025",
+    "favorited": false,
+    "full_text": "@taijitu_sees That's exactly it. Sciences guarantees that 2 people from anywhere with the same baseline can repeat an outcome. There's a lot that's not yet in the language of science yet because there are things that are hard to define.",
+    "lang": "en",
+    "in_reply_to_screen_name": "taijitu_sees",
+    "in_reply_to_user_id_str": "1580914207645921280"
+  }
+}

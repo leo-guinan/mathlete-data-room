@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1882835563725857249"
+        ],
+        "editableUntil": "2025-01-24T17:59:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brandon Brooks",
+          "screen_name": "OfficialBBrooks",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "929464603439923201",
+          "id": "929464603439923201"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "295"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1882834973524173067",
+    "id_str": "1882835563725857249",
+    "in_reply_to_user_id": "929464603439923201",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1882835563725857249",
+    "in_reply_to_status_id": "1882834973524173067",
+    "created_at": "Fri Jan 24 16:59:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@OfficialBBrooks I think it can, just not directly.\n\nI've been looking at this problem through the lens of Human Insurance: a way to help insure people against price manipulations and AI disruption.\n\nWhen you break down the economics and understand the risk that's been missed, it's easy to see.",
+    "lang": "en",
+    "in_reply_to_screen_name": "OfficialBBrooks",
+    "in_reply_to_user_id_str": "929464603439923201"
+  }
+}

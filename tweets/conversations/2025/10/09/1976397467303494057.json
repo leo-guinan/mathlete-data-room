@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1976397467303494057"
+        ],
+        "editableUntil": "2025-10-09T22:20:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LT2KmC8nvW",
+          "expanded_url": "https://github.com/leo-guinan/idearank",
+          "display_url": "github.com/leo-guinan/ide…",
+          "indices": [
+            "25",
+            "48"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1976397465629884922",
+    "id_str": "1976397467303494057",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1976397467303494057",
+    "in_reply_to_status_id": "1976397465629884922",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 09 21:20:50 +0000 2025",
+    "favorited": false,
+    "full_text": "Check out the repo here: https://t.co/LT2KmC8nvW\n\nHave a CLI that I'm running against my Youtube Channel and Ghost blogs, and then will add community-archive support.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

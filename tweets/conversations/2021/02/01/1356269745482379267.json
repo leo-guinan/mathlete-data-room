@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1356269745482379267"
+        ],
+        "editableUntil": "2021-02-01T16:54:40.253Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aniela (yay !)",
+          "screen_name": "tokenliberal",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1693464543962210305",
+          "id": "1693464543962210305"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "152"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1356268842515886084",
+    "id_str": "1356269745482379267",
+    "in_reply_to_user_id": "16668643",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1356269745482379267",
+    "in_reply_to_status_id": "1356268842515886084",
+    "created_at": "Mon Feb 01 15:54:40 +0000 2021",
+    "favorited": false,
+    "full_text": "@tokenliberal Man: releases tiger into town\nTiger: eats people\nMan: \"Never going there. Didn't you hear? Tiger over there eating people.  It's not safe\"",
+    "lang": "en",
+    "in_reply_to_user_id_str": "16668643"
+  }
+}

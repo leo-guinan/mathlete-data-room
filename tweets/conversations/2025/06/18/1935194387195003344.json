@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1935194387195003344"
+        ],
+        "editableUntil": "2025-06-18T05:34:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1935194387195003344/photo/1",
+          "indices": [
+            "137",
+            "160"
+          ],
+          "url": "https://t.co/otpKpgML7E",
+          "media_url": "http://pbs.twimg.com/media/GtswD4taQAEuTHr.jpg",
+          "id_str": "1935193308206350337",
+          "id": "1935193308206350337",
+          "media_url_https": "https://pbs.twimg.com/media/GtswD4taQAEuTHr.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "750",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "249",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "439",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/otpKpgML7E"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "160"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1935194384536060073",
+    "id_str": "1935194387195003344",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1935194387195003344",
+    "in_reply_to_status_id": "1935194384536060073",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 18 04:34:30 +0000 2025",
+    "favorited": false,
+    "full_text": "Super easy. AI+token cost prevents abuse. Trust in the system compounds and can be used in tandem with other versions of trust networks. https://t.co/otpKpgML7E",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1935194387195003344/photo/1",
+          "indices": [
+            "137",
+            "160"
+          ],
+          "url": "https://t.co/otpKpgML7E",
+          "media_url": "http://pbs.twimg.com/media/GtswD4taQAEuTHr.jpg",
+          "id_str": "1935193308206350337",
+          "id": "1935193308206350337",
+          "media_url_https": "https://pbs.twimg.com/media/GtswD4taQAEuTHr.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "750",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "249",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "439",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/otpKpgML7E"
+        }
+      ]
+    }
+  }
+}

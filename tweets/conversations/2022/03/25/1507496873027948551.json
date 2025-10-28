@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507496873027948551"
+        ],
+        "editableUntil": "2022-03-26T00:17:17.124Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "226"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1507495685645639687",
+    "id_str": "1507496873027948551",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507496873027948551",
+    "in_reply_to_status_id": "1507495685645639687",
+    "created_at": "Fri Mar 25 23:17:17 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU That's true.\n\nAnything I can help with? Creative problem solving on no budget is kinda my superpower.\n\nTerrible at making money. But really good at generating data that answers questions and solves problems. 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

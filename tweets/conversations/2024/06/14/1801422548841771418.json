@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1801422548841771418"
+        ],
+        "editableUntil": "2024-06-14T02:12:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nate Ritter 🦋",
+          "screen_name": "nateritter",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "712823",
+          "id": "712823"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1801351065046290550",
+    "id_str": "1801422548841771418",
+    "in_reply_to_user_id": "712823",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1801422548841771418",
+    "in_reply_to_status_id": "1801351065046290550",
+    "created_at": "Fri Jun 14 01:12:59 +0000 2024",
+    "favorited": false,
+    "full_text": "@nateritter Yep! I think it makes sense too, if you think about it like a sports team. There's a head coach, and then position coaches. Then you might have specialty trainers etc.\n\nEven if you just had people available to call on and paid them an agreed fee per use, something like that.",
+    "lang": "en",
+    "in_reply_to_screen_name": "nateritter",
+    "in_reply_to_user_id_str": "712823"
+  }
+}

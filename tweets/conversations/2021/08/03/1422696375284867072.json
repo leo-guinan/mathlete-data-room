@@ -1,0 +1,161 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422696375284867072"
+        ],
+        "editableUntil": "2021-08-04T00:10:22.945Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Packy McCormick",
+          "screen_name": "packyM",
+          "indices": [
+            "66",
+            "73"
+          ],
+          "id_str": "21306324",
+          "id": "21306324"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1422696375284867072/photo/1",
+          "indices": [
+            "168",
+            "191"
+          ],
+          "url": "https://t.co/P5pJx3nqjt",
+          "media_url": "http://pbs.twimg.com/media/E75uzxIXoAAovks.jpg",
+          "id_str": "1422696367936479232",
+          "id": "1422696367936479232",
+          "media_url_https": "https://pbs.twimg.com/media/E75uzxIXoAAovks.jpg",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "456",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "456",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "287",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/P5pJx3nqjt"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "191"
+    ],
+    "favorite_count": "11",
+    "id_str": "1422696375284867072",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422696375284867072",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 03 23:10:22 +0000 2021",
+    "favorited": false,
+    "full_text": "I'm writing an article about \"The Great Online Game\", inspired by @packyM's article. And when I searched for the link, I noticed something funny. \n\nCan anyone spot it? https://t.co/P5pJx3nqjt",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1422696375284867072/photo/1",
+          "indices": [
+            "168",
+            "191"
+          ],
+          "url": "https://t.co/P5pJx3nqjt",
+          "media_url": "http://pbs.twimg.com/media/E75uzxIXoAAovks.jpg",
+          "id_str": "1422696367936479232",
+          "id": "1422696367936479232",
+          "media_url_https": "https://pbs.twimg.com/media/E75uzxIXoAAovks.jpg",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "456",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "456",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "287",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/P5pJx3nqjt"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1422696375284867072/photo/1",
+          "indices": [
+            "168",
+            "191"
+          ],
+          "url": "https://t.co/P5pJx3nqjt",
+          "media_url": "http://pbs.twimg.com/media/E75u0AHWEAI1RKw.jpg",
+          "id_str": "1422696371958714370",
+          "id": "1422696371958714370",
+          "media_url_https": "https://pbs.twimg.com/media/E75u0AHWEAI1RKw.jpg",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "954",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "601",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "954",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/P5pJx3nqjt"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1535259774463385601"
+        ],
+        "editableUntil": "2022-06-10T14:27:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "49",
+            "63"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SOFefoG4Od",
+          "expanded_url": "https://x.com/MindsetByDave/status/1528081258198315009?s=20&t=FvDf8tv9VD6yhuPPrWiJ7w",
+          "display_url": "x.com/MindsetByDave/…",
+          "indices": [
+            "104",
+            "127"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1535259774463385601/photo/1",
+          "indices": [
+            "261",
+            "284"
+          ],
+          "url": "https://t.co/GzMXDtU0xe",
+          "media_url": "http://pbs.twimg.com/media/FU5WoNYWAAEOgbc.jpg",
+          "id_str": "1535259771766439937",
+          "id": "1535259771766439937",
+          "media_url_https": "https://pbs.twimg.com/media/FU5WoNYWAAEOgbc.jpg",
+          "sizes": {
+            "medium": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GzMXDtU0xe"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "284"
+    ],
+    "favorite_count": "2",
+    "id_str": "1535259774463385601",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1535259774463385601",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 10 13:57:08 +0000 2022",
+    "favorited": false,
+    "full_text": "Excited for the Mental Health Ultramarathon that @MindsetByDave is putting on today! Check it out here: https://t.co/SOFefoG4Od\n\nI'll be guest #13 at 5PM Eastern and chatting about mental health, social media, and all sorts of related topics. Hope you join us! https://t.co/GzMXDtU0xe",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1535259774463385601/photo/1",
+          "indices": [
+            "261",
+            "284"
+          ],
+          "url": "https://t.co/GzMXDtU0xe",
+          "media_url": "http://pbs.twimg.com/media/FU5WoNYWAAEOgbc.jpg",
+          "id_str": "1535259771766439937",
+          "id": "1535259771766439937",
+          "media_url_https": "https://pbs.twimg.com/media/FU5WoNYWAAEOgbc.jpg",
+          "sizes": {
+            "medium": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GzMXDtU0xe"
+        }
+      ]
+    }
+  }
+}

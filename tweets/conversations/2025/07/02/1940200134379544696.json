@@ -1,0 +1,160 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940200134379544696"
+        ],
+        "editableUntil": "2025-07-02T01:05:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Apoorv",
+          "screen_name": "apoorv3E",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "60220777",
+          "id": "60220777"
+        },
+        {
+          "name": "Champion 0f The Goddess",
+          "screen_name": "Seraph_Notitia",
+          "indices": [
+            "10",
+            "25"
+          ],
+          "id_str": "1716575515476439040",
+          "id": "1716575515476439040"
+        },
+        {
+          "name": "Paras Chopra",
+          "screen_name": "paraschopra",
+          "indices": [
+            "26",
+            "38"
+          ],
+          "id_str": "14832563",
+          "id": "14832563"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NfeKo0SsWv",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/internet-20-the-sovereign-individual",
+          "display_url": "hitchhikertothefuture.substack.com/p/internet-20-…",
+          "indices": [
+            "82",
+            "105"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940200134379544696/photo/1",
+          "indices": [
+            "106",
+            "129"
+          ],
+          "url": "https://t.co/wd72JowG9L",
+          "media_url": "http://pbs.twimg.com/media/Guz5vPlW8AAkfNX.jpg",
+          "id_str": "1940200129522233344",
+          "id": "1940200129522233344",
+          "media_url_https": "https://pbs.twimg.com/media/Guz5vPlW8AAkfNX.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wd72JowG9L"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "129"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1939917588118778105",
+    "id_str": "1940200134379544696",
+    "in_reply_to_user_id": "60220777",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940200134379544696",
+    "in_reply_to_status_id": "1939917588118778105",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 02 00:05:33 +0000 2025",
+    "favorited": false,
+    "full_text": "@apoorv3E @Seraph_Notitia @paraschopra Smart nerds are banking on Internet 2.0. \n\nhttps://t.co/NfeKo0SsWv https://t.co/wd72JowG9L",
+    "lang": "en",
+    "in_reply_to_screen_name": "apoorv3E",
+    "in_reply_to_user_id_str": "60220777",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940200134379544696/photo/1",
+          "indices": [
+            "106",
+            "129"
+          ],
+          "url": "https://t.co/wd72JowG9L",
+          "media_url": "http://pbs.twimg.com/media/Guz5vPlW8AAkfNX.jpg",
+          "id_str": "1940200129522233344",
+          "id": "1940200129522233344",
+          "media_url_https": "https://pbs.twimg.com/media/Guz5vPlW8AAkfNX.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wd72JowG9L"
+        }
+      ]
+    }
+  }
+}

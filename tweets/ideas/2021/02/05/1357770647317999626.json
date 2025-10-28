@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1357770647317999626"
+        ],
+        "editableUntil": "2021-02-05T20:18:43.136Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PceVJMD9OK",
+          "expanded_url": "https://x.com/balajis/status/1357439103776681984",
+          "display_url": "x.com/balajis/status…",
+          "indices": [
+            "29",
+            "52"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "0",
+    "id_str": "1357770647317999626",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1357770647317999626",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 05 19:18:43 +0000 2021",
+    "favorited": false,
+    "full_text": "Thoughts, @curiousexaminer ? https://t.co/PceVJMD9OK",
+    "lang": "en"
+  }
+}

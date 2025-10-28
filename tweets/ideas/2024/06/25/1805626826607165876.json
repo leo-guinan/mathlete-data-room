@@ -1,0 +1,150 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1805626826607165876"
+        ],
+        "editableUntil": "2024-06-25T16:39:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1805626826607165876/photo/1",
+          "indices": [
+            "138",
+            "161"
+          ],
+          "url": "https://t.co/CmN620L4Gj",
+          "media_url": "http://pbs.twimg.com/media/GQ7f5zpWEAIZrMP.jpg",
+          "id_str": "1805626684831305730",
+          "id": "1805626684831305730",
+          "media_url_https": "https://pbs.twimg.com/media/GQ7f5zpWEAIZrMP.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1470",
+              "h": "1096",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "895",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/CmN620L4Gj"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "1",
+    "id_str": "1805626826607165876",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1805626826607165876",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 25 15:39:17 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, chatgpt. If I wanted to use photoshop to create an image, I would have done so.\n\nMan, I used to be the lazy one in this relationship. https://t.co/CmN620L4Gj",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1805626826607165876/photo/1",
+          "indices": [
+            "138",
+            "161"
+          ],
+          "url": "https://t.co/CmN620L4Gj",
+          "media_url": "http://pbs.twimg.com/media/GQ7f5zpWEAIZrMP.jpg",
+          "id_str": "1805626684831305730",
+          "id": "1805626684831305730",
+          "media_url_https": "https://pbs.twimg.com/media/GQ7f5zpWEAIZrMP.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1470",
+              "h": "1096",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "895",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/CmN620L4Gj"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1805626826607165876/photo/1",
+          "indices": [
+            "138",
+            "161"
+          ],
+          "url": "https://t.co/CmN620L4Gj",
+          "media_url": "http://pbs.twimg.com/media/GQ7f62cXIAAbHNz.png",
+          "id_str": "1805626702762024960",
+          "id": "1805626702762024960",
+          "media_url_https": "https://pbs.twimg.com/media/GQ7f62cXIAAbHNz.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "155",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1470",
+              "h": "190",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "88",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/CmN620L4Gj"
+        }
+      ]
+    }
+  }
+}

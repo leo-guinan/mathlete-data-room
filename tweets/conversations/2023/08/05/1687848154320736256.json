@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1687848154320736256"
+        ],
+        "editableUntil": "2023-08-05T16:28:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Philipp Keller",
+          "screen_name": "philkellr",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1554123580555796480",
+          "id": "1554123580555796480"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1687773929002156032",
+    "id_str": "1687848154320736256",
+    "in_reply_to_user_id": "1554123580555796480",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1687848154320736256",
+    "in_reply_to_status_id": "1687773929002156032",
+    "created_at": "Sat Aug 05 15:28:53 +0000 2023",
+    "favorited": false,
+    "full_text": "@philkellr @KrysChromo I believe so. The amount of power in the hands of the individual is increasing, which means that small, efficient teams will be able to greatly out-perform and out-maneuver larger teams.\n\nThe more people, the more friction, the more chances to get out of sync.\n\nGroups of small…",
+    "lang": "en",
+    "in_reply_to_screen_name": "philkellr",
+    "in_reply_to_user_id_str": "1554123580555796480"
+  }
+}

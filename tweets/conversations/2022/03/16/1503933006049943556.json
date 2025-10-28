@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1503933006049943556"
+        ],
+        "editableUntil": "2022-03-16T04:15:45.023Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "50",
+            "61"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "254"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1503933004711878664",
+    "id_str": "1503933006049943556",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1503933006049943556",
+    "in_reply_to_status_id": "1503933004711878664",
+    "created_at": "Wed Mar 16 03:15:45 +0000 2022",
+    "favorited": false,
+    "full_text": "Thats a big driver behind the work I'm doing with @LobowSpark and @feathercrm and all of it. \n\nBecause we are subjecting too damn many people to it every day. \n\nAnd it all comes down to the way these systems work. \n\nThey give the negative too much power.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

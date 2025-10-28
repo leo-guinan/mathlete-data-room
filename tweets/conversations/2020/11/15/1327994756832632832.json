@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327994756832632832"
+        ],
+        "editableUntil": "2020-11-15T16:19:57.635Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "George Takei",
+          "screen_name": "GeorgeTakei",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "237845487",
+          "id": "237845487"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/GeorgeTakei/status/1327971086676467715/photo/1",
+          "source_status_id": "1327971086676467715",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/E2907XPgDC",
+          "media_url": "http://pbs.twimg.com/media/Em3mqiEXUAIhCKn.jpg",
+          "id_str": "1327971083518169090",
+          "source_user_id": "237845487",
+          "id": "1327971083518169090",
+          "media_url_https": "https://pbs.twimg.com/media/Em3mqiEXUAIhCKn.jpg",
+          "source_user_id_str": "237845487",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "812",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "476",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1327971086676467715",
+          "display_url": "pic.x.com/E2907XPgDC"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "0",
+    "id_str": "1327994756832632832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327994756832632832",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 15:19:57 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @GeorgeTakei: Fixed it! https://t.co/E2907XPgDC",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/GeorgeTakei/status/1327971086676467715/photo/1",
+          "source_status_id": "1327971086676467715",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/E2907XPgDC",
+          "media_url": "http://pbs.twimg.com/media/Em3mqiEXUAIhCKn.jpg",
+          "id_str": "1327971083518169090",
+          "source_user_id": "237845487",
+          "id": "1327971083518169090",
+          "media_url_https": "https://pbs.twimg.com/media/Em3mqiEXUAIhCKn.jpg",
+          "source_user_id_str": "237845487",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "812",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "476",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1327971086676467715",
+          "display_url": "pic.x.com/E2907XPgDC"
+        }
+      ]
+    }
+  }
+}

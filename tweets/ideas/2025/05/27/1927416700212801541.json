@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1927416700212801541"
+        ],
+        "editableUntil": "2025-05-27T18:28:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1927416700212801541/photo/1",
+          "indices": [
+            "19",
+            "42"
+          ],
+          "url": "https://t.co/3qJ1Rcs6Uc",
+          "media_url": "http://pbs.twimg.com/media/Gr-PRVZW8AEngCI.jpg",
+          "id_str": "1927416693501915137",
+          "id": "1927416693501915137",
+          "media_url_https": "https://pbs.twimg.com/media/Gr-PRVZW8AEngCI.jpg",
+          "sizes": {
+            "small": {
+              "w": "662",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1168",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1994",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3qJ1Rcs6Uc"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "42"
+    ],
+    "favorite_count": "1",
+    "id_str": "1927416700212801541",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1927416700212801541",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 27 17:28:45 +0000 2025",
+    "favorited": false,
+    "full_text": "Sleepy house today https://t.co/3qJ1Rcs6Uc",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1927416700212801541/photo/1",
+          "indices": [
+            "19",
+            "42"
+          ],
+          "url": "https://t.co/3qJ1Rcs6Uc",
+          "media_url": "http://pbs.twimg.com/media/Gr-PRVZW8AEngCI.jpg",
+          "id_str": "1927416693501915137",
+          "id": "1927416693501915137",
+          "media_url_https": "https://pbs.twimg.com/media/Gr-PRVZW8AEngCI.jpg",
+          "sizes": {
+            "small": {
+              "w": "662",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1168",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1994",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3qJ1Rcs6Uc"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1671586853479227403"
+        ],
+        "editableUntil": "2023-06-21T19:32:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3VYwDOhRFy",
+          "expanded_url": "https://youtu.be/5GPcehV1BRU",
+          "display_url": "youtu.be/5GPcehV1BRU",
+          "indices": [
+            "21",
+            "44"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1671586377325060115",
+    "id_str": "1671586853479227403",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1671586853479227403",
+    "in_reply_to_status_id": "1671586377325060115",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 21 18:32:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Check it out here! \n\nhttps://t.co/3VYwDOhRFy",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

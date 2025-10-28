@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1468635172262268934"
+        ],
+        "editableUntil": "2021-12-08T18:34:45.646Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1468635172262268934/photo/1",
+          "indices": [
+            "58",
+            "81"
+          ],
+          "url": "https://t.co/42jrhry22O",
+          "media_url": "http://pbs.twimg.com/media/FGGj6AbXMAwQNdO.jpg",
+          "id_str": "1468635170441998348",
+          "id": "1468635170441998348",
+          "media_url_https": "https://pbs.twimg.com/media/FGGj6AbXMAwQNdO.jpg",
+          "sizes": {
+            "large": {
+              "w": "955",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "560",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "317",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/42jrhry22O"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "2",
+    "id_str": "1468635172262268934",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1468635172262268934",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 08 17:34:45 +0000 2021",
+    "favorited": false,
+    "full_text": "Ah, the fond memories from Invalid date, way back in NaN. https://t.co/42jrhry22O",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1468635172262268934/photo/1",
+          "indices": [
+            "58",
+            "81"
+          ],
+          "url": "https://t.co/42jrhry22O",
+          "media_url": "http://pbs.twimg.com/media/FGGj6AbXMAwQNdO.jpg",
+          "id_str": "1468635170441998348",
+          "id": "1468635170441998348",
+          "media_url_https": "https://pbs.twimg.com/media/FGGj6AbXMAwQNdO.jpg",
+          "sizes": {
+            "large": {
+              "w": "955",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "560",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "317",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/42jrhry22O"
+        }
+      ]
+    }
+  }
+}

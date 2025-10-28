@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1593071869896577024"
+        ],
+        "editableUntil": "2022-11-17T03:11:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Araks Brand",
+          "screen_name": "Araks111",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3239016249",
+          "id": "3239016249"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1592594285438074880",
+    "id_str": "1593071869896577024",
+    "in_reply_to_user_id": "3239016249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1593071869896577024",
+    "in_reply_to_status_id": "1592594285438074880",
+    "created_at": "Thu Nov 17 02:41:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@Araks111 Awesome, thanks for that feedback! Definitely need to do more with images. I'm not very good with editing, so I minimize the amount I need to do lol\n\nBut I'll try to add some next time. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "Araks111",
+    "in_reply_to_user_id_str": "3239016249"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1595128025481633797"
+        ],
+        "editableUntil": "2022-11-22T19:22:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Patrice Gorissen",
+          "screen_name": "patricegorissen",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "57920691",
+          "id": "57920691"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "17",
+            "33"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "313"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1595126338536763393",
+    "id_str": "1595128025481633797",
+    "in_reply_to_user_id": "57920691",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1595128025481633797",
+    "in_reply_to_status_id": "1595126338536763393",
+    "created_at": "Tue Nov 22 18:52:11 +0000 2022",
+    "favorited": false,
+    "full_text": "@patricegorissen @StroutMotivateU Well, I introduced tennis balls (aka missiles....) , but there were issues with messing with things that belonged to the church (we were in the basement, not the main church), language quoted from Youtube videos that was impressively inappropriate in one instance, wrestling, etc",
+    "lang": "en",
+    "in_reply_to_screen_name": "patricegorissen",
+    "in_reply_to_user_id_str": "57920691"
+  }
+}

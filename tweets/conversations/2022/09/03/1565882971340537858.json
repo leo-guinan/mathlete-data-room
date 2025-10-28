@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1565882971340537858"
+        ],
+        "editableUntil": "2022-09-03T02:32:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "51",
+            "65"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "68",
+            "79"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "82",
+            "98"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "101",
+            "115"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8eCDjGKIV8",
+          "expanded_url": "https://x.com/LobowSpark/status/1565793177520537611",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1565882971340537858/photo/1",
+          "indices": [
+            "140",
+            "163"
+          ],
+          "url": "https://t.co/mtN7jBuJ8w",
+          "media_url": "http://pbs.twimg.com/media/FbsiFjvXgAAL_pD.jpg",
+          "id_str": "1565882774329982976",
+          "id": "1565882774329982976",
+          "media_url_https": "https://pbs.twimg.com/media/FbsiFjvXgAAL_pD.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "597",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "338",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1019",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mtN7jBuJ8w"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "22",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "163"
+    ],
+    "favorite_count": "7",
+    "id_str": "1565882971340537858",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1565882971340537858",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 03 02:02:47 +0000 2022",
+    "favorited": false,
+    "full_text": "Great time as always! #ADHDWithBenefits\n\nFeaturing @TheKookamonga , @LobowSpark , @BlushingCrafter + @MechiMansilla https://t.co/8eCDjGKIV8 https://t.co/mtN7jBuJ8w",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1565882971340537858/photo/1",
+          "indices": [
+            "140",
+            "163"
+          ],
+          "url": "https://t.co/mtN7jBuJ8w",
+          "media_url": "http://pbs.twimg.com/media/FbsiFjvXgAAL_pD.jpg",
+          "id_str": "1565882774329982976",
+          "id": "1565882774329982976",
+          "media_url_https": "https://pbs.twimg.com/media/FbsiFjvXgAAL_pD.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "597",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "338",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1019",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mtN7jBuJ8w"
+        }
+      ]
+    }
+  }
+}

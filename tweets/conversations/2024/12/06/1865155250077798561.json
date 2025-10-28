@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1865155250077798561"
+        ],
+        "editableUntil": "2024-12-06T23:03:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Taijitu Observer",
+          "screen_name": "taijitu_sees",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1580914207645921280",
+          "id": "1580914207645921280"
+        },
+        {
+          "name": "Aarti",
+          "screen_name": "00aarti",
+          "indices": [
+            "14",
+            "22"
+          ],
+          "id_str": "2395240338",
+          "id": "2395240338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1865151904093024303",
+    "id_str": "1865155250077798561",
+    "in_reply_to_user_id": "1580914207645921280",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1865155250077798561",
+    "in_reply_to_status_id": "1865151904093024303",
+    "created_at": "Fri Dec 06 22:03:59 +0000 2024",
+    "favorited": false,
+    "full_text": "@taijitu_sees @00aarti haha that or an agent that intercepts them, does research on the sender and forwards the picture to family members.",
+    "lang": "en",
+    "in_reply_to_screen_name": "taijitu_sees",
+    "in_reply_to_user_id_str": "1580914207645921280"
+  }
+}

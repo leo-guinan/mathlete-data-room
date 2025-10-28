@@ -1,0 +1,64 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1692959958873092234"
+        ],
+        "editableUntil": "2023-08-19T19:01:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "text": "X",
+          "indices": [
+            "106",
+            "108"
+          ]
+        },
+        {
+          "text": "Y",
+          "indices": [
+            "174",
+            "176"
+          ]
+        },
+        {
+          "text": "Y",
+          "indices": [
+            "182",
+            "184"
+          ]
+        },
+        {
+          "text": "X",
+          "indices": [
+            "204",
+            "206"
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "0",
+    "id_str": "1692959958873092234",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1692959958873092234",
+    "created_at": "Sat Aug 19 18:01:22 +0000 2023",
+    "favorited": false,
+    "full_text": "Seeing creators talk about their payouts.\n\nAnd that made me think of something:\n\nIf someone is paying you $X for what you've done, that means they are able to turn that into $Y, and $Y is definitely &gt; $X\n\nIs it better than them not paying you anything? Sure.",
+    "lang": "en"
+  }
+}

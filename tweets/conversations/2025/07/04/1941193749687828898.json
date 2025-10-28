@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941193749687828898"
+        ],
+        "editableUntil": "2025-07-04T18:53:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Vivek Sen",
+          "screen_name": "Vivek4real_",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "851277718368829443",
+          "id": "851277718368829443"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941193749687828898/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/XqInZTJ4Vc",
+          "media_url": "http://pbs.twimg.com/media/GvCBa8yW8AA-U9N.jpg",
+          "id_str": "1941193739390611456",
+          "id": "1941193739390611456",
+          "media_url_https": "https://pbs.twimg.com/media/GvCBa8yW8AA-U9N.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XqInZTJ4Vc"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1941016868581790079",
+    "id_str": "1941193749687828898",
+    "in_reply_to_user_id": "851277718368829443",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941193749687828898",
+    "in_reply_to_status_id": "1941016868581790079",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 04 17:53:50 +0000 2025",
+    "favorited": false,
+    "full_text": "@Vivek4real_ Hope they are down for celebrating today https://t.co/XqInZTJ4Vc",
+    "lang": "en",
+    "in_reply_to_screen_name": "Vivek4real_",
+    "in_reply_to_user_id_str": "851277718368829443",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941193749687828898/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/XqInZTJ4Vc",
+          "media_url": "http://pbs.twimg.com/media/GvCBa8yW8AA-U9N.jpg",
+          "id_str": "1941193739390611456",
+          "id": "1941193739390611456",
+          "media_url_https": "https://pbs.twimg.com/media/GvCBa8yW8AA-U9N.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XqInZTJ4Vc"
+        }
+      ]
+    }
+  }
+}

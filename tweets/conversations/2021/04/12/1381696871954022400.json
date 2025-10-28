@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381696871954022400"
+        ],
+        "editableUntil": "2021-04-12T20:52:59.617Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "174 thoughts per minute",
+          "screen_name": "bathams_drinker",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1104893936",
+          "id": "1104893936"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1381685910488686594",
+    "id_str": "1381696871954022400",
+    "in_reply_to_user_id": "1104893936",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381696871954022400",
+    "in_reply_to_status_id": "1381685910488686594",
+    "created_at": "Mon Apr 12 19:52:59 +0000 2021",
+    "favorited": false,
+    "full_text": "@bathams_drinker Damn. I can see how that would get old fast. Makes it tough to get shit done.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bathams_drinker",
+    "in_reply_to_user_id_str": "1104893936"
+  }
+}

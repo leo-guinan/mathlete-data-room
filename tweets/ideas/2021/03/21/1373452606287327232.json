@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1373452606287327232"
+        ],
+        "editableUntil": "2021-03-21T02:53:13.511Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6U7afPOGbb",
+          "expanded_url": "https://link.medium.com/joWhcGrkNeb",
+          "display_url": "link.medium.com/joWhcGrkNeb",
+          "indices": [
+            "46",
+            "69"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "0",
+    "id_str": "1373452606287327232",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1373452606287327232",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 21 01:53:13 +0000 2021",
+    "favorited": false,
+    "full_text": "“Simplicity is the ultimate sophistication.’” https://t.co/6U7afPOGbb",
+    "lang": "en"
+  }
+}

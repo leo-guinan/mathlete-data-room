@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1555918150121701382"
+        ],
+        "editableUntil": "2022-08-06T14:36:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1555918150121701382/photo/1",
+          "indices": [
+            "67",
+            "90"
+          ],
+          "url": "https://t.co/72wY5vTLYT",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZe7T51WQAAB9Af.jpg",
+          "id_str": "1555918146896281600",
+          "id": "1555918146896281600",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZe7T51WQAAB9Af.jpg",
+          "sizes": {
+            "small": {
+              "w": "220",
+              "h": "164",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "164",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "220",
+              "h": "164",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/72wY5vTLYT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "90"
+    ],
+    "favorite_count": "2",
+    "id_str": "1555918150121701382",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1555918150121701382",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 06 14:06:09 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally scheduled a week of tweets all at once.\n\nWhere's my award? https://t.co/72wY5vTLYT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1555918150121701382/photo/1",
+          "indices": [
+            "67",
+            "90"
+          ],
+          "url": "https://t.co/72wY5vTLYT",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZe7T51WQAAB9Af.jpg",
+          "id_str": "1555918146896281600",
+          "video_info": {
+            "aspect_ratio": [
+              "55",
+              "41"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FZe7T51WQAAB9Af.mp4"
+              }
+            ]
+          },
+          "id": "1555918146896281600",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZe7T51WQAAB9Af.jpg",
+          "sizes": {
+            "small": {
+              "w": "220",
+              "h": "164",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "164",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "220",
+              "h": "164",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/72wY5vTLYT"
+        }
+      ]
+    }
+  }
+}

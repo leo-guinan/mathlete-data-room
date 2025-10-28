@@ -1,0 +1,49 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1356613505634492425"
+        ],
+        "editableUntil": "2021-02-02T15:40:39.060Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Del Johnson",
+          "screen_name": "DelJohnsonVC",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "815847044",
+          "id": "815847044"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "2",
+    "id_str": "1356613505634492425",
+    "in_reply_to_user_id": "815847044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1356613505634492425",
+    "created_at": "Tue Feb 02 14:40:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@DelJohnsonVC hey Del, thanks again for your time yesterday. Really helped me clarify some things. Watch @net_defi blogs... :)\n\nAlso, wanted to introduce you to Parikshit, my coufounder: @curiousexaminer. Good source of info on banking and specifically Indian banking.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DelJohnsonVC",
+    "in_reply_to_user_id_str": "815847044"
+  }
+}

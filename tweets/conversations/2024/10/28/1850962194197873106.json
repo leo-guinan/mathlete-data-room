@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1850962194197873106"
+        ],
+        "editableUntil": "2024-10-28T19:05:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "Ellen Fishbein",
+          "screen_name": "EllenRhymes",
+          "indices": [
+            "32",
+            "44"
+          ],
+          "id_str": "3016316704",
+          "id": "3016316704"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QRUemOkXwu",
+          "expanded_url": "https://artisanal-creator-3254.ck.page/posts/the-new-book-deal",
+          "display_url": "artisanal-creator-3254.ck.page/posts/the-new-…",
+          "indices": [
+            "71",
+            "94"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1850922840263901534",
+    "id_str": "1850962194197873106",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1850962194197873106",
+    "in_reply_to_status_id": "1850922840263901534",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 28 18:05:50 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic Check out what @EllenRhymes is doing with her studio: https://t.co/QRUemOkXwu\n\nCurrent publishing models are mostly terrible for the majority of people.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

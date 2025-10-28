@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423362947733205006"
+        ],
+        "editableUntil": "2021-08-05T20:19:06.201Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Party Round",
+          "screen_name": "partyround",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1253752139756662784",
+          "id": "1253752139756662784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OJJCjWerUn",
+          "expanded_url": "http://youniversity.app",
+          "display_url": "youniversity.app",
+          "indices": [
+            "12",
+            "35"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1423339682218201089",
+    "id_str": "1423362947733205006",
+    "in_reply_to_user_id": "1366825122976309250",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423362947733205006",
+    "in_reply_to_status_id": "1423339682218201089",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 05 19:19:06 +0000 2021",
+    "favorited": false,
+    "full_text": "@PartyRound https://t.co/OJJCjWerUn",
+    "lang": "qme",
+    "in_reply_to_screen_name": "capitalxyz",
+    "in_reply_to_user_id_str": "1366825122976309250"
+  }
+}

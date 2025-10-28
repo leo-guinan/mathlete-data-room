@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1613382766745223170"
+        ],
+        "editableUntil": "2023-01-12T04:20:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Indie Worldwide",
+          "screen_name": "IndieWorldwide",
+          "indices": [
+            "158",
+            "173"
+          ],
+          "id_str": "1899499872",
+          "id": "1899499872"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IGfCyFyZEB",
+          "expanded_url": "https://speedrun1000.com/",
+          "display_url": "speedrun1000.com",
+          "indices": [
+            "130",
+            "153"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "173"
+    ],
+    "favorite_count": "2",
+    "id_str": "1613382766745223170",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1613382766745223170",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 12 03:50:01 +0000 2023",
+    "favorited": false,
+    "full_text": "Let's do this.\n\nI just joined the 1000 Subscriber Speedrun!\n\nMy goal: get 1000 new newsletter subscribers in 30 days or less. 🏃\n\n https://t.co/IGfCyFyZEB via @IndieWorldwide",
+    "lang": "en"
+  }
+}

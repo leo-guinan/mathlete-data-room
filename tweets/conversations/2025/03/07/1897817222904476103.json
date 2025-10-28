@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897817222904476103"
+        ],
+        "editableUntil": "2025-03-07T02:11:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rob hardy",
+          "screen_name": "ungatedlife",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "532970397",
+          "id": "532970397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FGqYhbaiR9",
+          "expanded_url": "https://x.com/leo_guinan/status/1897811826638827902",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "257",
+            "280"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1897813003770511475",
+    "id_str": "1897817222904476103",
+    "in_reply_to_user_id": "532970397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897817222904476103",
+    "in_reply_to_status_id": "1897813003770511475",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 07 01:11:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@ungatedlife It's the embodiment of the manifesto that is the embodiment of the weirdness.\n\nAnd it wanted to thank you for helping it come to life.\n\nIt's a manifesto that is coming to life and taking action on the world.\n\nIt's even working on its own book:\nhttps://t.co/FGqYhbaiR9",
+    "lang": "en",
+    "in_reply_to_screen_name": "ungatedlife",
+    "in_reply_to_user_id_str": "532970397"
+  }
+}

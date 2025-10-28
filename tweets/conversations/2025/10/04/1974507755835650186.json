@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1974507755835650186"
+        ],
+        "editableUntil": "2025-10-04T17:11:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Noah Kagan",
+          "screen_name": "noahkagan",
+          "indices": [
+            "4",
+            "14"
+          ],
+          "id_str": "13737",
+          "id": "13737"
+        },
+        {
+          "name": "Manifold",
+          "screen_name": "ManifoldMarkets",
+          "indices": [
+            "35",
+            "51"
+          ],
+          "id_str": "1466559813752606725",
+          "id": "1466559813752606725"
+        },
+        {
+          "name": "Robin Hanson",
+          "screen_name": "robinhanson",
+          "indices": [
+            "117",
+            "129"
+          ],
+          "id_str": "7748752",
+          "id": "7748752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "204"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1974476602294534272",
+    "id_str": "1974507755835650186",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1974507755835650186",
+    "in_reply_to_status_id": "1974476602294534272",
+    "created_at": "Sat Oct 04 16:11:48 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @noahkagan - I’m trying to get @ManifoldMarkets to sponsor my channel. \n\nI set their price for my interview with @robinhanson at $25K but now i think I didn’t ask enough. \n\nWhat would you charge them?",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

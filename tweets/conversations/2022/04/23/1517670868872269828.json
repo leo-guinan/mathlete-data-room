@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517670868872269828"
+        ],
+        "editableUntil": "2022-04-23T02:05:06.757Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "114",
+            "126"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fh0oms8JiA",
+          "expanded_url": "https://www.producthunt.com/posts/feather-de9be3a3-8867-43b9-9ccc-aaf927291909",
+          "display_url": "producthunt.com/posts/feather-…",
+          "indices": [
+            "86",
+            "109"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "126"
+    ],
+    "favorite_count": "0",
+    "id_str": "1517670868872269828",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517670868872269828",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 23 01:05:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Feather: Build relationships. Amplify what matters. Own your network. https://t.co/fh0oms8JiA via @producthunt",
+    "lang": "en"
+  }
+}

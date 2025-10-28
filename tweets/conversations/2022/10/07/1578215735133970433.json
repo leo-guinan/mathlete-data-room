@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1578215735133970433"
+        ],
+        "editableUntil": "2022-10-07T03:18:47.743Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "NoDegreeDotCom",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1578215735133970433",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1578215735133970433",
+    "created_at": "Fri Oct 07 02:48:47 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @NoDegreeDotCom: There are so many people who watch others and say, I could easily do that.\n\nWell then... go do it!\n\nEasier said than do…",
+    "lang": "en"
+  }
+}

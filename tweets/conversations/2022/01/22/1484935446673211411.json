@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1484935446673211411"
+        ],
+        "editableUntil": "2022-01-22T18:06:13.910Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dan Rockwell",
+          "screen_name": "floozyspeak",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "14784349",
+          "id": "14784349"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1484935030912782338",
+    "id_str": "1484935446673211411",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1484935446673211411",
+    "in_reply_to_status_id": "1484935030912782338",
+    "created_at": "Sat Jan 22 17:06:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@floozyspeak @feathercrm With advertising based models, it's a numbers game.\n\nThe longer you are on Twitter, the more ads you see.\n\nThe more ads you see, the more likely you are to buy.\n\nAnd the more valuable you are. \n\nIt's why Twitter deprioritizes links to external content.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

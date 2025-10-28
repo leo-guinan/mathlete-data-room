@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1933364750965989855"
+        ],
+        "editableUntil": "2025-06-13T04:24:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1933364750965989855/photo/1",
+          "indices": [
+            "68",
+            "91"
+          ],
+          "url": "https://t.co/o6Q4oX2T31",
+          "media_url": "http://pbs.twimg.com/media/GtSw4nDXIAAGcP3.jpg",
+          "id_str": "1933364626651029504",
+          "id": "1933364626651029504",
+          "media_url_https": "https://pbs.twimg.com/media/GtSw4nDXIAAGcP3.jpg",
+          "sizes": {
+            "medium": {
+              "w": "740",
+              "h": "788",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "740",
+              "h": "788",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "639",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/o6Q4oX2T31"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1933364750965989855",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1933364750965989855",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 13 03:24:11 +0000 2025",
+    "favorited": false,
+    "full_text": "Running a data analysis and now I'm bored. Can't it finish already? https://t.co/o6Q4oX2T31",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1933364750965989855/photo/1",
+          "indices": [
+            "68",
+            "91"
+          ],
+          "url": "https://t.co/o6Q4oX2T31",
+          "media_url": "http://pbs.twimg.com/media/GtSw4nDXIAAGcP3.jpg",
+          "id_str": "1933364626651029504",
+          "id": "1933364626651029504",
+          "media_url_https": "https://pbs.twimg.com/media/GtSw4nDXIAAGcP3.jpg",
+          "sizes": {
+            "medium": {
+              "w": "740",
+              "h": "788",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "740",
+              "h": "788",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "639",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/o6Q4oX2T31"
+        }
+      ]
+    }
+  }
+}

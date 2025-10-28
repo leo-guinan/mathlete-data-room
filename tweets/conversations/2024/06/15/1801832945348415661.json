@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1801832945348415661"
+        ],
+        "editableUntil": "2024-06-15T05:23:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "François Chollet",
+          "screen_name": "fchollet",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "68746721",
+          "id": "68746721"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "123"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1801712232692334786",
+    "id_str": "1801832945348415661",
+    "in_reply_to_user_id": "68746721",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1801832945348415661",
+    "in_reply_to_status_id": "1801712232692334786",
+    "created_at": "Sat Jun 15 04:23:45 +0000 2024",
+    "favorited": false,
+    "full_text": "@fchollet (Part of the issue is that prices are wrong.  So 'economically valuable ' isn't able to be calculated accurately)",
+    "lang": "en",
+    "in_reply_to_screen_name": "fchollet",
+    "in_reply_to_user_id_str": "68746721"
+  }
+}

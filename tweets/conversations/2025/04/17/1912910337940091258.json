@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1912910337940091258"
+        ],
+        "editableUntil": "2025-04-17T17:45:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Leow",
+          "screen_name": "jasonleowsg",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2890893720",
+          "id": "2890893720"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZEmU2Vtl12",
+          "expanded_url": "https://x.com/sariazout/status/1912896970391245182",
+          "display_url": "x.com/sariazout/stat…",
+          "indices": [
+            "99",
+            "122"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "122"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1912724559935197345",
+    "id_str": "1912910337940091258",
+    "in_reply_to_user_id": "2890893720",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1912910337940091258",
+    "in_reply_to_status_id": "1912724559935197345",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 17 16:45:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@jasonleowsg Here's a great example of someone that is currently succeeding in doing just this.  \n\nhttps://t.co/ZEmU2Vtl12",
+    "lang": "en",
+    "in_reply_to_screen_name": "jasonleowsg",
+    "in_reply_to_user_id_str": "2890893720"
+  }
+}

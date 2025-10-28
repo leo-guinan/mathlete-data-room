@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939394123552727305"
+        ],
+        "editableUntil": "2025-06-29T19:42:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "creekseeker",
+          "screen_name": "mudscryer",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1864508358444896262",
+          "id": "1864508358444896262"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1939393068127687009",
+    "id_str": "1939394123552727305",
+    "in_reply_to_user_id": "1864508358444896262",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939394123552727305",
+    "in_reply_to_status_id": "1939393068127687009",
+    "created_at": "Sun Jun 29 18:42:45 +0000 2025",
+    "favorited": false,
+    "full_text": "@mudscryer It's actually not a very complex thing to do, if you simply have someone who lives in an area in the network. They can simply ask people periodically and capture very anonymized data about whether or not people think the future is getting better or worse. If better, stability. if…",
+    "lang": "en",
+    "in_reply_to_screen_name": "mudscryer",
+    "in_reply_to_user_id_str": "1864508358444896262"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1852033819689291824"
+        ],
+        "editableUntil": "2024-10-31T18:04:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim Fanara",
+          "screen_name": "jimfanara",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1271253394343288833",
+          "id": "1271253394343288833"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1852033266485797216",
+    "id_str": "1852033819689291824",
+    "in_reply_to_user_id": "1271253394343288833",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1852033819689291824",
+    "in_reply_to_status_id": "1852033266485797216",
+    "created_at": "Thu Oct 31 17:04:06 +0000 2024",
+    "favorited": false,
+    "full_text": "@jimfanara I didn't either, but that's something I didn't realize I needed to do. Any time I felt like I needed something from the university, it felt painful. \n\nBut I don't think we should have had to. I think they've got the data on what I've done, and they've got the resources to figure…",
+    "lang": "en",
+    "in_reply_to_screen_name": "jimfanara",
+    "in_reply_to_user_id_str": "1271253394343288833"
+  }
+}

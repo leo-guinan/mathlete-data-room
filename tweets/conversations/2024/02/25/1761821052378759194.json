@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761821052378759194"
+        ],
+        "editableUntil": "2024-02-25T19:30:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick Freiling",
+          "screen_name": "NickFreiling",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "309677044",
+          "id": "309677044"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "194"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1761819305056813531",
+    "id_str": "1761821052378759194",
+    "in_reply_to_user_id": "309677044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761821052378759194",
+    "in_reply_to_status_id": "1761819305056813531",
+    "created_at": "Sun Feb 25 18:30:46 +0000 2024",
+    "favorited": false,
+    "full_text": "@NickFreiling Well, I think it's safe to say, if you look at almost any company out there, the idea of what's ACTUALLY \"productive\" is at best a matter of opinion, and at worst completely wrong.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NickFreiling",
+    "in_reply_to_user_id_str": "309677044"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1357804564158828544"
+        ],
+        "editableUntil": "2021-02-05T22:33:29.541Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Taylor Lorenz",
+          "screen_name": "TaylorLorenz",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "208725869",
+          "id": "208725869"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JhjzjDuKvT",
+          "expanded_url": "https://definet.dev/subscribe-to-the-why/",
+          "display_url": "definet.dev/subscribe-to-t…",
+          "indices": [
+            "144",
+            "167"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "167"
+    ],
+    "favorite_count": "1",
+    "id_str": "1357804564158828544",
+    "in_reply_to_user_id": "208725869",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1357804564158828544",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 05 21:33:29 +0000 2021",
+    "favorited": false,
+    "full_text": "@TaylorLorenz hey Taylor. I am building something you might be interested in hearing about. I would love to talk to you about it. DMs are open. https://t.co/JhjzjDuKvT",
+    "lang": "en",
+    "in_reply_to_screen_name": "TaylorLorenz",
+    "in_reply_to_user_id_str": "208725869"
+  }
+}

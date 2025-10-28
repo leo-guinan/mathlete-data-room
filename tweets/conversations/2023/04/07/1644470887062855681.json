@@ -1,0 +1,160 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1644470887062855681"
+        ],
+        "editableUntil": "2023-04-07T23:13:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "131",
+            "142"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "144",
+            "158"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "164",
+            "174"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1644470887062855681/photo/1",
+          "indices": [
+            "198",
+            "221"
+          ],
+          "url": "https://t.co/xQjArJqbD0",
+          "media_url": "http://pbs.twimg.com/media/FtJVQYbWAAAzma4.jpg",
+          "id_str": "1644470553867059200",
+          "id": "1644470553867059200",
+          "media_url_https": "https://pbs.twimg.com/media/FtJVQYbWAAAzma4.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "699",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "396",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1192",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xQjArJqbD0"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "10",
+            "27"
+          ]
+        },
+        {
+          "text": "WorldwidePhenomenon",
+          "indices": [
+            "177",
+            "197"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "221"
+    ],
+    "favorite_count": "8",
+    "id_str": "1644470887062855681",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1644470887062855681",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 07 22:43:06 +0000 2023",
+    "favorited": false,
+    "full_text": "Fantastic #ADHDWithBenefits this week!\n\nSmaller group, but a bunch of fun conversations!\n\n4 people, 3 countries represented.\n\nWith @LobowSpark, @MechiMansilla, and @bethicalj!\n\n#WorldwidePhenomenon https://t.co/xQjArJqbD0",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1644470887062855681/photo/1",
+          "indices": [
+            "198",
+            "221"
+          ],
+          "url": "https://t.co/xQjArJqbD0",
+          "media_url": "http://pbs.twimg.com/media/FtJVQYbWAAAzma4.jpg",
+          "id_str": "1644470553867059200",
+          "id": "1644470553867059200",
+          "media_url_https": "https://pbs.twimg.com/media/FtJVQYbWAAAzma4.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "699",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "396",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1192",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xQjArJqbD0"
+        }
+      ]
+    }
+  }
+}

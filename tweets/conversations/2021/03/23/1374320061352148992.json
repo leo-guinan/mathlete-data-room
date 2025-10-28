@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1374320061352148992"
+        ],
+        "editableUntil": "2021-03-23T12:20:10.915Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Moe",
+          "screen_name": "Mochievous",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "72853440",
+          "id": "72853440"
+        },
+        {
+          "name": "Vazi",
+          "screen_name": "VaziLegal",
+          "indices": [
+            "104",
+            "114"
+          ],
+          "id_str": "1023999351822209031",
+          "id": "1023999351822209031"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1374320061352148992",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1374320061352148992",
+    "created_at": "Tue Mar 23 11:20:10 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Mochievous: Startup founders are often stressed about due diligence with a prospective investor. So @VaziLegal breaks it down here\nBefo…",
+    "lang": "en"
+  }
+}

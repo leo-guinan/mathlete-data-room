@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808161949546360837"
+        ],
+        "editableUntil": "2024-07-02T16:32:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "ConvertKit (archive)",
+          "screen_name": "ConvertKit",
+          "indices": [
+            "64",
+            "75"
+          ],
+          "id_str": "642453",
+          "id": "642453"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JzOU6ga5Ti",
+          "expanded_url": "https://x.com/leo_guinan/status/1808135234925261260",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "258",
+            "281"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "281"
+    ],
+    "favorite_count": "0",
+    "id_str": "1808161949546360837",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808161949546360837",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 02 15:32:57 +0000 2024",
+    "favorited": false,
+    "full_text": "Also, just found out that there's a waitlist to create apps for @convertkit.\n\nSo I filled that out, but wanted to also check for interest here.\n\nFor my email course, I added prompts for students to respond to.\n\nSo for each lesson, I send the user to a form. https://t.co/JzOU6ga5Ti",
+    "lang": "en"
+  }
+}

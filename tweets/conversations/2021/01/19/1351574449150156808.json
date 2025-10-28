@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1351574449150156808"
+        ],
+        "editableUntil": "2021-01-19T17:57:14.373Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "10DaysofDealflow",
+          "indices": [
+            "100",
+            "117"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "LetsStartUpHQ",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1351574449150156808",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1351574449150156808",
+    "created_at": "Tue Jan 19 16:57:14 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @LetsStartUpHQ: Actively raising startups that are interested in being part of the next batch of #10DaysofDealflow, please submit your i…",
+    "lang": "en"
+  }
+}

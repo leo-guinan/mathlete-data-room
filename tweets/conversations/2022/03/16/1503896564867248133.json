@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1503896564867248133"
+        ],
+        "editableUntil": "2022-03-16T01:50:56.768Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1503777019758317568",
+    "id_str": "1503896564867248133",
+    "in_reply_to_user_id": "1379146178244268035",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1503896564867248133",
+    "in_reply_to_status_id": "1503777019758317568",
+    "created_at": "Wed Mar 16 00:50:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@oluadedej those are all really helpful. curious though, do you look at things on a need basis, i.e. there's a specific task I need to do so I find content that helps me do it, or do you follow people and learn from what they share and just gradually upskill based on what they are creating?",
+    "lang": "en",
+    "in_reply_to_screen_name": "oluadedej",
+    "in_reply_to_user_id_str": "1379146178244268035"
+  }
+}

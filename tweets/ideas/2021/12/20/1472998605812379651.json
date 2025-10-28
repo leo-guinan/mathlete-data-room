@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1472998605812379651"
+        ],
+        "editableUntil": "2021-12-20T19:33:29.273Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/54B8jkNHCi",
+          "expanded_url": "https://t.co/54B8jkNHCi",
+          "display_url": "t.co/54B8jkNHCi",
+          "indices": [
+            "35",
+            "58"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "1",
+    "id_str": "1472998605812379651",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1472998605812379651",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 20 18:33:29 +0000 2021",
+    "favorited": false,
+    "full_text": "Broken chaos zombie.\n\nBring it on! https://t.co/54B8jkNHCi",
+    "lang": "en"
+  }
+}

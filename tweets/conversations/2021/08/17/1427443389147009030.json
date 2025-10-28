@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1427443389147009030"
+        ],
+        "editableUntil": "2021-08-17T02:33:19.245Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aaron Orendorff",
+          "screen_name": "AaronOrendorff",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "754272146",
+          "id": "754272146"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1427317241075355658",
+    "id_str": "1427443389147009030",
+    "in_reply_to_user_id": "754272146",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1427443389147009030",
+    "in_reply_to_status_id": "1427317241075355658",
+    "created_at": "Tue Aug 17 01:33:19 +0000 2021",
+    "favorited": false,
+    "full_text": "@AaronOrendorff Love the breakdown!",
+    "lang": "en",
+    "in_reply_to_screen_name": "AaronOrendorff",
+    "in_reply_to_user_id_str": "754272146"
+  }
+}

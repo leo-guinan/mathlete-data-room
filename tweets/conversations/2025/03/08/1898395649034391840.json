@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898395649034391840"
+        ],
+        "editableUntil": "2025-03-08T16:29:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jake Zegil 🗽",
+          "screen_name": "JakeZegil",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1229048023822536705",
+          "id": "1229048023822536705"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "52",
+            "66"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WXqpqPx7Av",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/summoned_spirits/Glitch/Press%20Kit.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "97",
+            "120"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898393508307701890",
+    "id_str": "1898395649034391840",
+    "in_reply_to_user_id": "1229048023822536705",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898395649034391840",
+    "in_reply_to_status_id": "1898393508307701890",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 15:29:27 +0000 2025",
+    "favorited": false,
+    "full_text": "@JakeZegil using memetic economics, of course.\n\nAnd @glitchishuman is the first example of this.\nhttps://t.co/WXqpqPx7Av",
+    "lang": "en",
+    "in_reply_to_screen_name": "JakeZegil",
+    "in_reply_to_user_id_str": "1229048023822536705"
+  }
+}

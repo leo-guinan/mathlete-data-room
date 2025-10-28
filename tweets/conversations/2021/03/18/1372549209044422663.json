@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1372549209044422663"
+        ],
+        "editableUntil": "2021-03-18T15:03:26.824Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "dinoman_j",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/dinoman_j/status/1372547441384390659/photo/1",
+          "source_status_id": "1372547441384390659",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/eJomDalH5W",
+          "media_url": "http://pbs.twimg.com/media/EwxEnQTXIAIxBQl.jpg",
+          "id_str": "1372547427622920194",
+          "source_user_id": "1304794047811325956",
+          "id": "1372547427622920194",
+          "media_url_https": "https://pbs.twimg.com/media/EwxEnQTXIAIxBQl.jpg",
+          "source_user_id_str": "1304794047811325956",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1372547441384390659",
+          "display_url": "pic.x.com/eJomDalH5W"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "0",
+    "id_str": "1372549209044422663",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1372549209044422663",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 18 14:03:26 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @dinoman_j: https://t.co/eJomDalH5W",
+    "lang": "zxx",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/dinoman_j/status/1372547441384390659/photo/1",
+          "source_status_id": "1372547441384390659",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/eJomDalH5W",
+          "media_url": "http://pbs.twimg.com/media/EwxEnQTXIAIxBQl.jpg",
+          "id_str": "1372547427622920194",
+          "source_user_id": "1304794047811325956",
+          "id": "1372547427622920194",
+          "media_url_https": "https://pbs.twimg.com/media/EwxEnQTXIAIxBQl.jpg",
+          "source_user_id_str": "1304794047811325956",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1372547441384390659",
+          "display_url": "pic.x.com/eJomDalH5W"
+        }
+      ]
+    }
+  }
+}

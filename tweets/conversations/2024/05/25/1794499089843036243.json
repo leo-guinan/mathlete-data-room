@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1794499089843036243"
+        ],
+        "editableUntil": "2024-05-25T23:41:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6BOcytRK4b",
+          "expanded_url": "https://engineeringgenerosity.substack.com",
+          "display_url": "engineeringgenerosity.substack.com",
+          "indices": [
+            "206",
+            "229"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1794499088265957834",
+    "id_str": "1794499089843036243",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1794499089843036243",
+    "in_reply_to_status_id": "1794499088265957834",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 25 22:41:37 +0000 2024",
+    "favorited": false,
+    "full_text": "I've just got to wrap them up into something that is distributable. And I've decided that's going to be my Substack, where I'll be writing my book in public.\n\nSo excited to announce Engineering Generosity: https://t.co/6BOcytRK4b",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

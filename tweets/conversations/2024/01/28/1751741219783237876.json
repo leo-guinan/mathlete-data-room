@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1751741219783237876"
+        ],
+        "editableUntil": "2024-01-28T23:57:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1751740053997383951",
+    "id_str": "1751741219783237876",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1751741219783237876",
+    "in_reply_to_status_id": "1751740053997383951",
+    "created_at": "Sun Jan 28 22:57:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@arvidkahl I'm sitting here thinking about the multitudes contained with the words \"fuck around on my computer.\"\n\nThe sheer number of tasks I can do, much less all the ones that others can do is mind boggling.\n\nHow much of that can you do outside? Computers 1, Nature 0. *drops mic*",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

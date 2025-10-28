@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1918716151506313446"
+        ],
+        "editableUntil": "2025-05-03T18:15:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Guy IS GOING TO NYC!!!",
+          "screen_name": "nosilverv",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1163743742764998658",
+          "id": "1163743742764998658"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DzKeKwy2pJ",
+          "expanded_url": "https://x.com/leo_guinan/status/1887843815542620349",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "93",
+            "116"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1918716019914293422",
+    "id_str": "1918716151506313446",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1918716151506313446",
+    "in_reply_to_status_id": "1918716019914293422",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 03 17:15:53 +0000 2025",
+    "favorited": false,
+    "full_text": "@nosilverv Also, for the record, I wasn't trolling, and it was a response to this comment: \n\nhttps://t.co/DzKeKwy2pJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1654889056705060864"
+        ],
+        "editableUntil": "2023-05-06T17:11:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "28",
+            "42"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "150"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1653612727095513088",
+    "id_str": "1654889056705060864",
+    "in_reply_to_user_id": "2795277902",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1654889056705060864",
+    "in_reply_to_status_id": "1653612727095513088",
+    "created_at": "Sat May 06 16:41:12 +0000 2023",
+    "favorited": false,
+    "full_text": "@NoDegreeDotCom @LobowSpark @tshubillabong Same! It's such a great way to meet people.\n\nThe ability to find people all over the world is a superpower.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NoDegreeCareers",
+    "in_reply_to_user_id_str": "2795277902"
+  }
+}

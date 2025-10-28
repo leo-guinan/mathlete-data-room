@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1608857363058163712"
+        ],
+        "editableUntil": "2022-12-30T16:37:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "153"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1608854973353459718",
+    "id_str": "1608857363058163712",
+    "in_reply_to_user_id": "922232585371176960",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1608857363058163712",
+    "in_reply_to_status_id": "1608854973353459718",
+    "created_at": "Fri Dec 30 16:07:41 +0000 2022",
+    "favorited": false,
+    "full_text": "@KrysChromo @LobowSpark yeah, that's very true. It's weird to become comfortable with it, but it's something that can be worked on, like everything else.",
+    "lang": "en",
+    "in_reply_to_screen_name": "KrysXC",
+    "in_reply_to_user_id_str": "922232585371176960"
+  }
+}

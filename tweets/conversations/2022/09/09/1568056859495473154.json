@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1568056859495473154"
+        ],
+        "editableUntil": "2022-09-09T02:31:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Araks Brand",
+          "screen_name": "Araks111",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3239016249",
+          "id": "3239016249"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "143"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1567816631908290560",
+    "id_str": "1568056859495473154",
+    "in_reply_to_user_id": "3239016249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1568056859495473154",
+    "in_reply_to_status_id": "1567816631908290560",
+    "created_at": "Fri Sep 09 02:01:03 +0000 2022",
+    "favorited": false,
+    "full_text": "@Araks111 That's the interesting thing, isn't it? There are a lot of technologies that were viewed as evil initially but are commonplace today.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Araks111",
+    "in_reply_to_user_id_str": "3239016249"
+  }
+}

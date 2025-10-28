@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486354790003183617"
+        ],
+        "editableUntil": "2022-01-26T16:06:11.730Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8p0PCoCwyS",
+          "expanded_url": "https://x.com/Tim_Denning/status/1486353510849515520",
+          "display_url": "x.com/Tim_Denning/st…",
+          "indices": [
+            "237",
+            "260"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "3",
+    "id_str": "1486354790003183617",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1486354790003183617",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 26 15:06:11 +0000 2022",
+    "favorited": false,
+    "full_text": "I agree with this. Most often, the focus on getting picked up by search engines overrides getting read by humans.\n\nThis ends up having really weird effects and leads to people trying to game the system instead of writing useful content. https://t.co/8p0PCoCwyS",
+    "lang": "en"
+  }
+}

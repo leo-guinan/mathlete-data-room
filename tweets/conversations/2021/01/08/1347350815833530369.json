@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347350815833530369"
+        ],
+        "editableUntil": "2021-01-08T02:14:01.719Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Josh Mankiewicz",
+          "screen_name": "JoshMankiewicz",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "50401467",
+          "id": "50401467"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WtlmLzr2Bb",
+          "expanded_url": "https://www.nytimes.com/2021/01/07/books/simon-schuster-josh-hawley-book.html?smid=tw-share",
+          "display_url": "nytimes.com/2021/01/07/boo…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "0",
+    "id_str": "1347350815833530369",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347350815833530369",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 08 01:14:01 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @JoshMankiewicz: At least the book would have had a spine https://t.co/WtlmLzr2Bb",
+    "lang": "en"
+  }
+}

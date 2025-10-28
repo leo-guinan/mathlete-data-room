@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1754948009052295609"
+        ],
+        "editableUntil": "2024-02-06T20:19:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1753202709912748197",
+    "id_str": "1754948009052295609",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1754948009052295609",
+    "in_reply_to_status_id": "1753202709912748197",
+    "created_at": "Tue Feb 06 19:19:45 +0000 2024",
+    "favorited": false,
+    "full_text": "@hellostartupla Sorry, I don't actually mean individual systems, and definitely not hacks.\n\nI think the economy needs to be an explainable system, and we should start making those changes today.\n\nWork should have a market rate that can be calculated, but we can't with current networks.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

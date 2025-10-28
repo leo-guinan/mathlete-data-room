@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1547219083229384711"
+        ],
+        "editableUntil": "2022-07-13T14:29:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "153",
+            "162"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "4",
+    "id_str": "1547219083229384711",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1547219083229384711",
+    "created_at": "Wed Jul 13 13:59:10 +0000 2022",
+    "favorited": false,
+    "full_text": "Tossing around a new idea: Fun Chaos.\n\nAt its most basic level: focusing on doing things that are fun and interesting for the purpose of playing. Figure @reddy2go will be down for it.\n\nAt a deeper level, it's about introducing noise into a system to expose signals.",
+    "lang": "en"
+  }
+}

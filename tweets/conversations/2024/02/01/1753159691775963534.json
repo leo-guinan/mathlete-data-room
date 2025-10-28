@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1753159691775963534"
+        ],
+        "editableUntil": "2024-02-01T21:53:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1753158300227809624",
+    "id_str": "1753159691775963534",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1753159691775963534",
+    "in_reply_to_status_id": "1753158300227809624",
+    "created_at": "Thu Feb 01 20:53:37 +0000 2024",
+    "favorited": false,
+    "full_text": "@hellostartupla The hardest problem is that people are really bad at understanding their value because we don't capture how much more complex jobs are.\nWhen you've figured out your value,  you realize it's not a number,  but a multiplier. You know that what you know will help them more.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

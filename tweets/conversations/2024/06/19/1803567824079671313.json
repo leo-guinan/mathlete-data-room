@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803567824079671313"
+        ],
+        "editableUntil": "2024-06-20T00:17:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Foster",
+          "screen_name": "0xFoster",
+          "indices": [
+            "76",
+            "85"
+          ],
+          "id_str": "1250822143597703169",
+          "id": "1250822143597703169"
+        },
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "129",
+            "138"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "3",
+    "id_str": "1803567824079671313",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803567824079671313",
+    "created_at": "Wed Jun 19 23:17:32 +0000 2024",
+    "favorited": false,
+    "full_text": "I've been hearing something over and over and over lately.\n\nFrom editors in @0xFoster, from people I've been on calls with, like @finereli , and from people on here when I shared my idea slide for N&amp;W S5.\n\nI need to get more specific.",
+    "lang": "en"
+  }
+}

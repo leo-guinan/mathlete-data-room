@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1603153741586305024"
+        ],
+        "editableUntil": "2022-12-14T22:53:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        },
+        {
+          "name": "Chad Sakonchick",
+          "screen_name": "csakon",
+          "indices": [
+            "16",
+            "23"
+          ],
+          "id_str": "884761",
+          "id": "884761"
+        },
+        {
+          "name": "Imran - Great Pods (USC Incubator Startup)",
+          "screen_name": "CaptainRonUSC",
+          "indices": [
+            "37",
+            "51"
+          ],
+          "id_str": "21441463",
+          "id": "21441463"
+        },
+        {
+          "name": "Motyar",
+          "screen_name": "motyar",
+          "indices": [
+            "52",
+            "59"
+          ],
+          "id_str": "57873134",
+          "id": "57873134"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "319"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1600021611897270272",
+    "id_str": "1603153741586305024",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1603153741586305024",
+    "in_reply_to_status_id": "1600021611897270272",
+    "created_at": "Wed Dec 14 22:23:31 +0000 2022",
+    "favorited": false,
+    "full_text": "@hellostartupla @csakon @JordysBrain @CaptainRonUSC @motyar Thanks for the mention Ed! (this got lost in a sea of mentions, so I missed it initially).\n\nI don't do a ton with nocode yet, but I am planning on doing more with some nocode platforms next year, especially as I look to integrate them with the things I build.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

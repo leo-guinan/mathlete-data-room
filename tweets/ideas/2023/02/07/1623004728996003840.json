@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1623004728996003840"
+        ],
+        "editableUntil": "2023-02-07T17:34:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1623004728996003840/photo/1",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/eO3iQFBDcl",
+          "media_url": "http://pbs.twimg.com/media/FoYSMxbXsBIkD0A.jpg",
+          "id_str": "1623004726349508626",
+          "id": "1623004726349508626",
+          "media_url_https": "https://pbs.twimg.com/media/FoYSMxbXsBIkD0A.jpg",
+          "sizes": {
+            "small": {
+              "w": "524",
+              "h": "499",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "524",
+              "h": "499",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "524",
+              "h": "499",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eO3iQFBDcl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "14",
+    "id_str": "1623004728996003840",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1623004728996003840",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 07 17:04:16 +0000 2023",
+    "favorited": false,
+    "full_text": "The origin of @EffortlessReach https://t.co/eO3iQFBDcl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1623004728996003840/photo/1",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/eO3iQFBDcl",
+          "media_url": "http://pbs.twimg.com/media/FoYSMxbXsBIkD0A.jpg",
+          "id_str": "1623004726349508626",
+          "id": "1623004726349508626",
+          "media_url_https": "https://pbs.twimg.com/media/FoYSMxbXsBIkD0A.jpg",
+          "sizes": {
+            "small": {
+              "w": "524",
+              "h": "499",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "524",
+              "h": "499",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "524",
+              "h": "499",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eO3iQFBDcl"
+        }
+      ]
+    }
+  }
+}

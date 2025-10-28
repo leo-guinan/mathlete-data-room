@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1817960120980005045"
+        ],
+        "editableUntil": "2024-07-29T17:27:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Av4hEAbq9l",
+          "expanded_url": "https://youtu.be/Sz32vuDtPYE",
+          "display_url": "youtu.be/Sz32vuDtPYE",
+          "indices": [
+            "64",
+            "87"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1817960120980005045/photo/1",
+          "indices": [
+            "88",
+            "111"
+          ],
+          "url": "https://t.co/MXBBZtA4mQ",
+          "media_url": "http://pbs.twimg.com/media/GTqw-dNXwAAMr1G.png",
+          "id_str": "1817959986636505088",
+          "id": "1817959986636505088",
+          "media_url_https": "https://pbs.twimg.com/media/GTqw-dNXwAAMr1G.png",
+          "sizes": {
+            "large": {
+              "w": "788",
+              "h": "278",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "240",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "788",
+              "h": "278",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MXBBZtA4mQ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "1",
+    "id_str": "1817960120980005045",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1817960120980005045",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 29 16:27:23 +0000 2024",
+    "favorited": false,
+    "full_text": "Who's gonna be #600?\n\nNew video premiering in about 30 minutes\n\nhttps://t.co/Av4hEAbq9l https://t.co/MXBBZtA4mQ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1817960120980005045/photo/1",
+          "indices": [
+            "88",
+            "111"
+          ],
+          "url": "https://t.co/MXBBZtA4mQ",
+          "media_url": "http://pbs.twimg.com/media/GTqw-dNXwAAMr1G.png",
+          "id_str": "1817959986636505088",
+          "id": "1817959986636505088",
+          "media_url_https": "https://pbs.twimg.com/media/GTqw-dNXwAAMr1G.png",
+          "sizes": {
+            "large": {
+              "w": "788",
+              "h": "278",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "240",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "788",
+              "h": "278",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MXBBZtA4mQ"
+        }
+      ]
+    }
+  }
+}

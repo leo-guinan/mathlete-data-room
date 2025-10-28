@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1879683433032716596"
+        ],
+        "editableUntil": "2025-01-16T01:13:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Noah Smith 🐇",
+          "screen_name": "Noahpinion",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "281877818",
+          "id": "281877818"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "160"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1879680321567986134",
+    "id_str": "1879683433032716596",
+    "in_reply_to_user_id": "281877818",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1879683433032716596",
+    "in_reply_to_status_id": "1879680321567986134",
+    "created_at": "Thu Jan 16 00:13:47 +0000 2025",
+    "favorited": false,
+    "full_text": "@Noahpinion DEI is an overreaction to a broken economy. It's not going away because the problems remain.\n\nOnce Human Insurance is launched, DEI won't be needed.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Noahpinion",
+    "in_reply_to_user_id_str": "281877818"
+  }
+}

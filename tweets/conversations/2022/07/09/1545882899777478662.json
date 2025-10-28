@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545882899777478662"
+        ],
+        "editableUntil": "2022-07-09T21:59:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Andrea Brice",
+          "screen_name": "DirtyDataGirl",
+          "indices": [
+            "13",
+            "27"
+          ],
+          "id_str": "963866145475387392",
+          "id": "963866145475387392"
+        },
+        {
+          "name": "Netflix",
+          "screen_name": "netflix",
+          "indices": [
+            "28",
+            "36"
+          ],
+          "id_str": "16573941",
+          "id": "16573941"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1545882899777478662/photo/1",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/g336IRr6hx",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FXQUTSuX0AMFM6f.jpg",
+          "id_str": "1545882893771329539",
+          "id": "1545882893771329539",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXQUTSuX0AMFM6f.jpg",
+          "sizes": {
+            "large": {
+              "w": "480",
+              "h": "210",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "210",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "210",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/g336IRr6hx"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1545819273418997762",
+    "id_str": "1545882899777478662",
+    "in_reply_to_user_id": "1081866076726743040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545882899777478662",
+    "in_reply_to_status_id": "1545819273418997762",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 09 21:29:39 +0000 2022",
+    "favorited": false,
+    "full_text": "@ImZackAdams @DirtyDataGirl @netflix https://t.co/g336IRr6hx",
+    "lang": "qme",
+    "in_reply_to_screen_name": "HackingBaseball",
+    "in_reply_to_user_id_str": "1081866076726743040",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1545882899777478662/photo/1",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/g336IRr6hx",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FXQUTSuX0AMFM6f.jpg",
+          "id_str": "1545882893771329539",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "7"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FXQUTSuX0AMFM6f.mp4"
+              }
+            ]
+          },
+          "id": "1545882893771329539",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXQUTSuX0AMFM6f.jpg",
+          "sizes": {
+            "large": {
+              "w": "480",
+              "h": "210",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "210",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "210",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/g336IRr6hx"
+        }
+      ]
+    }
+  }
+}

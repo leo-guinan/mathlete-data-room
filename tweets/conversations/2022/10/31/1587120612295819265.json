@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1587120612295819265"
+        ],
+        "editableUntil": "2022-10-31T17:03:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1587112861003816962",
+    "id_str": "1587120612295819265",
+    "in_reply_to_user_id": "1461236887159382017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1587120612295819265",
+    "in_reply_to_status_id": "1587112861003816962",
+    "created_at": "Mon Oct 31 16:33:35 +0000 2022",
+    "favorited": false,
+    "full_text": "@Chuckenspire Oh, that's awful. I know how that goes. I recorded a pitch for a competition once because I couldn't make it live, and only realized after the fact that the audio didn't record at all. So a nice silent pitch...\n\nWhat software did you start using?",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chuckenspire",
+    "in_reply_to_user_id_str": "1461236887159382017"
+  }
+}

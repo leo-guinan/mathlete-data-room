@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1558945408801542144"
+        ],
+        "editableUntil": "2022-08-14T23:05:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Art Inspired By Banned Books!",
+          "screen_name": "BannedBooksArt",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1489067131396403202",
+          "id": "1489067131396403202"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1558944128674795520",
+    "id_str": "1558945408801542144",
+    "in_reply_to_user_id": "1489067131396403202",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1558945408801542144",
+    "in_reply_to_status_id": "1558944128674795520",
+    "created_at": "Sun Aug 14 22:35:23 +0000 2022",
+    "favorited": false,
+    "full_text": "@BannedBooksArt Haha, not a challenge at all, except to myself!\n\nJust me sharing everything I'm doing in excessive detail. The latest issue included a section on fighting Django's implicit many-to-many tables!\n\nI'm at over 3 months on my first saas, so not quite at the 1 per week yet...",
+    "lang": "en",
+    "in_reply_to_screen_name": "BannedBooksArt",
+    "in_reply_to_user_id_str": "1489067131396403202"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1526955392487538688"
+        ],
+        "editableUntil": "2022-05-18T16:28:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "24",
+            "35"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "249"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1526955385407545345",
+    "id_str": "1526955392487538688",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1526955392487538688",
+    "in_reply_to_status_id": "1526955385407545345",
+    "created_at": "Wed May 18 15:58:29 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark That's what @LobowSpark and I talked about. His goal is simple: he wants to talk to every person in the world with ADHD.\n\nSimple, not easy.\n\nIn order to scale to that level, it has to be planned. That level of growth doesn't just happen.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

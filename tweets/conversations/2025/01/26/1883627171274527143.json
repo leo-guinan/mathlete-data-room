@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1883627171274527143"
+        ],
+        "editableUntil": "2025-01-26T22:24:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "DeepSeek",
+          "screen_name": "deepseek_ai",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1714580962569588736",
+          "id": "1714580962569588736"
+        },
+        {
+          "name": "Solana",
+          "screen_name": "solana",
+          "indices": [
+            "13",
+            "20"
+          ],
+          "id_str": "951329744804392960",
+          "id": "951329744804392960"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1883603488955134151",
+    "id_str": "1883627171274527143",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1883627171274527143",
+    "in_reply_to_status_id": "1883603488955134151",
+    "created_at": "Sun Jan 26 21:24:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@deepseek_ai @solana This is pretty good. Asked it to think about quantum physics and then use that to derive memetic economics. Not bad.\n\nThe one thing it didn't catch on to is the idea of information compression + memetics, which explains the superposition. A meme exists in a unique form in the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

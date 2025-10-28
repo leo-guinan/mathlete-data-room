@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1528825299063939081"
+        ],
+        "editableUntil": "2022-05-23T20:18:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arjun Mahadevan (Mr. LLC 🇺🇸)",
+          "screen_name": "ArjunMahadevan",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "993050065609474048",
+          "id": "993050065609474048"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1528090416578445313",
+    "id_str": "1528825299063939081",
+    "in_reply_to_user_id": "993050065609474048",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1528825299063939081",
+    "in_reply_to_status_id": "1528090416578445313",
+    "created_at": "Mon May 23 19:48:50 +0000 2022",
+    "favorited": false,
+    "full_text": "@arjunmahadevan Probably time.\n\nAnd that would seem to fit their offer as well.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ArjunMahadevan",
+    "in_reply_to_user_id_str": "993050065609474048"
+  }
+}

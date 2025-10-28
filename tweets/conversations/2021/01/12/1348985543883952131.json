@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348985543883952131"
+        ],
+        "editableUntil": "2021-01-12T14:29:51.258Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "The True American",
+          "screen_name": "TheTrueAmerica5",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1023045913994919936",
+          "id": "1023045913994919936"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348985543883952131",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348985543883952131",
+    "created_at": "Tue Jan 12 13:29:51 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @TheTrueAmerica5: I needed this.",
+    "lang": "en"
+  }
+}

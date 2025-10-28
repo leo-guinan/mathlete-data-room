@@ -1,0 +1,101 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1449561031022419969"
+        ],
+        "editableUntil": "2021-10-17T03:20:55.994Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "28",
+            "44"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Sara Ledterman",
+          "screen_name": "saraledterman",
+          "indices": [
+            "45",
+            "59"
+          ],
+          "id_str": "1842466453",
+          "id": "1842466453"
+        },
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "60",
+            "70"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        },
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "71",
+            "81"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        },
+        {
+          "name": "Brendan McAdams",
+          "screen_name": "brendanmcadams",
+          "indices": [
+            "89",
+            "104"
+          ],
+          "id_str": "118678489",
+          "id": "118678489"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1449542589053501446",
+    "id_str": "1449561031022419969",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1449561031022419969",
+    "in_reply_to_status_id": "1449542589053501446",
+    "created_at": "Sun Oct 17 02:20:55 +0000 2021",
+    "favorited": false,
+    "full_text": "@hellostartupla @IAmRobRyan @StroutMotivateU @saraledterman @oluadedej @bkh_leung Paging @brendanmcadams",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

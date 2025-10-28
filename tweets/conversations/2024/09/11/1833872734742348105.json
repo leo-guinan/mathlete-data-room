@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1833872734742348105"
+        ],
+        "editableUntil": "2024-09-11T15:18:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Joe Casabona | Podcast Systems Coach",
+          "screen_name": "jcasabona",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "3160851",
+          "id": "3160851"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "153"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1833595381000941594",
+    "id_str": "1833872734742348105",
+    "in_reply_to_user_id": "3160851",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1833872734742348105",
+    "in_reply_to_status_id": "1833595381000941594",
+    "created_at": "Wed Sep 11 14:18:26 +0000 2024",
+    "favorited": false,
+    "full_text": "@jcasabona Huh, I'll have to play with perplexity some more. I also don't use Opus at all. That's bizarre. I want to dig into why that happened now haha.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jcasabona",
+    "in_reply_to_user_id_str": "3160851"
+  }
+}

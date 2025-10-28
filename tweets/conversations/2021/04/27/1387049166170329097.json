@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1387049166170329097"
+        ],
+        "editableUntil": "2021-04-27T15:21:05.999Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/EMrmj9K4Ji",
+          "expanded_url": "https://definet.dev",
+          "display_url": "definet.dev",
+          "indices": [
+            "240",
+            "263"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1387049164857495552",
+    "id_str": "1387049166170329097",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1387049166170329097",
+    "in_reply_to_status_id": "1387049164857495552",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 27 14:21:05 +0000 2021",
+    "favorited": false,
+    "full_text": "This is how I've figured out my pricing model. I've set up the test group as the initial pricing structure. I plan on selling the full course for $500. I set the test group price at 10% of that, so $50. You can now purchase a membership on https://t.co/EMrmj9K4Ji.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

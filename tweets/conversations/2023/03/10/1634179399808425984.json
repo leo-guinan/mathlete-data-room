@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1634179399808425984"
+        ],
+        "editableUntil": "2023-03-10T13:38:25.156Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Levent Askan",
+          "screen_name": "leventask",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "60986387",
+          "id": "60986387"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "66",
+            "77"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1634179399808425984",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1634179399808425984",
+    "created_at": "Fri Mar 10 13:08:25 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @leventask: My first podcast in English.\nThanks for having me, @leo_guinan.\n\nWe talked about the story of SaaS Affiliate Programs, a sid…",
+    "lang": "en"
+  }
+}

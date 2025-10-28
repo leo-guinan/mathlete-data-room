@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1958501341141127332"
+        ],
+        "editableUntil": "2025-08-21T13:08:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "225"
+    ],
+    "favorite_count": "0",
+    "id_str": "1958501341141127332",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1958501341141127332",
+    "created_at": "Thu Aug 21 12:08:01 +0000 2025",
+    "favorited": false,
+    "full_text": "Making claude do some number crunching right now and it's interesting to watch it attempt what I asked it to do. Already had to hit continue as it is trying to run multiple types of code blocks to try to get the right answer.",
+    "lang": "en"
+  }
+}

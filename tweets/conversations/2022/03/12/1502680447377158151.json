@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1502680447377158151"
+        ],
+        "editableUntil": "2022-03-12T17:18:31.764Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "11",
+            "26"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1502680447377158151/photo/1",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/T5N0eeRIUb",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNqX5i1WQAId0jp.jpg",
+          "id_str": "1502680440540381186",
+          "id": "1502680440540381186",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNqX5i1WQAId0jp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "244",
+              "h": "168",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "244",
+              "h": "168",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "244",
+              "h": "168",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/T5N0eeRIUb"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1502679924628463618",
+    "id_str": "1502680447377158151",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1502680447377158151",
+    "in_reply_to_status_id": "1502679924628463618",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 12 16:18:31 +0000 2022",
+    "favorited": false,
+    "full_text": "@NotechAna @markyerkes1734 https://t.co/T5N0eeRIUb",
+    "lang": "qme",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1502680447377158151/photo/1",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/T5N0eeRIUb",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FNqX5i1WQAId0jp.jpg",
+          "id_str": "1502680440540381186",
+          "video_info": {
+            "aspect_ratio": [
+              "61",
+              "42"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FNqX5i1WQAId0jp.mp4"
+              }
+            ]
+          },
+          "id": "1502680440540381186",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FNqX5i1WQAId0jp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "244",
+              "h": "168",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "244",
+              "h": "168",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "244",
+              "h": "168",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/T5N0eeRIUb"
+        }
+      ]
+    }
+  }
+}

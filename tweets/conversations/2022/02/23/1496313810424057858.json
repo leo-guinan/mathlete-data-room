@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1496313810424057858"
+        ],
+        "editableUntil": "2022-02-23T03:39:47.228Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1496313810424057858",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1496313810424057858",
+    "created_at": "Wed Feb 23 02:39:47 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @markyerkes1734: BECS Technology in St Louis is seeking a full stack developer. This family friendly company with good work life balance…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1608503794245173249"
+        ],
+        "editableUntil": "2022-12-29T17:12:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sahil Lavingia",
+          "screen_name": "shl",
+          "indices": [
+            "180",
+            "184"
+          ],
+          "id_str": "16347964",
+          "id": "16347964"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xNvbroevG9",
+          "expanded_url": "https://x.com/SimonHoiberg/status/1608458031037046785",
+          "display_url": "x.com/SimonHoiberg/s…",
+          "indices": [
+            "266",
+            "289"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "3",
+    "id_str": "1608503794245173249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1608503794245173249",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 29 16:42:43 +0000 2022",
+    "favorited": false,
+    "full_text": "Will co-sign this. I've started listening to Arvid's podcasts lately as well and have learned a ton.\n\nThe episodes Simon outlined are great, but I'd like to add his interview with @shl.\n\nGave me a ton of insight into the Gumroad changes and why they were necessary. https://t.co/xNvbroevG9",
+    "lang": "en"
+  }
+}

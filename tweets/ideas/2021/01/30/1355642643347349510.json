@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1355642643347349510"
+        ],
+        "editableUntil": "2021-01-30T23:22:47.453Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GSVBootcamp",
+          "indices": [
+            "65",
+            "77"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BSWBW9bE6o",
+          "expanded_url": "https://definet.dev/finding-my-why/",
+          "display_url": "definet.dev/finding-my-why/",
+          "indices": [
+            "235",
+            "258"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "8",
+    "id_str": "1355642643347349510",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1355642643347349510",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 30 22:22:47 +0000 2021",
+    "favorited": false,
+    "full_text": "New post @net_defi: Defining My Why - Reflections from week 1 of #GSVBootcamp Also, this week clarified a bunch for me, so this is only part 1. Will send out part 2 to subscribers tonight. Made a pretty crazy prediction about bitcoin.\nhttps://t.co/BSWBW9bE6o",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930468904586895436"
+        ],
+        "editableUntil": "2025-06-05T04:37:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "shmoji",
+          "screen_name": "Shmojii",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "2427911944",
+          "id": "2427911944"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4RX3ztwhmK",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/welcome-to-day-1-of-the-future",
+          "display_url": "hitchhikertothefuture.substack.com/p/welcome-to-d…",
+          "indices": [
+            "244",
+            "267"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "267"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930454244944928832",
+    "id_str": "1930468904586895436",
+    "in_reply_to_user_id": "2427911944",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930468904586895436",
+    "in_reply_to_status_id": "1930454244944928832",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 03:37:07 +0000 2025",
+    "favorited": false,
+    "full_text": "@Shmojii Well, I fixed it so it's not killing people anymore. We simply need the model to spread for it to work.\n\nHere's an example that is using a crowdfunding mutual aid campaign to generate entropy that I'm going to use for model training. \nhttps://t.co/4RX3ztwhmK",
+    "lang": "en",
+    "in_reply_to_screen_name": "Shmojii",
+    "in_reply_to_user_id_str": "2427911944"
+  }
+}

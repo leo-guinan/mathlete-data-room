@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1430179338721316881"
+        ],
+        "editableUntil": "2021-08-24T15:45:00.455Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GSVStartupBootcamp",
+          "indices": [
+            "87",
+            "106"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U4oaRn7rIP",
+          "expanded_url": "https://t.co/U4oaRn7rIP",
+          "display_url": "t.co/U4oaRn7rIP",
+          "indices": [
+            "117",
+            "140"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1430179338721316881",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1430179338721316881",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 24 14:45:00 +0000 2021",
+    "favorited": false,
+    "full_text": "This is such great advice. \n\nAnd a good reminder for me as I work out my pitch for the #GSVStartupBootcamp demo day. https://t.co/U4oaRn7rIP",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339576772690665475"
+        ],
+        "editableUntil": "2020-12-17T15:22:45.399Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hunter McKinley",
+          "screen_name": "huntermoonshot",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "306854600",
+          "id": "306854600"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dN4IexfgAc",
+          "expanded_url": "https://open.spotify.com/episode/6kVhw2VnIMXzT4Y1vmJktk?si=qhDYBPPdR8yMDZDEivwgmg",
+          "display_url": "open.spotify.com/episode/6kVhw2…",
+          "indices": [
+            "106",
+            "129"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "129"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1339576205155192833",
+    "id_str": "1339576772690665475",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339576772690665475",
+    "in_reply_to_status_id": "1339576205155192833",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 17 14:22:45 +0000 2020",
+    "favorited": false,
+    "full_text": "@huntermoonshot Here is a good podcast that outlines how Americans were taught to view Canadian medicine: https://t.co/dN4IexfgAc",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

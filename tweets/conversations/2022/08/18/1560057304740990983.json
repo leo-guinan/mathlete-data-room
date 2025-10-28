@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1560057304740990983"
+        ],
+        "editableUntil": "2022-08-18T00:43:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1560057304740990983/photo/1",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/Br8uqfihna",
+          "media_url": "http://pbs.twimg.com/media/FaZv1aRWIAIQutR.jpg",
+          "id_str": "1560057284306280450",
+          "id": "1560057284306280450",
+          "media_url_https": "https://pbs.twimg.com/media/FaZv1aRWIAIQutR.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Br8uqfihna"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1560052985786515458",
+    "id_str": "1560057304740990983",
+    "in_reply_to_user_id": "1081866076726743040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1560057304740990983",
+    "in_reply_to_status_id": "1560052985786515458",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 18 00:13:40 +0000 2022",
+    "favorited": false,
+    "full_text": "@ImZackAdams Mobius-strip-earther? 🤔 https://t.co/Br8uqfihna",
+    "lang": "en",
+    "in_reply_to_screen_name": "HackingBaseball",
+    "in_reply_to_user_id_str": "1081866076726743040",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1560057304740990983/photo/1",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/Br8uqfihna",
+          "media_url": "http://pbs.twimg.com/media/FaZv1aRWIAIQutR.jpg",
+          "id_str": "1560057284306280450",
+          "id": "1560057284306280450",
+          "media_url_https": "https://pbs.twimg.com/media/FaZv1aRWIAIQutR.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Br8uqfihna"
+        }
+      ]
+    }
+  }
+}

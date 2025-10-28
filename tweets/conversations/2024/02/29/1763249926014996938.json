@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1763249926014996938"
+        ],
+        "editableUntil": "2024-02-29T18:08:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ken Yeung",
+          "screen_name": "thekenyeung",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "9075622",
+          "id": "9075622"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "150"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1763249373667102993",
+    "id_str": "1763249926014996938",
+    "in_reply_to_user_id": "9075622",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1763249926014996938",
+    "in_reply_to_status_id": "1763249373667102993",
+    "created_at": "Thu Feb 29 17:08:36 +0000 2024",
+    "favorited": false,
+    "full_text": "@thekenyeung this one? 5 Embarcadero Ctr, San Francisco, CA 94111\n\n(sorry, I'm only visiting SF too, so I don't know the area particularly well, haha)",
+    "lang": "en",
+    "in_reply_to_screen_name": "thekenyeung",
+    "in_reply_to_user_id_str": "9075622"
+  }
+}

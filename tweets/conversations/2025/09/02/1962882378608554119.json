@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1962882378608554119"
+        ],
+        "editableUntil": "2025-09-02T15:16:42.308Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "ω",
+          "screen_name": "Faltz009",
+          "indices": [
+            "75",
+            "84"
+          ],
+          "id_str": "1723594322",
+          "id": "1723594322"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JZI1VkoyPu",
+          "expanded_url": "https://x.com/blublairies/status/1962607644533023059",
+          "display_url": "x.com/blublairies/st…",
+          "indices": [
+            "87",
+            "110"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1962700760199639296/photo/1",
+          "source_status_id": "1962700760199639296",
+          "indices": [
+            "111",
+            "134"
+          ],
+          "url": "https://t.co/VsTjtDJJR0",
+          "media_url": "http://pbs.twimg.com/media/GzzpIsMXwAENdMT.jpg",
+          "id_str": "1962699873137967105",
+          "source_user_id": "1680757426889342977",
+          "id": "1962699873137967105",
+          "media_url_https": "https://pbs.twimg.com/media/GzzpIsMXwAENdMT.jpg",
+          "source_user_id_str": "1680757426889342977",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1140",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "378",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "668",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1962700760199639296",
+          "display_url": "pic.x.com/VsTjtDJJR0"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "id_str": "1962882378608554119",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1962882378608554119",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 02 14:16:42 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @DefenderOfBasic: kindness / forgiveness is necessary for survival - by @Faltz009 \n\nhttps://t.co/JZI1VkoyPu https://t.co/VsTjtDJJR0",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1962700760199639296/photo/1",
+          "source_status_id": "1962700760199639296",
+          "indices": [
+            "111",
+            "134"
+          ],
+          "url": "https://t.co/VsTjtDJJR0",
+          "media_url": "http://pbs.twimg.com/media/GzzpIsMXwAENdMT.jpg",
+          "id_str": "1962699873137967105",
+          "source_user_id": "1680757426889342977",
+          "id": "1962699873137967105",
+          "media_url_https": "https://pbs.twimg.com/media/GzzpIsMXwAENdMT.jpg",
+          "source_user_id_str": "1680757426889342977",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1140",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "378",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "668",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1962700760199639296",
+          "display_url": "pic.x.com/VsTjtDJJR0"
+        }
+      ]
+    }
+  }
+}

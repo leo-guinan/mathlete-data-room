@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1605684948001857558"
+        ],
+        "editableUntil": "2022-12-21T22:31:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Seth Rosenberg",
+          "screen_name": "SethGRosenberg",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "22370884",
+          "id": "22370884"
+        },
+        {
+          "name": "Toma",
+          "screen_name": "magicaltome",
+          "indices": [
+            "16",
+            "28"
+          ],
+          "id_str": "1904630185905016832",
+          "id": "1904630185905016832"
+        },
+        {
+          "name": "Greylock Partners",
+          "screen_name": "GreylockVC",
+          "indices": [
+            "29",
+            "40"
+          ],
+          "id_str": "41003633",
+          "id": "41003633"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8tAejcqyGr",
+          "expanded_url": "https://tome.app/guinantech/upsetting-the-status-quo-a-pre-seed-startup-revolutionizing-social-media-clby6zacb0f4v6b3az1uuesgv",
+          "display_url": "tome.app/guinantech/ups…",
+          "indices": [
+            "245",
+            "268"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1605233178129879041",
+    "id_str": "1605684948001857558",
+    "in_reply_to_user_id": "22370884",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1605684948001857558",
+    "in_reply_to_status_id": "1605233178129879041",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 21 22:01:38 +0000 2022",
+    "favorited": false,
+    "full_text": "@SethGRosenberg @magicaltome @GreylockVC Not bad! Deck looks great and it gave some really broad overviews. Would like to see placeholders with recommendations for data to include. Will have to generate a few more to see what all is possible. \n\nhttps://t.co/8tAejcqyGr",
+    "lang": "en",
+    "in_reply_to_screen_name": "SethGRosenberg",
+    "in_reply_to_user_id_str": "22370884"
+  }
+}

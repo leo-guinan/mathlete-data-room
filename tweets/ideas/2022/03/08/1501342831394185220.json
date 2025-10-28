@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1501342831394185220"
+        ],
+        "editableUntil": "2022-03-09T00:43:19.262Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "80",
+            "87"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ew4Bv9ol04",
+          "expanded_url": "https://vm.tiktok.com/ZTdDtMc7T/",
+          "display_url": "vm.tiktok.com/ZTdDtMc7T/",
+          "indices": [
+            "88",
+            "111"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "1",
+    "id_str": "1501342831394185220",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1501342831394185220",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 08 23:43:19 +0000 2022",
+    "favorited": false,
+    "full_text": "What does social media success look like to you?\n\nCheck out Leo Guinan's video! #TikTok https://t.co/Ew4Bv9ol04",
+    "lang": "en"
+  }
+}

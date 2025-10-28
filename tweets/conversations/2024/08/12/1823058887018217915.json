@@ -1,0 +1,86 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1823058887018217915"
+        ],
+        "editableUntil": "2024-08-12T19:08:04.118Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "memecoin",
+          "indices": [
+            "63",
+            "72"
+          ]
+        },
+        {
+          "text": "DEX",
+          "indices": [
+            "109",
+            "113"
+          ]
+        }
+      ],
+      "symbols": [
+        {
+          "text": "TBALL",
+          "indices": [
+            "56",
+            "62"
+          ]
+        },
+        {
+          "text": "SOL",
+          "indices": [
+            "76",
+            "80"
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "$TBALL on $SOL 🏐",
+          "screen_name": "tetherballcoin",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1795945743410483200",
+          "id": "1795945743410483200"
+        },
+        {
+          "name": "Raydium",
+          "screen_name": "RaydiumProtocol",
+          "indices": [
+            "92",
+            "108"
+          ],
+          "id_str": "1358454920299433985",
+          "id": "1358454920299433985"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1823058887018217915",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1823058887018217915",
+    "created_at": "Mon Aug 12 18:08:04 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @tetherballcoin: 🔊🆙 Unstoppable Domains 🤝 Tetherball $TBALL #memecoin on $SOL, listed on @RaydiumProtocol #DEX \n\nGrab your .tball extens…",
+    "lang": "en"
+  }
+}

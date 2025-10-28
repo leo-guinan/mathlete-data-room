@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328033574621224965"
+        ],
+        "editableUntil": "2020-11-15T18:54:12.517Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UpKh00ft55",
+          "expanded_url": "https://link.medium.com/HJXMaodjrbb",
+          "display_url": "link.medium.com/HJXMaodjrbb",
+          "indices": [
+            "76",
+            "99"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328033574621224965",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328033574621224965",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 17:54:12 +0000 2020",
+    "favorited": false,
+    "full_text": "I just published If You Want To Be A Better Programmer, Think Like a Jesuit https://t.co/UpKh00ft55",
+    "lang": "en"
+  }
+}

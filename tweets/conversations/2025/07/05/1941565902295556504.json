@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941565902295556504"
+        ],
+        "editableUntil": "2025-07-05T19:32:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "165"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941565772855447968",
+    "id_str": "1941565902295556504",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941565902295556504",
+    "in_reply_to_status_id": "1941565772855447968",
+    "created_at": "Sat Jul 05 18:32:38 +0000 2025",
+    "favorited": false,
+    "full_text": "@ChrisChipMonk With insecure networks, it's really hard to get meaningful signal about anything so it's a guessing game for everyone that tends to break down quickly",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

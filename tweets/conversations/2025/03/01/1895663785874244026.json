@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895663785874244026"
+        ],
+        "editableUntil": "2025-03-01T03:34:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🦇🍂🎃LaCroix Jenkins",
+          "screen_name": "spaceghost",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "15667388",
+          "id": "15667388"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1895663171194798425",
+    "id_str": "1895663785874244026",
+    "in_reply_to_user_id": "15667388",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895663785874244026",
+    "in_reply_to_status_id": "1895663171194798425",
+    "created_at": "Sat Mar 01 02:34:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@spaceghost 100%\n\namazing how hard it can be to find those groups though.",
+    "lang": "en",
+    "in_reply_to_screen_name": "spaceghost",
+    "in_reply_to_user_id_str": "15667388"
+  }
+}

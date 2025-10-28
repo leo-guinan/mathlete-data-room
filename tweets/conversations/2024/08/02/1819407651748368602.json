@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819407651748368602"
+        ],
+        "editableUntil": "2024-08-02T17:19:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "John Rush",
+          "screen_name": "johnrushx",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1456321269029380097",
+          "id": "1456321269029380097"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/spAanEKulM",
+          "expanded_url": "https://x.com/leo_guinan/status/1819371625210368248?t=A1rwbLsKKgsrOeUAgVsJGg&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "25",
+            "48"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "48"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1819072174335918182",
+    "id_str": "1819407651748368602",
+    "in_reply_to_user_id": "1456321269029380097",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1819407651748368602",
+    "in_reply_to_status_id": "1819072174335918182",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 02 16:19:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@johnrushx Yes, but no.\n\nhttps://t.co/spAanEKulM",
+    "lang": "en",
+    "in_reply_to_screen_name": "johnrushx",
+    "in_reply_to_user_id_str": "1456321269029380097"
+  }
+}

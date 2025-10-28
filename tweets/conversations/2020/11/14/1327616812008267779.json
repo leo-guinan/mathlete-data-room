@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327616812008267779"
+        ],
+        "editableUntil": "2020-11-14T15:18:08.567Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "immad",
+          "screen_name": "immad",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "7537712",
+          "id": "7537712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1327422303714504705",
+    "id_str": "1327616812008267779",
+    "in_reply_to_user_id": "7537712",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1327616812008267779",
+    "in_reply_to_status_id": "1327422303714504705",
+    "created_at": "Sat Nov 14 14:18:08 +0000 2020",
+    "favorited": false,
+    "full_text": "@immad They won't reinvent banking. But I think they are key to the future of banking.",
+    "lang": "en",
+    "in_reply_to_screen_name": "immad",
+    "in_reply_to_user_id_str": "7537712"
+  }
+}

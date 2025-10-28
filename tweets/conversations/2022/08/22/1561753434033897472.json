@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1561753434033897472"
+        ],
+        "editableUntil": "2022-08-22T17:03:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Manish Sahajwani",
+          "screen_name": "msahajwani",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1232666768",
+          "id": "1232666768"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "71"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1561745597261967361",
+    "id_str": "1561753434033897472",
+    "in_reply_to_user_id": "1232666768",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1561753434033897472",
+    "in_reply_to_status_id": "1561745597261967361",
+    "created_at": "Mon Aug 22 16:33:29 +0000 2022",
+    "favorited": false,
+    "full_text": "@msahajwani So true!\n\nNow I'm heading into the week nice and recharged!",
+    "lang": "en",
+    "in_reply_to_screen_name": "msahajwani",
+    "in_reply_to_user_id_str": "1232666768"
+  }
+}

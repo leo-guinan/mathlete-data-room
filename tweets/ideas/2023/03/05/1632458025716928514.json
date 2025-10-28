@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1632458025716928514"
+        ],
+        "editableUntil": "2023-03-05T19:38:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "214"
+    ],
+    "favorite_count": "6",
+    "id_str": "1632458025716928514",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1632458025716928514",
+    "created_at": "Sun Mar 05 19:08:17 +0000 2023",
+    "favorited": false,
+    "full_text": "One of my goals for the week: testing the prompts I'm using with the new ChatGPT api. \n\nI think I should be able to mostly just swap the model I'm using, but want to validate that.\n\nThe cost savings is significant.",
+    "lang": "en"
+  }
+}

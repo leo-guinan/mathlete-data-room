@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1775309180162752516"
+        ],
+        "editableUntil": "2024-04-03T00:47:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sHy3Du8ahh",
+          "expanded_url": "https://x.com/leo_guinan/status/1775288059606548541?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "138",
+            "161"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1775261978006896730",
+    "id_str": "1775309180162752516",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1775309180162752516",
+    "in_reply_to_status_id": "1775261978006896730",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 02 23:47:46 +0000 2024",
+    "favorited": false,
+    "full_text": "@arvidkahl Appreciate you setting this up! 🙏\n\nCurrently connecting to the API to run an experiment before I kick off per user RSS feeds:\n\nhttps://t.co/sHy3Du8ahh",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

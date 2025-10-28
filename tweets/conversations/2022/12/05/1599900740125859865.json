@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1599900740125859865"
+        ],
+        "editableUntil": "2022-12-05T23:27:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Patrice Gorissen",
+          "screen_name": "patricegorissen",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "57920691",
+          "id": "57920691"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Da4Ra54QRH",
+          "expanded_url": "http://heartbeat.chat",
+          "display_url": "heartbeat.chat",
+          "indices": [
+            "43",
+            "66"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1599812365272219648",
+    "id_str": "1599900740125859865",
+    "in_reply_to_user_id": "57920691",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1599900740125859865",
+    "in_reply_to_status_id": "1599812365272219648",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 05 22:57:15 +0000 2022",
+    "favorited": false,
+    "full_text": "@patricegorissen Thanks Patrice! I'm using https://t.co/Da4Ra54QRH.\n\nI love the interface for it and the power it gives me for community management.",
+    "lang": "en",
+    "in_reply_to_screen_name": "patricegorissen",
+    "in_reply_to_user_id_str": "57920691"
+  }
+}

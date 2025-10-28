@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1921387668455239730"
+        ],
+        "editableUntil": "2025-05-11T03:11:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jj6fOwYcwy",
+          "expanded_url": "https://buildinpublic-s663.metalabel.com/memetic-foundations?variantId=1",
+          "display_url": "buildinpublic-s663.metalabel.com/memetic-founda…",
+          "indices": [
+            "209",
+            "232"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1921385887176294562",
+    "id_str": "1921387668455239730",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1921387668455239730",
+    "in_reply_to_status_id": "1921385887176294562",
+    "possibly_sensitive": false,
+    "created_at": "Sun May 11 02:11:32 +0000 2025",
+    "favorited": false,
+    "full_text": "@benjamingreeley That's true, but the systems we have don't account for this. They create fake stasis that loses a connection to reality over time, because we aren't tracking value correctly.\n\nMuch more here:\nhttps://t.co/jj6fOwYcwy",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

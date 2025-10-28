@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928421294002913624"
+        ],
+        "editableUntil": "2025-05-30T13:00:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Steve Bachelor",
+          "screen_name": "speedprior",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "232240398",
+          "id": "232240398"
+        },
+        {
+          "name": "Emmett Shear",
+          "screen_name": "eshear",
+          "indices": [
+            "12",
+            "19"
+          ],
+          "id_str": "905201",
+          "id": "905201"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lUkfTMvozM",
+          "expanded_url": "https://x.com/leo_guinan/status/1928259696151928988",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "275",
+            "298"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1928331820229083521",
+    "id_str": "1928421294002913624",
+    "in_reply_to_user_id": "232240398",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928421294002913624",
+    "in_reply_to_status_id": "1928331820229083521",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 30 12:00:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@speedprior @eshear I've spent 5 years working on that, and the problem is that the people the economy is working for are incentivized to believe that it's working.\n\nSo I'm done trying to make it legible and I'm just executing it. It's time to break the economy and fix it.\n\nhttps://t.co/lUkfTMvozM",
+    "lang": "en",
+    "in_reply_to_screen_name": "speedprior",
+    "in_reply_to_user_id_str": "232240398"
+  }
+}

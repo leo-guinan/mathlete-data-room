@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1848023908441583691"
+        ],
+        "editableUntil": "2024-10-20T16:30:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1848021030272700923",
+    "id_str": "1848023908441583691",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1848023908441583691",
+    "in_reply_to_status_id": "1848021030272700923",
+    "created_at": "Sun Oct 20 15:30:09 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli That's exactly it! Competition ends up being cooperative in the long run, because you see what ends up working out over time. When you don't know which adaptation will be the right one, it's better to take a shotgun approach and launch all sorts of adaptations, making sure that…",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

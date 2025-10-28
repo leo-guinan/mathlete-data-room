@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1910728918488805414"
+        ],
+        "editableUntil": "2025-04-11T17:17:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1910728918488805414/photo/1",
+          "indices": [
+            "132",
+            "155"
+          ],
+          "url": "https://t.co/EPqjbkJzMB",
+          "media_url": "http://pbs.twimg.com/media/GoRFwwiXgAUEzvF.jpg",
+          "id_str": "1910728845877018629",
+          "id": "1910728845877018629",
+          "media_url_https": "https://pbs.twimg.com/media/GoRFwwiXgAUEzvF.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "309",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "931",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "546",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EPqjbkJzMB"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "155"
+    ],
+    "favorite_count": "0",
+    "id_str": "1910728918488805414",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1910728918488805414",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 11 16:17:28 +0000 2025",
+    "favorited": false,
+    "full_text": "Anybody want to run through a personal go to market strategy landing page/assessment that I put together and give me some feedback? https://t.co/EPqjbkJzMB",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1910728918488805414/photo/1",
+          "indices": [
+            "132",
+            "155"
+          ],
+          "url": "https://t.co/EPqjbkJzMB",
+          "media_url": "http://pbs.twimg.com/media/GoRFwwiXgAUEzvF.jpg",
+          "id_str": "1910728845877018629",
+          "id": "1910728845877018629",
+          "media_url_https": "https://pbs.twimg.com/media/GoRFwwiXgAUEzvF.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "309",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "931",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "546",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EPqjbkJzMB"
+        }
+      ]
+    }
+  }
+}

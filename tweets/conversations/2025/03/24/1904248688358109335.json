@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1904248688358109335"
+        ],
+        "editableUntil": "2025-03-24T20:07:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        },
+        {
+          "name": "Bryan Johnson",
+          "screen_name": "bryan_johnson",
+          "indices": [
+            "15",
+            "29"
+          ],
+          "id_str": "17468569",
+          "id": "17468569"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1903969235610554821",
+    "id_str": "1904248688358109335",
+    "in_reply_to_user_id": "362189690",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1904248688358109335",
+    "in_reply_to_status_id": "1903969235610554821",
+    "created_at": "Mon Mar 24 19:07:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@iamjasonlevin @bryan_johnson You should see my onlyfans",
+    "lang": "en",
+    "in_reply_to_screen_name": "iamjasonlevin",
+    "in_reply_to_user_id_str": "362189690"
+  }
+}

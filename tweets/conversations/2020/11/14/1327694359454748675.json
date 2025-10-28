@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327694359454748675"
+        ],
+        "editableUntil": "2020-11-14T20:26:17.319Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fablor",
+          "screen_name": "fablor",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "18742076",
+          "id": "18742076"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "40"
+    ],
+    "favorite_count": "0",
+    "id_str": "1327694359454748675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327694359454748675",
+    "created_at": "Sat Nov 14 19:26:17 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @fablor: The Oxford comma wins again.",
+    "lang": "en"
+  }
+}

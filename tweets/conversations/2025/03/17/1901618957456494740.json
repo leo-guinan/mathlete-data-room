@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901618957456494740"
+        ],
+        "editableUntil": "2025-03-17T13:57:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "31",
+            "40"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z7ScOtaGMW",
+          "expanded_url": "https://x.com/reddy2go/status/1901611993053978946",
+          "display_url": "x.com/reddy2go/statu…",
+          "indices": [
+            "64",
+            "87"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "87"
+    ],
+    "favorite_count": "1",
+    "id_str": "1901618957456494740",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1901618957456494740",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 17 12:57:44 +0000 2025",
+    "favorited": false,
+    "full_text": "In a world of AI, I’m drafting @reddy2go to play on Team Human. https://t.co/z7ScOtaGMW",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527830618054316034"
+        ],
+        "editableUntil": "2022-05-21T02:26:19.721Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "19",
+            "30"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1527830618054316034",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527830618054316034",
+    "created_at": "Sat May 21 01:56:19 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @TheKookamonga: @LobowSpark @GraceBanyan @Lotusmom528 @JesseAnders89 @tshubillabong @leo_guinan Always great to be on, every episode fee…",
+    "lang": "en"
+  }
+}

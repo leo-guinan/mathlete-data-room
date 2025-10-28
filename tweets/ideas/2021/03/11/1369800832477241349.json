@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1369800832477241349"
+        ],
+        "editableUntil": "2021-03-11T01:02:22.788Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GSVBootcamp",
+          "indices": [
+            "31",
+            "43"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FahYLecUgv",
+          "expanded_url": "https://x.com/GSVteam/status/1369712958859735045",
+          "display_url": "x.com/GSVteam/status…",
+          "indices": [
+            "277",
+            "300"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "3",
+    "id_str": "1369800832477241349",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1369800832477241349",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 11 00:02:22 +0000 2021",
+    "favorited": false,
+    "full_text": "Reflecting a bit on the end of #GSVBootcamp. Delivered my pitch as one of the last presenters. A little nervous, but not too bad. 7 weeks of work distilled down into 3 minutes. The best part is that it got me on the right track. When I began the Bootcamp, I thought I had (1/) https://t.co/FahYLecUgv",
+    "lang": "en"
+  }
+}

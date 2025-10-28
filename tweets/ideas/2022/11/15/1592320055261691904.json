@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1592320055261691904"
+        ],
+        "editableUntil": "2022-11-15T01:24:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yIxrj2tTco",
+          "expanded_url": "https://www.howtoscaleyourself.com/owning-your-social-network/",
+          "display_url": "howtoscaleyourself.com/owning-your-so…",
+          "indices": [
+            "55",
+            "78"
+          ]
+        },
+        {
+          "url": "https://t.co/RMxYBJwueS",
+          "expanded_url": "https://x.com/eggs_mayhem/status/1591225884488310784",
+          "display_url": "x.com/eggs_mayhem/st…",
+          "indices": [
+            "79",
+            "102"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "102"
+    ],
+    "favorite_count": "1",
+    "id_str": "1592320055261691904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1592320055261691904",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 15 00:54:19 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, wrote a blog about this. Here's my recommendation:\nhttps://t.co/yIxrj2tTco https://t.co/RMxYBJwueS",
+    "lang": "en"
+  }
+}

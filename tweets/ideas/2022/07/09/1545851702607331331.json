@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545851702607331331"
+        ],
+        "editableUntil": "2022-07-09T19:55:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "270"
+    ],
+    "favorite_count": "1",
+    "id_str": "1545851702607331331",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545851702607331331",
+    "created_at": "Sat Jul 09 19:25:41 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally solved the problem I've been working on related to the Twitter OAuth2 refresh flow.\n\nNow in the process of updating a bunch of calls to reflect the updated architecture.\n\nLots of changes, but in the end, things will be simpler.\n\nAnd I get some added flexibility.",
+    "lang": "en"
+  }
+}

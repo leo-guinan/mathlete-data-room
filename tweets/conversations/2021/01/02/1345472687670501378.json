@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345472687670501378"
+        ],
+        "editableUntil": "2021-01-02T21:51:01.071Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "parul",
+          "screen_name": "parulia",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "3363451",
+          "id": "3363451"
+        },
+        {
+          "name": "Twitter",
+          "screen_name": "twitter",
+          "indices": [
+            "104",
+            "112"
+          ],
+          "id_str": "1683696495198089217",
+          "id": "1683696495198089217"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1345472687670501378",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345472687670501378",
+    "created_at": "Sat Jan 02 20:51:01 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @parulia: To more inclusive &amp; interesting conversations in 2021 🥂\n\nHere are 54 women I follow on @twitter and learn from everyday.  I fo…",
+    "lang": "en"
+  }
+}

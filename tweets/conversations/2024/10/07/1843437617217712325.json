@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1843437617217712325"
+        ],
+        "editableUntil": "2024-10-08T00:45:52.016Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tyler Alterman",
+          "screen_name": "TylerAlterman",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "18280363",
+          "id": "18280363"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1843437617217712325",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1843437617217712325",
+    "created_at": "Mon Oct 07 23:45:52 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @TylerAlterman: Mass cheating is the student population calling bullshit on an education system originally designed by 18th century Prus…",
+    "lang": "en"
+  }
+}

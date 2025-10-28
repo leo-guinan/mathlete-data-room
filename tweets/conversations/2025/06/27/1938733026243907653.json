@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938733026243907653"
+        ],
+        "editableUntil": "2025-06-27T23:55:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Wilkinson",
+          "screen_name": "awilkinson",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "3302",
+          "id": "3302"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pNs01NSkJt",
+          "expanded_url": "https://x.com/leo_guinan/status/1938632234962944185",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "144",
+            "167"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "167"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1938700760491139092",
+    "id_str": "1938733026243907653",
+    "in_reply_to_user_id": "3302",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938733026243907653",
+    "in_reply_to_status_id": "1938700760491139092",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 27 22:55:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@awilkinson I've solved all of those problems with Internet 2.0 and now we've got a bunch of new ones, but really specific ways to solve them.\n\nhttps://t.co/pNs01NSkJt",
+    "lang": "en",
+    "in_reply_to_screen_name": "awilkinson",
+    "in_reply_to_user_id_str": "3302"
+  }
+}

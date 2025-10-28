@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482539801152790528"
+        ],
+        "editableUntil": "2022-01-16T03:26:47.509Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1482539800238436356",
+    "id_str": "1482539801152790528",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482539801152790528",
+    "in_reply_to_status_id": "1482539800238436356",
+    "created_at": "Sun Jan 16 02:26:47 +0000 2022",
+    "favorited": false,
+    "full_text": "I also need to fix a few things related to my infrastructure. I'm running into failures on a regular enough basis that I've got to solidify it a bit. But I've got a few different options I'm exploring for that, so should be able to fix it one way or another.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

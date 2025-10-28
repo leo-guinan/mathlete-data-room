@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1705233725330457035"
+        ],
+        "editableUntil": "2023-09-22T15:52:56.486Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Romualdo SdC",
+          "screen_name": "romualdosc",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "2215875144",
+          "id": "2215875144"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1705233725330457035",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1705233725330457035",
+    "created_at": "Fri Sep 22 14:52:56 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @romualdosc: ...if you tie that feedback into their usage of the app in a way that helps them, you get the signal while they get the ben…",
+    "lang": "en"
+  }
+}

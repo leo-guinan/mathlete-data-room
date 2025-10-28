@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1881712695805988981"
+        ],
+        "editableUntil": "2025-01-21T15:37:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1881712695805988981/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/nvGIasPvJS",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Gh0vuLiXkAAKfvu.jpg",
+          "id_str": "1881712689728163840",
+          "id": "1881712689728163840",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gh0vuLiXkAAKfvu.jpg",
+          "sizes": {
+            "medium": {
+              "w": "320",
+              "h": "178",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "320",
+              "h": "178",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "320",
+              "h": "178",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nvGIasPvJS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "id_str": "1881712695805988981",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1881712695805988981",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 21 14:37:21 +0000 2025",
+    "favorited": false,
+    "full_text": "Waking up feeling like a champion. https://t.co/nvGIasPvJS",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1881712695805988981/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/nvGIasPvJS",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Gh0vuLiXkAAKfvu.jpg",
+          "id_str": "1881712689728163840",
+          "video_info": {
+            "aspect_ratio": [
+              "160",
+              "89"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Gh0vuLiXkAAKfvu.mp4"
+              }
+            ]
+          },
+          "id": "1881712689728163840",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gh0vuLiXkAAKfvu.jpg",
+          "sizes": {
+            "medium": {
+              "w": "320",
+              "h": "178",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "320",
+              "h": "178",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "320",
+              "h": "178",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/nvGIasPvJS"
+        }
+      ]
+    }
+  }
+}

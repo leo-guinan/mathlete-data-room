@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1910842456972615814"
+        ],
+        "editableUntil": "2025-04-12T00:48:38.135Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1910842456972615814",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1910842456972615814",
+    "created_at": "Fri Apr 11 23:48:38 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @jposhaughnessy: Thinking about how we could build a Resonance Engine: \n\nThe Resonance Engine isn't just a platform—it's a living digita…",
+    "lang": "en"
+  }
+}

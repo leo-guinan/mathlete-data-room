@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1586788642042822664"
+        ],
+        "editableUntil": "2022-10-30T19:04:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adam Lyttle",
+          "screen_name": "adamlyttleapps",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "7479922",
+          "id": "7479922"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1586692140385669120",
+    "id_str": "1586788642042822664",
+    "in_reply_to_user_id": "7479922",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1586788642042822664",
+    "in_reply_to_status_id": "1586692140385669120",
+    "created_at": "Sun Oct 30 18:34:28 +0000 2022",
+    "favorited": false,
+    "full_text": "@adamlyttleapps Perfect time to Perfect my nocode skills! 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "adamlyttleapps",
+    "in_reply_to_user_id_str": "7479922"
+  }
+}

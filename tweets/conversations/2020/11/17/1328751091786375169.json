@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328751091786375169"
+        ],
+        "editableUntil": "2020-11-17T18:25:21.940Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "SecretaryHobbs",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        },
+        {
+          "name": "Lindsey Graham",
+          "screen_name": "LindseyGrahamSC",
+          "indices": [
+            "58",
+            "74"
+          ],
+          "id_str": "432895323",
+          "id": "432895323"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328751091786375169",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328751091786375169",
+    "created_at": "Tue Nov 17 17:25:21 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @SecretaryHobbs: This is false. I have not spoken with @LindseyGrahamSC.",
+    "lang": "en"
+  }
+}

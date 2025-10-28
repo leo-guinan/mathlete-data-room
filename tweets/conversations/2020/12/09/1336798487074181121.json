@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1336798487074181121"
+        ],
+        "editableUntil": "2020-12-09T23:22:50.490Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "DonjiKong ",
+          "screen_name": "DonjiKong",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "915653030871101441",
+          "id": "915653030871101441"
+        },
+        {
+          "name": "Mike Solana",
+          "screen_name": "micsolana",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "18989355",
+          "id": "18989355"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "170"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1336793489347026944",
+    "id_str": "1336798487074181121",
+    "in_reply_to_user_id": "915653030871101441",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1336798487074181121",
+    "in_reply_to_status_id": "1336793489347026944",
+    "created_at": "Wed Dec 09 22:22:50 +0000 2020",
+    "favorited": false,
+    "full_text": "@DonjiKong @micsolana That's fair. I realized I can actually build what I want as a new crypto. So I am building that out a little and then I will revisit the pitch deck.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DonjiKong",
+    "in_reply_to_user_id_str": "915653030871101441"
+  }
+}

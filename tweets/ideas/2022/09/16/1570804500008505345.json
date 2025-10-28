@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1570804500008505345"
+        ],
+        "editableUntil": "2022-09-16T16:29:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/7Pphdp6asA",
+          "expanded_url": "https://socialmediagardens.com",
+          "display_url": "socialmediagardens.com",
+          "indices": [
+            "13",
+            "36"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "237"
+    ],
+    "favorite_count": "3",
+    "id_str": "1570804500008505345",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1570804500008505345",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 16 15:59:11 +0000 2022",
+    "favorited": false,
+    "full_text": "Coming soon: https://t.co/7Pphdp6asA\n\n(rebranding a little from Twitter Garden, if you read The SaaS Factory, ran into potential trademark issues including Twitter in the site name, at least on Carrd. Wouldn't let me publish to that URL)",
+    "lang": "en"
+  }
+}

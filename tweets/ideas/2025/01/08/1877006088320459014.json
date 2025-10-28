@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1877006088320459014"
+        ],
+        "editableUntil": "2025-01-08T15:54:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1877006088320459014/photo/1",
+          "indices": [
+            "131",
+            "154"
+          ],
+          "url": "https://t.co/Lfjg2G8s8Z",
+          "media_url": "http://pbs.twimg.com/media/Ggx3BgbWYAA9sjx.jpg",
+          "id_str": "1877006012474875904",
+          "id": "1877006012474875904",
+          "media_url_https": "https://pbs.twimg.com/media/Ggx3BgbWYAA9sjx.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "666",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "378",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1210",
+              "h": "672",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Lfjg2G8s8Z"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "1",
+    "id_str": "1877006088320459014",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1877006088320459014",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 08 14:54:59 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, now I'm pretty sure Grok is pandering to me by just rewriting history so my team's hated rival didn't win the title last year. https://t.co/Lfjg2G8s8Z",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1877006088320459014/photo/1",
+          "indices": [
+            "131",
+            "154"
+          ],
+          "url": "https://t.co/Lfjg2G8s8Z",
+          "media_url": "http://pbs.twimg.com/media/Ggx3BgbWYAA9sjx.jpg",
+          "id_str": "1877006012474875904",
+          "id": "1877006012474875904",
+          "media_url_https": "https://pbs.twimg.com/media/Ggx3BgbWYAA9sjx.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "666",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "378",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1210",
+              "h": "672",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Lfjg2G8s8Z"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1698733419633488038"
+        ],
+        "editableUntil": "2023-09-04T17:23:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1696407360657629546",
+    "id_str": "1698733419633488038",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1698733419633488038",
+    "in_reply_to_status_id": "1696407360657629546",
+    "created_at": "Mon Sep 04 16:23:02 +0000 2023",
+    "favorited": false,
+    "full_text": "@hellostartupla It's a really niche problem, unfortunately. Specifically related to dependency upgrades on a project breaking things.\n\nSo a lot of context is needed. But had to step away for a week to work on other things, so hopefully I'll go back to it and see the piece of the puzzle I was…",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

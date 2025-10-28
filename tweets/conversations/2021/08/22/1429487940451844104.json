@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1429487940451844104"
+        ],
+        "editableUntil": "2021-08-22T17:57:38.262Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Wise Chimp",
+          "screen_name": "wise_chimp",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1292132774275616768",
+          "id": "1292132774275616768"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "id_str": "1429487940451844104",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1429487940451844104",
+    "created_at": "Sun Aug 22 16:57:38 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @wise_chimp: Secret to great success: embrace discomfort.",
+    "lang": "en"
+  }
+}

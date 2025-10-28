@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1370402860492591106"
+        ],
+        "editableUntil": "2021-03-12T16:54:37.452Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Flights of Foundry",
+          "screen_name": "FlightofFoundry",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1250893616060522497",
+          "id": "1250893616060522497"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QZtk1AnHFW",
+          "expanded_url": "https://www.eventbrite.com/e/flights-of-foundry-2021-registration-138091189465?aff=twitter",
+          "display_url": "eventbrite.com/e/flights-of-f…",
+          "indices": [
+            "112",
+            "135"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "0",
+    "id_str": "1370402860492591106",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1370402860492591106",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 12 15:54:37 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @FlightofFoundry: Today's the last day to register and get a guaranteed spot in the lottery for workshops! \n\nhttps://t.co/QZtk1AnHFW",
+    "lang": "en"
+  }
+}

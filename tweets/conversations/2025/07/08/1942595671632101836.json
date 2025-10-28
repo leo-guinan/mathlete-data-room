@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942595671632101836"
+        ],
+        "editableUntil": "2025-07-08T15:44:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        },
+        {
+          "name": "Maxime Dupré",
+          "screen_name": "maximehugodupre",
+          "indices": [
+            "12",
+            "28"
+          ],
+          "id_str": "3358091321",
+          "id": "3358091321"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kCjBsfdT6B",
+          "expanded_url": "https://www.buildinpublicuniversity.com/stop-doom-scrolling-your-rivals-how-champsignal-turns-competitive-chaos-into-actionable-signal/",
+          "display_url": "buildinpublicuniversity.com/stop-doom-scro…",
+          "indices": [
+            "45",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942595626945900576",
+    "id_str": "1942595671632101836",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942595671632101836",
+    "in_reply_to_status_id": "1942595626945900576",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 08 14:44:34 +0000 2025",
+    "favorited": false,
+    "full_text": "@dagorenouf @maximehugodupre Full post here: https://t.co/kCjBsfdT6B",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

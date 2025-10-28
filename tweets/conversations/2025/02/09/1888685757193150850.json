@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1888685757193150850"
+        ],
+        "editableUntil": "2025-02-09T21:25:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Beff – e/acc",
+          "screen_name": "BasedBeffJezos",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1556550048862928898",
+          "id": "1556550048862928898"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9RvMZsSqHx",
+          "expanded_url": "https://ideasupplychain.com/the-ideal-quantum-economic-marketplace/",
+          "display_url": "ideasupplychain.com/the-ideal-quan…",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1888684503482437949",
+    "id_str": "1888685757193150850",
+    "in_reply_to_user_id": "1556550048862928898",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1888685757193150850",
+    "in_reply_to_status_id": "1888684503482437949",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 09 20:25:49 +0000 2025",
+    "favorited": false,
+    "full_text": "@BasedBeffJezos Impossible for a single algorithm to serve all. The marketplace of ideas is a quantum marketplace.\n\nhttps://t.co/9RvMZsSqHx",
+    "lang": "en",
+    "in_reply_to_screen_name": "BasedBeffJezos",
+    "in_reply_to_user_id_str": "1556550048862928898"
+  }
+}

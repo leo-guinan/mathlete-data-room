@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1812937538098851953"
+        ],
+        "editableUntil": "2024-07-15T20:49:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1812932326004793597",
+    "id_str": "1812937538098851953",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1812937538098851953",
+    "in_reply_to_status_id": "1812932326004793597",
+    "created_at": "Mon Jul 15 19:49:26 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli It's going to get even better too. I'm working on adding my Substack and blogs into it next, and I've requested my tweet library. Ideally, I'll be able to pull up any relevant content I've created about anything.\n\nHaven't built the audience yet, but I've built the library.",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

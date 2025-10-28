@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1547262771930202112"
+        ],
+        "editableUntil": "2022-07-13T17:22:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "11",
+            "20"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1547248563519987715",
+    "id_str": "1547262771930202112",
+    "in_reply_to_user_id": "22013413",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1547262771930202112",
+    "in_reply_to_status_id": "1547248563519987715",
+    "created_at": "Wed Jul 13 16:52:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@dagreen77 @reddy2go Nice! That's a fun idea! \n\nDid you get it going at all?",
+    "lang": "en",
+    "in_reply_to_screen_name": "TheDanGreenwald",
+    "in_reply_to_user_id_str": "22013413"
+  }
+}

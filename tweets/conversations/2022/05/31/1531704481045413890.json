@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1531704481045413890"
+        ],
+        "editableUntil": "2022-05-31T18:59:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ron Zakay 🏳️‍🌈 (he/him)",
+          "screen_name": "ronzakay",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "160795888",
+          "id": "160795888"
+        },
+        {
+          "name": "Kurzgesagt",
+          "screen_name": "Kurz_Gesagt",
+          "indices": [
+            "10",
+            "22"
+          ],
+          "id_str": "1603439773",
+          "id": "1603439773"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "180"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1531678651527204864",
+    "id_str": "1531704481045413890",
+    "in_reply_to_user_id": "160795888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1531704481045413890",
+    "in_reply_to_status_id": "1531678651527204864",
+    "created_at": "Tue May 31 18:29:40 +0000 2022",
+    "favorited": false,
+    "full_text": "@ronzakay @Kurz_Gesagt It's going to be fun to see what's possible in this realm. There's a lot of potential that can be tapped when people have the tools that allow them to do so.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ronzakay",
+    "in_reply_to_user_id_str": "160795888"
+  }
+}

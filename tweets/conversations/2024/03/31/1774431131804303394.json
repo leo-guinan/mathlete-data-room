@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1774431131804303394"
+        ],
+        "editableUntil": "2024-03-31T14:38:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Emad",
+          "screen_name": "EMostaque",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "407800233",
+          "id": "407800233"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "253"
+    ],
+    "favorite_count": "8",
+    "in_reply_to_status_id_str": "1774429480297062485",
+    "id_str": "1774431131804303394",
+    "in_reply_to_user_id": "407800233",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1774431131804303394",
+    "in_reply_to_status_id": "1774429480297062485",
+    "created_at": "Sun Mar 31 13:38:43 +0000 2024",
+    "favorited": false,
+    "full_text": "@EMostaque That's one of my favorite things with generative AI. As someone who has aphantasia, I've tended to avoid anything related to graphics. But now, I can take concepts and make them visible. Unlocks a whole new way of thinking (albeit externally)",
+    "lang": "en",
+    "in_reply_to_screen_name": "EMostaque",
+    "in_reply_to_user_id_str": "407800233"
+  }
+}

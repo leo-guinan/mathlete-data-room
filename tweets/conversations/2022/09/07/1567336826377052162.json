@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1567336826377052162"
+        ],
+        "editableUntil": "2022-09-07T02:49:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        },
+        {
+          "name": "Hitchhiker's Guide To The Future - The Video Game!",
+          "screen_name": "HHGTTF_Game",
+          "indices": [
+            "13",
+            "25"
+          ],
+          "id_str": "1566591470773182464",
+          "id": "1566591470773182464"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "270"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1567336500710219780",
+    "id_str": "1567336826377052162",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1567336826377052162",
+    "in_reply_to_status_id": "1567336500710219780",
+    "created_at": "Wed Sep 07 02:19:53 +0000 2022",
+    "favorited": false,
+    "full_text": "@eggs_mayhem @HHGTTF_Game I'm wondering if those concepts can be useful in IRL contexts, creating incentives tied to tangible outcomes, but with a competitive, critical thinking aspect as part of it, instead of repetitive actions that don't actually accomplish anything.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

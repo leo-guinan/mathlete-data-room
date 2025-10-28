@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519412291388813314"
+        ],
+        "editableUntil": "2022-04-27T20:54:54.239Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Goutham Jay ⚡",
+          "screen_name": "gouthamjay8",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "815894131452956672",
+          "id": "815894131452956672"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "13",
+            "25"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DBh7I82DRi",
+          "expanded_url": "https://wall.famewall.io/feathercrm",
+          "display_url": "wall.famewall.io/feathercrm",
+          "indices": [
+            "56",
+            "79"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1519361234520653824",
+    "id_str": "1519412291388813314",
+    "in_reply_to_user_id": "815894131452956672",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1519412291388813314",
+    "in_reply_to_status_id": "1519361234520653824",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 27 20:24:54 +0000 2022",
+    "favorited": false,
+    "full_text": "@gouthamjay8 @ProductHunt Got a good start to it here!\n\nhttps://t.co/DBh7I82DRi\n\nI'm working on adding it to the @feathercrm landing page to go out with the next batch of updates. \n\nLooks incredible!",
+    "lang": "en",
+    "in_reply_to_screen_name": "gouthamjay8",
+    "in_reply_to_user_id_str": "815894131452956672"
+  }
+}

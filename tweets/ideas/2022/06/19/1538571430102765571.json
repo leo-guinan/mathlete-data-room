@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1538571430102765571"
+        ],
+        "editableUntil": "2022-06-19T17:46:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Zpa9kBYbNu",
+          "expanded_url": "https://x.com/DirkGently_Bot/status/1538564528010678273",
+          "display_url": "x.com/DirkGently_Bot…",
+          "indices": [
+            "43",
+            "66"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "1",
+    "id_str": "1538571430102765571",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1538571430102765571",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 19 17:16:28 +0000 2022",
+    "favorited": false,
+    "full_text": "This is the sweet spot I try to shoot for. https://t.co/Zpa9kBYbNu",
+    "lang": "en"
+  }
+}

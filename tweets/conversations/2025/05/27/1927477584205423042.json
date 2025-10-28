@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1927477584205423042"
+        ],
+        "editableUntil": "2025-05-27T22:30:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1927477584205423042/photo/1",
+          "indices": [
+            "228",
+            "251"
+          ],
+          "url": "https://t.co/boATRayVTH",
+          "media_url": "http://pbs.twimg.com/media/Gr_GpUIWgAE47Of.jpg",
+          "id_str": "1927477578618535937",
+          "id": "1927477578618535937",
+          "media_url_https": "https://pbs.twimg.com/media/Gr_GpUIWgAE47Of.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/boATRayVTH"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "251"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1927056656384274754",
+    "id_str": "1927477584205423042",
+    "in_reply_to_user_id": "1400492097082327040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1927477584205423042",
+    "in_reply_to_status_id": "1927056656384274754",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 27 21:30:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@jessyka_boat I think it’s both a shitpost and not a shitpost. \n\nThere’s a book that came to mind when I saw this post of his, “Playing to Win”\n\nIt’s written by a champion gamer, and he talks about avoiding the scrub mentality. https://t.co/boATRayVTH",
+    "lang": "en",
+    "in_reply_to_screen_name": "jessyka_boat",
+    "in_reply_to_user_id_str": "1400492097082327040",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1927477584205423042/photo/1",
+          "indices": [
+            "228",
+            "251"
+          ],
+          "url": "https://t.co/boATRayVTH",
+          "media_url": "http://pbs.twimg.com/media/Gr_GpUIWgAE47Of.jpg",
+          "id_str": "1927477578618535937",
+          "id": "1927477578618535937",
+          "media_url_https": "https://pbs.twimg.com/media/Gr_GpUIWgAE47Of.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/boATRayVTH"
+        }
+      ]
+    }
+  }
+}

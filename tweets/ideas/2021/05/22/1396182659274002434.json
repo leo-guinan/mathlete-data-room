@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1396182659274002434"
+        ],
+        "editableUntil": "2021-05-22T20:14:20.447Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "possibilities",
+          "indices": [
+            "62",
+            "76"
+          ]
+        },
+        {
+          "text": "polywork",
+          "indices": [
+            "77",
+            "86"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BBbn7eXG5k",
+          "expanded_url": "https://poly.work/leo_guinan/highlights/7da926cf-dd9c-487b-9285-f795b97ab3ce",
+          "display_url": "poly.work/leo_guinan/hig…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "0",
+    "id_str": "1396182659274002434",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1396182659274002434",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 22 19:14:20 +0000 2021",
+    "favorited": false,
+    "full_text": "Check out my latest post on Polywork\n\nhttps://t.co/BBbn7eXG5k #possibilities #polywork",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931817524586246337"
+        ],
+        "editableUntil": "2025-06-08T21:56:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1931817523378336128",
+    "id_str": "1931817524586246337",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931817524586246337",
+    "in_reply_to_status_id": "1931817523378336128",
+    "created_at": "Sun Jun 08 20:56:03 +0000 2025",
+    "favorited": false,
+    "full_text": "First-Solver Advantage\n\nEconomic value formula:\nV(τ) = ∫_{τ}^{τ+Δt} [R(t) · e^{-λ(t-τ)}] dt\nTemporal monopoly duration: Δt ≈ (1/v_v) · ln(S(Π,τ⁻)/S_min)\n\nValue proportional to entropy reduction achieved. Solve high-entropy problems first.",
+    "lang": "ca",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

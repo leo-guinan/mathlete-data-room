@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1818637746111414276"
+        ],
+        "editableUntil": "2024-07-31T14:20:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paulina Sáez",
+          "screen_name": "PSaezT",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "150260330",
+          "id": "150260330"
+        },
+        {
+          "name": "Jason Leow",
+          "screen_name": "jasonleowsg",
+          "indices": [
+            "8",
+            "20"
+          ],
+          "id_str": "2890893720",
+          "id": "2890893720"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1818635443766018202",
+    "id_str": "1818637746111414276",
+    "in_reply_to_user_id": "150260330",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1818637746111414276",
+    "in_reply_to_status_id": "1818635443766018202",
+    "created_at": "Wed Jul 31 13:20:01 +0000 2024",
+    "favorited": false,
+    "full_text": "@PSaezT @jasonleowsg haha, I got what you meant, but once I read the replies, wanted to have some fun with it.\n\nMight be something with the specific audience though, with devs hearing \"agency\" and thinking something very specific. \n\nExcited for the idea though, think we need more high-agency people!",
+    "lang": "en",
+    "in_reply_to_screen_name": "PSaezT",
+    "in_reply_to_user_id_str": "150260330"
+  }
+}

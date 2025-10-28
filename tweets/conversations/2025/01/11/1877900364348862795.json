@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1877900364348862795"
+        ],
+        "editableUntil": "2025-01-11T03:08:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        },
+        {
+          "name": "Dr Ally Louks",
+          "screen_name": "DrAllyLouks",
+          "indices": [
+            "30",
+            "42"
+          ],
+          "id_str": "1269269447212179456",
+          "id": "1269269447212179456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "179"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1877804270290124817",
+    "id_str": "1877900364348862795",
+    "in_reply_to_user_id": "16884623",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1877900364348862795",
+    "in_reply_to_status_id": "1877804270290124817",
+    "created_at": "Sat Jan 11 02:08:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@visakanv Going to try paging @DrAllyLouks to see if she has noticed anything related to this idea in her studies of literature. Would love to know if people have written about it",
+    "lang": "en",
+    "in_reply_to_screen_name": "visakanv",
+    "in_reply_to_user_id_str": "16884623"
+  }
+}

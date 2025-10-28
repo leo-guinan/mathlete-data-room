@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1479585733052620803"
+        ],
+        "editableUntil": "2022-01-07T23:48:22.790Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Wn9SXZ2fOH",
+          "expanded_url": "https://link.medium.com/u3AUMSx7Cmb",
+          "display_url": "link.medium.com/u3AUMSx7Cmb",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1479483283285196803",
+    "id_str": "1479585733052620803",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1479585733052620803",
+    "in_reply_to_status_id": "1479483283285196803",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 07 22:48:22 +0000 2022",
+    "favorited": false,
+    "full_text": "@NotechAna My latest:\n\nhttps://t.co/Wn9SXZ2fOH",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

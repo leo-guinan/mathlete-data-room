@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536472361825972226"
+        ],
+        "editableUntil": "2022-06-13T22:45:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Samantha Postman",
+          "screen_name": "SamanthaPostman",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "951591875441381376",
+          "id": "951591875441381376"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "17",
+            "28"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1536471801248862209",
+    "id_str": "1536472361825972226",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536472361825972226",
+    "in_reply_to_status_id": "1536471801248862209",
+    "created_at": "Mon Jun 13 22:15:31 +0000 2022",
+    "favorited": false,
+    "full_text": "@SamanthaPostman @LobowSpark This is potentially a fun intersection of the two and might just have to be posted as an episode on both. 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

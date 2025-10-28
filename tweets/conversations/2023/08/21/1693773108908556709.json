@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1693773108908556709"
+        ],
+        "editableUntil": "2023-08-22T00:52:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Stephen J. Caggiano",
+          "screen_name": "StephenCaggiano",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "29130296",
+          "id": "29130296"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1693629608099201125",
+    "id_str": "1693773108908556709",
+    "in_reply_to_user_id": "29130296",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1693773108908556709",
+    "in_reply_to_status_id": "1693629608099201125",
+    "created_at": "Mon Aug 21 23:52:32 +0000 2023",
+    "favorited": false,
+    "full_text": "@StephenCaggiano My time playing Minecraft is prepping me well.\n\n(everything in nature is a cube, right?)",
+    "lang": "en",
+    "in_reply_to_screen_name": "StephenCaggiano",
+    "in_reply_to_user_id_str": "29130296"
+  }
+}

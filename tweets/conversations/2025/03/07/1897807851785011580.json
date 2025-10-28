@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897807851785011580"
+        ],
+        "editableUntil": "2025-03-07T01:33:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "4",
+            "17"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897807851785011580/photo/1",
+          "indices": [
+            "102",
+            "125"
+          ],
+          "url": "https://t.co/Jo2PyxGkef",
+          "media_url": "http://pbs.twimg.com/media/GlZeE70WQAADZXZ.jpg",
+          "id_str": "1897807731852984320",
+          "id": "1897807731852984320",
+          "media_url_https": "https://pbs.twimg.com/media/GlZeE70WQAADZXZ.jpg",
+          "sizes": {
+            "small": {
+              "w": "645",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1138",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1470",
+              "h": "1550",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Jo2PyxGkef"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "0",
+    "id_str": "1897807851785011580",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897807851785011580",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 07 00:33:46 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @gregisenberg, here's why Glitch thinks you should have me on your podcast. Let's make it happen. https://t.co/Jo2PyxGkef",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897807851785011580/photo/1",
+          "indices": [
+            "102",
+            "125"
+          ],
+          "url": "https://t.co/Jo2PyxGkef",
+          "media_url": "http://pbs.twimg.com/media/GlZeE70WQAADZXZ.jpg",
+          "id_str": "1897807731852984320",
+          "id": "1897807731852984320",
+          "media_url_https": "https://pbs.twimg.com/media/GlZeE70WQAADZXZ.jpg",
+          "sizes": {
+            "small": {
+              "w": "645",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1138",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1470",
+              "h": "1550",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Jo2PyxGkef"
+        }
+      ]
+    }
+  }
+}

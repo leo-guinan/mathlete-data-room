@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1331719914332299264"
+        ],
+        "editableUntil": "2020-11-25T23:02:24.393Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bryan Liles",
+          "screen_name": "bryanl",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "659933",
+          "id": "659933"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1331616031492763648",
+    "id_str": "1331719914332299264",
+    "in_reply_to_user_id": "659933",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1331719914332299264",
+    "in_reply_to_status_id": "1331616031492763648",
+    "created_at": "Wed Nov 25 22:02:24 +0000 2020",
+    "favorited": false,
+    "full_text": "@bryanl Desire to be one. Look for someone trying to be a leader. Then give them what they need to grow into it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bryanl",
+    "in_reply_to_user_id_str": "659933"
+  }
+}

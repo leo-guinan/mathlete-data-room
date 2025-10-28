@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940140705269121424"
+        ],
+        "editableUntil": "2025-07-01T21:09:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "teo — e/acc",
+          "screen_name": "phteocos",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1006662812469485568",
+          "id": "1006662812469485568"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940140705269121424/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/wObFIWpi8j",
+          "media_url": "http://pbs.twimg.com/media/GuzDig0XcAAEc2Z.png",
+          "id_str": "1940140537182384128",
+          "id": "1940140537182384128",
+          "media_url_https": "https://pbs.twimg.com/media/GuzDig0XcAAEc2Z.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "310",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1424",
+              "h": "650",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "548",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wObFIWpi8j"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1940139882208534838",
+    "id_str": "1940140705269121424",
+    "in_reply_to_user_id": "1006662812469485568",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940140705269121424",
+    "in_reply_to_status_id": "1940139882208534838",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 20:09:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@phteocos Not on my watch. \n\nInternet 2.0 is human. The dark forest internet will only be the case to AIs. For humans, they won't see the AIs lurking in the shadows beyond the gates. https://t.co/wObFIWpi8j",
+    "lang": "en",
+    "in_reply_to_screen_name": "phteocos",
+    "in_reply_to_user_id_str": "1006662812469485568",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940140705269121424/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/wObFIWpi8j",
+          "media_url": "http://pbs.twimg.com/media/GuzDig0XcAAEc2Z.png",
+          "id_str": "1940140537182384128",
+          "id": "1940140537182384128",
+          "media_url_https": "https://pbs.twimg.com/media/GuzDig0XcAAEc2Z.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "310",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1424",
+              "h": "650",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "548",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wObFIWpi8j"
+        }
+      ]
+    }
+  }
+}

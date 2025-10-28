@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1393207148117741569"
+        ],
+        "editableUntil": "2021-05-14T15:10:43.305Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/d6i1W6q8kH",
+          "expanded_url": "https://x.com/dickiebush/status/1393204815254204417",
+          "display_url": "x.com/dickiebush/sta…",
+          "indices": [
+            "15",
+            "38"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "1",
+    "id_str": "1393207148117741569",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1393207148117741569",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 14 14:10:43 +0000 2021",
+    "favorited": false,
+    "full_text": "Current goals: https://t.co/d6i1W6q8kH",
+    "lang": "en"
+  }
+}

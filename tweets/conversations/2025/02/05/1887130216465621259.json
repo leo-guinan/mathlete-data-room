@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887130216465621259"
+        ],
+        "editableUntil": "2025-02-05T14:24:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "vidhvat",
+          "screen_name": "vidhvatm",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "60245476",
+          "id": "60245476"
+        },
+        {
+          "name": "Emmett McDow",
+          "screen_name": "mcd0w",
+          "indices": [
+            "27",
+            "33"
+          ],
+          "id_str": "1327302572907114496",
+          "id": "1327302572907114496"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "234"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1886940078871544130",
+    "id_str": "1887130216465621259",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887130216465621259",
+    "in_reply_to_status_id": "1886940078871544130",
+    "created_at": "Wed Feb 05 13:24:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @vidhvatm @mcd0w it's going to be really interesting when we turn on the light that will show what everyone is doing.\n\nthere are a lot of people exploiting the system, and soon, it's going to be very easy to tell who.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

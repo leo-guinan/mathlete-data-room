@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1854214664726667651"
+        ],
+        "editableUntil": "2024-11-06T18:30:00.370Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Joshua 💫",
+          "screen_name": "workflowsauce",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1750574343615320065",
+          "id": "1750574343615320065"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "19",
+            "35"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/workflowsauce/status/1854212565985071467/photo/1",
+          "source_status_id": "1854212565985071467",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/c0ISfGCHBu",
+          "media_url": "http://pbs.twimg.com/media/Gbt8f4NakAAVNsn.png",
+          "id_str": "1854212558699532288",
+          "source_user_id": "1750574343615320065",
+          "id": "1854212558699532288",
+          "media_url_https": "https://pbs.twimg.com/media/Gbt8f4NakAAVNsn.png",
+          "source_user_id_str": "1750574343615320065",
+          "sizes": {
+            "large": {
+              "w": "886",
+              "h": "499",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "886",
+              "h": "499",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1854212565985071467",
+          "display_url": "pic.x.com/c0ISfGCHBu"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "0",
+    "id_str": "1854214664726667651",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1854214664726667651",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 06 17:30:00 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @workflowsauce: @DefenderOfBasic https://t.co/c0ISfGCHBu",
+    "lang": "qme",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/workflowsauce/status/1854212565985071467/photo/1",
+          "source_status_id": "1854212565985071467",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/c0ISfGCHBu",
+          "media_url": "http://pbs.twimg.com/media/Gbt8f4NakAAVNsn.png",
+          "id_str": "1854212558699532288",
+          "source_user_id": "1750574343615320065",
+          "id": "1854212558699532288",
+          "media_url_https": "https://pbs.twimg.com/media/Gbt8f4NakAAVNsn.png",
+          "source_user_id_str": "1750574343615320065",
+          "sizes": {
+            "large": {
+              "w": "886",
+              "h": "499",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "886",
+              "h": "499",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1854212565985071467",
+          "display_url": "pic.x.com/c0ISfGCHBu"
+        }
+      ]
+    }
+  }
+}

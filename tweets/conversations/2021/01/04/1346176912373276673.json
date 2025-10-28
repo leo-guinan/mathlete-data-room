@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346176912373276673"
+        ],
+        "editableUntil": "2021-01-04T20:29:21.324Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "SatinDucky",
+          "screen_name": "SatinDucky",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "44858130",
+          "id": "44858130"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1346176081632616449",
+    "id_str": "1346176912373276673",
+    "in_reply_to_user_id": "44858130",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346176912373276673",
+    "in_reply_to_status_id": "1346176081632616449",
+    "created_at": "Mon Jan 04 19:29:21 +0000 2021",
+    "favorited": false,
+    "full_text": "@SatinDucky That's fair. My target audience is people who spend time on it, so those were the responses I was hoping for. I am trying to make it easier to monetize content through social networks. To validate some ideas, I am trying to build up a community of people who do use them that way.",
+    "lang": "en",
+    "in_reply_to_screen_name": "SatinDucky",
+    "in_reply_to_user_id_str": "44858130"
+  }
+}

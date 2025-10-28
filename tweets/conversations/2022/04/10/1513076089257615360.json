@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513076089257615360"
+        ],
+        "editableUntil": "2022-04-10T09:47:05.930Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1512804335557693445/photo/1",
+          "source_status_id": "1512804335557693445",
+          "indices": [
+            "34",
+            "57"
+          ],
+          "url": "https://t.co/3lRZPN5M4e",
+          "media_url": "http://pbs.twimg.com/media/FP6PhmvWUAciDku.jpg",
+          "id_str": "1512804332340662279",
+          "source_user_id": "1325102346792218629",
+          "id": "1512804332340662279",
+          "media_url_https": "https://pbs.twimg.com/media/FP6PhmvWUAciDku.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1512804335557693445",
+          "display_url": "pic.x.com/3lRZPN5M4e"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "0",
+    "id_str": "1513076089257615360",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513076089257615360",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 10 08:47:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Long dog is long. https://t.co/3lRZPN5M4e",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1512804335557693445/photo/1",
+          "source_status_id": "1512804335557693445",
+          "indices": [
+            "34",
+            "57"
+          ],
+          "url": "https://t.co/3lRZPN5M4e",
+          "media_url": "http://pbs.twimg.com/media/FP6PhmvWUAciDku.jpg",
+          "id_str": "1512804332340662279",
+          "source_user_id": "1325102346792218629",
+          "id": "1512804332340662279",
+          "media_url_https": "https://pbs.twimg.com/media/FP6PhmvWUAciDku.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1512804335557693445",
+          "display_url": "pic.x.com/3lRZPN5M4e"
+        }
+      ]
+    }
+  }
+}

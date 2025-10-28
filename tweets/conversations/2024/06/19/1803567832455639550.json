@@ -1,0 +1,132 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803567832455639550"
+        ],
+        "editableUntil": "2024-06-20T00:17:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803567832455639550/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/QJjgQkT0Du",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQePYfJXEAEI3Ba.jpg",
+          "id_str": "1803567826625564673",
+          "id": "1803567826625564673",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQePYfJXEAEI3Ba.jpg",
+          "sizes": {
+            "medium": {
+              "w": "200",
+              "h": "132",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "200",
+              "h": "132",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "132",
+              "h": "132",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "200",
+              "h": "132",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/QJjgQkT0Du"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1803567824079671313",
+    "id_str": "1803567832455639550",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803567832455639550",
+    "in_reply_to_status_id": "1803567824079671313",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 19 23:17:34 +0000 2024",
+    "favorited": false,
+    "full_text": "I think in very high level abstractions. Makes it hard for me sometimes. I've got an engineering brain. I've trained myself to structure things very specifically. And then I took my knowledge to a completely different level in my research.\n\nSo I'm gonna do it live! https://t.co/QJjgQkT0Du",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803567832455639550/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/QJjgQkT0Du",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQePYfJXEAEI3Ba.jpg",
+          "id_str": "1803567826625564673",
+          "video_info": {
+            "aspect_ratio": [
+              "50",
+              "33"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GQePYfJXEAEI3Ba.mp4"
+              }
+            ]
+          },
+          "id": "1803567826625564673",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQePYfJXEAEI3Ba.jpg",
+          "sizes": {
+            "medium": {
+              "w": "200",
+              "h": "132",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "200",
+              "h": "132",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "132",
+              "h": "132",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "200",
+              "h": "132",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/QJjgQkT0Du"
+        }
+      ]
+    }
+  }
+}

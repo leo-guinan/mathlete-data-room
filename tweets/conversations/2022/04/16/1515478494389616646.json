@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515478494389616646"
+        ],
+        "editableUntil": "2022-04-17T00:53:23.948Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Athena Akrami",
+          "screen_name": "AthenaAkrami",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1035389878605885440",
+          "id": "1035389878605885440"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1515478494389616646",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1515478494389616646",
+    "created_at": "Sat Apr 16 23:53:23 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @AthenaAkrami: I used to see you wrongly, via a limited and contorted understanding that's prevalent in neuroscience research.\n\nI am lea…",
+    "lang": "en"
+  }
+}

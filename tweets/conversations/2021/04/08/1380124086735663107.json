@@ -1,0 +1,146 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1380124086735663107"
+        ],
+        "editableUntil": "2021-04-08T12:43:18.400Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jonathan Smith",
+          "screen_name": "DegenerateTBone",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "405194014",
+          "id": "405194014"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/DegenerateTBone/status/1380122904420102147/photo/1",
+          "source_status_id": "1380122904420102147",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/s64dRlK16o",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EycudZ5WEAcxKFs.jpg",
+          "id_str": "1380122893514838023",
+          "source_user_id": "405194014",
+          "id": "1380122893514838023",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EycudZ5WEAcxKFs.jpg",
+          "source_user_id_str": "405194014",
+          "sizes": {
+            "large": {
+              "w": "378",
+              "h": "334",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "378",
+              "h": "334",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "378",
+              "h": "334",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1380122904420102147",
+          "display_url": "pic.x.com/s64dRlK16o"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "0",
+    "id_str": "1380124086735663107",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1380124086735663107",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 08 11:43:18 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @DegenerateTBone: Tonight. 8pm. The Crew are on FS1 as they start their quest for global domination. https://t.co/s64dRlK16o",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/DegenerateTBone/status/1380122904420102147/photo/1",
+          "source_status_id": "1380122904420102147",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/s64dRlK16o",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EycudZ5WEAcxKFs.jpg",
+          "id_str": "1380122893514838023",
+          "video_info": {
+            "aspect_ratio": [
+              "189",
+              "167"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EycudZ5WEAcxKFs.mp4"
+              }
+            ]
+          },
+          "source_user_id": "405194014",
+          "id": "1380122893514838023",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EycudZ5WEAcxKFs.jpg",
+          "source_user_id_str": "405194014",
+          "sizes": {
+            "large": {
+              "w": "378",
+              "h": "334",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "378",
+              "h": "334",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "378",
+              "h": "334",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "source_status_id_str": "1380122904420102147",
+          "display_url": "pic.x.com/s64dRlK16o"
+        }
+      ]
+    }
+  }
+}

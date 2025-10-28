@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1638904499405455361"
+        ],
+        "editableUntil": "2023-03-23T14:34:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Janice CK 🐢 Slow Productivity Systems 🚢",
+          "screen_name": "slow_is_better",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1500080665739415553",
+          "id": "1500080665739415553"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1637760954133000193",
+    "id_str": "1638904499405455361",
+    "in_reply_to_user_id": "1500080665739415553",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1638904499405455361",
+    "in_reply_to_status_id": "1637760954133000193",
+    "created_at": "Thu Mar 23 14:04:16 +0000 2023",
+    "favorited": false,
+    "full_text": "@slow_is_better Yes! This is so important, because most of us won't ever get to the top (nor do we need to), so doing what they do doesn't make a ton of sense.\n\nThe people right ahead of us are always there, so there's always another step to take if we want to.",
+    "lang": "en",
+    "in_reply_to_screen_name": "slow_is_better",
+    "in_reply_to_user_id_str": "1500080665739415553"
+  }
+}

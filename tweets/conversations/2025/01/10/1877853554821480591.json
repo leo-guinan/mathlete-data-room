@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1877853554821480591"
+        ],
+        "editableUntil": "2025-01-11T00:02:30.958Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "0",
+    "id_str": "1877853554821480591",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1877853554821480591",
+    "created_at": "Fri Jan 10 23:02:30 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @visakanv: some dance to remember, some dance to forget~",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482157939540606976"
+        ],
+        "editableUntil": "2022-01-15T02:09:24.606Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "haps 🔅",
+          "screen_name": "hapsize",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "247572432",
+          "id": "247572432"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1482112656135884803",
+    "id_str": "1482157939540606976",
+    "in_reply_to_user_id": "247572432",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482157939540606976",
+    "in_reply_to_status_id": "1482112656135884803",
+    "created_at": "Sat Jan 15 01:09:24 +0000 2022",
+    "favorited": false,
+    "full_text": "@hapsize Absolutely! \n\nI have a terrible habit of thinking I can explain what I'm thinking. Until I try to. My brain and mouth are not always on the same page lol\n\nBut once I figure out how to express something once,  I'm good.\n\nThis is my hack for getting there before I talk to someone",
+    "lang": "en",
+    "in_reply_to_screen_name": "hapsize",
+    "in_reply_to_user_id_str": "247572432"
+  }
+}

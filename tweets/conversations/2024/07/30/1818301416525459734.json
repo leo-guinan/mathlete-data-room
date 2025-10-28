@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1818301416525459734"
+        ],
+        "editableUntil": "2024-07-30T16:03:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alexander De Ridder",
+          "screen_name": "adridder",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "8818792",
+          "id": "8818792"
+        },
+        {
+          "name": "wordware (old)",
+          "screen_name": "wordware_ai",
+          "indices": [
+            "10",
+            "22"
+          ],
+          "id_str": "39339327",
+          "id": "39339327"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1818154538827743376",
+    "id_str": "1818301416525459734",
+    "in_reply_to_user_id": "8818792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1818301416525459734",
+    "in_reply_to_status_id": "1818154538827743376",
+    "created_at": "Tue Jul 30 15:03:34 +0000 2024",
+    "favorited": false,
+    "full_text": "@adridder @wordware_ai Definitely something I've learned over the years. Got to accept where you can be better in order to make the changes needed to get better.",
+    "lang": "en",
+    "in_reply_to_screen_name": "adridder",
+    "in_reply_to_user_id_str": "8818792"
+  }
+}

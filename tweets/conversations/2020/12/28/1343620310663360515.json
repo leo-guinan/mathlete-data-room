@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1343620310663360515"
+        ],
+        "editableUntil": "2020-12-28T19:10:19.977Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonathan Chang",
+          "screen_name": "thechangj",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1015813710",
+          "id": "1015813710"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1343333962928816135",
+    "id_str": "1343620310663360515",
+    "in_reply_to_user_id": "1015813710",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1343620310663360515",
+    "in_reply_to_status_id": "1343333962928816135",
+    "created_at": "Mon Dec 28 18:10:19 +0000 2020",
+    "favorited": false,
+    "full_text": "@thechangj I am a millennial, but I am trying to offer investments into small businesses and startups at a microlevel. This will help investors come in small and early and really make it easy for companies to form and get initial funding. Let me know if I could send opportunities your way.",
+    "lang": "en",
+    "in_reply_to_screen_name": "thechangj",
+    "in_reply_to_user_id_str": "1015813710"
+  }
+}

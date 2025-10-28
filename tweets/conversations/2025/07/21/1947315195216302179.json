@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1947315195216302179"
+        ],
+        "editableUntil": "2025-07-21T16:18:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Alexis Ohanian 🗽",
+          "screen_name": "alexisohanian",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "811350",
+          "id": "811350"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1947315195216302179/photo/1",
+          "indices": [
+            "137",
+            "160"
+          ],
+          "url": "https://t.co/wx82WyBlcV",
+          "media_url": "http://pbs.twimg.com/media/GwZAs-OXwAAeKAW.png",
+          "id_str": "1947315030246014976",
+          "id": "1947315030246014976",
+          "media_url_https": "https://pbs.twimg.com/media/GwZAs-OXwAAeKAW.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1119",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "634",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1754",
+              "h": "1636",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wx82WyBlcV"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "160"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1947307853431091383",
+    "id_str": "1947315195216302179",
+    "in_reply_to_user_id": "811350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1947315195216302179",
+    "in_reply_to_status_id": "1947307853431091383",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 21 15:18:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@alexisohanian As part of Internet 2.0, our inbox is going to evolve.\n\nThe trust engine will help us filter the messages we want to see. https://t.co/wx82WyBlcV",
+    "lang": "en",
+    "in_reply_to_screen_name": "alexisohanian",
+    "in_reply_to_user_id_str": "811350",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1947315195216302179/photo/1",
+          "indices": [
+            "137",
+            "160"
+          ],
+          "url": "https://t.co/wx82WyBlcV",
+          "media_url": "http://pbs.twimg.com/media/GwZAs-OXwAAeKAW.png",
+          "id_str": "1947315030246014976",
+          "id": "1947315030246014976",
+          "media_url_https": "https://pbs.twimg.com/media/GwZAs-OXwAAeKAW.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1119",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "634",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1754",
+              "h": "1636",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wx82WyBlcV"
+        }
+      ]
+    }
+  }
+}

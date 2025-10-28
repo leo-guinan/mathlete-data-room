@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1775559390763930109"
+        ],
+        "editableUntil": "2024-04-03T17:22:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "2",
+    "id_str": "1775559390763930109",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1775559390763930109",
+    "created_at": "Wed Apr 03 16:22:01 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, have now added in the ability to query podcasts and pull relevant snippets to the backend for My AI Cofounder.\n\nNow, it's time to start the work on the sub-mind process, where it can work over several steps to think about something using the user's thoughts + its own",
+    "lang": "en"
+  }
+}

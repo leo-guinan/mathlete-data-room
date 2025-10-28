@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939904824750858748"
+        ],
+        "editableUntil": "2025-07-01T05:32:06.566Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "21",
+            "32"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "bolt.new",
+          "screen_name": "boltdotnew",
+          "indices": [
+            "33",
+            "44"
+          ],
+          "id_str": "2279695508",
+          "id": "2279695508"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/StroutMotivateU/status/1939904515555070351/photo/1",
+          "source_status_id": "1939904515555070351",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/elCJDnj07R",
+          "media_url": "http://pbs.twimg.com/media/Guvs4CBXsAAvXjB.jpg",
+          "id_str": "1939904511872577536",
+          "source_user_id": "1378776755738140675",
+          "id": "1939904511872577536",
+          "media_url_https": "https://pbs.twimg.com/media/Guvs4CBXsAAvXjB.jpg",
+          "source_user_id_str": "1378776755738140675",
+          "sizes": {
+            "large": {
+              "w": "1128",
+              "h": "1579",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "486",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "857",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1939904515555070351",
+          "display_url": "pic.x.com/elCJDnj07R"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "0",
+    "id_str": "1939904824750858748",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939904824750858748",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 04:32:06 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @StroutMotivateU: @leo_guinan @boltdotnew ifkyk https://t.co/elCJDnj07R",
+    "lang": "in",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/StroutMotivateU/status/1939904515555070351/photo/1",
+          "source_status_id": "1939904515555070351",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/elCJDnj07R",
+          "media_url": "http://pbs.twimg.com/media/Guvs4CBXsAAvXjB.jpg",
+          "id_str": "1939904511872577536",
+          "source_user_id": "1378776755738140675",
+          "id": "1939904511872577536",
+          "media_url_https": "https://pbs.twimg.com/media/Guvs4CBXsAAvXjB.jpg",
+          "source_user_id_str": "1378776755738140675",
+          "sizes": {
+            "large": {
+              "w": "1128",
+              "h": "1579",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "486",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "857",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1939904515555070351",
+          "display_url": "pic.x.com/elCJDnj07R"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1610331591909195776"
+        ],
+        "editableUntil": "2023-01-03T18:15:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "90",
+            "101"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1610051808562647042",
+    "id_str": "1610331591909195776",
+    "in_reply_to_user_id": "1043842782891134976",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1610331591909195776",
+    "in_reply_to_status_id": "1610051808562647042",
+    "created_at": "Tue Jan 03 17:45:44 +0000 2023",
+    "favorited": false,
+    "full_text": "@bethicalj @LobowSpark Thank you so much for saying so, Beth. Means the world to me.\n\nAnd @LobowSpark is definitely mine as well. Dude is making a huge impact.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bethicalj",
+    "in_reply_to_user_id_str": "1043842782891134976"
+  }
+}

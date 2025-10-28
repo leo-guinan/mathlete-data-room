@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1657022146533638154"
+        ],
+        "editableUntil": "2023-05-12T14:27:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1657022146533638154/photo/1",
+          "indices": [
+            "256",
+            "279"
+          ],
+          "url": "https://t.co/DaoIPGUDc3",
+          "media_url": "http://pbs.twimg.com/media/Fv7s29dXgAEpsCS.jpg",
+          "id_str": "1657022141873750017",
+          "id": "1657022141873750017",
+          "media_url_https": "https://pbs.twimg.com/media/Fv7s29dXgAEpsCS.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "95",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "162",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "54",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DaoIPGUDc3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "2",
+    "id_str": "1657022146533638154",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1657022146533638154",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 12 13:57:20 +0000 2023",
+    "favorited": false,
+    "full_text": "Achievement unlocked!\n\nJust hit 1K views on one of my YouTube videos. That was the one goal my Youtube manager had for the channel that we hadn't hit yet.\n\nBut oddly, it wasn't one of the shorts, which is what we were hoping, it was one of my main videos. https://t.co/DaoIPGUDc3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1657022146533638154/photo/1",
+          "indices": [
+            "256",
+            "279"
+          ],
+          "url": "https://t.co/DaoIPGUDc3",
+          "media_url": "http://pbs.twimg.com/media/Fv7s29dXgAEpsCS.jpg",
+          "id_str": "1657022141873750017",
+          "id": "1657022141873750017",
+          "media_url_https": "https://pbs.twimg.com/media/Fv7s29dXgAEpsCS.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "95",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "162",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "54",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DaoIPGUDc3"
+        }
+      ]
+    }
+  }
+}

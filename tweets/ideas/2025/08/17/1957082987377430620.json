@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1957082987377430620"
+        ],
+        "editableUntil": "2025-08-17T15:11:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1957082987377430620/photo/1",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/oRMoggzU77",
+          "media_url": "http://pbs.twimg.com/media/Gyj0epsWQAAlhod.jpg",
+          "id_str": "1957082845517594624",
+          "id": "1957082845517594624",
+          "media_url_https": "https://pbs.twimg.com/media/Gyj0epsWQAAlhod.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "894",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1526",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oRMoggzU77"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "2",
+    "id_str": "1957082987377430620",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1957082987377430620",
+    "possibly_sensitive": false,
+    "created_at": "Sun Aug 17 14:11:59 +0000 2025",
+    "favorited": false,
+    "full_text": "I think this is the offer that gets people in the door. https://t.co/oRMoggzU77",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1957082987377430620/photo/1",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/oRMoggzU77",
+          "media_url": "http://pbs.twimg.com/media/Gyj0epsWQAAlhod.jpg",
+          "id_str": "1957082845517594624",
+          "id": "1957082845517594624",
+          "media_url_https": "https://pbs.twimg.com/media/Gyj0epsWQAAlhod.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "894",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1526",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oRMoggzU77"
+        }
+      ]
+    }
+  }
+}

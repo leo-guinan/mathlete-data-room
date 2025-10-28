@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1550117687912570884"
+        ],
+        "editableUntil": "2022-07-21T14:27:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "250"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1550117684892733441",
+    "id_str": "1550117687912570884",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1550117687912570884",
+    "in_reply_to_status_id": "1550117684892733441",
+    "created_at": "Thu Jul 21 13:57:11 +0000 2022",
+    "favorited": false,
+    "full_text": "Goal is to add in the higher tier functionality tonight, I think. Need to add in the process for bulk unfollowing users. Have it mostly designed, just need to think about the UX of the process now.  I'll want to lock down the page while it's running.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

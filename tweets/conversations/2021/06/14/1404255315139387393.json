@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1404255315139387393"
+        ],
+        "editableUntil": "2021-06-14T02:52:11.588Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Monica Lim",
+          "screen_name": "monicalimco",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1265436714136297473",
+          "id": "1265436714136297473"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mDXRzsDJIP",
+          "expanded_url": "https://leo-guinan-s-startup-school.teachable.com/p/community-driven-course-creation",
+          "display_url": "…guinan-s-startup-school.teachable.com/p/community-dr…",
+          "indices": [
+            "126",
+            "149"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "149"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1404253171036221442",
+    "id_str": "1404255315139387393",
+    "in_reply_to_user_id": "1265436714136297473",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1404255315139387393",
+    "in_reply_to_status_id": "1404253171036221442",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 14 01:52:11 +0000 2021",
+    "favorited": false,
+    "full_text": "@monicalimco Would you mind taking  a look at my landing page and giving me some feedback? Just launched my first course. :)\n\nhttps://t.co/mDXRzsDJIP",
+    "lang": "en",
+    "in_reply_to_screen_name": "monicalimco",
+    "in_reply_to_user_id_str": "1265436714136297473"
+  }
+}

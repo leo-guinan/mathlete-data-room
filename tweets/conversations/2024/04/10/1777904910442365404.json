@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1777904910442365404"
+        ],
+        "editableUntil": "2024-04-10T04:42:17.182Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "The Crew",
+          "screen_name": "ColumbusCrew",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "16960789",
+          "id": "16960789"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "0",
+    "id_str": "1777904910442365404",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1777904910442365404",
+    "created_at": "Wed Apr 10 03:42:17 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @ColumbusCrew: MAX ARFSTEN. ICE COLD 🥶",
+    "lang": "de"
+  }
+}

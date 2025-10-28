@@ -1,0 +1,182 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1358741104980541442"
+        ],
+        "editableUntil": "2021-02-08T12:34:58.273Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "ShopEG.in",
+          "screen_name": "ShopEG_IN",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1327350647822290944",
+          "id": "1327350647822290944"
+        },
+        {
+          "name": "Abel Tesfaye",
+          "screen_name": "theweeknd",
+          "indices": [
+            "15",
+            "25"
+          ],
+          "id_str": "255388236",
+          "id": "255388236"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ShopEG_IN/status/1358667490310561795/video/1",
+          "source_status_id": "1358667490310561795",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/IFYnRghZP0",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358666633997291521/pu/img/O4sqJr2qKldQOXYx.jpg",
+          "id_str": "1358666633997291521",
+          "source_user_id": "1327350647822290944",
+          "id": "1358666633997291521",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358666633997291521/pu/img/O4sqJr2qKldQOXYx.jpg",
+          "source_user_id_str": "1327350647822290944",
+          "sizes": {
+            "large": {
+              "w": "1066",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "459",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1066",
+              "h": "720",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1358667490310561795",
+          "display_url": "pic.x.com/IFYnRghZP0"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SuperBowl",
+          "indices": [
+            "26",
+            "36"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "id_str": "1358741104980541442",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1358741104980541442",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 08 11:34:58 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ShopEG_IN: @theweeknd #SuperBowl https://t.co/IFYnRghZP0",
+    "lang": "qme",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ShopEG_IN/status/1358667490310561795/video/1",
+          "source_status_id": "1358667490310561795",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/IFYnRghZP0",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1358666633997291521/pu/img/O4sqJr2qKldQOXYx.jpg",
+          "id_str": "1358666633997291521",
+          "video_info": {
+            "aspect_ratio": [
+              "533",
+              "360"
+            ],
+            "duration_millis": "3500",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1358666633997291521/pu/pl/KvBNvKiMeL_VztfO.m3u8?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1358666633997291521/pu/vid/532x360/EX1FnnwIoAe9S1Rt.mp4?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1358666633997291521/pu/vid/398x270/SfydeDa8Zh8QoxQB.mp4?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1358666633997291521/pu/vid/1066x720/tDvOVtpVJqIdfdBb.mp4?tag=12"
+              }
+            ]
+          },
+          "source_user_id": "1327350647822290944",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1358666633997291521",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1358666633997291521/pu/img/O4sqJr2qKldQOXYx.jpg",
+          "source_user_id_str": "1327350647822290944",
+          "sizes": {
+            "large": {
+              "w": "1066",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "459",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1066",
+              "h": "720",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1358667490310561795",
+          "display_url": "pic.x.com/IFYnRghZP0"
+        }
+      ]
+    }
+  }
+}

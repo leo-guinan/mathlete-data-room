@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1629857649750622208"
+        ],
+        "editableUntil": "2023-02-26T15:25:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "7",
+    "id_str": "1629857649750622208",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1629857649750622208",
+    "created_at": "Sun Feb 26 14:55:19 +0000 2023",
+    "favorited": false,
+    "full_text": "Going to set up an api that I can use to convert audio types, because I want to streamline things and I need the most cost-effective way to convert mp3s to flac.\n\nIt's the remaining piece I really need to automate in the flow, and if I can do that, I'll be good.",
+    "lang": "en"
+  }
+}

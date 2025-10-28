@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1568971853875625985"
+        ],
+        "editableUntil": "2022-09-11T15:06:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "50",
+            "61"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "62",
+            "76"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "77",
+            "93"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1X5MTWUSxW",
+          "expanded_url": "https://x.com/visakanv/status/1199907654602125312",
+          "display_url": "x.com/visakanv/statu…",
+          "indices": [
+            "94",
+            "117"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "117"
+    ],
+    "favorite_count": "4",
+    "id_str": "1568971853875625985",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1568971853875625985",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 11 14:36:54 +0000 2022",
+    "favorited": false,
+    "full_text": "This is why my goto advice is \"just post it\"\n\nCc: @LobowSpark @tshubillabong @JustinAllingham https://t.co/1X5MTWUSxW",
+    "lang": "en"
+  }
+}

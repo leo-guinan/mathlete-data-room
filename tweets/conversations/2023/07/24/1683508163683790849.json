@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1683508163683790849"
+        ],
+        "editableUntil": "2023-07-24T17:03:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ia9wn3uQFD",
+          "expanded_url": "https://www.youtube.com/watch?v=I0FXRj5pxHc",
+          "display_url": "youtube.com/watch?v=I0FXRj…",
+          "indices": [
+            "115",
+            "138"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1683507682634874881",
+    "id_str": "1683508163683790849",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1683508163683790849",
+    "in_reply_to_status_id": "1683507682634874881",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 24 16:03:18 +0000 2023",
+    "favorited": false,
+    "full_text": "Going live in an hour: want to know why I think it's so important to build in public? \n\nI share my thoughts here:\n\nhttps://t.co/Ia9wn3uQFD",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1604130860407537664"
+        ],
+        "editableUntil": "2022-12-17T15:36:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1604130860407537664/photo/1",
+          "indices": [
+            "249",
+            "272"
+          ],
+          "url": "https://t.co/4qdCa7s6yo",
+          "media_url": "http://pbs.twimg.com/media/FkMEg9RXgAEnZ44.jpg",
+          "id_str": "1604130856523759617",
+          "id": "1604130856523759617",
+          "media_url_https": "https://pbs.twimg.com/media/FkMEg9RXgAEnZ44.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1210",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "402",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "709",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4qdCa7s6yo"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1604130853054996480",
+    "id_str": "1604130860407537664",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1604130860407537664",
+    "in_reply_to_status_id": "1604130853054996480",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 17 15:06:15 +0000 2022",
+    "favorited": false,
+    "full_text": "It's a super basic flow. I've got a trigger set up that's connected to my Gmail account. \n\nStep 1: I set up a specific email alias that I wanted to use.\n\nStep 2: I created a filter for any messages to that email in Gmail and added a specific label. https://t.co/4qdCa7s6yo",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1604130860407537664/photo/1",
+          "indices": [
+            "249",
+            "272"
+          ],
+          "url": "https://t.co/4qdCa7s6yo",
+          "media_url": "http://pbs.twimg.com/media/FkMEg9RXgAEnZ44.jpg",
+          "id_str": "1604130856523759617",
+          "id": "1604130856523759617",
+          "media_url_https": "https://pbs.twimg.com/media/FkMEg9RXgAEnZ44.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1210",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "402",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "709",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4qdCa7s6yo"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1798499930677682339"
+        ],
+        "editableUntil": "2024-06-06T00:39:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "@levelsio",
+          "screen_name": "levelsio",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1577241403",
+          "id": "1577241403"
+        },
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "10",
+            "19"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l5fzq52D3M",
+          "expanded_url": "https://x.com/leo_guinan/status/1797993216140079349?t=BcXesrVjRMtsW5sxB3IddQ&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1798494952441385138",
+    "id_str": "1798499930677682339",
+    "in_reply_to_user_id": "1577241403",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1798499930677682339",
+    "in_reply_to_status_id": "1798494952441385138",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 05 23:39:32 +0000 2024",
+    "favorited": false,
+    "full_text": "@levelsio @elonmusk One algorithm is always a losing proposition. Wrote about this a bit yesterday.\n\nhttps://t.co/l5fzq52D3M",
+    "lang": "en",
+    "in_reply_to_screen_name": "levelsio",
+    "in_reply_to_user_id_str": "1577241403"
+  }
+}

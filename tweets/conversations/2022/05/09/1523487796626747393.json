@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1523487796626747393"
+        ],
+        "editableUntil": "2022-05-09T03:19:30.407Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Maddern",
+          "screen_name": "chrismaddern",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "14077987",
+          "id": "14077987"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "0",
+    "id_str": "1523487796626747393",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1523487796626747393",
+    "created_at": "Mon May 09 02:19:30 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @chrismaddern: what are the most useful utility / alpha communities in NFTs?",
+    "lang": "en"
+  }
+}

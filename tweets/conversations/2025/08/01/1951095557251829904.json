@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1951095557251829904"
+        ],
+        "editableUntil": "2025-08-01T02:40:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "akhil",
+          "screen_name": "fkasummer",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1046615678101409797",
+          "id": "1046615678101409797"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "12"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1951095377844695134",
+    "id_str": "1951095557251829904",
+    "in_reply_to_user_id": "1046615678101409797",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1951095557251829904",
+    "in_reply_to_status_id": "1951095377844695134",
+    "created_at": "Fri Aug 01 01:40:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@fkasummer 👋",
+    "lang": "qme",
+    "in_reply_to_screen_name": "fkasummer",
+    "in_reply_to_user_id_str": "1046615678101409797"
+  }
+}

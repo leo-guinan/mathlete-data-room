@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1427038589309890571"
+        ],
+        "editableUntil": "2021-08-15T23:44:47.443Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kelvin",
+          "screen_name": "UtdKelvin",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1654069550437081091",
+          "id": "1654069550437081091"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1427038319360331776",
+    "id_str": "1427038589309890571",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1427038589309890571",
+    "in_reply_to_status_id": "1427038319360331776",
+    "created_at": "Sun Aug 15 22:44:47 +0000 2021",
+    "favorited": false,
+    "full_text": "@utdkelvin For example, I went through a week long agile training, a week long object-oriented design training, and several other courses where they brought in trainers.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

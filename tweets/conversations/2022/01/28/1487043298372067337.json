@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1487043298372067337"
+        ],
+        "editableUntil": "2022-01-28T13:42:04.917Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "BekahHW",
+          "screen_name": "BekahHW",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "27986061",
+          "id": "27986061"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1487041380467814408",
+    "id_str": "1487043298372067337",
+    "in_reply_to_user_id": "27986061",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1487043298372067337",
+    "in_reply_to_status_id": "1487041380467814408",
+    "created_at": "Fri Jan 28 12:42:04 +0000 2022",
+    "favorited": false,
+    "full_text": "@BekahHW This is our first this week. But the kids were out last week because of covid. \n\nDon't know that I could have handled 3 this week... 😱😱😱",
+    "lang": "en",
+    "in_reply_to_screen_name": "BekahHW",
+    "in_reply_to_user_id_str": "27986061"
+  }
+}

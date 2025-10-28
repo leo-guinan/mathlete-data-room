@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425904381535219712"
+        ],
+        "editableUntil": "2021-08-12T20:37:51.237Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ujCT7uRKJF",
+          "expanded_url": "https://x.com/leo_guinan/status/1417214642611376149?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "60",
+            "83"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1425904380234977284",
+    "id_str": "1425904381535219712",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1425904381535219712",
+    "in_reply_to_status_id": "1425904380234977284",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 12 19:37:51 +0000 2021",
+    "favorited": false,
+    "full_text": "The best mental model you can have for automation. The DAG\n\nhttps://t.co/ujCT7uRKJF",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

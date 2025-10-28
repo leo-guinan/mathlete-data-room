@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1706099786787557652"
+        ],
+        "editableUntil": "2023-09-25T01:14:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1706099786787557652/photo/1",
+          "indices": [
+            "233",
+            "256"
+          ],
+          "url": "https://t.co/3NZblgzYty",
+          "media_url": "http://pbs.twimg.com/media/F61Ia8LW8AEAx6L.jpg",
+          "id_str": "1706099461510852609",
+          "id": "1706099461510852609",
+          "media_url_https": "https://pbs.twimg.com/media/F61Ia8LW8AEAx6L.jpg",
+          "sizes": {
+            "small": {
+              "w": "544",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "959",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1116",
+              "h": "1396",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3NZblgzYty"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "2",
+    "id_str": "1706099786787557652",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1706099786787557652",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 25 00:14:21 +0000 2023",
+    "favorited": false,
+    "full_text": "Ok, officially live, with a few bugs to iron out. Biggest annoyance is that chat messages seem to be going through twice.\n\nBut I'm pretty excited about how good it is so far, in terms of talking about various aspects of the business https://t.co/3NZblgzYty",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1706099786787557652/photo/1",
+          "indices": [
+            "233",
+            "256"
+          ],
+          "url": "https://t.co/3NZblgzYty",
+          "media_url": "http://pbs.twimg.com/media/F61Ia8LW8AEAx6L.jpg",
+          "id_str": "1706099461510852609",
+          "id": "1706099461510852609",
+          "media_url_https": "https://pbs.twimg.com/media/F61Ia8LW8AEAx6L.jpg",
+          "sizes": {
+            "small": {
+              "w": "544",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "959",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1116",
+              "h": "1396",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3NZblgzYty"
+        }
+      ]
+    }
+  }
+}

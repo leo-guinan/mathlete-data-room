@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940156798184391015"
+        ],
+        "editableUntil": "2025-07-01T22:13:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Packy McCormick",
+          "screen_name": "packyM",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "21306324",
+          "id": "21306324"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "142"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1940156485952012683",
+    "id_str": "1940156798184391015",
+    "in_reply_to_user_id": "21306324",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940156798184391015",
+    "in_reply_to_status_id": "1940156485952012683",
+    "created_at": "Tue Jul 01 21:13:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@packyM I've been doing it for five years, and I never got offered a dime.\n\nThink we need a draft. Pretty sure I'd have been a lottery pick...",
+    "lang": "en",
+    "in_reply_to_screen_name": "packyM",
+    "in_reply_to_user_id_str": "21306324"
+  }
+}

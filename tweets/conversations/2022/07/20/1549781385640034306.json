@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1549781385640034306"
+        ],
+        "editableUntil": "2022-07-20T16:10:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "82",
+            "92"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Ow7MNAUaSC",
+          "expanded_url": "https://www.audible.com/pd/B0B6GRHZNM?source_code=ASSOR1500219210011",
+          "display_url": "audible.com/pd/B0B6GRHZNM?…",
+          "indices": [
+            "105",
+            "128"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "2",
+    "id_str": "1549781385640034306",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1549781385640034306",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 20 15:40:50 +0000 2022",
+    "favorited": false,
+    "full_text": "Just finished this.\n\nYou'll want to check it out.\n\nListen to The Pathless Path by @p_millerd on Audible. https://t.co/Ow7MNAUaSC",
+    "lang": "en"
+  }
+}

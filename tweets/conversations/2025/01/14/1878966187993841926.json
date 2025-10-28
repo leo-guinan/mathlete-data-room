@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1878966187993841926"
+        ],
+        "editableUntil": "2025-01-14T01:43:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MrBeast",
+          "screen_name": "MrBeast",
+          "indices": [
+            "21",
+            "29"
+          ],
+          "id_str": "2455740283",
+          "id": "2455740283"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fUZ4m9FjOb",
+          "expanded_url": "https://x.com/MrBeast/status/1878132133144715658",
+          "display_url": "x.com/MrBeast/status…",
+          "indices": [
+            "279",
+            "302"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "1",
+    "id_str": "1878966187993841926",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1878966187993841926",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 14 00:43:43 +0000 2025",
+    "favorited": false,
+    "full_text": "Put me in touch with @mrbeast and I guarantee it happens. \n\nIt’s an easy fix when you solve a different problem \n\nI’d be willing to wager a great deal of personal humiliation on his channel against my ability to make it happen\n\nLet’s see anyone in health care who is willing to… https://t.co/fUZ4m9FjOb",
+    "lang": "en"
+  }
+}

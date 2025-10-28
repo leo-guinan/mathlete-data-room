@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1854584497661997451"
+        ],
+        "editableUntil": "2024-11-07T18:59:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1854581054343905525",
+    "id_str": "1854584497661997451",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1854584497661997451",
+    "in_reply_to_status_id": "1854581054343905525",
+    "created_at": "Thu Nov 07 17:59:35 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic If you understand someone's model of the world, you can give them information in a trusted setting (they don't have skepticism around the ideas they are hearing) that you can be almost entirely sure they'll use that information to predict a certain outcome that is beneficial to…",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

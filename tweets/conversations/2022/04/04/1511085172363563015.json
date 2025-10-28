@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1511085172363563015"
+        ],
+        "editableUntil": "2022-04-04T21:55:54.353Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1511081443274940424",
+    "id_str": "1511085172363563015",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1511085172363563015",
+    "in_reply_to_status_id": "1511081443274940424",
+    "created_at": "Mon Apr 04 20:55:54 +0000 2022",
+    "favorited": false,
+    "full_text": "@benjamingreeley I imagine he's going to try to make a play to get control over Twitter and turn it into a \"free speech\" haven.\n\nBut this tends to favor bad actors the way the app is currently designed.\n\nSo he'll end up forcing users off the platform because it will be unbearable for most.",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

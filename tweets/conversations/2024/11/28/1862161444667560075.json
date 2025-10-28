@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1862161444667560075"
+        ],
+        "editableUntil": "2024-11-28T16:47:40.352Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "sari azout",
+          "screen_name": "sariazout",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "34724786",
+          "id": "34724786"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/sariazout/status/1862142048117133318/photo/1",
+          "source_status_id": "1862142048117133318",
+          "indices": [
+            "24",
+            "47"
+          ],
+          "url": "https://t.co/3MozzsgmbL",
+          "media_url": "http://pbs.twimg.com/media/GdeoNkYXAAAls5C.jpg",
+          "id_str": "1862141921998602240",
+          "source_user_id": "34724786",
+          "id": "1862141921998602240",
+          "media_url_https": "https://pbs.twimg.com/media/GdeoNkYXAAAls5C.jpg",
+          "source_user_id_str": "34724786",
+          "sizes": {
+            "large": {
+              "w": "1518",
+              "h": "520",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "411",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "233",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1862142048117133318",
+          "display_url": "pic.x.com/3MozzsgmbL"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "47"
+    ],
+    "favorite_count": "0",
+    "id_str": "1862161444667560075",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1862161444667560075",
+    "possibly_sensitive": false,
+    "created_at": "Thu Nov 28 15:47:40 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @sariazout: enough 🙏 https://t.co/3MozzsgmbL",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/sariazout/status/1862142048117133318/photo/1",
+          "source_status_id": "1862142048117133318",
+          "indices": [
+            "24",
+            "47"
+          ],
+          "url": "https://t.co/3MozzsgmbL",
+          "media_url": "http://pbs.twimg.com/media/GdeoNkYXAAAls5C.jpg",
+          "id_str": "1862141921998602240",
+          "source_user_id": "34724786",
+          "id": "1862141921998602240",
+          "media_url_https": "https://pbs.twimg.com/media/GdeoNkYXAAAls5C.jpg",
+          "source_user_id_str": "34724786",
+          "sizes": {
+            "large": {
+              "w": "1518",
+              "h": "520",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "411",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "233",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1862142048117133318",
+          "display_url": "pic.x.com/3MozzsgmbL"
+        }
+      ]
+    }
+  }
+}

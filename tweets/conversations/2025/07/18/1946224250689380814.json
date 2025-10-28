@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946224250689380814"
+        ],
+        "editableUntil": "2025-07-18T16:03:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "MacKenzie Fisher (MK)",
+          "screen_name": "philosofounder_",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "4541438237",
+          "id": "4541438237"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KiszCgJbok",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/the-trust-harmonics-experiment",
+          "display_url": "hitchhikertothefuture.substack.com/p/the-trust-ha…",
+          "indices": [
+            "265",
+            "288"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1946224250689380814/photo/1",
+          "indices": [
+            "289",
+            "312"
+          ],
+          "url": "https://t.co/yprd8bxCSq",
+          "media_url": "http://pbs.twimg.com/media/GwJgo_WXQAAfpXW.jpg",
+          "id_str": "1946224246293741568",
+          "id": "1946224246293741568",
+          "media_url_https": "https://pbs.twimg.com/media/GwJgo_WXQAAfpXW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yprd8bxCSq"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "312"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1946219655284375849",
+    "id_str": "1946224250689380814",
+    "in_reply_to_user_id": "4541438237",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946224250689380814",
+    "in_reply_to_status_id": "1946219655284375849",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 18 15:03:15 +0000 2025",
+    "favorited": false,
+    "full_text": "@philosofounder_ Love that you described it as constructive interference because that’s the best way to show how trust propagates! 1517 always ends up being the one that is the example in everything I look at haha. \n\nHave you seen the trust harmonics project yet?\n\nhttps://t.co/KiszCgJbok https://t.co/yprd8bxCSq",
+    "lang": "en",
+    "in_reply_to_screen_name": "philosofounder_",
+    "in_reply_to_user_id_str": "4541438237",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1946224250689380814/photo/1",
+          "indices": [
+            "289",
+            "312"
+          ],
+          "url": "https://t.co/yprd8bxCSq",
+          "media_url": "http://pbs.twimg.com/media/GwJgo_WXQAAfpXW.jpg",
+          "id_str": "1946224246293741568",
+          "id": "1946224246293741568",
+          "media_url_https": "https://pbs.twimg.com/media/GwJgo_WXQAAfpXW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yprd8bxCSq"
+        }
+      ]
+    }
+  }
+}

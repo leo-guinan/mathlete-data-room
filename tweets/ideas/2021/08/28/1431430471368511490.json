@@ -1,0 +1,39 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1431430471368511490"
+        ],
+        "editableUntil": "2021-08-28T02:36:33.723Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "226"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1431429598093344774",
+    "id_str": "1431430471368511490",
+    "in_reply_to_user_id": "2831756688",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1431430471368511490",
+    "in_reply_to_status_id": "1431429598093344774",
+    "created_at": "Sat Aug 28 01:36:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@PBeekums Yep.\n\nAnd I'm using Tailwind. Which brings a whole extra level of complexity/simplicity (I still havent decided which it is yet)\n\nThe good news is that I've been separating it out into modules that I can tweak later.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "2831756688"
+  }
+}

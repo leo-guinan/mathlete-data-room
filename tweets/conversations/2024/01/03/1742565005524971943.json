@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1742565005524971943"
+        ],
+        "editableUntil": "2024-01-03T16:14:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ping Victor",
+          "screen_name": "PingVictor402",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1724555736091439104",
+          "id": "1724555736091439104"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1742210934028873875",
+    "id_str": "1742565005524971943",
+    "in_reply_to_user_id": "1724555736091439104",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1742565005524971943",
+    "in_reply_to_status_id": "1742210934028873875",
+    "created_at": "Wed Jan 03 15:14:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@PingVictor402 How so? Do the benefits outweigh the potential issues that power dynamics can create?",
+    "lang": "en",
+    "in_reply_to_screen_name": "PingVictor402",
+    "in_reply_to_user_id_str": "1724555736091439104"
+  }
+}

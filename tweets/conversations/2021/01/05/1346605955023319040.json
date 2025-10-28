@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346605955023319040"
+        ],
+        "editableUntil": "2021-01-06T00:54:13.063Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "startup",
+          "indices": [
+            "29",
+            "37"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "fintechjunkie",
+          "screen_name": "fintechjunkie",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "3153520937",
+          "id": "3153520937"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346605955023319040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346605955023319040",
+    "created_at": "Tue Jan 05 23:54:13 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @fintechjunkie: 1/23: One #startup trap to avoid (founders and VCs) is to fall in love with a value prop that can’t be delivered IRL now…",
+    "lang": "en"
+  }
+}

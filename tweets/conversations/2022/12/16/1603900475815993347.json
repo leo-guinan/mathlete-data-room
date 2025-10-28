@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1603900475815993347"
+        ],
+        "editableUntil": "2022-12-17T00:20:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1603900475815993347/photo/1",
+          "indices": [
+            "77",
+            "100"
+          ],
+          "url": "https://t.co/TowBN2l8iF",
+          "media_url": "http://pbs.twimg.com/media/FkIy5t8WIAEw_9g.jpg",
+          "id_str": "1603900384463953921",
+          "id": "1603900384463953921",
+          "media_url_https": "https://pbs.twimg.com/media/FkIy5t8WIAEw_9g.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TowBN2l8iF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1603900469654720512",
+    "id_str": "1603900475815993347",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1603900475815993347",
+    "in_reply_to_status_id": "1603900469654720512",
+    "possibly_sensitive": false,
+    "created_at": "Fri Dec 16 23:50:47 +0000 2022",
+    "favorited": false,
+    "full_text": "And here we are as Marvel superheroes having a Zoom call. Because AI is fun. https://t.co/TowBN2l8iF",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1603900475815993347/photo/1",
+          "indices": [
+            "77",
+            "100"
+          ],
+          "url": "https://t.co/TowBN2l8iF",
+          "media_url": "http://pbs.twimg.com/media/FkIy5t8WIAEw_9g.jpg",
+          "id_str": "1603900384463953921",
+          "id": "1603900384463953921",
+          "media_url_https": "https://pbs.twimg.com/media/FkIy5t8WIAEw_9g.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TowBN2l8iF"
+        }
+      ]
+    }
+  }
+}

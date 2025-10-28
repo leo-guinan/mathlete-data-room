@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1620413796748783617"
+        ],
+        "editableUntil": "2023-01-31T13:58:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eugene Mintsevich",
+          "screen_name": "EMintsevich",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1528780890926628864",
+          "id": "1528780890926628864"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1620133341176668161",
+    "id_str": "1620413796748783617",
+    "in_reply_to_user_id": "1528780890926628864",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1620413796748783617",
+    "in_reply_to_status_id": "1620133341176668161",
+    "created_at": "Tue Jan 31 13:28:49 +0000 2023",
+    "favorited": false,
+    "full_text": "@EMintsevich That's fair. My approach has always been to minimize the time it takes for me to record and publish. \n\nI do it because I enjoy it now and so I don't worry as much about the pieces I don't like.",
+    "lang": "en",
+    "in_reply_to_screen_name": "EMintsevich",
+    "in_reply_to_user_id_str": "1528780890926628864"
+  }
+}

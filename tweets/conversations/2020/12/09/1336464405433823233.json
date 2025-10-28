@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1336464405433823233"
+        ],
+        "editableUntil": "2020-12-09T01:15:19.220Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sar Haribhakti",
+          "screen_name": "sarthakgh",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1021817359",
+          "id": "1021817359"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1336464405433823233",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1336464405433823233",
+    "created_at": "Wed Dec 09 00:15:19 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @sarthakgh: Benchmark’s Eric Vishria : \n\nPeople interact with software through GUI, software interacts with software through APIs\n\nSo ca…",
+    "lang": "en"
+  }
+}

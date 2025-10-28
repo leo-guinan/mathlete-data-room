@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1551658598534627329"
+        ],
+        "editableUntil": "2022-07-25T20:30:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Austyn",
+          "screen_name": "austinwithay",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1635125306762600448",
+          "id": "1635125306762600448"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "17"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1551658226990579715",
+    "id_str": "1551658598534627329",
+    "in_reply_to_user_id": "1477320593934635010",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1551658598534627329",
+    "in_reply_to_status_id": "1551658226990579715",
+    "created_at": "Mon Jul 25 20:00:12 +0000 2022",
+    "favorited": false,
+    "full_text": "@austinwithay Yes",
+    "lang": "und",
+    "in_reply_to_screen_name": "ByeAustyn",
+    "in_reply_to_user_id_str": "1477320593934635010"
+  }
+}

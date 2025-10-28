@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902508952731922556"
+        ],
+        "editableUntil": "2025-03-20T00:54:15.895Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "0",
+    "id_str": "1902508952731922556",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902508952731922556",
+    "created_at": "Wed Mar 19 23:54:15 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @iamjasonlevin: True freedom of speech is the rarest thing in the world and I’m a pirate searching for treasure.",
+    "lang": "en"
+  }
+}

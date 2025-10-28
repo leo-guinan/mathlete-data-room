@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359582590953488384"
+        ],
+        "editableUntil": "2021-02-10T20:18:44.163Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fast",
+          "screen_name": "fast",
+          "indices": [
+            "3",
+            "8"
+          ],
+          "id_str": "1051754132699115520",
+          "id": "1051754132699115520"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "0",
+    "id_str": "1359582590953488384",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359582590953488384",
+    "created_at": "Wed Feb 10 19:18:44 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @fast: alright, RT if you want to see a Fast + Shop Pay hoodie collab 👀",
+    "lang": "en"
+  }
+}

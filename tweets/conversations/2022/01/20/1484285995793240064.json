@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1484285995793240064"
+        ],
+        "editableUntil": "2022-01-20T23:05:32.754Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "142"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1484284810793304067",
+    "id_str": "1484285995793240064",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1484285995793240064",
+    "in_reply_to_status_id": "1484284810793304067",
+    "created_at": "Thu Jan 20 22:05:32 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU That's totally fair. \n\nBut filters would definitely be helpful to get rid of a lot of the noise? \n\nWould you agree with that?",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

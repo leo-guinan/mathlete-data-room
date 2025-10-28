@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761153982938902825"
+        ],
+        "editableUntil": "2024-02-23T23:20:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Nate Kadlac",
+          "screen_name": "kadlac",
+          "indices": [
+            "11",
+            "18"
+          ],
+          "id_str": "6935152",
+          "id": "6935152"
+        },
+        {
+          "name": "Camilo Moreno-Salamanca",
+          "screen_name": "camilomoresala",
+          "indices": [
+            "19",
+            "34"
+          ],
+          "id_str": "21845847",
+          "id": "21845847"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1761153771504308372",
+    "id_str": "1761153982938902825",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761153982938902825",
+    "in_reply_to_status_id": "1761153771504308372",
+    "created_at": "Fri Feb 23 22:20:04 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd @kadlac @camilomoresala 😂😂😂 I love that",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

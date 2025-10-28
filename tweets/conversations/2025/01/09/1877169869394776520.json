@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1877169869394776520"
+        ],
+        "editableUntil": "2025-01-09T02:45:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Noah Smith 🐇",
+          "screen_name": "Noahpinion",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "281877818",
+          "id": "281877818"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "9",
+    "in_reply_to_status_id_str": "1877166974980993456",
+    "id_str": "1877169869394776520",
+    "in_reply_to_user_id": "281877818",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1877169869394776520",
+    "in_reply_to_status_id": "1877166974980993456",
+    "created_at": "Thu Jan 09 01:45:47 +0000 2025",
+    "favorited": false,
+    "full_text": "@Noahpinion Actually, insurance companies are just designed to try to price risk in the hardest, most inefficient way possible. We took a model that worked in a time-bound economy (when people had to hand calculate everything with very limited information, it was the ideal model) and scaled…",
+    "lang": "en",
+    "in_reply_to_screen_name": "Noahpinion",
+    "in_reply_to_user_id_str": "281877818"
+  }
+}

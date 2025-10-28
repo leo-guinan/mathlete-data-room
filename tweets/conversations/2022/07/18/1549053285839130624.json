@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1549053285839130624"
+        ],
+        "editableUntil": "2022-07-18T15:57:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sven 👉 intribe.co",
+          "screen_name": "radavics",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "90027390",
+          "id": "90027390"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1549003230213918721",
+    "id_str": "1549053285839130624",
+    "in_reply_to_user_id": "90027390",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1549053285839130624",
+    "in_reply_to_status_id": "1549003230213918721",
+    "created_at": "Mon Jul 18 15:27:38 +0000 2022",
+    "favorited": false,
+    "full_text": "@radavics That's pretty much the universal truth. We are usually the only thing that is truly holding us back.\n\nBut being aware of that is a great way to beat it. 💪",
+    "lang": "en",
+    "in_reply_to_screen_name": "radavics",
+    "in_reply_to_user_id_str": "90027390"
+  }
+}

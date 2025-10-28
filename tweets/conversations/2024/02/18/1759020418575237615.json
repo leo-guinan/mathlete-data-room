@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1759020418575237615"
+        ],
+        "editableUntil": "2024-02-18T02:02:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Chris Dixon",
+          "screen_name": "cdixon",
+          "indices": [
+            "11",
+            "18"
+          ],
+          "id_str": "2529971",
+          "id": "2529971"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1759011212833005823",
+    "id_str": "1759020418575237615",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1759020418575237615",
+    "in_reply_to_status_id": "1759011212833005823",
+    "created_at": "Sun Feb 18 01:02:03 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd @cdixon That stood out to me as well. Never thought about it before, but it would make a huge difference.\n\nMade me even more excited about writing my book.",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

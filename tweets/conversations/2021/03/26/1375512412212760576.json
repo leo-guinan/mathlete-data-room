@@ -1,0 +1,74 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1375512412212760576"
+        ],
+        "editableUntil": "2021-03-26T19:18:09.513Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ODCC",
+          "indices": [
+            "77",
+            "82"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Saverio Bianchi",
+          "screen_name": "SaverioBianchi",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "40995214",
+          "id": "40995214"
+        },
+        {
+          "name": "On Deck now ODF",
+          "screen_name": "beondeck",
+          "indices": [
+            "51",
+            "60"
+          ],
+          "id_str": "1825981215473623040",
+          "id": "1825981215473623040"
+        },
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "96",
+            "106"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1375512412212760576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1375512412212760576",
+    "created_at": "Fri Mar 26 18:18:09 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @SaverioBianchi: Saying that I'm pumped for the @beondeck Course Creators #ODCC by the great @Bazzaruto is such an understatement 🔥\n\nand…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939887787052032344"
+        ],
+        "editableUntil": "2025-07-01T04:24:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        },
+        {
+          "name": "Beff – e/acc",
+          "screen_name": "BasedBeffJezos",
+          "indices": [
+            "10",
+            "25"
+          ],
+          "id_str": "1556550048862928898",
+          "id": "1556550048862928898"
+        },
+        {
+          "name": "Nikita Bier",
+          "screen_name": "nikitabier",
+          "indices": [
+            "26",
+            "37"
+          ],
+          "id_str": "636513296",
+          "id": "636513296"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uWqWbeU4Qh",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/internet-20-a-humanai-mesh-network",
+          "display_url": "hitchhikertothefuture.substack.com/p/internet-20-…",
+          "indices": [
+            "91",
+            "114"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939887787052032344/photo/1",
+          "indices": [
+            "115",
+            "138"
+          ],
+          "url": "https://t.co/uWahEh3otb",
+          "media_url": "http://pbs.twimg.com/media/GuvdqOLWkAA7kHI.jpg",
+          "id_str": "1939887781943087104",
+          "id": "1939887781943087104",
+          "media_url_https": "https://pbs.twimg.com/media/GuvdqOLWkAA7kHI.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uWahEh3otb"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1939807220398711183",
+    "id_str": "1939887787052032344",
+    "in_reply_to_user_id": "44196397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939887787052032344",
+    "in_reply_to_status_id": "1939807220398711183",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 03:24:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@elonmusk @BasedBeffJezos @nikitabier Happy to help. I’ve already solved the hard parts. \n\nhttps://t.co/uWqWbeU4Qh https://t.co/uWahEh3otb",
+    "lang": "en",
+    "in_reply_to_screen_name": "elonmusk",
+    "in_reply_to_user_id_str": "44196397",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939887787052032344/photo/1",
+          "indices": [
+            "115",
+            "138"
+          ],
+          "url": "https://t.co/uWahEh3otb",
+          "media_url": "http://pbs.twimg.com/media/GuvdqOLWkAA7kHI.jpg",
+          "id_str": "1939887781943087104",
+          "id": "1939887781943087104",
+          "media_url_https": "https://pbs.twimg.com/media/GuvdqOLWkAA7kHI.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uWahEh3otb"
+        }
+      ]
+    }
+  }
+}

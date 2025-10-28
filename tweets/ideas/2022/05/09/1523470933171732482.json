@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1523470933171732482"
+        ],
+        "editableUntil": "2022-05-09T01:42:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "28",
+            "35"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/I6CLafaput",
+          "expanded_url": "https://vm.tiktok.com/ZTdgE1Yvq/",
+          "display_url": "vm.tiktok.com/ZTdgE1Yvq/",
+          "indices": [
+            "36",
+            "59"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "1",
+    "id_str": "1523470933171732482",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1523470933171732482",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 09 01:12:29 +0000 2022",
+    "favorited": false,
+    "full_text": "Check out Amy Lynn's video! #TikTok https://t.co/I6CLafaput",
+    "lang": "en"
+  }
+}

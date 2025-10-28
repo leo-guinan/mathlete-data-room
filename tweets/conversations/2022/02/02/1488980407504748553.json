@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1488980407504748553"
+        ],
+        "editableUntil": "2022-02-02T21:59:27.724Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick Campbell",
+          "screen_name": "ncb000gt",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "7955612",
+          "id": "7955612"
+        },
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "10",
+            "26"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "226"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1488979047992500225",
+    "id_str": "1488980407504748553",
+    "in_reply_to_user_id": "7955612",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1488980407504748553",
+    "in_reply_to_status_id": "1488979047992500225",
+    "created_at": "Wed Feb 02 20:59:27 +0000 2022",
+    "favorited": false,
+    "full_text": "@ncb000gt @benjamingreeley Exactly. It's going to go through a very similar evolution to coding practices. \n\nThere are reasons for code reviews.\n\nThey make me a 10x better coder. \n\nHaving someone else look over things is huge.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ncb000gt",
+    "in_reply_to_user_id_str": "7955612"
+  }
+}

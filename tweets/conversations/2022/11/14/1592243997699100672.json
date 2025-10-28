@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1592243997699100672"
+        ],
+        "editableUntil": "2022-11-14T20:22:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Guide | Talent Experience Solutions & Services...",
+          "screen_name": "GuideHQ_",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1123766791371620353",
+          "id": "1123766791371620353"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1592243607180029952",
+    "id_str": "1592243997699100672",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1592243997699100672",
+    "in_reply_to_status_id": "1592243607180029952",
+    "created_at": "Mon Nov 14 19:52:06 +0000 2022",
+    "favorited": false,
+    "full_text": "@GuideHQ_ These convergences end up being macro trends, because they follow changes to reality, as more people are exposed to experimental bubbles.\n\nBut if you notice things diverging, that's a good way to spot short-lived bubbles, because they don't tend to match actual reality.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

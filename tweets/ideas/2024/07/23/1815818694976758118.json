@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1815818694976758118"
+        ],
+        "editableUntil": "2024-07-23T19:38:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "0",
+    "id_str": "1815818694976758118",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1815818694976758118",
+    "created_at": "Tue Jul 23 18:38:07 +0000 2024",
+    "favorited": false,
+    "full_text": "I want to create and publish a react component library with tailwind and typescript.\n\nCurious, what's everyone currently using to do that? \n\nFeels like it should be simple, but a little bit of research shows me that people are using a bunch of different things (vite, tsup, etc).",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536482894037798913"
+        ],
+        "editableUntil": "2022-06-13T23:27:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://substack.com/\" rel=\"nofollow\">Substack</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JaZ9xqwUwZ",
+          "expanded_url": "https://saasfactory.substack.com/p/the-code-review-react-nextjsblitzjs?utm_source=twitter&utm_campaign=auto_share&s=w",
+          "display_url": "saasfactory.substack.com/p/the-code-rev…",
+          "indices": [
+            "71",
+            "94"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "0",
+    "id_str": "1536482894037798913",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536482894037798913",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 13 22:57:23 +0000 2022",
+    "favorited": false,
+    "full_text": "The Code Review - React + NextJS/BlitzJS SWR Hooks on The SaaS Factory https://t.co/JaZ9xqwUwZ",
+    "lang": "en"
+  }
+}

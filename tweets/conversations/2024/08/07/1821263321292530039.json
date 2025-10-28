@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821263321292530039"
+        ],
+        "editableUntil": "2024-08-07T20:13:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CRANQ",
+          "screen_name": "CranQnow",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1497230595889537028",
+          "id": "1497230595889537028"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1821188371399455071",
+    "id_str": "1821263321292530039",
+    "in_reply_to_user_id": "1497230595889537028",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821263321292530039",
+    "in_reply_to_status_id": "1821188371399455071",
+    "created_at": "Wed Aug 07 19:13:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@CranQnow Thanks! I'm particularly curious about something like a coffee shop, but where all the baristas have a youtube channel or podcast or something. \n\nSo they can work on distributing their digital content through in-person interactions.",
+    "lang": "en",
+    "in_reply_to_screen_name": "CranQnow",
+    "in_reply_to_user_id_str": "1497230595889537028"
+  }
+}

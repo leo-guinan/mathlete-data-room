@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1789348812265247077"
+        ],
+        "editableUntil": "2024-05-11T18:36:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "208"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1789347447409627231",
+    "id_str": "1789348812265247077",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1789348812265247077",
+    "in_reply_to_status_id": "1789347447409627231",
+    "created_at": "Sat May 11 17:36:15 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli That's actually something I try to do with anything I'm doing online: do it on multiple platforms so I don't overfit  to a single one. Makes results slower, but the end result for me is much better.",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

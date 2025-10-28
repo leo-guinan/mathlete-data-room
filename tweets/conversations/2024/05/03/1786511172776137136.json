@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1786511172776137136"
+        ],
+        "editableUntil": "2024-05-03T22:40:30.019Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/anuatluru/status/1786476421642080634/photo/1",
+          "source_status_id": "1786476421642080634",
+          "indices": [
+            "48",
+            "71"
+          ],
+          "url": "https://t.co/IRYRTg7rcI",
+          "media_url": "http://pbs.twimg.com/media/GMrW1h3WkAAvHgI.jpg",
+          "id_str": "1786476417317769216",
+          "source_user_id": "2518563752",
+          "id": "1786476417317769216",
+          "media_url_https": "https://pbs.twimg.com/media/GMrW1h3WkAAvHgI.jpg",
+          "source_user_id_str": "2518563752",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "208",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "367",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1284",
+              "h": "393",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1786476421642080634",
+          "display_url": "pic.x.com/IRYRTg7rcI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "71"
+    ],
+    "favorite_count": "0",
+    "id_str": "1786511172776137136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1786511172776137136",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 03 21:40:30 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @anuatluru: judge me by the links i send you https://t.co/IRYRTg7rcI",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/anuatluru/status/1786476421642080634/photo/1",
+          "source_status_id": "1786476421642080634",
+          "indices": [
+            "48",
+            "71"
+          ],
+          "url": "https://t.co/IRYRTg7rcI",
+          "media_url": "http://pbs.twimg.com/media/GMrW1h3WkAAvHgI.jpg",
+          "id_str": "1786476417317769216",
+          "source_user_id": "2518563752",
+          "id": "1786476417317769216",
+          "media_url_https": "https://pbs.twimg.com/media/GMrW1h3WkAAvHgI.jpg",
+          "source_user_id_str": "2518563752",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "208",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "367",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1284",
+              "h": "393",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1786476421642080634",
+          "display_url": "pic.x.com/IRYRTg7rcI"
+        }
+      ]
+    }
+  }
+}

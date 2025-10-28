@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1573780705611587585"
+        ],
+        "editableUntil": "2022-09-24T21:35:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrea Brice",
+          "screen_name": "DirtyDataGirl",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "963866145475387392",
+          "id": "963866145475387392"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1573655549245521920",
+    "id_str": "1573780705611587585",
+    "in_reply_to_user_id": "963866145475387392",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1573780705611587585",
+    "in_reply_to_status_id": "1573655549245521920",
+    "created_at": "Sat Sep 24 21:05:34 +0000 2022",
+    "favorited": false,
+    "full_text": "@DirtyDataGirl @StroutMotivateU I feel there's a business opportunity here...🤔🤔🤔😂😂😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "DirtyDataGirl",
+    "in_reply_to_user_id_str": "963866145475387392"
+  }
+}

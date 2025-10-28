@@ -1,0 +1,163 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1653484457360347144"
+        ],
+        "editableUntil": "2023-05-02T20:09:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        },
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        },
+        {
+          "name": "Ryan Hoover",
+          "screen_name": "rrhoover",
+          "indices": [
+            "22",
+            "31"
+          ],
+          "id_str": "14417215",
+          "id": "14417215"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1653484457360347144/photo/1",
+          "indices": [
+            "74",
+            "97"
+          ],
+          "url": "https://t.co/GNyPfPJ4lM",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FvJbWRDX0AEamZ8.jpg",
+          "id_str": "1653484451291189249",
+          "id": "1653484451291189249",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FvJbWRDX0AEamZ8.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "332",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "332",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GNyPfPJ4lM"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "97"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1653406987353305089",
+    "id_str": "1653484457360347144",
+    "in_reply_to_user_id": "45851500",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1653484457360347144",
+    "in_reply_to_status_id": "1653406987353305089",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 02 19:39:49 +0000 2023",
+    "favorited": false,
+    "full_text": "@jayclouse @arvidkahl @rrhoover I'd definitely invest in both of you too! https://t.co/GNyPfPJ4lM",
+    "lang": "en",
+    "in_reply_to_screen_name": "jayclouse",
+    "in_reply_to_user_id_str": "45851500",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1653484457360347144/photo/1",
+          "indices": [
+            "74",
+            "97"
+          ],
+          "url": "https://t.co/GNyPfPJ4lM",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FvJbWRDX0AEamZ8.jpg",
+          "id_str": "1653484451291189249",
+          "video_info": {
+            "aspect_ratio": [
+              "3",
+              "2"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FvJbWRDX0AEamZ8.mp4"
+              }
+            ]
+          },
+          "id": "1653484451291189249",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FvJbWRDX0AEamZ8.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "332",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "332",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/GNyPfPJ4lM"
+        }
+      ]
+    }
+  }
+}

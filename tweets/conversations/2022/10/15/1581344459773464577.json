@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1581344459773464577"
+        ],
+        "editableUntil": "2022-10-15T18:31:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "4",
+            "19"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cU8pFdpOyi",
+          "expanded_url": "https://anchor.fm/leo-guinan/episodes/Hacks-Vs-Real-Knowledge-e1p646n",
+          "display_url": "anchor.fm/leo-guinan/epi…",
+          "indices": [
+            "52",
+            "75"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "2",
+    "id_str": "1581344459773464577",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1581344459773464577",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 15 18:01:13 +0000 2022",
+    "favorited": false,
+    "full_text": "New @BuildInPublicU podcast!!!\n\nHacks Vs Knowledge\n\nhttps://t.co/cU8pFdpOyi",
+    "lang": "en"
+  }
+}

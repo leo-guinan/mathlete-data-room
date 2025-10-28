@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1796699037854216639"
+        ],
+        "editableUntil": "2024-06-01T01:23:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Abbe_Hyde",
+          "screen_name": "abbe_hyde",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1182965257104289792",
+          "id": "1182965257104289792"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1796697303585378779",
+    "id_str": "1796699037854216639",
+    "in_reply_to_user_id": "1182965257104289792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1796699037854216639",
+    "in_reply_to_status_id": "1796697303585378779",
+    "created_at": "Sat Jun 01 00:23:26 +0000 2024",
+    "favorited": false,
+    "full_text": "@abbe_hyde I don't remember that Dr Seuss book....",
+    "lang": "en",
+    "in_reply_to_screen_name": "abbe_hyde",
+    "in_reply_to_user_id_str": "1182965257104289792"
+  }
+}

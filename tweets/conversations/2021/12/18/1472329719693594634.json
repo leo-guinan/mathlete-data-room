@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1472329719693594634"
+        ],
+        "editableUntil": "2021-12-18T23:15:34.395Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "251"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1472329718758354949",
+    "id_str": "1472329719693594634",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1472329719693594634",
+    "in_reply_to_status_id": "1472329718758354949",
+    "created_at": "Sat Dec 18 22:15:34 +0000 2021",
+    "favorited": false,
+    "full_text": "I had previously decided to not require email addresses and just let users use their Twitter account. \n\nWhich is great, but stripe was set up to use emails as the way to associate customer ids.\n\nI came pretty close to swapping out my entire auth flow.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

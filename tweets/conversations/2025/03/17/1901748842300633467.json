@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901748842300633467"
+        ],
+        "editableUntil": "2025-03-17T22:33:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "56",
+            "71"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AyZH6E9tpV",
+          "expanded_url": "https://x.com/thisiskp_/status/1901733381533999304",
+          "display_url": "x.com/thisiskp_/stat…",
+          "indices": [
+            "278",
+            "301"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "1",
+    "id_str": "1901748842300633467",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901748842300633467",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 17 21:33:51 +0000 2025",
+    "favorited": false,
+    "full_text": "I think this actually sounds like something perfect for @BuildInPublicU .\n\nJust streamed the first show today, and our first live event is next week.\n\nAnyone want to sponsor a hackathon in Austin? If so, I'll get it organized and we can use it as test run to see what it would… https://t.co/AyZH6E9tpV",
+    "lang": "en"
+  }
+}

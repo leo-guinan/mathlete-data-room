@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1505208747462901763"
+        ],
+        "editableUntil": "2022-03-19T16:45:05.478Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y97s8De3V6",
+          "expanded_url": "https://x.com/tommyismyname/status/1504917092096782340",
+          "display_url": "x.com/tommyismyname/…",
+          "indices": [
+            "84",
+            "107"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "107"
+    ],
+    "favorite_count": "0",
+    "id_str": "1505208747462901763",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1505208747462901763",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 19 15:45:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: This is a great chance to learn some automation!\n\nTommy is awesome. https://t.co/y97s8De3V6",
+    "lang": "en"
+  }
+}

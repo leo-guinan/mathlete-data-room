@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1818301596574322753"
+        ],
+        "editableUntil": "2024-07-30T16:04:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Corey Wilks, Psy.D.",
+          "screen_name": "CoreyWilksPsyD",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1246991611793420288",
+          "id": "1246991611793420288"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "45"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1817991160159420488",
+    "id_str": "1818301596574322753",
+    "in_reply_to_user_id": "1246991611793420288",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1818301596574322753",
+    "in_reply_to_status_id": "1817991160159420488",
+    "created_at": "Tue Jul 30 15:04:17 +0000 2024",
+    "favorited": false,
+    "full_text": "@CoreyWilksPsyD Yes! That would be perfect. 💪",
+    "lang": "en",
+    "in_reply_to_screen_name": "CoreyWilksPsyD",
+    "in_reply_to_user_id_str": "1246991611793420288"
+  }
+}

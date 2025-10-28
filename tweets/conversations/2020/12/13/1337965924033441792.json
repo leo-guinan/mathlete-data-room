@@ -1,0 +1,151 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1337965924033441792"
+        ],
+        "editableUntil": "2020-12-13T04:41:49.151Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Major League Soccer",
+          "screen_name": "MLS",
+          "indices": [
+            "3",
+            "7"
+          ],
+          "id_str": "107146095",
+          "id": "107146095"
+        },
+        {
+          "name": "CCSC",
+          "screen_name": "columbuscrewsc",
+          "indices": [
+            "34",
+            "49"
+          ],
+          "id_str": "2792544626",
+          "id": "2792544626"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/MLS/status/1337964491368247296/photo/1",
+          "source_status_id": "1337964491368247296",
+          "indices": [
+            "72",
+            "95"
+          ],
+          "url": "https://t.co/IOFBMuvR72",
+          "media_url": "http://pbs.twimg.com/media/EpFk_oSWMAIEWLq.jpg",
+          "id_str": "1337961608614653954",
+          "source_user_id": "107146095",
+          "id": "1337961608614653954",
+          "media_url_https": "https://pbs.twimg.com/media/EpFk_oSWMAIEWLq.jpg",
+          "source_user_id_str": "107146095",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1337964491368247296",
+          "display_url": "pic.x.com/IOFBMuvR72"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "MLSCup",
+          "indices": [
+            "64",
+            "71"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "95"
+    ],
+    "favorite_count": "0",
+    "id_str": "1337965924033441792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1337965924033441792",
+    "possibly_sensitive": false,
+    "created_at": "Sun Dec 13 03:41:49 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @MLS: FT: There’s the whistle! @ColumbusCrewSC have done it! #MLSCup https://t.co/IOFBMuvR72",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/MLS/status/1337964491368247296/photo/1",
+          "source_status_id": "1337964491368247296",
+          "indices": [
+            "72",
+            "95"
+          ],
+          "url": "https://t.co/IOFBMuvR72",
+          "media_url": "http://pbs.twimg.com/media/EpFk_oSWMAIEWLq.jpg",
+          "id_str": "1337961608614653954",
+          "source_user_id": "107146095",
+          "id": "1337961608614653954",
+          "media_url_https": "https://pbs.twimg.com/media/EpFk_oSWMAIEWLq.jpg",
+          "source_user_id_str": "107146095",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1337964491368247296",
+          "display_url": "pic.x.com/IOFBMuvR72"
+        }
+      ]
+    }
+  }
+}

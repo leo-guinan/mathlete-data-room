@@ -1,0 +1,142 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347904505996836867"
+        ],
+        "editableUntil": "2021-01-09T14:54:11.741Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Aniela (yay !)",
+          "screen_name": "tokenliberal",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1693464543962210305",
+          "id": "1693464543962210305"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1347904505996836867/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/ZEWx4NYIbw",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErS3_ydW4AEW_EE.jpg",
+          "id_str": "1347904494995169281",
+          "id": "1347904494995169281",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErS3_ydW4AEW_EE.jpg",
+          "sizes": {
+            "small": {
+              "w": "244",
+              "h": "224",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "244",
+              "h": "224",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "244",
+              "h": "224",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZEWx4NYIbw"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "37"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1347903111353012227",
+    "id_str": "1347904505996836867",
+    "in_reply_to_user_id": "16668643",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347904505996836867",
+    "in_reply_to_status_id": "1347903111353012227",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 09 13:54:11 +0000 2021",
+    "favorited": false,
+    "full_text": "@tokenliberal https://t.co/ZEWx4NYIbw",
+    "lang": "qme",
+    "in_reply_to_user_id_str": "16668643",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1347904505996836867/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/ZEWx4NYIbw",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErS3_ydW4AEW_EE.jpg",
+          "id_str": "1347904494995169281",
+          "video_info": {
+            "aspect_ratio": [
+              "61",
+              "56"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/ErS3_ydW4AEW_EE.mp4"
+              }
+            ]
+          },
+          "id": "1347904494995169281",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErS3_ydW4AEW_EE.jpg",
+          "sizes": {
+            "small": {
+              "w": "244",
+              "h": "224",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "244",
+              "h": "224",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "244",
+              "h": "224",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/ZEWx4NYIbw"
+        }
+      ]
+    }
+  }
+}

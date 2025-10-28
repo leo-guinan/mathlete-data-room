@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1478099210738274310"
+        ],
+        "editableUntil": "2022-01-03T21:21:28.252Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ryan",
+          "screen_name": "R_Pillz",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1461338721211584513",
+          "id": "1461338721211584513"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "202"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1478098826514812928",
+    "id_str": "1478099210738274310",
+    "in_reply_to_user_id": "1461338721211584513",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1478099210738274310",
+    "in_reply_to_status_id": "1478098826514812928",
+    "created_at": "Mon Jan 03 20:21:28 +0000 2022",
+    "favorited": false,
+    "full_text": "@R_Pillz 100%. That's it exactly. Figure out the data you need to answer the question at hand, and collect that.\n\nIf you don't know the data you need to collect, think about the question you are asking.",
+    "lang": "en",
+    "in_reply_to_screen_name": "R_Pillz",
+    "in_reply_to_user_id_str": "1461338721211584513"
+  }
+}

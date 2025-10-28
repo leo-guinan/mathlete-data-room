@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929237546677981246"
+        ],
+        "editableUntil": "2025-06-01T19:04:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jake Colling",
+          "screen_name": "JacobColling",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1852630171",
+          "id": "1852630171"
+        },
+        {
+          "name": "clem 🤗",
+          "screen_name": "ClementDelangue",
+          "indices": [
+            "14",
+            "30"
+          ],
+          "id_str": "186420551",
+          "id": "186420551"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "225"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1929190267350921268",
+    "id_str": "1929237546677981246",
+    "in_reply_to_user_id": "1852630171",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929237546677981246",
+    "in_reply_to_status_id": "1929190267350921268",
+    "created_at": "Sun Jun 01 18:04:09 +0000 2025",
+    "favorited": false,
+    "full_text": "@JacobColling @ClementDelangue They don’t actually. There’s a way to use a small local model to understand the very specific needs of the edge user. You don’t need max intelligence at the edge, you need specific intelligence.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JacobColling",
+    "in_reply_to_user_id_str": "1852630171"
+  }
+}

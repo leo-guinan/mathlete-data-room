@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1484139610414493696"
+        ],
+        "editableUntil": "2022-01-20T13:23:51.760Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Blake Emal",
+          "screen_name": "heyblake",
+          "indices": [
+            "14",
+            "23"
+          ],
+          "id_str": "2226076345",
+          "id": "2226076345"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1xleuVPOCn",
+          "expanded_url": "http://www.feathercrm.io",
+          "display_url": "feathercrm.io",
+          "indices": [
+            "46",
+            "69"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1484137051461230598",
+    "id_str": "1484139610414493696",
+    "in_reply_to_user_id": "978297310210752513",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1484139610414493696",
+    "in_reply_to_status_id": "1484137051461230598",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 20 12:23:51 +0000 2022",
+    "favorited": false,
+    "full_text": "@jackramento_ @heyblake @feathercrm Check out https://t.co/1xleuVPOCn\n\nI need to fix the redirect. 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "0xjackson_",
+    "in_reply_to_user_id_str": "978297310210752513"
+  }
+}

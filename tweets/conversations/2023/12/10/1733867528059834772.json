@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1733867528059834772"
+        ],
+        "editableUntil": "2023-12-10T16:13:27.047Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "We Voices",
+          "screen_name": "WEquilVoices",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1105995675140083716",
+          "id": "1105995675140083716"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1733867528059834772",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1733867528059834772",
+    "created_at": "Sun Dec 10 15:13:27 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @WEquilVoices: We empower young people by giving them a voice to share their journey and perspective on the most pressing challenges of…",
+    "lang": "en"
+  }
+}

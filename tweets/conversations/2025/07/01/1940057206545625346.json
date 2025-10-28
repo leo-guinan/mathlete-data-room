@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940057206545625346"
+        ],
+        "editableUntil": "2025-07-01T15:37:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amanda Goetz",
+          "screen_name": "AmandaMGoetz",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23698119",
+          "id": "23698119"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1940039276030197794",
+    "id_str": "1940057206545625346",
+    "in_reply_to_user_id": "23698119",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940057206545625346",
+    "in_reply_to_status_id": "1940039276030197794",
+    "created_at": "Tue Jul 01 14:37:37 +0000 2025",
+    "favorited": false,
+    "full_text": "@AmandaMGoetz Work life balance is a myth thrust on us by people who want us to balance living with the shit they think we should do for their benefit.\n\nThank you for speaking out against this. I call it Time Violence, and it's getting worse and worse.\n\nInternet 2.0 fixes this.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AmandaMGoetz",
+    "in_reply_to_user_id_str": "23698119"
+  }
+}

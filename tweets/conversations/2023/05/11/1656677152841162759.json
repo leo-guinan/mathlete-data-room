@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1656677152841162759"
+        ],
+        "editableUntil": "2023-05-11T15:36:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matthew DiSabatino",
+          "screen_name": "notatechproblem",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "15792141",
+          "id": "15792141"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/e0Us6aUYza",
+          "expanded_url": "https://youtu.be/lqpIuGXLWdw",
+          "display_url": "youtu.be/lqpIuGXLWdw",
+          "indices": [
+            "74",
+            "97"
+          ]
+        },
+        {
+          "url": "https://t.co/s9ClYqB1Br",
+          "expanded_url": "https://youtu.be/LvEM35ngrZU",
+          "display_url": "youtu.be/LvEM35ngrZU",
+          "indices": [
+            "267",
+            "290"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1656668818624880643",
+    "id_str": "1656677152841162759",
+    "in_reply_to_user_id": "15792141",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1656677152841162759",
+    "in_reply_to_status_id": "1656668818624880643",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 11 15:06:27 +0000 2023",
+    "favorited": false,
+    "full_text": "@notatechproblem Here's a video I created on using the OpenAI playground: https://t.co/e0Us6aUYza\n\nThat's a good way to get started. Just explore the playground a bit and see what's possible.\n\nI also have some videos on using Langchain to do some pretty cool things: https://t.co/s9ClYqB1Br",
+    "lang": "en",
+    "in_reply_to_screen_name": "notatechproblem",
+    "in_reply_to_user_id_str": "15792141"
+  }
+}

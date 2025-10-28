@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1395331518411722756"
+        ],
+        "editableUntil": "2021-05-20T11:52:12.652Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Messina",
+          "screen_name": "chrismessina",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1186",
+          "id": "1186"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "263"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1395241183199207425",
+    "id_str": "1395331518411722756",
+    "in_reply_to_user_id": "1186",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1395331518411722756",
+    "in_reply_to_status_id": "1395241183199207425",
+    "created_at": "Thu May 20 10:52:12 +0000 2021",
+    "favorited": false,
+    "full_text": "@chrismessina @racket100 Exactly! There is an obsession with turning humans into machines, who then become worried they will be replaced by machines. But what if we let humans be human? I love seeing the results passionate people get. It's a completely new level.",
+    "lang": "en",
+    "in_reply_to_screen_name": "chrismessina",
+    "in_reply_to_user_id_str": "1186"
+  }
+}

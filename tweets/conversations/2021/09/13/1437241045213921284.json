@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1437241045213921284"
+        ],
+        "editableUntil": "2021-09-13T03:25:42.483Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Greenberg",
+          "screen_name": "gentoftech",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1384479814485041153",
+          "id": "1384479814485041153"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1437241045213921284",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1437241045213921284",
+    "created_at": "Mon Sep 13 02:25:42 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @gentoftech: It seems to me the best way to keep growing is to put yourself in uncomfortable situations that force you to do so…\n\n#tweet…",
+    "lang": "en"
+  }
+}

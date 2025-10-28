@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1861779921112100910"
+        ],
+        "editableUntil": "2024-11-27T15:31:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "152",
+            "168"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lADlzGjjDZ",
+          "expanded_url": "https://www.community-archive.org/",
+          "display_url": "community-archive.org",
+          "indices": [
+            "77",
+            "100"
+          ]
+        },
+        {
+          "url": "https://t.co/lKv2jR3GRn",
+          "expanded_url": "https://x.com/NickADobos/status/1861510060188541391",
+          "display_url": "x.com/NickADobos/sta…",
+          "indices": [
+            "188",
+            "211"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "5",
+    "id_str": "1861779921112100910",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1861779921112100910",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 27 14:31:38 +0000 2024",
+    "favorited": false,
+    "full_text": "If anyone else wants to do this too, grab your archive and then upload it to https://t.co/lADlzGjjDZ\n\nThen you can easily hook it up via api call.\n\nCC: @DefenderOfBasic to share this idea https://t.co/lKv2jR3GRn",
+    "lang": "en"
+  }
+}

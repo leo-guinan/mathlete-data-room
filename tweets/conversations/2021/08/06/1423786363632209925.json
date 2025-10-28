@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423786363632209925"
+        ],
+        "editableUntil": "2021-08-07T00:21:36.418Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1423786363632209925/photo/1",
+          "indices": [
+            "117",
+            "140"
+          ],
+          "url": "https://t.co/EzZh2w8Orh",
+          "media_url": "http://pbs.twimg.com/media/E8JNkYwXsAYX05f.jpg",
+          "id_str": "1423785719718457350",
+          "id": "1423785719718457350",
+          "media_url_https": "https://pbs.twimg.com/media/E8JNkYwXsAYX05f.jpg",
+          "sizes": {
+            "large": {
+              "w": "932",
+              "h": "282",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "932",
+              "h": "282",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "206",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EzZh2w8Orh"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1423784254320910337",
+    "id_str": "1423786363632209925",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423786363632209925",
+    "in_reply_to_status_id": "1423784254320910337",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 06 23:21:36 +0000 2021",
+    "favorited": false,
+    "full_text": "Because I want to make it nice and testable, I am passing the connection info into the constructor for the operator. https://t.co/EzZh2w8Orh",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1423786363632209925/photo/1",
+          "indices": [
+            "117",
+            "140"
+          ],
+          "url": "https://t.co/EzZh2w8Orh",
+          "media_url": "http://pbs.twimg.com/media/E8JNkYwXsAYX05f.jpg",
+          "id_str": "1423785719718457350",
+          "id": "1423785719718457350",
+          "media_url_https": "https://pbs.twimg.com/media/E8JNkYwXsAYX05f.jpg",
+          "sizes": {
+            "large": {
+              "w": "932",
+              "h": "282",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "932",
+              "h": "282",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "206",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EzZh2w8Orh"
+        }
+      ]
+    }
+  }
+}

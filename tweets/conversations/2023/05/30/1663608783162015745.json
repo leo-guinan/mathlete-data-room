@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1663608783162015745"
+        ],
+        "editableUntil": "2023-05-30T18:40:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QUn06YTcAj",
+          "expanded_url": "https://x.com/leo_guinan/status/1663212431336767489?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "60",
+            "83"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1663339421498761217",
+    "id_str": "1663608783162015745",
+    "in_reply_to_user_id": "1461236887159382017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1663608783162015745",
+    "in_reply_to_status_id": "1663339421498761217",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 30 18:10:16 +0000 2023",
+    "favorited": false,
+    "full_text": "@Chuckenspire Here's a thread that outlines things so far:\n\nhttps://t.co/QUn06YTcAj\n\nMore details coming daily! (as I figure them out :D )",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chuckenspire",
+    "in_reply_to_user_id_str": "1461236887159382017"
+  }
+}

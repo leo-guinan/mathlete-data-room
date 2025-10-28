@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1755307989253104079"
+        ],
+        "editableUntil": "2024-02-07T20:10:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rachel (aka “x’s venus”)",
+          "screen_name": "rachelclif",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "936260087294939136",
+          "id": "936260087294939136"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "254"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1755298645539180631",
+    "id_str": "1755307989253104079",
+    "in_reply_to_user_id": "936260087294939136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1755307989253104079",
+    "in_reply_to_status_id": "1755298645539180631",
+    "created_at": "Wed Feb 07 19:10:11 +0000 2024",
+    "favorited": false,
+    "full_text": "@rachelclif That's a great question, and one I have a hard time articulating.\n\nBut after thinking on it for a bit on my walk, I think the best way to describe it is that you see a burden that others ignore. A weight of expectations and mistrust, perhaps.",
+    "lang": "en",
+    "in_reply_to_screen_name": "rachelclif",
+    "in_reply_to_user_id_str": "936260087294939136"
+  }
+}

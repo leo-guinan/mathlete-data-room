@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553228296938209280"
+        ],
+        "editableUntil": "2022-07-30T04:27:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/f6Sbss7ojd",
+          "expanded_url": "https://x.com/leo_guinan/status/1553224481346404352",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "265",
+            "288"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "0",
+    "id_str": "1553228296938209280",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553228296938209280",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 30 03:57:38 +0000 2022",
+    "favorited": false,
+    "full_text": "Twitter bot now has basic functionality.\n\nHas the ability to add podcasts to the database.\n\nGoing to add other content types too, but I think the next level of functionality will be search. It's simple to add other content types so focusing on major functionality. https://t.co/f6Sbss7ojd",
+    "lang": "en"
+  }
+}

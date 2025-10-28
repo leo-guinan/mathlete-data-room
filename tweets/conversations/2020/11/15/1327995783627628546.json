@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327995783627628546"
+        ],
+        "editableUntil": "2020-11-15T16:24:02.442Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "John Cleese",
+          "screen_name": "JohnCleese",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "10810102",
+          "id": "10810102"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/JohnCleese/status/1327982900785065984/photo/1",
+          "source_status_id": "1327982900785065984",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/dpXW0EZ8WN",
+          "media_url": "http://pbs.twimg.com/media/Em3xaJ3WEAAsRSn.jpg",
+          "id_str": "1327982896771108864",
+          "source_user_id": "10810102",
+          "id": "1327982896771108864",
+          "media_url_https": "https://pbs.twimg.com/media/Em3xaJ3WEAAsRSn.jpg",
+          "source_user_id_str": "10810102",
+          "sizes": {
+            "medium": {
+              "w": "518",
+              "h": "540",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "518",
+              "h": "540",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "518",
+              "h": "540",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1327982900785065984",
+          "display_url": "pic.x.com/dpXW0EZ8WN"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "id_str": "1327995783627628546",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327995783627628546",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 15:24:02 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @JohnCleese: https://t.co/dpXW0EZ8WN",
+    "lang": "zxx",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/JohnCleese/status/1327982900785065984/photo/1",
+          "source_status_id": "1327982900785065984",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/dpXW0EZ8WN",
+          "media_url": "http://pbs.twimg.com/media/Em3xaJ3WEAAsRSn.jpg",
+          "id_str": "1327982896771108864",
+          "source_user_id": "10810102",
+          "id": "1327982896771108864",
+          "media_url_https": "https://pbs.twimg.com/media/Em3xaJ3WEAAsRSn.jpg",
+          "source_user_id_str": "10810102",
+          "sizes": {
+            "medium": {
+              "w": "518",
+              "h": "540",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "518",
+              "h": "540",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "518",
+              "h": "540",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1327982900785065984",
+          "display_url": "pic.x.com/dpXW0EZ8WN"
+        }
+      ]
+    }
+  }
+}

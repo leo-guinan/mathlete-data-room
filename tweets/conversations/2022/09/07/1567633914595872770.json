@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1567633914595872770"
+        ],
+        "editableUntil": "2022-09-07T22:30:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1567496444415721473",
+    "id_str": "1567633914595872770",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1567633914595872770",
+    "in_reply_to_status_id": "1567496444415721473",
+    "created_at": "Wed Sep 07 22:00:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@NotechAna Yeah, not a ton of discussion around either.\n\nBut I'm happy to chime in! I think the Twitter edit feature will be interesting, and potentially be removed within the first 6 months of being implemented. \n\nAnd the AI generated image winning the contest is kinda cool.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

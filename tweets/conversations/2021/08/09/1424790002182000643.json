@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1424790002182000643"
+        ],
+        "editableUntil": "2021-08-09T18:49:42.495Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1424727720903254017",
+    "id_str": "1424790002182000643",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1424790002182000643",
+    "in_reply_to_status_id": "1424727720903254017",
+    "created_at": "Mon Aug 09 17:49:42 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, decided to use the alpha version of the library.\n\nAnd it seems to be working pretty well for me...\n\nI'm now able to grab all of my followers without being rate limited. \n\nTime to start populating some data! 🙌",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

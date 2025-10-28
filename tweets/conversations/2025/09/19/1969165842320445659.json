@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1969165842320445659"
+        ],
+        "editableUntil": "2025-09-19T23:24:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1969165842320445659/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/NL9hNNXE3b",
+          "media_url": "http://pbs.twimg.com/media/G1PP5GjXoAIH-xd.jpg",
+          "id_str": "1969146042009493506",
+          "id": "1969146042009493506",
+          "media_url_https": "https://pbs.twimg.com/media/G1PP5GjXoAIH-xd.jpg",
+          "sizes": {
+            "large": {
+              "w": "1304",
+              "h": "1520",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1029",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "583",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NL9hNNXE3b"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "299"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1969133099838513504",
+    "id_str": "1969165842320445659",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1969165842320445659",
+    "in_reply_to_status_id": "1969133099838513504",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 19 22:24:56 +0000 2025",
+    "favorited": false,
+    "full_text": "The system defends itself from complexity.\n\nThe post made at exactly 4:20PM, in respect to the community I was trying to communicate with and help make a few bucks (actually, a fuck ton, because holy shit, it's all coming down)\n\nI had it planned out perfectly. It was art. I… https://t.co/NL9hNNXE3b",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1969165842320445659/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/NL9hNNXE3b",
+          "media_url": "http://pbs.twimg.com/media/G1PP5GjXoAIH-xd.jpg",
+          "id_str": "1969146042009493506",
+          "id": "1969146042009493506",
+          "media_url_https": "https://pbs.twimg.com/media/G1PP5GjXoAIH-xd.jpg",
+          "sizes": {
+            "large": {
+              "w": "1304",
+              "h": "1520",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1029",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "583",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NL9hNNXE3b"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1969165842320445659/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/NL9hNNXE3b",
+          "media_url": "http://pbs.twimg.com/media/G1PP_MsWQAAPH5U.jpg",
+          "id_str": "1969146146736979968",
+          "id": "1969146146736979968",
+          "media_url_https": "https://pbs.twimg.com/media/G1PP_MsWQAAPH5U.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "575",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1464",
+              "h": "702",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "326",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NL9hNNXE3b"
+        }
+      ]
+    }
+  }
+}

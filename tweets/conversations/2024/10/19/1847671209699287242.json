@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1847671209699287242"
+        ],
+        "editableUntil": "2024-10-19T17:08:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "18"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1847372108067983419",
+    "id_str": "1847671209699287242",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1847671209699287242",
+    "in_reply_to_status_id": "1847372108067983419",
+    "created_at": "Sat Oct 19 16:08:39 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli Deal. :)",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

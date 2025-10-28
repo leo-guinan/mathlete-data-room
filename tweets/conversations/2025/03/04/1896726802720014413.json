@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1896726802720014413"
+        ],
+        "editableUntil": "2025-03-04T01:58:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "X",
+          "screen_name": "X",
+          "indices": [
+            "58",
+            "60"
+          ],
+          "id_str": "783214",
+          "id": "783214"
+        },
+        {
+          "name": "Manifold",
+          "screen_name": "ManifoldMarkets",
+          "indices": [
+            "240",
+            "256"
+          ],
+          "id_str": "1466559813752606725",
+          "id": "1466559813752606725"
+        },
+        {
+          "name": "Polymarket",
+          "screen_name": "Polymarket",
+          "indices": [
+            "260",
+            "271"
+          ],
+          "id_str": "1261335549215989760",
+          "id": "1261335549215989760"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/btINjinPgH",
+          "expanded_url": "https://x.com/leo_guinan/status/1896715472952758434",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "281",
+            "304"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1896726802720014413/photo/1",
+          "indices": [
+            "305",
+            "328"
+          ],
+          "url": "https://t.co/qVU7GtXcc5",
+          "media_url": "http://pbs.twimg.com/media/GlKF35AW0AA3lg_.jpg",
+          "id_str": "1896725588318015488",
+          "id": "1896725588318015488",
+          "media_url_https": "https://pbs.twimg.com/media/GlKF35AW0AA3lg_.jpg",
+          "sizes": {
+            "medium": {
+              "w": "552",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qVU7GtXcc5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "328"
+    ],
+    "favorite_count": "1",
+    "id_str": "1896726802720014413",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1896726802720014413",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 04 00:58:03 +0000 2025",
+    "favorited": false,
+    "full_text": "Weird question: anyone want to pay to promote this post?\n\n@X asked me, and I think it would be a good chance to test the number of impressions I can get for these amounts.\n\nThen, any degenerate gamblers could probably set up a something on @ManifoldMarkets or @Polymarket  around… https://t.co/btINjinPgH https://t.co/qVU7GtXcc5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1896726802720014413/photo/1",
+          "indices": [
+            "305",
+            "328"
+          ],
+          "url": "https://t.co/qVU7GtXcc5",
+          "media_url": "http://pbs.twimg.com/media/GlKF35AW0AA3lg_.jpg",
+          "id_str": "1896725588318015488",
+          "id": "1896725588318015488",
+          "media_url_https": "https://pbs.twimg.com/media/GlKF35AW0AA3lg_.jpg",
+          "sizes": {
+            "medium": {
+              "w": "552",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qVU7GtXcc5"
+        }
+      ]
+    }
+  }
+}

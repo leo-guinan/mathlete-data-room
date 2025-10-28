@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941565772855447968"
+        ],
+        "editableUntil": "2025-07-05T19:32:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "180"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1941553423129903370",
+    "id_str": "1941565772855447968",
+    "in_reply_to_user_id": "1170701109629018117",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941565772855447968",
+    "in_reply_to_status_id": "1941553423129903370",
+    "created_at": "Sat Jul 05 18:32:07 +0000 2025",
+    "favorited": false,
+    "full_text": "@ChrisChipMonk It's because people who are insecure tend to exist in insecure networks. It's a self-reinforcing behavior that sucks people back in every time they start to get out.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ChrischipMonk",
+    "in_reply_to_user_id_str": "1170701109629018117"
+  }
+}

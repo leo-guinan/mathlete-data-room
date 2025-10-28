@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768992687456227348"
+        ],
+        "editableUntil": "2024-03-16T14:28:17.641Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KpgC6jLPiI",
+          "expanded_url": "http://x.com/i/article/1768975227025797120",
+          "display_url": "x.com/i/article/1768…",
+          "indices": [
+            "15",
+            "38"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "0",
+    "id_str": "1768992687456227348",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768992687456227348",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 16 13:28:17 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @p_millerd: https://t.co/KpgC6jLPiI",
+    "lang": "zxx"
+  }
+}

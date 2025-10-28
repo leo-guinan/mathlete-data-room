@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363253108751691779"
+        ],
+        "editableUntil": "2021-02-20T23:24:03.801Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Stephen Weber",
+          "screen_name": "stephenweber",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "14776675",
+          "id": "14776675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "177"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1363204152218673159",
+    "id_str": "1363253108751691779",
+    "in_reply_to_user_id": "14776675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363253108751691779",
+    "in_reply_to_status_id": "1363204152218673159",
+    "created_at": "Sat Feb 20 22:24:03 +0000 2021",
+    "favorited": false,
+    "full_text": "@stephenweber @WizardsInTECH Practice. Every single day I am out trying to talk to customers and see if my marketing works. I am not good yet but I get a little better each day.",
+    "lang": "en",
+    "in_reply_to_screen_name": "stephenweber",
+    "in_reply_to_user_id_str": "14776675"
+  }
+}

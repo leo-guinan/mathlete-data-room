@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1606668758008856576"
+        ],
+        "editableUntil": "2022-12-24T15:40:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Fi 👨‍💻 — Now at @davidfidesign",
+          "screen_name": "davidfigueiras",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "280402249",
+          "id": "280402249"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1606668481100931074",
+    "id_str": "1606668758008856576",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1606668758008856576",
+    "in_reply_to_status_id": "1606668481100931074",
+    "created_at": "Sat Dec 24 15:10:57 +0000 2022",
+    "favorited": false,
+    "full_text": "@davidfigueiras Calligraphy by itself isn't valuable, but combining that with the ability to discover clients who want someone to do it, the business structure around it to make it sustainable, etc.\n\nThat's where the ability to excel in numerous areas becomes vital.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

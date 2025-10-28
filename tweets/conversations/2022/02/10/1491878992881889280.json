@@ -1,0 +1,135 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491878992881889280"
+        ],
+        "editableUntil": "2022-02-10T21:57:24.331Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Chris Lu",
+          "screen_name": "chris__lu",
+          "indices": [
+            "40",
+            "50"
+          ],
+          "id_str": "2838767611",
+          "id": "2838767611"
+        },
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "64",
+            "72"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1491878992881889280/photo/1",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/rzYXUpbyw7",
+          "media_url": "http://pbs.twimg.com/media/FLQ4BJkXsAYETSn.png",
+          "id_str": "1491878968965967878",
+          "id": "1491878968965967878",
+          "media_url_https": "https://pbs.twimg.com/media/FLQ4BJkXsAYETSn.png",
+          "sizes": {
+            "large": {
+              "w": "1058",
+              "h": "806",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "518",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1058",
+              "h": "806",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rzYXUpbyw7"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "5",
+    "id_str": "1491878992881889280",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1491878992881889280",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 10 20:57:24 +0000 2022",
+    "favorited": false,
+    "full_text": "Just tried out the Valentine's Day tool @chris__lu sent out for @copy_ai .\n\nAnd, damn. It's good. https://t.co/rzYXUpbyw7",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1491878992881889280/photo/1",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/rzYXUpbyw7",
+          "media_url": "http://pbs.twimg.com/media/FLQ4BJkXsAYETSn.png",
+          "id_str": "1491878968965967878",
+          "id": "1491878968965967878",
+          "media_url_https": "https://pbs.twimg.com/media/FLQ4BJkXsAYETSn.png",
+          "sizes": {
+            "large": {
+              "w": "1058",
+              "h": "806",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "518",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1058",
+              "h": "806",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rzYXUpbyw7"
+        }
+      ]
+    }
+  }
+}

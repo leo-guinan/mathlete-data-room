@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1612623578788433921"
+        ],
+        "editableUntil": "2023-01-10T02:03:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1612623578788433921/photo/1",
+          "indices": [
+            "256",
+            "279"
+          ],
+          "url": "https://t.co/0kqmg3BifY",
+          "media_url": "http://pbs.twimg.com/media/FmEwYqTX0AQ_cKd.jpg",
+          "id_str": "1612623341805883396",
+          "id": "1612623341805883396",
+          "media_url_https": "https://pbs.twimg.com/media/FmEwYqTX0AQ_cKd.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0kqmg3BifY"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "5",
+    "id_str": "1612623578788433921",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1612623578788433921",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 10 01:33:16 +0000 2023",
+    "favorited": false,
+    "full_text": "New issue of the SaaS Factory written - only 2600 words...\n\nWill go out tomorrow AM.\n\nNow I'm on to the part where I start generating images for the issue, going down some rabbit holes with prompting, and ending up with some pretty wild things. \n\nA taste: https://t.co/0kqmg3BifY",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1612623578788433921/photo/1",
+          "indices": [
+            "256",
+            "279"
+          ],
+          "url": "https://t.co/0kqmg3BifY",
+          "media_url": "http://pbs.twimg.com/media/FmEwYqTX0AQ_cKd.jpg",
+          "id_str": "1612623341805883396",
+          "id": "1612623341805883396",
+          "media_url_https": "https://pbs.twimg.com/media/FmEwYqTX0AQ_cKd.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0kqmg3BifY"
+        }
+      ]
+    }
+  }
+}

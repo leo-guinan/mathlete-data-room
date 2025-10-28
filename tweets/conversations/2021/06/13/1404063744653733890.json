@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1404063744653733890"
+        ],
+        "editableUntil": "2021-06-13T14:10:57.625Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bernardo Feitosa",
+          "screen_name": "BernFeitosa",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "16700853",
+          "id": "16700853"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1404063744653733890",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1404063744653733890",
+    "created_at": "Sun Jun 13 13:10:57 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @BernFeitosa: We launched an online course, but we had a problem.\n\nOnly 15% of ppl started it.\n\nOnly 3% of ppl finished it.\n\nFor 30 days…",
+    "lang": "en"
+  }
+}

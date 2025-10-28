@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1926147527620874620"
+        ],
+        "editableUntil": "2025-05-24T06:25:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rWW2jontIB",
+          "expanded_url": "https://claude.ai/public/artifacts/c6b949b4-99a8-4bad-8bb8-c2216d5cfa64",
+          "display_url": "claude.ai/public/artifac…",
+          "indices": [
+            "139",
+            "162"
+          ]
+        },
+        {
+          "url": "https://t.co/EAfAUoBO0F",
+          "expanded_url": "https://claude.ai/public/artifacts/214c9ef8-fa7d-458c-9258-82e23619c974",
+          "display_url": "claude.ai/public/artifac…",
+          "indices": [
+            "175",
+            "198"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "0",
+    "id_str": "1926147527620874620",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1926147527620874620",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 24 05:25:31 +0000 2025",
+    "favorited": false,
+    "full_text": "Working on two different versions of a manifesto right now and would love some feedback.\n\n\"Why Everyone Needs A Time Machine:\"\n\nVersion 1: https://t.co/rWW2jontIB\n\nVersion 2: https://t.co/EAfAUoBO0F",
+    "lang": "en"
+  }
+}

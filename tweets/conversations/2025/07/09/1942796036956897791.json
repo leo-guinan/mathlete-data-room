@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942796036956897791"
+        ],
+        "editableUntil": "2025-07-09T05:00:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942783317570429262",
+    "id_str": "1942796036956897791",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942796036956897791",
+    "in_reply_to_status_id": "1942783317570429262",
+    "created_at": "Wed Jul 09 04:00:45 +0000 2025",
+    "favorited": false,
+    "full_text": "@StroutMotivateU I didn’t know what to expect but that wasn’t it. \n\nAnd yet, of course that’s exactly what it was.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

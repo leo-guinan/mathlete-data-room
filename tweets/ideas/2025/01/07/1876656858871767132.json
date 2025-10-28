@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1876656858871767132"
+        ],
+        "editableUntil": "2025-01-07T16:47:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "0",
+    "id_str": "1876656858871767132",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1876656858871767132",
+    "created_at": "Tue Jan 07 15:47:16 +0000 2025",
+    "favorited": false,
+    "full_text": "Decided to build a data lake because I want to pull in all the stuff I've created over the past few years. I keep doing things in bits and pieces and realized I could get a lot more done if I deployed systems that can simply run and pull everything together for analysis.",
+    "lang": "en"
+  }
+}

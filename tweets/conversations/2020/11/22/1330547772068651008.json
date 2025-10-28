@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330547772068651008"
+        ],
+        "editableUntil": "2020-11-22T17:24:43.900Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Chelsea Handler",
+          "screen_name": "chelseahandler",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "19877186",
+          "id": "19877186"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/chelseahandler/status/1330525867810832384/photo/1",
+          "source_status_id": "1330525867810832384",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/qotY491lYH",
+          "media_url": "http://pbs.twimg.com/media/Enb6OUmVkAAXq4c.jpg",
+          "id_str": "1330525863889178624",
+          "source_user_id": "19877186",
+          "id": "1330525863889178624",
+          "media_url_https": "https://pbs.twimg.com/media/Enb6OUmVkAAXq4c.jpg",
+          "source_user_id_str": "19877186",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "477",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "883",
+              "h": "620",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "883",
+              "h": "620",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1330525867810832384",
+          "display_url": "pic.x.com/qotY491lYH"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "0",
+    "id_str": "1330547772068651008",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330547772068651008",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 22 16:24:43 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @chelseahandler: ￼\nSomething to get your mind off that picture of Rudy Giuliani. Happy Sunday. https://t.co/qotY491lYH",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/chelseahandler/status/1330525867810832384/photo/1",
+          "source_status_id": "1330525867810832384",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/qotY491lYH",
+          "media_url": "http://pbs.twimg.com/media/Enb6OUmVkAAXq4c.jpg",
+          "id_str": "1330525863889178624",
+          "source_user_id": "19877186",
+          "id": "1330525863889178624",
+          "media_url_https": "https://pbs.twimg.com/media/Enb6OUmVkAAXq4c.jpg",
+          "source_user_id_str": "19877186",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "477",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "883",
+              "h": "620",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "883",
+              "h": "620",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1330525867810832384",
+          "display_url": "pic.x.com/qotY491lYH"
+        }
+      ]
+    }
+  }
+}

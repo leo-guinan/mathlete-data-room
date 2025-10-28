@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929771639350210898"
+        ],
+        "editableUntil": "2025-06-03T06:26:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Daniel",
+          "screen_name": "growing_daniel",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1457558434044203013",
+          "id": "1457558434044203013"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/M1XrGbtT2b",
+          "expanded_url": "https://x.com/leo_guinan/status/1929765689650299064",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "65",
+            "88"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929745767939690654",
+    "id_str": "1929771639350210898",
+    "in_reply_to_user_id": "1457558434044203013",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929771639350210898",
+    "in_reply_to_status_id": "1929745767939690654",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 03 05:26:26 +0000 2025",
+    "favorited": false,
+    "full_text": "@growing_daniel It’s me. I broke the timeline. \n\nYou’re welcome. https://t.co/M1XrGbtT2b",
+    "lang": "en",
+    "in_reply_to_screen_name": "growing_daniel",
+    "in_reply_to_user_id_str": "1457558434044203013"
+  }
+}

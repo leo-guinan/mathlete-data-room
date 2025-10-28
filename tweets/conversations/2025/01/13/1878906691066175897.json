@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1878906691066175897"
+        ],
+        "editableUntil": "2025-01-13T21:47:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jeff Huber",
+          "screen_name": "jeffreyhuber",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "15728306",
+          "id": "15728306"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1878905474982224328",
+    "id_str": "1878906691066175897",
+    "in_reply_to_user_id": "15728306",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1878906691066175897",
+    "in_reply_to_status_id": "1878905474982224328",
+    "created_at": "Mon Jan 13 20:47:18 +0000 2025",
+    "favorited": false,
+    "full_text": "@jeffreyhuber It's looking for justice for the past in a future that is leaving them behind. When we give people stability and predictability in the present, they stop trying to re-litigate the past.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jeffreyhuber",
+    "in_reply_to_user_id_str": "15728306"
+  }
+}

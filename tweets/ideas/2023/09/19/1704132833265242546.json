@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1704132833265242546"
+        ],
+        "editableUntil": "2023-09-19T14:58:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1704132833265242546/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/0zaI8R0Fvk",
+          "media_url": "http://pbs.twimg.com/media/F6ZLxwmbAAAjyLN.jpg",
+          "id_str": "1704132827238039552",
+          "id": "1704132827238039552",
+          "media_url_https": "https://pbs.twimg.com/media/F6ZLxwmbAAAjyLN.jpg",
+          "sizes": {
+            "large": {
+              "w": "964",
+              "h": "964",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "964",
+              "h": "964",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0zaI8R0Fvk"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "0",
+    "id_str": "1704132833265242546",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1704132833265242546",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 19 13:58:23 +0000 2023",
+    "favorited": false,
+    "full_text": "Rebranding my newsletter from Internet Factory to Idea Supply Chain. \n\nJust sent out a new issue outlining the way I'm thinking about things now. https://t.co/0zaI8R0Fvk",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1704132833265242546/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/0zaI8R0Fvk",
+          "media_url": "http://pbs.twimg.com/media/F6ZLxwmbAAAjyLN.jpg",
+          "id_str": "1704132827238039552",
+          "id": "1704132827238039552",
+          "media_url_https": "https://pbs.twimg.com/media/F6ZLxwmbAAAjyLN.jpg",
+          "sizes": {
+            "large": {
+              "w": "964",
+              "h": "964",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "964",
+              "h": "964",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0zaI8R0Fvk"
+        }
+      ]
+    }
+  }
+}

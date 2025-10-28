@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1795493306329182589"
+        ],
+        "editableUntil": "2024-05-28T17:32:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kelsey",
+          "screen_name": "localkels",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "21593471",
+          "id": "21593471"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gwVv9ctYRA",
+          "expanded_url": "http://doineedanotherdomain.com",
+          "display_url": "doineedanotherdomain.com",
+          "indices": [
+            "42",
+            "65"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1795493100531724326",
+    "id_str": "1795493306329182589",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1795493306329182589",
+    "in_reply_to_status_id": "1795493100531724326",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 28 16:32:17 +0000 2024",
+    "favorited": false,
+    "full_text": "@localkels (seriously, I own this domain: https://t.co/gwVv9ctYRA)",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940235951659487559"
+        ],
+        "editableUntil": "2025-07-02T03:27:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Hank Couture",
+          "screen_name": "HankCouture",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "519123804",
+          "id": "519123804"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940235951659487559/photo/1",
+          "indices": [
+            "53",
+            "76"
+          ],
+          "url": "https://t.co/UEPvQR8KgG",
+          "media_url": "http://pbs.twimg.com/media/Gu0aUD6WAAAw6zw.jpg",
+          "id_str": "1940235946416275456",
+          "id": "1940235946416275456",
+          "media_url_https": "https://pbs.twimg.com/media/Gu0aUD6WAAAw6zw.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/UEPvQR8KgG"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1940233080159269345",
+    "id_str": "1940235951659487559",
+    "in_reply_to_user_id": "519123804",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940235951659487559",
+    "in_reply_to_status_id": "1940233080159269345",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 02 02:27:53 +0000 2025",
+    "favorited": false,
+    "full_text": "@HankCouture That’s what Internet 2.0 optimizes for. https://t.co/UEPvQR8KgG",
+    "lang": "en",
+    "in_reply_to_screen_name": "HankCouture",
+    "in_reply_to_user_id_str": "519123804",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940235951659487559/photo/1",
+          "indices": [
+            "53",
+            "76"
+          ],
+          "url": "https://t.co/UEPvQR8KgG",
+          "media_url": "http://pbs.twimg.com/media/Gu0aUD6WAAAw6zw.jpg",
+          "id_str": "1940235946416275456",
+          "id": "1940235946416275456",
+          "media_url_https": "https://pbs.twimg.com/media/Gu0aUD6WAAAw6zw.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/UEPvQR8KgG"
+        }
+      ]
+    }
+  }
+}

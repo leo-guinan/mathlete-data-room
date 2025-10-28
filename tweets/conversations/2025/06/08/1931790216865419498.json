@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931790216865419498"
+        ],
+        "editableUntil": "2025-06-08T20:07:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Snub",
+          "screen_name": "1stSnub",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1924061287790821376",
+          "id": "1924061287790821376"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ThjCiVYYP8",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/papers/Network%20Relativity/Network%20Relativity%20Theory.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "169",
+            "192"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931790216865419498/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/hsZJvyywCH",
+          "media_url": "http://pbs.twimg.com/media/Gs8Y6g0WAAA7Tzw.jpg",
+          "id_str": "1931790158686191616",
+          "id": "1931790158686191616",
+          "media_url_https": "https://pbs.twimg.com/media/Gs8Y6g0WAAA7Tzw.jpg",
+          "sizes": {
+            "large": {
+              "w": "1886",
+              "h": "1546",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "984",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "557",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hsZJvyywCH"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1931772415505576409",
+    "id_str": "1931790216865419498",
+    "in_reply_to_user_id": "1924061287790821376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931790216865419498",
+    "in_reply_to_status_id": "1931772415505576409",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 08 19:07:33 +0000 2025",
+    "favorited": false,
+    "full_text": "@1stSnub You are speaking my language. That's what I've been arguing for 5 years now while everyone ignored me, and now I've proven it. \n\nAll in here if you're curious: https://t.co/ThjCiVYYP8 https://t.co/hsZJvyywCH",
+    "lang": "en",
+    "in_reply_to_screen_name": "1stSnub",
+    "in_reply_to_user_id_str": "1924061287790821376",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931790216865419498/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/hsZJvyywCH",
+          "media_url": "http://pbs.twimg.com/media/Gs8Y6g0WAAA7Tzw.jpg",
+          "id_str": "1931790158686191616",
+          "id": "1931790158686191616",
+          "media_url_https": "https://pbs.twimg.com/media/Gs8Y6g0WAAA7Tzw.jpg",
+          "sizes": {
+            "large": {
+              "w": "1886",
+              "h": "1546",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "984",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "557",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hsZJvyywCH"
+        }
+      ]
+    }
+  }
+}

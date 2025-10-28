@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1494506070341046272"
+        ],
+        "editableUntil": "2022-02-18T03:56:28.406Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "LitCheck, LLC.",
+          "screen_name": "Lit_Check",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "951190174737797126",
+          "id": "951190174737797126"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1493869319524126722",
+    "id_str": "1494506070341046272",
+    "in_reply_to_user_id": "951190174737797126",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1494506070341046272",
+    "in_reply_to_status_id": "1493869319524126722",
+    "created_at": "Fri Feb 18 02:56:28 +0000 2022",
+    "favorited": false,
+    "full_text": "@Lit_Check I've got your analysis for you. Just need to open up your DMs or follow me so I can send it to you. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "Lit_Check",
+    "in_reply_to_user_id_str": "951190174737797126"
+  }
+}

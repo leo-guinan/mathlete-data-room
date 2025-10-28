@@ -1,0 +1,142 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1845907961849241758"
+        ],
+        "editableUntil": "2024-10-14T20:22:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1845907961849241758/photo/1",
+          "indices": [
+            "170",
+            "193"
+          ],
+          "url": "https://t.co/JfkjAnMimO",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GZ37gX2WYAAdYlB.jpg",
+          "id_str": "1845907955868131328",
+          "id": "1845907955868131328",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GZ37gX2WYAAdYlB.jpg",
+          "sizes": {
+            "large": {
+              "w": "220",
+              "h": "220",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "220",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "220",
+              "h": "220",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JfkjAnMimO"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "193"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1845854132726550600",
+    "id_str": "1845907961849241758",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1845907961849241758",
+    "in_reply_to_status_id": "1845854132726550600",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 14 19:22:08 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli haha...never.\n\nBut I do think it's possible to create valuable employee/employer relationships, just need to do it differently.\n\nIt needs to be planned better. https://t.co/JfkjAnMimO",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1845907961849241758/photo/1",
+          "indices": [
+            "170",
+            "193"
+          ],
+          "url": "https://t.co/JfkjAnMimO",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GZ37gX2WYAAdYlB.jpg",
+          "id_str": "1845907955868131328",
+          "video_info": {
+            "aspect_ratio": [
+              "1",
+              "1"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GZ37gX2WYAAdYlB.mp4"
+              }
+            ]
+          },
+          "id": "1845907955868131328",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GZ37gX2WYAAdYlB.jpg",
+          "sizes": {
+            "large": {
+              "w": "220",
+              "h": "220",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "220",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "220",
+              "h": "220",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/JfkjAnMimO"
+        }
+      ]
+    }
+  }
+}

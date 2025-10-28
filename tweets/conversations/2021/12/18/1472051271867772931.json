@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1472051271867772931"
+        ],
+        "editableUntil": "2021-12-18T04:49:07.260Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pnDHAhlY6e",
+          "expanded_url": "https://wefunder.com/updates/151042-airing-on-cnbc-12-18-21-2-30pm-est",
+          "display_url": "wefunder.com/updates/151042…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1472051271867772931",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1472051271867772931",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 18 03:49:07 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @StroutMotivateU: Just a reminder: https://t.co/pnDHAhlY6e",
+    "lang": "en"
+  }
+}

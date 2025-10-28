@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1589436615511838722"
+        ],
+        "editableUntil": "2022-11-07T02:26:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        },
+        {
+          "name": "Metricool ∞ Social Media Swiss Army Knife",
+          "screen_name": "Metricool",
+          "indices": [
+            "14",
+            "24"
+          ],
+          "id_str": "838688884062097408",
+          "id": "838688884062097408"
+        },
+        {
+          "name": "Shine Ranker Official",
+          "screen_name": "ShineRanker",
+          "indices": [
+            "25",
+            "37"
+          ],
+          "id_str": "1503920401969262598",
+          "id": "1503920401969262598"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1589298648310943745",
+    "id_str": "1589436615511838722",
+    "in_reply_to_user_id": "1461236887159382017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1589436615511838722",
+    "in_reply_to_status_id": "1589298648310943745",
+    "created_at": "Mon Nov 07 01:56:34 +0000 2022",
+    "favorited": false,
+    "full_text": "@Chuckenspire @Metricool @ShineRanker Data === dopamine!\n\nVery cool, I'll have to play around with them a bit, I'm not familiar with those!",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chuckenspire",
+    "in_reply_to_user_id_str": "1461236887159382017"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1653234233870110721"
+        ],
+        "editableUntil": "2023-05-02T03:35:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Choose Your Algorithm",
+          "screen_name": "ChooseYourAlgo",
+          "indices": [
+            "10",
+            "25"
+          ],
+          "id_str": "1613997408190402580",
+          "id": "1613997408190402580"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "53",
+            "65"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1653234233870110721/video/1",
+          "indices": [
+            "247",
+            "270"
+          ],
+          "url": "https://t.co/ZwqzteKg2o",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1653233539805003776/pu/img/TmUeCqFqJDSYKzls.jpg",
+          "id_str": "1653233539805003776",
+          "id": "1653233539805003776",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1653233539805003776/pu/img/TmUeCqFqJDSYKzls.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZwqzteKg2o"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "270"
+    ],
+    "favorite_count": "4",
+    "id_str": "1653234233870110721",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1653234233870110721",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 02 03:05:31 +0000 2023",
+    "favorited": false,
+    "full_text": "Latenight @ChooseYourAlgo Build in Public update for @_buildspace\n\nA sneak peek at some interesting partnerships I'll be sharing soon as a way to show off some of the cool things you can do.\n\nAlso launched the Listen To Leo Youtube channel today! https://t.co/ZwqzteKg2o",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1653234233870110721/video/1",
+          "indices": [
+            "247",
+            "270"
+          ],
+          "url": "https://t.co/ZwqzteKg2o",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1653233539805003776/pu/img/TmUeCqFqJDSYKzls.jpg",
+          "id_str": "1653233539805003776",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "97560",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1653233539805003776/pu/vid/1280x720/tm3BYuO4hgaH-npC.mp4?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1653233539805003776/pu/vid/640x360/SHy4_P5-r4wGER00.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1653233539805003776/pu/pl/3P0vEMNZMC2oZ5ba.m3u8?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1653233539805003776/pu/vid/480x270/1rtb18IbOath5IxO.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1653233539805003776",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1653233539805003776/pu/img/TmUeCqFqJDSYKzls.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/ZwqzteKg2o"
+        }
+      ]
+    }
+  }
+}

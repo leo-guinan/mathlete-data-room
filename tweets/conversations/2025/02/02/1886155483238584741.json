@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1886155483238584741"
+        ],
+        "editableUntil": "2025-02-02T21:51:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Scott Alexander",
+          "screen_name": "slatestarcodex",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1526643050",
+          "id": "1526643050"
+        },
+        {
+          "name": "Its A Dry Heat",
+          "screen_name": "Its_a_dryheat",
+          "indices": [
+            "16",
+            "30"
+          ],
+          "id_str": "1862663234802569216",
+          "id": "1862663234802569216"
+        },
+        {
+          "name": "HowlingMutant",
+          "screen_name": "Howlingmutant0",
+          "indices": [
+            "31",
+            "46"
+          ],
+          "id_str": "1269740568852279297",
+          "id": "1269740568852279297"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "318"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1886126846586347927",
+    "id_str": "1886155483238584741",
+    "in_reply_to_user_id": "1526643050",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1886155483238584741",
+    "in_reply_to_status_id": "1886126846586347927",
+    "created_at": "Sun Feb 02 20:51:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@slatestarcodex @Its_a_dryheat @Howlingmutant0 This is more true than the us government has realized, and that's the problem. \n\nThe economy is broken, and it's affecting the vast majority of people in the US. We've miscalculated risk and really hurt people economically.\n\nWe need to reset the risk calculus to include…",
+    "lang": "en",
+    "in_reply_to_screen_name": "slatestarcodex",
+    "in_reply_to_user_id_str": "1526643050"
+  }
+}

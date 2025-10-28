@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1377623263950561295"
+        ],
+        "editableUntil": "2021-04-01T15:05:55.785Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hcAyFeU3G7",
+          "expanded_url": "https://link.medium.com/Zz3EnRJq6eb",
+          "display_url": "link.medium.com/Zz3EnRJq6eb",
+          "indices": [
+            "50",
+            "73"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "1",
+    "id_str": "1377623263950561295",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1377623263950561295",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 01 14:05:55 +0000 2021",
+    "favorited": false,
+    "full_text": "I just published Founder Writing Prompt: March 31 https://t.co/hcAyFeU3G7",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1972705879645401295"
+        ],
+        "editableUntil": "2025-09-29T17:51:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Liv Boeree",
+          "screen_name": "Liv_Boeree",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "25422302",
+          "id": "25422302"
+        },
+        {
+          "name": "Emmett Shear",
+          "screen_name": "eshear",
+          "indices": [
+            "12",
+            "19"
+          ],
+          "id_str": "905201",
+          "id": "905201"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972705879645401295/photo/1",
+          "indices": [
+            "87",
+            "110"
+          ],
+          "url": "https://t.co/0fVy2Bgv47",
+          "media_url": "http://pbs.twimg.com/media/G2B1bJSWoAAjVRT.jpg",
+          "id_str": "1972705745998094336",
+          "id": "1972705745998094336",
+          "media_url_https": "https://pbs.twimg.com/media/G2B1bJSWoAAjVRT.jpg",
+          "sizes": {
+            "large": {
+              "w": "1522",
+              "h": "1224",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "965",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "547",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0fVy2Bgv47"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1972697066439594495",
+    "id_str": "1972705879645401295",
+    "in_reply_to_user_id": "25422302",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1972705879645401295",
+    "in_reply_to_status_id": "1972697066439594495",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 29 16:51:47 +0000 2025",
+    "favorited": false,
+    "full_text": "@Liv_Boeree @eshear Loved the episode.\n\nHere are the pieces you were both looking for. https://t.co/0fVy2Bgv47",
+    "lang": "en",
+    "in_reply_to_screen_name": "Liv_Boeree",
+    "in_reply_to_user_id_str": "25422302",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972705879645401295/photo/1",
+          "indices": [
+            "87",
+            "110"
+          ],
+          "url": "https://t.co/0fVy2Bgv47",
+          "media_url": "http://pbs.twimg.com/media/G2B1bJSWoAAjVRT.jpg",
+          "id_str": "1972705745998094336",
+          "id": "1972705745998094336",
+          "media_url_https": "https://pbs.twimg.com/media/G2B1bJSWoAAjVRT.jpg",
+          "sizes": {
+            "large": {
+              "w": "1522",
+              "h": "1224",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "965",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "547",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0fVy2Bgv47"
+        }
+      ]
+    }
+  }
+}

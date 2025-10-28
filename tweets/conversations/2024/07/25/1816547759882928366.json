@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1816547759882928366"
+        ],
+        "editableUntil": "2024-07-25T19:55:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jBXnyQFANG",
+          "expanded_url": "https://x.com/alexandr_wang/status/1816491442069782925",
+          "display_url": "x.com/alexandr_wang/…",
+          "indices": [
+            "148",
+            "171"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "171"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1816547758423126250",
+    "id_str": "1816547759882928366",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1816547759882928366",
+    "in_reply_to_status_id": "1816547758423126250",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 25 18:55:10 +0000 2024",
+    "favorited": false,
+    "full_text": "But the reality comes down to learning from self-referential data.\n\nIt's the same problem identified in this paper on learning from synthetic data:\nhttps://t.co/jBXnyQFANG",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

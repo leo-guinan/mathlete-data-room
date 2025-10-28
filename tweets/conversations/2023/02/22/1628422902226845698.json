@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1628422902226845698"
+        ],
+        "editableUntil": "2023-02-22T16:24:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Caspian Almerud",
+          "screen_name": "AlmerudCaspian",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "2999734180",
+          "id": "2999734180"
+        },
+        {
+          "name": "The All-In Podcast",
+          "screen_name": "theallinpod",
+          "indices": [
+            "16",
+            "28"
+          ],
+          "id_str": "1234260054368342016",
+          "id": "1234260054368342016"
+        },
+        {
+          "name": "Gary Vaynerchuk",
+          "screen_name": "garyvee",
+          "indices": [
+            "29",
+            "37"
+          ],
+          "id_str": "5768872",
+          "id": "5768872"
+        },
+        {
+          "name": "Tim Ferriss",
+          "screen_name": "tferriss",
+          "indices": [
+            "38",
+            "47"
+          ],
+          "id_str": "11740902",
+          "id": "11740902"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1628422702808571906",
+    "id_str": "1628422902226845698",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1628422902226845698",
+    "in_reply_to_status_id": "1628422702808571906",
+    "created_at": "Wed Feb 22 15:54:09 +0000 2023",
+    "favorited": false,
+    "full_text": "@AlmerudCaspian @theallinpod @garyvee @tferriss I need to start adding in some episodes of All In and Tim Ferriss. I've also been impressed with Gary Vee when I've listened to him being interviewed on other podcasts.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

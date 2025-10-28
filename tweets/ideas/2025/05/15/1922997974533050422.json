@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922997974533050422"
+        ],
+        "editableUntil": "2025-05-15T13:50:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://www.post-bridge.com\" rel=\"nofollow\">post bridge</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922997974533050422/photo/1",
+          "indices": [
+            "277",
+            "300"
+          ],
+          "url": "https://t.co/yzq1M5SpLi",
+          "media_url": "http://pbs.twimg.com/media/Gq_cdk2WQAAHW8h.jpg",
+          "id_str": "1922997966576435200",
+          "id": "1922997966576435200",
+          "media_url_https": "https://pbs.twimg.com/media/Gq_cdk2WQAAHW8h.jpg",
+          "sizes": {
+            "large": {
+              "w": "1198",
+              "h": "1596",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "901",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yzq1M5SpLi"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "2",
+    "id_str": "1922997974533050422",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922997974533050422",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 15 12:50:19 +0000 2025",
+    "favorited": false,
+    "full_text": "hot take: you don't need everyone to see you\nactual take: you need your people to ACTUALLY see you\n\nI call this the Single Community Principle™ and it shatters the entire foundation of how big tech builds social platforms.\n\nThis isn't just theory—it's working architecture:\n-… https://t.co/yzq1M5SpLi",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922997974533050422/photo/1",
+          "indices": [
+            "277",
+            "300"
+          ],
+          "url": "https://t.co/yzq1M5SpLi",
+          "media_url": "http://pbs.twimg.com/media/Gq_cdk2WQAAHW8h.jpg",
+          "id_str": "1922997966576435200",
+          "id": "1922997966576435200",
+          "media_url_https": "https://pbs.twimg.com/media/Gq_cdk2WQAAHW8h.jpg",
+          "sizes": {
+            "large": {
+              "w": "1198",
+              "h": "1596",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "901",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yzq1M5SpLi"
+        }
+      ]
+    }
+  }
+}

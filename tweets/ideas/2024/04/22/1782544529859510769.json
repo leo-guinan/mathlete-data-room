@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1782544529859510769"
+        ],
+        "editableUntil": "2024-04-22T23:58:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "200"
+    ],
+    "favorite_count": "0",
+    "id_str": "1782544529859510769",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1782544529859510769",
+    "created_at": "Mon Apr 22 22:58:28 +0000 2024",
+    "favorited": false,
+    "full_text": "Nothing like running into build issues after upgrading a dependency, so then you upgrade a bunch of other dependencies. That, of course, ends up identifying other problems that weren't flagged before.",
+    "lang": "en"
+  }
+}

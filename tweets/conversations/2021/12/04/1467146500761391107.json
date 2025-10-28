@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1467146500761391107"
+        ],
+        "editableUntil": "2021-12-04T15:59:18.702Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "steve jang",
+          "screen_name": "stevejang",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "13911852",
+          "id": "13911852"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1467146500761391107",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1467146500761391107",
+    "created_at": "Sat Dec 04 14:59:18 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @stevejang: my 4yo woke up too early at 4am which is rare. when asked if he needs anything, he said “no, i ran out of dreams”.  i keep t…",
+    "lang": "en"
+  }
+}

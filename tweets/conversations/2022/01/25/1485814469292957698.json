@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1485814469292957698"
+        ],
+        "editableUntil": "2022-01-25T04:19:09.234Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1485813625768062979",
+    "id_str": "1485814469292957698",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1485814469292957698",
+    "in_reply_to_status_id": "1485813625768062979",
+    "created_at": "Tue Jan 25 03:19:09 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @feathercrm And then things get really interesting when you start considering relationships among groups of people.\n\nOr 1 to many relationships.\n\nThat's why I'm trying to start with a focus on 1-1 relationships. Gets a lot more complicated after that lol",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

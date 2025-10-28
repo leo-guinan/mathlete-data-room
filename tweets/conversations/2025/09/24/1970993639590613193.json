@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1970993639590613193"
+        ],
+        "editableUntil": "2025-09-25T00:27:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jean-Marc Baketel Daecius",
+          "screen_name": "JMBDaecius",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1952435617104793600",
+          "id": "1952435617104793600"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970993639590613193/photo/1",
+          "indices": [
+            "12",
+            "35"
+          ],
+          "url": "https://t.co/ZPbul8k5lm",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/G1pgREJWQAA0MwL.jpg",
+          "id_str": "1970993633215004672",
+          "id": "1970993633215004672",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/G1pgREJWQAA0MwL.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZPbul8k5lm"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1970957112860881052",
+    "id_str": "1970993639590613193",
+    "in_reply_to_user_id": "1952435617104793600",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1970993639590613193",
+    "in_reply_to_status_id": "1970957112860881052",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 24 23:27:57 +0000 2025",
+    "favorited": false,
+    "full_text": "@JMBDaecius https://t.co/ZPbul8k5lm",
+    "lang": "qme",
+    "in_reply_to_screen_name": "JMBDaecius",
+    "in_reply_to_user_id_str": "1952435617104793600",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970993639590613193/photo/1",
+          "indices": [
+            "12",
+            "35"
+          ],
+          "url": "https://t.co/ZPbul8k5lm",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/G1pgREJWQAA0MwL.jpg",
+          "id_str": "1970993633215004672",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "140"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/G1pgREJWQAA0MwL.mp4"
+              }
+            ]
+          },
+          "id": "1970993633215004672",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/G1pgREJWQAA0MwL.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/ZPbul8k5lm"
+        }
+      ]
+    }
+  }
+}

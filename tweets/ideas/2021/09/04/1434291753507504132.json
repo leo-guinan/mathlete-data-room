@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1434291753507504132"
+        ],
+        "editableUntil": "2021-09-05T00:06:16.545Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/I9SFsvBrIX",
+          "expanded_url": "https://blog.feathercrm.io/introduction-to-feather-crm-b15be5f87fba?source=social.tw",
+          "display_url": "blog.feathercrm.io/introduction-t…",
+          "indices": [
+            "122",
+            "145"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "1",
+    "id_str": "1434291753507504132",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1434291753507504132",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 04 23:06:16 +0000 2021",
+    "favorited": false,
+    "full_text": "Started getting things written down. Here's a quick summary of @feathercrm \n\nI just published Introduction to Feather CRM https://t.co/I9SFsvBrIX",
+    "lang": "en"
+  }
+}

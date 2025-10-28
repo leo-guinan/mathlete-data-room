@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1426343513285877761"
+        ],
+        "editableUntil": "2021-08-14T01:42:48.405Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1426343513285877761/photo/1",
+          "indices": [
+            "135",
+            "158"
+          ],
+          "url": "https://t.co/7BfnLNJ7C4",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8tj2hYXMAkEA9s.jpg",
+          "id_str": "1426343495317532681",
+          "id": "1426343495317532681",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8tj2hYXMAkEA9s.jpg",
+          "sizes": {
+            "medium": {
+              "w": "600",
+              "h": "338",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "600",
+              "h": "338",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "600",
+              "h": "338",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7BfnLNJ7C4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "158"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1426341037375635459",
+    "id_str": "1426343513285877761",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1426343513285877761",
+    "in_reply_to_status_id": "1426341037375635459",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 14 00:42:48 +0000 2021",
+    "favorited": false,
+    "full_text": "@markyerkes1734 Ah, I see how it works now! You use magic to figure it out! \n\nI knew there had to be a trick to it that I was missing! https://t.co/7BfnLNJ7C4",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1426343513285877761/photo/1",
+          "indices": [
+            "135",
+            "158"
+          ],
+          "url": "https://t.co/7BfnLNJ7C4",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8tj2hYXMAkEA9s.jpg",
+          "id_str": "1426343495317532681",
+          "video_info": {
+            "aspect_ratio": [
+              "300",
+              "169"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/E8tj2hYXMAkEA9s.mp4"
+              }
+            ]
+          },
+          "id": "1426343495317532681",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8tj2hYXMAkEA9s.jpg",
+          "sizes": {
+            "medium": {
+              "w": "600",
+              "h": "338",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "600",
+              "h": "338",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "600",
+              "h": "338",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/7BfnLNJ7C4"
+        }
+      ]
+    }
+  }
+}

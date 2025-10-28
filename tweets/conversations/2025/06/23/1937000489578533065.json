@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1937000489578533065"
+        ],
+        "editableUntil": "2025-06-23T05:11:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HktogN4v4E",
+          "expanded_url": "https://x.com/leo_guinan/status/1937000274423627964",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "87",
+            "110"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1936945967577616694",
+    "id_str": "1937000489578533065",
+    "in_reply_to_user_id": "362189690",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1937000489578533065",
+    "in_reply_to_status_id": "1936945967577616694",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 23 04:11:19 +0000 2025",
+    "favorited": false,
+    "full_text": "@iamjasonlevin Well, here's something that should make it a little easier for you ;) \n\nhttps://t.co/HktogN4v4E",
+    "lang": "en",
+    "in_reply_to_screen_name": "iamjasonlevin",
+    "in_reply_to_user_id_str": "362189690"
+  }
+}

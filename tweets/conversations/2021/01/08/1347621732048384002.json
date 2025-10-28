@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347621732048384002"
+        ],
+        "editableUntil": "2021-01-08T20:10:33.178Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "The Hoarse Whisperer",
+          "screen_name": "TheRealHoarse",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "784575415457308672",
+          "id": "784575415457308672"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1347621732048384002",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347621732048384002",
+    "created_at": "Fri Jan 08 19:10:33 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @TheRealHoarse: (Warning: do not read while drinking anything)\n\nAccording to reports, a rioter who died in Wednesday’s storming of the C…",
+    "lang": "en"
+  }
+}

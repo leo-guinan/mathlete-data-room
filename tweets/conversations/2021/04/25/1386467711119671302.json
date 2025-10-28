@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1386467711119671302"
+        ],
+        "editableUntil": "2021-04-26T00:50:36.312Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Emmy",
+          "screen_name": "EmmySobieski",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1668526861",
+          "id": "1668526861"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1386467711119671302",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1386467711119671302",
+    "created_at": "Sun Apr 25 23:50:36 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @EmmySobieski: Power of play\n\n“In the beginner’s mind there are many possibilities,\n\nbut in the expert’s there are few”\n\n― Shunryu Suzuki",
+    "lang": "en"
+  }
+}

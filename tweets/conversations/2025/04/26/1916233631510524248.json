@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1916233631510524248"
+        ],
+        "editableUntil": "2025-04-26T21:51:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick",
+          "screen_name": "Nick_from_Texas",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1606842089861484547",
+          "id": "1606842089861484547"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "193"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1916232809271656460",
+    "id_str": "1916233631510524248",
+    "in_reply_to_user_id": "1606842089861484547",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1916233631510524248",
+    "in_reply_to_status_id": "1916232809271656460",
+    "created_at": "Sat Apr 26 20:51:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@Nick_from_Texas I was pretty shocked, honestly. I've been on here a long time, and I very rarely get blocked, because I do my best to engage in good faith with people. \n\n🤷‍♂️\n\nwhat can you do?",
+    "lang": "en",
+    "in_reply_to_screen_name": "Nick_from_Texas",
+    "in_reply_to_user_id_str": "1606842089861484547"
+  }
+}

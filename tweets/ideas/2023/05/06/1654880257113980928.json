@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1654880257113980928"
+        ],
+        "editableUntil": "2023-05-06T16:36:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "3",
+    "id_str": "1654880257113980928",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1654880257113980928",
+    "created_at": "Sat May 06 16:06:14 +0000 2023",
+    "favorited": false,
+    "full_text": "Refreshing myself on parallel processing in python. Had a chunk of tasks that when running individually, would take approximately 25 hours.\n\nThat was a good reason to run them concurrently. Set up my jupyter notebook to run them in 12 at a time and will see how it goes now.",
+    "lang": "en"
+  }
+}

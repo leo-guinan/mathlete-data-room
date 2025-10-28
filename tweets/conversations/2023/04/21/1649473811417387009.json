@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1649473811417387009"
+        ],
+        "editableUntil": "2023-04-21T18:32:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Steph Smith",
+          "screen_name": "stephsmithio",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "626691391",
+          "id": "626691391"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "219"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1649473242443452417",
+    "id_str": "1649473811417387009",
+    "in_reply_to_user_id": "626691391",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1649473811417387009",
+    "in_reply_to_status_id": "1649473242443452417",
+    "created_at": "Fri Apr 21 18:02:57 +0000 2023",
+    "favorited": false,
+    "full_text": "@stephsmithio I thought about building this, but I didn't want to hurt podcasters. \n\nInstead, I'm working on a way for them to have sponsors without them showing up in the audio.\n\nThink creator supporting search engine.",
+    "lang": "en",
+    "in_reply_to_screen_name": "stephsmithio",
+    "in_reply_to_user_id_str": "626691391"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1637224350322393088"
+        ],
+        "editableUntil": "2023-03-18T23:17:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1637224350322393088/photo/1",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/i4ILrauvUu",
+          "media_url": "http://pbs.twimg.com/media/FriW3cCWwAY2X_y.jpg",
+          "id_str": "1637224343712219142",
+          "id": "1637224343712219142",
+          "media_url_https": "https://pbs.twimg.com/media/FriW3cCWwAY2X_y.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/i4ILrauvUu"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "3",
+    "id_str": "1637224350322393088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1637224350322393088",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 18 22:47:57 +0000 2023",
+    "favorited": false,
+    "full_text": "I saw it. \n\nSo I had to buy it.\n\nAnd you know what?\n\nIt's pretty damn good. https://t.co/i4ILrauvUu",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1637224350322393088/photo/1",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/i4ILrauvUu",
+          "media_url": "http://pbs.twimg.com/media/FriW3cCWwAY2X_y.jpg",
+          "id_str": "1637224343712219142",
+          "id": "1637224343712219142",
+          "media_url_https": "https://pbs.twimg.com/media/FriW3cCWwAY2X_y.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/i4ILrauvUu"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1483888035754385408"
+        ],
+        "editableUntil": "2022-01-19T20:44:11.687Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "122"
+    ],
+    "favorite_count": "0",
+    "id_str": "1483888035754385408",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1483888035754385408",
+    "created_at": "Wed Jan 19 19:44:11 +0000 2022",
+    "favorited": false,
+    "full_text": "Spending time learning more about typeorm. \n\nI don't like the migration process as much as prisma. It's a bit more manual.",
+    "lang": "en"
+  }
+}

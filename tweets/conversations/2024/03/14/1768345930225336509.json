@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768345930225336509"
+        ],
+        "editableUntil": "2024-03-14T19:38:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1768344623477620844",
+    "id_str": "1768345930225336509",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768345930225336509",
+    "in_reply_to_status_id": "1768344623477620844",
+    "created_at": "Thu Mar 14 18:38:18 +0000 2024",
+    "favorited": false,
+    "full_text": "@hellostartupla Sadly, it wasn't. Just written by my autistic brain, haha (have actually noticed that us autists are more commonly confused with ChatGPT than most people realize).\n\nSeriously though, it's all system design. Once you know the inputs, you can create a system with the desired output",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

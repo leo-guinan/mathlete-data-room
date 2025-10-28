@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1688274843865579520"
+        ],
+        "editableUntil": "2023-08-06T20:44:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "3",
+    "id_str": "1688274843865579520",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1688274843865579520",
+    "created_at": "Sun Aug 06 19:44:24 +0000 2023",
+    "favorited": false,
+    "full_text": "Pro tip: If you are using an LLM and having trouble with it making up information, give it the option of saying \"I don't know\".\n\nWas just working on a test of answering a bunch of questions based on a knowledge base, and it just made up responses to the questions.\n\nBut after I…",
+    "lang": "en"
+  }
+}

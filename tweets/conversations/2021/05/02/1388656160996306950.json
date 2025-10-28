@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1388656160996306950"
+        ],
+        "editableUntil": "2021-05-02T01:46:43.422Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MBFYYSmqin",
+          "expanded_url": "https://youtu.be/uAELqjK-9N8",
+          "display_url": "youtu.be/uAELqjK-9N8",
+          "indices": [
+            "22",
+            "45"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "45"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1388656159754752003",
+    "id_str": "1388656160996306950",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1388656160996306950",
+    "in_reply_to_status_id": "1388656159754752003",
+    "possibly_sensitive": false,
+    "created_at": "Sun May 02 00:46:43 +0000 2021",
+    "favorited": false,
+    "full_text": "And my youtube video:\nhttps://t.co/MBFYYSmqin",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

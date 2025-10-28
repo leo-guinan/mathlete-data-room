@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1490724552057442305"
+        ],
+        "editableUntil": "2022-02-07T17:30:04.190Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Codo Sapien",
+          "screen_name": "Codosapiens",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1434980422543314949",
+          "id": "1434980422543314949"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "13",
+            "23"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qxyWjSHO7W",
+          "expanded_url": "https://x.com/leo_guinan/status/1490472042608668674?s=20&t=5mUtV56PqfY689XLYU9i8Q",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "66",
+            "89"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1490723791843971074",
+    "id_str": "1490724552057442305",
+    "in_reply_to_user_id": "1434980422543314949",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1490724552057442305",
+    "in_reply_to_status_id": "1490723791843971074",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 07 16:30:04 +0000 2022",
+    "favorited": false,
+    "full_text": "@Codosapiens @NotechAna Here you go! Let me know what you think!\n\nhttps://t.co/qxyWjSHO7W",
+    "lang": "en",
+    "in_reply_to_screen_name": "Codosapiens",
+    "in_reply_to_user_id_str": "1434980422543314949"
+  }
+}

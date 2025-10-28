@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1796344069809131577"
+        ],
+        "editableUntil": "2024-05-31T01:52:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Prisma Postgres",
+          "screen_name": "prisma",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "4924429943",
+          "id": "4924429943"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1796344069809131577/photo/1",
+          "indices": [
+            "8",
+            "31"
+          ],
+          "url": "https://t.co/91m2V4GGdq",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GO3lZA3WIAAGRGA.jpg",
+          "id_str": "1796344044282322944",
+          "id": "1796344044282322944",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GO3lZA3WIAAGRGA.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "344",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "344",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "500",
+              "h": "344",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/91m2V4GGdq"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "31"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1796274025674514753",
+    "id_str": "1796344069809131577",
+    "in_reply_to_user_id": "4924429943",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1796344069809131577",
+    "in_reply_to_status_id": "1796274025674514753",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 31 00:52:55 +0000 2024",
+    "favorited": false,
+    "full_text": "@prisma https://t.co/91m2V4GGdq",
+    "lang": "qme",
+    "in_reply_to_screen_name": "prisma",
+    "in_reply_to_user_id_str": "4924429943",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1796344069809131577/photo/1",
+          "indices": [
+            "8",
+            "31"
+          ],
+          "url": "https://t.co/91m2V4GGdq",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GO3lZA3WIAAGRGA.jpg",
+          "id_str": "1796344044282322944",
+          "video_info": {
+            "aspect_ratio": [
+              "125",
+              "86"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GO3lZA3WIAAGRGA.mp4"
+              }
+            ]
+          },
+          "id": "1796344044282322944",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GO3lZA3WIAAGRGA.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "344",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "344",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "500",
+              "h": "344",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/91m2V4GGdq"
+        }
+      ]
+    }
+  }
+}

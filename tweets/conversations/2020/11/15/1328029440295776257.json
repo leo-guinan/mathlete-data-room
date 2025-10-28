@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328029440295776257"
+        ],
+        "editableUntil": "2020-11-15T18:37:46.817Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Perell",
+          "screen_name": "david_perell",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "240049622",
+          "id": "240049622"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328029440295776257",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328029440295776257",
+    "created_at": "Sun Nov 15 17:37:46 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @david_perell: Information abundance, like all markets of abundance, are bad for the average person but great for a small number of peop…",
+    "lang": "en"
+  }
+}

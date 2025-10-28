@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359155417323089923"
+        ],
+        "editableUntil": "2021-02-09T16:01:18.033Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David R. Davis",
+          "screen_name": "DRDavisAuthor",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "473199465",
+          "id": "473199465"
+        },
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "15",
+            "29"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1359152209104109573",
+    "id_str": "1359155417323089923",
+    "in_reply_to_user_id": "473199465",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359155417323089923",
+    "in_reply_to_status_id": "1359152209104109573",
+    "created_at": "Tue Feb 09 15:01:18 +0000 2021",
+    "favorited": false,
+    "full_text": "@DRDavisAuthor @pioneerdotapp Thank you for the kind words! Greatly appreciated!",
+    "lang": "en",
+    "in_reply_to_screen_name": "DRDavisAuthor",
+    "in_reply_to_user_id_str": "473199465"
+  }
+}

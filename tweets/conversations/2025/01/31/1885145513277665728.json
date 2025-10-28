@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885145513277665728"
+        ],
+        "editableUntil": "2025-01-31T02:58:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "hermit the cat",
+          "screen_name": "hermittoday",
+          "indices": [
+            "17",
+            "29"
+          ],
+          "id_str": "1283000814043303936",
+          "id": "1283000814043303936"
+        },
+        {
+          "name": "Emmett Shear",
+          "screen_name": "eshear",
+          "indices": [
+            "30",
+            "37"
+          ],
+          "id_str": "905201",
+          "id": "905201"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "183"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1885141319930069064",
+    "id_str": "1885145513277665728",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885145513277665728",
+    "in_reply_to_status_id": "1885141319930069064",
+    "created_at": "Fri Jan 31 01:58:09 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @hermittoday @eshear I’d agree with that. \n\nRationalists look at linear trends from a place of knowledge and postrats look at possibilities from a place of curiosity.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

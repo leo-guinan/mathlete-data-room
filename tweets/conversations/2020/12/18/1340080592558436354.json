@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340080592558436354"
+        ],
+        "editableUntil": "2020-12-19T00:44:45.416Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kim Mangone’s Spirit",
+          "screen_name": "KimMangone",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1138886434478182401",
+          "id": "1138886434478182401"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "0",
+    "id_str": "1340080592558436354",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340080592558436354",
+    "created_at": "Fri Dec 18 23:44:45 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @KimMangone: Retweet if you never want to hear about Rudy Giuliani ever again.",
+    "lang": "en"
+  }
+}

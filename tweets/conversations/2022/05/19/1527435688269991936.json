@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527435688269991936"
+        ],
+        "editableUntil": "2022-05-20T00:17:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "m.dot.wavsz",
+          "screen_name": "dotWavsz",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1928171631085797376",
+          "id": "1928171631085797376"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "254"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1527400345126641664",
+    "id_str": "1527435688269991936",
+    "in_reply_to_user_id": "894994051698532352",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527435688269991936",
+    "in_reply_to_status_id": "1527400345126641664",
+    "created_at": "Thu May 19 23:47:01 +0000 2022",
+    "favorited": false,
+    "full_text": "@dotwavsz Good points, thanks.\n\nSomething to think about. The problem with autonomously doing things is that people will game the system. \n\nThat's why permissionless systems smell off to me. There need to be humans involved in systems that affect humans.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mikewawszczak",
+    "in_reply_to_user_id_str": "894994051698532352"
+  }
+}

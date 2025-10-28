@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1445704438061142016"
+        ],
+        "editableUntil": "2021-10-06T11:56:12.580Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445523434461556737/photo/1",
+          "source_status_id": "1445523434461556737",
+          "indices": [
+            "115",
+            "138"
+          ],
+          "url": "https://t.co/grTUetO8v3",
+          "media_url": "http://pbs.twimg.com/media/FA-H28mVgAIj50D.jpg",
+          "id_str": "1445523383458824194",
+          "source_user_id": "1325102346792218629",
+          "id": "1445523383458824194",
+          "media_url_https": "https://pbs.twimg.com/media/FA-H28mVgAIj50D.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1445523434461556737",
+          "display_url": "pic.x.com/grTUetO8v3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "0",
+    "id_str": "1445704438061142016",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1445704438061142016",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 06 10:56:12 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Love showing up to my son's soccer practice and seeing a pony. That was an unexpected treat today. https://t.co/grTUetO8v3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445523434461556737/photo/1",
+          "source_status_id": "1445523434461556737",
+          "indices": [
+            "115",
+            "138"
+          ],
+          "url": "https://t.co/grTUetO8v3",
+          "media_url": "http://pbs.twimg.com/media/FA-H28mVgAIj50D.jpg",
+          "id_str": "1445523383458824194",
+          "source_user_id": "1325102346792218629",
+          "id": "1445523383458824194",
+          "media_url_https": "https://pbs.twimg.com/media/FA-H28mVgAIj50D.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1445523434461556737",
+          "display_url": "pic.x.com/grTUetO8v3"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445523434461556737/photo/1",
+          "source_status_id": "1445523434461556737",
+          "indices": [
+            "115",
+            "138"
+          ],
+          "url": "https://t.co/grTUetO8v3",
+          "media_url": "http://pbs.twimg.com/media/FA-H4gzVQAMCj6j.jpg",
+          "id_str": "1445523410356879363",
+          "source_user_id": "1325102346792218629",
+          "id": "1445523410356879363",
+          "media_url_https": "https://pbs.twimg.com/media/FA-H4gzVQAMCj6j.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1445523434461556737",
+          "display_url": "pic.x.com/grTUetO8v3"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1972706253752193486"
+        ],
+        "editableUntil": "2025-09-29T17:53:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972706253752193486/photo/1",
+          "indices": [
+            "55",
+            "78"
+          ],
+          "url": "https://t.co/xgi4BWXlF0",
+          "media_url": "http://pbs.twimg.com/media/G2B10XlXoAAaok8.jpg",
+          "id_str": "1972706179332677632",
+          "id": "1972706179332677632",
+          "media_url_https": "https://pbs.twimg.com/media/G2B10XlXoAAaok8.jpg",
+          "sizes": {
+            "large": {
+              "w": "1522",
+              "h": "1224",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "965",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "547",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xgi4BWXlF0"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "78"
+    ],
+    "favorite_count": "1",
+    "id_str": "1972706253752193486",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1972706253752193486",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 29 16:53:16 +0000 2025",
+    "favorited": false,
+    "full_text": "Here's everything wrapped up together. It's beautiful. https://t.co/xgi4BWXlF0",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972706253752193486/photo/1",
+          "indices": [
+            "55",
+            "78"
+          ],
+          "url": "https://t.co/xgi4BWXlF0",
+          "media_url": "http://pbs.twimg.com/media/G2B10XlXoAAaok8.jpg",
+          "id_str": "1972706179332677632",
+          "id": "1972706179332677632",
+          "media_url_https": "https://pbs.twimg.com/media/G2B10XlXoAAaok8.jpg",
+          "sizes": {
+            "large": {
+              "w": "1522",
+              "h": "1224",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "965",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "547",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xgi4BWXlF0"
+        }
+      ]
+    }
+  }
+}

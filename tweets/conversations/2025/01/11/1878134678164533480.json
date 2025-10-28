@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1878134678164533480"
+        ],
+        "editableUntil": "2025-01-11T18:39:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rob hardy",
+          "screen_name": "ungatedlife",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "532970397",
+          "id": "532970397"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1878130013037293939",
+    "id_str": "1878134678164533480",
+    "in_reply_to_user_id": "532970397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1878134678164533480",
+    "in_reply_to_status_id": "1878130013037293939",
+    "created_at": "Sat Jan 11 17:39:35 +0000 2025",
+    "favorited": false,
+    "full_text": "@ungatedlife It’s amazing to see all sorts of people get to discover this joy I have when coding. Or at least, the joy I used to have. That got corrupted when I had to code for money. \n\nThe fun is coming back in",
+    "lang": "en",
+    "in_reply_to_screen_name": "ungatedlife",
+    "in_reply_to_user_id_str": "532970397"
+  }
+}

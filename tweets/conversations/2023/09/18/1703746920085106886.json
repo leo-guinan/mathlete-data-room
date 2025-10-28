@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1703746920085106886"
+        ],
+        "editableUntil": "2023-09-18T13:24:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sean Kaye",
+          "screen_name": "SeanDoesLife",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1617862370730332161",
+          "id": "1617862370730332161"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1666650550354735106",
+    "id_str": "1703746920085106886",
+    "in_reply_to_user_id": "1617862370730332161",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1703746920085106886",
+    "in_reply_to_status_id": "1666650550354735106",
+    "created_at": "Mon Sep 18 12:24:54 +0000 2023",
+    "favorited": false,
+    "full_text": "@SeanDoesLife I've given this quite a bit (probably way too much, honestly) of thought, and here's my theory:\n\nif you are optimizing for follower count, there's no incentive to share highly actionable, specific advice or insight. \n\nBecause that will apply to only a very specific subset of…",
+    "lang": "en",
+    "in_reply_to_screen_name": "SeanDoesLife",
+    "in_reply_to_user_id_str": "1617862370730332161"
+  }
+}

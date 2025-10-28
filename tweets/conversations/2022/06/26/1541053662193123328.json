@@ -1,0 +1,253 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1541053662193123328"
+        ],
+        "editableUntil": "2022-06-26T14:09:59.116Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Sean Hastings",
+          "screen_name": "whysean",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "14876578",
+          "id": "14876578"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/whysean/status/1541043604394745856/photo/1",
+          "source_status_id": "1541043604394745856",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/FC7ECmFDQC",
+          "media_url": "http://pbs.twimg.com/media/FWLi1BSXEAAURhx.jpg",
+          "id_str": "1541043423020519424",
+          "source_user_id": "14876578",
+          "id": "1541043423020519424",
+          "media_url_https": "https://pbs.twimg.com/media/FWLi1BSXEAAURhx.jpg",
+          "source_user_id_str": "14876578",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "473",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1440",
+              "h": "567",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "268",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1541043604394745856",
+          "display_url": "pic.x.com/FC7ECmFDQC"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "0",
+    "id_str": "1541053662193123328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1541053662193123328",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 26 13:39:59 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @whysean: 🤣 https://t.co/FC7ECmFDQC",
+    "lang": "qme",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/whysean/status/1541043604394745856/photo/1",
+          "source_status_id": "1541043604394745856",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/FC7ECmFDQC",
+          "media_url": "http://pbs.twimg.com/media/FWLi1BSXEAAURhx.jpg",
+          "id_str": "1541043423020519424",
+          "source_user_id": "14876578",
+          "id": "1541043423020519424",
+          "media_url_https": "https://pbs.twimg.com/media/FWLi1BSXEAAURhx.jpg",
+          "source_user_id_str": "14876578",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "473",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1440",
+              "h": "567",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "268",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1541043604394745856",
+          "display_url": "pic.x.com/FC7ECmFDQC"
+        },
+        {
+          "expanded_url": "https://x.com/whysean/status/1541043604394745856/photo/1",
+          "source_status_id": "1541043604394745856",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/FC7ECmFDQC",
+          "media_url": "http://pbs.twimg.com/media/FWLi3tNXoAAs6rq.jpg",
+          "id_str": "1541043469170483200",
+          "source_user_id": "14876578",
+          "id": "1541043469170483200",
+          "media_url_https": "https://pbs.twimg.com/media/FWLi3tNXoAAs6rq.jpg",
+          "source_user_id_str": "14876578",
+          "sizes": {
+            "medium": {
+              "w": "747",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "424",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1276",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1541043604394745856",
+          "display_url": "pic.x.com/FC7ECmFDQC"
+        },
+        {
+          "expanded_url": "https://x.com/whysean/status/1541043604394745856/photo/1",
+          "source_status_id": "1541043604394745856",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/FC7ECmFDQC",
+          "media_url": "http://pbs.twimg.com/media/FWLi57BWQAE9jLv.jpg",
+          "id_str": "1541043507237896193",
+          "source_user_id": "14876578",
+          "id": "1541043507237896193",
+          "media_url_https": "https://pbs.twimg.com/media/FWLi57BWQAE9jLv.jpg",
+          "source_user_id_str": "14876578",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "664",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "376",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1440",
+              "h": "797",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1541043604394745856",
+          "display_url": "pic.x.com/FC7ECmFDQC"
+        },
+        {
+          "expanded_url": "https://x.com/whysean/status/1541043604394745856/photo/1",
+          "source_status_id": "1541043604394745856",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/FC7ECmFDQC",
+          "media_url": "http://pbs.twimg.com/media/FWLi9FiXwAYR2Dy.jpg",
+          "id_str": "1541043561600368646",
+          "source_user_id": "14876578",
+          "id": "1541043561600368646",
+          "media_url_https": "https://pbs.twimg.com/media/FWLi9FiXwAYR2Dy.jpg",
+          "source_user_id_str": "14876578",
+          "sizes": {
+            "large": {
+              "w": "1440",
+              "h": "633",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "299",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "528",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1541043604394745856",
+          "display_url": "pic.x.com/FC7ECmFDQC"
+        }
+      ]
+    }
+  }
+}

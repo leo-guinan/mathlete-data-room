@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1658842499475972096"
+        ],
+        "editableUntil": "2023-05-17T15:00:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fokL9YqXEO",
+          "expanded_url": "https://link.chtbl.com/URMw284T",
+          "display_url": "link.chtbl.com/URMw284T",
+          "indices": [
+            "169",
+            "192"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "192"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1658834571712970752",
+    "id_str": "1658842499475972096",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1658842499475972096",
+    "in_reply_to_status_id": "1658834571712970752",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 17 14:30:46 +0000 2023",
+    "favorited": false,
+    "full_text": "@p_millerd Want to hear how people are scaling themselves in today's world?\n\nListen to my chats with incredible people doing incredible things on How To Scale Yourself:\nhttps://t.co/fokL9YqXEO",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

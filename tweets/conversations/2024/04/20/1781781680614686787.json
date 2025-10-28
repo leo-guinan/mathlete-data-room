@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1781781680614686787"
+        ],
+        "editableUntil": "2024-04-20T21:27:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adam",
+          "screen_name": "adamc0dez",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1500427684484112384",
+          "id": "1500427684484112384"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iEIDTJDvav",
+          "expanded_url": "https://neon.tech/",
+          "display_url": "neon.tech",
+          "indices": [
+            "21",
+            "44"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1781778555745013920",
+    "id_str": "1781781680614686787",
+    "in_reply_to_user_id": "1500427684484112384",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1781781680614686787",
+    "in_reply_to_status_id": "1781778555745013920",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 20 20:27:11 +0000 2024",
+    "favorited": false,
+    "full_text": "@adamc0dez Check out https://t.co/iEIDTJDvav",
+    "lang": "en",
+    "in_reply_to_screen_name": "adamc0dez",
+    "in_reply_to_user_id_str": "1500427684484112384"
+  }
+}

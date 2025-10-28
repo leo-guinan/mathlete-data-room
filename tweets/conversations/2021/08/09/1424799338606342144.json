@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1424799338606342144"
+        ],
+        "editableUntil": "2021-08-09T19:26:48.472Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "257"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1424794556785119236",
+    "id_str": "1424799338606342144",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1424799338606342144",
+    "in_reply_to_status_id": "1424794556785119236",
+    "created_at": "Mon Aug 09 18:26:48 +0000 2021",
+    "favorited": false,
+    "full_text": "@StroutMotivateU 👋 I'm Leo.\n\nI recently launched and shut down my first startup.\n\nNow, I'm spreading the good news of automation. I'm running my first cohort of my automation course, Supercharge Your Time, in September.\n\nI'm also building out a Twitter CRM.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

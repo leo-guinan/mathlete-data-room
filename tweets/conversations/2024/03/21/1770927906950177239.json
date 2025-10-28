@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1770927906950177239"
+        ],
+        "editableUntil": "2024-03-21T22:38:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1770927906950177239/photo/1",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/bffyrKeiGI",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GJOZiv3XMAALULJ.jpg",
+          "id_str": "1770927900730011648",
+          "id": "1770927900730011648",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GJOZiv3XMAALULJ.jpg",
+          "sizes": {
+            "large": {
+              "w": "300",
+              "h": "188",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "300",
+              "h": "188",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "300",
+              "h": "188",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bffyrKeiGI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1770926752199585829",
+    "id_str": "1770927906950177239",
+    "in_reply_to_user_id": "362189690",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1770927906950177239",
+    "in_reply_to_status_id": "1770926752199585829",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 21 21:38:09 +0000 2024",
+    "favorited": false,
+    "full_text": "@iamjasonlevin https://t.co/bffyrKeiGI",
+    "lang": "qme",
+    "in_reply_to_screen_name": "iamjasonlevin",
+    "in_reply_to_user_id_str": "362189690",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1770927906950177239/photo/1",
+          "indices": [
+            "15",
+            "38"
+          ],
+          "url": "https://t.co/bffyrKeiGI",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GJOZiv3XMAALULJ.jpg",
+          "id_str": "1770927900730011648",
+          "video_info": {
+            "aspect_ratio": [
+              "75",
+              "47"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GJOZiv3XMAALULJ.mp4"
+              }
+            ]
+          },
+          "id": "1770927900730011648",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GJOZiv3XMAALULJ.jpg",
+          "sizes": {
+            "large": {
+              "w": "300",
+              "h": "188",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "300",
+              "h": "188",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "300",
+              "h": "188",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/bffyrKeiGI"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1512902373198413826"
+        ],
+        "editableUntil": "2022-04-09T22:16:48.794Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dani Donovan 👩🏻‍🎨 ADHD Comics",
+          "screen_name": "danidonovan",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "16269197",
+          "id": "16269197"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "0",
+    "id_str": "1512902373198413826",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1512902373198413826",
+    "created_at": "Sat Apr 09 21:16:48 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @danidonovan: the ADHD urge to use parenthesis in every sentence (because every thought comes with additional bonus content)",
+    "lang": "en"
+  }
+}

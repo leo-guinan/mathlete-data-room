@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519135662292844544"
+        ],
+        "editableUntil": "2022-04-27T02:35:40.723Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        },
+        {
+          "name": "Jordan Cain",
+          "screen_name": "odd_enough",
+          "indices": [
+            "9",
+            "20"
+          ],
+          "id_str": "1873460176310710272",
+          "id": "1873460176310710272"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "43"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1519133325948035074",
+    "id_str": "1519135662292844544",
+    "in_reply_to_user_id": "45603991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1519135662292844544",
+    "in_reply_to_status_id": "1519133325948035074",
+    "created_at": "Wed Apr 27 02:05:40 +0000 2022",
+    "favorited": false,
+    "full_text": "@AndyM84 @odd_enough Haha, that's awesome!😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "AndyM84",
+    "in_reply_to_user_id_str": "45603991"
+  }
+}

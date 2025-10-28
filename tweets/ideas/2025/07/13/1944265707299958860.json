@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1944265707299958860"
+        ],
+        "editableUntil": "2025-07-13T06:20:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944265707299958860/photo/1",
+          "indices": [
+            "256",
+            "279"
+          ],
+          "url": "https://t.co/luOwofvQpm",
+          "media_url": "http://pbs.twimg.com/media/Gvtpd5NX0AAIhvU.jpg",
+          "id_str": "1944263626434531328",
+          "id": "1944263626434531328",
+          "media_url_https": "https://pbs.twimg.com/media/Gvtpd5NX0AAIhvU.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "353",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "622",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1062",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/luOwofvQpm"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "2",
+    "id_str": "1944265707299958860",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1944265707299958860",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 13 05:20:41 +0000 2025",
+    "favorited": false,
+    "full_text": "Let's see if there's any interest in an Internet 2.0 wearable.\n\nBased on my research into trust harmonics, it looks like I'll be able to deliver a device that will help you connect with the people around you by helping your heart rate variability sync up. https://t.co/luOwofvQpm",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944265707299958860/photo/1",
+          "indices": [
+            "256",
+            "279"
+          ],
+          "url": "https://t.co/luOwofvQpm",
+          "media_url": "http://pbs.twimg.com/media/Gvtpd5NX0AAIhvU.jpg",
+          "id_str": "1944263626434531328",
+          "id": "1944263626434531328",
+          "media_url_https": "https://pbs.twimg.com/media/Gvtpd5NX0AAIhvU.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "353",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "622",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1062",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/luOwofvQpm"
+        }
+      ]
+    }
+  }
+}

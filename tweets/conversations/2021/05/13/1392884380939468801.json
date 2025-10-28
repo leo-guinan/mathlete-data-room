@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1392884380939468801"
+        ],
+        "editableUntil": "2021-05-13T17:48:09.613Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ask ADHD",
+          "screen_name": "AskADHD",
+          "indices": [
+            "16",
+            "24"
+          ],
+          "id_str": "1249961238815076352",
+          "id": "1249961238815076352"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "236"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1392883058961956865",
+    "id_str": "1392884380939468801",
+    "in_reply_to_user_id": "703307605515640832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1392884380939468801",
+    "in_reply_to_status_id": "1392883058961956865",
+    "created_at": "Thu May 13 16:48:09 +0000 2021",
+    "favorited": false,
+    "full_text": "@amboinreallife @AskADHD Let me know how it goes! I'm giving a presentation on Tuesday about how to create a more inclusive environment for neurodiverse employees. Would love to hear stories about employers accommodating their employees",
+    "lang": "en",
+    "in_reply_to_screen_name": "adhd_beans",
+    "in_reply_to_user_id_str": "703307605515640832"
+  }
+}

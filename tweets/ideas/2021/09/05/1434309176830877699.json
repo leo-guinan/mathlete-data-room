@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1434309176830877699"
+        ],
+        "editableUntil": "2021-09-05T01:15:30.589Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lnPgTYOZYW",
+          "expanded_url": "https://x.com/leo_guinan/status/1434291753507504132?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "108",
+            "131"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "1",
+    "id_str": "1434309176830877699",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1434309176830877699",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 05 00:15:30 +0000 2021",
+    "favorited": false,
+    "full_text": "Testing something. I want to look at impressions of tweets with link to tweet vs tweet with external link.\n\nhttps://t.co/lnPgTYOZYW",
+    "lang": "en"
+  }
+}

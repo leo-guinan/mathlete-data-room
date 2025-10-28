@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930622030325383607"
+        ],
+        "editableUntil": "2025-06-05T14:45:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930622030325383607/photo/1",
+          "indices": [
+            "229",
+            "252"
+          ],
+          "url": "https://t.co/Prjtbl3rCT",
+          "media_url": "http://pbs.twimg.com/media/GsryLWVWYAA2ku9.jpg",
+          "id_str": "1930621667069288448",
+          "id": "1930621667069288448",
+          "media_url_https": "https://pbs.twimg.com/media/GsryLWVWYAA2ku9.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "996",
+              "h": "410",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "996",
+              "h": "410",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Prjtbl3rCT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "2",
+    "id_str": "1930622030325383607",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930622030325383607",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 13:45:35 +0000 2025",
+    "favorited": false,
+    "full_text": "Cool. This is a totally normal and healthy reaction for our economic systems to cause in people right?\n\nSurely there can't be any weird psychological ramifications that the UK might exhibit in their economy because of this shit? https://t.co/Prjtbl3rCT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930622030325383607/photo/1",
+          "indices": [
+            "229",
+            "252"
+          ],
+          "url": "https://t.co/Prjtbl3rCT",
+          "media_url": "http://pbs.twimg.com/media/GsryLWVWYAA2ku9.jpg",
+          "id_str": "1930621667069288448",
+          "id": "1930621667069288448",
+          "media_url_https": "https://pbs.twimg.com/media/GsryLWVWYAA2ku9.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "996",
+              "h": "410",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "996",
+              "h": "410",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Prjtbl3rCT"
+        }
+      ]
+    }
+  }
+}

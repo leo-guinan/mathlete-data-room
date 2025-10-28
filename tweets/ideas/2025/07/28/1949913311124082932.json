@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1949913311124082932"
+        ],
+        "editableUntil": "2025-07-28T20:22:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1949913311124082932/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/AqTJwpBisn",
+          "media_url": "http://pbs.twimg.com/media/Gw963RDXQAAFfOP.jpg",
+          "id_str": "1949912253563617280",
+          "id": "1949912253563617280",
+          "media_url_https": "https://pbs.twimg.com/media/Gw963RDXQAAFfOP.jpg",
+          "sizes": {
+            "large": {
+              "w": "1726",
+              "h": "1232",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "857",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "485",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/AqTJwpBisn"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "305"
+    ],
+    "favorite_count": "2",
+    "id_str": "1949913311124082932",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1949913311124082932",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 28 19:22:15 +0000 2025",
+    "favorited": false,
+    "full_text": "Working on my lead scoring for Let Leo Do It For You.\n\nIf you fit this all of this criteria except the budget, let me know. \n\nI want to find a couple of people to help for free to get some social proof for the page, so here's your chance to get the help for free and a shoutout on… https://t.co/AqTJwpBisn",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1949913311124082932/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/AqTJwpBisn",
+          "media_url": "http://pbs.twimg.com/media/Gw963RDXQAAFfOP.jpg",
+          "id_str": "1949912253563617280",
+          "id": "1949912253563617280",
+          "media_url_https": "https://pbs.twimg.com/media/Gw963RDXQAAFfOP.jpg",
+          "sizes": {
+            "large": {
+              "w": "1726",
+              "h": "1232",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "857",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "485",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/AqTJwpBisn"
+        }
+      ]
+    }
+  }
+}

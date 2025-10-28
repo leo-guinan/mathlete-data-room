@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1580201033543733249"
+        ],
+        "editableUntil": "2022-10-12T14:47:39.769Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/dagorenouf/status/1579856211201372166/photo/1",
+          "source_status_id": "1579856211201372166",
+          "indices": [
+            "61",
+            "84"
+          ],
+          "url": "https://t.co/YFUuzwlgqD",
+          "media_url": "http://pbs.twimg.com/media/FezG2TkXEAEk-sb.jpg",
+          "id_str": "1579856205568217089",
+          "source_user_id": "991657337747394561",
+          "id": "1579856205568217089",
+          "media_url_https": "https://pbs.twimg.com/media/FezG2TkXEAEk-sb.jpg",
+          "source_user_id_str": "991657337747394561",
+          "sizes": {
+            "small": {
+              "w": "548",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "968",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1579856211201372166",
+          "display_url": "pic.x.com/YFUuzwlgqD"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "0",
+    "id_str": "1580201033543733249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1580201033543733249",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 12 14:17:39 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @dagorenouf: Dev startup founders are a different breed 😬 https://t.co/YFUuzwlgqD",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/dagorenouf/status/1579856211201372166/photo/1",
+          "source_status_id": "1579856211201372166",
+          "indices": [
+            "61",
+            "84"
+          ],
+          "url": "https://t.co/YFUuzwlgqD",
+          "media_url": "http://pbs.twimg.com/media/FezG2TkXEAEk-sb.jpg",
+          "id_str": "1579856205568217089",
+          "source_user_id": "991657337747394561",
+          "id": "1579856205568217089",
+          "media_url_https": "https://pbs.twimg.com/media/FezG2TkXEAEk-sb.jpg",
+          "source_user_id_str": "991657337747394561",
+          "sizes": {
+            "small": {
+              "w": "548",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "968",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1579856211201372166",
+          "display_url": "pic.x.com/YFUuzwlgqD"
+        }
+      ]
+    }
+  }
+}

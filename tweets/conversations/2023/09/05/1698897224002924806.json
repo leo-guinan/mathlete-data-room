@@ -1,0 +1,166 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1698897224002924806"
+        ],
+        "editableUntil": "2023-09-05T04:13:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "4",
+            "16"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjoF1",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "203",
+            "226"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1698897224002924806/video/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/yNIjtVDpG3",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1698897040736911360/pu/img/lHX2JwOsQnLN1I0n.jpg",
+          "id_str": "1698897040736911360",
+          "id": "1698897040736911360",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1698897040736911360/pu/img/lHX2JwOsQnLN1I0n.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "750",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "425",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1728",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yNIjtVDpG3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "299"
+    ],
+    "favorite_count": "3",
+    "id_str": "1698897224002924806",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1698897224002924806",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 05 03:13:56 +0000 2023",
+    "favorited": false,
+    "full_text": "Hey @_buildspace fam! Do you have trouble keeping track of what's going on with your project? Is it hard to remember the wins and losses because the days go by so fast?\n\nThat's where the new feature for https://t.co/KphsBfjoF1 comes in. Simply opt-in to receive daily emails… https://t.co/yNIjtVDpG3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1698897224002924806/video/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/yNIjtVDpG3",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1698897040736911360/pu/img/lHX2JwOsQnLN1I0n.jpg",
+          "id_str": "1698897040736911360",
+          "video_info": {
+            "aspect_ratio": [
+              "8",
+              "5"
+            ],
+            "duration_millis": "95700",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1698897040736911360/pu/pl/8oWs95nE5JoMs8A3.m3u8?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1698897040736911360/pu/vid/576x360/p_JlALjp6d42lxdX.mp4?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1698897040736911360/pu/vid/432x270/tgSemrN0Q55Trdl2.mp4?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1698897040736911360/pu/vid/1152x720/4jmUNDZ6bxXje92h.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1698897040736911360",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1698897040736911360/pu/img/lHX2JwOsQnLN1I0n.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "750",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "425",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1728",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/yNIjtVDpG3"
+        }
+      ]
+    }
+  }
+}

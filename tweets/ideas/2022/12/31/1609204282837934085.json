@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1609204282837934085"
+        ],
+        "editableUntil": "2022-12-31T15:36:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "1",
+    "id_str": "1609204282837934085",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1609204282837934085",
+    "created_at": "Sat Dec 31 15:06:13 +0000 2022",
+    "favorited": false,
+    "full_text": "Didn't quite get the changes released yesterday, should get them out today, but made some changes to the way I create the account summaries for Who Followed Me?.\n\nA bit more work but now I'll be able to more easily trace changes over time. And that opens up more possibilities.",
+    "lang": "en"
+  }
+}

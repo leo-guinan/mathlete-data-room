@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1818663019657691198"
+        ],
+        "editableUntil": "2024-07-31T16:00:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "23",
+            "35"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cr7tJaKnQ5",
+          "expanded_url": "https://x.com/TheBuilderJR/status/1818578221639909617",
+          "display_url": "x.com/TheBuilderJR/s…",
+          "indices": [
+            "141",
+            "164"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "2",
+    "id_str": "1818663019657691198",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1818663019657691198",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 31 15:00:27 +0000 2024",
+    "favorited": false,
+    "full_text": "Check out Telemetry on @ProductHunt!\n\nStarted using it a couple of days ago and have really been enjoying it. Has made my life a lot easier! https://t.co/cr7tJaKnQ5",
+    "lang": "en"
+  }
+}

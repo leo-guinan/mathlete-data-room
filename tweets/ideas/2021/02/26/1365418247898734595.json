@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1365418247898734595"
+        ],
+        "editableUntil": "2021-02-26T22:47:33.200Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1365418247898734595/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/HIfu6Iqfn3",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EvLwqBtXYAEf5uH.jpg",
+          "id_str": "1365418241850564609",
+          "id": "1365418241850564609",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvLwqBtXYAEf5uH.jpg",
+          "sizes": {
+            "medium": {
+              "w": "220",
+              "h": "158",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "158",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "158",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HIfu6Iqfn3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "0",
+    "id_str": "1365418247898734595",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1365418247898734595",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 26 21:47:33 +0000 2021",
+    "favorited": false,
+    "full_text": "Ever have a conversation with someone new that is completely different than what you expected but way better?\n\nI am feeling inspired right now... https://t.co/HIfu6Iqfn3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1365418247898734595/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/HIfu6Iqfn3",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EvLwqBtXYAEf5uH.jpg",
+          "id_str": "1365418241850564609",
+          "video_info": {
+            "aspect_ratio": [
+              "110",
+              "79"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EvLwqBtXYAEf5uH.mp4"
+              }
+            ]
+          },
+          "id": "1365418241850564609",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EvLwqBtXYAEf5uH.jpg",
+          "sizes": {
+            "medium": {
+              "w": "220",
+              "h": "158",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "158",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "158",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/HIfu6Iqfn3"
+        }
+      ]
+    }
+  }
+}

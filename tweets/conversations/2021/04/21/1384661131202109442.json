@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1384661131202109442"
+        ],
+        "editableUntil": "2021-04-21T01:11:54.095Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kyle Bowe",
+          "screen_name": "KyleBowe4",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1092300294849888258",
+          "id": "1092300294849888258"
+        },
+        {
+          "name": "Eric Jorgenson 📚 ☀️",
+          "screen_name": "EricJorgenson",
+          "indices": [
+            "11",
+            "25"
+          ],
+          "id_str": "14377979",
+          "id": "14377979"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "64"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1384660224406167552",
+    "id_str": "1384661131202109442",
+    "in_reply_to_user_id": "1092300294849888258",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1384661131202109442",
+    "in_reply_to_status_id": "1384660224406167552",
+    "created_at": "Wed Apr 21 00:11:54 +0000 2021",
+    "favorited": false,
+    "full_text": "@KyleBowe4 @EricJorgenson For sure. We'll set up a time to chat.",
+    "lang": "en",
+    "in_reply_to_screen_name": "KyleBowe4",
+    "in_reply_to_user_id_str": "1092300294849888258"
+  }
+}

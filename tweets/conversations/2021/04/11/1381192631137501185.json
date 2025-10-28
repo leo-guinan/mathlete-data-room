@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381192631137501185"
+        ],
+        "editableUntil": "2021-04-11T11:29:19.238Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dr Mehmet Yildiz",
+          "screen_name": "DigitalMehmet",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1229633724272132096",
+          "id": "1229633724272132096"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "76",
+            "87"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PrEpWvOZpl",
+          "expanded_url": "https://link.medium.com/84q6fm2Amfb",
+          "display_url": "link.medium.com/84q6fm2Amfb",
+          "indices": [
+            "88",
+            "111"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "0",
+    "id_str": "1381192631137501185",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381192631137501185",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 11 10:29:19 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @DigitalMehmet: Being Neurodivergent In A Neurotypical Business World by @leo_guinan https://t.co/PrEpWvOZpl",
+    "lang": "en"
+  }
+}

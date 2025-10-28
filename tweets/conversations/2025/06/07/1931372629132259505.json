@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931372629132259505"
+        ],
+        "editableUntil": "2025-06-07T16:28:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "4",
+            "20"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931372629132259505/photo/1",
+          "indices": [
+            "60",
+            "83"
+          ],
+          "url": "https://t.co/6CcdU5Lcud",
+          "media_url": "http://pbs.twimg.com/media/Gs2csy_XIAA5M1x.png",
+          "id_str": "1931372108627517440",
+          "id": "1931372108627517440",
+          "media_url_https": "https://pbs.twimg.com/media/Gs2csy_XIAA5M1x.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "657",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1624",
+              "h": "1570",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1160",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6CcdU5Lcud"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1931372626049446055",
+    "id_str": "1931372629132259505",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931372629132259505",
+    "in_reply_to_status_id": "1931372626049446055",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 07 15:28:12 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @DefenderOfBasic: it's alway's an organization problem. https://t.co/6CcdU5Lcud",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931372629132259505/photo/1",
+          "indices": [
+            "60",
+            "83"
+          ],
+          "url": "https://t.co/6CcdU5Lcud",
+          "media_url": "http://pbs.twimg.com/media/Gs2csy_XIAA5M1x.png",
+          "id_str": "1931372108627517440",
+          "id": "1931372108627517440",
+          "media_url_https": "https://pbs.twimg.com/media/Gs2csy_XIAA5M1x.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "657",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1624",
+              "h": "1570",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1160",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6CcdU5Lcud"
+        }
+      ]
+    }
+  }
+}

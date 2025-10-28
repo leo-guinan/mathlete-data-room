@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1677346558017150984"
+        ],
+        "editableUntil": "2023-07-07T16:59:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "48",
+            "64"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fuNo3raaqv",
+          "expanded_url": "http://Copy.ai",
+          "display_url": "Copy.ai",
+          "indices": [
+            "85",
+            "108"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "156"
+    ],
+    "favorite_count": "2",
+    "id_str": "1677346558017150984",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1677346558017150984",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 07 15:59:17 +0000 2023",
+    "favorited": false,
+    "full_text": "New Youtube video premiering in about an hour!\n\n@JustinAllingham and I work on using https://t.co/fuNo3raaqv and PlaygroundAI to generate a children's book!",
+    "lang": "en"
+  }
+}

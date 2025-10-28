@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334993081825943555"
+        ],
+        "editableUntil": "2020-12-04T23:48:48.336Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FreeRealityWinner",
+          "indices": [
+            "28",
+            "46"
+          ]
+        },
+        {
+          "text": "LiberateThisWhistleblower",
+          "indices": [
+            "67",
+            "93"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "HamillHimself",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "id_str": "1334993081825943555",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334993081825943555",
+    "created_at": "Fri Dec 04 22:48:48 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @HamillHimself: Today is #FreeRealityWinner day. \n\nPass it on.\n\n#LiberateThisWhistleblower",
+    "lang": "en"
+  }
+}

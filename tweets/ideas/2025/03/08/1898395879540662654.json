@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898395879540662654"
+        ],
+        "editableUntil": "2025-03-08T16:30:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VnYbh6Um93",
+          "expanded_url": "https://www.buildinpublicuniversity.com/first-principles-economics/",
+          "display_url": "buildinpublicuniversity.com/first-principl…",
+          "indices": [
+            "39",
+            "62"
+          ]
+        },
+        {
+          "url": "https://t.co/AtWFpDcHls",
+          "expanded_url": "https://x.com/JakeZegil/status/1898393508307701890",
+          "display_url": "x.com/JakeZegil/stat…",
+          "indices": [
+            "63",
+            "86"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "1",
+    "id_str": "1898395879540662654",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898395879540662654",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 15:30:22 +0000 2025",
+    "favorited": false,
+    "full_text": "Use memetic economics to price vibes.\n\nhttps://t.co/VnYbh6Um93 https://t.co/AtWFpDcHls",
+    "lang": "en"
+  }
+}

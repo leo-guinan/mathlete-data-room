@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515074060807516164"
+        ],
+        "editableUntil": "2022-04-15T21:36:19.468Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Yagudaev 🧑🏻‍💻🇨🇦",
+          "screen_name": "yagudaev",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "238023498",
+          "id": "238023498"
+        },
+        {
+          "name": "John Howard 🚀🌕",
+          "screen_name": "howardcjohn",
+          "indices": [
+            "10",
+            "22"
+          ],
+          "id_str": "16559034",
+          "id": "16559034"
+        },
+        {
+          "name": "Anthony Castrio",
+          "screen_name": "AnthonyCastrio",
+          "indices": [
+            "23",
+            "38"
+          ],
+          "id_str": "1309141400",
+          "id": "1309141400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "307"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1515070415697154048",
+    "id_str": "1515074060807516164",
+    "in_reply_to_user_id": "238023498",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1515074060807516164",
+    "in_reply_to_status_id": "1515070415697154048",
+    "created_at": "Fri Apr 15 21:06:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@yagudaev @howardcjohn @AnthonyCastrio Haha, yeah we definitely need a followup. Not enough time blocked for that convo.\n\nI'm building @feathercrm, so you might find that useful. Our episode will be part of the launch week for it so you'll be getting some info over the weekend 😂\n\nIt's a CRM, but different.",
+    "lang": "en",
+    "in_reply_to_screen_name": "yagudaev",
+    "in_reply_to_user_id_str": "238023498"
+  }
+}

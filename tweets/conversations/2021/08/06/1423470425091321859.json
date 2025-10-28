@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423470425091321859"
+        ],
+        "editableUntil": "2021-08-06T03:26:10.800Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Aaron Orendorff",
+          "screen_name": "AaronOrendorff",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "754272146",
+          "id": "754272146"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1423470425091321859/photo/1",
+          "indices": [
+            "33",
+            "56"
+          ],
+          "url": "https://t.co/lML9f0kDU5",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8EuzdNXsAEtkPn.jpg",
+          "id_str": "1423470418774700033",
+          "id": "1423470418774700033",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8EuzdNXsAEtkPn.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "266",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "266",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "266",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lML9f0kDU5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1423441310514511877",
+    "id_str": "1423470425091321859",
+    "in_reply_to_user_id": "754272146",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423470425091321859",
+    "in_reply_to_status_id": "1423441310514511877",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 06 02:26:10 +0000 2021",
+    "favorited": false,
+    "full_text": "@AaronOrendorff This is amazing! https://t.co/lML9f0kDU5",
+    "lang": "en",
+    "in_reply_to_screen_name": "AaronOrendorff",
+    "in_reply_to_user_id_str": "754272146",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1423470425091321859/photo/1",
+          "indices": [
+            "33",
+            "56"
+          ],
+          "url": "https://t.co/lML9f0kDU5",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8EuzdNXsAEtkPn.jpg",
+          "id_str": "1423470418774700033",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "133"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/E8EuzdNXsAEtkPn.mp4"
+              }
+            ]
+          },
+          "id": "1423470418774700033",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8EuzdNXsAEtkPn.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "266",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "266",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "266",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/lML9f0kDU5"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890837753186619797"
+        ],
+        "editableUntil": "2025-02-15T19:57:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Monteleone",
+          "screen_name": "trivenge",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "108926202",
+          "id": "108926202"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1890834884723102193",
+    "id_str": "1890837753186619797",
+    "in_reply_to_user_id": "108926202",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890837753186619797",
+    "in_reply_to_status_id": "1890834884723102193",
+    "created_at": "Sat Feb 15 18:57:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@trivenge Here's what devs get wrong: devs, by default, think in systems, so things all fit together in specific ways.\n\nNon-devs don't, typically. So there's a chaos to their actions, but they are actually in internally coherent system.\n\nTheir actions make sense within the context they…",
+    "lang": "en",
+    "in_reply_to_screen_name": "trivenge",
+    "in_reply_to_user_id_str": "108926202"
+  }
+}

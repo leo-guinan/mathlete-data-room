@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1356768101094850564"
+        ],
+        "editableUntil": "2021-02-03T01:54:57.490Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Trumpy Trumpy (parody)",
+          "screen_name": "outofcontroljb",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "52631277",
+          "id": "52631277"
+        },
+        {
+          "name": "Jason S. Campbell",
+          "screen_name": "JasonSCampbell",
+          "indices": [
+            "16",
+            "31"
+          ],
+          "id_str": "325716763",
+          "id": "325716763"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "143"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1356726504336547843",
+    "id_str": "1356768101094850564",
+    "in_reply_to_user_id": "52631277",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1356768101094850564",
+    "in_reply_to_status_id": "1356726504336547843",
+    "created_at": "Wed Feb 03 00:54:57 +0000 2021",
+    "favorited": false,
+    "full_text": "@outofcontroljb @JasonSCampbell I came here for the MyStraightjacket joke and I am leaving disappointed. I swore it would be in here somewhere.",
+    "lang": "en",
+    "in_reply_to_screen_name": "outofcontroljb",
+    "in_reply_to_user_id_str": "52631277"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1547652381378088964"
+        ],
+        "editableUntil": "2022-07-14T19:10:56.368Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/MindsetByDave/status/1547650297715036166/video/1",
+          "source_status_id": "1547650297715036166",
+          "indices": [
+            "72",
+            "95"
+          ],
+          "url": "https://t.co/p3q7o1eIGd",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547650189246095366/pu/img/kSv3n4KNsOk9_ORt.jpg",
+          "id_str": "1547650189246095366",
+          "source_user_id": "112397978",
+          "id": "1547650189246095366",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547650189246095366/pu/img/kSv3n4KNsOk9_ORt.jpg",
+          "source_user_id_str": "112397978",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1547650297715036166",
+          "display_url": "pic.x.com/p3q7o1eIGd"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "StreamerMentalHealth",
+          "indices": [
+            "50",
+            "71"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "95"
+    ],
+    "favorite_count": "0",
+    "id_str": "1547652381378088964",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1547652381378088964",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 14 18:40:56 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @MindsetByDave: Collaboration NOT Competition. #StreamerMentalHealth https://t.co/p3q7o1eIGd",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/MindsetByDave/status/1547650297715036166/video/1",
+          "source_status_id": "1547650297715036166",
+          "indices": [
+            "72",
+            "95"
+          ],
+          "url": "https://t.co/p3q7o1eIGd",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547650189246095366/pu/img/kSv3n4KNsOk9_ORt.jpg",
+          "id_str": "1547650189246095366",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "35477",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1547650189246095366/pu/vid/720x1280/mlxAXMBhfr0-jTv0.mp4?tag=12"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1547650189246095366/pu/vid/320x568/7hj28LWL8wHzg8Iw.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1547650189246095366/pu/pl/XNqkDX4Z4G2ierd6.m3u8?tag=12"
+              },
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1547650189246095366/pu/vid/480x852/l_JenL2lEvF0fJ30.mp4?tag=12"
+              }
+            ]
+          },
+          "source_user_id": "112397978",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1547650189246095366",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547650189246095366/pu/img/kSv3n4KNsOk9_ORt.jpg",
+          "source_user_id_str": "112397978",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1547650297715036166",
+          "display_url": "pic.x.com/p3q7o1eIGd"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491545968348696578"
+        ],
+        "editableUntil": "2022-02-09T23:54:05.095Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0eVYC1AkK4",
+          "expanded_url": "https://x.com/leo_guinan/status/1491545846005043205?s=20&t=2sXFzUHHJpX1fLtSvDsexQ",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "77",
+            "100"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1491545852988604422",
+    "id_str": "1491545968348696578",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1491545968348696578",
+    "in_reply_to_status_id": "1491545852988604422",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 09 22:54:05 +0000 2022",
+    "favorited": false,
+    "full_text": "If you liked this, help other people find it by retweeting the first tweet!\n\nhttps://t.co/0eVYC1AkK4",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929766638502502782"
+        ],
+        "editableUntil": "2025-06-03T06:06:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "brooke is at slutcon, say hi!",
+          "screen_name": "gptbrooke",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1283792798886408192",
+          "id": "1283792798886408192"
+        },
+        {
+          "name": "raye",
+          "screen_name": "recurrented",
+          "indices": [
+            "11",
+            "23"
+          ],
+          "id_str": "1447664766164500481",
+          "id": "1447664766164500481"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "24",
+            "40"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pt8BGtwllj",
+          "expanded_url": "https://x.com/leo_guinan/status/1928863208120422513",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "163",
+            "186"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "186"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1929682916378100102",
+    "id_str": "1929766638502502782",
+    "in_reply_to_user_id": "1283792798886408192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929766638502502782",
+    "in_reply_to_status_id": "1929682916378100102",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 03 05:06:34 +0000 2025",
+    "favorited": false,
+    "full_text": "@gptbrooke @recurrented @DefenderOfBasic Thank you! I can't wait, because it's where everything changes.\n\nThank you for creating this. It's exactly what I need. \n\nhttps://t.co/pt8BGtwllj",
+    "lang": "en",
+    "in_reply_to_screen_name": "gptbrooke",
+    "in_reply_to_user_id_str": "1283792798886408192"
+  }
+}

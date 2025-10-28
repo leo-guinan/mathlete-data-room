@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1592582910410121216"
+        ],
+        "editableUntil": "2022-11-15T18:48:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Araks Brand",
+          "screen_name": "Araks111",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3239016249",
+          "id": "3239016249"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EXa4t6ifcs",
+          "expanded_url": "https://youtu.be/x-7mie0bHno",
+          "display_url": "youtu.be/x-7mie0bHno",
+          "indices": [
+            "161",
+            "184"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1592571496794587136",
+    "id_str": "1592582910410121216",
+    "in_reply_to_user_id": "3239016249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1592582910410121216",
+    "in_reply_to_status_id": "1592571496794587136",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 15 18:18:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@Araks111 Thanks, I really appreciate that!\n\nI re-recorded the missing section and put it in, and got it uploaded, so here's a video on the evolution of money:\n\nhttps://t.co/EXa4t6ifcs\n\nLet me know what you think! I don't do a lot with how to manage money, but I might have some resources.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Araks111",
+    "in_reply_to_user_id_str": "3239016249"
+  }
+}

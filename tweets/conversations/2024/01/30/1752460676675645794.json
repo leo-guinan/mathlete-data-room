@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1752460676675645794"
+        ],
+        "editableUntil": "2024-01-30T23:35:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1752459922996900303",
+    "id_str": "1752460676675645794",
+    "in_reply_to_user_id": "183749519",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1752460676675645794",
+    "in_reply_to_status_id": "1752459922996900303",
+    "created_at": "Tue Jan 30 22:35:59 +0000 2024",
+    "favorited": false,
+    "full_text": "@paulg Love this approach. I do similar things with my kids. \n\nMemorization isn't understanding.",
+    "lang": "en",
+    "in_reply_to_screen_name": "paulg",
+    "in_reply_to_user_id_str": "183749519"
+  }
+}

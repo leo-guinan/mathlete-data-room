@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492537511549321219"
+        ],
+        "editableUntil": "2022-02-12T17:34:07.416Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "40",
+            "50"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N78FopOJj2",
+          "expanded_url": "https://boundless.substack.com/p/escaping-work-is-only-part-1-170?r=evblp&utm_campaign=post&utm_medium=email",
+          "display_url": "boundless.substack.com/p/escaping-wor…",
+          "indices": [
+            "51",
+            "74"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "4",
+    "id_str": "1492537511549321219",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1492537511549321219",
+    "possibly_sensitive": false,
+    "created_at": "Sat Feb 12 16:34:07 +0000 2022",
+    "favorited": false,
+    "full_text": "Escaping Work Is Only Part 1 | #170, by @p_millerd https://t.co/N78FopOJj2",
+    "lang": "en"
+  }
+}

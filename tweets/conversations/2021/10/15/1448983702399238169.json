@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1448983702399238169"
+        ],
+        "editableUntil": "2021-10-15T13:06:50.124Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aaron Smothers",
+          "screen_name": "SmothersAaron",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "906656137",
+          "id": "906656137"
+        },
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "15",
+            "25"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        },
+        {
+          "name": "Amanda Natividad",
+          "screen_name": "amandanat",
+          "indices": [
+            "26",
+            "36"
+          ],
+          "id_str": "14878237",
+          "id": "14878237"
+        },
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "45",
+            "60"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "174"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1448982938603823109",
+    "id_str": "1448983702399238169",
+    "in_reply_to_user_id": "906656137",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1448983702399238169",
+    "in_reply_to_status_id": "1448982938603823109",
+    "created_at": "Fri Oct 15 12:06:50 +0000 2021",
+    "favorited": false,
+    "full_text": "@SmothersAaron @bkh_leung @amandanat Ive got @markyerkes1734 to thank for the name.\n\nWay better than the one I started with lol.\n\nWhich I don't even remember at this point. 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "SmothersAaron",
+    "in_reply_to_user_id_str": "906656137"
+  }
+}

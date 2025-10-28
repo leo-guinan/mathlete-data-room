@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940141702317998590"
+        ],
+        "editableUntil": "2025-07-01T21:13:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "teo — e/acc",
+          "screen_name": "phteocos",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1006662812469485568",
+          "id": "1006662812469485568"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3xzL6hNRjP",
+          "expanded_url": "https://engineeringgenerosity.substack.com/p/july-4-is-when-we-celebrate-our-temporal",
+          "display_url": "engineeringgenerosity.substack.com/p/july-4-is-wh…",
+          "indices": [
+            "163",
+            "186"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1940141425317781692",
+    "id_str": "1940141702317998590",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940141702317998590",
+    "in_reply_to_status_id": "1940141425317781692",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 20:13:22 +0000 2025",
+    "favorited": false,
+    "full_text": "@phteocos All outlined in there, and how it's going to be set up. We're starting to build the tech behind everything now.\n\nAnd here's the human side of the story:\nhttps://t.co/3xzL6hNRjP\n\nWe need to celebrate the people doing the actual work on social media, and make it visible.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

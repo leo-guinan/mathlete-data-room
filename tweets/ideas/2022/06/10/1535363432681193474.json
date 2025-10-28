@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1535363432681193474"
+        ],
+        "editableUntil": "2022-06-10T21:19:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nJwmynkJdo",
+          "expanded_url": "https://twitch.tv/mindsetbydave",
+          "display_url": "twitch.tv/mindsetbydave",
+          "indices": [
+            "38",
+            "61"
+          ]
+        },
+        {
+          "url": "https://t.co/rjVGknZjyR",
+          "expanded_url": "https://x.com/MindsetByDave/status/1528081342587715584",
+          "display_url": "x.com/MindsetByDave/…",
+          "indices": [
+            "62",
+            "85"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "2",
+    "id_str": "1535363432681193474",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1535363432681193474",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 10 20:49:02 +0000 2022",
+    "favorited": false,
+    "full_text": "Getting ready to go live!\n\nJoin us at https://t.co/nJwmynkJdo https://t.co/rjVGknZjyR",
+    "lang": "en"
+  }
+}

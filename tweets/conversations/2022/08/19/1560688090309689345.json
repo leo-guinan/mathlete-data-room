@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1560688090309689345"
+        ],
+        "editableUntil": "2022-08-19T18:30:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Friend Content",
+          "screen_name": "friend_content",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1549521007370817536",
+          "id": "1549521007370817536"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "23"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1560688043207663616",
+    "id_str": "1560688090309689345",
+    "in_reply_to_user_id": "1549521007370817536",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1560688090309689345",
+    "in_reply_to_status_id": "1560688043207663616",
+    "created_at": "Fri Aug 19 18:00:11 +0000 2022",
+    "favorited": false,
+    "full_text": "@friend_content podcast",
+    "lang": "eu",
+    "in_reply_to_screen_name": "friend_content",
+    "in_reply_to_user_id_str": "1549521007370817536"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348308772314378241"
+        ],
+        "editableUntil": "2021-01-10T17:40:36.342Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brandon Brooks",
+          "screen_name": "OfficialBBrooks",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "929464603439923201",
+          "id": "929464603439923201"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HFOK0yy3JN",
+          "expanded_url": "https://x.com/kristin__wilson/status/1348297840779546627?s=19",
+          "display_url": "x.com/kristin__wilso…",
+          "indices": [
+            "17",
+            "40"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "40"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1348308509272760324",
+    "id_str": "1348308772314378241",
+    "in_reply_to_user_id": "929464603439923201",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348308772314378241",
+    "in_reply_to_status_id": "1348308509272760324",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jan 10 16:40:36 +0000 2021",
+    "favorited": false,
+    "full_text": "@OfficialBBrooks https://t.co/HFOK0yy3JN",
+    "lang": "qme",
+    "in_reply_to_screen_name": "OfficialBBrooks",
+    "in_reply_to_user_id_str": "929464603439923201"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1972367304433484000"
+        ],
+        "editableUntil": "2025-09-28T19:26:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alexis Ohanian 🗽",
+          "screen_name": "alexisohanian",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "811350",
+          "id": "811350"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "173"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1972291756676014188",
+    "id_str": "1972367304433484000",
+    "in_reply_to_user_id": "811350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1972367304433484000",
+    "in_reply_to_status_id": "1972291756676014188",
+    "created_at": "Sun Sep 28 18:26:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@alexisohanian Have you considered just offering it as a service? Can simply save them the time and even use it to beef up your LPs investments if you want to make it funny.",
+    "lang": "en",
+    "in_reply_to_screen_name": "alexisohanian",
+    "in_reply_to_user_id_str": "811350"
+  }
+}

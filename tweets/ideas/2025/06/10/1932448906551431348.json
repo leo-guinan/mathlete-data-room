@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932448906551431348"
+        ],
+        "editableUntil": "2025-06-10T15:44:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932448906551431348/photo/1",
+          "indices": [
+            "108",
+            "131"
+          ],
+          "url": "https://t.co/NN2Q1cp2Pb",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GtFwCVHWsAAljq-.jpg",
+          "id_str": "1932448900448694272",
+          "id": "1932448900448694272",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtFwCVHWsAAljq-.jpg",
+          "sizes": {
+            "small": {
+              "w": "220",
+              "h": "136",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "220",
+              "h": "136",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "136",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "136",
+              "h": "136",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NN2Q1cp2Pb"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "1",
+    "id_str": "1932448906551431348",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932448906551431348",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 10 14:44:57 +0000 2025",
+    "favorited": false,
+    "full_text": "Me, when I've got 17 chat windows open running queries and I'm out of questions until the answers come back https://t.co/NN2Q1cp2Pb",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932448906551431348/photo/1",
+          "indices": [
+            "108",
+            "131"
+          ],
+          "url": "https://t.co/NN2Q1cp2Pb",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GtFwCVHWsAAljq-.jpg",
+          "id_str": "1932448900448694272",
+          "video_info": {
+            "aspect_ratio": [
+              "55",
+              "34"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GtFwCVHWsAAljq-.mp4"
+              }
+            ]
+          },
+          "id": "1932448900448694272",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GtFwCVHWsAAljq-.jpg",
+          "sizes": {
+            "small": {
+              "w": "220",
+              "h": "136",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "220",
+              "h": "136",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "136",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "136",
+              "h": "136",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/NN2Q1cp2Pb"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1624424575026049024"
+        ],
+        "editableUntil": "2023-02-11T15:36:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "1",
+    "id_str": "1624424575026049024",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1624424575026049024",
+    "created_at": "Sat Feb 11 15:06:13 +0000 2023",
+    "favorited": false,
+    "full_text": "Busy weekend: trying to see how much of an app I can build. I've got the underlying data structures working, just need to put the UI on it, and that's my weaker skillset.\n\nI'm focusing on clean and simple as my goals. Basic functionality with minimal bells+whistles.",
+    "lang": "en"
+  }
+}

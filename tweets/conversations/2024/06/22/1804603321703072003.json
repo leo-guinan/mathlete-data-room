@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1804603321703072003"
+        ],
+        "editableUntil": "2024-06-22T20:52:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "RootSystem.VC",
+          "screen_name": "RootSystemVC",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1764800537848123392",
+          "id": "1764800537848123392"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1804602595144552628",
+    "id_str": "1804603321703072003",
+    "in_reply_to_user_id": "1764800537848123392",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1804603321703072003",
+    "in_reply_to_status_id": "1804602595144552628",
+    "created_at": "Sat Jun 22 19:52:14 +0000 2024",
+    "favorited": false,
+    "full_text": "@RootSystemVC That was my experience. I was fine where I was. Until I wasn't.\n\nWhen I realized I wasn't in control of my future, I vowed to get to the point where nobody could ever take anything away from me again. Still getting there, but that hunger won't ever leave me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "RootSystemVC",
+    "in_reply_to_user_id_str": "1764800537848123392"
+  }
+}

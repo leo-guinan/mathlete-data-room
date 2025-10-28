@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1614048926423977985"
+        ],
+        "editableUntil": "2023-01-14T00:27:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "59",
+            "73"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "93",
+            "105"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "112",
+            "123"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1614048926423977985/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/eXiusPcduf",
+          "media_url": "http://pbs.twimg.com/media/FmZAuDlXoAACpur.jpg",
+          "id_str": "1614048676439105536",
+          "id": "1614048676439105536",
+          "media_url_https": "https://pbs.twimg.com/media/FmZAuDlXoAACpur.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "515",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1550",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "908",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eXiusPcduf"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "29",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "3",
+    "id_str": "1614048926423977985",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1614048926423977985",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 13 23:57:06 +0000 2023",
+    "favorited": false,
+    "full_text": "Good way to end a wild week, #ADHDWithBenefits!\n\nFeaturing @MechiMansilla, @Up4thechalleng2, @UntappedKeg , and @LobowSpark!\n\nNot pictured, because she had to bounce before the pic, @DorseyMc! https://t.co/eXiusPcduf",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1614048926423977985/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/eXiusPcduf",
+          "media_url": "http://pbs.twimg.com/media/FmZAuDlXoAACpur.jpg",
+          "id_str": "1614048676439105536",
+          "id": "1614048676439105536",
+          "media_url_https": "https://pbs.twimg.com/media/FmZAuDlXoAACpur.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "515",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1550",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "908",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eXiusPcduf"
+        }
+      ]
+    }
+  }
+}

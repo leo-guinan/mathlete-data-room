@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1508905162047373315"
+        ],
+        "editableUntil": "2022-03-29T21:33:19.391Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "191"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1508792116717432837",
+    "id_str": "1508905162047373315",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1508905162047373315",
+    "in_reply_to_status_id": "1508792116717432837",
+    "created_at": "Tue Mar 29 20:33:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go My goal is to have more trust between myself and my kids than I have between myself and my parents.\n\nIt's tough when that trust doesn't build up over time. Relationships fade a bit.",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972"
+  }
+}

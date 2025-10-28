@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1927387356530721160"
+        ],
+        "editableUntil": "2025-05-27T16:32:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1927387356530721160/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/lzeLmDrHeC",
+          "media_url": "http://pbs.twimg.com/media/Gr90lUUWAAAk6SX.jpg",
+          "id_str": "1927387349995880448",
+          "id": "1927387349995880448",
+          "media_url_https": "https://pbs.twimg.com/media/Gr90lUUWAAAk6SX.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "593",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1614",
+              "h": "798",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "336",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lzeLmDrHeC"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "id_str": "1927387356530721160",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1927387356530721160",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 27 15:32:09 +0000 2025",
+    "favorited": false,
+    "full_text": "Another day in the soul catcher... https://t.co/lzeLmDrHeC",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1927387356530721160/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/lzeLmDrHeC",
+          "media_url": "http://pbs.twimg.com/media/Gr90lUUWAAAk6SX.jpg",
+          "id_str": "1927387349995880448",
+          "id": "1927387349995880448",
+          "media_url_https": "https://pbs.twimg.com/media/Gr90lUUWAAAk6SX.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "593",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1614",
+              "h": "798",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "336",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lzeLmDrHeC"
+        }
+      ]
+    }
+  }
+}

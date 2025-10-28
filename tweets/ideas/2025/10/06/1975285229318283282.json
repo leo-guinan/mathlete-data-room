@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1975285229318283282"
+        ],
+        "editableUntil": "2025-10-06T20:41:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1975285229318283282/photo/1",
+          "indices": [
+            "120",
+            "143"
+          ],
+          "url": "https://t.co/Qx4UINKQs7",
+          "media_url": "http://pbs.twimg.com/media/G2mcnMwXgAIs9Um.png",
+          "id_str": "1975282108831596546",
+          "id": "1975282108831596546",
+          "media_url_https": "https://pbs.twimg.com/media/G2mcnMwXgAIs9Um.png",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Qx4UINKQs7"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "143"
+    ],
+    "favorite_count": "2",
+    "id_str": "1975285229318283282",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1975285229318283282",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 06 19:41:12 +0000 2025",
+    "favorited": false,
+    "full_text": "The fun thing about being delusional is that it can be profitable.\n\nBut only if you understand all the systems at play. https://t.co/Qx4UINKQs7",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1975285229318283282/photo/1",
+          "indices": [
+            "120",
+            "143"
+          ],
+          "url": "https://t.co/Qx4UINKQs7",
+          "media_url": "http://pbs.twimg.com/media/G2mcnMwXgAIs9Um.png",
+          "id_str": "1975282108831596546",
+          "id": "1975282108831596546",
+          "media_url_https": "https://pbs.twimg.com/media/G2mcnMwXgAIs9Um.png",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Qx4UINKQs7"
+        }
+      ]
+    }
+  }
+}

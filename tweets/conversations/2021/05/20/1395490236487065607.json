@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1395490236487065607"
+        ],
+        "editableUntil": "2021-05-20T22:22:53.990Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ninja",
+          "screen_name": "Ninja",
+          "indices": [
+            "42",
+            "48"
+          ],
+          "id_str": "214201922",
+          "id": "214201922"
+        },
+        {
+          "name": "Ninja",
+          "screen_name": "Ninja",
+          "indices": [
+            "142",
+            "148"
+          ],
+          "id_str": "214201922",
+          "id": "214201922"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2s2KBH7Kde",
+          "expanded_url": "https://x.com/leo_guinan/status/1395157286033797120",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "264",
+            "287"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "id_str": "1395490236487065607",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1395490236487065607",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 20 21:22:53 +0000 2021",
+    "favorited": false,
+    "full_text": "I'm getting asked approximately hourly if @Ninja had responded. I tried to explain that it's not terribly likely I get a response. \n\nBut hey, @ninja, on the off chance you see this, let me know if you'd be down for an interview for my book on the passion economy! https://t.co/2s2KBH7Kde",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1403874860070285314"
+        ],
+        "editableUntil": "2021-06-13T01:40:24.031Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9iFIjTSO7Y",
+          "expanded_url": "https://zed.run/stable/leos-stable",
+          "display_url": "zed.run/stable/leos-st…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        },
+        {
+          "url": "https://t.co/O0gqeSlvKF",
+          "expanded_url": "https://x.com/davidrgoldberg/status/1403331895539253254",
+          "display_url": "x.com/davidrgoldberg…",
+          "indices": [
+            "85",
+            "108"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "1",
+    "id_str": "1403874860070285314",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1403874860070285314",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 13 00:40:24 +0000 2021",
+    "favorited": false,
+    "full_text": "Just set up my stable! Such a cool idea! \n\nHere's my stable: https://t.co/9iFIjTSO7Y https://t.co/O0gqeSlvKF",
+    "lang": "en"
+  }
+}

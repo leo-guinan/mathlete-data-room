@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1888988481046618539"
+        ],
+        "editableUntil": "2025-02-10T17:28:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shaan Puri",
+          "screen_name": "ShaanVP",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "101354595",
+          "id": "101354595"
+        },
+        {
+          "name": "Somewhere.com",
+          "screen_name": "somewherehiring",
+          "indices": [
+            "9",
+            "25"
+          ],
+          "id_str": "1266147724371431424",
+          "id": "1266147724371431424"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1888977727346348390",
+    "id_str": "1888988481046618539",
+    "in_reply_to_user_id": "101354595",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1888988481046618539",
+    "in_reply_to_status_id": "1888977727346348390",
+    "created_at": "Mon Feb 10 16:28:44 +0000 2025",
+    "favorited": false,
+    "full_text": "@ShaanVP @somewherehiring In the future, this will all be wrapped up in Human Insurance, because that's annoying paperwork that interferes with the transactions.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ShaanVP",
+    "in_reply_to_user_id_str": "101354595"
+  }
+}

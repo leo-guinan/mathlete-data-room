@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371945852005154822"
+        ],
+        "editableUntil": "2021-03-16T23:05:55.296Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Cassandra",
+          "screen_name": "cassandrafaris",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "76635078",
+          "id": "76635078"
+        },
+        {
+          "name": "TECH(K)NOW",
+          "screen_name": "TECHKNOWDay",
+          "indices": [
+            "23",
+            "35"
+          ],
+          "id_str": "834734381231177730",
+          "id": "834734381231177730"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1371945852005154822",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371945852005154822",
+    "created_at": "Tue Mar 16 22:05:55 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @cassandrafaris: My @TECHKNOWDay mental health in tech talk is up now! By discussing this topic and sharing my story, I hope to help rem…",
+    "lang": "en"
+  }
+}

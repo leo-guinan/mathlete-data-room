@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1779245333966360614"
+        ],
+        "editableUntil": "2024-04-13T21:28:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1779245333966360614/photo/1",
+          "indices": [
+            "85",
+            "108"
+          ],
+          "url": "https://t.co/61FOtLNUCU",
+          "media_url": "http://pbs.twimg.com/media/GLEmM4hXoAA_Tob.png",
+          "id_str": "1779245330560688128",
+          "id": "1779245330560688128",
+          "media_url_https": "https://pbs.twimg.com/media/GLEmM4hXoAA_Tob.png",
+          "sizes": {
+            "large": {
+              "w": "458",
+              "h": "264",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "458",
+              "h": "264",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "458",
+              "h": "264",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/61FOtLNUCU"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "2",
+    "id_str": "1779245333966360614",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1779245333966360614",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 13 20:28:39 +0000 2024",
+    "favorited": false,
+    "full_text": "Biggest issue with crypto right now. \n\nCan anyone guess how much I'm trying to send? https://t.co/61FOtLNUCU",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1779245333966360614/photo/1",
+          "indices": [
+            "85",
+            "108"
+          ],
+          "url": "https://t.co/61FOtLNUCU",
+          "media_url": "http://pbs.twimg.com/media/GLEmM4hXoAA_Tob.png",
+          "id_str": "1779245330560688128",
+          "id": "1779245330560688128",
+          "media_url_https": "https://pbs.twimg.com/media/GLEmM4hXoAA_Tob.png",
+          "sizes": {
+            "large": {
+              "w": "458",
+              "h": "264",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "458",
+              "h": "264",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "458",
+              "h": "264",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/61FOtLNUCU"
+        }
+      ]
+    }
+  }
+}

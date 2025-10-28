@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1913419091144061417"
+        ],
+        "editableUntil": "2025-04-19T03:27:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "brooke is at slutcon, say hi!",
+          "screen_name": "gptbrooke",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1283792798886408192",
+          "id": "1283792798886408192"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "72"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1913414856587485512",
+    "id_str": "1913419091144061417",
+    "in_reply_to_user_id": "1283792798886408192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1913419091144061417",
+    "in_reply_to_status_id": "1913414856587485512",
+    "created_at": "Sat Apr 19 02:27:15 +0000 2025",
+    "favorited": false,
+    "full_text": "@gptbrooke I mean, yeah. That sounds like exactly what I need, honestly.",
+    "lang": "en",
+    "in_reply_to_screen_name": "gptbrooke",
+    "in_reply_to_user_id_str": "1283792798886408192"
+  }
+}

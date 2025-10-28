@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1754987147923165636"
+        ],
+        "editableUntil": "2024-02-06T22:55:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1754986674344313328",
+    "id_str": "1754987147923165636",
+    "in_reply_to_user_id": "45851500",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1754987147923165636",
+    "in_reply_to_status_id": "1754986674344313328",
+    "created_at": "Tue Feb 06 21:55:16 +0000 2024",
+    "favorited": false,
+    "full_text": "@jayclouse It can be painful going from 1 -&gt; 2.\n\nThat's been an ongoing process for me, but one I'm incredibly glad I've invested in.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jayclouse",
+    "in_reply_to_user_id_str": "45851500"
+  }
+}

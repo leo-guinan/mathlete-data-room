@@ -1,0 +1,48 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1385945532615512064"
+        ],
+        "editableUntil": "2021-04-24T14:15:39.255Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "0",
+            "5"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1385945531684380672",
+    "id_str": "1385945532615512064",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1385945532615512064",
+    "in_reply_to_status_id": "1385945531684380672",
+    "created_at": "Sat Apr 24 13:15:39 +0000 2021",
+    "favorited": false,
+    "full_text": "#ADHD has reared its ugly head when I've tried to program. I'm starting to realize that I burnt out at my last job worse than I thought. It's been hard for me to find the joy I used to find in programming. I can't get it to trigger the hyperfocus like I used to be able to.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

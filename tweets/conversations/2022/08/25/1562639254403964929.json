@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562639254403964929"
+        ],
+        "editableUntil": "2022-08-25T03:43:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1562639252734652416",
+    "id_str": "1562639254403964929",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562639254403964929",
+    "in_reply_to_status_id": "1562639252734652416",
+    "created_at": "Thu Aug 25 03:13:25 +0000 2022",
+    "favorited": false,
+    "full_text": "But this has also opened me up to another section of the API that I can take advantage of and data I can analyze.\n\nWill just require an extension to my data models and some additional processing, but ultimately, will be worth it, I think.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

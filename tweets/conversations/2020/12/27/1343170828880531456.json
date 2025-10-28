@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1343170828880531456"
+        ],
+        "editableUntil": "2020-12-27T13:24:15.169Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Vʏʀᴜᴢ💨🇳🇬",
+          "screen_name": "StonerVyruz",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1338012500726517761",
+          "id": "1338012500726517761"
+        },
+        {
+          "name": "Zito 🐐💨🎖️",
+          "screen_name": "Sparzito_",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "1244326448879591429",
+          "id": "1244326448879591429"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/StonerVyruz/status/1343163975295496192/photo/1",
+          "source_status_id": "1343163975295496192",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/fIUHoS7PvX",
+          "media_url": "http://pbs.twimg.com/media/EqPggqqXUAMst0e.jpg",
+          "id_str": "1343163965698953219",
+          "source_user_id": "1338012500726517761",
+          "id": "1343163965698953219",
+          "media_url_https": "https://pbs.twimg.com/media/EqPggqqXUAMst0e.jpg",
+          "source_user_id_str": "1338012500726517761",
+          "sizes": {
+            "large": {
+              "w": "960",
+              "h": "960",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "960",
+              "h": "960",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1343163975295496192",
+          "display_url": "pic.x.com/fIUHoS7PvX"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "0",
+    "id_str": "1343170828880531456",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1343170828880531456",
+    "possibly_sensitive": false,
+    "created_at": "Sun Dec 27 12:24:15 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @StonerVyruz: @sparzito_ https://t.co/fIUHoS7PvX",
+    "lang": "qme",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/StonerVyruz/status/1343163975295496192/photo/1",
+          "source_status_id": "1343163975295496192",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/fIUHoS7PvX",
+          "media_url": "http://pbs.twimg.com/media/EqPggqqXUAMst0e.jpg",
+          "id_str": "1343163965698953219",
+          "source_user_id": "1338012500726517761",
+          "id": "1343163965698953219",
+          "media_url_https": "https://pbs.twimg.com/media/EqPggqqXUAMst0e.jpg",
+          "source_user_id_str": "1338012500726517761",
+          "sizes": {
+            "large": {
+              "w": "960",
+              "h": "960",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "960",
+              "h": "960",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1343163975295496192",
+          "display_url": "pic.x.com/fIUHoS7PvX"
+        }
+      ]
+    }
+  }
+}

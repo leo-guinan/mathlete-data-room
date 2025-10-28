@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931085169970020488"
+        ],
+        "editableUntil": "2025-06-06T21:25:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        },
+        {
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "indices": [
+            "11",
+            "16"
+          ],
+          "id_str": "1605",
+          "id": "1605"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1931081692296491010",
+    "id_str": "1931085169970020488",
+    "in_reply_to_user_id": "4736729423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931085169970020488",
+    "in_reply_to_status_id": "1931081692296491010",
+    "created_at": "Fri Jun 06 20:25:57 +0000 2025",
+    "favorited": false,
+    "full_text": "@thisiskp_ @sama 🫡 that’s what I’ve been building. \n\nFor 5 years. Crypto was close, but wrong. \n\nI fixed it. And now it changes everything.",
+    "lang": "en",
+    "in_reply_to_screen_name": "thisiskp_",
+    "in_reply_to_user_id_str": "4736729423"
+  }
+}

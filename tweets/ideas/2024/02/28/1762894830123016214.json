@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1762894830123016214"
+        ],
+        "editableUntil": "2024-02-28T18:37:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/28uuw4VjhG",
+          "expanded_url": "https://x.com/andykreed/status/1762566795603427628",
+          "display_url": "x.com/andykreed/stat…",
+          "indices": [
+            "34",
+            "57"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "1",
+    "id_str": "1762894830123016214",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1762894830123016214",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 28 17:37:35 +0000 2024",
+    "favorited": false,
+    "full_text": "The perfect tweet doesn't exis... https://t.co/28uuw4VjhG",
+    "lang": "en"
+  }
+}

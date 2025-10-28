@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328120425323372546"
+        ],
+        "editableUntil": "2020-11-16T00:39:19.338Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Melissa Marr",
+          "screen_name": "melissa_marr",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "18206919",
+          "id": "18206919"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UMbE6pFNFY",
+          "expanded_url": "https://www.gofundme.com/f/surgical-procedure-for-my-son-chaos",
+          "display_url": "gofundme.com/f/surgical-pro…",
+          "indices": [
+            "84",
+            "107"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "107"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328120425323372546",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328120425323372546",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 23:39:19 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @melissa_marr: Decided to swallow my pride &amp; do as so many of you suggested: https://t.co/UMbE6pFNFY",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507356656656658437"
+        ],
+        "editableUntil": "2022-03-25T15:00:06.936Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qDllBxFNPk",
+          "expanded_url": "https://link.medium.com/wjW89aKmFob",
+          "display_url": "link.medium.com/wjW89aKmFob",
+          "indices": [
+            "110",
+            "133"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1507356656656658437",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507356656656658437",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 25 14:00:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: “Trust is more like a battery. It starts empty and (hopefully) grows with every interaction.” https://t.co/qDllBxFNPk",
+    "lang": "en"
+  }
+}

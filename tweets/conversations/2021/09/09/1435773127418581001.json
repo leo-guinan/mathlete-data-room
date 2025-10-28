@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1435773127418581001"
+        ],
+        "editableUntil": "2021-09-09T02:12:43.608Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tonaglol (decoding complete)",
+          "screen_name": "tonaglol",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1433806689229103109",
+          "id": "1433806689229103109"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "21"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1435389698730446848",
+    "id_str": "1435773127418581001",
+    "in_reply_to_user_id": "1434575388890435585",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1435773127418581001",
+    "in_reply_to_status_id": "1435389698730446848",
+    "created_at": "Thu Sep 09 01:12:43 +0000 2021",
+    "favorited": false,
+    "full_text": "@tonaglol Felertragus",
+    "lang": "hu",
+    "in_reply_to_screen_name": "lootlang",
+    "in_reply_to_user_id_str": "1434575388890435585"
+  }
+}

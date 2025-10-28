@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1802400268438388917"
+        ],
+        "editableUntil": "2024-06-16T18:58:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "fekri",
+          "screen_name": "fekdaoui",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1593941906219835392",
+          "id": "1593941906219835392"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "10",
+            "22"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "Farza 🇵🇰🇺🇸",
+          "screen_name": "FarzaTV",
+          "indices": [
+            "134",
+            "142"
+          ],
+          "id_str": "327403216",
+          "id": "327403216"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "190"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1802104346047324229",
+    "id_str": "1802400268438388917",
+    "in_reply_to_user_id": "1593941906219835392",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1802400268438388917",
+    "in_reply_to_status_id": "1802104346047324229",
+    "created_at": "Sun Jun 16 17:58:05 +0000 2024",
+    "favorited": false,
+    "full_text": "@fekdaoui @_buildspace Thanks! 🙏\n\nDefinitely trying to catch the momentum I can. I love how much energy there is around kickoff.\n\nAnd @FarzaTV has me ready to run through a brick wall, haha.",
+    "lang": "en",
+    "in_reply_to_screen_name": "fekdaoui",
+    "in_reply_to_user_id_str": "1593941906219835392"
+  }
+}

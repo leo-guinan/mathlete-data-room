@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527980324147404805"
+        ],
+        "editableUntil": "2022-05-21T12:21:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🌱jonathan",
+          "screen_name": "_jonharvey",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "502355424",
+          "id": "502355424"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LXIOfSU9ps",
+          "expanded_url": "https://calendly.com/leo_guinan/coffee-chat",
+          "display_url": "calendly.com/leo_guinan/cof…",
+          "indices": [
+            "64",
+            "87"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "87"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1527977400063209475",
+    "id_str": "1527980324147404805",
+    "in_reply_to_user_id": "502355424",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527980324147404805",
+    "in_reply_to_status_id": "1527977400063209475",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 21 11:51:12 +0000 2022",
+    "favorited": false,
+    "full_text": "@_jonharvey Any time Jonathan!\n\nFeel free to grab another slot: https://t.co/LXIOfSU9ps",
+    "lang": "en",
+    "in_reply_to_screen_name": "_jonharvey",
+    "in_reply_to_user_id_str": "502355424"
+  }
+}

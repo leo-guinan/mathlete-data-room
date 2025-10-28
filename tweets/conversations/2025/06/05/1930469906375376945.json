@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930469906375376945"
+        ],
+        "editableUntil": "2025-06-05T04:41:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Suhail",
+          "screen_name": "Suhail",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "793023",
+          "id": "793023"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4RX3ztwhmK",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/welcome-to-day-1-of-the-future",
+          "display_url": "hitchhikertothefuture.substack.com/p/welcome-to-d…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930375553997299861",
+    "id_str": "1930469906375376945",
+    "in_reply_to_user_id": "793023",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1930469906375376945",
+    "in_reply_to_status_id": "1930375553997299861",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 03:41:06 +0000 2025",
+    "favorited": false,
+    "full_text": "@Suhail Want to make that a reality again? Join me on the path to a new internet that doesn't suck.\n\nhttps://t.co/4RX3ztwhmK",
+    "lang": "en",
+    "in_reply_to_screen_name": "Suhail",
+    "in_reply_to_user_id_str": "793023"
+  }
+}

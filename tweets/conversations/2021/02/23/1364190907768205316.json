@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1364190907768205316"
+        ],
+        "editableUntil": "2021-02-23T13:30:32.510Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amina",
+          "screen_name": "yeahshewrites",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1278447823",
+          "id": "1278447823"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1364190907768205316",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1364190907768205316",
+    "created_at": "Tue Feb 23 12:30:32 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @yeahshewrites: On a side note, please camel case your hashtags for accessibility purposes. It’s a big help for those who use screen rea…",
+    "lang": "en"
+  }
+}

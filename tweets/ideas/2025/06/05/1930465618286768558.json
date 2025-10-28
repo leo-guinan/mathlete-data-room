@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930465618286768558"
+        ],
+        "editableUntil": "2025-06-05T04:24:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930465618286768558/photo/1",
+          "indices": [
+            "128",
+            "151"
+          ],
+          "url": "https://t.co/kIKz7dvSZc",
+          "media_url": "http://pbs.twimg.com/media/GspkGqMW4AAG6AK.jpg",
+          "id_str": "1930465455849791488",
+          "id": "1930465455849791488",
+          "media_url_https": "https://pbs.twimg.com/media/GspkGqMW4AAG6AK.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "203",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "986",
+              "h": "294",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "986",
+              "h": "294",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kIKz7dvSZc"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "151"
+    ],
+    "favorite_count": "1",
+    "id_str": "1930465618286768558",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930465618286768558",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 03:24:04 +0000 2025",
+    "favorited": false,
+    "full_text": "I'm done living in systems that do this to people.\n\nIt's time to replace them with ones that work, for people.\n\nAnyone with me? https://t.co/kIKz7dvSZc",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930465618286768558/photo/1",
+          "indices": [
+            "128",
+            "151"
+          ],
+          "url": "https://t.co/kIKz7dvSZc",
+          "media_url": "http://pbs.twimg.com/media/GspkGqMW4AAG6AK.jpg",
+          "id_str": "1930465455849791488",
+          "id": "1930465455849791488",
+          "media_url_https": "https://pbs.twimg.com/media/GspkGqMW4AAG6AK.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "203",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "986",
+              "h": "294",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "986",
+              "h": "294",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kIKz7dvSZc"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1889532342848336106"
+        ],
+        "editableUntil": "2025-02-12T05:29:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Max",
+          "screen_name": "maxtmcc",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1161654840604467200",
+          "id": "1161654840604467200"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "22",
+    "in_reply_to_status_id_str": "1889395242761412700",
+    "id_str": "1889532342848336106",
+    "in_reply_to_user_id": "1161654840604467200",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1889532342848336106",
+    "in_reply_to_status_id": "1889395242761412700",
+    "created_at": "Wed Feb 12 04:29:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@maxtmcc Because tech is about to do so. \n\nThey are blaming the problems on everyone else without understanding what they’ve gotten wrong.",
+    "lang": "en",
+    "in_reply_to_screen_name": "maxtmcc",
+    "in_reply_to_user_id_str": "1161654840604467200"
+  }
+}

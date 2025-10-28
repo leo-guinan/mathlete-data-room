@@ -1,0 +1,137 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527391166588657667"
+        ],
+        "editableUntil": "2022-05-19T21:20:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ennhECaeKH",
+          "expanded_url": "https://x.com/LobowSpark/status/1527289372051050499",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "55",
+            "78"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1527391166588657667/photo/1",
+          "indices": [
+            "79",
+            "102"
+          ],
+          "url": "https://t.co/OoSknOU2wf",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FTJiKu9WUAAVbsz.jpg",
+          "id_str": "1527391160175579136",
+          "id": "1527391160175579136",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTJiKu9WUAAVbsz.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/OoSknOU2wf"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "102"
+    ],
+    "favorite_count": "2",
+    "id_str": "1527391166588657667",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527391166588657667",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 19 20:50:06 +0000 2022",
+    "favorited": false,
+    "full_text": "Getting the content flywheel cranking! Love to see it! https://t.co/ennhECaeKH https://t.co/OoSknOU2wf",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1527391166588657667/photo/1",
+          "indices": [
+            "79",
+            "102"
+          ],
+          "url": "https://t.co/OoSknOU2wf",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FTJiKu9WUAAVbsz.jpg",
+          "id_str": "1527391160175579136",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "34"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FTJiKu9WUAAVbsz.mp4"
+              }
+            ]
+          },
+          "id": "1527391160175579136",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTJiKu9WUAAVbsz.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/OoSknOU2wf"
+        }
+      ]
+    }
+  }
+}

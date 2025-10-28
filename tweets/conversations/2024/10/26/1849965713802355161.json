@@ -1,0 +1,139 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1849965713802355161"
+        ],
+        "editableUntil": "2024-10-26T01:06:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "10",
+            "26"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1849965713802355161/photo/1",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/fm5kpcARfs",
+          "media_url": "http://pbs.twimg.com/media/Gaxl8oJWEAEX0gV.jpg",
+          "id_str": "1849965639185600513",
+          "id": "1849965639185600513",
+          "media_url_https": "https://pbs.twimg.com/media/Gaxl8oJWEAEX0gV.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fm5kpcARfs"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1849957198245552595",
+    "id_str": "1849965713802355161",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1849965713802355161",
+    "in_reply_to_status_id": "1849957198245552595",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 26 00:06:11 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli @DefenderOfBasic https://t.co/fm5kpcARfs",
+    "lang": "qme",
+    "in_reply_to_user_id_str": "1821721928098328576",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1849965713802355161/photo/1",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/fm5kpcARfs",
+          "media_url": "http://pbs.twimg.com/media/Gaxl8oJWEAEX0gV.jpg",
+          "id_str": "1849965639185600513",
+          "id": "1849965639185600513",
+          "media_url_https": "https://pbs.twimg.com/media/Gaxl8oJWEAEX0gV.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fm5kpcARfs"
+        }
+      ]
+    }
+  }
+}

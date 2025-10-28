@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1779591369264079126"
+        ],
+        "editableUntil": "2024-04-14T20:23:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/A8a8R9KlTk",
+          "expanded_url": "https://ideasupplychain.com/aligning-app-incentives-with-user-attention/",
+          "display_url": "ideasupplychain.com/aligning-app-i…",
+          "indices": [
+            "118",
+            "141"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "141"
+    ],
+    "favorite_count": "2",
+    "id_str": "1779591369264079126",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1779591369264079126",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 14 19:23:40 +0000 2024",
+    "favorited": false,
+    "full_text": "Just published a new blog post about how I'm thinking about user attention and the value of it with My AI Cofounder:\n\nhttps://t.co/A8a8R9KlTk",
+    "lang": "en"
+  }
+}

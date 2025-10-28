@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1965749967378935994"
+        ],
+        "editableUntil": "2025-09-10T13:11:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Vander 😎",
+          "screen_name": "JayVander_",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1058741156698378241",
+          "id": "1058741156698378241"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1965749201725493447",
+    "id_str": "1965749967378935994",
+    "in_reply_to_user_id": "1058741156698378241",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1965749967378935994",
+    "in_reply_to_status_id": "1965749201725493447",
+    "created_at": "Wed Sep 10 12:11:28 +0000 2025",
+    "favorited": false,
+    "full_text": "@JayVander_ It reads as true to me, which is more important than your framing imo",
+    "lang": "en",
+    "in_reply_to_screen_name": "JayVander_",
+    "in_reply_to_user_id_str": "1058741156698378241"
+  }
+}

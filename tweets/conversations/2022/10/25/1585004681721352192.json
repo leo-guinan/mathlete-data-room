@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1585004681721352192"
+        ],
+        "editableUntil": "2022-10-25T20:55:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mojito Joe 🍸",
+          "screen_name": "mistermeenr",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1442912012724359170",
+          "id": "1442912012724359170"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1585003765601632260",
+    "id_str": "1585004681721352192",
+    "in_reply_to_user_id": "1442912012724359170",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1585004681721352192",
+    "in_reply_to_status_id": "1585003765601632260",
+    "created_at": "Tue Oct 25 20:25:38 +0000 2022",
+    "favorited": false,
+    "full_text": "@mistermeenr Pip install center-div",
+    "lang": "en",
+    "in_reply_to_screen_name": "mistermeenr",
+    "in_reply_to_user_id_str": "1442912012724359170"
+  }
+}

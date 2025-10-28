@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617308824632963072"
+        ],
+        "editableUntil": "2023-01-23T00:20:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1616435505406836738",
+    "id_str": "1617308824632963072",
+    "in_reply_to_user_id": "16884623",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617308824632963072",
+    "in_reply_to_status_id": "1616435505406836738",
+    "created_at": "Sun Jan 22 23:50:46 +0000 2023",
+    "favorited": false,
+    "full_text": "@visakanv Oh, that's excellent! I can play around with that and see what I can make happen. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "visakanv",
+    "in_reply_to_user_id_str": "16884623"
+  }
+}

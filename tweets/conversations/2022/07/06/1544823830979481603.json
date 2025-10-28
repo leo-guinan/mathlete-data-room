@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1544823830979481603"
+        ],
+        "editableUntil": "2022-07-06T23:51:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "100users100days",
+          "indices": [
+            "25",
+            "41"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Indie Worldwide 🌐",
+          "screen_name": "indie_worldwide",
+          "indices": [
+            "62",
+            "78"
+          ],
+          "id_str": "1172888737434472448",
+          "id": "1172888737434472448"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lkY68DpwLT",
+          "expanded_url": "http://100in100.co",
+          "display_url": "100in100.co",
+          "indices": [
+            "109",
+            "132"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "6",
+    "id_str": "1544823830979481603",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1544823830979481603",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 06 23:21:17 +0000 2022",
+    "favorited": false,
+    "full_text": "I just signed up for the #100users100days challenge hosted by @indie_worldwide 💯\n\nFind me on the leaderboard https://t.co/lkY68DpwLT",
+    "lang": "en"
+  }
+}

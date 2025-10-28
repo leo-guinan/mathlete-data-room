@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1581678168955826176"
+        ],
+        "editableUntil": "2022-10-16T16:37:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David",
+          "screen_name": "davidmstarkie",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "943978656082350080",
+          "id": "943978656082350080"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1581664128246349824",
+    "id_str": "1581678168955826176",
+    "in_reply_to_user_id": "943978656082350080",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1581678168955826176",
+    "in_reply_to_status_id": "1581664128246349824",
+    "created_at": "Sun Oct 16 16:07:16 +0000 2022",
+    "favorited": false,
+    "full_text": "@davidmstarkie @npklip You totally should join us! It's actually a lot of fun. I just hit a 100 day streak the other day on German. Definitely have a long way to go, and although I'm tempted to change my phone, don't know if I'm quite there yet. But making daily progress, so that's cool!",
+    "lang": "en",
+    "in_reply_to_screen_name": "davidmstarkie",
+    "in_reply_to_user_id_str": "943978656082350080"
+  }
+}

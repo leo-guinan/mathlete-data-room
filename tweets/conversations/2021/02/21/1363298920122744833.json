@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363298920122744833"
+        ],
+        "editableUntil": "2021-02-21T02:26:06.083Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Yin 💛",
+          "screen_name": "dunkhippo33",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "14756283",
+          "id": "14756283"
+        },
+        {
+          "name": "Eric Bahn 💛",
+          "screen_name": "ericbahn",
+          "indices": [
+            "13",
+            "22"
+          ],
+          "id_str": "16008441",
+          "id": "16008441"
+        },
+        {
+          "name": "Hustle Fund 🦛🌽💛",
+          "screen_name": "HustleFundVC",
+          "indices": [
+            "23",
+            "36"
+          ],
+          "id_str": "842993375125037056",
+          "id": "842993375125037056"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jbk0MyTKuf",
+          "expanded_url": "https://x.com/leo_guinan/status/1362361363247599618?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "281",
+            "304"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "304"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1363297566960586759",
+    "id_str": "1363298920122744833",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363298920122744833",
+    "in_reply_to_status_id": "1363297566960586759",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 21 01:26:06 +0000 2021",
+    "favorited": false,
+    "full_text": "@dunkhippo33 @ericbahn @HustleFundVC I was hoping to build out the SaaS product in a 24 hour hackathon. It didn't quite get done in that short of a time period, but I am building it in public. If you wanted to get an idea of what I am building, you can take a look at this thread: https://t.co/jbk0MyTKuf",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

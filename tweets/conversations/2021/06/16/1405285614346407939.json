@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1405285614346407939"
+        ],
+        "editableUntil": "2021-06-16T23:06:14.061Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1405285614346407939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1405285614346407939",
+    "created_at": "Wed Jun 16 22:06:14 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: The goal of a community-driven course is to build creator-community fit while building the course. Run both steps in parall…",
+    "lang": "en"
+  }
+}

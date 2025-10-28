@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515334829788831754"
+        ],
+        "editableUntil": "2022-04-16T15:22:31.638Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ActuallyAutistic",
+          "indices": [
+            "46",
+            "63"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1515334829788831754",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1515334829788831754",
+    "created_at": "Sat Apr 16 14:22:31 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @mykola: 440 votes so far.\n\nRoughly 2/3 of #ActuallyAutistic responders have been told by a medical professional that they couldn’t be a…",
+    "lang": "en"
+  }
+}

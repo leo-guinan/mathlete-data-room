@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499153639637762049"
+        ],
+        "editableUntil": "2022-03-02T23:44:15.274Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Falan Blake",
+          "screen_name": "thefalanblake",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1969533062959808514",
+          "id": "1969533062959808514"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "43"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1499152856070307840",
+    "id_str": "1499153639637762049",
+    "in_reply_to_user_id": "1439254448245665798",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499153639637762049",
+    "in_reply_to_status_id": "1499152856070307840",
+    "created_at": "Wed Mar 02 22:44:15 +0000 2022",
+    "favorited": false,
+    "full_text": "@TheFalanBlake Awesome! That's really cool!",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1439254448245665798"
+  }
+}

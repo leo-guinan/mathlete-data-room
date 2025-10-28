@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359159515644633094"
+        ],
+        "editableUntil": "2021-02-09T16:17:35.149Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/zayUJ3Igi8",
+          "expanded_url": "https://x.com/JStein_WaPo/status/1359158653463502865",
+          "display_url": "x.com/JStein_WaPo/st…",
+          "indices": [
+            "70",
+            "93"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "id_str": "1359159515644633094",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359159515644633094",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 09 15:17:35 +0000 2021",
+    "favorited": false,
+    "full_text": "Ah, I see the problem now. Should have easily been in double figures. https://t.co/zayUJ3Igi8",
+    "lang": "en"
+  }
+}

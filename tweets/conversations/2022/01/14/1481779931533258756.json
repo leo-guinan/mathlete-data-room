@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1481779931533258756"
+        ],
+        "editableUntil": "2022-01-14T01:07:20.474Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Lane | Design Hacker ⚡️",
+          "screen_name": "Andrew22Lane",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1375244408090660865",
+          "id": "1375244408090660865"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1481779931533258756",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1481779931533258756",
+    "created_at": "Fri Jan 14 00:07:20 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @Andrew22Lane: Everyone who makes something knows the frustration: it's never as good as you imagined in your head, and there's always s…",
+    "lang": "en"
+  }
+}

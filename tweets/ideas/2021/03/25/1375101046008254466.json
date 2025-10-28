@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1375101046008254466"
+        ],
+        "editableUntil": "2021-03-25T16:03:32.167Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jCnff9kk9j",
+          "expanded_url": "https://link.medium.com/EWKmErxSUeb",
+          "display_url": "link.medium.com/EWKmErxSUeb",
+          "indices": [
+            "112",
+            "135"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "0",
+    "id_str": "1375101046008254466",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1375101046008254466",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 25 15:03:32 +0000 2021",
+    "favorited": false,
+    "full_text": "“The difference in mindset between working for a large, structured, corporation and a small startup is immense” https://t.co/jCnff9kk9j",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1337792901036826624"
+        ],
+        "editableUntil": "2020-12-12T17:14:17.254Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Water The Planet",
+          "screen_name": "VoLinxx",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "1579047140",
+          "id": "1579047140"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "0",
+    "id_str": "1337792901036826624",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1337792901036826624",
+    "created_at": "Sat Dec 12 16:14:17 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @VoLinxx: Rest In Peace to everyone we lost this year due to COVID-19. Don't skip this without retweeting or clicking the heart.",
+    "lang": "en"
+  }
+}

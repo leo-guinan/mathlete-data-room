@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1567638324340310017"
+        ],
+        "editableUntil": "2022-09-07T22:47:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "SpeakEasy",
+          "screen_name": "dhowe1a",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "3118898529",
+          "id": "3118898529"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1567585741626114051",
+    "id_str": "1567638324340310017",
+    "in_reply_to_user_id": "3118898529",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1567638324340310017",
+    "in_reply_to_status_id": "1567585741626114051",
+    "created_at": "Wed Sep 07 22:17:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@dhowe1a 1st,  I asked a question in a public forum, and you were in that forum, so you are entirely qualified to answer. :) It's just for fun.\n\nAlso, that's an excellent response. That's quite an intriguing point, isn't it? Evil is very much dependent on perspective.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dhowe1a",
+    "in_reply_to_user_id_str": "3118898529"
+  }
+}

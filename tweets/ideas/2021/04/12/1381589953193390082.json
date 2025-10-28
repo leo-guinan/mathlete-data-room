@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381589953193390082"
+        ],
+        "editableUntil": "2021-04-12T13:48:08.198Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1381589953193390082/photo/1",
+          "indices": [
+            "270",
+            "293"
+          ],
+          "url": "https://t.co/eXHjpQqxve",
+          "media_url": "http://pbs.twimg.com/media/EyxkvXxWgAMKiF-.jpg",
+          "id_str": "1381589950693539843",
+          "id": "1381589950693539843",
+          "media_url_https": "https://pbs.twimg.com/media/EyxkvXxWgAMKiF-.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eXHjpQqxve"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "0",
+    "id_str": "1381589953193390082",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381589953193390082",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 12 12:48:08 +0000 2021",
+    "favorited": false,
+    "full_text": "This is my dog's toy banana. My 6 year old is a big fan of bananas, so we buy them fairly often. Now, whenever we bring home groceries that have bananas, the dog carries her banana in and deposits it next to the real bananas. Thought the first time was a fluke, but no. https://t.co/eXHjpQqxve",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1381589953193390082/photo/1",
+          "indices": [
+            "270",
+            "293"
+          ],
+          "url": "https://t.co/eXHjpQqxve",
+          "media_url": "http://pbs.twimg.com/media/EyxkvXxWgAMKiF-.jpg",
+          "id_str": "1381589950693539843",
+          "id": "1381589950693539843",
+          "media_url_https": "https://pbs.twimg.com/media/EyxkvXxWgAMKiF-.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eXHjpQqxve"
+        }
+      ]
+    }
+  }
+}

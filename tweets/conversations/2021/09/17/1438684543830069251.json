@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1438684543830069251"
+        ],
+        "editableUntil": "2021-09-17T03:01:39.372Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sDTvwQVqUw",
+          "expanded_url": "https://youtu.be/h-RzWazg_nw",
+          "display_url": "youtu.be/h-RzWazg_nw",
+          "indices": [
+            "21",
+            "44"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1438634303227842564",
+    "id_str": "1438684543830069251",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1438684543830069251",
+    "in_reply_to_status_id": "1438634303227842564",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 17 02:01:39 +0000 2021",
+    "favorited": false,
+    "full_text": "Finally uploaded...\n\nhttps://t.co/sDTvwQVqUw",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

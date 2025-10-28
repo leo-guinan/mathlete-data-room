@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1865474733543710806"
+        ],
+        "editableUntil": "2024-12-07T20:13:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ellen Fishbein",
+          "screen_name": "EllenRhymes",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "3016316704",
+          "id": "3016316704"
+        },
+        {
+          "name": "Aella",
+          "screen_name": "Aella_Girl",
+          "indices": [
+            "13",
+            "24"
+          ],
+          "id_str": "795885295",
+          "id": "795885295"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1865474159356051495",
+    "id_str": "1865474733543710806",
+    "in_reply_to_user_id": "3016316704",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1865474733543710806",
+    "in_reply_to_status_id": "1865474159356051495",
+    "created_at": "Sat Dec 07 19:13:29 +0000 2024",
+    "favorited": false,
+    "full_text": "@EllenRhymes @Aella_Girl Now I'm sitting here wondering if AI agents could be the key to organizing flight passengers based on etiquette adhered to. Could offer really cool dynamic pricing options based on previous flight reviews from other passengers near you.",
+    "lang": "en",
+    "in_reply_to_screen_name": "EllenRhymes",
+    "in_reply_to_user_id_str": "3016316704"
+  }
+}

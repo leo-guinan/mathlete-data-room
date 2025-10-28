@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922828116633813455"
+        ],
+        "editableUntil": "2025-05-15T02:35:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922828116633813455/photo/1",
+          "indices": [
+            "136",
+            "159"
+          ],
+          "url": "https://t.co/HS0OFDRn9D",
+          "media_url": "http://pbs.twimg.com/media/Gq9B-tWXgAAU8yD.jpg",
+          "id_str": "1922828111491596288",
+          "id": "1922828111491596288",
+          "media_url_https": "https://pbs.twimg.com/media/Gq9B-tWXgAAU8yD.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HS0OFDRn9D"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "5",
+    "id_str": "1922828116633813455",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922828116633813455",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 15 01:35:22 +0000 2025",
+    "favorited": false,
+    "full_text": "I’m a kitten bed now. \n\nHave been like this for the last 20 minutes. \n\nNo idea how this is a comfy sleeping position, but kittens. 🤷‍♂️ https://t.co/HS0OFDRn9D",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922828116633813455/photo/1",
+          "indices": [
+            "136",
+            "159"
+          ],
+          "url": "https://t.co/HS0OFDRn9D",
+          "media_url": "http://pbs.twimg.com/media/Gq9B-tWXgAAU8yD.jpg",
+          "id_str": "1922828111491596288",
+          "id": "1922828111491596288",
+          "media_url_https": "https://pbs.twimg.com/media/Gq9B-tWXgAAU8yD.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HS0OFDRn9D"
+        }
+      ]
+    }
+  }
+}

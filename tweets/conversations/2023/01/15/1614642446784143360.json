@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1614642446784143360"
+        ],
+        "editableUntil": "2023-01-15T15:45:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "@jason",
+          "screen_name": "Jason",
+          "indices": [
+            "17",
+            "23"
+          ],
+          "id_str": "3840",
+          "id": "3840"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8NMkSH841z",
+          "expanded_url": "https://whoshouldiunfollow.com",
+          "display_url": "whoshouldiunfollow.com",
+          "indices": [
+            "30",
+            "53"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "53"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1614521899559833600",
+    "id_str": "1614642446784143360",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1614642446784143360",
+    "in_reply_to_status_id": "1614521899559833600",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jan 15 15:15:32 +0000 2023",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @Jason I do! https://t.co/8NMkSH841z",
+    "lang": "und",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

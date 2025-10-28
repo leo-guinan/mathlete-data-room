@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1447393164495577090"
+        ],
+        "editableUntil": "2021-10-11T03:46:36.337Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/t0xVZSYiJ6",
+          "expanded_url": "https://frontier.pioneer.app/posts/b03003c7-leo-guinan-progress-update-october-10th-2021",
+          "display_url": "frontier.pioneer.app/posts/b03003c7…",
+          "indices": [
+            "237",
+            "260"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "0",
+    "id_str": "1447393164495577090",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1447393164495577090",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 11 02:46:36 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nI've got the new flow working. Still a manual process to move people off the waiting list, but the functionality is there. Overall, pretty happy with overall progress.\n\nRead the rest here:\n\n https://t.co/t0xVZSYiJ6",
+    "lang": "en"
+  }
+}

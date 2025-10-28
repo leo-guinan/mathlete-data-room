@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1547002986337079297"
+        ],
+        "editableUntil": "2022-07-13T00:10:28.525Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "118",
+            "123"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "0",
+    "id_str": "1547002986337079297",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1547002986337079297",
+    "created_at": "Tue Jul 12 23:40:28 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: This is an AMAZING episode and you will gain some knowledge on so many things. ESPECIALLY if you have #ADHD…",
+    "lang": "en"
+  }
+}

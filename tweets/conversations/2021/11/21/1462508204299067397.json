@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1462508204299067397"
+        ],
+        "editableUntil": "2021-11-21T20:48:22.650Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Steven Tey",
+          "screen_name": "steventey",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "334173439",
+          "id": "334173439"
+        },
+        {
+          "name": "Spencer Jones",
+          "screen_name": "jones_spencera",
+          "indices": [
+            "11",
+            "26"
+          ],
+          "id_str": "1268934001852657664",
+          "id": "1268934001852657664"
+        },
+        {
+          "name": "Prisma Postgres",
+          "screen_name": "prisma",
+          "indices": [
+            "27",
+            "34"
+          ],
+          "id_str": "4924429943",
+          "id": "4924429943"
+        },
+        {
+          "name": "Prisma Postgres",
+          "screen_name": "prisma",
+          "indices": [
+            "35",
+            "42"
+          ],
+          "id_str": "4924429943",
+          "id": "4924429943"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "53"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1462506503466733568",
+    "id_str": "1462508204299067397",
+    "in_reply_to_user_id": "334173439",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1462508204299067397",
+    "in_reply_to_status_id": "1462506503466733568",
+    "created_at": "Sun Nov 21 19:48:22 +0000 2021",
+    "favorited": false,
+    "full_text": "@steventey @jones_spencera @prisma @prisma is awesome",
+    "lang": "en",
+    "in_reply_to_screen_name": "steventey",
+    "in_reply_to_user_id_str": "334173439"
+  }
+}

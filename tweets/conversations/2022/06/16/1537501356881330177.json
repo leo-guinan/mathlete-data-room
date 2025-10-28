@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1537501356881330177"
+        ],
+        "editableUntil": "2022-06-16T18:54:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mike Cardona | Automation Alchemist 🧪🔧",
+          "screen_name": "CSMikeCardona",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "2904219673",
+          "id": "2904219673"
+        },
+        {
+          "name": "Rajiv Verma | The Full-Stack Guy 🧑‍💻",
+          "screen_name": "hackernewbie",
+          "indices": [
+            "15",
+            "28"
+          ],
+          "id_str": "17074702",
+          "id": "17074702"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1537501356881330177/photo/1",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/5FeVhJXR3c",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FVZNVR_XwAEgoDm.jpg",
+          "id_str": "1537501350795395073",
+          "id": "1537501350795395073",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVZNVR_XwAEgoDm.jpg",
+          "sizes": {
+            "large": {
+              "w": "400",
+              "h": "218",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "400",
+              "h": "218",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "400",
+              "h": "218",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5FeVhJXR3c"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1537499152342347776",
+    "id_str": "1537501356881330177",
+    "in_reply_to_user_id": "2904219673",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1537501356881330177",
+    "in_reply_to_status_id": "1537499152342347776",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 16 18:24:23 +0000 2022",
+    "favorited": false,
+    "full_text": "@CSMikeCardona @hackernewbie https://t.co/5FeVhJXR3c",
+    "lang": "qme",
+    "in_reply_to_screen_name": "CSMikeCardona",
+    "in_reply_to_user_id_str": "2904219673",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1537501356881330177/photo/1",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/5FeVhJXR3c",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FVZNVR_XwAEgoDm.jpg",
+          "id_str": "1537501350795395073",
+          "video_info": {
+            "aspect_ratio": [
+              "200",
+              "109"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FVZNVR_XwAEgoDm.mp4"
+              }
+            ]
+          },
+          "id": "1537501350795395073",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVZNVR_XwAEgoDm.jpg",
+          "sizes": {
+            "large": {
+              "w": "400",
+              "h": "218",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "400",
+              "h": "218",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "400",
+              "h": "218",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/5FeVhJXR3c"
+        }
+      ]
+    }
+  }
+}

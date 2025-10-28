@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892800288026701965"
+        ],
+        "editableUntil": "2025-02-21T05:55:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michelle Crawford",
+          "screen_name": "mcrawford_trep",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1146636270",
+          "id": "1146636270"
+        },
+        {
+          "name": "Suhail",
+          "screen_name": "Suhail",
+          "indices": [
+            "16",
+            "23"
+          ],
+          "id_str": "793023",
+          "id": "793023"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1892797736644190430",
+    "id_str": "1892800288026701965",
+    "in_reply_to_user_id": "1146636270",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892800288026701965",
+    "in_reply_to_status_id": "1892797736644190430",
+    "created_at": "Fri Feb 21 04:55:29 +0000 2025",
+    "favorited": false,
+    "full_text": "@mcrawford_trep @Suhail Yes, but I don't like DAOs/Crypto as a default, because they are reliant on broken ideas about money/value.\n\nYou can't store value. You can only store predictions about whether something will be more or less valuable in the future.\n\nSo instead, I built a system that minimized…",
+    "lang": "en",
+    "in_reply_to_screen_name": "mcrawford_trep",
+    "in_reply_to_user_id_str": "1146636270"
+  }
+}

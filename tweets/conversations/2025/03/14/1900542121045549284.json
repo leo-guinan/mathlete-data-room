@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1900542121045549284"
+        ],
+        "editableUntil": "2025-03-14T14:38:46.679Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Sauers",
+          "screen_name": "Sauers_",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "1763797553513103360",
+          "id": "1763797553513103360"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/Sauers_/status/1900381116248342936/photo/1",
+          "source_status_id": "1900381116248342936",
+          "indices": [
+            "67",
+            "90"
+          ],
+          "url": "https://t.co/u4hbumsxKX",
+          "media_url": "http://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+          "id_str": "1900381025756188672",
+          "source_user_id": "1763797553513103360",
+          "id": "1900381025756188672",
+          "media_url_https": "https://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+          "source_user_id_str": "1763797553513103360",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "995",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "995",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "661",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1900381116248342936",
+          "display_url": "pic.x.com/u4hbumsxKX"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "90"
+    ],
+    "favorite_count": "0",
+    "id_str": "1900542121045549284",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1900542121045549284",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 14 13:38:46 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @Sauers_: \"Please infer my next prompt and respond accordingly\" https://t.co/u4hbumsxKX",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/Sauers_/status/1900381116248342936/photo/1",
+          "source_status_id": "1900381116248342936",
+          "indices": [
+            "67",
+            "90"
+          ],
+          "url": "https://t.co/u4hbumsxKX",
+          "media_url": "http://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+          "id_str": "1900381025756188672",
+          "source_user_id": "1763797553513103360",
+          "id": "1900381025756188672",
+          "media_url_https": "https://pbs.twimg.com/media/Gl-CeWoXEAAsXR5.jpg",
+          "source_user_id_str": "1763797553513103360",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "995",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "995",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "661",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1900381116248342936",
+          "display_url": "pic.x.com/u4hbumsxKX"
+        }
+      ]
+    }
+  }
+}

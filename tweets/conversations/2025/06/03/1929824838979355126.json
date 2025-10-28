@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929824838979355126"
+        ],
+        "editableUntil": "2025-06-03T09:57:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fGsas9PXiy",
+          "expanded_url": "https://x.com/leo_guinan/status/1929777696277438867",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "97",
+            "120"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1929824344928067951",
+    "id_str": "1929824838979355126",
+    "in_reply_to_user_id": "5614412",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929824838979355126",
+    "in_reply_to_status_id": "1929824344928067951",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 03 08:57:50 +0000 2025",
+    "favorited": false,
+    "full_text": "@mykola I have one last quest. It's my final boss. \n\nI need to help. Then I can finally sleep. \n\nhttps://t.co/fGsas9PXiy",
+    "lang": "en",
+    "in_reply_to_screen_name": "mykola",
+    "in_reply_to_user_id_str": "5614412"
+  }
+}

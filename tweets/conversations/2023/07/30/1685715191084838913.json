@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1685715191084838913"
+        ],
+        "editableUntil": "2023-07-30T19:13:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1685713932328091648",
+    "id_str": "1685715191084838913",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1685715191084838913",
+    "in_reply_to_status_id": "1685713932328091648",
+    "created_at": "Sun Jul 30 18:13:15 +0000 2023",
+    "favorited": false,
+    "full_text": "I also need to tweak the personality for the coach. Basically, I run the query through an agent that has a few tools and can make a recommendation, and then a prompt with the personality that preps the answer for returning it to the chat.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

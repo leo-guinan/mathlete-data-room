@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492302383489163265"
+        ],
+        "editableUntil": "2022-02-12T01:59:48.518Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "220"
+    ],
+    "favorite_count": "3",
+    "id_str": "1492302383489163265",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1492302383489163265",
+    "created_at": "Sat Feb 12 00:59:48 +0000 2022",
+    "favorited": false,
+    "full_text": "Working on setting up a little lab environment to play with. \n\nI want to set up some Jupyter notebooks that I can use to analyze a given Twitter account. I'm hoping to establish some baseline metrics I can track against.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1872358769780548052"
+        ],
+        "editableUntil": "2024-12-26T20:08:12.116Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "21",
+            "32"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Kyla Scanlon",
+          "screen_name": "kylascan",
+          "indices": [
+            "33",
+            "42"
+          ],
+          "id_str": "2725104191",
+          "id": "2725104191"
+        },
+        {
+          "name": "❤️‍🔥 xiq in NYC until Nov 4",
+          "screen_name": "exgenesis",
+          "indices": [
+            "43",
+            "53"
+          ],
+          "id_str": "322603863",
+          "id": "322603863"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xnuMzdekLt",
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1867158260723192228?t=VwTda_dZZvDZ4H5HAdkjiA&s=19",
+          "display_url": "x.com/DefenderOfBasi…",
+          "indices": [
+            "54",
+            "77"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "0",
+    "id_str": "1872358769780548052",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1872358769780548052",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 26 19:08:12 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @DefenderOfBasic: @leo_guinan @kylascan @exgenesis https://t.co/xnuMzdekLt",
+    "lang": "qme"
+  }
+}

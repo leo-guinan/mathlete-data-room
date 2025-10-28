@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1657791585453572097"
+        ],
+        "editableUntil": "2023-05-14T17:24:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Choose Your Algorithm",
+          "screen_name": "ChooseYourAlgo",
+          "indices": [
+            "82",
+            "97"
+          ],
+          "id_str": "1613997408190402580",
+          "id": "1613997408190402580"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "2",
+    "id_str": "1657791585453572097",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1657791585453572097",
+    "created_at": "Sun May 14 16:54:48 +0000 2023",
+    "favorited": false,
+    "full_text": "Have a user interview coming up with a realtor this week.\n\nThis is where I see if @ChooseYourAlgo can help people outside the traditional creator-sphere.\n\nIt's about knowing where current solutions lack and offering improved levels above the existing state with your expertise.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339690404002881538"
+        ],
+        "editableUntil": "2020-12-17T22:54:17.215Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "domm",
+          "screen_name": "domm",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "219821581",
+          "id": "219821581"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "25"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1339690156090015744",
+    "id_str": "1339690404002881538",
+    "in_reply_to_user_id": "219821581",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339690404002881538",
+    "in_reply_to_status_id": "1339690156090015744",
+    "created_at": "Thu Dec 17 21:54:17 +0000 2020",
+    "favorited": false,
+    "full_text": "@domm The future economy.",
+    "lang": "en",
+    "in_reply_to_screen_name": "domm",
+    "in_reply_to_user_id_str": "219821581"
+  }
+}

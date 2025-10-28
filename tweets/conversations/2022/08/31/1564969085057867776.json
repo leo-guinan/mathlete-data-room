@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1564969085057867776"
+        ],
+        "editableUntil": "2022-08-31T14:01:20.254Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rajiv Verma | The Full-Stack Guy 🧑‍💻",
+          "screen_name": "hackernewbie",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "17074702",
+          "id": "17074702"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "0",
+    "id_str": "1564969085057867776",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1564969085057867776",
+    "created_at": "Wed Aug 31 13:31:20 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @hackernewbie: There’s no better way to learn something an doing it. Period. 👇",
+    "lang": "en"
+  }
+}

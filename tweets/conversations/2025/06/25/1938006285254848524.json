@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938006285254848524"
+        ],
+        "editableUntil": "2025-06-25T23:47:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tom Davenport",
+          "screen_name": "TomDavenport",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "14109795",
+          "id": "14109795"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1938002340956844190",
+    "id_str": "1938006285254848524",
+    "in_reply_to_user_id": "14109795",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938006285254848524",
+    "in_reply_to_status_id": "1938002340956844190",
+    "created_at": "Wed Jun 25 22:47:59 +0000 2025",
+    "favorited": false,
+    "full_text": "@TomDavenport You don’t need to.  \n\nBut if you don’t, does that make it harder or easier to win?",
+    "lang": "en",
+    "in_reply_to_screen_name": "TomDavenport",
+    "in_reply_to_user_id_str": "14109795"
+  }
+}

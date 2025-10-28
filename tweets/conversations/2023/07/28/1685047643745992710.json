@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1685047643745992710"
+        ],
+        "editableUntil": "2023-07-28T23:00:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "162"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1685045469108449280",
+    "id_str": "1685047643745992710",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1685047643745992710",
+    "in_reply_to_status_id": "1685045469108449280",
+    "created_at": "Fri Jul 28 22:00:39 +0000 2023",
+    "favorited": false,
+    "full_text": "@arvidkahl One could argue that the majority of my products fit that criteria...\n\n\"Neither productive nor income-generating\"\n\n😂😂😂\n\nThat's a great reminder though!",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

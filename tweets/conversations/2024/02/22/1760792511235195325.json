@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1760792511235195325"
+        ],
+        "editableUntil": "2024-02-22T23:23:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alexis Ohanian 🗽",
+          "screen_name": "alexisohanian",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "811350",
+          "id": "811350"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1760791824313061882",
+    "id_str": "1760792511235195325",
+    "in_reply_to_user_id": "811350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1760792511235195325",
+    "in_reply_to_status_id": "1760791824313061882",
+    "created_at": "Thu Feb 22 22:23:43 +0000 2024",
+    "favorited": false,
+    "full_text": "@alexisohanian Let's talk economic models then, and I'll show you what's needed to fix it.\n\nIt's not going to take a business, because businesses are part of the broken system.\n\nYou need to build an economy, a collaborative ecosystem that communicates needs and shares resources.",
+    "lang": "en",
+    "in_reply_to_screen_name": "alexisohanian",
+    "in_reply_to_user_id_str": "811350"
+  }
+}

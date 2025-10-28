@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1919815476219146643"
+        ],
+        "editableUntil": "2025-05-06T19:04:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1919815476219146643/photo/1",
+          "indices": [
+            "34",
+            "57"
+          ],
+          "url": "https://t.co/zwJegWyRR1",
+          "media_url": "http://pbs.twimg.com/media/GqSN_6oXsAA-zTx.jpg",
+          "id_str": "1919815470376529920",
+          "id": "1919815470376529920",
+          "media_url_https": "https://pbs.twimg.com/media/GqSN_6oXsAA-zTx.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/zwJegWyRR1"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "2",
+    "id_str": "1919815476219146643",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1919815476219146643",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 06 18:04:12 +0000 2025",
+    "favorited": false,
+    "full_text": "Gotta do everything big sis does! https://t.co/zwJegWyRR1",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1919815476219146643/photo/1",
+          "indices": [
+            "34",
+            "57"
+          ],
+          "url": "https://t.co/zwJegWyRR1",
+          "media_url": "http://pbs.twimg.com/media/GqSN_6oXsAA-zTx.jpg",
+          "id_str": "1919815470376529920",
+          "id": "1919815470376529920",
+          "media_url_https": "https://pbs.twimg.com/media/GqSN_6oXsAA-zTx.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/zwJegWyRR1"
+        }
+      ]
+    }
+  }
+}

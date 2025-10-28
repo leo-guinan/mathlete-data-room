@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808272805441761493"
+        ],
+        "editableUntil": "2024-07-02T23:53:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "26"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1808266932069847348",
+    "id_str": "1808272805441761493",
+    "in_reply_to_user_id": "1170701109629018117",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808272805441761493",
+    "in_reply_to_status_id": "1808266932069847348",
+    "created_at": "Tue Jul 02 22:53:27 +0000 2024",
+    "favorited": false,
+    "full_text": "@ChrisChipMonk Anytime. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "ChrischipMonk",
+    "in_reply_to_user_id_str": "1170701109629018117"
+  }
+}

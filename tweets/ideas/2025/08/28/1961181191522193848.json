@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1961181191522193848"
+        ],
+        "editableUntil": "2025-08-28T22:36:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1961181191522193848/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/09uRybJcLX",
+          "media_url": "http://pbs.twimg.com/media/GzeD5YdWQAAxq8U.jpg",
+          "id_str": "1961181184584466432",
+          "id": "1961181184584466432",
+          "media_url_https": "https://pbs.twimg.com/media/GzeD5YdWQAAxq8U.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/09uRybJcLX"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "3",
+    "id_str": "1961181191522193848",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1961181191522193848",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 28 21:36:47 +0000 2025",
+    "favorited": false,
+    "full_text": "In an abundant game, a greedy strategy is optimal. https://t.co/09uRybJcLX",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1961181191522193848/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/09uRybJcLX",
+          "media_url": "http://pbs.twimg.com/media/GzeD5YdWQAAxq8U.jpg",
+          "id_str": "1961181184584466432",
+          "id": "1961181184584466432",
+          "media_url_https": "https://pbs.twimg.com/media/GzeD5YdWQAAxq8U.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/09uRybJcLX"
+        }
+      ]
+    }
+  }
+}

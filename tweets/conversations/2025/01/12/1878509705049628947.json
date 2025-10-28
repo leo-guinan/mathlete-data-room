@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1878509705049628947"
+        ],
+        "editableUntil": "2025-01-12T19:29:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dawn Kelly",
+          "screen_name": "run4pancakes",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2784804628",
+          "id": "2784804628"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "295"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1878439824153039200",
+    "id_str": "1878509705049628947",
+    "in_reply_to_user_id": "2784804628",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1878509705049628947",
+    "in_reply_to_status_id": "1878439824153039200",
+    "created_at": "Sun Jan 12 18:29:49 +0000 2025",
+    "favorited": false,
+    "full_text": "@run4pancakes Definitely reach out if you have any questions about anything. I want to help people understand this model so we can implement it as quickly as possible, and I really appreciate your ability to communicate complex topics.\n\nIn the meantime, if you run into anything unexpected that…",
+    "lang": "en",
+    "in_reply_to_screen_name": "run4pancakes",
+    "in_reply_to_user_id_str": "2784804628"
+  }
+}

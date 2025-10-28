@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1647762676272046081"
+        ],
+        "editableUntil": "2023-04-17T01:13:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "danialhasan",
+          "screen_name": "dhasandev",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1319857338958942209",
+          "id": "1319857338958942209"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "11",
+            "23"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "Farza 🇵🇰🇺🇸",
+          "screen_name": "FarzaTV",
+          "indices": [
+            "24",
+            "32"
+          ],
+          "id_str": "327403216",
+          "id": "327403216"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "225"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1647746873476755456",
+    "id_str": "1647762676272046081",
+    "in_reply_to_user_id": "1319857338958942209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1647762676272046081",
+    "in_reply_to_status_id": "1647746873476755456",
+    "created_at": "Mon Apr 17 00:43:30 +0000 2023",
+    "favorited": false,
+    "full_text": "@dhasandev @_buildspace @FarzaTV I see where you are going, and I like it. But I'd get rid of the mention of AI. That part doesn't matter as much as the time saved by automatically analyzing, identifying, or fixing tech debt.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dhasandev",
+    "in_reply_to_user_id_str": "1319857338958942209"
+  }
+}

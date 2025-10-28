@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1688914074363641856"
+        ],
+        "editableUntil": "2023-08-08T15:04:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Z36SdNDbBY",
+          "expanded_url": "https://invite.duolingo.com/BDHTZTB5CWWKTVNKFCKJYSAUHU?v=sm",
+          "display_url": "invite.duolingo.com/BDHTZTB5CWWKTV…",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1688914074363641856/photo/1",
+          "indices": [
+            "119",
+            "142"
+          ],
+          "url": "https://t.co/3Okv1pdC0d",
+          "media_url": "http://pbs.twimg.com/media/F3A6ZnvaQAATLRU.jpg",
+          "id_str": "1688914072102912000",
+          "id": "1688914072102912000",
+          "media_url_https": "https://pbs.twimg.com/media/F3A6ZnvaQAATLRU.jpg",
+          "sizes": {
+            "large": {
+              "w": "1000",
+              "h": "1000",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1000",
+              "h": "1000",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3Okv1pdC0d"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "142"
+    ],
+    "favorite_count": "1",
+    "id_str": "1688914074363641856",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1688914074363641856",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 08 14:04:28 +0000 2023",
+    "favorited": false,
+    "full_text": "Learn a language with me for free! Duolingo is fun, and proven to work. Here’s my invite link: https://t.co/Z36SdNDbBY https://t.co/3Okv1pdC0d",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1688914074363641856/photo/1",
+          "indices": [
+            "119",
+            "142"
+          ],
+          "url": "https://t.co/3Okv1pdC0d",
+          "media_url": "http://pbs.twimg.com/media/F3A6ZnvaQAATLRU.jpg",
+          "id_str": "1688914072102912000",
+          "id": "1688914072102912000",
+          "media_url_https": "https://pbs.twimg.com/media/F3A6ZnvaQAATLRU.jpg",
+          "sizes": {
+            "large": {
+              "w": "1000",
+              "h": "1000",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1000",
+              "h": "1000",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3Okv1pdC0d"
+        }
+      ]
+    }
+  }
+}

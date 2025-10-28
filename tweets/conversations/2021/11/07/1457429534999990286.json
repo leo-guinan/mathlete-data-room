@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1457429534999990286"
+        ],
+        "editableUntil": "2021-11-07T20:27:33.532Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uHirxGopx9",
+          "expanded_url": "https://x.com/CoreyWilksPsyD/status/1457391882917629955?t=o3iHfkMvmRZCuXRBLZFgZA&s=19",
+          "display_url": "x.com/CoreyWilksPsyD…",
+          "indices": [
+            "136",
+            "159"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1457391490829799431",
+    "id_str": "1457429534999990286",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1457429534999990286",
+    "in_reply_to_status_id": "1457391490829799431",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 07 19:27:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@bkh_leung My old feeling on it was said really well here by Corey.\n\nBut now, I'm starting to think of it from the users point of view \nhttps://t.co/uHirxGopx9",
+    "lang": "en",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862"
+  }
+}

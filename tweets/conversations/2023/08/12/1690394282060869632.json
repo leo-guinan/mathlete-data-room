@@ -1,0 +1,135 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1690394282060869632"
+        ],
+        "editableUntil": "2023-08-12T17:06:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "24",
+            "36"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "37",
+            "53"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1690394282060869632/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/mmTNcGkBEk",
+          "media_url": "http://pbs.twimg.com/media/F3V8o3ZXIAEGhDu.png",
+          "id_str": "1690394276654424065",
+          "id": "1690394276654424065",
+          "media_url_https": "https://pbs.twimg.com/media/F3V8o3ZXIAEGhDu.png",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1230",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "408",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "721",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mmTNcGkBEk"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "1",
+    "id_str": "1690394282060869632",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1690394282060869632",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 12 16:06:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Week 1 in the books for @_buildspace @_nightsweekends https://t.co/mmTNcGkBEk",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1690394282060869632/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/mmTNcGkBEk",
+          "media_url": "http://pbs.twimg.com/media/F3V8o3ZXIAEGhDu.png",
+          "id_str": "1690394276654424065",
+          "id": "1690394276654424065",
+          "media_url_https": "https://pbs.twimg.com/media/F3V8o3ZXIAEGhDu.png",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1230",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "408",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "721",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mmTNcGkBEk"
+        }
+      ]
+    }
+  }
+}

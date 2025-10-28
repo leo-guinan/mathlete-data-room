@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1886921862719983786"
+        ],
+        "editableUntil": "2025-02-05T00:36:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Wynes",
+          "screen_name": "cjwynes",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "240814977",
+          "id": "240814977"
+        },
+        {
+          "name": "Jon 🌌",
+          "screen_name": "jon_vs_moloch",
+          "indices": [
+            "9",
+            "23"
+          ],
+          "id_str": "1759597498379980800",
+          "id": "1759597498379980800"
+        },
+        {
+          "name": "sarah",
+          "screen_name": "littIeramblings",
+          "indices": [
+            "24",
+            "40"
+          ],
+          "id_str": "617055739",
+          "id": "617055739"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "322"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1886906964216631584",
+    "id_str": "1886921862719983786",
+    "in_reply_to_user_id": "240814977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1886921862719983786",
+    "in_reply_to_status_id": "1886906964216631584",
+    "created_at": "Tue Feb 04 23:36:44 +0000 2025",
+    "favorited": false,
+    "full_text": "@cjwynes @jon_vs_moloch @littIeramblings Self-promoting? Sure, because I'm trying to get some extremely important ideas to the people who need to hear them. And if I'm not the one promoting them, who will?\n\nHustler? Not in the common sense of the word. If I'm doing it for the money, I'm terrible at it, because I've been…",
+    "lang": "en",
+    "in_reply_to_screen_name": "cjwynes",
+    "in_reply_to_user_id_str": "240814977"
+  }
+}

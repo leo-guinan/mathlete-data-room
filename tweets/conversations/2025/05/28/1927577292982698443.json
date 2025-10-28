@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1927577292982698443"
+        ],
+        "editableUntil": "2025-05-28T05:06:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "n8n.io",
+          "screen_name": "n8n_io",
+          "indices": [
+            "17",
+            "24"
+          ],
+          "id_str": "1068479892537384960",
+          "id": "1068479892537384960"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "171"
+    ],
+    "favorite_count": "3",
+    "id_str": "1927577292982698443",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1927577292982698443",
+    "created_at": "Wed May 28 04:06:53 +0000 2025",
+    "favorited": false,
+    "full_text": "Just deployed an @n8n_io server to handle the AI operations for my new product I'm launching tonight and now I'm kicking myself for not setting this up earlier. \n\nOh well.",
+    "lang": "en"
+  }
+}

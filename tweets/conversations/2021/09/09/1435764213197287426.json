@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1435764213197287426"
+        ],
+        "editableUntil": "2021-09-09T01:37:18.292Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "30",
+            "37"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "63",
+            "74"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wK3dnIBhWJ",
+          "expanded_url": "https://vm.tiktok.com/ZMR5VmnXt/",
+          "display_url": "vm.tiktok.com/ZMR5VmnXt/",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "153"
+    ],
+    "favorite_count": "5",
+    "id_str": "1435764213197287426",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1435764213197287426",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 09 00:37:18 +0000 2021",
+    "favorited": false,
+    "full_text": "Check out LobowSPARK's video! #TikTok https://t.co/wK3dnIBhWJ\n\n@LobowSpark bringing the heat again! Anytime I need energy, this is where I go. Fuels my 🔥",
+    "lang": "en"
+  }
+}

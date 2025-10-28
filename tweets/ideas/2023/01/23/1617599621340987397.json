@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617599621340987397"
+        ],
+        "editableUntil": "2023-01-23T19:36:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1617599621340987397/photo/1",
+          "indices": [
+            "260",
+            "283"
+          ],
+          "url": "https://t.co/DP3Qt1isEL",
+          "media_url": "http://pbs.twimg.com/media/FnLeR-JWAAYVJjK.jpg",
+          "id_str": "1617599616500760582",
+          "id": "1617599616500760582",
+          "media_url_https": "https://pbs.twimg.com/media/FnLeR-JWAAYVJjK.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DP3Qt1isEL"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "30",
+    "id_str": "1617599621340987397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617599621340987397",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 23 19:06:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Showed my 8-year-old my approach to logo development last night. He's been begging to set up a YouTube channel so we finally started one last night.\n\nI used ChatGPT to create the prompt and stuck it into Midjourney.\n \nWe were both quite happy with the result. https://t.co/DP3Qt1isEL",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1617599621340987397/photo/1",
+          "indices": [
+            "260",
+            "283"
+          ],
+          "url": "https://t.co/DP3Qt1isEL",
+          "media_url": "http://pbs.twimg.com/media/FnLeR-JWAAYVJjK.jpg",
+          "id_str": "1617599616500760582",
+          "id": "1617599616500760582",
+          "media_url_https": "https://pbs.twimg.com/media/FnLeR-JWAAYVJjK.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DP3Qt1isEL"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1575959657730170881"
+        ],
+        "editableUntil": "2022-09-30T21:53:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "ADHD Designer 🟣👩🏻‍💻",
+          "screen_name": "ADHDdesigner",
+          "indices": [
+            "37",
+            "50"
+          ],
+          "id_str": "1270519607846109184",
+          "id": "1270519607846109184"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3VEu1Q5mcP",
+          "expanded_url": "https://x.com/LobowSpark/status/1575952462078701568",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "70",
+            "93"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "2",
+    "id_str": "1575959657730170881",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1575959657730170881",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 30 21:23:56 +0000 2022",
+    "favorited": false,
+    "full_text": "Next highlight reel is live!\n\nThanks @ADHDdesigner for being awesome! https://t.co/3VEu1Q5mcP",
+    "lang": "en"
+  }
+}

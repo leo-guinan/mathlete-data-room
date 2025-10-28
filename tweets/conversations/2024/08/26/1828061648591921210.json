@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1828061648591921210"
+        ],
+        "editableUntil": "2024-08-26T14:27:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1827838379112685620",
+    "id_str": "1828061648591921210",
+    "in_reply_to_user_id": "45851500",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1828061648591921210",
+    "in_reply_to_status_id": "1827838379112685620",
+    "created_at": "Mon Aug 26 13:27:15 +0000 2024",
+    "favorited": false,
+    "full_text": "@jayclouse Thanks Jay! I appreciate you man. 🙏",
+    "lang": "en",
+    "in_reply_to_screen_name": "jayclouse",
+    "in_reply_to_user_id_str": "45851500"
+  }
+}

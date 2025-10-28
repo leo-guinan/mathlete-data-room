@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1622656559414140930"
+        ],
+        "editableUntil": "2023-02-06T18:30:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y0gZ7yFdAb",
+          "expanded_url": "https://pioneer.app/leo.guinan/progress-updates/791fac8a/2023-02-06",
+          "display_url": "pioneer.app/leo.guinan/pro…",
+          "indices": [
+            "223",
+            "246"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "246"
+    ],
+    "favorite_count": "0",
+    "id_str": "1622656559414140930",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1622656559414140930",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 06 18:00:45 +0000 2023",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\n- Figured out automatic transcriptions and added it to flow\n\nThat was the main blocker for getting users onboarded, so yes, accomplished what I needed to\n\nRead the rest here:\n\n https://t.co/y0gZ7yFdAb",
+    "lang": "en"
+  }
+}

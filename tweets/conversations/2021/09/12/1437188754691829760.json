@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1437188754691829760"
+        ],
+        "editableUntil": "2021-09-12T23:57:55.451Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MICHAEL",
+          "screen_name": "awemik",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "936916597",
+          "id": "936916597"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "25"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1437187015808888837",
+    "id_str": "1437188754691829760",
+    "in_reply_to_user_id": "936916597",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1437188754691829760",
+    "in_reply_to_status_id": "1437187015808888837",
+    "created_at": "Sun Sep 12 22:57:55 +0000 2021",
+    "favorited": false,
+    "full_text": "@awemik Thanks Michael! 😊",
+    "lang": "en",
+    "in_reply_to_screen_name": "awemik",
+    "in_reply_to_user_id_str": "936916597"
+  }
+}

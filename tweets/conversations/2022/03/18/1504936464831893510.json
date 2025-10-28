@@ -1,0 +1,69 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1504936464831893510"
+        ],
+        "editableUntil": "2022-03-18T22:43:08.240Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GoodProblems",
+          "indices": [
+            "163",
+            "176"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mike Cardona | Automation Alchemist 🧪🔧",
+          "screen_name": "CSMikeCardona",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "2904219673",
+          "id": "2904219673"
+        },
+        {
+          "name": "Amy's Vue on this",
+          "screen_name": "detwiler_amy",
+          "indices": [
+            "15",
+            "28"
+          ],
+          "id_str": "4683397465",
+          "id": "4683397465"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "185"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1504807948681302017",
+    "id_str": "1504936464831893510",
+    "in_reply_to_user_id": "2904219673",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1504936464831893510",
+    "in_reply_to_status_id": "1504807948681302017",
+    "created_at": "Fri Mar 18 21:43:08 +0000 2022",
+    "favorited": false,
+    "full_text": "@CSMikeCardona @detwiler_amy Plenty of time! \n\nI'll be recording all sorts of episodes in the coming weeks. Didn't plan on having this much interest this early 😂\n\n#GoodProblems right? 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "CSMikeCardona",
+    "in_reply_to_user_id_str": "2904219673"
+  }
+}

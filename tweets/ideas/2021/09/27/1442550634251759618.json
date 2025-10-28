@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1442550634251759618"
+        ],
+        "editableUntil": "2021-09-27T19:04:07.157Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Tweet100",
+          "indices": [
+            "236",
+            "245"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "245"
+    ],
+    "favorite_count": "2",
+    "id_str": "1442550634251759618",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1442550634251759618",
+    "created_at": "Mon Sep 27 18:04:07 +0000 2021",
+    "favorited": false,
+    "full_text": "One thing that I don't think people realize: blockchain isn't required for decentralization. \n\nIt makes a lot of parts easier and enforces it to some extent, but in terms of the actual model, can be implemented with web2 technologies.\n\n#Tweet100",
+    "lang": "en"
+  }
+}

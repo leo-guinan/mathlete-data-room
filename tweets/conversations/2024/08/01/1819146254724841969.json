@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819146254724841969"
+        ],
+        "editableUntil": "2024-08-02T00:00:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim Fanara",
+          "screen_name": "jimfanara",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1271253394343288833",
+          "id": "1271253394343288833"
+        },
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "11",
+            "20"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jaBVuIHr09",
+          "expanded_url": "https://leoguinanai.gumroad.com/l/ai-native",
+          "display_url": "leoguinanai.gumroad.com/l/ai-native",
+          "indices": [
+            "206",
+            "229"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1819145518645158236",
+    "id_str": "1819146254724841969",
+    "in_reply_to_user_id": "1271253394343288833",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1819146254724841969",
+    "in_reply_to_status_id": "1819145518645158236",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 01 23:00:39 +0000 2024",
+    "favorited": false,
+    "full_text": "@jimfanara @finereli Any time! I absolutely love this stuff, so I'm always excited when I get to go down the deep rabbit holes haha. \n\nThe hard part for me is NOT going down them 😂\n\nHere's the course page: https://t.co/jaBVuIHr09\n\nwould love your feedback!",
+    "lang": "en",
+    "in_reply_to_screen_name": "jimfanara",
+    "in_reply_to_user_id_str": "1271253394343288833"
+  }
+}

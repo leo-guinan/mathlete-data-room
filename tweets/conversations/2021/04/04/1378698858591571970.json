@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1378698858591571970"
+        ],
+        "editableUntil": "2021-04-04T14:19:57.531Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Christina Garnett",
+          "screen_name": "ThatChristinaG",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "725350782497906688",
+          "id": "725350782497906688"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1378689152963776521",
+    "id_str": "1378698858591571970",
+    "in_reply_to_user_id": "725350782497906688",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1378698858591571970",
+    "in_reply_to_status_id": "1378689152963776521",
+    "created_at": "Sun Apr 04 13:19:57 +0000 2021",
+    "favorited": false,
+    "full_text": "@ThatChristinaG Thanks for writing it. I'm trying to figure out the whole community building thing and you clarified some thoughts for me. 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "ThatChristinaG",
+    "in_reply_to_user_id_str": "725350782497906688"
+  }
+}

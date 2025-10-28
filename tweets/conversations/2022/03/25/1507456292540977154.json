@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507456292540977154"
+        ],
+        "editableUntil": "2022-03-25T21:36:01.982Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "28",
+            "36"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        },
+        {
+          "name": "Notion",
+          "screen_name": "NotionHQ",
+          "indices": [
+            "39",
+            "48"
+          ],
+          "id_str": "708915428454576128",
+          "id": "708915428454576128"
+        },
+        {
+          "name": "Obsidian",
+          "screen_name": "obsdmd",
+          "indices": [
+            "51",
+            "58"
+          ],
+          "id_str": "1239876481951596545",
+          "id": "1239876481951596545"
+        },
+        {
+          "name": "Tony Dinh 🎯",
+          "screen_name": "tdinh_me",
+          "indices": [
+            "114",
+            "123"
+          ],
+          "id_str": "331379561",
+          "id": "331379561"
+        },
+        {
+          "name": "Hypefury - Simple audience building",
+          "screen_name": "hypefury",
+          "indices": [
+            "134",
+            "143"
+          ],
+          "id_str": "1160721354649460736",
+          "id": "1160721354649460736"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1507456291035254784",
+    "id_str": "1507456292540977154",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507456292540977154",
+    "in_reply_to_status_id": "1507456291035254784",
+    "created_at": "Fri Mar 25 20:36:01 +0000 2022",
+    "favorited": false,
+    "full_text": "My guess is that tools like @copy_ai , @NotionHQ , @obsdmd will show up.\n\nPerhaps Black Magic? I know people love @tdinh_me's tools.\n\n@hypefury?\n\nI hope @feathercrm shows up somewhere. I might have to fill it out with how much it's helped me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553774503687233538"
+        ],
+        "editableUntil": "2022-07-31T16:38:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NoGoingBack",
+          "indices": [
+            "119",
+            "131"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/klNSrMV4PD",
+          "expanded_url": "https://x.com/WIRED/status/1553772261009670144",
+          "display_url": "x.com/WIRED/status/1…",
+          "indices": [
+            "132",
+            "155"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "155"
+    ],
+    "favorite_count": "0",
+    "id_str": "1553774503687233538",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553774503687233538",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 31 16:08:04 +0000 2022",
+    "favorited": false,
+    "full_text": "I didn't know they left.\n\nI've owned them since I realized I could keep a Lord of the Rings book in the side pocket. \n\n#NoGoingBack https://t.co/klNSrMV4PD",
+    "lang": "en"
+  }
+}

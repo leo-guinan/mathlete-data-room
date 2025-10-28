@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362409303550926854"
+        ],
+        "editableUntil": "2021-02-18T15:31:04.964Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IvJHi7pltR",
+          "expanded_url": "https://x.com/leo_guinan/status/1362361363247599618",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "1",
+    "id_str": "1362409303550926854",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362409303550926854",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 18 14:31:04 +0000 2021",
+    "favorited": false,
+    "full_text": "Starting in 30 minutes: a 24 hour hackathon in which I build out a full SaaS platform. Please share! https://t.co/IvJHi7pltR",
+    "lang": "en"
+  }
+}

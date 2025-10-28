@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1349077490548027394"
+        ],
+        "editableUntil": "2021-01-12T20:35:13.051Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "kevin zuppe",
+          "screen_name": "KevinZuppe",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "263435589",
+          "id": "263435589"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/KevinZuppe/status/1349074619207208964/photo/1",
+          "source_status_id": "1349074619207208964",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/kR9Z4MRR7F",
+          "media_url": "http://pbs.twimg.com/media/ErjgNxmW8AAzBHz.jpg",
+          "id_str": "1349074615654608896",
+          "source_user_id": "263435589",
+          "id": "1349074615654608896",
+          "media_url_https": "https://pbs.twimg.com/media/ErjgNxmW8AAzBHz.jpg",
+          "source_user_id_str": "263435589",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "809",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1380",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "458",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1349074619207208964",
+          "display_url": "pic.x.com/kR9Z4MRR7F"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1349077490548027394",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1349077490548027394",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 12 19:35:13 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @KevinZuppe: It’s been a wild week https://t.co/kR9Z4MRR7F",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/KevinZuppe/status/1349074619207208964/photo/1",
+          "source_status_id": "1349074619207208964",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/kR9Z4MRR7F",
+          "media_url": "http://pbs.twimg.com/media/ErjgNxmW8AAzBHz.jpg",
+          "id_str": "1349074615654608896",
+          "source_user_id": "263435589",
+          "id": "1349074615654608896",
+          "media_url_https": "https://pbs.twimg.com/media/ErjgNxmW8AAzBHz.jpg",
+          "source_user_id_str": "263435589",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "809",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1380",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "458",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1349074619207208964",
+          "display_url": "pic.x.com/kR9Z4MRR7F"
+        }
+      ]
+    }
+  }
+}

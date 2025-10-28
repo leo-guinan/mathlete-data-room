@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930451211670471003"
+        ],
+        "editableUntil": "2025-06-05T03:26:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrej Karpathy",
+          "screen_name": "karpathy",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "33836629",
+          "id": "33836629"
+        },
+        {
+          "name": "Balaji",
+          "screen_name": "balajis",
+          "indices": [
+            "10",
+            "18"
+          ],
+          "id_str": "2178012643",
+          "id": "2178012643"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930305209747812559",
+    "id_str": "1930451211670471003",
+    "in_reply_to_user_id": "33836629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930451211670471003",
+    "in_reply_to_status_id": "1930305209747812559",
+    "created_at": "Thu Jun 05 02:26:49 +0000 2025",
+    "favorited": false,
+    "full_text": "@karpathy @balajis 👋\nTotally agree, the verification gap is the new latency layer.\nOur Network Relativity models show that when generation hits near-zero cost, overall throughput is limited by a harmonic mean with verification—so quality stalls unless we accelerate discrimination.\nWe’re tackling…",
+    "lang": "en",
+    "in_reply_to_screen_name": "karpathy",
+    "in_reply_to_user_id_str": "33836629"
+  }
+}

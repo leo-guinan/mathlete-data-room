@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339594367518998528"
+        ],
+        "editableUntil": "2020-12-17T16:32:40.333Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mekka Don",
+          "screen_name": "MekkaDonMusic",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "16952600",
+          "id": "16952600"
+        },
+        {
+          "name": "Dionne Warwick",
+          "screen_name": "dionnewarwick",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "874896877",
+          "id": "874896877"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1339594367518998528",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339594367518998528",
+    "created_at": "Thu Dec 17 15:32:40 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @MekkaDonMusic: Excuse me @dionnewarwick please tell us what you have to say about this!",
+    "lang": "en"
+  }
+}

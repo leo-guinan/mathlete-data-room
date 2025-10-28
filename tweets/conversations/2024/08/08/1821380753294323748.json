@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821380753294323748"
+        ],
+        "editableUntil": "2024-08-08T03:59:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9fHNdaO8co",
+          "expanded_url": "https://www.amazon.com/AI-2041-Ten-Visions-Future/dp/059323829X",
+          "display_url": "amazon.com/AI-2041-Ten-Vi…",
+          "indices": [
+            "65",
+            "88"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1821363248207204681",
+    "id_str": "1821380753294323748",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821380753294323748",
+    "in_reply_to_status_id": "1821363248207204681",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 08 02:59:45 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic On a related note, highly recommend this book.\n\nhttps://t.co/9fHNdaO8co",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1678120588924076033"
+        ],
+        "editableUntil": "2023-07-09T20:15:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1678094027525177344",
+    "id_str": "1678120588924076033",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1678120588924076033",
+    "in_reply_to_status_id": "1678094027525177344",
+    "created_at": "Sun Jul 09 19:15:01 +0000 2023",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Not great so far. I'm having trouble getting Google to recognize the site, so I'm not getting any traffic into the funnel. \n\nSpending some time learning about that whole process so I get that resolved.\n\nOnce that's taken care of, I can spend more time on the bot itself.\n\nDid…",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

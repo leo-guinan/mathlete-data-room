@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1674054883794644996"
+        ],
+        "editableUntil": "2023-06-28T14:59:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1674054883794644996/photo/1",
+          "indices": [
+            "264",
+            "287"
+          ],
+          "url": "https://t.co/EB6ooHxcsp",
+          "media_url": "http://pbs.twimg.com/media/FztwCzpXwAAE5LG.jpg",
+          "id_str": "1674054880024051712",
+          "id": "1674054880024051712",
+          "media_url_https": "https://pbs.twimg.com/media/FztwCzpXwAAE5LG.jpg",
+          "sizes": {
+            "large": {
+              "w": "1386",
+              "h": "834",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "409",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "722",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EB6ooHxcsp"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "3",
+    "id_str": "1674054883794644996",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1674054883794644996",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 28 13:59:21 +0000 2023",
+    "favorited": false,
+    "full_text": "The YouTube algorithm is really funny.\n\nI've had some fun watching how my shorts do, because they'll sit with no views for several hours, and then they hit the feeds for about an hour. After that, it flattens out. \n\nThis is my latest short. 2 views after 6 hours. https://t.co/EB6ooHxcsp",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1674054883794644996/photo/1",
+          "indices": [
+            "264",
+            "287"
+          ],
+          "url": "https://t.co/EB6ooHxcsp",
+          "media_url": "http://pbs.twimg.com/media/FztwCzpXwAAE5LG.jpg",
+          "id_str": "1674054880024051712",
+          "id": "1674054880024051712",
+          "media_url_https": "https://pbs.twimg.com/media/FztwCzpXwAAE5LG.jpg",
+          "sizes": {
+            "large": {
+              "w": "1386",
+              "h": "834",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "409",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "722",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EB6ooHxcsp"
+        }
+      ]
+    }
+  }
+}

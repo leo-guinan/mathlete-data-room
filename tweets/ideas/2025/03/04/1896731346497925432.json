@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1896731346497925432"
+        ],
+        "editableUntil": "2025-03-04T02:16:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4KtyNN52mJ",
+          "expanded_url": "https://www.buildinpublicuniversity.com/complexity-inflation-the-hidden-economics-of-scaling/",
+          "display_url": "buildinpublicuniversity.com/complexity-inf…",
+          "indices": [
+            "149",
+            "172"
+          ]
+        },
+        {
+          "url": "https://t.co/CdnznmMso8",
+          "expanded_url": "https://x.com/ungatedlife/status/1896726923214233676",
+          "display_url": "x.com/ungatedlife/st…",
+          "indices": [
+            "173",
+            "196"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "196"
+    ],
+    "favorite_count": "0",
+    "id_str": "1896731346497925432",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1896731346497925432",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 04 01:16:07 +0000 2025",
+    "favorited": false,
+    "full_text": "This is a perfect example of complexity inflation.\n\nThings are about to start rapidly breaking down because AI is going to eat complexity for lunch.\nhttps://t.co/4KtyNN52mJ https://t.co/CdnznmMso8",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1965763447578349879"
+        ],
+        "editableUntil": "2025-09-10T14:05:02.678Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1965761372127641858/photo/1",
+          "source_status_id": "1965761372127641858",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/Kzxdq4o0cb",
+          "media_url": "http://pbs.twimg.com/media/G0fJVU4WkAAHM_T.jpg",
+          "id_str": "1965761130590015488",
+          "source_user_id": "1680757426889342977",
+          "id": "1965761130590015488",
+          "media_url_https": "https://pbs.twimg.com/media/G0fJVU4WkAAHM_T.jpg",
+          "source_user_id_str": "1680757426889342977",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "424",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1278",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "749",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1965761372127641858",
+          "display_url": "pic.x.com/Kzxdq4o0cb"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "0",
+    "id_str": "1965763447578349879",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1965763447578349879",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 10 13:05:02 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @DefenderOfBasic: does this make sense? https://t.co/Kzxdq4o0cb",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1965761372127641858/photo/1",
+          "source_status_id": "1965761372127641858",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/Kzxdq4o0cb",
+          "media_url": "http://pbs.twimg.com/media/G0fJVU4WkAAHM_T.jpg",
+          "id_str": "1965761130590015488",
+          "source_user_id": "1680757426889342977",
+          "id": "1965761130590015488",
+          "media_url_https": "https://pbs.twimg.com/media/G0fJVU4WkAAHM_T.jpg",
+          "source_user_id_str": "1680757426889342977",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "424",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1278",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "749",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1965761372127641858",
+          "display_url": "pic.x.com/Kzxdq4o0cb"
+        }
+      ]
+    }
+  }
+}

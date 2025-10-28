@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536473899415765001"
+        ],
+        "editableUntil": "2022-06-13T22:51:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        },
+        {
+          "name": "🦾✝️🤳 Jesus needs a minute",
+          "screen_name": "evan_just_evan",
+          "indices": [
+            "16",
+            "31"
+          ],
+          "id_str": "1282006421551415298",
+          "id": "1282006421551415298"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "71"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1536472818661072897",
+    "id_str": "1536473899415765001",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536473899415765001",
+    "in_reply_to_status_id": "1536472818661072897",
+    "created_at": "Mon Jun 13 22:21:38 +0000 2022",
+    "favorited": false,
+    "full_text": "@markyerkes1734 @evan_just_evan That just sets an even better ambiance!",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939"
+  }
+}

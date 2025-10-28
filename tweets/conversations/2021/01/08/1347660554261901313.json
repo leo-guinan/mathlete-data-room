@@ -1,0 +1,70 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347660554261901313"
+        ],
+        "editableUntil": "2021-01-08T22:44:49.115Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Desi Geek Girls",
+          "screen_name": "DesiGeekGirls",
+          "indices": [
+            "16",
+            "30"
+          ],
+          "id_str": "828626903208706048",
+          "id": "828626903208706048"
+        },
+        {
+          "name": "Museum of Science Fiction",
+          "screen_name": "Museum_SciFi",
+          "indices": [
+            "31",
+            "44"
+          ],
+          "id_str": "1336670436",
+          "id": "1336670436"
+        },
+        {
+          "name": "Troy Gilbert",
+          "screen_name": "troygilbert",
+          "indices": [
+            "45",
+            "57"
+          ],
+          "id_str": "14379148",
+          "id": "14379148"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "176"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1347659266526748676",
+    "id_str": "1347660554261901313",
+    "in_reply_to_user_id": "1279465770716667919",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347660554261901313",
+    "in_reply_to_status_id": "1347659266526748676",
+    "created_at": "Fri Jan 08 21:44:49 +0000 2021",
+    "favorited": false,
+    "full_text": "@CitizenUpgrade @DesiGeekGirls @Museum_SciFi @troygilbert Well, I WAS trying to start my company. But now....🤣🤣🤣\n\nDefinitely going to check it out though.  Thanks for the link!",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1279465770716667919"
+  }
+}

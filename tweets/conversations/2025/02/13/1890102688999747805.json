@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890102688999747805"
+        ],
+        "editableUntil": "2025-02-13T19:16:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lachlan Phillips exo/acc 👾",
+          "screen_name": "bitcloud",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "14865350",
+          "id": "14865350"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1890101790290637179",
+    "id_str": "1890102688999747805",
+    "in_reply_to_user_id": "14865350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890102688999747805",
+    "in_reply_to_status_id": "1890101790290637179",
+    "created_at": "Thu Feb 13 18:16:12 +0000 2025",
+    "favorited": false,
+    "full_text": "@bitcloud Oh, it's over, but in the sense I've already won.\n\nThe problem isn't at the level of abstraction everyone is looking at.\n\nThe scaffolding is moving into place behind the scenes.\n\nOnce it's in place, we simply flip a switch and things change rapidly as it comes online.\n\nThat…",
+    "lang": "en",
+    "in_reply_to_screen_name": "bitcloud",
+    "in_reply_to_user_id_str": "14865350"
+  }
+}

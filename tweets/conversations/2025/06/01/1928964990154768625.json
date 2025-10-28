@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928964990154768625"
+        ],
+        "editableUntil": "2025-06-01T01:01:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "58",
+            "68"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "69",
+            "82"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        },
+        {
+          "name": "Eric Simons",
+          "screen_name": "EricSimons",
+          "indices": [
+            "83",
+            "94"
+          ],
+          "id_str": "134503786",
+          "id": "134503786"
+        },
+        {
+          "name": "bolt.new",
+          "screen_name": "boltdotnew",
+          "indices": [
+            "201",
+            "212"
+          ],
+          "id_str": "2279695508",
+          "id": "2279695508"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1928964194872754582",
+    "id_str": "1928964990154768625",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928964990154768625",
+    "in_reply_to_status_id": "1928964194872754582",
+    "created_at": "Sun Jun 01 00:01:06 +0000 2025",
+    "favorited": false,
+    "full_text": "Let's see if there's anyone out there looking for an idea @thisiskp_ @gregisenberg @EricSimons \n\nI'm trying to get my wife to build it, and I showed her how to create the first version in 5 minutes on @boltdotnew, but I don't think she's going to go founder mode on it...",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

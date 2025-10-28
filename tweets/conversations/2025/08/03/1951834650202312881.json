@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1951834650202312881"
+        ],
+        "editableUntil": "2025-08-03T03:36:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mandy",
+          "screen_name": "hetgrijzemeisje",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1599345455149842432",
+          "id": "1599345455149842432"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1951562018361573572",
+    "id_str": "1951834650202312881",
+    "in_reply_to_user_id": "1599345455149842432",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1951834650202312881",
+    "in_reply_to_status_id": "1951562018361573572",
+    "created_at": "Sun Aug 03 02:36:58 +0000 2025",
+    "favorited": false,
+    "full_text": "@hetgrijzemeisje Glad it was helpful. Honestly, I was mostly just reflecting on it for myself. \n\nIt's been a very weird few months for me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hetgrijzemeisje",
+    "in_reply_to_user_id_str": "1599345455149842432"
+  }
+}

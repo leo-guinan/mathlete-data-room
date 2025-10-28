@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1455604380036698114"
+        ],
+        "editableUntil": "2021-11-02T19:35:02.679Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Prateek",
+          "screen_name": "fromprateek1",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1400472796778700809",
+          "id": "1400472796778700809"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1455602010905010180",
+    "id_str": "1455604380036698114",
+    "in_reply_to_user_id": "1400472796778700809",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1455604380036698114",
+    "in_reply_to_status_id": "1455602010905010180",
+    "created_at": "Tue Nov 02 18:35:02 +0000 2021",
+    "favorited": false,
+    "full_text": "@fromprateek1 See where the common thread is and start building there. \n\nThat way, no matter which way you end up going, you'll have gotten yourself closer to a goal.",
+    "lang": "en",
+    "in_reply_to_screen_name": "fromprateek1",
+    "in_reply_to_user_id_str": "1400472796778700809"
+  }
+}

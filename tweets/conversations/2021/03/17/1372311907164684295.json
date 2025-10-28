@@ -1,0 +1,142 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1372311907164684295"
+        ],
+        "editableUntil": "2021-03-17T23:20:29.647Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "amanimalc",
+          "screen_name": "Amanimalc",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "1165657560168505344",
+          "id": "1165657560168505344"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1372311907164684295/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/R5gf0c7yEQ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EwtuWhtXEAAq_oZ.jpg",
+          "id_str": "1372311844749250560",
+          "id": "1372311844749250560",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EwtuWhtXEAAq_oZ.jpg",
+          "sizes": {
+            "small": {
+              "w": "200",
+              "h": "90",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "200",
+              "h": "90",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "200",
+              "h": "90",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "90",
+              "h": "90",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/R5gf0c7yEQ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1372269202569101322",
+    "id_str": "1372311907164684295",
+    "in_reply_to_user_id": "753773280",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1372311907164684295",
+    "in_reply_to_status_id": "1372269202569101322",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 17 22:20:29 +0000 2021",
+    "favorited": false,
+    "full_text": "@TheStartupRonin @Amanimalc https://t.co/R5gf0c7yEQ",
+    "lang": "qme",
+    "in_reply_to_user_id_str": "753773280",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1372311907164684295/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/R5gf0c7yEQ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EwtuWhtXEAAq_oZ.jpg",
+          "id_str": "1372311844749250560",
+          "video_info": {
+            "aspect_ratio": [
+              "20",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EwtuWhtXEAAq_oZ.mp4"
+              }
+            ]
+          },
+          "id": "1372311844749250560",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EwtuWhtXEAAq_oZ.jpg",
+          "sizes": {
+            "small": {
+              "w": "200",
+              "h": "90",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "200",
+              "h": "90",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "200",
+              "h": "90",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "90",
+              "h": "90",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/R5gf0c7yEQ"
+        }
+      ]
+    }
+  }
+}

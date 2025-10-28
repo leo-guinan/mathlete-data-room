@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1888666077434929174"
+        ],
+        "editableUntil": "2025-02-09T20:07:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Von (Child of Spinoza)",
+          "screen_name": "simpforasi",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "470376158",
+          "id": "470376158"
+        },
+        {
+          "name": "Liv Boeree",
+          "screen_name": "Liv_Boeree",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "25422302",
+          "id": "25422302"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BZfdRad3pt",
+          "expanded_url": "https://youtu.be/uUgB-TaTqkg?feature=shared",
+          "display_url": "youtu.be/uUgB-TaTqkg?fe…",
+          "indices": [
+            "85",
+            "108"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1888648417410519478",
+    "id_str": "1888666077434929174",
+    "in_reply_to_user_id": "470376158",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1888666077434929174",
+    "in_reply_to_status_id": "1888648417410519478",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 09 19:07:37 +0000 2025",
+    "favorited": false,
+    "full_text": "@simpforasi @Liv_Boeree Here's the first video that outlines more of what I'm doing:\nhttps://t.co/BZfdRad3pt",
+    "lang": "en",
+    "in_reply_to_screen_name": "simpforasi",
+    "in_reply_to_user_id_str": "470376158"
+  }
+}

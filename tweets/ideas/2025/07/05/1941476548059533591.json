@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941476548059533591"
+        ],
+        "editableUntil": "2025-07-05T13:37:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941476548059533591/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/ivbdSlQkO8",
+          "media_url": "http://pbs.twimg.com/media/GvGCWN0WAAAjHh9.png",
+          "id_str": "1941476232551333888",
+          "id": "1941476232551333888",
+          "media_url_https": "https://pbs.twimg.com/media/GvGCWN0WAAAjHh9.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "184",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "326",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1622",
+              "h": "440",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ivbdSlQkO8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "0",
+    "id_str": "1941476548059533591",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941476548059533591",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 05 12:37:34 +0000 2025",
+    "favorited": false,
+    "full_text": "Rejected from yet another grant.\n\nPerfect example of complexity inflation. I need money to get research into the world. So I have to interface with each individual grant program (assuming that I can find them), go through the application process, and then wait for weeks to get… https://t.co/ivbdSlQkO8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941476548059533591/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/ivbdSlQkO8",
+          "media_url": "http://pbs.twimg.com/media/GvGCWN0WAAAjHh9.png",
+          "id_str": "1941476232551333888",
+          "id": "1941476232551333888",
+          "media_url_https": "https://pbs.twimg.com/media/GvGCWN0WAAAjHh9.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "184",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "326",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1622",
+              "h": "440",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ivbdSlQkO8"
+        }
+      ]
+    }
+  }
+}

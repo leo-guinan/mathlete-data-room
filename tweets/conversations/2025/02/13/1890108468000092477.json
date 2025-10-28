@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890108468000092477"
+        ],
+        "editableUntil": "2025-02-13T19:39:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "175"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1890107760752357415",
+    "id_str": "1890108468000092477",
+    "in_reply_to_user_id": "14642331",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890108468000092477",
+    "in_reply_to_status_id": "1890107760752357415",
+    "created_at": "Thu Feb 13 18:39:09 +0000 2025",
+    "favorited": false,
+    "full_text": "@gregisenberg If you wanna do it the right way without the fucked VC dynamics, let’s chat. \n\nI’m speedrunning the economy to show where it’s broken. \n\nAnd we get to stay free.",
+    "lang": "en",
+    "in_reply_to_screen_name": "gregisenberg",
+    "in_reply_to_user_id_str": "14642331"
+  }
+}

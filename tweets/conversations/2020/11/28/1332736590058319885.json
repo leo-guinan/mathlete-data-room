@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1332736590058319885"
+        ],
+        "editableUntil": "2020-11-28T18:22:18.775Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matthew Kobach",
+          "screen_name": "mkobach",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "2188509068",
+          "id": "2188509068"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1332736590058319885",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1332736590058319885",
+    "created_at": "Sat Nov 28 17:22:18 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @mkobach: If a tire company can be the authority on the world’s best restaurants, then any brand is only as limited as you make it",
+    "lang": "en"
+  }
+}

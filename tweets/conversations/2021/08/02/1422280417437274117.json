@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422280417437274117"
+        ],
+        "editableUntil": "2021-08-02T20:37:30.866Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "22",
+            "37"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0DEPwEAJzR",
+          "expanded_url": "https://x.com/fernandoparnes/status/1422275451557335072",
+          "display_url": "x.com/fernandoparnes…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "2",
+    "id_str": "1422280417437274117",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422280417437274117",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 02 19:37:30 +0000 2021",
+    "favorited": false,
+    "full_text": "Such a cool idea from @fernandoparnes ! Please share with you Portugese-speaking (reading?) friends! https://t.co/0DEPwEAJzR",
+    "lang": "en"
+  }
+}

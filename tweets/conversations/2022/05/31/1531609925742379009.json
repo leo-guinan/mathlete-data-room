@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1531609925742379009"
+        ],
+        "editableUntil": "2022-05-31T12:43:56.890Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Quinn",
+          "screen_name": "JustinQuinn_",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "59040538",
+          "id": "59040538"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "51",
+            "62"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1531609925742379009",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1531609925742379009",
+    "created_at": "Tue May 31 12:13:56 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @JustinQuinn_: Had a fantastic coffee chat with @leo_guinan tonight. In addition to being extremely easy to talk to, his answers were ve…",
+    "lang": "en"
+  }
+}

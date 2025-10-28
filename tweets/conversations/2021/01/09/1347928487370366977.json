@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347928487370366977"
+        ],
+        "editableUntil": "2021-01-09T16:29:29.346Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tweets from Zach Weinberg",
+          "screen_name": "zachweinberg",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23504313",
+          "id": "23504313"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1347927569321127936",
+    "id_str": "1347928487370366977",
+    "in_reply_to_user_id": "23504313",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347928487370366977",
+    "in_reply_to_status_id": "1347927569321127936",
+    "created_at": "Sat Jan 09 15:29:29 +0000 2021",
+    "favorited": false,
+    "full_text": "@zachweinberg I see this being a huge security risk. Can you imagine the possibilities for malware attacks here? I see this as an important threat vector for companies. I hope they are watching this.",
+    "lang": "en",
+    "in_reply_to_screen_name": "zachweinberg",
+    "in_reply_to_user_id_str": "23504313"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1843451685324370041"
+        ],
+        "editableUntil": "2024-10-08T01:41:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "17"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1843451592349208855",
+    "id_str": "1843451685324370041",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1843451685324370041",
+    "in_reply_to_status_id": "1843451592349208855",
+    "created_at": "Tue Oct 08 00:41:46 +0000 2024",
+    "favorited": false,
+    "full_text": "cc:@iamjasonlevin",
+    "lang": "und",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

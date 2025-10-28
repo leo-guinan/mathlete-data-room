@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1691901120145158599"
+        ],
+        "editableUntil": "2023-08-16T20:53:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1691873213213716820",
+    "id_str": "1691901120145158599",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1691901120145158599",
+    "in_reply_to_status_id": "1691873213213716820",
+    "created_at": "Wed Aug 16 19:53:55 +0000 2023",
+    "favorited": false,
+    "full_text": "@hellostartupla Because the people who need the information by definition don't know the information, and the information spread by the business/money tiktok'rs sounds better than reality.\n\nOne of the biggest issues with information spread online: experts in any subject are outnumbered by…",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

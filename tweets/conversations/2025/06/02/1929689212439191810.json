@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929689212439191810"
+        ],
+        "editableUntil": "2025-06-03T00:58:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Champion 0f The Goddess",
+          "screen_name": "Seraph_Notitia",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1716575515476439040",
+          "id": "1716575515476439040"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/b8zbI296fY",
+          "expanded_url": "https://medium.com/an-idea/i-am-aiming-to-sweep-the-nobel-prizes-next-year-a6f88eb01952",
+          "display_url": "medium.com/an-idea/i-am-a…",
+          "indices": [
+            "178",
+            "201"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "201"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929642959538213315",
+    "id_str": "1929689212439191810",
+    "in_reply_to_user_id": "1716575515476439040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929689212439191810",
+    "in_reply_to_status_id": "1929642959538213315",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 02 23:58:54 +0000 2025",
+    "favorited": false,
+    "full_text": "@Seraph_Notitia Well I decided I wanted to be the institution that swept them regardless. But I set the goal to actual progress \n\nI am Aiming to Sweep the Nobel Prizes Next Year https://t.co/b8zbI296fY",
+    "lang": "en",
+    "in_reply_to_screen_name": "Seraph_Notitia",
+    "in_reply_to_user_id_str": "1716575515476439040"
+  }
+}

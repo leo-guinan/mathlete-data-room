@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1754285694309032152"
+        ],
+        "editableUntil": "2024-02-05T00:27:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick",
+          "screen_name": "nickcammarata",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "24761783",
+          "id": "24761783"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1754274629324325200",
+    "id_str": "1754285694309032152",
+    "in_reply_to_user_id": "24761783",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1754285694309032152",
+    "in_reply_to_status_id": "1754274629324325200",
+    "created_at": "Sun Feb 04 23:27:57 +0000 2024",
+    "favorited": false,
+    "full_text": "@nickcammarata I think we try to define human psychology too much in terms of the individual.\n\nWe are much more of a collective than the modern world recognizes.\n\nWhen we appreciate people in the context of their environment, psychology makes much more sense.\n\nWe reflect thoughts and feelings",
+    "lang": "en",
+    "in_reply_to_screen_name": "nickcammarata",
+    "in_reply_to_user_id_str": "24761783"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1402599088005255174"
+        ],
+        "editableUntil": "2021-06-09T13:10:56.268Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Start it up",
+          "screen_name": "startitup_",
+          "indices": [
+            "20",
+            "31"
+          ],
+          "id_str": "125723797",
+          "id": "125723797"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Yv6ayTw2K1",
+          "expanded_url": "https://link.medium.com/I3a4naLIWgb",
+          "display_url": "link.medium.com/I3a4naLIWgb",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "2",
+    "id_str": "1402599088005255174",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1402599088005255174",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 09 12:10:56 +0000 2021",
+    "favorited": false,
+    "full_text": "I just published in @startitup_ Want to Create an Online Course But Don’t Know Where to Start? https://t.co/Yv6ayTw2K1",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596648472484233218"
+        ],
+        "editableUntil": "2022-11-27T00:03:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1596611851462254593",
+    "id_str": "1596648472484233218",
+    "in_reply_to_user_id": "1461236887159382017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596648472484233218",
+    "in_reply_to_status_id": "1596611851462254593",
+    "created_at": "Sat Nov 26 23:33:54 +0000 2022",
+    "favorited": false,
+    "full_text": "@Chuckenspire Yeah, the groupings were figured out and then each group was run to figure out what that group of tweets had in common. So it's possible that multiple groups have the same topic, depending on what they were.\n\nAnd semantics is focused on the meanings of words, so something around",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chuckenspire",
+    "in_reply_to_user_id_str": "1461236887159382017"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1882968578384880012"
+        ],
+        "editableUntil": "2025-01-25T02:47:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Byrne Hobart",
+          "screen_name": "ByrneHobart",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2723411",
+          "id": "2723411"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1882966172125327453",
+    "id_str": "1882968578384880012",
+    "in_reply_to_user_id": "2723411",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1882968578384880012",
+    "in_reply_to_status_id": "1882966172125327453",
+    "created_at": "Sat Jan 25 01:47:47 +0000 2025",
+    "favorited": false,
+    "full_text": "@ByrneHobart It’s an outdated model right now. \n\nI think we’re going to be getting away from the way banks operate because it’s a lot of complexity that isn’t actually needed. \n\n(Not crypto though, you can’t store value. Something that balances stability and growth to yield predictability)",
+    "lang": "en",
+    "in_reply_to_screen_name": "ByrneHobart",
+    "in_reply_to_user_id_str": "2723411"
+  }
+}

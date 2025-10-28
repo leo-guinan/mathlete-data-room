@@ -1,0 +1,92 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1709903723449729531"
+        ],
+        "editableUntil": "2023-10-05T13:09:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        },
+        {
+          "name": "Jay Acunzo",
+          "screen_name": "jayacunzo",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "112596381",
+          "id": "112596381"
+        },
+        {
+          "name": "Cathryn",
+          "screen_name": "cathrynlavery",
+          "indices": [
+            "22",
+            "36"
+          ],
+          "id_str": "16904662",
+          "id": "16904662"
+        },
+        {
+          "name": "Alex Lieberman",
+          "screen_name": "businessbarista",
+          "indices": [
+            "37",
+            "53"
+          ],
+          "id_str": "846417084192055296",
+          "id": "846417084192055296"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4cdFtplws6",
+          "expanded_url": "http://jay.com",
+          "display_url": "jay.com",
+          "indices": [
+            "115",
+            "138"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "228"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1709743002984292785",
+    "id_str": "1709903723449729531",
+    "in_reply_to_user_id": "45851500",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1709903723449729531",
+    "in_reply_to_status_id": "1709743002984292785",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 05 12:09:50 +0000 2023",
+    "favorited": false,
+    "full_text": "@jayclouse @jayacunzo @cathrynlavery @businessbarista Gotta ask, because I'm not sure how it works. But if you own https://t.co/4cdFtplws6, does that make you king of the Jays?\n\nLet me see what I can find in my couch cushions...",
+    "lang": "en",
+    "in_reply_to_screen_name": "jayclouse",
+    "in_reply_to_user_id_str": "45851500"
+  }
+}

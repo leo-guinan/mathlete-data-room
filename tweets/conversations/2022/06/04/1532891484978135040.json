@@ -1,0 +1,64 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1532891484978135040"
+        ],
+        "editableUntil": "2022-06-04T01:36:24.422Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "67",
+            "72"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Brave Dave",
+          "screen_name": "BraveDave59",
+          "indices": [
+            "52",
+            "64"
+          ],
+          "id_str": "566939294",
+          "id": "566939294"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1532891484978135040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1532891484978135040",
+    "created_at": "Sat Jun 04 01:06:24 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: “It’s not wrong, it’s different.” - @BraveDave59 . #ADHD will tug at ur heartstrings&amp;leave u inspired to be your true self.…",
+    "lang": "en"
+  }
+}

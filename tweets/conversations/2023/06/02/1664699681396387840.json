@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1664699681396387840"
+        ],
+        "editableUntil": "2023-06-02T18:55:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Friedman 🤠",
+          "screen_name": "heyalexfriedman",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1085404386929659905",
+          "id": "1085404386929659905"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1664698055457755155",
+    "id_str": "1664699681396387840",
+    "in_reply_to_user_id": "1085404386929659905",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1664699681396387840",
+    "in_reply_to_status_id": "1664698055457755155",
+    "created_at": "Fri Jun 02 18:25:07 +0000 2023",
+    "favorited": false,
+    "full_text": "@heyalexfriedman Was actually working on that and then the Twitter API changed to a paid model and it wasn't worth pursuing anymore for me anymore.\n\nIt's a good idea though, would love to see someone pick that up",
+    "lang": "en",
+    "in_reply_to_screen_name": "heyalexfriedman",
+    "in_reply_to_user_id_str": "1085404386929659905"
+  }
+}

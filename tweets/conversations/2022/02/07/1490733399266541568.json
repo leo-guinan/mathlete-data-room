@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1490733399266541568"
+        ],
+        "editableUntil": "2022-02-07T18:05:13.529Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Packy McCormick",
+          "screen_name": "packyM",
+          "indices": [
+            "76",
+            "83"
+          ],
+          "id_str": "21306324",
+          "id": "21306324"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7IWGB3xWfY",
+          "expanded_url": "https://www.notboring.co/p/ownership-and-the-american-dream?r=evblp&utm_campaign=post&utm_medium=web",
+          "display_url": "notboring.co/p/ownership-an…",
+          "indices": [
+            "93",
+            "116"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "1",
+    "id_str": "1490733399266541568",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1490733399266541568",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 07 17:05:13 +0000 2022",
+    "favorited": false,
+    "full_text": "Realized I can explain Web 3 with a blog and a Twitter thread.\n\nIf you take @packyM 's blog:\nhttps://t.co/7IWGB3xWfY",
+    "lang": "en"
+  }
+}

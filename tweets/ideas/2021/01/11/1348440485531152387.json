@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348440485531152387"
+        ],
+        "editableUntil": "2021-01-11T02:23:59.220Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Browns",
+          "indices": [
+            "29",
+            "36"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "36"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348440485531152387",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348440485531152387",
+    "created_at": "Mon Jan 11 01:23:59 +0000 2021",
+    "favorited": false,
+    "full_text": "Playoff football is fun!!!!\n\n#Browns",
+    "lang": "en"
+  }
+}

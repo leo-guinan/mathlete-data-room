@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1975535544336851389"
+        ],
+        "editableUntil": "2025-10-07T13:15:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1975535544336851389/photo/1",
+          "indices": [
+            "32",
+            "55"
+          ],
+          "url": "https://t.co/Qy2cv5r0XD",
+          "media_url": "http://pbs.twimg.com/media/G2qC--RXgAAuOUB.jpg",
+          "id_str": "1975535404934725632",
+          "id": "1975535404934725632",
+          "media_url_https": "https://pbs.twimg.com/media/G2qC--RXgAAuOUB.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Qy2cv5r0XD"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "1",
+    "id_str": "1975535544336851389",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1975535544336851389",
+    "possibly_sensitive": false,
+    "created_at": "Tue Oct 07 12:15:52 +0000 2025",
+    "favorited": false,
+    "full_text": "New favorite bunny. A lionhead. https://t.co/Qy2cv5r0XD",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1975535544336851389/photo/1",
+          "indices": [
+            "32",
+            "55"
+          ],
+          "url": "https://t.co/Qy2cv5r0XD",
+          "media_url": "http://pbs.twimg.com/media/G2qC--RXgAAuOUB.jpg",
+          "id_str": "1975535404934725632",
+          "id": "1975535404934725632",
+          "media_url_https": "https://pbs.twimg.com/media/G2qC--RXgAAuOUB.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Qy2cv5r0XD"
+        }
+      ]
+    }
+  }
+}

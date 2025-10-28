@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1591143522505220096"
+        ],
+        "editableUntil": "2022-11-11T19:29:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "5",
+    "id_str": "1591143522505220096",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1591143522505220096",
+    "created_at": "Fri Nov 11 18:59:12 +0000 2022",
+    "favorited": false,
+    "full_text": "Making good progress.\n\nI've now got my Twitter bookmarks pulled, stuffed into a Pandas DataFrame, and exported to a CSV.\n\nThis is really powerful, because I can do all sorts of analysis easily now, expand it to include other fields, and pass it around to different tools.",
+    "lang": "en"
+  }
+}

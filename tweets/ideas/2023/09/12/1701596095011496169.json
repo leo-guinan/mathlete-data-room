@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1701596095011496169"
+        ],
+        "editableUntil": "2023-09-12T14:58:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjWuz",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "28",
+            "51"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "0",
+    "id_str": "1701596095011496169",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1701596095011496169",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 12 13:58:17 +0000 2023",
+    "favorited": false,
+    "full_text": "I hit a bit of a block with https://t.co/KphsBfjWuz. I've been using the daily check in, and that feature helps, but it doesn't do a great job of knowing who it's talking to. I tried to get it to look up certain facts that it learns over time, but that didn't work the way I hoped",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941869306179952851"
+        ],
+        "editableUntil": "2025-07-06T15:38:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "156",
+            "171"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941869306179952851/photo/1",
+          "indices": [
+            "273",
+            "296"
+          ],
+          "url": "https://t.co/iixsR6o2VA",
+          "media_url": "http://pbs.twimg.com/media/GvLnOsiW8AInwpq.png",
+          "id_str": "1941868629009559554",
+          "id": "1941868629009559554",
+          "media_url_https": "https://pbs.twimg.com/media/GvLnOsiW8AInwpq.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "541",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "955",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1872",
+              "h": "1490",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/iixsR6o2VA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941869304502272040",
+    "id_str": "1941869306179952851",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941869306179952851",
+    "in_reply_to_status_id": "1941869304502272040",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 14:38:15 +0000 2025",
+    "favorited": false,
+    "full_text": "People get my time at a discount, because helping you solve your problems helps me identify the problems in the economy that I can start solving now.\n\nWith @BuildInPublicU, I'm collecting the builders. Our only hope is to organize the builders against the parasite economy https://t.co/iixsR6o2VA",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941869306179952851/photo/1",
+          "indices": [
+            "273",
+            "296"
+          ],
+          "url": "https://t.co/iixsR6o2VA",
+          "media_url": "http://pbs.twimg.com/media/GvLnOsiW8AInwpq.png",
+          "id_str": "1941868629009559554",
+          "id": "1941868629009559554",
+          "media_url_https": "https://pbs.twimg.com/media/GvLnOsiW8AInwpq.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "541",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "955",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1872",
+              "h": "1490",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/iixsR6o2VA"
+        }
+      ]
+    }
+  }
+}

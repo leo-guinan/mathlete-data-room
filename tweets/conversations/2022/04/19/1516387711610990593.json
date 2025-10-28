@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516387711610990593"
+        ],
+        "editableUntil": "2022-04-19T13:06:18.226Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Jun Loayza",
+          "screen_name": "JunLoayza",
+          "indices": [
+            "89",
+            "99"
+          ],
+          "id_str": "14059694",
+          "id": "14059694"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1516387711610990593",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1516387711610990593",
+    "created_at": "Tue Apr 19 12:06:18 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: New episode of How To Scale Yourself is now live!\n\nThis episode features @JunLoayza. We had an incredible conversation abou…",
+    "lang": "en"
+  }
+}

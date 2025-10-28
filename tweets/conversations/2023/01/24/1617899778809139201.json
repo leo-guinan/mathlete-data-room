@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617899778809139201"
+        ],
+        "editableUntil": "2023-01-24T15:29:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "156"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1617620407191994368",
+    "id_str": "1617899778809139201",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617899778809139201",
+    "in_reply_to_status_id": "1617620407191994368",
+    "created_at": "Tue Jan 24 14:59:01 +0000 2023",
+    "favorited": false,
+    "full_text": "@JustinAllingham It's something that takes practice, but we can certainly walk through my approach. I'll be going into more detail in my newsletter as well.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

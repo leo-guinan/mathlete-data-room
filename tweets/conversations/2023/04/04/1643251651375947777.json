@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1643251651375947777"
+        ],
+        "editableUntil": "2023-04-04T14:28:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3xwQ4Abpem",
+          "expanded_url": "https://open.substack.com/pub/internetfactory/p/the-saas-factory-is-now-the-internet?r=evblp&utm_campaign=post&utm_medium=web",
+          "display_url": "open.substack.com/pub/internetfa…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1643251649157246980",
+    "id_str": "1643251651375947777",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1643251651375947777",
+    "in_reply_to_status_id": "1643251649157246980",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 04 13:58:18 +0000 2023",
+    "favorited": false,
+    "full_text": "For more info + details on part 1, check out the new issue:\n\nhttps://t.co/3xwQ4Abpem",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

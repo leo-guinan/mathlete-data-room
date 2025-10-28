@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563922758718873600"
+        ],
+        "editableUntil": "2022-08-28T16:43:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1563668339037446144",
+    "id_str": "1563922758718873600",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563922758718873600",
+    "in_reply_to_status_id": "1563668339037446144",
+    "created_at": "Sun Aug 28 16:13:36 +0000 2022",
+    "favorited": false,
+    "full_text": "@JustinAllingham Holy shit, I love that so much!\n\nHe's got it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

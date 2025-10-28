@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516372199782944772"
+        ],
+        "editableUntil": "2022-04-19T11:34:39.918Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "115",
+            "122"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hEFgiscnPu",
+          "expanded_url": "https://vm.tiktok.com/ZTdCoKoeh/",
+          "display_url": "vm.tiktok.com/ZTdCoKoeh/",
+          "indices": [
+            "123",
+            "146"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "1",
+    "id_str": "1516372199782944772",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1516372199782944772",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 19 11:04:39 +0000 2022",
+    "favorited": false,
+    "full_text": "This was a great way to start the day!\n\nFeeling pumped! 💪\n\nLet's make some friends!\n\nCheck out LobowSPARK's video! #TikTok https://t.co/hEFgiscnPu",
+    "lang": "en"
+  }
+}

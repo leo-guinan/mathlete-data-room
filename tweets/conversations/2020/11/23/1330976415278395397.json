@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330976415278395397"
+        ],
+        "editableUntil": "2020-11-23T21:48:00.405Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kelly Vaughn",
+          "screen_name": "kvlly",
+          "indices": [
+            "3",
+            "9"
+          ],
+          "id_str": "123543103",
+          "id": "123543103"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "0",
+    "id_str": "1330976415278395397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330976415278395397",
+    "created_at": "Mon Nov 23 20:48:00 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @kvlly: 5 things every frontend developer should know in 2021:\n\n1. Whatever\n2. You\n3. Want\n4. To\n5. Learn",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1528414476055326720"
+        ],
+        "editableUntil": "2022-05-22T17:06:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GZbRgJBiDa",
+          "expanded_url": "https://x.com/visakanv/status/1528364033811750914",
+          "display_url": "x.com/visakanv/statu…",
+          "indices": [
+            "157",
+            "180"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1528414476055326720/photo/1",
+          "indices": [
+            "181",
+            "204"
+          ],
+          "url": "https://t.co/w0WcstEZlZ",
+          "media_url": "http://pbs.twimg.com/media/FTYE3bbWUAAu8HV.jpg",
+          "id_str": "1528414473840644096",
+          "id": "1528414473840644096",
+          "media_url_https": "https://pbs.twimg.com/media/FTYE3bbWUAAu8HV.jpg",
+          "sizes": {
+            "medium": {
+              "w": "441",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "752",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "250",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/w0WcstEZlZ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "204"
+    ],
+    "favorite_count": "1",
+    "id_str": "1528414476055326720",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1528414476055326720",
+    "possibly_sensitive": false,
+    "created_at": "Sun May 22 16:36:22 +0000 2022",
+    "favorited": false,
+    "full_text": "A lot of people I don't know on this list, but the ones I do know I feel pretty good about.  Between Mike Ross, Doc Brown, Han, Abby, and Abed, not too bad! https://t.co/GZbRgJBiDa https://t.co/w0WcstEZlZ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1528414476055326720/photo/1",
+          "indices": [
+            "181",
+            "204"
+          ],
+          "url": "https://t.co/w0WcstEZlZ",
+          "media_url": "http://pbs.twimg.com/media/FTYE3bbWUAAu8HV.jpg",
+          "id_str": "1528414473840644096",
+          "id": "1528414473840644096",
+          "media_url_https": "https://pbs.twimg.com/media/FTYE3bbWUAAu8HV.jpg",
+          "sizes": {
+            "medium": {
+              "w": "441",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "752",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "250",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/w0WcstEZlZ"
+        }
+      ]
+    }
+  }
+}

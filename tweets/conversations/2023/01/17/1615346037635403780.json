@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1615346037635403780"
+        ],
+        "editableUntil": "2023-01-17T14:21:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Denny",
+          "screen_name": "TheLCPBlog",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "517475594",
+          "id": "517475594"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1615103678733590546",
+    "id_str": "1615346037635403780",
+    "in_reply_to_user_id": "517475594",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1615346037635403780",
+    "in_reply_to_status_id": "1615103678733590546",
+    "created_at": "Tue Jan 17 13:51:21 +0000 2023",
+    "favorited": false,
+    "full_text": "@TheLCPBlog German! I took a couple of quarters of it back in college, but never did well. Really wish I had Duolingo back then lol",
+    "lang": "en",
+    "in_reply_to_screen_name": "TheLCPBlog",
+    "in_reply_to_user_id_str": "517475594"
+  }
+}

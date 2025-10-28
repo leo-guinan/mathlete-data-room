@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1815497561379107105"
+        ],
+        "editableUntil": "2024-07-22T22:22:03.603Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zack",
+          "screen_name": "HackingBaseball",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1081866076726743040",
+          "id": "1081866076726743040"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "40",
+            "56"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "$TBALL on $SOL 🏐",
+          "screen_name": "tetherballcoin",
+          "indices": [
+            "93",
+            "108"
+          ],
+          "id_str": "1795945743410483200",
+          "id": "1795945743410483200"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1815497561379107105",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1815497561379107105",
+    "created_at": "Mon Jul 22 21:22:03 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @HackingBaseball: Come hang out with @StroutMotivateU, myself, and the founding ladies of @tetherballcoin tomorrow where we’ll be discus…",
+    "lang": "en"
+  }
+}

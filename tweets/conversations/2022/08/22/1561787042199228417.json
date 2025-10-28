@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1561787042199228417"
+        ],
+        "editableUntil": "2022-08-22T19:17:02.117Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "86",
+            "97"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "107"
+    ],
+    "favorite_count": "0",
+    "id_str": "1561787042199228417",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1561787042199228417",
+    "created_at": "Mon Aug 22 18:47:02 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: This was so interesting and I truly learned a ton about AI. Thank you @leo_guinan for this!",
+    "lang": "en"
+  }
+}

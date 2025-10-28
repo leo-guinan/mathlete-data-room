@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1583482515821842435"
+        ],
+        "editableUntil": "2022-10-21T16:07:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "haps 🔅",
+          "screen_name": "hapsize",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "247572432",
+          "id": "247572432"
+        },
+        {
+          "name": "Jon Jackson",
+          "screen_name": "iamjonjackson",
+          "indices": [
+            "9",
+            "23"
+          ],
+          "id_str": "64375952",
+          "id": "64375952"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1583241938907471872",
+    "id_str": "1583482515821842435",
+    "in_reply_to_user_id": "247572432",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1583482515821842435",
+    "in_reply_to_status_id": "1583241938907471872",
+    "created_at": "Fri Oct 21 15:37:06 +0000 2022",
+    "favorited": false,
+    "full_text": "@hapsize @iamjonjackson I have't yet! I use Descript, which can provide a pretty nice transcript and I also played around a little with Whisper, which I was pretty impressed with. Might have to play with Google voice though. I'm always curious about different tools.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hapsize",
+    "in_reply_to_user_id_str": "247572432"
+  }
+}

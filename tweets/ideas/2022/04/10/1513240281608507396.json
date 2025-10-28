@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513240281608507396"
+        ],
+        "editableUntil": "2022-04-10T20:39:32.437Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mO7OWERk8I",
+          "expanded_url": "https://blog.feathercrm.io/were-living-in-the-multiverse-7878de368494?sk=27c8cf1299a113a1308c38c67a2d8ec2",
+          "display_url": "blog.feathercrm.io/were-living-in…",
+          "indices": [
+            "45",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "0",
+    "id_str": "1513240281608507396",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1513240281608507396",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 10 19:39:32 +0000 2022",
+    "favorited": false,
+    "full_text": "Got inspired to write a blog this afternoon: https://t.co/mO7OWERk8I",
+    "lang": "en"
+  }
+}

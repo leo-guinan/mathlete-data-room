@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1833934537686200402"
+        ],
+        "editableUntil": "2024-09-11T19:24:01.297Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Emergent",
+          "screen_name": "emergentvibe",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1796120648281923584",
+          "id": "1796120648281923584"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0x9TNcCDdf",
+          "expanded_url": "http://www.community-archive.com",
+          "display_url": "community-archive.com",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1833934537686200402",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1833934537686200402",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 11 18:24:01 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @emergentvibe: interesting keyword patterns i found in data from https://t.co/0x9TNcCDdf",
+    "lang": "en"
+  }
+}

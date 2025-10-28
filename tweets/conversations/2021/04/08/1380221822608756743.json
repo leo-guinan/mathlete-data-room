@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1380221822608756743"
+        ],
+        "editableUntil": "2021-04-08T19:11:40.448Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "ADHD Designer 🟣👩🏻‍💻",
+          "screen_name": "ADHDdesigner",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1270519607846109184",
+          "id": "1270519607846109184"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "31"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1380204366729187331",
+    "id_str": "1380221822608756743",
+    "in_reply_to_user_id": "1270519607846109184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1380221822608756743",
+    "in_reply_to_status_id": "1380204366729187331",
+    "created_at": "Thu Apr 08 18:11:40 +0000 2021",
+    "favorited": false,
+    "full_text": "@ADHDdesigner Mind if I DM you?",
+    "lang": "en",
+    "in_reply_to_screen_name": "ADHDdesigner",
+    "in_reply_to_user_id_str": "1270519607846109184"
+  }
+}

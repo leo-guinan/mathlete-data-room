@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527410646832271377"
+        ],
+        "editableUntil": "2022-05-19T22:37:30.779Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "30",
+            "35"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "FlexYourADHD",
+          "screen_name": "flexyouradhd",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1308416944408797184",
+          "id": "1308416944408797184"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1527410646832271377",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527410646832271377",
+    "created_at": "Thu May 19 22:07:30 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @flexyouradhd: People with #ADHD! We’re getting new coaches looking for pro bono or low income clients. If you’ve ever wanted to try coa…",
+    "lang": "en"
+  }
+}

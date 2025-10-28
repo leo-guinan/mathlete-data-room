@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808499012795793802"
+        ],
+        "editableUntil": "2024-07-03T14:52:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        },
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9RvMZsSqHx",
+          "expanded_url": "https://ideasupplychain.com/the-ideal-quantum-economic-marketplace/",
+          "display_url": "ideasupplychain.com/the-ideal-quan…",
+          "indices": [
+            "128",
+            "151"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "152"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1808498911608283384",
+    "id_str": "1808499012795793802",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808499012795793802",
+    "in_reply_to_status_id": "1808498911608283384",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 03 13:52:19 +0000 2024",
+    "favorited": false,
+    "full_text": "@arvidkahl @bkh_leung Avoids the data marketplace problems that all marketplaces face.\n\n(wrote more about that here if curious: https://t.co/9RvMZsSqHx)",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

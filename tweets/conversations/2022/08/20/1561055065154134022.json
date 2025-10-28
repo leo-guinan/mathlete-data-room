@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1561055065154134022"
+        ],
+        "editableUntil": "2022-08-20T18:48:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "☕️ Downing coffee",
+          "screen_name": "ChadManRyger",
+          "indices": [
+            "10",
+            "23"
+          ],
+          "id_str": "700696183",
+          "id": "700696183"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1561055065154134022/photo/1",
+          "indices": [
+            "24",
+            "47"
+          ],
+          "url": "https://t.co/SC8Cjb6J0z",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fan7ThfXkAAdgSY.jpg",
+          "id_str": "1561055058686611456",
+          "id": "1561055058686611456",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fan7ThfXkAAdgSY.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/SC8Cjb6J0z"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "47"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1560609683659825154",
+    "id_str": "1561055065154134022",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1561055065154134022",
+    "in_reply_to_status_id": "1560609683659825154",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 20 18:18:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go @ChadManRyger https://t.co/SC8Cjb6J0z",
+    "lang": "qme",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1561055065154134022/photo/1",
+          "indices": [
+            "24",
+            "47"
+          ],
+          "url": "https://t.co/SC8Cjb6J0z",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fan7ThfXkAAdgSY.jpg",
+          "id_str": "1561055058686611456",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Fan7ThfXkAAdgSY.mp4"
+              }
+            ]
+          },
+          "id": "1561055058686611456",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fan7ThfXkAAdgSY.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/SC8Cjb6J0z"
+        }
+      ]
+    }
+  }
+}

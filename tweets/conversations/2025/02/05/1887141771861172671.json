@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887141771861172671"
+        ],
+        "editableUntil": "2025-02-05T15:10:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "53",
+            "68"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        },
+        {
+          "name": "john kennedy",
+          "screen_name": "jo_hn2",
+          "indices": [
+            "73",
+            "80"
+          ],
+          "id_str": "445689861",
+          "id": "445689861"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1887141770359665044",
+    "id_str": "1887141771861172671",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887141771861172671",
+    "in_reply_to_status_id": "1887141770359665044",
+    "created_at": "Wed Feb 05 14:10:34 +0000 2025",
+    "favorited": false,
+    "full_text": "And another serendipitous podcast! This time, it was @jposhaughnessy and @jo_hn2 talking about deploying boxes that remove CO2 from classrooms.\n\nI saw this as a perfect example of using memetic economics to accelerate the changes needed and was able to map that out. Have some…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1540792526470258690"
+        ],
+        "editableUntil": "2022-06-25T20:52:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "MotivateU",
+          "screen_name": "MotivateUTech",
+          "indices": [
+            "17",
+            "31"
+          ],
+          "id_str": "1378796282295255045",
+          "id": "1378796282295255045"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1540728406308003841",
+    "id_str": "1540792526470258690",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1540792526470258690",
+    "in_reply_to_status_id": "1540728406308003841",
+    "created_at": "Sat Jun 25 20:22:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @MotivateUTech I was pleasantly surprised myself!\n\nIt's been a long time since I've done yoga at all and I wasn't sure how it would go. But a bit more confident now! Looking forward to the next one! 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1505780767204519938"
+        ],
+        "editableUntil": "2022-03-21T06:38:05.612Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1505780767204519938",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1505780767204519938",
+    "created_at": "Mon Mar 21 05:38:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: In my ADHD assessment:\nDr: How much caffeine do you consume on a daily basis?\n\nMe: Oh, I've gotten a lot better. I only dri…",
+    "lang": "en"
+  }
+}

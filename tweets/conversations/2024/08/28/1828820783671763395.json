@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1828820783671763395"
+        ],
+        "editableUntil": "2024-08-28T16:43:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1828819979028005191",
+    "id_str": "1828820783671763395",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1828820783671763395",
+    "in_reply_to_status_id": "1828819979028005191",
+    "created_at": "Wed Aug 28 15:43:47 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic That's something I was just talking about with someone too. The only way to handle surges is to have plenty of excess capacity that can be used to deal with it. In order to be excess capacity, we can't operate at 100% usage at all times. That's what computers are for, not people.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

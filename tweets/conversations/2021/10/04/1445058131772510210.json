@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1445058131772510210"
+        ],
+        "editableUntil": "2021-10-04T17:08:01.153Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHDAwarenessMonth",
+          "indices": [
+            "82",
+            "101"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jesse J. Anderson",
+          "screen_name": "jessejanderson",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1569906959150903303",
+          "id": "1569906959150903303"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "106"
+    ],
+    "favorite_count": "0",
+    "id_str": "1445058131772510210",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1445058131772510210",
+    "created_at": "Mon Oct 04 16:08:01 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @jessejanderson: C is for Creativity\n\n(ABCs of ADHD: a daily thread series for #ADHDAwarenessMonth)\n\n🧵👇",
+    "lang": "en"
+  }
+}

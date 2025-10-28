@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345751717271498753"
+        ],
+        "editableUntil": "2021-01-03T16:19:46.912Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "nader dabit",
+          "screen_name": "dabit3",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "17189394",
+          "id": "17189394"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1345463127119433734",
+    "id_str": "1345751717271498753",
+    "in_reply_to_user_id": "17189394",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345751717271498753",
+    "in_reply_to_status_id": "1345463127119433734",
+    "created_at": "Sun Jan 03 15:19:46 +0000 2021",
+    "favorited": false,
+    "full_text": "@dabit3 Find something you want to build and learn a tech stack to build it. The tech stack will change over time. Learn to love building. Then the languages and frameworks become sets of tools you can learn to use as you need them.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dabit3",
+    "in_reply_to_user_id_str": "17189394"
+  }
+}

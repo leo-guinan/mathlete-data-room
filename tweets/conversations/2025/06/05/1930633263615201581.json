@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930633263615201581"
+        ],
+        "editableUntil": "2025-06-05T15:30:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "4",
+            "19"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BD8sCtB2fB",
+          "expanded_url": "https://x.com/leo_guinan/status/1930632673350832136",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "147",
+            "170"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "170"
+    ],
+    "favorite_count": "0",
+    "id_str": "1930633263615201581",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930633263615201581",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 14:30:14 +0000 2025",
+    "favorited": false,
+    "full_text": "And @buildinpublicU is the online community I'm building to actually see the work you do from the beginning. Because that's what actually matters. https://t.co/BD8sCtB2fB",
+    "lang": "en"
+  }
+}

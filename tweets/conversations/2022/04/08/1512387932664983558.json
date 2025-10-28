@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1512387932664983558"
+        ],
+        "editableUntil": "2022-04-08T12:12:36.613Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Melchor",
+          "screen_name": "Melchor_Eric",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "186882088",
+          "id": "186882088"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "42"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1512362150362333185",
+    "id_str": "1512387932664983558",
+    "in_reply_to_user_id": "186882088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1512387932664983558",
+    "in_reply_to_status_id": "1512362150362333185",
+    "created_at": "Fri Apr 08 11:12:36 +0000 2022",
+    "favorited": false,
+    "full_text": "@Melchor_Eric Oh, that's the truth...\n\n😂😂😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "Melchor_Eric",
+    "in_reply_to_user_id_str": "186882088"
+  }
+}

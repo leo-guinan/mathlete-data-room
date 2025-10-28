@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1679862255410638850"
+        ],
+        "editableUntil": "2023-07-14T15:35:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Jack Forge",
+          "screen_name": "TheJackForge",
+          "indices": [
+            "17",
+            "30"
+          ],
+          "id_str": "1246452518508355584",
+          "id": "1246452518508355584"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1679860840613249024",
+    "id_str": "1679862255410638850",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1679862255410638850",
+    "in_reply_to_status_id": "1679860840613249024",
+    "created_at": "Fri Jul 14 14:35:46 +0000 2023",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @TheJackForge Yeah! My son did, but hasn't posted in a couple of months.\n\nHe has been recording videos and playing with editing though.\n\nI do think it would be fun to get a group of kids together though, so they could chat about everything they are doing.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

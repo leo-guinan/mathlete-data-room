@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1326260849787498503"
+        ],
+        "editableUntil": "2020-11-10T21:30:01.981Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Judd Legum",
+          "screen_name": "JuddLegum",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "15464697",
+          "id": "15464697"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1326207323078074375",
+    "id_str": "1326260849787498503",
+    "in_reply_to_user_id": "15464697",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1326260849787498503",
+    "in_reply_to_status_id": "1326207323078074375",
+    "created_at": "Tue Nov 10 20:30:01 +0000 2020",
+    "favorited": false,
+    "full_text": "@JuddLegum @meenaharris Thank god. Maybe now we can start recovering.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JuddLegum",
+    "in_reply_to_user_id_str": "15464697"
+  }
+}

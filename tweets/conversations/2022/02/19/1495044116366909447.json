@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1495044116366909447"
+        ],
+        "editableUntil": "2022-02-19T15:34:28.575Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1494960089270489089",
+    "id_str": "1495044116366909447",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1495044116366909447",
+    "in_reply_to_status_id": "1494960089270489089",
+    "created_at": "Sat Feb 19 14:34:28 +0000 2022",
+    "favorited": false,
+    "full_text": "@JustinAllingham Scaling code is easy.\n\nScaling insight is hard.\n\nThat's really what it comes down to. \n\nScaling code is a science.\n\nScaling insight is an art.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

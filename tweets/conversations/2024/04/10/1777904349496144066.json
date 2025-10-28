@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1777904349496144066"
+        ],
+        "editableUntil": "2024-04-10T04:40:03.442Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Crew96",
+          "indices": [
+            "89",
+            "96"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonathan Smith",
+          "screen_name": "DegenerateTBone",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "405194014",
+          "id": "405194014"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "0",
+    "id_str": "1777904349496144066",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1777904349496144066",
+    "created_at": "Wed Apr 10 03:40:03 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @DegenerateTBone: This one was for Emilio Renteria's disallowed goal. Real ones know. #Crew96",
+    "lang": "en"
+  }
+}

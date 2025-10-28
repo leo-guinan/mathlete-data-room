@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941001393567154388"
+        ],
+        "editableUntil": "2025-07-04T06:09:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941001393567154388/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/MQV6I5ocOq",
+          "media_url": "http://pbs.twimg.com/media/Gu_SesaWoAAV3od.jpg",
+          "id_str": "1941001389179576320",
+          "id": "1941001389179576320",
+          "media_url_https": "https://pbs.twimg.com/media/Gu_SesaWoAAV3od.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MQV6I5ocOq"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "4",
+    "id_str": "1941001393567154388",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941001393567154388",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 04 05:09:28 +0000 2025",
+    "favorited": false,
+    "full_text": "Sleepy kitty is sleepy and so am I.  \n\nGood night! https://t.co/MQV6I5ocOq",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941001393567154388/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/MQV6I5ocOq",
+          "media_url": "http://pbs.twimg.com/media/Gu_SesaWoAAV3od.jpg",
+          "id_str": "1941001389179576320",
+          "id": "1941001389179576320",
+          "media_url_https": "https://pbs.twimg.com/media/Gu_SesaWoAAV3od.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MQV6I5ocOq"
+        }
+      ]
+    }
+  }
+}

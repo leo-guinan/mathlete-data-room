@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1673470906377682945"
+        ],
+        "editableUntil": "2023-06-27T00:18:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rosie Sherry",
+          "screen_name": "rosiesherry",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2204961",
+          "id": "2204961"
+        },
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "13",
+            "23"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        },
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "24",
+            "34"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        },
+        {
+          "name": "Kevon Cheung 🥦",
+          "screen_name": "MeetKevon",
+          "indices": [
+            "35",
+            "45"
+          ],
+          "id_str": "51882249",
+          "id": "51882249"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "324"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1673454571904020482",
+    "id_str": "1673470906377682945",
+    "in_reply_to_user_id": "2204961",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1673470906377682945",
+    "in_reply_to_status_id": "1673454571904020482",
+    "created_at": "Mon Jun 26 23:18:50 +0000 2023",
+    "favorited": false,
+    "full_text": "@rosiesherry @jayclouse @arvidkahl @MeetKevon hmm, that's pretty awesome, then!\n\nI'm struggling a bit with it. On one hand, I don't think creators should have to worry about it. In fact, I've pretty much made it a point to completely avoid it, because I don't want search to dictate what I create at all, because that seems…",
+    "lang": "en",
+    "in_reply_to_screen_name": "rosiesherry",
+    "in_reply_to_user_id_str": "2204961"
+  }
+}

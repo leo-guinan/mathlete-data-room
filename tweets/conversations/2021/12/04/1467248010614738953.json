@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1467248010614738953"
+        ],
+        "editableUntil": "2021-12-04T22:42:40.537Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1467248010614738953",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1467248010614738953",
+    "created_at": "Sat Dec 04 21:42:40 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Going to start onboarding users today. A few things to tweak, but should have enough ready to start testing. I'm looking fo…",
+    "lang": "en"
+  }
+}

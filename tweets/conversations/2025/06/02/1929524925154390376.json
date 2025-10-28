@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929524925154390376"
+        ],
+        "editableUntil": "2025-06-02T14:06:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "VitaminEMafia",
+          "screen_name": "ISeePattern",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1854060802883358736",
+          "id": "1854060802883358736"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "36"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929524595763110153",
+    "id_str": "1929524925154390376",
+    "in_reply_to_user_id": "1854060802883358736",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929524925154390376",
+    "in_reply_to_status_id": "1929524595763110153",
+    "created_at": "Mon Jun 02 13:06:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@ISeePattern Not as bad as I will...",
+    "lang": "en",
+    "in_reply_to_screen_name": "ISeePattern",
+    "in_reply_to_user_id_str": "1854060802883358736"
+  }
+}

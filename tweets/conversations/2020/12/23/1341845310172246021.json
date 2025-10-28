@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1341845310172246021"
+        ],
+        "editableUntil": "2020-12-23T21:37:06.882Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dante Washington",
+          "screen_name": "DanteWashington",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "298347608",
+          "id": "298347608"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/DanteWashington/status/1341841807525732353/photo/1",
+          "source_status_id": "1341841807525732353",
+          "indices": [
+            "62",
+            "85"
+          ],
+          "url": "https://t.co/lnhaq1ACTj",
+          "media_url": "http://pbs.twimg.com/media/Ep8uAc2XUAUvcuZ.jpg",
+          "id_str": "1341841799258787845",
+          "source_user_id": "298347608",
+          "id": "1341841799258787845",
+          "media_url_https": "https://pbs.twimg.com/media/Ep8uAc2XUAUvcuZ.jpg",
+          "source_user_id_str": "298347608",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1341841807525732353",
+          "display_url": "pic.x.com/lnhaq1ACTj"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "0",
+    "id_str": "1341845310172246021",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1341845310172246021",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 23 20:37:06 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @DanteWashington: How it started.          How it’s going. https://t.co/lnhaq1ACTj",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/DanteWashington/status/1341841807525732353/photo/1",
+          "source_status_id": "1341841807525732353",
+          "indices": [
+            "62",
+            "85"
+          ],
+          "url": "https://t.co/lnhaq1ACTj",
+          "media_url": "http://pbs.twimg.com/media/Ep8uAc2XUAUvcuZ.jpg",
+          "id_str": "1341841799258787845",
+          "source_user_id": "298347608",
+          "id": "1341841799258787845",
+          "media_url_https": "https://pbs.twimg.com/media/Ep8uAc2XUAUvcuZ.jpg",
+          "source_user_id_str": "298347608",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1341841807525732353",
+          "display_url": "pic.x.com/lnhaq1ACTj"
+        },
+        {
+          "expanded_url": "https://x.com/DanteWashington/status/1341841807525732353/photo/1",
+          "source_status_id": "1341841807525732353",
+          "indices": [
+            "62",
+            "85"
+          ],
+          "url": "https://t.co/lnhaq1ACTj",
+          "media_url": "http://pbs.twimg.com/media/Ep8uAczW8AABFJ3.jpg",
+          "id_str": "1341841799246180352",
+          "source_user_id": "298347608",
+          "id": "1341841799246180352",
+          "media_url_https": "https://pbs.twimg.com/media/Ep8uAczW8AABFJ3.jpg",
+          "source_user_id_str": "298347608",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1818",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1065",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "604",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1341841807525732353",
+          "display_url": "pic.x.com/lnhaq1ACTj"
+        }
+      ]
+    }
+  }
+}

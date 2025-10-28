@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922502292961370378"
+        ],
+        "editableUntil": "2025-05-14T05:00:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "MacKenzie Fisher (MK)",
+          "screen_name": "philosofounder_",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "4541438237",
+          "id": "4541438237"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922502292961370378/photo/1",
+          "indices": [
+            "135",
+            "158"
+          ],
+          "url": "https://t.co/GwS1KrB5D1",
+          "media_url": "http://pbs.twimg.com/media/Gq4ZNRWXIAAPAjK.png",
+          "id_str": "1922501806719967232",
+          "id": "1922501806719967232",
+          "media_url_https": "https://pbs.twimg.com/media/Gq4ZNRWXIAAPAjK.png",
+          "sizes": {
+            "small": {
+              "w": "577",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1019",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1600",
+              "h": "1884",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GwS1KrB5D1"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "158"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1922501637500719565",
+    "id_str": "1922502292961370378",
+    "in_reply_to_user_id": "4541438237",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922502292961370378",
+    "in_reply_to_status_id": "1922501637500719565",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 14 04:00:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@philosofounder_ The good news is that we can formalize time. \n\nI'll have a draft of a paper out tonight that introduces everything :) https://t.co/GwS1KrB5D1",
+    "lang": "en",
+    "in_reply_to_screen_name": "philosofounder_",
+    "in_reply_to_user_id_str": "4541438237",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922502292961370378/photo/1",
+          "indices": [
+            "135",
+            "158"
+          ],
+          "url": "https://t.co/GwS1KrB5D1",
+          "media_url": "http://pbs.twimg.com/media/Gq4ZNRWXIAAPAjK.png",
+          "id_str": "1922501806719967232",
+          "id": "1922501806719967232",
+          "media_url_https": "https://pbs.twimg.com/media/Gq4ZNRWXIAAPAjK.png",
+          "sizes": {
+            "small": {
+              "w": "577",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1019",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1600",
+              "h": "1884",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GwS1KrB5D1"
+        }
+      ]
+    }
+  }
+}

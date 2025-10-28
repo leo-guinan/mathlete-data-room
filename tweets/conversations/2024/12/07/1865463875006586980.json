@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1865463875006586980"
+        ],
+        "editableUntil": "2024-12-07T19:30:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Steve Sirk",
+          "screen_name": "stevesirk",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "112603404",
+          "id": "112603404"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1865461436824142253",
+    "id_str": "1865463875006586980",
+    "in_reply_to_user_id": "112603404",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1865463875006586980",
+    "in_reply_to_status_id": "1865461436824142253",
+    "created_at": "Sat Dec 07 18:30:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@stevesirk I like how this tweet applies to multiple sports because it took me a moment to process, because Miami was eliminated a long time ago 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "stevesirk",
+    "in_reply_to_user_id_str": "112603404"
+  }
+}

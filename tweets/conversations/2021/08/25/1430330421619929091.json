@@ -1,0 +1,64 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1430330421619929091"
+        ],
+        "editableUntil": "2021-08-25T01:45:21.425Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperchargeYourTime",
+          "indices": [
+            "123",
+            "143"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "John Bates",
+          "screen_name": "johnbates",
+          "indices": [
+            "65",
+            "75"
+          ],
+          "id_str": "6998002",
+          "id": "6998002"
+        },
+        {
+          "name": "Super",
+          "screen_name": "superdotfans",
+          "indices": [
+            "217",
+            "230"
+          ],
+          "id_str": "1382203111255674881",
+          "id": "1382203111255674881"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "2",
+    "id_str": "1430330421619929091",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1430330421619929091",
+    "created_at": "Wed Aug 25 00:45:21 +0000 2021",
+    "favorited": false,
+    "full_text": "A great reminder of why I love automation.\n\nWhen on my call with @johnbates today, he asked about what steps were next for #SuperchargeYourTime.\n\nAnd I said, \"Just what was in the email. The survey and signing up via @superdotfans \n\nAnd he said, \"What email? I don't remember one\"",
+    "lang": "en"
+  }
+}

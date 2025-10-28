@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1500201779027496960"
+        ],
+        "editableUntil": "2022-03-05T21:09:11.178Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1499930038510272514/photo/1",
+          "source_status_id": "1499930038510272514",
+          "indices": [
+            "72",
+            "95"
+          ],
+          "url": "https://t.co/1waHU35CwI",
+          "media_url": "http://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "id_str": "1499930035507150849",
+          "source_user_id": "1325102346792218629",
+          "id": "1499930035507150849",
+          "media_url_https": "https://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1499930038510272514",
+          "display_url": "pic.x.com/1waHU35CwI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "95"
+    ],
+    "favorite_count": "0",
+    "id_str": "1500201779027496960",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1500201779027496960",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 05 20:09:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Someone's cuddling with the remnants of one of her toys https://t.co/1waHU35CwI",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1499930038510272514/photo/1",
+          "source_status_id": "1499930038510272514",
+          "indices": [
+            "72",
+            "95"
+          ],
+          "url": "https://t.co/1waHU35CwI",
+          "media_url": "http://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "id_str": "1499930035507150849",
+          "source_user_id": "1325102346792218629",
+          "id": "1499930035507150849",
+          "media_url_https": "https://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1499930038510272514",
+          "display_url": "pic.x.com/1waHU35CwI"
+        }
+      ]
+    }
+  }
+}

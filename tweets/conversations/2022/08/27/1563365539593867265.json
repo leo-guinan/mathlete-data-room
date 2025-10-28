@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563365539593867265"
+        ],
+        "editableUntil": "2022-08-27T03:49:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "173"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1563364604583243776",
+    "id_str": "1563365539593867265",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563365539593867265",
+    "in_reply_to_status_id": "1563364604583243776",
+    "created_at": "Sat Aug 27 03:19:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go The only way to lose is to play by the rules.\n\nThe game is rigged. So if you play their game, it's setup for you to lose.\n\nPlay your own game and it's yours to win",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972"
+  }
+}

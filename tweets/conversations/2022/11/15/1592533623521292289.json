@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1592533623521292289"
+        ],
+        "editableUntil": "2022-11-15T15:32:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Araks Brand",
+          "screen_name": "Araks111",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3239016249",
+          "id": "3239016249"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0BLF5Uhx6b",
+          "expanded_url": "https://medium.datadriveninvestor.com/do-you-really-want-to-start-making-money-on-the-internet-a3471fc13017?sk=c511d08649aa7ba1b7d2980e545a58d3",
+          "display_url": "medium.datadriveninvestor.com/do-you-really-…",
+          "indices": [
+            "223",
+            "246"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "246"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1592533289180729346",
+    "id_str": "1592533623521292289",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1592533623521292289",
+    "in_reply_to_status_id": "1592533289180729346",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 15 15:02:58 +0000 2022",
+    "favorited": false,
+    "full_text": "@Araks111 So, I'll try to re-record when I get a chance, and let you know!\n\nI've done a little bit of writing about it on Medium, although looking back, I'm a bit embarrassed about my old writing lol.\n\nBut here's one blog: https://t.co/0BLF5Uhx6b",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

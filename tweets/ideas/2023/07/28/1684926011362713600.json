@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1684926011362713600"
+        ],
+        "editableUntil": "2023-07-28T14:57:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "251"
+    ],
+    "favorite_count": "2",
+    "id_str": "1684926011362713600",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1684926011362713600",
+    "created_at": "Fri Jul 28 13:57:20 +0000 2023",
+    "favorited": false,
+    "full_text": "Spent some time last night converting the build in public coach chatbot to use websocket communication instead of standard HTTP requests. That way, I can actually push off the agent processing to my celery workers and not have to worry about timeouts.",
+    "lang": "en"
+  }
+}

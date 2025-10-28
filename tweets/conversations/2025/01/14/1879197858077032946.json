@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1879197858077032946"
+        ],
+        "editableUntil": "2025-01-14T17:04:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Bateman",
+          "screen_name": "mbateman",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3467611",
+          "id": "3467611"
+        },
+        {
+          "name": "TracingWoodgrains",
+          "screen_name": "tracewoodgrains",
+          "indices": [
+            "10",
+            "26"
+          ],
+          "id_str": "1006723260384309249",
+          "id": "1006723260384309249"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1879179378976047445",
+    "id_str": "1879197858077032946",
+    "in_reply_to_user_id": "3467611",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1879197858077032946",
+    "in_reply_to_status_id": "1879179378976047445",
+    "created_at": "Tue Jan 14 16:04:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@mbateman @tracewoodgrains Working on that with an insurance model that makes people assumed to be the default. Removes the power of people in hierarchies to threaten the stability of communities.\n\nGive people stability, and they will find fulfillment.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mbateman",
+    "in_reply_to_user_id_str": "3467611"
+  }
+}

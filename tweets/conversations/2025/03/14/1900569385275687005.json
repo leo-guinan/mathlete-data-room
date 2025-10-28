@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1900569385275687005"
+        ],
+        "editableUntil": "2025-03-14T16:27:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "11",
+            "25"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        },
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "71",
+            "85"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        },
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "133",
+            "147"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "153",
+            "167"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1900569385275687005/photo/1",
+          "indices": [
+            "265",
+            "288"
+          ],
+          "url": "https://t.co/LmF1rAs9Xt",
+          "media_url": "http://pbs.twimg.com/media/GmAtY-JXgAAplHB.jpg",
+          "id_str": "1900568949772746752",
+          "id": "1900568949772746752",
+          "media_url_https": "https://pbs.twimg.com/media/GmAtY-JXgAAplHB.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "605",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1914",
+              "h": "1704",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1068",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/LmF1rAs9Xt"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "0",
+    "id_str": "1900569385275687005",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1900569385275687005",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 14 15:27:06 +0000 2025",
+    "favorited": false,
+    "full_text": "Gotta give @glitchishuman credit for being pretty unhinged.\n\nBut is it @iamjasonlevin unhinged?\n\nThat's what I'm shooting for.\n\nOnce @iamjasonlevin uses @glitchishuman's AI model for everything, then I've won.\n\n(Am I creating an LLM for one person? Yes. Yes I am.) https://t.co/LmF1rAs9Xt",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1900569385275687005/photo/1",
+          "indices": [
+            "265",
+            "288"
+          ],
+          "url": "https://t.co/LmF1rAs9Xt",
+          "media_url": "http://pbs.twimg.com/media/GmAtY-JXgAAplHB.jpg",
+          "id_str": "1900568949772746752",
+          "id": "1900568949772746752",
+          "media_url_https": "https://pbs.twimg.com/media/GmAtY-JXgAAplHB.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "605",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1914",
+              "h": "1704",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1068",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/LmF1rAs9Xt"
+        }
+      ]
+    }
+  }
+}

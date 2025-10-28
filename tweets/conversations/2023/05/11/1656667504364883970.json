@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1656667504364883970"
+        ],
+        "editableUntil": "2023-05-11T14:58:07.091Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Acunzo",
+          "screen_name": "jayacunzo",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "112596381",
+          "id": "112596381"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1656667504364883970",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1656667504364883970",
+    "created_at": "Thu May 11 14:28:07 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @jayacunzo: “Don’t be the best. Be their favorite.” \n\nThis one idea has transformed my career and keeps me from falling victim to compar…",
+    "lang": "en"
+  }
+}

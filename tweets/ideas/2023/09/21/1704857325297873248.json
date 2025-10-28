@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1704857325297873248"
+        ],
+        "editableUntil": "2023-09-21T14:57:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qOKGXRLj69",
+          "expanded_url": "https://youtu.be/yyZbzVvDnXU",
+          "display_url": "youtu.be/yyZbzVvDnXU",
+          "indices": [
+            "34",
+            "57"
+          ]
+        },
+        {
+          "url": "https://t.co/TwffOT0mJF",
+          "expanded_url": "http://myaicofounder.com",
+          "display_url": "myaicofounder.com",
+          "indices": [
+            "171",
+            "194"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "194"
+    ],
+    "favorite_count": "0",
+    "id_str": "1704857325297873248",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1704857325297873248",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 21 13:57:15 +0000 2023",
+    "favorited": false,
+    "full_text": "New YouTube video from yesterday:\nhttps://t.co/qOKGXRLj69\n\nI took a look at my first co-founder experience (it wasn't good) and how that plays into what I'm building with https://t.co/TwffOT0mJF",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339574758661361666"
+        ],
+        "editableUntil": "2020-12-17T15:14:45.217Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hunter McKinley",
+          "screen_name": "huntermoonshot",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "306854600",
+          "id": "306854600"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1339572873221050368",
+    "id_str": "1339574758661361666",
+    "in_reply_to_user_id": "306854600",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339574758661361666",
+    "in_reply_to_status_id": "1339572873221050368",
+    "created_at": "Thu Dec 17 14:14:45 +0000 2020",
+    "favorited": false,
+    "full_text": "@huntermoonshot Because we already pay for our insurance and it is shit. Higher taxes equate to not paying insurance premiums. You also don't get stuck paying astronomical hospital bills that no normal person could afford. The money just moves differently.",
+    "lang": "en",
+    "in_reply_to_screen_name": "huntermoonshot",
+    "in_reply_to_user_id_str": "306854600"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1757085237220139467"
+        ],
+        "editableUntil": "2024-02-12T17:52:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1757085237220139467/video/1",
+          "indices": [
+            "257",
+            "280"
+          ],
+          "url": "https://t.co/wEEkeD0JEV",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1757085152440676354/pu/img/AWeA6DeW99yKas1-.jpg",
+          "id_str": "1757085152440676354",
+          "id": "1757085152440676354",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1757085152440676354/pu/img/AWeA6DeW99yKas1-.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wEEkeD0JEV"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "0",
+    "id_str": "1757085237220139467",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1757085237220139467",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 12 16:52:20 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, ready to start getting some users trying out My AI Cofounder.\n\nAnybody up to try it out? To start, asking for a Zoom call to walk you through the app and make sure things go as expected.\n\nNeed to figure out some baseline usage metrics, so I need users. https://t.co/wEEkeD0JEV",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1757085237220139467/video/1",
+          "indices": [
+            "257",
+            "280"
+          ],
+          "url": "https://t.co/wEEkeD0JEV",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1757085152440676354/pu/img/AWeA6DeW99yKas1-.jpg",
+          "id_str": "1757085152440676354",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "42664",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1757085152440676354/pu/pl/7pJgP9rf_Sc-LBS-.m3u8?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1757085152440676354/pu/vid/avc1/640x360/2Elw9KCZCTF4U5KE.mp4?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1757085152440676354/pu/vid/avc1/1280x720/aeoTyj05bqvmbIlq.mp4?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1757085152440676354/pu/vid/avc1/480x270/GDYsBSztNncfSPMU.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1757085152440676354",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1757085152440676354/pu/img/AWeA6DeW99yKas1-.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/wEEkeD0JEV"
+        }
+      ]
+    }
+  }
+}

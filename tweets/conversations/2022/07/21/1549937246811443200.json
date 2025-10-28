@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1549937246811443200"
+        ],
+        "editableUntil": "2022-07-21T02:30:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1549901674512261120",
+    "id_str": "1549937246811443200",
+    "in_reply_to_user_id": "4736729423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1549937246811443200",
+    "in_reply_to_status_id": "1549901674512261120",
+    "created_at": "Thu Jul 21 02:00:10 +0000 2022",
+    "favorited": false,
+    "full_text": "@thisiskp_ I don't think it will be a VC fund. \n\nBecause I think if done right, most founders won't need the VC money.\n\nAnd I say this as someone working in the space because there is a lot of opportunity there.",
+    "lang": "en",
+    "in_reply_to_screen_name": "thisiskp_",
+    "in_reply_to_user_id_str": "4736729423"
+  }
+}

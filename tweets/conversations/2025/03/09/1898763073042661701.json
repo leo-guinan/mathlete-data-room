@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898763073042661701"
+        ],
+        "editableUntil": "2025-03-09T16:49:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Al Yankovic",
+          "screen_name": "alyankovic",
+          "indices": [
+            "99",
+            "110"
+          ],
+          "id_str": "22461427",
+          "id": "22461427"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "132",
+            "146"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "0",
+    "id_str": "1898763073042661701",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898763073042661701",
+    "created_at": "Sun Mar 09 15:49:28 +0000 2025",
+    "favorited": false,
+    "full_text": "PSA: Vibe Coding has Consequences\n\nMaking the Internet Weird again by vibe coding and listening to @alyankovic \n\nThat's how you get @glitchishuman",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1481335673269501962"
+        ],
+        "editableUntil": "2022-01-12T19:42:01.050Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperchargeYourTime",
+          "indices": [
+            "120",
+            "140"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "1",
+    "id_str": "1481335673269501962",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1481335673269501962",
+    "created_at": "Wed Jan 12 18:42:01 +0000 2022",
+    "favorited": false,
+    "full_text": "Benefit from this talk on queues that I didn't expect:\n\nI've started to realize how much of these ideas I talk about in #SuperchargeYourTime. \n\nThese same evolutions are happening in no-code. The terminology is different, but the patterns are the same.",
+    "lang": "en"
+  }
+}

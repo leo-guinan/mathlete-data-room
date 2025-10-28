@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492205026420441098"
+        ],
+        "editableUntil": "2022-02-11T19:32:56.784Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nathan Barry",
+          "screen_name": "nathanbarry",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "16930883",
+          "id": "16930883"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "64"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1492178463494529031",
+    "id_str": "1492205026420441098",
+    "in_reply_to_user_id": "16930883",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492205026420441098",
+    "in_reply_to_status_id": "1492178463494529031",
+    "created_at": "Fri Feb 11 18:32:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@nathanbarry Building strong relationships with their superfans.",
+    "lang": "en",
+    "in_reply_to_screen_name": "nathanbarry",
+    "in_reply_to_user_id_str": "16930883"
+  }
+}

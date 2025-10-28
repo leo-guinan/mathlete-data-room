@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1926149563288580340"
+        ],
+        "editableUntil": "2025-05-24T06:33:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Noah Smith 🐇",
+          "screen_name": "Noahpinion",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "281877818",
+          "id": "281877818"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "64"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1926148690567209014",
+    "id_str": "1926149563288580340",
+    "in_reply_to_user_id": "281877818",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1926149563288580340",
+    "in_reply_to_status_id": "1926148690567209014",
+    "created_at": "Sat May 24 05:33:36 +0000 2025",
+    "favorited": false,
+    "full_text": "@Noahpinion It is for the people who understand the real theory.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Noahpinion",
+    "in_reply_to_user_id_str": "281877818"
+  }
+}

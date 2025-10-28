@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1948447456934384121"
+        ],
+        "editableUntil": "2025-07-24T19:17:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Pf7qeS1fjt",
+          "expanded_url": "https://medium.com/swlh/the-5-laws-of-success-in-business-and-life-57596dc1f195",
+          "display_url": "medium.com/swlh/the-5-law…",
+          "indices": [
+            "179",
+            "202"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1948447456934384121/photo/1",
+          "indices": [
+            "203",
+            "226"
+          ],
+          "url": "https://t.co/gqsOMUfjki",
+          "media_url": "http://pbs.twimg.com/media/GwpGc_LX0AAl005.jpg",
+          "id_str": "1948447252600573952",
+          "id": "1948447252600573952",
+          "media_url_https": "https://pbs.twimg.com/media/GwpGc_LX0AAl005.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "521",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1822",
+              "h": "1396",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "919",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gqsOMUfjki"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "226"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1948415428914708722",
+    "id_str": "1948447456934384121",
+    "in_reply_to_user_id": "1400492097082327040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1948447456934384121",
+    "in_reply_to_status_id": "1948415428914708722",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 24 18:17:28 +0000 2025",
+    "favorited": false,
+    "full_text": "@jessyka_boat There's a book I read early on that helped me see how powerful that was. And then it took me way longer than I realized it would to make what I saw become reality.\n\nhttps://t.co/Pf7qeS1fjt https://t.co/gqsOMUfjki",
+    "lang": "en",
+    "in_reply_to_screen_name": "jessyka_boat",
+    "in_reply_to_user_id_str": "1400492097082327040",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1948447456934384121/photo/1",
+          "indices": [
+            "203",
+            "226"
+          ],
+          "url": "https://t.co/gqsOMUfjki",
+          "media_url": "http://pbs.twimg.com/media/GwpGc_LX0AAl005.jpg",
+          "id_str": "1948447252600573952",
+          "id": "1948447252600573952",
+          "media_url_https": "https://pbs.twimg.com/media/GwpGc_LX0AAl005.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "521",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1822",
+              "h": "1396",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "919",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gqsOMUfjki"
+        }
+      ]
+    }
+  }
+}

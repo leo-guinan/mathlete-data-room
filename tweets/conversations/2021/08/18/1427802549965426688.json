@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1427802549965426688"
+        ],
+        "editableUntil": "2021-08-18T02:20:29.857Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brendan McAdams",
+          "screen_name": "brendanmcadams",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "118678489",
+          "id": "118678489"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1427637086618804230",
+    "id_str": "1427802549965426688",
+    "in_reply_to_user_id": "118678489",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1427802549965426688",
+    "in_reply_to_status_id": "1427637086618804230",
+    "created_at": "Wed Aug 18 01:20:29 +0000 2021",
+    "favorited": false,
+    "full_text": "@brendanmcadams Let me know what the promised land is like. 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "brendanmcadams",
+    "in_reply_to_user_id_str": "118678489"
+  }
+}

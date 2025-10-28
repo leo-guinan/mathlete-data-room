@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1734967777616712133"
+        ],
+        "editableUntil": "2023-12-13T17:05:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "LangChain",
+          "screen_name": "LangChainAI",
+          "indices": [
+            "46",
+            "58"
+          ],
+          "id_str": "1589007443853340672",
+          "id": "1589007443853340672"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "4",
+    "id_str": "1734967777616712133",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1734967777616712133",
+    "created_at": "Wed Dec 13 16:05:26 +0000 2023",
+    "favorited": false,
+    "full_text": "Ok, could use some help from anyone who knows @LangChainAI really well.\n\nI'm playing around with an agent that can send out requests, but after it does, I want it to stop, save state, and resume once a webhook is received.\n\nHas anyone had luck with a \"suspend\" tool?",
+    "lang": "en"
+  }
+}

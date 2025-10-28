@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1912549679352476116"
+        ],
+        "editableUntil": "2025-04-16T17:52:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "167"
+    ],
+    "favorite_count": "8",
+    "in_reply_to_status_id_str": "1912549145564594442",
+    "id_str": "1912549679352476116",
+    "in_reply_to_user_id": "183749519",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1912549679352476116",
+    "in_reply_to_status_id": "1912549145564594442",
+    "created_at": "Wed Apr 16 16:52:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@paulg Involve the kids in the startup! \n\nMy 10yo is starting to do livestreams as part of my distribution and I'm teaching my 13yo ML.\n\nFamily bonding AND free labor!",
+    "lang": "en",
+    "in_reply_to_screen_name": "paulg",
+    "in_reply_to_user_id_str": "183749519"
+  }
+}

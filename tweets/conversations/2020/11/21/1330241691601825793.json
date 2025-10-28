@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330241691601825793"
+        ],
+        "editableUntil": "2020-11-21T21:08:28.630Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Geoff Lewis",
+          "screen_name": "GeoffLewisOrg",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "86736696",
+          "id": "86736696"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "142"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1330241270715994118",
+    "id_str": "1330241691601825793",
+    "in_reply_to_user_id": "86736696",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330241691601825793",
+    "in_reply_to_status_id": "1330241270715994118",
+    "created_at": "Sat Nov 21 20:08:28 +0000 2020",
+    "favorited": false,
+    "full_text": "@GeoffLewisOrg That's the truth. I did let it spark a renewed interest in cryptocurrencies at least. Now I have that info for future projects.",
+    "lang": "en",
+    "in_reply_to_screen_name": "GeoffLewisOrg",
+    "in_reply_to_user_id_str": "86736696"
+  }
+}

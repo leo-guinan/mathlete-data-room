@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1415333870078136321"
+        ],
+        "editableUntil": "2021-07-14T16:34:24.915Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter Yang",
+          "screen_name": "petergyang",
+          "indices": [
+            "44",
+            "55"
+          ],
+          "id_str": "84490044",
+          "id": "84490044"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KetFo2rBs3",
+          "expanded_url": "https://creatoreconomy.so/p/two-types-of-social-apps?r=evblp&utm_campaign=post&utm_medium=email&utm_source=twitter",
+          "display_url": "creatoreconomy.so/p/two-types-of…",
+          "indices": [
+            "56",
+            "79"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "2",
+    "id_str": "1415333870078136321",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1415333870078136321",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 14 15:34:24 +0000 2021",
+    "favorited": false,
+    "full_text": "There Are Only Two Types of Social Apps, by @petergyang https://t.co/KetFo2rBs3",
+    "lang": "en"
+  }
+}

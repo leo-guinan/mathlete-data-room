@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507693389008957441"
+        ],
+        "editableUntil": "2022-03-26T13:18:10.185Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1507693069851787264",
+    "id_str": "1507693389008957441",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507693389008957441",
+    "in_reply_to_status_id": "1507693069851787264",
+    "created_at": "Sat Mar 26 12:18:10 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU There are a lot of people looking to change their lives right now. But they don't look at data when trying to do so. They look for stories of regular people like them changing their lives. Because then they might be able to do it.\n\nAnd when we share our story, people can find it",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

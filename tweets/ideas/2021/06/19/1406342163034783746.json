@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1406342163034783746"
+        ],
+        "editableUntil": "2021-06-19T21:04:34.898Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1406342163034783746/photo/1",
+          "indices": [
+            "92",
+            "115"
+          ],
+          "url": "https://t.co/ueS8Z7kI8c",
+          "media_url": "http://pbs.twimg.com/media/E4RUuqJWEAYbKoF.jpg",
+          "id_str": "1406342144210636806",
+          "id": "1406342144210636806",
+          "media_url_https": "https://pbs.twimg.com/media/E4RUuqJWEAYbKoF.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ueS8Z7kI8c"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "6",
+    "id_str": "1406342163034783746",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1406342163034783746",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 19 20:04:34 +0000 2021",
+    "favorited": false,
+    "full_text": "Last t-ball game of the year. Going to commemorate it with my favorite picture of the year. https://t.co/ueS8Z7kI8c",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1406342163034783746/photo/1",
+          "indices": [
+            "92",
+            "115"
+          ],
+          "url": "https://t.co/ueS8Z7kI8c",
+          "media_url": "http://pbs.twimg.com/media/E4RUuqJWEAYbKoF.jpg",
+          "id_str": "1406342144210636806",
+          "id": "1406342144210636806",
+          "media_url_https": "https://pbs.twimg.com/media/E4RUuqJWEAYbKoF.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ueS8Z7kI8c"
+        }
+      ]
+    }
+  }
+}

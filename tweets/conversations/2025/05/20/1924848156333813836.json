@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1924848156333813836"
+        ],
+        "editableUntil": "2025-05-20T16:22:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Loopy",
+          "screen_name": "strangestloop",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1163927704049262592",
+          "id": "1163927704049262592"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "26"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1924836947186299199",
+    "id_str": "1924848156333813836",
+    "in_reply_to_user_id": "1163927704049262592",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1924848156333813836",
+    "in_reply_to_status_id": "1924836947186299199",
+    "created_at": "Tue May 20 15:22:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@strangestloop Time travel",
+    "lang": "en",
+    "in_reply_to_screen_name": "strangestloop",
+    "in_reply_to_user_id_str": "1163927704049262592"
+  }
+}

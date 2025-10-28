@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1810084349221453926"
+        ],
+        "editableUntil": "2024-07-07T23:51:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "جابر الاصفر",
+          "screen_name": "jaberalasfar",
+          "indices": [
+            "10",
+            "23"
+          ],
+          "id_str": "1975731015709601792",
+          "id": "1975731015709601792"
+        },
+        {
+          "name": "Ishan",
+          "screen_name": "radshaan",
+          "indices": [
+            "24",
+            "33"
+          ],
+          "id_str": "899443081581408256",
+          "id": "899443081581408256"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h29FTP7wEi",
+          "expanded_url": "https://www.altamira.studio/ask",
+          "display_url": "altamira.studio/ask",
+          "indices": [
+            "135",
+            "158"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "158"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1810066115684417585",
+    "id_str": "1810084349221453926",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1810084349221453926",
+    "in_reply_to_status_id": "1810066115684417585",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 07 22:51:53 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli @jaberalasfar @radshaan With you on that point. \n\nBut here's a book that was easy to digest, fun to read, and mind opening:\n\nhttps://t.co/h29FTP7wEi",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

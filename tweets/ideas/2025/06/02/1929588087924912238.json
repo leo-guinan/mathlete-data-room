@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929588087924912238"
+        ],
+        "editableUntil": "2025-06-02T18:17:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KfY3XRUJRC",
+          "expanded_url": "https://x.com/leo_guinan/status/1929586731096952872",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1929588087924912238/photo/1",
+          "indices": [
+            "85",
+            "108"
+          ],
+          "url": "https://t.co/PwxHIQopXx",
+          "media_url": "http://pbs.twimg.com/media/GsdFXXwXIAAKM_f.jpg",
+          "id_str": "1929587233167712256",
+          "id": "1929587233167712256",
+          "media_url_https": "https://pbs.twimg.com/media/GsdFXXwXIAAKM_f.jpg",
+          "sizes": {
+            "large": {
+              "w": "1704",
+              "h": "1646",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1159",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "657",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/PwxHIQopXx"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "3",
+    "id_str": "1929588087924912238",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1929588087924912238",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 02 17:17:04 +0000 2025",
+    "favorited": false,
+    "full_text": "Building a time machine. Feeling the vibes.\n\nAnyone with me? https://t.co/KfY3XRUJRC https://t.co/PwxHIQopXx",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1929588087924912238/photo/1",
+          "indices": [
+            "85",
+            "108"
+          ],
+          "url": "https://t.co/PwxHIQopXx",
+          "media_url": "http://pbs.twimg.com/media/GsdFXXwXIAAKM_f.jpg",
+          "id_str": "1929587233167712256",
+          "id": "1929587233167712256",
+          "media_url_https": "https://pbs.twimg.com/media/GsdFXXwXIAAKM_f.jpg",
+          "sizes": {
+            "large": {
+              "w": "1704",
+              "h": "1646",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1159",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "657",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/PwxHIQopXx"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1475959468441616384"
+        ],
+        "editableUntil": "2021-12-28T23:38:53.934Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "3",
+    "id_str": "1475959468441616384",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1475959468441616384",
+    "created_at": "Tue Dec 28 22:38:53 +0000 2021",
+    "favorited": false,
+    "full_text": "I've got a bug somewhere. I'm getting all sorts of data that I'm not expecting. \n\nOne of the changes I finally made was that I started using a different database for my local environment than I did for production. \n\n(I know, I know)",
+    "lang": "en"
+  }
+}

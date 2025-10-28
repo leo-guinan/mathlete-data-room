@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432341689881014277"
+        ],
+        "editableUntil": "2021-08-30T14:57:25.146Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Roy Graham",
+          "screen_name": "Grayhaem",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "1292453425",
+          "id": "1292453425"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/Grayhaem/status/1432045012108316677/photo/1",
+          "source_status_id": "1432045012108316677",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/mAwgdZHGlW",
+          "media_url": "http://pbs.twimg.com/media/E9-lWWUWUAQnZUn.jpg",
+          "id_str": "1432045009893740548",
+          "source_user_id": "1292453425",
+          "id": "1432045009893740548",
+          "media_url_https": "https://pbs.twimg.com/media/E9-lWWUWUAQnZUn.jpg",
+          "source_user_id_str": "1292453425",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "634",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "750",
+              "h": "699",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "750",
+              "h": "699",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1432045012108316677",
+          "display_url": "pic.x.com/mAwgdZHGlW"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "37"
+    ],
+    "favorite_count": "0",
+    "id_str": "1432341689881014277",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432341689881014277",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 30 13:57:25 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Grayhaem: https://t.co/mAwgdZHGlW",
+    "lang": "zxx",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/Grayhaem/status/1432045012108316677/photo/1",
+          "source_status_id": "1432045012108316677",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/mAwgdZHGlW",
+          "media_url": "http://pbs.twimg.com/media/E9-lWWUWUAQnZUn.jpg",
+          "id_str": "1432045009893740548",
+          "source_user_id": "1292453425",
+          "id": "1432045009893740548",
+          "media_url_https": "https://pbs.twimg.com/media/E9-lWWUWUAQnZUn.jpg",
+          "source_user_id_str": "1292453425",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "634",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "750",
+              "h": "699",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "750",
+              "h": "699",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1432045012108316677",
+          "display_url": "pic.x.com/mAwgdZHGlW"
+        }
+      ]
+    }
+  }
+}

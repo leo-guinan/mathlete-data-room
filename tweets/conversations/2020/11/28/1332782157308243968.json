@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1332782157308243968"
+        ],
+        "editableUntil": "2020-11-28T21:23:22.854Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Accidental",
+          "screen_name": "LeftAccidental",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1377489872999550977",
+          "id": "1377489872999550977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/LeftAccidental/status/1332686951808380931/photo/1",
+          "source_status_id": "1332686951808380931",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/pWvHROYSeo",
+          "media_url": "http://pbs.twimg.com/media/En6npREXUAI1b6P.jpg",
+          "id_str": "1332686867146428418",
+          "source_user_id": "1303873858936737793",
+          "id": "1332686867146428418",
+          "media_url_https": "https://pbs.twimg.com/media/En6npREXUAI1b6P.jpg",
+          "source_user_id_str": "1303873858936737793",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "533",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "336",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1080",
+              "h": "533",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1332686951808380931",
+          "display_url": "pic.x.com/pWvHROYSeo"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "0",
+    "id_str": "1332782157308243968",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1332782157308243968",
+    "possibly_sensitive": false,
+    "created_at": "Sat Nov 28 20:23:22 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @LeftAccidental: Oh honey https://t.co/pWvHROYSeo",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/LeftAccidental/status/1332686951808380931/photo/1",
+          "source_status_id": "1332686951808380931",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/pWvHROYSeo",
+          "media_url": "http://pbs.twimg.com/media/En6npREXUAI1b6P.jpg",
+          "id_str": "1332686867146428418",
+          "source_user_id": "1303873858936737793",
+          "id": "1332686867146428418",
+          "media_url_https": "https://pbs.twimg.com/media/En6npREXUAI1b6P.jpg",
+          "source_user_id_str": "1303873858936737793",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "533",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "336",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1080",
+              "h": "533",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1332686951808380931",
+          "display_url": "pic.x.com/pWvHROYSeo"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1644762490436198400"
+        ],
+        "editableUntil": "2023-04-08T18:31:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "12",
+            "24"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "2",
+    "id_str": "1644762490436198400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1644762490436198400",
+    "created_at": "Sat Apr 08 18:01:50 +0000 2023",
+    "favorited": false,
+    "full_text": "Kicking off @_buildspace N&amp;W S3.\n\nLet's build.",
+    "lang": "en"
+  }
+}

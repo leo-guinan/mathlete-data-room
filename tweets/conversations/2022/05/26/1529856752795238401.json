@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1529856752795238401"
+        ],
+        "editableUntil": "2022-05-26T16:37:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "235"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1529856750106591232",
+    "id_str": "1529856752795238401",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1529856752795238401",
+    "in_reply_to_status_id": "1529856750106591232",
+    "created_at": "Thu May 26 16:07:27 +0000 2022",
+    "favorited": false,
+    "full_text": "@copy_ai And all of a sudden, you have a very divided network.\n\nAnd since people tend to follow others who have similar beliefs, they end up with similar enemies.\n\nBut how often are those enemies real and how often are they fabricated?",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

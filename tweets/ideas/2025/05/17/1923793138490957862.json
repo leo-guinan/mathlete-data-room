@@ -1,0 +1,137 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923793138490957862"
+        ],
+        "editableUntil": "2025-05-17T18:30:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QHMmNDmZyh",
+          "expanded_url": "https://x.com/CrewFanCouncil/status/1923789258629787952",
+          "display_url": "x.com/CrewFanCouncil…",
+          "indices": [
+            "50",
+            "73"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923793138490957862/photo/1",
+          "indices": [
+            "74",
+            "97"
+          ],
+          "url": "https://t.co/8OPMfPRSQK",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GrKvqV2XwAAVsEB.jpg",
+          "id_str": "1923793132795183104",
+          "id": "1923793132795183104",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GrKvqV2XwAAVsEB.jpg",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "314",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "314",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "314",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/8OPMfPRSQK"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "97"
+    ],
+    "favorite_count": "1",
+    "id_str": "1923793138490957862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923793138490957862",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 17 17:30:01 +0000 2025",
+    "favorited": false,
+    "full_text": "Me right now !\n\nSee y’all there tonight Crew fam! https://t.co/QHMmNDmZyh https://t.co/8OPMfPRSQK",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923793138490957862/photo/1",
+          "indices": [
+            "74",
+            "97"
+          ],
+          "url": "https://t.co/8OPMfPRSQK",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GrKvqV2XwAAVsEB.jpg",
+          "id_str": "1923793132795183104",
+          "video_info": {
+            "aspect_ratio": [
+              "240",
+              "157"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GrKvqV2XwAAVsEB.mp4"
+              }
+            ]
+          },
+          "id": "1923793132795183104",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GrKvqV2XwAAVsEB.jpg",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "314",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "314",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "314",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/8OPMfPRSQK"
+        }
+      ]
+    }
+  }
+}

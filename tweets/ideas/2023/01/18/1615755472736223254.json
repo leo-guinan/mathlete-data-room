@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1615755472736223254"
+        ],
+        "editableUntil": "2023-01-18T17:28:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "253"
+    ],
+    "favorite_count": "0",
+    "id_str": "1615755472736223254",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1615755472736223254",
+    "created_at": "Wed Jan 18 16:58:18 +0000 2023",
+    "favorited": false,
+    "full_text": "Hitting a bunch of \"rate limit\" errors with openai, which is cool. Doesn't seem to be my personal account getting limited so much as overall traffic.\n\nWhich means I've got to go back and see what all requests failed overnight, because a lot of them did.",
+    "lang": "en"
+  }
+}

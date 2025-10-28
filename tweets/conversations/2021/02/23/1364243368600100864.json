@@ -1,0 +1,69 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1364243368600100864"
+        ],
+        "editableUntil": "2021-02-23T16:59:00.147Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BeKindRewind",
+          "indices": [
+            "26",
+            "39"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brandon Brooks",
+          "screen_name": "OfficialBBrooks",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "929464603439923201",
+          "id": "929464603439923201"
+        },
+        {
+          "name": "Dispo",
+          "screen_name": "dispohq",
+          "indices": [
+            "17",
+            "25"
+          ],
+          "id_str": "1645835703165517847",
+          "id": "1645835703165517847"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1364243014139469833",
+    "id_str": "1364243368600100864",
+    "in_reply_to_user_id": "929464603439923201",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1364243368600100864",
+    "in_reply_to_status_id": "1364243014139469833",
+    "created_at": "Tue Feb 23 15:59:00 +0000 2021",
+    "favorited": false,
+    "full_text": "@OfficialBBrooks @DispoHQ #BeKindRewind",
+    "lang": "qme",
+    "in_reply_to_screen_name": "OfficialBBrooks",
+    "in_reply_to_user_id_str": "929464603439923201"
+  }
+}

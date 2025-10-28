@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1477402768302301192"
+        ],
+        "editableUntil": "2022-01-01T23:14:03.436Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1477402768302301192/photo/1",
+          "indices": [
+            "60",
+            "83"
+          ],
+          "url": "https://t.co/QgiGLJqdgU",
+          "media_url": "http://pbs.twimg.com/media/FIDJ_L5XEAE_KCs.jpg",
+          "id_str": "1477402765139841025",
+          "id": "1477402765139841025",
+          "media_url_https": "https://pbs.twimg.com/media/FIDJ_L5XEAE_KCs.jpg",
+          "sizes": {
+            "large": {
+              "w": "1152",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/QgiGLJqdgU"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "7",
+    "id_str": "1477402768302301192",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1477402768302301192",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 01 22:14:03 +0000 2022",
+    "favorited": false,
+    "full_text": "Time for some Buckeye football!\n\nAnd some Christmas scotch! https://t.co/QgiGLJqdgU",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1477402768302301192/photo/1",
+          "indices": [
+            "60",
+            "83"
+          ],
+          "url": "https://t.co/QgiGLJqdgU",
+          "media_url": "http://pbs.twimg.com/media/FIDJ_L5XEAE_KCs.jpg",
+          "id_str": "1477402765139841025",
+          "id": "1477402765139841025",
+          "media_url_https": "https://pbs.twimg.com/media/FIDJ_L5XEAE_KCs.jpg",
+          "sizes": {
+            "large": {
+              "w": "1152",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/QgiGLJqdgU"
+        }
+      ]
+    }
+  }
+}

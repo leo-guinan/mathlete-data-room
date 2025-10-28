@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1847679292345577824"
+        ],
+        "editableUntil": "2024-10-19T17:40:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1847679292345577824/photo/1",
+          "indices": [
+            "82",
+            "105"
+          ],
+          "url": "https://t.co/r5M95nK5re",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GaRGhYHXAAATbkz.jpg",
+          "id_str": "1847679286351691776",
+          "id": "1847679286351691776",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GaRGhYHXAAATbkz.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/r5M95nK5re"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1846587488665506005",
+    "id_str": "1847679292345577824",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1847679292345577824",
+    "in_reply_to_status_id": "1846587488665506005",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 19 16:40:46 +0000 2024",
+    "favorited": false,
+    "full_text": "@reddy2go Good vibes received and worked!\n\nNow time to spread those vibes around. https://t.co/r5M95nK5re",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1847679292345577824/photo/1",
+          "indices": [
+            "82",
+            "105"
+          ],
+          "url": "https://t.co/r5M95nK5re",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GaRGhYHXAAATbkz.jpg",
+          "id_str": "1847679286351691776",
+          "video_info": {
+            "aspect_ratio": [
+              "1",
+              "1"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GaRGhYHXAAATbkz.mp4"
+              }
+            ]
+          },
+          "id": "1847679286351691776",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GaRGhYHXAAATbkz.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/r5M95nK5re"
+        }
+      ]
+    }
+  }
+}

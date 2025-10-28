@@ -1,0 +1,160 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928687201711174025"
+        ],
+        "editableUntil": "2025-05-31T06:37:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "COL Anne McClain",
+          "screen_name": "AstroAnnimal",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1533844754",
+          "id": "1533844754"
+        },
+        {
+          "name": "大西卓哉 （JAXA宇宙飛行士）Takuya Onishi",
+          "screen_name": "Astro_Onishi",
+          "indices": [
+            "14",
+            "27"
+          ],
+          "id_str": "747397488567422980",
+          "id": "747397488567422980"
+        },
+        {
+          "name": "bolt.new",
+          "screen_name": "boltdotnew",
+          "indices": [
+            "175",
+            "186"
+          ],
+          "id_str": "2279695508",
+          "id": "2279695508"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W8YygS3mHZ",
+          "expanded_url": "https://shiny-sorbet-d8fd0b.netlify.app/",
+          "display_url": "shiny-sorbet-d8fd0b.netlify.app",
+          "indices": [
+            "279",
+            "302"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928687201711174025/photo/1",
+          "indices": [
+            "303",
+            "326"
+          ],
+          "url": "https://t.co/GCrm90WDPj",
+          "media_url": "http://pbs.twimg.com/media/GsQSsV4W8AApkW6.jpg",
+          "id_str": "1928687093418487808",
+          "id": "1928687093418487808",
+          "media_url_https": "https://pbs.twimg.com/media/GsQSsV4W8AApkW6.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1340",
+              "h": "754",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GCrm90WDPj"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "326"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1928488461679415642",
+    "id_str": "1928687201711174025",
+    "in_reply_to_user_id": "1533844754",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928687201711174025",
+    "in_reply_to_status_id": "1928488461679415642",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 31 05:37:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@AstroAnnimal @Astro_Onishi This is awesome! Thanks for sharing!\n\nJust fyi: if you ever wanted to create an interactive experience that people down here could participate in, @boltdotnew is having a pretty big hackathon and I was able to create this is 5 minutes from your post.\nhttps://t.co/W8YygS3mHZ https://t.co/GCrm90WDPj",
+    "lang": "en",
+    "in_reply_to_screen_name": "AstroAnnimal",
+    "in_reply_to_user_id_str": "1533844754",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928687201711174025/photo/1",
+          "indices": [
+            "303",
+            "326"
+          ],
+          "url": "https://t.co/GCrm90WDPj",
+          "media_url": "http://pbs.twimg.com/media/GsQSsV4W8AApkW6.jpg",
+          "id_str": "1928687093418487808",
+          "id": "1928687093418487808",
+          "media_url_https": "https://pbs.twimg.com/media/GsQSsV4W8AApkW6.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1340",
+              "h": "754",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GCrm90WDPj"
+        }
+      ]
+    }
+  }
+}

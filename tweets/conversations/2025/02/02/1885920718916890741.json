@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885920718916890741"
+        ],
+        "editableUntil": "2025-02-02T06:18:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Joshua 💫",
+          "screen_name": "workflowsauce",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1750574343615320065",
+          "id": "1750574343615320065"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fHLVPkDQGm",
+          "expanded_url": "https://x.com/leo_guinan/status/1885453468753641876",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "15",
+            "38"
+          ]
+        },
+        {
+          "url": "https://t.co/N6eHZ5Ycgz",
+          "expanded_url": "https://x.com/leo_guinan/status/1885453468753641876",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "39",
+            "62"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1885919154223698015",
+    "id_str": "1885920718916890741",
+    "in_reply_to_user_id": "1750574343615320065",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885920718916890741",
+    "in_reply_to_status_id": "1885919154223698015",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 02 05:18:32 +0000 2025",
+    "favorited": false,
+    "full_text": "@workflowsauce https://t.co/fHLVPkDQGm https://t.co/N6eHZ5Ycgz",
+    "lang": "qme",
+    "in_reply_to_screen_name": "workflowsauce",
+    "in_reply_to_user_id_str": "1750574343615320065"
+  }
+}

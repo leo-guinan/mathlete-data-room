@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425978705994829833"
+        ],
+        "editableUntil": "2021-08-13T01:33:11.569Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dani Donovan 👩🏻‍🎨 ADHD Comics",
+          "screen_name": "danidonovan",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "16269197",
+          "id": "16269197"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "0",
+    "id_str": "1425978705994829833",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425978705994829833",
+    "created_at": "Fri Aug 13 00:33:11 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @danidonovan: i don't procrastinate\n\ni simply prefer to work in a deadline-induced, adrenaline-filled state of absolute fucking panic",
+    "lang": "en"
+  }
+}

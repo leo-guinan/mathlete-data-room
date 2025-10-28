@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1910824825221792177"
+        ],
+        "editableUntil": "2025-04-11T23:38:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1910824825221792177/photo/1",
+          "indices": [
+            "82",
+            "105"
+          ],
+          "url": "https://t.co/50DHsx1Npc",
+          "media_url": "http://pbs.twimg.com/media/GoSc7khW4AA07SE.png",
+          "id_str": "1910824689141735424",
+          "id": "1910824689141735424",
+          "media_url_https": "https://pbs.twimg.com/media/GoSc7khW4AA07SE.png",
+          "sizes": {
+            "large": {
+              "w": "1490",
+              "h": "1852",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "965",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "547",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/50DHsx1Npc"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "0",
+    "id_str": "1910824825221792177",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1910824825221792177",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 11 22:38:34 +0000 2025",
+    "favorited": false,
+    "full_text": "From a whitepaper I'm working on about the importance of a personal GTM strategy: https://t.co/50DHsx1Npc",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1910824825221792177/photo/1",
+          "indices": [
+            "82",
+            "105"
+          ],
+          "url": "https://t.co/50DHsx1Npc",
+          "media_url": "http://pbs.twimg.com/media/GoSc7khW4AA07SE.png",
+          "id_str": "1910824689141735424",
+          "id": "1910824689141735424",
+          "media_url_https": "https://pbs.twimg.com/media/GoSc7khW4AA07SE.png",
+          "sizes": {
+            "large": {
+              "w": "1490",
+              "h": "1852",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "965",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "547",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/50DHsx1Npc"
+        }
+      ]
+    }
+  }
+}

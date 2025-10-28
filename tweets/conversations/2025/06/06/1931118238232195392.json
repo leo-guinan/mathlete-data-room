@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931118238232195392"
+        ],
+        "editableUntil": "2025-06-06T23:37:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "miss speech",
+          "screen_name": "miss_speech",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "145497573",
+          "id": "145497573"
+        },
+        {
+          "name": "Noah Smith 🐇",
+          "screen_name": "Noahpinion",
+          "indices": [
+            "29",
+            "40"
+          ],
+          "id_str": "281877818",
+          "id": "281877818"
+        },
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "41",
+            "50"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "228"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1931117260237660500",
+    "id_str": "1931118238232195392",
+    "in_reply_to_user_id": "145497573",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931118238232195392",
+    "in_reply_to_status_id": "1931117260237660500",
+    "created_at": "Fri Jun 06 22:37:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@miss_speech @crypto_foxtrot @Noahpinion @elonmusk Everything around them is going downhill. Infrastructure is crumbling under the weight of complexity inflation. \n\nShit is getting worse. \n\nThe economy doesn’t work. It’s broken.",
+    "lang": "en",
+    "in_reply_to_screen_name": "miss_speech",
+    "in_reply_to_user_id_str": "145497573"
+  }
+}

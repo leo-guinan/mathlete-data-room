@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1612130563258830849"
+        ],
+        "editableUntil": "2023-01-08T17:24:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1612130561291702273",
+    "id_str": "1612130563258830849",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1612130563258830849",
+    "in_reply_to_status_id": "1612130561291702273",
+    "created_at": "Sun Jan 08 16:54:12 +0000 2023",
+    "favorited": false,
+    "full_text": "The Created timestamp is important, because that's what the Airtable N8N node can use to determine new records since the last run. \n\nSo I used N8N to pass the twitter username to my backend process, that would then quickly analyze the twitter account, pick the best podcast, and",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

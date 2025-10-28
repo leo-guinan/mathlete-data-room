@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1445452939519090689"
+        ],
+        "editableUntil": "2021-10-05T19:16:50.655Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rosie Sherry",
+          "screen_name": "rosiesherry",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "2204961",
+          "id": "2204961"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "0",
+    "id_str": "1445452939519090689",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1445452939519090689",
+    "created_at": "Tue Oct 05 18:16:50 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @rosiesherry: Ideas can easily be copied.\n\nTrust and relationships can't.",
+    "lang": "en"
+  }
+}

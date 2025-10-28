@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346083060383703041"
+        ],
+        "editableUntil": "2021-01-04T14:16:25.266Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "René Brooks | Black Girl, Lost Keys",
+          "screen_name": "blkgirllostkeys",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "74353840",
+          "id": "74353840"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346083060383703041",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346083060383703041",
+    "created_at": "Mon Jan 04 13:16:25 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @blkgirllostkeys: I put together a list of groups, podcasts, books, and articles to guide you on your ADHD journey. Find yourself some n…",
+    "lang": "en"
+  }
+}

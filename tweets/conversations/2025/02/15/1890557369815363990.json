@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890557369815363990"
+        ],
+        "editableUntil": "2025-02-15T01:22:56.478Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Gordon",
+          "screen_name": "justingordon212",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "41011143",
+          "id": "41011143"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1890557369815363990",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890557369815363990",
+    "created_at": "Sat Feb 15 00:22:56 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @justingordon212: What are you building?\n\nI'll shoutout some of the most interesting companies/projects in a Just Go Grind newsletter ne…",
+    "lang": "en"
+  }
+}

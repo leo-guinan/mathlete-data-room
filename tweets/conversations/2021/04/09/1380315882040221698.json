@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1380315882040221698"
+        ],
+        "editableUntil": "2021-04-09T01:25:25.964Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tim Bezbatchenko",
+          "screen_name": "tbez10",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "69605816",
+          "id": "69605816"
+        },
+        {
+          "name": "Concacaf Champions Cup",
+          "screen_name": "TheChampions",
+          "indices": [
+            "114",
+            "127"
+          ],
+          "id_str": "33307787",
+          "id": "33307787"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1380315882040221698",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1380315882040221698",
+    "created_at": "Fri Apr 09 00:25:25 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @tbez10: We’re proud to take Columbus global through soccer.\nExcited for our club and city as we begin play in @TheChampions tonight.\n#C…",
+    "lang": "en"
+  }
+}

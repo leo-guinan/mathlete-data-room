@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1372196715902685186"
+        ],
+        "editableUntil": "2021-03-17T15:42:45.910Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Danny Thompson",
+          "screen_name": "DThompsonDev",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1085477171055996928",
+          "id": "1085477171055996928"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1372196027508396042",
+    "id_str": "1372196715902685186",
+    "in_reply_to_user_id": "1085477171055996928",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1372196715902685186",
+    "in_reply_to_status_id": "1372196027508396042",
+    "created_at": "Wed Mar 17 14:42:45 +0000 2021",
+    "favorited": false,
+    "full_text": "@DThompsonDev +1. My third job was close to double the salary of my first",
+    "lang": "en",
+    "in_reply_to_screen_name": "DThompsonDev",
+    "in_reply_to_user_id_str": "1085477171055996928"
+  }
+}

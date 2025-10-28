@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811092248450228699"
+        ],
+        "editableUntil": "2024-07-10T18:36:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Andrew Wilkinson",
+          "screen_name": "awilkinson",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "3302",
+          "id": "3302"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1811086607463968906",
+    "id_str": "1811092248450228699",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1811092248450228699",
+    "in_reply_to_status_id": "1811086607463968906",
+    "created_at": "Wed Jul 10 17:36:55 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd @awilkinson I bought it yesterday alongside Crypto Confidential, so I'll let you know! :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

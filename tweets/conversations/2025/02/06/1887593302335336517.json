@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887593302335336517"
+        ],
+        "editableUntil": "2025-02-06T21:04:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mike Maples, Jr",
+          "screen_name": "m2jr",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "6145622",
+          "id": "6145622"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "194"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1887384919535722516",
+    "id_str": "1887593302335336517",
+    "in_reply_to_user_id": "6145622",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887593302335336517",
+    "in_reply_to_status_id": "1887384919535722516",
+    "created_at": "Thu Feb 06 20:04:47 +0000 2025",
+    "favorited": false,
+    "full_text": "@m2jr Let's start with fixing our understanding of money.\n\nThen we can start talking budgets. Because the numbers are wrong.\n\nHuman Insurance is the balancing force that fixes the risk calculus.",
+    "lang": "en",
+    "in_reply_to_screen_name": "m2jr",
+    "in_reply_to_user_id_str": "6145622"
+  }
+}

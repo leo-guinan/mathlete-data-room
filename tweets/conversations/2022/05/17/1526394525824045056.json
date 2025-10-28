@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1526394525824045056"
+        ],
+        "editableUntil": "2022-05-17T03:19:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "219"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1526393257432948738",
+    "id_str": "1526394525824045056",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1526394525824045056",
+    "in_reply_to_status_id": "1526393257432948738",
+    "created_at": "Tue May 17 02:49:48 +0000 2022",
+    "favorited": false,
+    "full_text": "@markyerkes1734 Haha that definitely had some interesting moments, but overall a pretty good time. The wild bits were expected.\n\n Today started off nice and quiet and ended with me swapping out a prod database at 10pm 😆",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939"
+  }
+}

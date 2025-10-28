@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1620949408673333249"
+        ],
+        "editableUntil": "2023-02-02T01:27:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "SimonMcNally",
+          "screen_name": "SimonMcNally5",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1344662973281927171",
+          "id": "1344662973281927171"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1620841563869024256",
+    "id_str": "1620949408673333249",
+    "in_reply_to_user_id": "1344662973281927171",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1620949408673333249",
+    "in_reply_to_status_id": "1620841563869024256",
+    "created_at": "Thu Feb 02 00:57:09 +0000 2023",
+    "favorited": false,
+    "full_text": "@SimonMcNally5 It takes some time to really figure it out. Alternatively, you can use ChatGPT to generate the prompt to use with Midjourney, and go back and forth.\n\nI've also found it helps to play with it. Try goofy things to see what happens.",
+    "lang": "en",
+    "in_reply_to_screen_name": "SimonMcNally5",
+    "in_reply_to_user_id_str": "1344662973281927171"
+  }
+}

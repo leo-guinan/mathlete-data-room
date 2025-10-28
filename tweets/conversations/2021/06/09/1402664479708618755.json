@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1402664479708618755"
+        ],
+        "editableUntil": "2021-06-09T17:30:46.865Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Erik Torenberg",
+          "screen_name": "eriktorenberg",
+          "indices": [
+            "12",
+            "26"
+          ],
+          "id_str": "1475495658",
+          "id": "1475495658"
+        },
+        {
+          "name": "On Deck now ODF",
+          "screen_name": "beondeck",
+          "indices": [
+            "53",
+            "62"
+          ],
+          "id_str": "1825981215473623040",
+          "id": "1825981215473623040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "1",
+    "id_str": "1402664479708618755",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1402664479708618755",
+    "created_at": "Wed Jun 09 16:30:46 +0000 2021",
+    "favorited": false,
+    "full_text": "I love what @eriktorenberg is saying to kick off the @beondeck learning conference. Higher education is definitely facing a ton of issues. And his idea of P2P credentials is very interesting as well.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499464937365807108"
+        ],
+        "editableUntil": "2022-03-03T20:21:14.436Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Walid Ashik",
+          "screen_name": "walidashik",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1253325120",
+          "id": "1253325120"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1499454693961269249",
+    "id_str": "1499464937365807108",
+    "in_reply_to_user_id": "1253325120",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499464937365807108",
+    "in_reply_to_status_id": "1499454693961269249",
+    "created_at": "Thu Mar 03 19:21:14 +0000 2022",
+    "favorited": false,
+    "full_text": "@walidashik 🙏 Walid! I realized I spent a lot of time on the wrong things. Really hoping people to see the value in getting your attention focused on the right things. Social media can be really noisy and has social car crashes all over for us to look at.\n\nFocus is difficult, but valuable",
+    "lang": "en",
+    "in_reply_to_screen_name": "walidashik",
+    "in_reply_to_user_id_str": "1253325120"
+  }
+}

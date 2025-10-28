@@ -1,0 +1,163 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519998534988218369"
+        ],
+        "editableUntil": "2022-04-29T11:44:25.605Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Peter🍳",
+          "screen_name": "PeterW__",
+          "indices": [
+            "10",
+            "19"
+          ],
+          "id_str": "887765483075891201",
+          "id": "887765483075891201"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A840WqF4Bd",
+          "expanded_url": "https://x.com/noahweid/status/1519105734788665348?s=20&t=6y9SyFRC2q6-ftvmcWFrYg",
+          "display_url": "x.com/noahweid/statu…",
+          "indices": [
+            "251",
+            "274"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1519998534988218369/photo/1",
+          "indices": [
+            "275",
+            "298"
+          ],
+          "url": "https://t.co/rd73PAi9jz",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FRgem9zXEAAXEvc.jpg",
+          "id_str": "1519998529011388416",
+          "id": "1519998529011388416",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRgem9zXEAAXEvc.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rd73PAi9jz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1519947598844796928",
+    "id_str": "1519998534988218369",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1519998534988218369",
+    "in_reply_to_status_id": "1519947598844796928",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 29 11:14:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go @PeterW__ I think there's definitely a way to do that. I saw this the other day and love it. I think there's a lot of value in cross-pollinating our relationships in various groups.\n\nYou're a little bee, buzzing around from group to group \n\nhttps://t.co/A840WqF4Bd https://t.co/rd73PAi9jz",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1519998534988218369/photo/1",
+          "indices": [
+            "275",
+            "298"
+          ],
+          "url": "https://t.co/rd73PAi9jz",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FRgem9zXEAAXEvc.jpg",
+          "id_str": "1519998529011388416",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FRgem9zXEAAXEvc.mp4"
+              }
+            ]
+          },
+          "id": "1519998529011388416",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FRgem9zXEAAXEvc.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/rd73PAi9jz"
+        }
+      ]
+    }
+  }
+}

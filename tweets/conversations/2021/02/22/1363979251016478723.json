@@ -1,0 +1,49 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363979251016478723"
+        ],
+        "editableUntil": "2021-02-22T23:29:29.608Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adapt Ventures",
+          "screen_name": "AdaptVC",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1226201984119824385",
+          "id": "1226201984119824385"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "78"
+    ],
+    "favorite_count": "0",
+    "id_str": "1363979251016478723",
+    "in_reply_to_user_id": "1226201984119824385",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363979251016478723",
+    "created_at": "Mon Feb 22 22:29:29 +0000 2021",
+    "favorited": false,
+    "full_text": "@adaptvc your \"let's talk\" link on your website isn't working. Just an FYI. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "AdaptVC",
+    "in_reply_to_user_id_str": "1226201984119824385"
+  }
+}

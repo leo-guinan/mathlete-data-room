@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938819348610851233"
+        ],
+        "editableUntil": "2025-06-28T05:38:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Del Johnson",
+          "screen_name": "DelJohnsonVC",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "815847044",
+          "id": "815847044"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1938816725874536741",
+    "id_str": "1938819348610851233",
+    "in_reply_to_user_id": "815847044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938819348610851233",
+    "in_reply_to_status_id": "1938816725874536741",
+    "created_at": "Sat Jun 28 04:38:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@DelJohnsonVC Sorry, I didn't do a great job articulating what I'm trying to say.\n\nI don't need luck. Or help.\n\nI wanted to let you know to start watching for the downfall of the people who think they can't be touched, because I thought you'd enjoy it.\n\nThere's powerful info in the papers.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DelJohnsonVC",
+    "in_reply_to_user_id_str": "815847044"
+  }
+}

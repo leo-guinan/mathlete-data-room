@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1416784537347100677"
+        ],
+        "editableUntil": "2021-07-18T16:38:50.944Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vNxKy5LION",
+          "expanded_url": "https://x.com/leo_guinan/status/1416784020503941126",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "2",
+    "id_str": "1416784537347100677",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1416784537347100677",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 18 15:38:50 +0000 2021",
+    "favorited": false,
+    "full_text": "If anyone wants to check out my new landing page.\n\nNow I've gotta set up the welcome sequence. https://t.co/vNxKy5LION",
+    "lang": "en"
+  }
+}

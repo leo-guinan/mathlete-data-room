@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515673843892998147"
+        ],
+        "editableUntil": "2022-04-17T13:49:38.899Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jesse J. Anderson",
+          "screen_name": "jessejanderson",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1569906959150903303",
+          "id": "1569906959150903303"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/jessejanderson/status/1515525773444100099/photo/1",
+          "source_status_id": "1515525773444100099",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/VvBU6kohgk",
+          "media_url": "http://pbs.twimg.com/media/FQg6qHxVcAESC0h.jpg",
+          "id_str": "1515525769925062657",
+          "source_user_id": "6027322",
+          "id": "1515525769925062657",
+          "media_url_https": "https://pbs.twimg.com/media/FQg6qHxVcAESC0h.jpg",
+          "source_user_id_str": "6027322",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1515525773444100099",
+          "display_url": "pic.x.com/VvBU6kohgk"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "0",
+    "id_str": "1515673843892998147",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1515673843892998147",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 17 12:49:38 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @jessejanderson: ADHD Hyperfocus https://t.co/VvBU6kohgk",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/jessejanderson/status/1515525773444100099/photo/1",
+          "source_status_id": "1515525773444100099",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/VvBU6kohgk",
+          "media_url": "http://pbs.twimg.com/media/FQg6qHxVcAESC0h.jpg",
+          "id_str": "1515525769925062657",
+          "source_user_id": "6027322",
+          "id": "1515525769925062657",
+          "media_url_https": "https://pbs.twimg.com/media/FQg6qHxVcAESC0h.jpg",
+          "source_user_id_str": "6027322",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1515525773444100099",
+          "display_url": "pic.x.com/VvBU6kohgk"
+        }
+      ]
+    }
+  }
+}

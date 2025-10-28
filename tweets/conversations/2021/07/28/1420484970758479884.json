@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420484970758479884"
+        ],
+        "editableUntil": "2021-07-28T21:43:03.020Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Eatlikeagirl",
+          "screen_name": "eatlikeagirl",
+          "indices": [
+            "121",
+            "134"
+          ],
+          "id_str": "1687849162107187200",
+          "id": "1687849162107187200"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1420484970758479884",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420484970758479884",
+    "created_at": "Wed Jul 28 20:43:03 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: If you have ADHD or know someone w/it, check out this latest episode of “Lobow’s SPARK” w/Niamh Shields \n@eatlikeagirl.  Li…",
+    "lang": "en"
+  }
+}

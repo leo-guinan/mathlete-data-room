@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821015706751668259"
+        ],
+        "editableUntil": "2024-08-07T03:49:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sahil Lavingia",
+          "screen_name": "shl",
+          "indices": [
+            "172",
+            "176"
+          ],
+          "id_str": "16347964",
+          "id": "16347964"
+        },
+        {
+          "name": "Josh Pigford",
+          "screen_name": "Shpigford",
+          "indices": [
+            "179",
+            "189"
+          ],
+          "id_str": "626803",
+          "id": "626803"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1821014925805776958",
+    "id_str": "1821015706751668259",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821015706751668259",
+    "in_reply_to_status_id": "1821014925805776958",
+    "created_at": "Wed Aug 07 02:49:11 +0000 2024",
+    "favorited": false,
+    "full_text": "Also, started using Cursor again, and I'm now seeing the value. I tried it before gpt-4o and claude 3.5 and wasn't impressed.\n\nNow, though, it's pretty nice. \n\nAppreciated @shl + @Shpigford showing how they used it. That helped me see what was possible with it now.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

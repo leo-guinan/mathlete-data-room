@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1843417113148768605"
+        ],
+        "editableUntil": "2024-10-07T23:24:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "230"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1843389130258166224",
+    "id_str": "1843417113148768605",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1843417113148768605",
+    "in_reply_to_status_id": "1843389130258166224",
+    "created_at": "Mon Oct 07 22:24:23 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli Ideally, they'll love it, they'll pay me handsomely for the privilege of being a guinea pig, and they'll end up changing their lives to match their desired outcomes by the end.\n\nGranted, those bits remains to be seen...😂",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

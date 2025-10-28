@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423757614282940418"
+        ],
+        "editableUntil": "2021-08-06T22:27:22.039Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "225"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1423742169471496195",
+    "id_str": "1423757614282940418",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423757614282940418",
+    "in_reply_to_status_id": "1423742169471496195",
+    "created_at": "Fri Aug 06 21:27:22 +0000 2021",
+    "favorited": false,
+    "full_text": "Decided to move the code out of the queue and into the normal flow. It will take a bit to populate data when the user logs in with twitter for the first time, but that should be ok for now at least. Making sure that it works.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

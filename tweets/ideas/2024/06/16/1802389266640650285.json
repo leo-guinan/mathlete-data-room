@@ -1,0 +1,137 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1802389266640650285"
+        ],
+        "editableUntil": "2024-06-16T18:14:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MZDSJCDJqr",
+          "expanded_url": "https://x.com/uberstuber/status/1802388370573898127",
+          "display_url": "x.com/uberstuber/sta…",
+          "indices": [
+            "90",
+            "113"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1802389266640650285/photo/1",
+          "indices": [
+            "114",
+            "137"
+          ],
+          "url": "https://t.co/hCqySyUnlQ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQNferAXgAAzltp.jpg",
+          "id_str": "1802389256423309312",
+          "id": "1802389256423309312",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQNferAXgAAzltp.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hCqySyUnlQ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "137"
+    ],
+    "favorite_count": "1",
+    "id_str": "1802389266640650285",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1802389266640650285",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 16 17:14:22 +0000 2024",
+    "favorited": false,
+    "full_text": "how I feel when I say I stayed in Computer Science after everyone else seemed to drop out https://t.co/MZDSJCDJqr https://t.co/hCqySyUnlQ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1802389266640650285/photo/1",
+          "indices": [
+            "114",
+            "137"
+          ],
+          "url": "https://t.co/hCqySyUnlQ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQNferAXgAAzltp.jpg",
+          "id_str": "1802389256423309312",
+          "video_info": {
+            "aspect_ratio": [
+              "1",
+              "1"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GQNferAXgAAzltp.mp4"
+              }
+            ]
+          },
+          "id": "1802389256423309312",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQNferAXgAAzltp.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/hCqySyUnlQ"
+        }
+      ]
+    }
+  }
+}

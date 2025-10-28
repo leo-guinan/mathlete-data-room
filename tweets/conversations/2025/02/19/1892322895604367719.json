@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892322895604367719"
+        ],
+        "editableUntil": "2025-02-19T22:18:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "217",
+            "233"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1892322895604367719/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/P6DjQGnCdU",
+          "media_url": "http://pbs.twimg.com/media/GkLhQBsXEAAhQd7.jpg",
+          "id_str": "1892322458897682432",
+          "id": "1892322458897682432",
+          "media_url_https": "https://pbs.twimg.com/media/GkLhQBsXEAAhQd7.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "849",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "481",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1458",
+              "h": "1032",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/P6DjQGnCdU"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "4",
+    "id_str": "1892322895604367719",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892322895604367719",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 19 21:18:30 +0000 2025",
+    "favorited": false,
+    "full_text": "This graph reveals my biggest flaw and my greatest strength.\n\nIt's my tweets clustered based on my data in the community archive.\n\nThe answer is revealed by the tweets that are outside the main group.\n\nAny thoughts?\n\n@DefenderOfBasic - would love to hear your guess https://t.co/P6DjQGnCdU",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1892322895604367719/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/P6DjQGnCdU",
+          "media_url": "http://pbs.twimg.com/media/GkLhQBsXEAAhQd7.jpg",
+          "id_str": "1892322458897682432",
+          "id": "1892322458897682432",
+          "media_url_https": "https://pbs.twimg.com/media/GkLhQBsXEAAhQd7.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "849",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "481",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1458",
+              "h": "1032",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/P6DjQGnCdU"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359948454735327233"
+        ],
+        "editableUntil": "2021-02-11T20:32:32.886Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/55R1pDjVBs",
+          "expanded_url": "https://definet.dev/experiment-selling-tweets-to-pay-my-rent/",
+          "display_url": "definet.dev/experiment-sel…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "153"
+    ],
+    "favorite_count": "5",
+    "id_str": "1359948454735327233",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1359948454735327233",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 11 19:32:32 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, so with this post: https://t.co/55R1pDjVBs\n\nI wanted to write a quick thread about why I think this is an important experiment for @net_defi \n\n🧵 (1/)",
+    "lang": "en"
+  }
+}

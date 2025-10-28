@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929618684634714375"
+        ],
+        "editableUntil": "2025-06-02T20:18:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "71",
+            "81"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9siJJBraTL",
+          "expanded_url": "https://x.com/leo_guinan/status/1852375043034013946",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "244",
+            "267"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "267"
+    ],
+    "favorite_count": "1",
+    "id_str": "1929618684634714375",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929618684634714375",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 02 19:18:39 +0000 2025",
+    "favorited": false,
+    "full_text": "One of the first things I've got to do is write a temporal addendum to @p_millerd's The Pathless Path.\n \nThere's a bug in his book that I found by pathless path maxxing.  Yes, I did the least pathless path thing possible, but I did admit that.\nhttps://t.co/9siJJBraTL",
+    "lang": "en"
+  }
+}

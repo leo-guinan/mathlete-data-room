@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1546557458239324162"
+        ],
+        "editableUntil": "2022-07-11T18:40:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Melchor",
+          "screen_name": "Melchor_Eric",
+          "indices": [
+            "62",
+            "75"
+          ],
+          "id_str": "186882088",
+          "id": "186882088"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "82",
+            "93"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lZIZPiDBh8",
+          "expanded_url": "https://www.twitch.tv/podcastpeers",
+          "display_url": "twitch.tv/podcastpeers",
+          "indices": [
+            "112",
+            "135"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "2",
+    "id_str": "1546557458239324162",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1546557458239324162",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 11 18:10:06 +0000 2022",
+    "favorited": false,
+    "full_text": "Come join us, chatting about podcasting!\n\nW/@NoDegreeDotCom , @Melchor_Eric , and @LobowSpark !\n\nPodcast Peers! https://t.co/lZIZPiDBh8",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1526560105365393410"
+        ],
+        "editableUntil": "2022-05-17T14:17:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mPWE7x51wb",
+          "expanded_url": "https://x.com/ardalis/status/1526536991353057280",
+          "display_url": "x.com/ardalis/status…",
+          "indices": [
+            "264",
+            "287"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "6",
+    "id_str": "1526560105365393410",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1526560105365393410",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 17 13:47:45 +0000 2022",
+    "favorited": false,
+    "full_text": "This explains some of my issues with the way university teaches us how to code.\n\nIt's way more focused on individual instead of collaboration. So collaboration is a hard adjustment to make. \n\nThat means what you learn about collaboration is left mostly to chance. https://t.co/mPWE7x51wb",
+    "lang": "en"
+  }
+}

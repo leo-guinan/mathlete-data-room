@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1945491631873917077"
+        ],
+        "editableUntil": "2025-07-16T15:32:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1945355166753886559",
+    "id_str": "1945491631873917077",
+    "in_reply_to_user_id": "1400492097082327040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1945491631873917077",
+    "in_reply_to_status_id": "1945355166753886559",
+    "created_at": "Wed Jul 16 14:32:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@jessyka_boat ChatGPT, but better. Plus a direct line to me. \n\nI’m implementing a new form of memory that adapts to you so it remembers everything the way you would expect it to, not the way systems currently do.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jessyka_boat",
+    "in_reply_to_user_id_str": "1400492097082327040"
+  }
+}

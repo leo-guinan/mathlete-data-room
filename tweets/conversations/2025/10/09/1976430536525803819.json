@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1976430536525803819"
+        ],
+        "editableUntil": "2025-10-10T00:32:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jack Altman",
+          "screen_name": "jaltma",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "423094645",
+          "id": "423094645"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/c4xmsE8LxJ",
+          "expanded_url": "https://x.com/leo_guinan/status/1976397454666014956",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "69",
+            "92"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "92"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1976429945636425901",
+    "id_str": "1976430536525803819",
+    "in_reply_to_user_id": "423094645",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1976430536525803819",
+    "in_reply_to_status_id": "1976429945636425901",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 09 23:32:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@jaltma Status games are hard to break through. Until they aren’t. \n\nhttps://t.co/c4xmsE8LxJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "jaltma",
+    "in_reply_to_user_id_str": "423094645"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1731770363153956989"
+        ],
+        "editableUntil": "2023-12-04T21:20:03.970Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pHNf75KuhY",
+          "expanded_url": "https://youtu.be/ioX0kHkFoT8?si=LeMmDVoeWO3Jum9q",
+          "display_url": "youtu.be/ioX0kHkFoT8?si…",
+          "indices": [
+            "104",
+            "127"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "0",
+    "id_str": "1731770363153956989",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1731770363153956989",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 04 20:20:03 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: New episode premiering now! Hope you enjoy and thank you all so much for your support!! https://t.co/pHNf75KuhY",
+    "lang": "en"
+  }
+}

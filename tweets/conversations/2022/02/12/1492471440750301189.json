@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492471440750301189"
+        ],
+        "editableUntil": "2022-02-12T13:11:34.910Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Victor 🧢",
+          "screen_name": "victor_bigfield",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1353447414624116736",
+          "id": "1353447414624116736"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/victor_bigfield/status/1492470354358513668/photo/1",
+          "source_status_id": "1492470354358513668",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/OAaqwnHtn3",
+          "media_url": "http://pbs.twimg.com/media/FLZR3oxWYAMnuku.jpg",
+          "id_str": "1492470342798958595",
+          "source_user_id": "1353447414624116736",
+          "id": "1492470342798958595",
+          "media_url_https": "https://pbs.twimg.com/media/FLZR3oxWYAMnuku.jpg",
+          "source_user_id_str": "1353447414624116736",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1199",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2047",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1492470354358513668",
+          "display_url": "pic.x.com/OAaqwnHtn3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "0",
+    "id_str": "1492471440750301189",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492471440750301189",
+    "possibly_sensitive": false,
+    "created_at": "Sat Feb 12 12:11:34 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @victor_bigfield: 🔒 Don't build in secret https://t.co/OAaqwnHtn3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/victor_bigfield/status/1492470354358513668/photo/1",
+          "source_status_id": "1492470354358513668",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/OAaqwnHtn3",
+          "media_url": "http://pbs.twimg.com/media/FLZR3oxWYAMnuku.jpg",
+          "id_str": "1492470342798958595",
+          "source_user_id": "1353447414624116736",
+          "id": "1492470342798958595",
+          "media_url_https": "https://pbs.twimg.com/media/FLZR3oxWYAMnuku.jpg",
+          "source_user_id_str": "1353447414624116736",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1199",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2047",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1492470354358513668",
+          "display_url": "pic.x.com/OAaqwnHtn3"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339307080474357761"
+        ],
+        "editableUntil": "2020-12-16T21:31:05.764Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Brittlestar",
+          "screen_name": "brittlestar",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "19002345",
+          "id": "19002345"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/brittlestar/status/1338980195328520194/video/1",
+          "source_status_id": "1338980195328520194",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/2U3hfuFf1i",
+          "media_url": "http://pbs.twimg.com/media/EpUDPILWMAQQ1Mx.jpg",
+          "id_str": "1338979250171473922",
+          "source_user_id": "19002345",
+          "id": "1338979250171473922",
+          "media_url_https": "https://pbs.twimg.com/media/EpUDPILWMAQQ1Mx.jpg",
+          "source_user_id_str": "19002345",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1338980195328520194",
+          "display_url": "pic.x.com/2U3hfuFf1i"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "0",
+    "id_str": "1339307080474357761",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339307080474357761",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 16 20:31:05 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @brittlestar: WE'RE IN THE HOME STRETCH https://t.co/2U3hfuFf1i",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/brittlestar/status/1338980195328520194/video/1",
+          "source_status_id": "1338980195328520194",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/2U3hfuFf1i",
+          "media_url": "http://pbs.twimg.com/media/EpUDPILWMAQQ1Mx.jpg",
+          "id_str": "1338979250171473922",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "87254",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1338979250171473922/vid/1280x720/sMZEy4MymvT9sKaW.mp4?tag=13"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1338979250171473922/vid/640x360/bneYTEdb3S6GEwci.mp4?tag=13"
+              },
+              {
+                "bitrate": "288000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1338979250171473922/vid/480x270/1EGkNYCcnzgu_nG8.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1338979250171473922/pl/MsUSgtJMkzTf7nJ7.m3u8?tag=13"
+              }
+            ]
+          },
+          "source_user_id": "19002345",
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": true
+          },
+          "id": "1338979250171473922",
+          "media_url_https": "https://pbs.twimg.com/media/EpUDPILWMAQQ1Mx.jpg",
+          "source_user_id_str": "19002345",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1338980195328520194",
+          "display_url": "pic.x.com/2U3hfuFf1i"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1678892645643370496"
+        ],
+        "editableUntil": "2023-07-11T23:22:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "192"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1678881715962478595",
+    "id_str": "1678892645643370496",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1678892645643370496",
+    "in_reply_to_status_id": "1678881715962478595",
+    "created_at": "Tue Jul 11 22:22:53 +0000 2023",
+    "favorited": false,
+    "full_text": "@arvidkahl I can only assume scientists have now gotten teleportation working, and used it to remove 3 of the burgers.\n\nThere is no way that sweet girl was involved in any sort of malfeasance.",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536513119966609408"
+        ],
+        "editableUntil": "2022-06-14T01:27:29.490Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jaana Dogan ヤナ ドガン",
+          "screen_name": "rakyll",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "10809412",
+          "id": "10809412"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "0",
+    "id_str": "1536513119966609408",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536513119966609408",
+    "created_at": "Tue Jun 14 00:57:29 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @rakyll: News: Lambda is sentient.\n\nMe: What IAM role does that require now?",
+    "lang": "en"
+  }
+}

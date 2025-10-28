@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1372882450544742406"
+        ],
+        "editableUntil": "2021-03-19T13:07:37.789Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Maria Leonardi",
+          "screen_name": "MariaFLeonardi",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "52272921",
+          "id": "52272921"
+        },
+        {
+          "name": "Teachable",
+          "screen_name": "teachable",
+          "indices": [
+            "61",
+            "71"
+          ],
+          "id_str": "2190972494",
+          "id": "2190972494"
+        },
+        {
+          "name": "On Deck now ODF",
+          "screen_name": "beondeck",
+          "indices": [
+            "97",
+            "106"
+          ],
+          "id_str": "1825981215473623040",
+          "id": "1825981215473623040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "235"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1372833057464406016",
+    "id_str": "1372882450544742406",
+    "in_reply_to_user_id": "52272921",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1372882450544742406",
+    "in_reply_to_status_id": "1372833057464406016",
+    "created_at": "Fri Mar 19 12:07:37 +0000 2021",
+    "favorited": false,
+    "full_text": "@MariaFLeonardi That's a great question. I am leaning toward @teachable. But I did apply for the @beondeck course creator fellowship, so I may see what they recommend (assuming I get in). I haven't dug into all of my options fully yet.",
+    "lang": "en",
+    "in_reply_to_screen_name": "MariaFLeonardi",
+    "in_reply_to_user_id_str": "52272921"
+  }
+}

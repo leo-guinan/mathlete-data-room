@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1477704668117667841"
+        ],
+        "editableUntil": "2022-01-02T19:13:41.961Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Y7Xl63p1SC",
+          "expanded_url": "https://x.com/Dictionarycom/status/1477369055690600455",
+          "display_url": "x.com/Dictionarycom/…",
+          "indices": [
+            "19",
+            "42"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1477704668117667841/photo/1",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/YWSL9L1RXX",
+          "media_url": "http://pbs.twimg.com/media/FIHckJ_WUAE4KaR.jpg",
+          "id_str": "1477704666469257217",
+          "id": "1477704666469257217",
+          "media_url_https": "https://pbs.twimg.com/media/FIHckJ_WUAE4KaR.jpg",
+          "sizes": {
+            "large": {
+              "w": "955",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "317",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "560",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YWSL9L1RXX"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "0",
+    "id_str": "1477704668117667841",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1477704668117667841",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jan 02 18:13:41 +0000 2022",
+    "favorited": false,
+    "full_text": "This bodes well... https://t.co/Y7Xl63p1SC https://t.co/YWSL9L1RXX",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1477704668117667841/photo/1",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/YWSL9L1RXX",
+          "media_url": "http://pbs.twimg.com/media/FIHckJ_WUAE4KaR.jpg",
+          "id_str": "1477704666469257217",
+          "id": "1477704666469257217",
+          "media_url_https": "https://pbs.twimg.com/media/FIHckJ_WUAE4KaR.jpg",
+          "sizes": {
+            "large": {
+              "w": "955",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "317",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "560",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YWSL9L1RXX"
+        }
+      ]
+    }
+  }
+}

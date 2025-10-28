@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379424928353693698"
+        ],
+        "editableUntil": "2021-04-06T14:25:06.052Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "ADHD Designer 🟣👩🏻‍💻",
+          "screen_name": "ADHDdesigner",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1270519607846109184",
+          "id": "1270519607846109184"
+        },
+        {
+          "name": "🦾✝️🤳 Jesus needs a minute",
+          "screen_name": "evan_just_evan",
+          "indices": [
+            "14",
+            "29"
+          ],
+          "id_str": "1282006421551415298",
+          "id": "1282006421551415298"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "306"
+    ],
+    "favorite_count": "5",
+    "in_reply_to_status_id_str": "1379423122319929345",
+    "id_str": "1379424928353693698",
+    "in_reply_to_user_id": "1270519607846109184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379424928353693698",
+    "in_reply_to_status_id": "1379423122319929345",
+    "created_at": "Tue Apr 06 13:25:06 +0000 2021",
+    "favorited": false,
+    "full_text": "@ADHDdesigner @evan_just_evan My consistency is that I show up and put in the effort every day. That effort may not always be focused. But eventually, I finish. Some days are pretty much worthless productivity-wise. And some are golden. The longer I stick with something, the more focused it gets over time",
+    "lang": "en",
+    "in_reply_to_screen_name": "ADHDdesigner",
+    "in_reply_to_user_id_str": "1270519607846109184"
+  }
+}

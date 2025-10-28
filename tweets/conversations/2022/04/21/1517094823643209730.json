@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517094823643209730"
+        ],
+        "editableUntil": "2022-04-21T11:56:06.872Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1516823071591739396/photo/1",
+          "source_status_id": "1516823071591739396",
+          "indices": [
+            "60",
+            "83"
+          ],
+          "url": "https://t.co/hv2RHSqnP4",
+          "media_url": "http://pbs.twimg.com/media/FQzWgeQX0AAxVYP.jpg",
+          "id_str": "1516823027882905600",
+          "source_user_id": "1325102346792218629",
+          "id": "1516823027882905600",
+          "media_url_https": "https://pbs.twimg.com/media/FQzWgeQX0AAxVYP.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "197",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1040",
+              "h": "302",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1040",
+              "h": "302",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1516823071591739396",
+          "display_url": "pic.x.com/hv2RHSqnP4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "0",
+    "id_str": "1517094823643209730",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517094823643209730",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 21 10:56:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Can I borrow someone's time machine please? https://t.co/hv2RHSqnP4",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1516823071591739396/photo/1",
+          "source_status_id": "1516823071591739396",
+          "indices": [
+            "60",
+            "83"
+          ],
+          "url": "https://t.co/hv2RHSqnP4",
+          "media_url": "http://pbs.twimg.com/media/FQzWgeQX0AAxVYP.jpg",
+          "id_str": "1516823027882905600",
+          "source_user_id": "1325102346792218629",
+          "id": "1516823027882905600",
+          "media_url_https": "https://pbs.twimg.com/media/FQzWgeQX0AAxVYP.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "197",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1040",
+              "h": "302",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1040",
+              "h": "302",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1516823071591739396",
+          "display_url": "pic.x.com/hv2RHSqnP4"
+        }
+      ]
+    }
+  }
+}

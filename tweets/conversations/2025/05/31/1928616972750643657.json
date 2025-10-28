@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928616972750643657"
+        ],
+        "editableUntil": "2025-05-31T01:58:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "203",
+            "219"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "248",
+            "261"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WtxFAakl5c",
+          "expanded_url": "https://x.com/JustinAllingham/status/1928616200004628514",
+          "display_url": "x.com/JustinAllingha…",
+          "indices": [
+            "262",
+            "285"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "0",
+    "id_str": "1928616972750643657",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928616972750643657",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 31 00:58:12 +0000 2025",
+    "favorited": false,
+    "full_text": "This is how building in public works. It's messy, but it always gets better. Let's get a meme template trending for everyone who wants to document what they are building for this hackathon!\n\nI love that @JustinAllingham created this template!\n\nCC: @gregisenberg https://t.co/WtxFAakl5c",
+    "lang": "en"
+  }
+}

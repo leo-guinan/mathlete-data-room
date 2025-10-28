@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1421613316384993281"
+        ],
+        "editableUntil": "2021-08-01T00:26:41.581Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "231"
+    ],
+    "favorite_count": "5",
+    "in_reply_to_status_id_str": "1421613315202105344",
+    "id_str": "1421613316384993281",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1421613316384993281",
+    "in_reply_to_status_id": "1421613315202105344",
+    "created_at": "Sat Jul 31 23:26:41 +0000 2021",
+    "favorited": false,
+    "full_text": "I'm able to successfully authenticate, but then when I try to grab follower/DM data, I get a message that it's unable to authenticate properly, so I'm probably doing something wrong. I just don't know the libraries well enough yet.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

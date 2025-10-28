@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553552754387439616"
+        ],
+        "editableUntil": "2022-07-31T01:56:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1553552754387439616/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/49I8sRQlF5",
+          "media_url": "http://pbs.twimg.com/media/FY9T_0tXwAAEXmu.jpg",
+          "id_str": "1553552752411918336",
+          "id": "1553552752411918336",
+          "media_url_https": "https://pbs.twimg.com/media/FY9T_0tXwAAEXmu.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/49I8sRQlF5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "5",
+    "id_str": "1553552754387439616",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553552754387439616",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 31 01:26:54 +0000 2022",
+    "favorited": false,
+    "full_text": "Someone found a comfy spot. https://t.co/49I8sRQlF5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1553552754387439616/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/49I8sRQlF5",
+          "media_url": "http://pbs.twimg.com/media/FY9T_0tXwAAEXmu.jpg",
+          "id_str": "1553552752411918336",
+          "id": "1553552752411918336",
+          "media_url_https": "https://pbs.twimg.com/media/FY9T_0tXwAAEXmu.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/49I8sRQlF5"
+        }
+      ]
+    }
+  }
+}

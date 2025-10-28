@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1706099788507152600"
+        ],
+        "editableUntil": "2023-09-25T01:14:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/T2tnpt7Hvf",
+          "expanded_url": "https://app.myaicofounder.com/signup",
+          "display_url": "app.myaicofounder.com/signup",
+          "indices": [
+            "19",
+            "42"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1706099786787557652",
+    "id_str": "1706099788507152600",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1706099788507152600",
+    "in_reply_to_status_id": "1706099786787557652",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 25 00:14:22 +0000 2023",
+    "favorited": false,
+    "full_text": "You can sign up at https://t.co/T2tnpt7Hvf if you want to give it a shot.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

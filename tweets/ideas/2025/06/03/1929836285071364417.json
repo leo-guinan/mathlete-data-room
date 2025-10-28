@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929836285071364417"
+        ],
+        "editableUntil": "2025-06-03T10:43:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1929836285071364417/photo/1",
+          "indices": [
+            "67",
+            "90"
+          ],
+          "url": "https://t.co/tV9Y9nI5ao",
+          "media_url": "http://pbs.twimg.com/media/GsgnxNuXgAADkUV.jpg",
+          "id_str": "1929836166779469824",
+          "id": "1929836166779469824",
+          "media_url_https": "https://pbs.twimg.com/media/GsgnxNuXgAADkUV.jpg",
+          "sizes": {
+            "large": {
+              "w": "1208",
+              "h": "1148",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "646",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1140",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/tV9Y9nI5ao"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "90"
+    ],
+    "favorite_count": "3",
+    "id_str": "1929836285071364417",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929836285071364417",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 03 09:43:19 +0000 2025",
+    "favorited": false,
+    "full_text": "Me, deciding my future when I had my flash of insight 5 years ago. https://t.co/tV9Y9nI5ao",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1929836285071364417/photo/1",
+          "indices": [
+            "67",
+            "90"
+          ],
+          "url": "https://t.co/tV9Y9nI5ao",
+          "media_url": "http://pbs.twimg.com/media/GsgnxNuXgAADkUV.jpg",
+          "id_str": "1929836166779469824",
+          "id": "1929836166779469824",
+          "media_url_https": "https://pbs.twimg.com/media/GsgnxNuXgAADkUV.jpg",
+          "sizes": {
+            "large": {
+              "w": "1208",
+              "h": "1148",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "646",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1140",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/tV9Y9nI5ao"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420124052526665728"
+        ],
+        "editableUntil": "2021-07-27T21:48:53.408Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Cody Wittick",
+          "screen_name": "Cody_Wittick",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1319591881",
+          "id": "1319591881"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "220"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1420046506841710594",
+    "id_str": "1420124052526665728",
+    "in_reply_to_user_id": "1319591881",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420124052526665728",
+    "in_reply_to_status_id": "1420046506841710594",
+    "created_at": "Tue Jul 27 20:48:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@Cody_Wittick I'm curious to see if brands adapt. I have a feeling quite a few will be left behind as things shift and they don't change how they do things.\n\nThanks for the insight. Gives me some ideas for down the road.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Cody_Wittick",
+    "in_reply_to_user_id_str": "1319591881"
+  }
+}

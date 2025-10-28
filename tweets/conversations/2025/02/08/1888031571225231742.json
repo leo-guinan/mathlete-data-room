@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1888031571225231742"
+        ],
+        "editableUntil": "2025-02-08T02:06:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Crémieux",
+          "screen_name": "cremieuxrecueil",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1637507099558027267",
+          "id": "1637507099558027267"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "149"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1888025683156185536",
+    "id_str": "1888031571225231742",
+    "in_reply_to_user_id": "1637507099558027267",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1888031571225231742",
+    "in_reply_to_status_id": "1888025683156185536",
+    "created_at": "Sat Feb 08 01:06:19 +0000 2025",
+    "favorited": false,
+    "full_text": "@cremieuxrecueil Personal debt is a waste of resources on the economy the way it is structured. \n\nGoing to optimize it away because it adds no value.",
+    "lang": "en",
+    "in_reply_to_screen_name": "cremieuxrecueil",
+    "in_reply_to_user_id_str": "1637507099558027267"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527740953301241868"
+        ],
+        "editableUntil": "2022-05-20T20:30:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hmmDI8dMyB",
+          "expanded_url": "https://x.com/MindsetByDave/status/1527739871229526016",
+          "display_url": "x.com/MindsetByDave/…",
+          "indices": [
+            "81",
+            "104"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "3",
+    "id_str": "1527740953301241868",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1527740953301241868",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 20 20:00:01 +0000 2022",
+    "favorited": false,
+    "full_text": "Can anybody help Dave fill this slot? Please tag anyone who might know somebody! https://t.co/hmmDI8dMyB",
+    "lang": "en"
+  }
+}

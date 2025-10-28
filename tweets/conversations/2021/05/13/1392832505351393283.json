@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1392832505351393283"
+        ],
+        "editableUntil": "2021-05-13T14:22:01.509Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "39",
+            "49"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        },
+        {
+          "name": "Will Steiner",
+          "screen_name": "BigWillieStein",
+          "indices": [
+            "54",
+            "69"
+          ],
+          "id_str": "2377679706",
+          "id": "2377679706"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ds6yRcvRyW",
+          "expanded_url": "https://x.com/Bazzaruto/status/1392568681780101130",
+          "display_url": "x.com/Bazzaruto/stat…",
+          "indices": [
+            "71",
+            "94"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "2",
+    "id_str": "1392832505351393283",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1392832505351393283",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 13 13:22:01 +0000 2021",
+    "favorited": false,
+    "full_text": "Love seeing this collaboration between @Bazzaruto and @BigWillieStein! https://t.co/ds6yRcvRyW",
+    "lang": "en"
+  }
+}

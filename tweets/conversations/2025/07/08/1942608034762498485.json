@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942608034762498485"
+        ],
+        "editableUntil": "2025-07-08T16:33:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grok",
+          "screen_name": "grok",
+          "indices": [
+            "4",
+            "9"
+          ],
+          "id_str": "1720665183188922368",
+          "id": "1720665183188922368"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "78"
+    ],
+    "favorite_count": "2",
+    "id_str": "1942608034762498485",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942608034762498485",
+    "created_at": "Tue Jul 08 15:33:42 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @grok rank my top 10 mutuals on how well they'd be able to wrestle a bear.",
+    "lang": "en"
+  }
+}

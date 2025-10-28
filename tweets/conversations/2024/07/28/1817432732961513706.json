@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1817432732961513706"
+        ],
+        "editableUntil": "2024-07-28T06:31:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Nick Gray / How to Make Friends",
+          "screen_name": "nickgraynews",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "50279361",
+          "id": "50279361"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1817432732961513706/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/VU6YgFU7cq",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GTjRb07WcAA3Hov.jpg",
+          "id_str": "1817432725638246400",
+          "id": "1817432725638246400",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GTjRb07WcAA3Hov.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VU6YgFU7cq"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1817348928821743897",
+    "id_str": "1817432732961513706",
+    "in_reply_to_user_id": "50279361",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1817432732961513706",
+    "in_reply_to_status_id": "1817348928821743897",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 28 05:31:44 +0000 2024",
+    "favorited": false,
+    "full_text": "@nickgraynews I've had worse ideas for sure. https://t.co/VU6YgFU7cq",
+    "lang": "en",
+    "in_reply_to_screen_name": "nickgraynews",
+    "in_reply_to_user_id_str": "50279361",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1817432732961513706/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/VU6YgFU7cq",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GTjRb07WcAA3Hov.jpg",
+          "id_str": "1817432725638246400",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GTjRb07WcAA3Hov.mp4"
+              }
+            ]
+          },
+          "id": "1817432725638246400",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GTjRb07WcAA3Hov.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/VU6YgFU7cq"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520474062920859649"
+        ],
+        "editableUntil": "2022-04-30T19:44:00.299Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "ungatedcreative",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "21",
+            "32"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ungatedcreative/status/1520457724571488257/photo/1",
+          "source_status_id": "1520457724571488257",
+          "indices": [
+            "111",
+            "134"
+          ],
+          "url": "https://t.co/9IQ3QOKcss",
+          "media_url": "http://pbs.twimg.com/media/FRnAA4mUcAAWLoV.jpg",
+          "id_str": "1520457470639894528",
+          "source_user_id": "532970397",
+          "id": "1520457470639894528",
+          "media_url_https": "https://pbs.twimg.com/media/FRnAA4mUcAAWLoV.jpg",
+          "source_user_id_str": "532970397",
+          "sizes": {
+            "medium": {
+              "w": "554",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "314",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "828",
+              "h": "1792",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1520457724571488257",
+          "display_url": "pic.x.com/9IQ3QOKcss"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "id_str": "1520474062920859649",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520474062920859649",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 30 18:44:00 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @ungatedcreative: @leo_guinan stumbled across this lil quote this morning. felt appropriate to drop it here https://t.co/9IQ3QOKcss",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ungatedcreative/status/1520457724571488257/photo/1",
+          "source_status_id": "1520457724571488257",
+          "indices": [
+            "111",
+            "134"
+          ],
+          "url": "https://t.co/9IQ3QOKcss",
+          "media_url": "http://pbs.twimg.com/media/FRnAA4mUcAAWLoV.jpg",
+          "id_str": "1520457470639894528",
+          "source_user_id": "532970397",
+          "id": "1520457470639894528",
+          "media_url_https": "https://pbs.twimg.com/media/FRnAA4mUcAAWLoV.jpg",
+          "source_user_id_str": "532970397",
+          "sizes": {
+            "medium": {
+              "w": "554",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "314",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "828",
+              "h": "1792",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1520457724571488257",
+          "display_url": "pic.x.com/9IQ3QOKcss"
+        }
+      ]
+    }
+  }
+}

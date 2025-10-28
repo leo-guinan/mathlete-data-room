@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929801589897756966"
+        ],
+        "editableUntil": "2025-06-03T08:25:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kevin Kwok",
+          "screen_name": "kevinakwok",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "169791252",
+          "id": "169791252"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929602461742125369",
+    "id_str": "1929801589897756966",
+    "in_reply_to_user_id": "169791252",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929801589897756966",
+    "in_reply_to_status_id": "1929602461742125369",
+    "created_at": "Tue Jun 03 07:25:27 +0000 2025",
+    "favorited": false,
+    "full_text": "@kevinakwok Oh, was that what we were supposed to do?\n\nDamn it. I never know the rules. \n\nDo you know who I’m supposed to give alignment to?",
+    "lang": "en",
+    "in_reply_to_screen_name": "kevinakwok",
+    "in_reply_to_user_id_str": "169791252"
+  }
+}

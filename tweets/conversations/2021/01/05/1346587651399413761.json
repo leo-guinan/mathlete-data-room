@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346587651399413761"
+        ],
+        "editableUntil": "2021-01-05T23:41:29.139Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jai Malik",
+          "screen_name": "Jai__Malik",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1114692608742309888",
+          "id": "1114692608742309888"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1346587267935121411",
+    "id_str": "1346587651399413761",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346587651399413761",
+    "in_reply_to_status_id": "1346587267935121411",
+    "created_at": "Tue Jan 05 22:41:29 +0000 2021",
+    "favorited": false,
+    "full_text": "@Jai__Malik behind the basic premise I wanted to implement. I got some support from several teams but when I got to the higher levels they weren't going to fund my initiative and they threatened to take my ip if I built in my off hours. I tried that route. Could I have done it better? Sure.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

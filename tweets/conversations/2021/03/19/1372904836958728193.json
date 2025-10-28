@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1372904836958728193"
+        ],
+        "editableUntil": "2021-03-19T14:36:35.126Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dr Mehmet Yildiz",
+          "screen_name": "DigitalMehmet",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1229633724272132096",
+          "id": "1229633724272132096"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tOleOrBBHd",
+          "expanded_url": "https://link.medium.com/vw8WsijOKeb",
+          "display_url": "link.medium.com/vw8WsijOKeb",
+          "indices": [
+            "46",
+            "69"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1372904836958728193",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1372904836958728193",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 19 13:36:35 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @DigitalMehmet: ILLUMINATION Book Chapters https://t.co/tOleOrBBHd ILLUMINATION is now 12 months old, established on 19 March 2020, and…",
+    "lang": "en"
+  }
+}

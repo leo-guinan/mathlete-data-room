@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1646593523783802883"
+        ],
+        "editableUntil": "2023-04-13T19:47:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "6",
+            "14"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        },
+        {
+          "name": "Shaan Puri",
+          "screen_name": "ShaanVP",
+          "indices": [
+            "18",
+            "26"
+          ],
+          "id_str": "101354595",
+          "id": "101354595"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "96",
+            "108"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qWTktXmuVA",
+          "expanded_url": "http://chat.new/%5BBusiness%20idea%5D%20-%20transform%20it%20into%20the%20following%20format%3A%20We%20help%20X%20do%20Y",
+          "display_url": "chat.new/%5BBusiness%20…",
+          "indices": [
+            "50",
+            "73"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "0",
+    "id_str": "1646593523783802883",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1646593523783802883",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 13 19:17:42 +0000 2023",
+    "favorited": false,
+    "full_text": "Using @copy_ai as @ShaanVP-GPT.\n\nTry it out here: https://t.co/qWTktXmuVA\n\nAwesome session from @_buildspace today!",
+    "lang": "en"
+  }
+}

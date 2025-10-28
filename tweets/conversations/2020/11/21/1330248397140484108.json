@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330248397140484108"
+        ],
+        "editableUntil": "2020-11-21T21:35:07.355Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Vangeli Gelekas",
+          "screen_name": "netgenius",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "301707302",
+          "id": "301707302"
+        },
+        {
+          "name": "Geoff Lewis",
+          "screen_name": "GeoffLewisOrg",
+          "indices": [
+            "11",
+            "25"
+          ],
+          "id_str": "86736696",
+          "id": "86736696"
+        },
+        {
+          "name": "Trezor",
+          "screen_name": "Trezor",
+          "indices": [
+            "26",
+            "33"
+          ],
+          "id_str": "1431204614",
+          "id": "1431204614"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1330244515173687299",
+    "id_str": "1330248397140484108",
+    "in_reply_to_user_id": "301707302",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330248397140484108",
+    "in_reply_to_status_id": "1330244515173687299",
+    "created_at": "Sat Nov 21 20:35:07 +0000 2020",
+    "favorited": false,
+    "full_text": "@netgenius @GeoffLewisOrg @Trezor Ouch...",
+    "lang": "en",
+    "in_reply_to_screen_name": "netgenius",
+    "in_reply_to_user_id_str": "301707302"
+  }
+}

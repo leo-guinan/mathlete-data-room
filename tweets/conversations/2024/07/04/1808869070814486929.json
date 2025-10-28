@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808869070814486929"
+        ],
+        "editableUntil": "2024-07-04T15:22:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808869070814486929/photo/1",
+          "indices": [
+            "166",
+            "189"
+          ],
+          "url": "https://t.co/1oeQpuouNH",
+          "media_url": "http://pbs.twimg.com/media/GRpj91ZbMAQ-UrI.png",
+          "id_str": "1808868114299564036",
+          "id": "1808868114299564036",
+          "media_url_https": "https://pbs.twimg.com/media/GRpj91ZbMAQ-UrI.png",
+          "sizes": {
+            "medium": {
+              "w": "876",
+              "h": "498",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "876",
+              "h": "498",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "387",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1oeQpuouNH"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "189"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1808869068562162045",
+    "id_str": "1808869070814486929",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808869070814486929",
+    "in_reply_to_status_id": "1808869068562162045",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 04 14:22:48 +0000 2024",
+    "favorited": false,
+    "full_text": "Nailed this too. Make it as easy as possible to switch from other platforms. (Believe they did this, too. I seem to remember offers to help creators make the switch) https://t.co/1oeQpuouNH",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808869070814486929/photo/1",
+          "indices": [
+            "166",
+            "189"
+          ],
+          "url": "https://t.co/1oeQpuouNH",
+          "media_url": "http://pbs.twimg.com/media/GRpj91ZbMAQ-UrI.png",
+          "id_str": "1808868114299564036",
+          "id": "1808868114299564036",
+          "media_url_https": "https://pbs.twimg.com/media/GRpj91ZbMAQ-UrI.png",
+          "sizes": {
+            "medium": {
+              "w": "876",
+              "h": "498",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "876",
+              "h": "498",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "387",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1oeQpuouNH"
+        }
+      ]
+    }
+  }
+}

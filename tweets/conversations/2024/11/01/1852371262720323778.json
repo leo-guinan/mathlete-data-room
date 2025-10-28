@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1852371262720323778"
+        ],
+        "editableUntil": "2024-11-01T16:24:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adeo Ressi",
+          "screen_name": "adeoressi",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "133188015",
+          "id": "133188015"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/C6Ax0aMR3u",
+          "expanded_url": "https://www.buildinpublicuniversity.com/bipu-the-reboot/",
+          "display_url": "buildinpublicuniversity.com/bipu-the-reboo…",
+          "indices": [
+            "238",
+            "261"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1852369984456118491",
+    "id_str": "1852371262720323778",
+    "in_reply_to_user_id": "133188015",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1852371262720323778",
+    "in_reply_to_status_id": "1852369984456118491",
+    "possibly_sensitive": false,
+    "created_at": "Fri Nov 01 15:24:59 +0000 2024",
+    "favorited": false,
+    "full_text": "@adeoressi That's what I'm in the process of doing with Build In Public University. \n\nIt's designed to align incentives and provide realworld tangible value in a way universities currently don't. \n\nMore here about how I'm structuring it: https://t.co/C6Ax0aMR3u",
+    "lang": "en",
+    "in_reply_to_screen_name": "adeoressi",
+    "in_reply_to_user_id_str": "133188015"
+  }
+}

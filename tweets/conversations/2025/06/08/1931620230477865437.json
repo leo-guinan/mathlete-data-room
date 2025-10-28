@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931620230477865437"
+        ],
+        "editableUntil": "2025-06-08T08:52:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Simons",
+          "screen_name": "EricSimons",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "134503786",
+          "id": "134503786"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "12",
+            "25"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0XdUExEaxE",
+          "expanded_url": "https://x.com/leo_guinan/status/1931363305404223644",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "29",
+            "52"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1931360595661803979",
+    "id_str": "1931620230477865437",
+    "in_reply_to_user_id": "134503786",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931620230477865437",
+    "in_reply_to_status_id": "1931360595661803979",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 08 07:52:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@EricSimons @gregisenberg 😉\n\nhttps://t.co/0XdUExEaxE",
+    "lang": "qme",
+    "in_reply_to_screen_name": "EricSimons",
+    "in_reply_to_user_id_str": "134503786"
+  }
+}

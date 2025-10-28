@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1921376605756153987"
+        ],
+        "editableUntil": "2025-05-11T02:27:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Protocol Labs",
+          "screen_name": "protocollabs",
+          "indices": [
+            "30",
+            "43"
+          ],
+          "id_str": "823799206267625473",
+          "id": "823799206267625473"
+        },
+        {
+          "name": "Metaculus",
+          "screen_name": "metaculus",
+          "indices": [
+            "89",
+            "99"
+          ],
+          "id_str": "4117238354",
+          "id": "4117238354"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1921376604237750338",
+    "id_str": "1921376605756153987",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1921376605756153987",
+    "in_reply_to_status_id": "1921376604237750338",
+    "created_at": "Sun May 11 01:27:34 +0000 2025",
+    "favorited": false,
+    "full_text": "This isn't just theoretical.  @ProtocolLabs is building hypercerts for impact tracking \n\n@Metaculus uses prediction markets to allocate research grants Long-Term Future Fund explicitly funds work whose value may only become apparent decades later  \n\nThe bridges are being built.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

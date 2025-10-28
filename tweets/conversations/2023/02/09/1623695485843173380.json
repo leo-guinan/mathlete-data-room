@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1623695485843173380"
+        ],
+        "editableUntil": "2023-02-09T15:19:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "♟️Thestrategysolution",
+          "screen_name": "paolaruizglobal",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "845898067",
+          "id": "845898067"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "225"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1623001616436670489",
+    "id_str": "1623695485843173380",
+    "in_reply_to_user_id": "845898067",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1623695485843173380",
+    "in_reply_to_status_id": "1623001616436670489",
+    "created_at": "Thu Feb 09 14:49:05 +0000 2023",
+    "favorited": false,
+    "full_text": "@paolaruizglobal It's the only way I can be consistent for any length of time. Systems are what keep me running.\n\nThere's still a lot more I need to do, but as long as I can start building it, I can always tweak it over time.",
+    "lang": "en",
+    "in_reply_to_screen_name": "paolaruizglobal",
+    "in_reply_to_user_id_str": "845898067"
+  }
+}

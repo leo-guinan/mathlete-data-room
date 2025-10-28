@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1734765424984662074"
+        ],
+        "editableUntil": "2023-12-13T03:41:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Abbe_Hyde",
+          "screen_name": "abbe_hyde",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1182965257104289792",
+          "id": "1182965257104289792"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "40"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1734748855156330591",
+    "id_str": "1734765424984662074",
+    "in_reply_to_user_id": "1182965257104289792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1734765424984662074",
+    "in_reply_to_status_id": "1734748855156330591",
+    "created_at": "Wed Dec 13 02:41:22 +0000 2023",
+    "favorited": false,
+    "full_text": "@abbe_hyde That's awesome! Congrats! 🥳🥳🥳",
+    "lang": "en",
+    "in_reply_to_screen_name": "abbe_hyde",
+    "in_reply_to_user_id_str": "1182965257104289792"
+  }
+}

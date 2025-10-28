@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432482395157106688"
+        ],
+        "editableUntil": "2021-08-31T00:16:31.898Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tiago Forte",
+          "screen_name": "fortelabs",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1909232666",
+          "id": "1909232666"
+        },
+        {
+          "name": "Annie Murphy Paul",
+          "screen_name": "anniemurphypaul",
+          "indices": [
+            "112",
+            "128"
+          ],
+          "id_str": "105810697",
+          "id": "105810697"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1432482395157106688",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432482395157106688",
+    "created_at": "Mon Aug 30 23:16:31 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @fortelabs: The fundamental insight behind the rise of live, cohort-based courses\n\nFrom The Extended Mind by @anniemurphypaul https://t.…",
+    "lang": "en"
+  }
+}

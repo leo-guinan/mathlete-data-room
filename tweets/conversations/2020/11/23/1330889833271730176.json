@@ -1,0 +1,180 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330889833271730176"
+        ],
+        "editableUntil": "2020-11-23T16:03:57.646Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "CCSC",
+          "screen_name": "columbuscrewsc",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2792544626",
+          "id": "2792544626"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrewSC/status/1330888837564796928/video/1",
+          "source_status_id": "1330888837564796928",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/CtLRhGvnd1",
+          "media_url": "http://pbs.twimg.com/media/EUi_t8tWsAE5dA4.jpg",
+          "id_str": "1245045693124935686",
+          "source_user_id": "16960789",
+          "id": "1245045693124935686",
+          "media_url_https": "https://pbs.twimg.com/media/EUi_t8tWsAE5dA4.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1330888837564796928",
+          "display_url": "pic.x.com/CtLRhGvnd1"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Crew96",
+          "indices": [
+            "44",
+            "51"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "0",
+    "id_str": "1330889833271730176",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330889833271730176",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 23 15:03:57 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @ColumbusCrewSC: On this day in 2008: 🏆\n\n#Crew96 https://t.co/CtLRhGvnd1",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrewSC/status/1330888837564796928/video/1",
+          "source_status_id": "1330888837564796928",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/CtLRhGvnd1",
+          "media_url": "http://pbs.twimg.com/media/EUi_t8tWsAE5dA4.jpg",
+          "id_str": "1245045693124935686",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "59993",
+            "variants": [
+              {
+                "bitrate": "288000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1245045693124935686/vid/480x270/Lx_5FkzBLwsGBAMb.mp4?tag=13"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1245045693124935686/vid/640x360/PXiahcCo4ggaBmzu.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1245045693124935686/pl/Pz-BXOehztpciXGH.m3u8?tag=13"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1245045693124935686/vid/1280x720/4Fa23Q0vi7VBWjPJ.mp4?tag=13"
+              }
+            ]
+          },
+          "source_user_id": "16960789",
+          "additional_media_info": {
+            "embeddable": true,
+            "monetizable": false,
+            "description": "The Black & Gold defeated the New York Red Bulls 3-1 to claim the 2008 MLS Cup.",
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.columbuscrewsc.com/"
+              }
+            },
+            "title": "2008 MLS Cup Highlights"
+          },
+          "id": "1245045693124935686",
+          "media_url_https": "https://pbs.twimg.com/media/EUi_t8tWsAE5dA4.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1330888837564796928",
+          "display_url": "pic.x.com/CtLRhGvnd1"
+        }
+      ]
+    }
+  }
+}

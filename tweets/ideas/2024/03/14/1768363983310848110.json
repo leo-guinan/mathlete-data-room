@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768363983310848110"
+        ],
+        "editableUntil": "2024-03-14T20:50:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/aLreF53SKl",
+          "expanded_url": "https://x.com/leo_guinan/status/1768324797274939690",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "171",
+            "194"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1768363983310848110/video/1",
+          "indices": [
+            "195",
+            "218"
+          ],
+          "url": "https://t.co/Ho4uCEJNi5",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1768363794047041536/pu/img/RbJs8H8MP-jVKW5y.jpg",
+          "id_str": "1768363794047041536",
+          "id": "1768363794047041536",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1768363794047041536/pu/img/RbJs8H8MP-jVKW5y.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Ho4uCEJNi5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "218"
+    ],
+    "favorite_count": "0",
+    "id_str": "1768363983310848110",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768363983310848110",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 14 19:50:02 +0000 2024",
+    "favorited": false,
+    "full_text": "Clip from the breakdown of my pitch deck. \n\nShowcasing the patterns of behaviors I am working to overcome, but this clip gives my honest thoughts on using Google anymore. https://t.co/aLreF53SKl https://t.co/Ho4uCEJNi5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1768363983310848110/video/1",
+          "indices": [
+            "195",
+            "218"
+          ],
+          "url": "https://t.co/Ho4uCEJNi5",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1768363794047041536/pu/img/RbJs8H8MP-jVKW5y.jpg",
+          "id_str": "1768363794047041536",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "14870",
+            "variants": [
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1768363794047041536/pu/vid/avc1/480x270/Z8HbpHRv5TBEYTxu.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1768363794047041536/pu/pl/rWvPMenKu9Zz8bno.m3u8?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1768363794047041536/pu/vid/avc1/1280x720/uBoAc-wiBJpr1jll.mp4?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1768363794047041536/pu/vid/avc1/640x360/sKHnKmu12Azyb1ri.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1768363794047041536",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1768363794047041536/pu/img/RbJs8H8MP-jVKW5y.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/Ho4uCEJNi5"
+        }
+      ]
+    }
+  }
+}

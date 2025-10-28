@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1900555569657741498"
+        ],
+        "editableUntil": "2025-03-14T15:32:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "michelle ✍️💞📕🎢💫🥑",
+          "screen_name": "michelleakin",
+          "indices": [
+            "28",
+            "41"
+          ],
+          "id_str": "21502232",
+          "id": "21502232"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1900555569657741498/photo/1",
+          "indices": [
+            "273",
+            "296"
+          ],
+          "url": "https://t.co/k61ffdI3Db",
+          "media_url": "http://pbs.twimg.com/media/GmAhN2eWkAEgjwg.jpg",
+          "id_str": "1900555564595187713",
+          "id": "1900555564595187713",
+          "media_url_https": "https://pbs.twimg.com/media/GmAhN2eWkAEgjwg.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/k61ffdI3Db"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "4",
+    "id_str": "1900555569657741498",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1900555569657741498",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 14 14:32:13 +0000 2025",
+    "favorited": false,
+    "full_text": "Can I just say (again) that @michelleakin is my favorite person and my hero?\n\nAlso, let’s say someone is ADHD and frantically planning an IRL event in about 2 weeks in Austin to kick off a campaign to Make the Internet Weird Again. \n\nAssuming it’s doable, would anyone be… https://t.co/k61ffdI3Db",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1900555569657741498/photo/1",
+          "indices": [
+            "273",
+            "296"
+          ],
+          "url": "https://t.co/k61ffdI3Db",
+          "media_url": "http://pbs.twimg.com/media/GmAhN2eWkAEgjwg.jpg",
+          "id_str": "1900555564595187713",
+          "id": "1900555564595187713",
+          "media_url_https": "https://pbs.twimg.com/media/GmAhN2eWkAEgjwg.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/k61ffdI3Db"
+        }
+      ]
+    }
+  }
+}

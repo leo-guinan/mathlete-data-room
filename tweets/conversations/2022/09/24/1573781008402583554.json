@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1573781008402583554"
+        ],
+        "editableUntil": "2022-09-24T21:36:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Karaminder",
+          "screen_name": "Karaminder",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "4221671",
+          "id": "4221671"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1573781008402583554/photo/1",
+          "indices": [
+            "12",
+            "35"
+          ],
+          "url": "https://t.co/JJZcJrrAzt",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdcxektWIAE3SQW.jpg",
+          "id_str": "1573780996108984321",
+          "id": "1573780996108984321",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdcxektWIAE3SQW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "330",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "330",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "330",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JJZcJrrAzt"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1573498469985046529",
+    "id_str": "1573781008402583554",
+    "in_reply_to_user_id": "4221671",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1573781008402583554",
+    "in_reply_to_status_id": "1573498469985046529",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 24 21:06:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@Karaminder https://t.co/JJZcJrrAzt",
+    "lang": "qme",
+    "in_reply_to_screen_name": "Karaminder",
+    "in_reply_to_user_id_str": "4221671",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1573781008402583554/photo/1",
+          "indices": [
+            "12",
+            "35"
+          ],
+          "url": "https://t.co/JJZcJrrAzt",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdcxektWIAE3SQW.jpg",
+          "id_str": "1573780996108984321",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "55"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FdcxektWIAE3SQW.mp4"
+              }
+            ]
+          },
+          "id": "1573780996108984321",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdcxektWIAE3SQW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "330",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "330",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "330",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/JJZcJrrAzt"
+        }
+      ]
+    }
+  }
+}

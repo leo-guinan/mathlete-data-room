@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1701064463900717303"
+        ],
+        "editableUntil": "2023-09-11T03:45:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Ambrogi",
+          "screen_name": "matt_ambrogi",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1191346047521570817",
+          "id": "1191346047521570817"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1701044951050539397",
+    "id_str": "1701064463900717303",
+    "in_reply_to_user_id": "1191346047521570817",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1701064463900717303",
+    "in_reply_to_status_id": "1701044951050539397",
+    "created_at": "Mon Sep 11 02:45:47 +0000 2023",
+    "favorited": false,
+    "full_text": "@matt_ambrogi Here's my approach: I find examples of people who are living lives I want to live,  and set those as a north star.\n\nThen I start examining what they are doing that I'm not. Or vice-versa. \n\nFor me, it's all about asking the questions, not so much about finding the answers.…",
+    "lang": "en",
+    "in_reply_to_screen_name": "matt_ambrogi",
+    "in_reply_to_user_id_str": "1191346047521570817"
+  }
+}

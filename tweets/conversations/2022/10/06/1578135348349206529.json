@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1578135348349206529"
+        ],
+        "editableUntil": "2022-10-06T21:59:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "4",
+            "19"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s2dm6XeF18",
+          "expanded_url": "https://anchor.fm/leo-guinan/episodes/What-do-you-talk-about-when-you-dont-know-what-to-talk-about-e1ot8ch",
+          "display_url": "anchor.fm/leo-guinan/epi…",
+          "indices": [
+            "103",
+            "126"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "126"
+    ],
+    "favorite_count": "0",
+    "id_str": "1578135348349206529",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1578135348349206529",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 06 21:29:22 +0000 2022",
+    "favorited": false,
+    "full_text": "New @BuildInPublicU podcast for today:\nWhat do you talk about when you don't know what to talk about?\n\nhttps://t.co/s2dm6XeF18",
+    "lang": "en"
+  }
+}

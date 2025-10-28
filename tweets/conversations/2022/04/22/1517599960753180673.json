@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517599960753180673"
+        ],
+        "editableUntil": "2022-04-22T20:53:20.944Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CSVnXsKVLC",
+          "expanded_url": "https://x.com/leo_guinan/status/1517598944070709250?s=20&t=EQ-njMYNny_qosJURTvUHw",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1517599857900412928",
+    "id_str": "1517599960753180673",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1517599960753180673",
+    "in_reply_to_status_id": "1517599857900412928",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 22 20:23:20 +0000 2022",
+    "favorited": false,
+    "full_text": "Chatted about my thoughts/ideas/passions in a space earlier\n\nhttps://t.co/CSVnXsKVLC",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

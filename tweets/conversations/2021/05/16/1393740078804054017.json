@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1393740078804054017"
+        ],
+        "editableUntil": "2021-05-16T02:28:23.882Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Wensing 🐙",
+          "screen_name": "mattwensing",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "14982388",
+          "id": "14982388"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1393738877689597956",
+    "id_str": "1393740078804054017",
+    "in_reply_to_user_id": "14982388",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1393740078804054017",
+    "in_reply_to_status_id": "1393738877689597956",
+    "created_at": "Sun May 16 01:28:23 +0000 2021",
+    "favorited": false,
+    "full_text": "@mattwensing As someone who did a lot of development that involved creating and passing around excel files, this idea really excites me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mattwensing",
+    "in_reply_to_user_id_str": "14982388"
+  }
+}

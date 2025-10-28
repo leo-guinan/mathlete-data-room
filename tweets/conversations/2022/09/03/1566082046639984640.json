@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566082046639984640"
+        ],
+        "editableUntil": "2022-09-03T15:43:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "▓░𒋞 ⊓◬ƚӊi◬ᵴ 𒋞░▓",
+          "screen_name": "nath1as",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "2432104171",
+          "id": "2432104171"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1565429967151939586",
+    "id_str": "1566082046639984640",
+    "in_reply_to_user_id": "2432104171",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566082046639984640",
+    "in_reply_to_status_id": "1565429967151939586",
+    "created_at": "Sat Sep 03 15:13:50 +0000 2022",
+    "favorited": false,
+    "full_text": "@nath1as I disagree, mostly due to the constraints on large platforms. The larger you get, the more data you have, but the more you have to cater to more specific use cases and it becomes more necessary to prioritize carefully.\n\nIt's easier to share the data with specialists. Abstract.",
+    "lang": "en",
+    "in_reply_to_screen_name": "nath1as",
+    "in_reply_to_user_id_str": "2432104171"
+  }
+}

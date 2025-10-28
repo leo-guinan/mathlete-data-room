@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1589091000546648064"
+        ],
+        "editableUntil": "2022-11-06T03:33:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "195"
+    ],
+    "favorite_count": "7",
+    "id_str": "1589091000546648064",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1589091000546648064",
+    "created_at": "Sun Nov 06 03:03:13 +0000 2022",
+    "favorited": false,
+    "full_text": "Requested a full backup of my Twitter data.\n\nI'm going to be running an analysis on it.\n\nI'm considering building out a service business based around something and I want to see how useful it is.",
+    "lang": "en"
+  }
+}

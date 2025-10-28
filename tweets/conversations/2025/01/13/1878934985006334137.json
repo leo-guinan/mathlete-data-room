@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1878934985006334137"
+        ],
+        "editableUntil": "2025-01-13T23:39:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael P Gibson",
+          "screen_name": "William_Blake",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "14379530",
+          "id": "14379530"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1878932256422854930",
+    "id_str": "1878934985006334137",
+    "in_reply_to_user_id": "14379530",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1878934985006334137",
+    "in_reply_to_status_id": "1878932256422854930",
+    "created_at": "Mon Jan 13 22:39:44 +0000 2025",
+    "favorited": false,
+    "full_text": "@William_Blake I’m working on that. \n\nI’ve got it solved, just scaling the implementation. \n\nAll about predictability and rewarding the unknown instead of rewarding the predictable and scaling the unknown.",
+    "lang": "en",
+    "in_reply_to_screen_name": "William_Blake",
+    "in_reply_to_user_id_str": "14379530"
+  }
+}

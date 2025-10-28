@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1854166478691446866"
+        ],
+        "editableUntil": "2024-11-06T15:18:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Ashcroft",
+          "screen_name": "m_ashcroft",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "22151118",
+          "id": "22151118"
+        },
+        {
+          "name": "Guy IS GOING TO NYC!!!",
+          "screen_name": "nosilverv",
+          "indices": [
+            "12",
+            "22"
+          ],
+          "id_str": "1163743742764998658",
+          "id": "1163743742764998658"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "126",
+            "142"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "213"
+    ],
+    "favorite_count": "9",
+    "in_reply_to_status_id_str": "1854165913232154813",
+    "id_str": "1854166478691446866",
+    "in_reply_to_user_id": "22151118",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1854166478691446866",
+    "in_reply_to_status_id": "1854165913232154813",
+    "created_at": "Wed Nov 06 14:18:31 +0000 2024",
+    "favorited": false,
+    "full_text": "@m_ashcroft @nosilverv Just wanted to leave a note here that I appreciated this resolution in a very polarized world. :)\n\nCC: @DefenderOfBasic good example of a misunderstanding being resolved for your collection.",
+    "lang": "en",
+    "in_reply_to_screen_name": "m_ashcroft",
+    "in_reply_to_user_id_str": "22151118"
+  }
+}

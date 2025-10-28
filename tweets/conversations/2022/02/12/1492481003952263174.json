@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492481003952263174"
+        ],
+        "editableUntil": "2022-02-12T13:49:34.955Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "156"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1492365450981916673",
+    "id_str": "1492481003952263174",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492481003952263174",
+    "in_reply_to_status_id": "1492365450981916673",
+    "created_at": "Sat Feb 12 12:49:34 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Right? Such a great way to kick it off!\n\nLuckily, seems to be fine this morning. Bit of a mark, but I can still type. \n\nSo that's a plus! 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

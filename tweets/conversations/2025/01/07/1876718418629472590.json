@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1876718418629472590"
+        ],
+        "editableUntil": "2025-01-07T20:51:53.400Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "0",
+    "id_str": "1876718418629472590",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1876718418629472590",
+    "created_at": "Tue Jan 07 19:51:53 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @p_millerd: Great time to embark on your pathless path",
+    "lang": "en"
+  }
+}

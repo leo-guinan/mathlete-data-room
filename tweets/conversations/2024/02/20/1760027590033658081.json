@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1760027590033658081"
+        ],
+        "editableUntil": "2024-02-20T20:44:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zack",
+          "screen_name": "HackingBaseball",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1081866076726743040",
+          "id": "1081866076726743040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "259"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1759984382100558157",
+    "id_str": "1760027590033658081",
+    "in_reply_to_user_id": "1081866076726743040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1760027590033658081",
+    "in_reply_to_status_id": "1759984382100558157",
+    "created_at": "Tue Feb 20 19:44:11 +0000 2024",
+    "favorited": false,
+    "full_text": "@HackingBaseball I'm sure you've got this. And it's only 5 minutes right?\n\nShit, I had an hour to give a conference talk and material I was able to stretch to a solid 30 minutes.\n\nThat was...not great. \n\nSo you'll almost certainly be better than I was then...",
+    "lang": "en",
+    "in_reply_to_screen_name": "HackingBaseball",
+    "in_reply_to_user_id_str": "1081866076726743040"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1906422596582965304"
+        ],
+        "editableUntil": "2025-03-30T20:05:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paper Tiger",
+          "screen_name": "PinkPaperTiger",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1736489981466619904",
+          "id": "1736489981466619904"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1906416044614222191",
+    "id_str": "1906422596582965304",
+    "in_reply_to_user_id": "1736489981466619904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1906422596582965304",
+    "in_reply_to_status_id": "1906416044614222191",
+    "created_at": "Sun Mar 30 19:05:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@PinkPaperTiger It’s because that’s where people see security. The only ones with financial security are the elites right now because the risk calculus of the economy has been skewed. \n\nWe need to balance the risk calculus so that we don’t need to optimize everything years in advance in a way…",
+    "lang": "en",
+    "in_reply_to_screen_name": "PinkPaperTiger",
+    "in_reply_to_user_id_str": "1736489981466619904"
+  }
+}

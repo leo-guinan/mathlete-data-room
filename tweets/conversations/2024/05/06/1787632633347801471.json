@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1787632633347801471"
+        ],
+        "editableUntil": "2024-05-07T00:56:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "70",
+            "81"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XwKLxczgmB",
+          "expanded_url": "https://open.substack.com/pub/internetfactory/p/remember-me?r=evblp&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+          "display_url": "open.substack.com/pub/internetfa…",
+          "indices": [
+            "82",
+            "105"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "0",
+    "id_str": "1787632633347801471",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1787632633347801471",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 06 23:56:47 +0000 2024",
+    "favorited": false,
+    "full_text": "Getting back to my newsletter after some time away.\n\nRemember me?, by @leo_guinan https://t.co/XwKLxczgmB",
+    "lang": "en"
+  }
+}

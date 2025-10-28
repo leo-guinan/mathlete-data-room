@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930481042873298956"
+        ],
+        "editableUntil": "2025-06-05T05:25:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JFMM0EDXti",
+          "expanded_url": "https://www.buildinpublicuniversity.com/from-random-bits-to-raw-problems-re-imagining-entropy-for-a-world-centric-crypto/",
+          "display_url": "buildinpublicuniversity.com/from-random-bi…",
+          "indices": [
+            "117",
+            "140"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930478686207156435",
+    "id_str": "1930481042873298956",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930481042873298956",
+    "in_reply_to_status_id": "1930478686207156435",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 04:25:21 +0000 2025",
+    "favorited": false,
+    "full_text": "Next up, how we can use real world problems as entropy instead of relying on someone else's random number generator:\nhttps://t.co/JFMM0EDXti",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

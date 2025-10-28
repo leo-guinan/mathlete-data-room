@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563529935523704836"
+        ],
+        "editableUntil": "2022-08-27T14:42:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1563529935523704836/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/Sn9OwAkUX5",
+          "media_url": "http://pbs.twimg.com/media/FbLGJ9IUYAA8XHU.jpg",
+          "id_str": "1563529894981558272",
+          "id": "1563529894981558272",
+          "media_url_https": "https://pbs.twimg.com/media/FbLGJ9IUYAA8XHU.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Sn9OwAkUX5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "167"
+    ],
+    "favorite_count": "4",
+    "id_str": "1563529935523704836",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563529935523704836",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 27 14:12:40 +0000 2022",
+    "favorited": false,
+    "full_text": "After I got done streaming last night, I realized there was a pile near my feet.\n\nSomeone was quite jealous I wasn't paying attention to her... https://t.co/Sn9OwAkUX5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1563529935523704836/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/Sn9OwAkUX5",
+          "media_url": "http://pbs.twimg.com/media/FbLGJ9IUYAA8XHU.jpg",
+          "id_str": "1563529894981558272",
+          "id": "1563529894981558272",
+          "media_url_https": "https://pbs.twimg.com/media/FbLGJ9IUYAA8XHU.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Sn9OwAkUX5"
+        }
+      ]
+    }
+  }
+}

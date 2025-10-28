@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1687462749129891840"
+        ],
+        "editableUntil": "2023-08-04T14:57:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjoF1",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "49",
+            "72"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "0",
+    "id_str": "1687462749129891840",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1687462749129891840",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 04 13:57:25 +0000 2023",
+    "favorited": false,
+    "full_text": "Set up Loops as my email provider last night for https://t.co/KphsBfjoF1\n\nSuper easy setup and was able to configure an email to go out on users signing up for the app.\n\nIn the first email, I outlined my strategy and shared some thoughts on what will likely be coming soon.",
+    "lang": "en"
+  }
+}

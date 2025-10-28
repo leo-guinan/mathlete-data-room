@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1537966989385248768"
+        ],
+        "editableUntil": "2022-06-18T01:44:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "221"
+    ],
+    "favorite_count": "6",
+    "id_str": "1537966989385248768",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1537966989385248768",
+    "created_at": "Sat Jun 18 01:14:38 +0000 2022",
+    "favorited": false,
+    "full_text": "It's weirdly hard to do certain things with the Twitter API.\n\nFor example, given a tweet, you can't get all responses to that tweet unless it isn't a reply.\n\nEasy to get all responses to a tweet that isn't a reply though.",
+    "lang": "en"
+  }
+}

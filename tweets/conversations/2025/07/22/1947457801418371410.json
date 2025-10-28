@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1947457801418371410"
+        ],
+        "editableUntil": "2025-07-22T01:44:56.531Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "near",
+          "screen_name": "nearcyan",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "1128159740599656448",
+          "id": "1128159740599656448"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1947457801418371410",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1947457801418371410",
+    "created_at": "Tue Jul 22 00:44:56 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @nearcyan: you wont believe how smart our new frontier llm is. it repeatedly samples from the data manifold just like our last one. but…",
+    "lang": "en"
+  }
+}

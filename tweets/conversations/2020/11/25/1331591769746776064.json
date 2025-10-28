@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1331591769746776064"
+        ],
+        "editableUntil": "2020-11-25T14:33:12.343Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "topntran",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1331591769746776064",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1331591769746776064",
+    "created_at": "Wed Nov 25 13:33:12 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @topntran: it fucks me up that when i first heard of michelin star restaurants i was like \"the tire company??\" and then i was like no th…",
+    "lang": "en"
+  }
+}

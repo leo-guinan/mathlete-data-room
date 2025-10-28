@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1863723147712925843"
+        ],
+        "editableUntil": "2024-12-03T00:13:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "46",
+            "61"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iowvyuOyjx",
+          "expanded_url": "https://x.com/benlandautaylor/status/1863669335396401224",
+          "display_url": "x.com/benlandautaylo…",
+          "indices": [
+            "278",
+            "301"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "0",
+    "id_str": "1863723147712925843",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1863723147712925843",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 02 23:13:19 +0000 2024",
+    "favorited": false,
+    "full_text": "This is going to end up being in the hands of @BuildInPublicU.\n\nThe benefit of public institutions is trust, which bad systems and bad actors have eroded from existing institutions.\n\nThat's why the focus of Build In Public University is transparency: open data, open research,… https://t.co/iowvyuOyjx",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1489771255574188033"
+        ],
+        "editableUntil": "2022-02-05T02:22:00.597Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LpFjR5PFNP",
+          "expanded_url": "https://vm.tiktok.com/TTPdkDPk5U/",
+          "display_url": "vm.tiktok.com/TTPdkDPk5U/",
+          "indices": [
+            "33",
+            "56"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1489630681118482432",
+    "id_str": "1489771255574188033",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1489771255574188033",
+    "in_reply_to_status_id": "1489630681118482432",
+    "possibly_sensitive": false,
+    "created_at": "Sat Feb 05 01:22:00 +0000 2022",
+    "favorited": false,
+    "full_text": "Day 4: reflections on the week: \nhttps://t.co/LpFjR5PFNP",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

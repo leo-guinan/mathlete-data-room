@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1943311060649316395"
+        ],
+        "editableUntil": "2025-07-10T15:07:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1943311060649316395/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/rPIa9RFf9K",
+          "media_url": "http://pbs.twimg.com/media/GvgCU1YW4AAvxNi.jpg",
+          "id_str": "1943305796160249856",
+          "id": "1943305796160249856",
+          "media_url_https": "https://pbs.twimg.com/media/GvgCU1YW4AAvxNi.jpg",
+          "sizes": {
+            "large": {
+              "w": "1496",
+              "h": "1422",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1141",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "646",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rPIa9RFf9K"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "1",
+    "id_str": "1943311060649316395",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1943311060649316395",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 10 14:07:16 +0000 2025",
+    "favorited": false,
+    "full_text": "On initial analysis of some patterns yesterday, Claude gave me this analysis.\n\nWhich seems perfectly reasonable, given the data set and the leadup conversation. It's what I was looking for.\n\nBut I chose three very specific accounts, and this doesn't tell the story of the people. https://t.co/rPIa9RFf9K",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1943311060649316395/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/rPIa9RFf9K",
+          "media_url": "http://pbs.twimg.com/media/GvgCU1YW4AAvxNi.jpg",
+          "id_str": "1943305796160249856",
+          "id": "1943305796160249856",
+          "media_url_https": "https://pbs.twimg.com/media/GvgCU1YW4AAvxNi.jpg",
+          "sizes": {
+            "large": {
+              "w": "1496",
+              "h": "1422",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1141",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "646",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rPIa9RFf9K"
+        }
+      ]
+    }
+  }
+}

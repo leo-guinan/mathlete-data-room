@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1755000550255411347"
+        ],
+        "editableUntil": "2024-02-06T23:48:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "227"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1754996473610317825",
+    "id_str": "1755000550255411347",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1755000550255411347",
+    "in_reply_to_status_id": "1754996473610317825",
+    "created_at": "Tue Feb 06 22:48:32 +0000 2024",
+    "favorited": false,
+    "full_text": "@hellostartupla I'd liken it more to I've observed hand washing, realized it led to a drop in mortality, and then figured out the connection and am now in the process of trying to convince the establishment to change behaviors.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

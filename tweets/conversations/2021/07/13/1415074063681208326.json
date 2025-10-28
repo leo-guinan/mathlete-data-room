@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1415074063681208326"
+        ],
+        "editableUntil": "2021-07-13T23:22:02.243Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aazar Shad",
+          "screen_name": "Aazarshad",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "171510644",
+          "id": "171510644"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1414889986638458883",
+    "id_str": "1415074063681208326",
+    "in_reply_to_user_id": "171510644",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1415074063681208326",
+    "in_reply_to_status_id": "1414889986638458883",
+    "created_at": "Tue Jul 13 22:22:02 +0000 2021",
+    "favorited": false,
+    "full_text": "@Aazarshad Do you ever try to get a warm intro? Or do you always just shoot off a cold email first?",
+    "lang": "en",
+    "in_reply_to_screen_name": "Aazarshad",
+    "in_reply_to_user_id_str": "171510644"
+  }
+}

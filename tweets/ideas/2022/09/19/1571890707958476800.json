@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1571890707958476800"
+        ],
+        "editableUntil": "2022-09-19T16:25:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "263"
+    ],
+    "favorite_count": "3",
+    "id_str": "1571890707958476800",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1571890707958476800",
+    "created_at": "Mon Sep 19 15:55:23 +0000 2022",
+    "favorited": false,
+    "full_text": "Build In Public Fail: Launched the waitlist for https://socialmediagardens and it was broken. \n\nTurns out, Carrd uses a different id for form embeds than every other integration I've built. I'm used to using the alphanumeric id that is passed as a data attribute.",
+    "lang": "en"
+  }
+}

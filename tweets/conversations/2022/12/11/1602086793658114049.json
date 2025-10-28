@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1602086793658114049"
+        ],
+        "editableUntil": "2022-12-12T00:13:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Abdullah",
+          "screen_name": "047_abdul",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1437128742304763906",
+          "id": "1437128742304763906"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "11",
+            "23"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "27"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1601711718375489536",
+    "id_str": "1602086793658114049",
+    "in_reply_to_user_id": "1437128742304763906",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1602086793658114049",
+    "in_reply_to_status_id": "1601711718375489536",
+    "created_at": "Sun Dec 11 23:43:51 +0000 2022",
+    "favorited": false,
+    "full_text": "@047_abdul @_buildspace 🚀🚀🚀",
+    "lang": "qme",
+    "in_reply_to_screen_name": "047_abdul",
+    "in_reply_to_user_id_str": "1437128742304763906"
+  }
+}

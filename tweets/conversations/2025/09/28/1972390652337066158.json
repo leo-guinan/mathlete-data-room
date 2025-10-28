@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1972390652337066158"
+        ],
+        "editableUntil": "2025-09-28T20:59:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Kaz Nejatian",
+          "screen_name": "CanadaKaz",
+          "indices": [
+            "53",
+            "63"
+          ],
+          "id_str": "64721011",
+          "id": "64721011"
+        }
+      ],
+      "urls": [],
+      "symbols": [
+        {
+          "text": "OPEN",
+          "indices": [
+            "19",
+            "24"
+          ]
+        }
+      ],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972390652337066158/photo/1",
+          "indices": [
+            "145",
+            "168"
+          ],
+          "url": "https://t.co/TwYFqh04b2",
+          "media_url": "http://pbs.twimg.com/media/G18SQFjWQAAr2q1.jpg",
+          "id_str": "1972315229389209600",
+          "id": "1972315229389209600",
+          "media_url_https": "https://pbs.twimg.com/media/G18SQFjWQAAr2q1.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1114",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1754",
+              "h": "1628",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "631",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TwYFqh04b2"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "168"
+    ],
+    "favorite_count": "0",
+    "id_str": "1972390652337066158",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1972390652337066158",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 28 19:59:11 +0000 2025",
+    "favorited": false,
+    "full_text": "Curious to see how $OPEN ends up looking.\n\nI believe @CanadaKaz is on the right track, but this is what I'm monitoring to see if he actually is. https://t.co/TwYFqh04b2",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972390652337066158/photo/1",
+          "indices": [
+            "145",
+            "168"
+          ],
+          "url": "https://t.co/TwYFqh04b2",
+          "media_url": "http://pbs.twimg.com/media/G18SQFjWQAAr2q1.jpg",
+          "id_str": "1972315229389209600",
+          "id": "1972315229389209600",
+          "media_url_https": "https://pbs.twimg.com/media/G18SQFjWQAAr2q1.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1114",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1754",
+              "h": "1628",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "631",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TwYFqh04b2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1624432670728937475"
+        ],
+        "editableUntil": "2023-02-11T16:08:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter Simeonov",
+          "screen_name": "PeterKSimeonov",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1272991981032046605",
+          "id": "1272991981032046605"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1623700651896078339",
+    "id_str": "1624432670728937475",
+    "in_reply_to_user_id": "1272991981032046605",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1624432670728937475",
+    "in_reply_to_status_id": "1623700651896078339",
+    "created_at": "Sat Feb 11 15:38:23 +0000 2023",
+    "favorited": false,
+    "full_text": "@PeterKSimeonov @KrysChromo There are some pretty strict limits on the  API, although I did get banned for excessive use when I had a process run away from me and run thousands of queries back to back.\n\nThat was fun...lol\n\nHad to reach out to them and explain the situation.",
+    "lang": "en",
+    "in_reply_to_screen_name": "PeterKSimeonov",
+    "in_reply_to_user_id_str": "1272991981032046605"
+  }
+}

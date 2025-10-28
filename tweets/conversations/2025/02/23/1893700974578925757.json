@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1893700974578925757"
+        ],
+        "editableUntil": "2025-02-23T17:34:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "indices": [
+            "33",
+            "38"
+          ],
+          "id_str": "1605",
+          "id": "1605"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1893700974578925757/photo/1",
+          "indices": [
+            "68",
+            "91"
+          ],
+          "url": "https://t.co/tVth7cATz8",
+          "media_url": "http://pbs.twimg.com/media/GkfG6jVW4AEbbAa.png",
+          "id_str": "1893700877552115713",
+          "id": "1893700877552115713",
+          "media_url_https": "https://pbs.twimg.com/media/GkfG6jVW4AEbbAa.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "163",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "702",
+              "h": "168",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "702",
+              "h": "168",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/tVth7cATz8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1893700974578925757",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1893700974578925757",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 23 16:34:30 +0000 2025",
+    "favorited": false,
+    "full_text": "What a weird way to announce AGI,@sama.\n\nCongrats on the new model! https://t.co/tVth7cATz8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1893700974578925757/photo/1",
+          "indices": [
+            "68",
+            "91"
+          ],
+          "url": "https://t.co/tVth7cATz8",
+          "media_url": "http://pbs.twimg.com/media/GkfG6jVW4AEbbAa.png",
+          "id_str": "1893700877552115713",
+          "id": "1893700877552115713",
+          "media_url_https": "https://pbs.twimg.com/media/GkfG6jVW4AEbbAa.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "163",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "702",
+              "h": "168",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "702",
+              "h": "168",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/tVth7cATz8"
+        }
+      ]
+    }
+  }
+}

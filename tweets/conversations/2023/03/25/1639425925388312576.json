@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1639425925388312576"
+        ],
+        "editableUntil": "2023-03-25T01:06:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "185"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1638936167377780736",
+    "id_str": "1639425925388312576",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1639425925388312576",
+    "in_reply_to_status_id": "1638936167377780736",
+    "created_at": "Sat Mar 25 00:36:14 +0000 2023",
+    "favorited": false,
+    "full_text": "@arvidkahl 100%! I think we've been taken a bit off track by the gold rush that tech has become over the last 15-20 years.\n\nBut I see positive signs we are moving in the right direction",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

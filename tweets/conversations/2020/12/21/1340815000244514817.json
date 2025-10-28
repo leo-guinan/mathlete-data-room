@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340815000244514817"
+        ],
+        "editableUntil": "2020-12-21T01:23:01.853Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Saron",
+          "screen_name": "saronyitbarek",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "158065720",
+          "id": "158065720"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "195"
+    ],
+    "favorite_count": "13",
+    "in_reply_to_status_id_str": "1340814096489431040",
+    "id_str": "1340815000244514817",
+    "in_reply_to_user_id": "158065720",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340815000244514817",
+    "in_reply_to_status_id": "1340814096489431040",
+    "created_at": "Mon Dec 21 00:23:01 +0000 2020",
+    "favorited": false,
+    "full_text": "@saronyitbarek The one skill that might be considered \"soft\" that i found to be most lacking for me is teaching. I got really good at learning new skills but not great at teaching them to others.",
+    "lang": "en",
+    "in_reply_to_screen_name": "saronyitbarek",
+    "in_reply_to_user_id_str": "158065720"
+  }
+}

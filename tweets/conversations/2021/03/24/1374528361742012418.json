@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1374528361742012418"
+        ],
+        "editableUntil": "2021-03-24T02:07:53.598Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mat Hargett",
+          "screen_name": "MatHargett",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1327364562098790403",
+          "id": "1327364562098790403"
+        },
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "12",
+            "20"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/eSQ6YsLHNq",
+          "expanded_url": "https://x.com/leo_guinan/status/1372895622634819586?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "66",
+            "89"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1374526746377269248",
+    "id_str": "1374528361742012418",
+    "in_reply_to_user_id": "1327364562098790403",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1374528361742012418",
+    "in_reply_to_status_id": "1374526746377269248",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 24 01:07:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@MatHargett @YouTube Had to make a couple edits. Reposted here. 😀\nhttps://t.co/eSQ6YsLHNq",
+    "lang": "en",
+    "in_reply_to_screen_name": "MatHargett",
+    "in_reply_to_user_id_str": "1327364562098790403"
+  }
+}

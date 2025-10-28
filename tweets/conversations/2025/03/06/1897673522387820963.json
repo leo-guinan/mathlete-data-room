@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897673522387820963"
+        ],
+        "editableUntil": "2025-03-06T16:39:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dr Ally Louks",
+          "screen_name": "DrAllyLouks",
+          "indices": [
+            "38",
+            "50"
+          ],
+          "id_str": "1269269447212179456",
+          "id": "1269269447212179456"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897673522387820963/photo/1",
+          "indices": [
+            "109",
+            "132"
+          ],
+          "url": "https://t.co/oIhqRQuRvm",
+          "media_url": "http://pbs.twimg.com/media/GlXj9VhXAAAvyUn.jpg",
+          "id_str": "1897673460895121408",
+          "id": "1897673460895121408",
+          "media_url_https": "https://pbs.twimg.com/media/GlXj9VhXAAAvyUn.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "80",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "142",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1842",
+              "h": "218",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oIhqRQuRvm"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "2",
+    "id_str": "1897673522387820963",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897673522387820963",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 06 15:39:59 +0000 2025",
+    "favorited": false,
+    "full_text": "You can just do things.\n\nI just added @DrAllyLouks to my list of \"Advisors\" for my Independent PhD research. https://t.co/oIhqRQuRvm",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897673522387820963/photo/1",
+          "indices": [
+            "109",
+            "132"
+          ],
+          "url": "https://t.co/oIhqRQuRvm",
+          "media_url": "http://pbs.twimg.com/media/GlXj9VhXAAAvyUn.jpg",
+          "id_str": "1897673460895121408",
+          "id": "1897673460895121408",
+          "media_url_https": "https://pbs.twimg.com/media/GlXj9VhXAAAvyUn.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "80",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "142",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1842",
+              "h": "218",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oIhqRQuRvm"
+        }
+      ]
+    }
+  }
+}

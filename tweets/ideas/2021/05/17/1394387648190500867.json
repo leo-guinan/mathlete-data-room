@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1394387648190500867"
+        ],
+        "editableUntil": "2021-05-17T21:21:36.455Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BuildInPublic",
+          "indices": [
+            "0",
+            "14"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "257"
+    ],
+    "favorite_count": "2",
+    "id_str": "1394387648190500867",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1394387648190500867",
+    "created_at": "Mon May 17 20:21:36 +0000 2021",
+    "favorited": false,
+    "full_text": "#BuildInPublic Update:\n\nToday was the last day of the Draper University/Tezos Israel Preaccelerator. I'm a bit bummed, as I wasn't one of to 17 that got selected to pitch Tim and the other judges. I felt like I put together a pretty good video pitch + deck.",
+    "lang": "en"
+  }
+}

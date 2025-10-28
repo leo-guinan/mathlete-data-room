@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379229526627082243"
+        ],
+        "editableUntil": "2021-04-06T01:28:38.650Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hvGZSiwGxm",
+          "expanded_url": "https://x.com/ikigaibydesign/status/1379218082875510790",
+          "display_url": "x.com/ikigaibydesign…",
+          "indices": [
+            "69",
+            "92"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "92"
+    ],
+    "favorite_count": "2",
+    "id_str": "1379229526627082243",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379229526627082243",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 06 00:28:38 +0000 2021",
+    "favorited": false,
+    "full_text": "BitClout is an interesting platform. Curious to see how it develops. https://t.co/hvGZSiwGxm",
+    "lang": "en"
+  }
+}

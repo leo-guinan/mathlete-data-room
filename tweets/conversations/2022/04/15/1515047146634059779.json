@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515047146634059779"
+        ],
+        "editableUntil": "2022-04-15T19:49:22.629Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "34",
+            "50"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "MotivateU",
+          "screen_name": "MotivateUTech",
+          "indices": [
+            "55",
+            "69"
+          ],
+          "id_str": "1378796282295255045",
+          "id": "1378796282295255045"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/a61HoR1r8N",
+          "expanded_url": "http://wefunder.com/motivateu",
+          "display_url": "wefunder.com/motivateu",
+          "indices": [
+            "149",
+            "172"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "7",
+    "id_str": "1515047146634059779",
+    "truncated": false,
+    "retweet_count": "5",
+    "id": "1515047146634059779",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 15 19:19:22 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally had a chance to invest in @StroutMotivateU and @MotivateUTech!\n\nYou should totally join me in doing so before the round closes. Here's why:\n\nhttps://t.co/a61HoR1r8N",
+    "lang": "en"
+  }
+}

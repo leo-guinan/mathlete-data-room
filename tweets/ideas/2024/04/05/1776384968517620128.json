@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1776384968517620128"
+        ],
+        "editableUntil": "2024-04-06T00:02:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lgErTfBxIt",
+          "expanded_url": "https://x.com/aaditsh/status/1776334375006974063",
+          "display_url": "x.com/aaditsh/status…",
+          "indices": [
+            "258",
+            "281"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "281"
+    ],
+    "favorite_count": "0",
+    "id_str": "1776384968517620128",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1776384968517620128",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 05 23:02:34 +0000 2024",
+    "favorited": false,
+    "full_text": "Yes, but....\n\nwhat's going to end up happening: managers are going to spin up a replit, get something working super quickly, and completely neglect all the other things that come with deploying code, forcing engineers to cut corners, and that drops quality. https://t.co/lgErTfBxIt",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359896234769739778"
+        ],
+        "editableUntil": "2021-02-11T17:05:02.676Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Janine Sickmeyer",
+          "screen_name": "myfriendjanine",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "14766188",
+          "id": "14766188"
+        },
+        {
+          "name": "Jaime Schmidt",
+          "screen_name": "jaimeschmidt",
+          "indices": [
+            "16",
+            "29"
+          ],
+          "id_str": "773744012045983744",
+          "id": "773744012045983744"
+        },
+        {
+          "name": "Amanda Goetz",
+          "screen_name": "AmandaMGoetz",
+          "indices": [
+            "30",
+            "43"
+          ],
+          "id_str": "23698119",
+          "id": "23698119"
+        },
+        {
+          "name": "Latesha Byrd",
+          "screen_name": "Latesha_Byrd",
+          "indices": [
+            "44",
+            "57"
+          ],
+          "id_str": "87552738",
+          "id": "87552738"
+        },
+        {
+          "name": "Brandon Brooks",
+          "screen_name": "OfficialBBrooks",
+          "indices": [
+            "58",
+            "74"
+          ],
+          "id_str": "929464603439923201",
+          "id": "929464603439923201"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1359893060038057991",
+    "id_str": "1359896234769739778",
+    "in_reply_to_user_id": "14766188",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359896234769739778",
+    "in_reply_to_status_id": "1359893060038057991",
+    "created_at": "Thu Feb 11 16:05:02 +0000 2021",
+    "favorited": false,
+    "full_text": "@myfriendjanine @jaimeschmidt @AmandaMGoetz @Latesha_Byrd @OfficialBBrooks Serious FOMO from this Android user.... 😢",
+    "lang": "en",
+    "in_reply_to_screen_name": "myfriendjanine",
+    "in_reply_to_user_id_str": "14766188"
+  }
+}

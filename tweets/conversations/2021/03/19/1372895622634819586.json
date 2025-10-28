@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1372895622634819586"
+        ],
+        "editableUntil": "2021-03-19T13:59:58.260Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "176",
+            "184"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/V1mHLN6d2h",
+          "expanded_url": "https://youtu.be/6q71IbtBvKg",
+          "display_url": "youtu.be/6q71IbtBvKg",
+          "indices": [
+            "148",
+            "171"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "184"
+    ],
+    "favorite_count": "0",
+    "id_str": "1372895622634819586",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1372895622634819586",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 19 12:59:58 +0000 2021",
+    "favorited": false,
+    "full_text": "Had to make a couple edits to part 2. Just reposted (with a new title)\n\nGovernment vs Bitcoin: The Fight at the Intersection of Money, Data, and... https://t.co/V1mHLN6d2h via @YouTube",
+    "lang": "en"
+  }
+}

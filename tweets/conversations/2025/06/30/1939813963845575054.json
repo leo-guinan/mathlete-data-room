@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939813963845575054"
+        ],
+        "editableUntil": "2025-06-30T23:31:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Josh",
+          "screen_name": "Jorocopi",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "788412426937139200",
+          "id": "788412426937139200"
+        },
+        {
+          "name": "John Rush",
+          "screen_name": "johnrushx",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "1456321269029380097",
+          "id": "1456321269029380097"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uWqWbeU4Qh",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/internet-20-a-humanai-mesh-network",
+          "display_url": "hitchhikertothefuture.substack.com/p/internet-20-…",
+          "indices": [
+            "21",
+            "44"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1939813598991167515",
+    "id_str": "1939813963845575054",
+    "in_reply_to_user_id": "788412426937139200",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939813963845575054",
+    "in_reply_to_status_id": "1939813598991167515",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 30 22:31:03 +0000 2025",
+    "favorited": false,
+    "full_text": "@Jorocopi @johnrushx https://t.co/uWqWbeU4Qh",
+    "lang": "qme",
+    "in_reply_to_screen_name": "Jorocopi",
+    "in_reply_to_user_id_str": "788412426937139200"
+  }
+}

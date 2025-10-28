@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1884321907862036586"
+        ],
+        "editableUntil": "2025-01-28T20:25:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter H. Diamandis, MD",
+          "screen_name": "PeterDiamandis",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "14710129",
+          "id": "14710129"
+        },
+        {
+          "name": "Dustin Miller | POLYINNOVATOR LLC⚙️",
+          "screen_name": "polyinnovator",
+          "indices": [
+            "16",
+            "30"
+          ],
+          "id_str": "872914095321645056",
+          "id": "872914095321645056"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1884315970333753624",
+    "id_str": "1884321907862036586",
+    "in_reply_to_user_id": "14710129",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1884321907862036586",
+    "in_reply_to_status_id": "1884315970333753624",
+    "created_at": "Tue Jan 28 19:25:26 +0000 2025",
+    "favorited": false,
+    "full_text": "@PeterDiamandis @polyinnovator That’s what I’m building with Human Insurance. \n\nIt’s gonna be really cool 😎 \n\nThey won’t see it coming.",
+    "lang": "en",
+    "in_reply_to_screen_name": "PeterDiamandis",
+    "in_reply_to_user_id_str": "14710129"
+  }
+}

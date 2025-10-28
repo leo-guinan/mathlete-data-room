@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1903830446892286456"
+        ],
+        "editableUntil": "2025-03-23T16:25:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "12",
+            "28"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z8YNwCvcLp",
+          "expanded_url": "https://x.com/RudyHavenstein/status/1421158970270437378",
+          "display_url": "x.com/RudyHavenstein…",
+          "indices": [
+            "167",
+            "190"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "190"
+    ],
+    "favorite_count": "0",
+    "id_str": "1903830446892286456",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1903830446892286456",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 23 15:25:24 +0000 2025",
+    "favorited": false,
+    "full_text": "This is why @DefenderOfBasic talks about testing your philosophy.\n\nYou can't accept it as taught; you must experience and validate it yourself and update when needed. https://t.co/Z8YNwCvcLp",
+    "lang": "en"
+  }
+}

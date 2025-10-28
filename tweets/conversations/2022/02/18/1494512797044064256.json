@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1494512797044064256"
+        ],
+        "editableUntil": "2022-02-18T04:23:12.177Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "32",
+            "43"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3knHNCeMwR",
+          "expanded_url": "https://www.buzzsprout.com/1661950/10097806",
+          "display_url": "buzzsprout.com/1661950/100978…",
+          "indices": [
+            "171",
+            "194"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "194"
+    ],
+    "favorite_count": "1",
+    "id_str": "1494512797044064256",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1494512797044064256",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 18 03:23:12 +0000 2022",
+    "favorited": false,
+    "full_text": "Another great conversation with @LobowSpark ! Give it a listen and let me know what you think!\n\n\"Something for Someone - Build Friendships not Followers w/Leo Guinan\" at  https://t.co/3knHNCeMwR",
+    "lang": "en"
+  }
+}

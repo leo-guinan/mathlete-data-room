@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1948161575606534502"
+        ],
+        "editableUntil": "2025-07-24T00:21:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1948074615148011895",
+    "id_str": "1948161575606534502",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1948161575606534502",
+    "in_reply_to_status_id": "1948074615148011895",
+    "created_at": "Wed Jul 23 23:21:29 +0000 2025",
+    "favorited": false,
+    "full_text": "@finereli Congrats. It feels great, doesn't it?\n\nTo know that you are finally on the right track after years of trial and error?\n\nAnd it's more scalable than you think. You are doing it exactly right, so don't change anything.\n\nI've officially found my exact place I need to be in the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

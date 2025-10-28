@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1659953690487185409"
+        ],
+        "editableUntil": "2023-05-20T16:36:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "9",
+            "21"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "22",
+            "38"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "48"
+    ],
+    "favorite_count": "0",
+    "id_str": "1659953690487185409",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1659953690487185409",
+    "created_at": "Sat May 20 16:06:14 +0000 2023",
+    "favorited": false,
+    "full_text": "Demo day @_buildspace @_nightsweekends S3 today!",
+    "lang": "en"
+  }
+}

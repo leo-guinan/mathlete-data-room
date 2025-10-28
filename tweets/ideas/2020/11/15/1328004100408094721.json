@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328004100408094721"
+        ],
+        "editableUntil": "2020-11-15T16:57:05.317Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UBI",
+          "indices": [
+            "85",
+            "89"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iKVn0avNjX",
+          "expanded_url": "https://link.medium.com/gY2FZ8Tpibb",
+          "display_url": "link.medium.com/gY2FZ8Tpibb",
+          "indices": [
+            "59",
+            "82"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328004100408094721",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328004100408094721",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 15:57:05 +0000 2020",
+    "favorited": false,
+    "full_text": "I Figured Out How To Implement UBI From the Private Sector https://t.co/iKVn0avNjX \n\n#UBI",
+    "lang": "en"
+  }
+}

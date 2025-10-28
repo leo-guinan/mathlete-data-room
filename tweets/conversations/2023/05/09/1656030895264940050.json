@@ -1,0 +1,148 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1656030895264940050"
+        ],
+        "editableUntil": "2023-05-09T20:48:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "31",
+            "40"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VGTmnMUn5e",
+          "expanded_url": "https://visakanv.substack.com/p/yeet-thyself",
+          "display_url": "visakanv.substack.com/p/yeet-thyself",
+          "indices": [
+            "186",
+            "209"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1656030895264940050/photo/1",
+          "indices": [
+            "210",
+            "233"
+          ],
+          "url": "https://t.co/Vh4H8ApLEx",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FvtnUeCXsAImYkG.jpg",
+          "id_str": "1656030889346838530",
+          "id": "1656030889346838530",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FvtnUeCXsAImYkG.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Vh4H8ApLEx"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "233"
+    ],
+    "favorite_count": "3",
+    "id_str": "1656030895264940050",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1656030895264940050",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 09 20:18:27 +0000 2023",
+    "favorited": false,
+    "full_text": "This is a fantastic quote from @visakanv:\n\n\"Do you want to increase your follower count 5% YoY or do you want to live fucking gloriously?\"\n\nMe: \"One living fucking gloriously, please!\"\n https://t.co/VGTmnMUn5e https://t.co/Vh4H8ApLEx",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1656030895264940050/photo/1",
+          "indices": [
+            "210",
+            "233"
+          ],
+          "url": "https://t.co/Vh4H8ApLEx",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FvtnUeCXsAImYkG.jpg",
+          "id_str": "1656030889346838530",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FvtnUeCXsAImYkG.mp4"
+              }
+            ]
+          },
+          "id": "1656030889346838530",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FvtnUeCXsAImYkG.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/Vh4H8ApLEx"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1840604833385984430"
+        ],
+        "editableUntil": "2024-09-30T05:09:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "Vidhika Bansal",
+          "screen_name": "vidhster",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "2537830064",
+          "id": "2537830064"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "209"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1840443072481726781",
+    "id_str": "1840604833385984430",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1840604833385984430",
+    "in_reply_to_status_id": "1840443072481726781",
+    "created_at": "Mon Sep 30 04:09:23 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @vidhster What if \"leadership of\" could be shown to be separate from \"power over\"?\n\nAll too often, they are combined, which creates many numerous examples of badly implemented versions of both",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

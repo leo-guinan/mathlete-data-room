@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420583349425483783"
+        ],
+        "editableUntil": "2021-07-29T04:13:58.322Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ramli John",
+          "screen_name": "RamliJohn",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "355511398",
+          "id": "355511398"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1420582815859716100",
+    "id_str": "1420583349425483783",
+    "in_reply_to_user_id": "355511398",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420583349425483783",
+    "in_reply_to_status_id": "1420582815859716100",
+    "created_at": "Thu Jul 29 03:13:58 +0000 2021",
+    "favorited": false,
+    "full_text": "@RamliJohn I rode around on the ATVs quite a bit. Never got around to doing the ziplines. Kinda regret it now. \n\nBut I've never been a big fan of heights.\n\nDid get to drive a bulldozer once too. That was pretty cool.",
+    "lang": "en",
+    "in_reply_to_screen_name": "RamliJohn",
+    "in_reply_to_user_id_str": "355511398"
+  }
+}

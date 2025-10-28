@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941933050062889197"
+        ],
+        "editableUntil": "2025-07-06T19:51:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Robin Hanson",
+          "screen_name": "robinhanson",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "7748752",
+          "id": "7748752"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941933050062889197/photo/1",
+          "indices": [
+            "195",
+            "218"
+          ],
+          "url": "https://t.co/xO8XKh5zMF",
+          "media_url": "http://pbs.twimg.com/media/GvMhz-lXcAArSVM.jpg",
+          "id_str": "1941933041183584256",
+          "id": "1941933041183584256",
+          "media_url_https": "https://pbs.twimg.com/media/GvMhz-lXcAArSVM.jpg",
+          "sizes": {
+            "small": {
+              "w": "678",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1323",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1197",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xO8XKh5zMF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "218"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941928146812473658",
+    "id_str": "1941933050062889197",
+    "in_reply_to_user_id": "7748752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941933050062889197",
+    "in_reply_to_status_id": "1941928146812473658",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 18:51:33 +0000 2025",
+    "favorited": false,
+    "full_text": "@robinhanson I’m the partner you need. \n\nI’ve been studying memetic economics and network relativity to examine how to create systems and cultures that actually implement governance effectively. https://t.co/xO8XKh5zMF",
+    "lang": "en",
+    "in_reply_to_screen_name": "robinhanson",
+    "in_reply_to_user_id_str": "7748752",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941933050062889197/photo/1",
+          "indices": [
+            "195",
+            "218"
+          ],
+          "url": "https://t.co/xO8XKh5zMF",
+          "media_url": "http://pbs.twimg.com/media/GvMhz-lXcAArSVM.jpg",
+          "id_str": "1941933041183584256",
+          "id": "1941933041183584256",
+          "media_url_https": "https://pbs.twimg.com/media/GvMhz-lXcAArSVM.jpg",
+          "sizes": {
+            "small": {
+              "w": "678",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1323",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1197",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xO8XKh5zMF"
+        }
+      ]
+    }
+  }
+}

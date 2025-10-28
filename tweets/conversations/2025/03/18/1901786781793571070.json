@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901786781793571070"
+        ],
+        "editableUntil": "2025-03-18T01:04:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "53",
+            "68"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ma12ICShSm",
+          "expanded_url": "https://x.com/david_perell/status/1901761879464181820",
+          "display_url": "x.com/david_perell/s…",
+          "indices": [
+            "69",
+            "92"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "92"
+    ],
+    "favorite_count": "1",
+    "id_str": "1901786781793571070",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901786781793571070",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 18 00:04:36 +0000 2025",
+    "favorited": false,
+    "full_text": "Love Alpha School’s model. Very similar to mine with @BuildInPublicU https://t.co/ma12ICShSm",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1537072217380605952"
+        ],
+        "editableUntil": "2022-06-15T14:29:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BuildInPublic",
+          "indices": [
+            "224",
+            "238"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "16",
+    "id_str": "1537072217380605952",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1537072217380605952",
+    "created_at": "Wed Jun 15 13:59:08 +0000 2022",
+    "favorited": false,
+    "full_text": "Please comment on this post. I'm testing a tool that will do various things when a given tweet gets responses.\n\nAnd feel free to comment more than once. You should see a response eventually post to only your first comment.\n\n#BuildInPublic",
+    "lang": "en"
+  }
+}

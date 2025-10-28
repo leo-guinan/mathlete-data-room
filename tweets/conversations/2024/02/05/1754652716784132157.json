@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1754652716784132157"
+        ],
+        "editableUntil": "2024-02-06T00:46:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rudra Dakini",
+          "screen_name": "the_wilderless",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1223231444429856769",
+          "id": "1223231444429856769"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "17"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1754236052649148926",
+    "id_str": "1754652716784132157",
+    "in_reply_to_user_id": "1223231444429856769",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1754652716784132157",
+    "in_reply_to_status_id": "1754236052649148926",
+    "created_at": "Mon Feb 05 23:46:22 +0000 2024",
+    "favorited": false,
+    "full_text": "@the_wilderless 👀",
+    "lang": "qme",
+    "in_reply_to_screen_name": "the_wilderless",
+    "in_reply_to_user_id_str": "1223231444429856769"
+  }
+}

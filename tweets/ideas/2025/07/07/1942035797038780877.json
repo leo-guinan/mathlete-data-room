@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942035797038780877"
+        ],
+        "editableUntil": "2025-07-07T02:39:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "143"
+    ],
+    "favorite_count": "1",
+    "id_str": "1942035797038780877",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942035797038780877",
+    "created_at": "Mon Jul 07 01:39:49 +0000 2025",
+    "favorited": false,
+    "full_text": "Letting go of my bad complexity habits.\n\nDeploying a site that is simple html and javascript, with an n8n backend.\n\nI need to scale things now.",
+    "lang": "en"
+  }
+}

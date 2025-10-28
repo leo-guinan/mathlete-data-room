@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432674739689037834"
+        ],
+        "editableUntil": "2021-08-31T13:00:50.408Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        },
+        {
+          "name": "Tom",
+          "screen_name": "tomjacquesson",
+          "indices": [
+            "11",
+            "25"
+          ],
+          "id_str": "1355489467503669248",
+          "id": "1355489467503669248"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "147"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1432673680451047424",
+    "id_str": "1432674739689037834",
+    "in_reply_to_user_id": "36301478",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432674739689037834",
+    "in_reply_to_status_id": "1432673680451047424",
+    "created_at": "Tue Aug 31 12:00:50 +0000 2021",
+    "favorited": false,
+    "full_text": "@Bazzaruto @tomjacquesson @feathercrm Absolutely! Had you on my next round of users to chat with so that's perfect.  I was thinking the same thing!",
+    "lang": "en",
+    "in_reply_to_screen_name": "Bazzaruto",
+    "in_reply_to_user_id_str": "36301478"
+  }
+}

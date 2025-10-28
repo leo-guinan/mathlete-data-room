@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1417484848101564422"
+        ],
+        "editableUntil": "2021-07-20T15:01:38.039Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "125",
+            "132"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SEpPxJkECr",
+          "expanded_url": "https://vm.tiktok.com/ZMdGJT7dH/",
+          "display_url": "vm.tiktok.com/ZMdGJT7dH/",
+          "indices": [
+            "133",
+            "156"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "156"
+    ],
+    "favorite_count": "1",
+    "id_str": "1417484848101564422",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1417484848101564422",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 20 14:01:38 +0000 2021",
+    "favorited": false,
+    "full_text": "Playing around with TikToks greenscreen effect and showing some beautiful drawings of graphs.\n\nCheck out Leo Guinan's video! #TikTok https://t.co/SEpPxJkECr",
+    "lang": "en"
+  }
+}

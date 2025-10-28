@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1689100002356781057"
+        ],
+        "editableUntil": "2023-08-09T03:23:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1688632990329438208",
+    "id_str": "1689100002356781057",
+    "in_reply_to_user_id": "1307769479867363328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1689100002356781057",
+    "in_reply_to_status_id": "1688632990329438208",
+    "created_at": "Wed Aug 09 02:23:17 +0000 2023",
+    "favorited": false,
+    "full_text": "@eggs_mayhem I agree with that. I'm a believer in using it with the end result of directing traffic to the scraped source.\n\nNot taking that traffic away from trusted sources, just providing extra discoverability",
+    "lang": "en",
+    "in_reply_to_screen_name": "eggs_mayhem",
+    "in_reply_to_user_id_str": "1307769479867363328"
+  }
+}

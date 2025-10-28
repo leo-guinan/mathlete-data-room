@@ -1,0 +1,101 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1757087900896825637"
+        ],
+        "editableUntil": "2024-02-12T18:02:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dan Gray",
+          "screen_name": "credistick",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "20999409",
+          "id": "20999409"
+        },
+        {
+          "name": "John Borthwick",
+          "screen_name": "Borthwick",
+          "indices": [
+            "12",
+            "22"
+          ],
+          "id_str": "4488",
+          "id": "4488"
+        },
+        {
+          "name": "Betaworks",
+          "screen_name": "betaworks",
+          "indices": [
+            "23",
+            "33"
+          ],
+          "id_str": "14445325",
+          "id": "14445325"
+        },
+        {
+          "name": "T.A. McCann",
+          "screen_name": "tamccann",
+          "indices": [
+            "34",
+            "43"
+          ],
+          "id_str": "4258851",
+          "id": "4258851"
+        },
+        {
+          "name": "Pioneer Square Labs",
+          "screen_name": "psl",
+          "indices": [
+            "44",
+            "48"
+          ],
+          "id_str": "3453621792",
+          "id": "3453621792"
+        },
+        {
+          "name": "Max Pog",
+          "screen_name": "maxpogu",
+          "indices": [
+            "49",
+            "57"
+          ],
+          "id_str": "76796897",
+          "id": "76796897"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "97"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1756501277003989349",
+    "id_str": "1757087900896825637",
+    "in_reply_to_user_id": "20999409",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1757087900896825637",
+    "in_reply_to_status_id": "1756501277003989349",
+    "created_at": "Mon Feb 12 17:02:55 +0000 2024",
+    "favorited": false,
+    "full_text": "@credistick @Borthwick @betaworks @tamccann @psl @maxpogu Oh, awesome, thanks!\n\nWill check it out",
+    "lang": "en",
+    "in_reply_to_screen_name": "credistick",
+    "in_reply_to_user_id_str": "20999409"
+  }
+}

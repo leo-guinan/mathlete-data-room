@@ -1,0 +1,87 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1594341047462957057"
+        ],
+        "editableUntil": "2022-11-20T15:15:01.796Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KeyLink | 🚀 on iOS & Android",
+          "screen_name": "KeyLinkApp",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1579173525163806723",
+          "id": "1579173525163806723"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Notion",
+          "screen_name": "NotionHQ",
+          "indices": [
+            "28",
+            "37"
+          ],
+          "id_str": "708915428454576128",
+          "id": "708915428454576128"
+        },
+        {
+          "name": "Airtable",
+          "screen_name": "airtable",
+          "indices": [
+            "38",
+            "47"
+          ],
+          "id_str": "2786252385",
+          "id": "2786252385"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nZBZSqjNp0",
+          "expanded_url": "https://apps.apple.com/app/keylink/id6443741737",
+          "display_url": "apps.apple.com/app/keylink/id…",
+          "indices": [
+            "91",
+            "114"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "0",
+    "id_str": "1594341047462957057",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1594341047462957057",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 20 14:45:01 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @KeyLinkApp: @leo_guinan @NotionHQ @airtable Download KeyLink App 2.0 at the App Store: https://t.co/nZBZSqjNp0",
+    "lang": "en"
+  }
+}

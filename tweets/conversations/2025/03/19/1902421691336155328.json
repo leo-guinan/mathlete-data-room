@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902421691336155328"
+        ],
+        "editableUntil": "2025-03-19T19:07:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "178",
+            "193"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "194"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1902418363143323956",
+    "id_str": "1902421691336155328",
+    "in_reply_to_user_id": "183749519",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902421691336155328",
+    "in_reply_to_status_id": "1902418363143323956",
+    "created_at": "Wed Mar 19 18:07:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@paulg You build a company that doesn't require paperwork for people to work for you.\n\nA fully decentralized network of people on whom you can count.\n\nAKA do what I'm doing with @BuildInPublicU.",
+    "lang": "en",
+    "in_reply_to_screen_name": "paulg",
+    "in_reply_to_user_id_str": "183749519"
+  }
+}

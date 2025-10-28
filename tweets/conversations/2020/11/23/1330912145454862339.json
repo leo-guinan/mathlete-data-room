@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330912145454862339"
+        ],
+        "editableUntil": "2020-11-23T17:32:37.285Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Don Winslow",
+          "screen_name": "donwinslow",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "255812611",
+          "id": "255812611"
+        },
+        {
+          "name": "Alex",
+          "screen_name": "CaptainAlex8",
+          "indices": [
+            "23",
+            "36"
+          ],
+          "id_str": "1857263998980276224",
+          "id": "1857263998980276224"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "187"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1330908421575626753",
+    "id_str": "1330912145454862339",
+    "in_reply_to_user_id": "2464858040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330912145454862339",
+    "in_reply_to_status_id": "1330908421575626753",
+    "created_at": "Mon Nov 23 16:32:37 +0000 2020",
+    "favorited": false,
+    "full_text": "@Schnoub17 @donwinslow @CaptainAlex8 Because that is the only way they can imagine succeeding. They don't understand how to win without cheating. So they accuse everyone else of cheating.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "2464858040"
+  }
+}

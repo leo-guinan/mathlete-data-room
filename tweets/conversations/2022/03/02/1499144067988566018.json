@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499144067988566018"
+        ],
+        "editableUntil": "2022-03-02T23:06:13.215Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tibo",
+          "screen_name": "tibo_maker",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "470129898",
+          "id": "470129898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "222"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1499021768916357123",
+    "id_str": "1499144067988566018",
+    "in_reply_to_user_id": "470129898",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499144067988566018",
+    "in_reply_to_status_id": "1499021768916357123",
+    "created_at": "Wed Mar 02 22:06:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@tibo_maker This is the way I've started to view it.\n\nLife is ridiculous. If you're not willing to look ridiculous, you're not really living.\n\nGotta have some fun with it. Excitement and adventure live at those boundaries!",
+    "lang": "en",
+    "in_reply_to_screen_name": "tibo_maker",
+    "in_reply_to_user_id_str": "470129898"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363945833310416903"
+        ],
+        "editableUntil": "2021-02-22T21:16:42.206Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LhkvP1wpzS",
+          "expanded_url": "https://x.com/ndrewlee/status/1363934211137097729",
+          "display_url": "x.com/ndrewlee/statu…",
+          "indices": [
+            "92",
+            "115"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "2",
+    "id_str": "1363945833310416903",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363945833310416903",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 22 20:16:42 +0000 2021",
+    "favorited": false,
+    "full_text": "This was an incredible session. Definitely helped me examine what I have been doing poorly. https://t.co/LhkvP1wpzS",
+    "lang": "en"
+  }
+}

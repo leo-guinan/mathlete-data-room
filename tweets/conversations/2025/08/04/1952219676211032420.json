@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1952219676211032420"
+        ],
+        "editableUntil": "2025-08-04T05:06:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "creekseeker",
+          "screen_name": "mudscryer",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1864508358444896262",
+          "id": "1864508358444896262"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1952219676211032420/photo/1",
+          "indices": [
+            "290",
+            "313"
+          ],
+          "url": "https://t.co/8vx93YxDfh",
+          "media_url": "http://pbs.twimg.com/media/GxetHbwWcAAjQoK.png",
+          "id_str": "1952219306709643264",
+          "id": "1952219306709643264",
+          "media_url_https": "https://pbs.twimg.com/media/GxetHbwWcAAjQoK.png",
+          "sizes": {
+            "large": {
+              "w": "1766",
+              "h": "288",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "111",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "196",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/8vx93YxDfh"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "313"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1952217172157276520",
+    "id_str": "1952219676211032420",
+    "in_reply_to_user_id": "1864508358444896262",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1952219676211032420",
+    "in_reply_to_status_id": "1952217172157276520",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 04 04:06:55 +0000 2025",
+    "favorited": false,
+    "full_text": "@mudscryer What if I told you there's a process to help you answer any question you have?\n\nI've developed a ritual that will give you the answer you seek.\n\nI've always prided myself on the fact that I'm the person to go to for the answers you can't get anywhere else, and now I've figured… https://t.co/8vx93YxDfh",
+    "lang": "en",
+    "in_reply_to_screen_name": "mudscryer",
+    "in_reply_to_user_id_str": "1864508358444896262",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1952219676211032420/photo/1",
+          "indices": [
+            "290",
+            "313"
+          ],
+          "url": "https://t.co/8vx93YxDfh",
+          "media_url": "http://pbs.twimg.com/media/GxetHbwWcAAjQoK.png",
+          "id_str": "1952219306709643264",
+          "id": "1952219306709643264",
+          "media_url_https": "https://pbs.twimg.com/media/GxetHbwWcAAjQoK.png",
+          "sizes": {
+            "large": {
+              "w": "1766",
+              "h": "288",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "111",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "196",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/8vx93YxDfh"
+        }
+      ]
+    }
+  }
+}

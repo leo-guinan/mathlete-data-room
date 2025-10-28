@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1547317739592814592"
+        ],
+        "editableUntil": "2022-07-13T21:01:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "MICHAEL",
+          "screen_name": "awemik",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "936916597",
+          "id": "936916597"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1547317739592814592/photo/1",
+          "indices": [
+            "8",
+            "31"
+          ],
+          "url": "https://t.co/v3yFW0rSnT",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FXktR5oXoAIupbk.jpg",
+          "id_str": "1547317732529643522",
+          "id": "1547317732529643522",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXktR5oXoAIupbk.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/v3yFW0rSnT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "31"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1547267141371559937",
+    "id_str": "1547317739592814592",
+    "in_reply_to_user_id": "936916597",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1547317739592814592",
+    "in_reply_to_status_id": "1547267141371559937",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 13 20:31:11 +0000 2022",
+    "favorited": false,
+    "full_text": "@awemik https://t.co/v3yFW0rSnT",
+    "lang": "qme",
+    "in_reply_to_screen_name": "awemik",
+    "in_reply_to_user_id_str": "936916597",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1547317739592814592/photo/1",
+          "indices": [
+            "8",
+            "31"
+          ],
+          "url": "https://t.co/v3yFW0rSnT",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FXktR5oXoAIupbk.jpg",
+          "id_str": "1547317732529643522",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "140"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FXktR5oXoAIupbk.mp4"
+              }
+            ]
+          },
+          "id": "1547317732529643522",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXktR5oXoAIupbk.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/v3yFW0rSnT"
+        }
+      ]
+    }
+  }
+}

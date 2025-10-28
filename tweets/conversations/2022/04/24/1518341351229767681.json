@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1518341351229767681"
+        ],
+        "editableUntil": "2022-04-24T21:59:22.208Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Rodrigo Rocco 👨‍💻📈📗 from JobBoardSearch 🔎",
+          "screen_name": "rrmdp",
+          "indices": [
+            "11",
+            "17"
+          ],
+          "id_str": "48645106",
+          "id": "48645106"
+        },
+        {
+          "name": "Wizen Guides",
+          "screen_name": "WizenGuides",
+          "indices": [
+            "18",
+            "30"
+          ],
+          "id_str": "1495551813046652932",
+          "id": "1495551813046652932"
+        },
+        {
+          "name": "Anthony Castrio",
+          "screen_name": "AnthonyCastrio",
+          "indices": [
+            "31",
+            "46"
+          ],
+          "id_str": "1309141400",
+          "id": "1309141400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1518323783433703425",
+    "id_str": "1518341351229767681",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1518341351229767681",
+    "in_reply_to_status_id": "1518323783433703425",
+    "created_at": "Sun Apr 24 21:29:22 +0000 2022",
+    "favorited": false,
+    "full_text": "@NotechAna @rrmdp @WizenGuides @AnthonyCastrio Looks like using the www. Subdomain is what's broken.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

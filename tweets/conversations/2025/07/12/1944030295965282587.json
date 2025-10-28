@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1944030295965282587"
+        ],
+        "editableUntil": "2025-07-12T14:45:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944030295965282587/photo/1",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/RJPySNlyyJ",
+          "media_url": "http://pbs.twimg.com/media/GvqVPp5WcAEYsap.jpg",
+          "id_str": "1944030285340766209",
+          "id": "1944030285340766209",
+          "media_url_https": "https://pbs.twimg.com/media/GvqVPp5WcAEYsap.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "636",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "700",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "361",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RJPySNlyyJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1944030165559853564",
+    "id_str": "1944030295965282587",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1944030295965282587",
+    "in_reply_to_status_id": "1944030165559853564",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 12 13:45:15 +0000 2025",
+    "favorited": false,
+    "full_text": "Level 3 is disconnected from reality. https://t.co/RJPySNlyyJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944030295965282587/photo/1",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/RJPySNlyyJ",
+          "media_url": "http://pbs.twimg.com/media/GvqVPp5WcAEYsap.jpg",
+          "id_str": "1944030285340766209",
+          "id": "1944030285340766209",
+          "media_url_https": "https://pbs.twimg.com/media/GvqVPp5WcAEYsap.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "636",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "700",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "361",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RJPySNlyyJ"
+        }
+      ]
+    }
+  }
+}

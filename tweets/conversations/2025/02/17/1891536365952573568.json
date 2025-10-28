@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1891536365952573568"
+        ],
+        "editableUntil": "2025-02-17T18:13:07.346Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Christopher C. Smith",
+          "screen_name": "christophcsmith",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "707078994852622336",
+          "id": "707078994852622336"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "117"
+    ],
+    "favorite_count": "0",
+    "id_str": "1891536365952573568",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1891536365952573568",
+    "created_at": "Mon Feb 17 17:13:07 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @christophcsmith: Python is basically natural language pseudocode that actually runs, and I think that's beautiful",
+    "lang": "en"
+  }
+}

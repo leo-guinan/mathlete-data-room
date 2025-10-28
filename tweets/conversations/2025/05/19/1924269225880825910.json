@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1924269225880825910"
+        ],
+        "editableUntil": "2025-05-19T02:01:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Louis Arge",
+          "screen_name": "louisvarge",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1637387340665561090",
+          "id": "1637387340665561090"
+        },
+        {
+          "name": "Liv Boeree",
+          "screen_name": "Liv_Boeree",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "25422302",
+          "id": "25422302"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "64"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1924252632266195021",
+    "id_str": "1924269225880825910",
+    "in_reply_to_user_id": "1637387340665561090",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1924269225880825910",
+    "in_reply_to_status_id": "1924252632266195021",
+    "created_at": "Mon May 19 01:01:49 +0000 2025",
+    "favorited": false,
+    "full_text": "@louisvarge Cc: @Liv_Boeree might be an avenue for pork as well.",
+    "lang": "en",
+    "in_reply_to_screen_name": "louisvarge",
+    "in_reply_to_user_id_str": "1637387340665561090"
+  }
+}

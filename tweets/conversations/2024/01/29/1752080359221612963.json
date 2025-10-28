@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1752080359221612963"
+        ],
+        "editableUntil": "2024-01-29T22:24:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Cuban",
+          "screen_name": "mcuban",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "16228398",
+          "id": "16228398"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "178"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1752055364307091936",
+    "id_str": "1752080359221612963",
+    "in_reply_to_user_id": "16228398",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1752080359221612963",
+    "in_reply_to_status_id": "1752055364307091936",
+    "created_at": "Mon Jan 29 21:24:44 +0000 2024",
+    "favorited": false,
+    "full_text": "@mcuban Any interest in helping build out quantum economic social structures that will help us overcome existing social problems?\n\nSent you an email with more details if you are.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mcuban",
+    "in_reply_to_user_id_str": "16228398"
+  }
+}

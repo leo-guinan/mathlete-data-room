@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1478425241697271813"
+        ],
+        "editableUntil": "2022-01-04T18:57:00.090Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dq9VRIQHo8",
+          "expanded_url": "https://x.com/ADDeeCee/status/1477998649498030080",
+          "display_url": "x.com/ADDeeCee/statu…",
+          "indices": [
+            "29",
+            "52"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "1",
+    "id_str": "1478425241697271813",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1478425241697271813",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 04 17:57:00 +0000 2022",
+    "favorited": false,
+    "full_text": "This hits really hard today. https://t.co/dq9VRIQHo8",
+    "lang": "en"
+  }
+}

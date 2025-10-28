@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1612949494395506688"
+        ],
+        "editableUntil": "2023-01-10T23:38:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MaxedOutSolar 🛠️",
+          "screen_name": "maxedoutsolar",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1311209826568089601",
+          "id": "1311209826568089601"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "245"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1612919630330208264",
+    "id_str": "1612949494395506688",
+    "in_reply_to_user_id": "1311209826568089601",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1612949494395506688",
+    "in_reply_to_status_id": "1612919630330208264",
+    "created_at": "Tue Jan 10 23:08:21 +0000 2023",
+    "favorited": false,
+    "full_text": "@maxedoutsolar Glad you like it! It's definitely served me well, even though it doesn't always feel like it. It can be a lot of work to dig into everything and it feels like I'm moving slowly, until all of a sudden, I can make a ton of progress.",
+    "lang": "en",
+    "in_reply_to_screen_name": "maxedoutsolar",
+    "in_reply_to_user_id_str": "1311209826568089601"
+  }
+}

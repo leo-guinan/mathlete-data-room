@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1355137960698634241"
+        ],
+        "editableUntil": "2021-01-29T13:57:21.733Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/kCOqIaI8le",
+          "expanded_url": "http://definet.dev",
+          "display_url": "definet.dev",
+          "indices": [
+            "211",
+            "234"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1355136445174968327",
+    "id_str": "1355137960698634241",
+    "in_reply_to_user_id": "1328708323961692160",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1355137960698634241",
+    "in_reply_to_status_id": "1355136445174968327",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 29 12:57:21 +0000 2021",
+    "favorited": false,
+    "full_text": "@_noliability Ha, unfortunately I do not. I actually was going to join yesterday until I realized it is iphone only. Maybe when they come to android. But I have some new stuff coming out in the next few days on https://t.co/kCOqIaI8le. we would love to get you on as a subscriber",
+    "lang": "en",
+    "in_reply_to_screen_name": "noliability_",
+    "in_reply_to_user_id_str": "1328708323961692160"
+  }
+}

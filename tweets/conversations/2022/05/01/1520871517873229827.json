@@ -1,0 +1,75 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520871517873229827"
+        ],
+        "editableUntil": "2022-05-01T22:03:20.944Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "47",
+            "54"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "26",
+            "37"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pxag4BTNBr",
+          "expanded_url": "https://vm.tiktok.com/ZTdqCJryW/",
+          "display_url": "vm.tiktok.com/ZTdqCJryW/",
+          "indices": [
+            "55",
+            "78"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "78"
+    ],
+    "favorite_count": "0",
+    "id_str": "1520871517873229827",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520871517873229827",
+    "possibly_sensitive": false,
+    "created_at": "Sun May 01 21:03:20 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Check out @LobowSPARK's video! #TikTok https://t.co/pxag4BTNBr",
+    "lang": "en"
+  }
+}

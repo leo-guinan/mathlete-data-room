@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1585058839749353473"
+        ],
+        "editableUntil": "2022-10-26T00:30:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mHAQJusu9c",
+          "expanded_url": "https://x.com/i/spaces/1lDGLnDPLMzxm",
+          "display_url": "x.com/i/spaces/1lDGL…",
+          "indices": [
+            "27",
+            "50"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "id_str": "1585058839749353473",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1585058839749353473",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 26 00:00:51 +0000 2022",
+    "favorited": false,
+    "full_text": "We are live! Come join us!\nhttps://t.co/mHAQJusu9c",
+    "lang": "en"
+  }
+}

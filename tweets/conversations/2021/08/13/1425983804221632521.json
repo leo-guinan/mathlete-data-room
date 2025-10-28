@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425983804221632521"
+        ],
+        "editableUntil": "2021-08-13T01:53:27.081Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick akey",
+          "screen_name": "nick_akey",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1412540154825302017",
+          "id": "1412540154825302017"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "263"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1425982786888945665",
+    "id_str": "1425983804221632521",
+    "in_reply_to_user_id": "1412540154825302017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425983804221632521",
+    "in_reply_to_status_id": "1425982786888945665",
+    "created_at": "Fri Aug 13 00:53:27 +0000 2021",
+    "favorited": false,
+    "full_text": "@nick_akey Same. I got lucky early in my career and got to learn from some amazing people. Then I left for greener pastures (and a 40% pay raise) only to figure out how much I missed learning from those kinds of people. Won't go back to a place like that again...",
+    "lang": "en",
+    "in_reply_to_screen_name": "nick_akey",
+    "in_reply_to_user_id_str": "1412540154825302017"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363558137710727180"
+        ],
+        "editableUntil": "2021-02-21T19:36:08.372Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kota Andrés",
+          "screen_name": "KOTAstewart",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "113972167",
+          "id": "113972167"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1363558137710727180",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363558137710727180",
+    "created_at": "Sun Feb 21 18:36:08 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @KOTAstewart: 46 days until our first official game this year. You know what that means? We count down the days with all 46 2020 champio…",
+    "lang": "en"
+  }
+}

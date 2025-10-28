@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1818325153966633190"
+        ],
+        "editableUntil": "2024-07-30T17:37:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/rdKNU9k5xB",
+          "expanded_url": "https://x.com/leo_guinan/status/1818305416511529371",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "39",
+            "62"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1818325151672643723",
+    "id_str": "1818325153966633190",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1818325153966633190",
+    "in_reply_to_status_id": "1818325151672643723",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 30 16:37:54 +0000 2024",
+    "favorited": false,
+    "full_text": "Exactly what I was talking about here:\nhttps://t.co/rdKNU9k5xB",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

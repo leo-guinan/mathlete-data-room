@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1609597609756303362"
+        ],
+        "editableUntil": "2023-01-01T17:39:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chikodi",
+          "screen_name": "Chikodi",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "12993762",
+          "id": "12993762"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1609441716440043520",
+    "id_str": "1609597609756303362",
+    "in_reply_to_user_id": "12993762",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1609597609756303362",
+    "in_reply_to_status_id": "1609441716440043520",
+    "created_at": "Sun Jan 01 17:09:09 +0000 2023",
+    "favorited": false,
+    "full_text": "@Chikodi In general, the future.\n\nI've been mapping out where things are heading and what individuals, communities, and businesses should think about and prepare for.\n\nThe current rate of change is increasing constantly, so new mindsets and approaches will be needed to adapt",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chikodi",
+    "in_reply_to_user_id_str": "12993762"
+  }
+}

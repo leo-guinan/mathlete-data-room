@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1641804145576357895"
+        ],
+        "editableUntil": "2023-03-31T14:36:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Harri Thomas",
+          "screen_name": "harri_thomas",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "550027794",
+          "id": "550027794"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1641803853438894080",
+    "id_str": "1641804145576357895",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1641804145576357895",
+    "in_reply_to_status_id": "1641803853438894080",
+    "created_at": "Fri Mar 31 14:06:26 +0000 2023",
+    "favorited": false,
+    "full_text": "@harri_thomas This is actually what Twitter kind of did right. Instead of Facebook, where it was a mutual thing, Twitter made it possible for unbalanced relationships, so you could follow people who had no idea who you were.\n\nBut they did it in a way that polluted the incentive structure.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

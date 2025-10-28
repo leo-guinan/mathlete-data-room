@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895856720598950059"
+        ],
+        "editableUntil": "2025-03-01T16:20:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "active resonator",
+          "screen_name": "loopholekid",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1915273423",
+          "id": "1915273423"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1895854979556262187",
+    "id_str": "1895856720598950059",
+    "in_reply_to_user_id": "1915273423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895856720598950059",
+    "in_reply_to_status_id": "1895854979556262187",
+    "created_at": "Sat Mar 01 15:20:40 +0000 2025",
+    "favorited": false,
+    "full_text": "@loopholekid Definitely is abstracted, but I'm not sure it can really be addressed without fixing the root problem.\n\nI don't think it's possible with the way wages are structured, honestly. That's the reason I'm trying to flesh this model out as much as possible as quickly as possible.…",
+    "lang": "en",
+    "in_reply_to_screen_name": "loopholekid",
+    "in_reply_to_user_id_str": "1915273423"
+  }
+}

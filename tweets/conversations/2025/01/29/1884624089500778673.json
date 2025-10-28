@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1884624089500778673"
+        ],
+        "editableUntil": "2025-01-29T16:26:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "44",
+            "57"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "267"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1884605108484522028",
+    "id_str": "1884624089500778673",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1884624089500778673",
+    "in_reply_to_status_id": "1884605108484522028",
+    "created_at": "Wed Jan 29 15:26:12 +0000 2025",
+    "favorited": false,
+    "full_text": "@reddy2go You should try out IndieParrot by @jessyka_boat. Talk into a microphone for 20-30 minutes and she'll turn it into a newsletter for you.\n\nHas helped me create a process that I don't have to worry about with my latest newsletter. \n\nMight find that more fun :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972"
+  }
+}

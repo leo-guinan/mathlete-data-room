@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1458841346060402691"
+        ],
+        "editableUntil": "2021-11-11T17:57:35.519Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1458841346060402691/photo/1",
+          "indices": [
+            "123",
+            "146"
+          ],
+          "url": "https://t.co/EonOzBhCGp",
+          "media_url": "http://pbs.twimg.com/media/FD7YeQoVgAEV_Yk.jpg",
+          "id_str": "1458841343686443009",
+          "id": "1458841343686443009",
+          "media_url_https": "https://pbs.twimg.com/media/FD7YeQoVgAEV_Yk.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EonOzBhCGp"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "10",
+    "id_str": "1458841346060402691",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1458841346060402691",
+    "possibly_sensitive": false,
+    "created_at": "Thu Nov 11 16:57:35 +0000 2021",
+    "favorited": false,
+    "full_text": "Not a bad view last night. \n\nHad a blast my first time in SF. Looking forward to coming back. But time to head home today. https://t.co/EonOzBhCGp",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1458841346060402691/photo/1",
+          "indices": [
+            "123",
+            "146"
+          ],
+          "url": "https://t.co/EonOzBhCGp",
+          "media_url": "http://pbs.twimg.com/media/FD7YeQoVgAEV_Yk.jpg",
+          "id_str": "1458841343686443009",
+          "id": "1458841343686443009",
+          "media_url_https": "https://pbs.twimg.com/media/FD7YeQoVgAEV_Yk.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EonOzBhCGp"
+        }
+      ]
+    }
+  }
+}

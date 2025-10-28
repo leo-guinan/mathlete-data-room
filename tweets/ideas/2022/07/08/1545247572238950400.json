@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545247572238950400"
+        ],
+        "editableUntil": "2022-07-08T03:55:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "5",
+    "id_str": "1545247572238950400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545247572238950400",
+    "created_at": "Fri Jul 08 03:25:05 +0000 2022",
+    "favorited": false,
+    "full_text": "Prepping for beta launch of new tool tomorrow.\n\nOne issue I've got to figure out:\nI want to transfer data from my local postgres database to my prod database.\n\nDon't want to have to duplicate all the lookups via the Twitter API due to limits.",
+    "lang": "en"
+  }
+}

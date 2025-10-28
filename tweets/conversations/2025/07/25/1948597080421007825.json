@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1948597080421007825"
+        ],
+        "editableUntil": "2025-07-25T05:12:01.812Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "92",
+            "103"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "103"
+    ],
+    "favorite_count": "0",
+    "id_str": "1948597080421007825",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1948597080421007825",
+    "created_at": "Fri Jul 25 04:12:01 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @jessyka_boat: 5 laws I’m going  live by in an age of the internet boom 3.0\n\nGreat share @leo_guinan",
+    "lang": "en"
+  }
+}

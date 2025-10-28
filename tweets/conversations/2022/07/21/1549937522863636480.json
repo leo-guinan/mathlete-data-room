@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1549937522863636480"
+        ],
+        "editableUntil": "2022-07-21T02:31:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1549901504550674432",
+    "id_str": "1549937522863636480",
+    "in_reply_to_user_id": "1383553628888211456",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1549937522863636480",
+    "in_reply_to_status_id": "1549901504550674432",
+    "created_at": "Thu Jul 21 02:01:16 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark @NoDegreeDotCom Oh yeah it will!\n\nBecause we don't do anything that isn't. 😎",
+    "lang": "en",
+    "in_reply_to_screen_name": "LobowSpark",
+    "in_reply_to_user_id_str": "1383553628888211456"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1725720552214528384"
+        ],
+        "editableUntil": "2023-11-18T04:40:16.642Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "0",
+    "id_str": "1725720552214528384",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1725720552214528384",
+    "created_at": "Sat Nov 18 03:40:16 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @p_millerd: my free copy of the pathless path offer is still open to ALL employees that get laid off or fired in tech",
+    "lang": "en"
+  }
+}

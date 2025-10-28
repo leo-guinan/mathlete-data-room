@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1467146456800940034"
+        ],
+        "editableUntil": "2021-12-04T15:59:08.221Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DouglasAdams",
+          "indices": [
+            "89",
+            "102"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Douglas Adams Bot",
+          "screen_name": "DirkGently_Bot",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2355096816",
+          "id": "2355096816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "102"
+    ],
+    "favorite_count": "0",
+    "id_str": "1467146456800940034",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1467146456800940034",
+    "created_at": "Sat Dec 04 14:59:08 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @DirkGently_Bot: \"I don't believe it. Prove it to me and I still won't believe it.\" - #DouglasAdams",
+    "lang": "en"
+  }
+}

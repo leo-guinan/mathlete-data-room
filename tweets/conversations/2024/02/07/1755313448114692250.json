@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1755313448114692250"
+        ],
+        "editableUntil": "2024-02-07T20:31:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anna Gát 🧭",
+          "screen_name": "TheAnnaGat",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "22073831",
+          "id": "22073831"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1755297824613302312",
+    "id_str": "1755313448114692250",
+    "in_reply_to_user_id": "22073831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1755313448114692250",
+    "in_reply_to_status_id": "1755297824613302312",
+    "created_at": "Wed Feb 07 19:31:52 +0000 2024",
+    "favorited": false,
+    "full_text": "@TheAnnaGat I am people like that.\n\nActually, I kinda think all of us are.\n\nSome just more noticeably than others.",
+    "lang": "en",
+    "in_reply_to_screen_name": "TheAnnaGat",
+    "in_reply_to_user_id_str": "22073831"
+  }
+}

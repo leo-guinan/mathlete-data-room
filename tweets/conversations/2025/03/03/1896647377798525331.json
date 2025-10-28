@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1896647377798525331"
+        ],
+        "editableUntil": "2025-03-03T20:42:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Noah Smith 🐇",
+          "screen_name": "Noahpinion",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "281877818",
+          "id": "281877818"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4KtyNN52mJ",
+          "expanded_url": "https://www.buildinpublicuniversity.com/complexity-inflation-the-hidden-economics-of-scaling/",
+          "display_url": "buildinpublicuniversity.com/complexity-inf…",
+          "indices": [
+            "205",
+            "228"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "228"
+    ],
+    "favorite_count": "14",
+    "in_reply_to_status_id_str": "1896644550883766378",
+    "id_str": "1896647377798525331",
+    "in_reply_to_user_id": "281877818",
+    "truncated": false,
+    "retweet_count": "3",
+    "id": "1896647377798525331",
+    "in_reply_to_status_id": "1896644550883766378",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 03 19:42:27 +0000 2025",
+    "favorited": false,
+    "full_text": "@Noahpinion I prefer the term complexity inflation, actually. It's where the system gets larger and more complex, but the amount of value created goes down. Here's a post outlining my research around it.\n\nhttps://t.co/4KtyNN52mJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "Noahpinion",
+    "in_reply_to_user_id_str": "281877818"
+  }
+}

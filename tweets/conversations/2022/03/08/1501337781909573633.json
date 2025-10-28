@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1501337781909573633"
+        ],
+        "editableUntil": "2022-03-09T00:23:15.371Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Olivier",
+          "screen_name": "Olireiv",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1842436537889267713",
+          "id": "1842436537889267713"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1501240897656303618",
+    "id_str": "1501337781909573633",
+    "in_reply_to_user_id": "864179937347031040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1501337781909573633",
+    "in_reply_to_status_id": "1501240897656303618",
+    "created_at": "Tue Mar 08 23:23:15 +0000 2022",
+    "favorited": false,
+    "full_text": "@olireiv That's what I'm here for!😎",
+    "lang": "en",
+    "in_reply_to_user_id_str": "864179937347031040"
+  }
+}

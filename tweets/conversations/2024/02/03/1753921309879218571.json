@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1753921309879218571"
+        ],
+        "editableUntil": "2024-02-04T00:20:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dane Poyzer",
+          "screen_name": "DanePoyzer",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1712456763541245952",
+          "id": "1712456763541245952"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1753850774738600440",
+    "id_str": "1753921309879218571",
+    "in_reply_to_user_id": "1712456763541245952",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1753921309879218571",
+    "in_reply_to_status_id": "1753850774738600440",
+    "created_at": "Sat Feb 03 23:20:01 +0000 2024",
+    "favorited": false,
+    "full_text": "@DanePoyzer I think that's part of it. \n\nBut I also think there's something delightfully human in it. It's a coming together during a known hard situation. Most people don't see or understand 90% of the words that come out of my mouth, but that experience resonates.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DanePoyzer",
+    "in_reply_to_user_id_str": "1712456763541245952"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1771263691515686984"
+        ],
+        "editableUntil": "2024-03-22T20:52:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonny Miller",
+          "screen_name": "jonnym1ller",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "495347209",
+          "id": "495347209"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dKLXFRKpvh",
+          "expanded_url": "https://www.reddit.com/r/IAmA/comments/tl7pn/iama_24yo_electrical_engineer_with_magnets/",
+          "display_url": "reddit.com/r/IAmA/comment…",
+          "indices": [
+            "197",
+            "220"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "220"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1771262581656748349",
+    "id_str": "1771263691515686984",
+    "in_reply_to_user_id": "495347209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1771263691515686984",
+    "in_reply_to_status_id": "1771262581656748349",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 22 19:52:27 +0000 2024",
+    "favorited": false,
+    "full_text": "@jonnym1ller I've been trying to find the story of still detecting fields after being removed, and I haven't had luck yet.\n\nHere's a reddit thread that someone did about having the magnets though: https://t.co/dKLXFRKpvh",
+    "lang": "en",
+    "in_reply_to_screen_name": "jonnym1ller",
+    "in_reply_to_user_id_str": "495347209"
+  }
+}

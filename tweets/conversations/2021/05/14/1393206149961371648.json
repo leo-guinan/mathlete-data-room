@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1393206149961371648"
+        ],
+        "editableUntil": "2021-05-14T15:06:45.326Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Adam Rifkin 🐼🌻",
+          "screen_name": "ifindkarma",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1688",
+          "id": "1688"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ifindkarma/status/888408527525396481/photo/1",
+          "source_status_id": "888408527525396481",
+          "indices": [
+            "62",
+            "85"
+          ],
+          "url": "https://t.co/wZ3zUMcecT",
+          "media_url": "http://pbs.twimg.com/media/DFRCyFxU0AAuIHn.jpg",
+          "id_str": "888408454808784896",
+          "source_user_id": "1688",
+          "id": "888408454808784896",
+          "media_url_https": "https://pbs.twimg.com/media/DFRCyFxU0AAuIHn.jpg",
+          "source_user_id_str": "1688",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "640",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "640",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "640",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "888408527525396481",
+          "display_url": "pic.x.com/wZ3zUMcecT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "0",
+    "id_str": "1393206149961371648",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1393206149961371648",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 14 14:06:45 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ifindkarma: If you get tired, learn to rest, not to quit. https://t.co/wZ3zUMcecT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ifindkarma/status/888408527525396481/photo/1",
+          "source_status_id": "888408527525396481",
+          "indices": [
+            "62",
+            "85"
+          ],
+          "url": "https://t.co/wZ3zUMcecT",
+          "media_url": "http://pbs.twimg.com/media/DFRCyFxU0AAuIHn.jpg",
+          "id_str": "888408454808784896",
+          "source_user_id": "1688",
+          "id": "888408454808784896",
+          "media_url_https": "https://pbs.twimg.com/media/DFRCyFxU0AAuIHn.jpg",
+          "source_user_id_str": "1688",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "640",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "640",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "640",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "888408527525396481",
+          "display_url": "pic.x.com/wZ3zUMcecT"
+        }
+      ]
+    }
+  }
+}

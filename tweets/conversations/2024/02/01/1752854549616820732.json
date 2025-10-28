@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1752854549616820732"
+        ],
+        "editableUntil": "2024-02-01T01:41:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Abbe_Hyde",
+          "screen_name": "abbe_hyde",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1182965257104289792",
+          "id": "1182965257104289792"
+        },
+        {
+          "name": "Corey Wilks, Psy.D.",
+          "screen_name": "CoreyWilksPsyD",
+          "indices": [
+            "230",
+            "245"
+          ],
+          "id_str": "1246991611793420288",
+          "id": "1246991611793420288"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1752854171219345887",
+    "id_str": "1752854549616820732",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1752854549616820732",
+    "in_reply_to_status_id": "1752854171219345887",
+    "created_at": "Thu Feb 01 00:41:05 +0000 2024",
+    "favorited": false,
+    "full_text": "@abbe_hyde I also did the On Deck Course Creator fellowship, so I learned a lot about teaching and how people learn during that. It was my first taste of cohort learning and how powerful that can be. \n\nThat's actually where I met @CoreyWilksPsyD initially, now that I think about it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

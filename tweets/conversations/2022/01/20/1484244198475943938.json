@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1484244198475943938"
+        ],
+        "editableUntil": "2022-01-20T20:19:27.497Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Steven Tey",
+          "screen_name": "steventey",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "334173439",
+          "id": "334173439"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "30"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1484238227405901824",
+    "id_str": "1484244198475943938",
+    "in_reply_to_user_id": "334173439",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1484244198475943938",
+    "in_reply_to_status_id": "1484238227405901824",
+    "created_at": "Thu Jan 20 19:19:27 +0000 2022",
+    "favorited": false,
+    "full_text": "@steventey That looks awesome!",
+    "lang": "en",
+    "in_reply_to_screen_name": "steventey",
+    "in_reply_to_user_id_str": "334173439"
+  }
+}

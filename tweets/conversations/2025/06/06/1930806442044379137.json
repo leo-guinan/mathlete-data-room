@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930806442044379137"
+        ],
+        "editableUntil": "2025-06-06T02:58:23.089Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qxVpwxeCHj",
+          "expanded_url": "http://bolt.new",
+          "display_url": "bolt.new",
+          "indices": [
+            "24",
+            "47"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1930806442044379137",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930806442044379137",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 06 01:58:23 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @jessyka_boat: Day 6 https://t.co/qxVpwxeCHj coding night vlog (2). \n\nWe have Auth!!! Google sign in is up and running. It works. Only t…",
+    "lang": "en"
+  }
+}

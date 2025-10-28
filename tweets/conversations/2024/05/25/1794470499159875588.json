@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1794470499159875588"
+        ],
+        "editableUntil": "2024-05-25T21:48:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fed 🐻",
+          "screen_name": "foliofed",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1356783759559979008",
+          "id": "1356783759559979008"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "284"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1794468524494336468",
+    "id_str": "1794470499159875588",
+    "in_reply_to_user_id": "1356783759559979008",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1794470499159875588",
+    "in_reply_to_status_id": "1794468524494336468",
+    "created_at": "Sat May 25 20:48:01 +0000 2024",
+    "favorited": false,
+    "full_text": "@foliofed I was in England a few years ago for work and was talking to someone in a pub. He looked at me, laughed, and shook his head in the middle of our conversation. He then apologized and said he had just realized there were chairs in his family older than my country.\n\nI feel ya.",
+    "lang": "en",
+    "in_reply_to_screen_name": "foliofed",
+    "in_reply_to_user_id_str": "1356783759559979008"
+  }
+}

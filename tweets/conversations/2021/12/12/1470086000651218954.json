@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1470086000651218954"
+        ],
+        "editableUntil": "2021-12-12T18:39:50.089Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Tibo",
+          "screen_name": "tibo_maker",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "470129898",
+          "id": "470129898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1470008058180947979",
+    "id_str": "1470086000651218954",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1470086000651218954",
+    "in_reply_to_status_id": "1470008058180947979",
+    "created_at": "Sun Dec 12 17:39:50 +0000 2021",
+    "favorited": false,
+    "full_text": "@NotechAna @tibo_maker I think the entire point of education should be changed.\n\nIt shouldn't be about specifically what you learn.\n\nBut by the end of school, you should know your passion and you should know how you learn best. \n\nThose two things, and you will succeed in life.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

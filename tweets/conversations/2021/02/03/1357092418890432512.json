@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1357092418890432512"
+        ],
+        "editableUntil": "2021-02-03T23:23:40.878Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://erased16604984_uVWbCuV2CE.com\" rel=\"nofollow\">erased16604984_uVWbCuV2CE</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Del Johnson",
+          "screen_name": "DelJohnsonVC",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "815847044",
+          "id": "815847044"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JhjzjDuKvT",
+          "expanded_url": "https://definet.dev/subscribe-to-the-why/",
+          "display_url": "definet.dev/subscribe-to-t…",
+          "indices": [
+            "86",
+            "109"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "0",
+    "id_str": "1357092418890432512",
+    "in_reply_to_user_id": "815847044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1357092418890432512",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 03 22:23:40 +0000 2021",
+    "favorited": false,
+    "full_text": "@DelJohnsonVC would love to get your thoughts on the idea of a story-driven company.\n\nhttps://t.co/JhjzjDuKvT",
+    "lang": "en",
+    "in_reply_to_screen_name": "DelJohnsonVC",
+    "in_reply_to_user_id_str": "815847044"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940174468724236751"
+        ],
+        "editableUntil": "2025-07-01T23:23:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Robert Burleson",
+          "screen_name": "robstersauce",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1688280810237947904",
+          "id": "1688280810237947904"
+        },
+        {
+          "name": "Grok",
+          "screen_name": "grok",
+          "indices": [
+            "14",
+            "19"
+          ],
+          "id_str": "1720665183188922368",
+          "id": "1720665183188922368"
+        },
+        {
+          "name": "ned!",
+          "screen_name": "nedsore",
+          "indices": [
+            "20",
+            "28"
+          ],
+          "id_str": "1234659774014382081",
+          "id": "1234659774014382081"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "123"
+    ],
+    "favorite_count": "11",
+    "in_reply_to_status_id_str": "1940173394651005439",
+    "id_str": "1940174468724236751",
+    "in_reply_to_user_id": "1688280810237947904",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1940174468724236751",
+    "in_reply_to_status_id": "1940173394651005439",
+    "created_at": "Tue Jul 01 22:23:34 +0000 2025",
+    "favorited": false,
+    "full_text": "@robstersauce @grok @nedsore This is a real problem nobody is talking about.\n\nThe REAL nerds are being excluded everywhere!",
+    "lang": "en",
+    "in_reply_to_screen_name": "robstersauce",
+    "in_reply_to_user_id_str": "1688280810237947904"
+  }
+}

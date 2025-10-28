@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1913420296301801564"
+        ],
+        "editableUntil": "2025-04-19T03:32:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "alegator",
+          "screen_name": "alegator_cs",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1675589499223506944",
+          "id": "1675589499223506944"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1913420296301801564/photo/1",
+          "indices": [
+            "128",
+            "151"
+          ],
+          "url": "https://t.co/xeiFdpzpkr",
+          "media_url": "http://pbs.twimg.com/media/Go3VnW1XkAEqzvL.jpg",
+          "id_str": "1913420288823365633",
+          "id": "1913420288823365633",
+          "media_url_https": "https://pbs.twimg.com/media/Go3VnW1XkAEqzvL.jpg",
+          "sizes": {
+            "large": {
+              "w": "1312",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "140",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "247",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xeiFdpzpkr"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "151"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1913420020996096333",
+    "id_str": "1913420296301801564",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1913420296301801564",
+    "in_reply_to_status_id": "1913420020996096333",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 19 02:32:02 +0000 2025",
+    "favorited": false,
+    "full_text": "@alegator_cs But I am a brave soul, and I'm willing to venture beyond this first refusal.\n\nSo I had some follow up questions... https://t.co/xeiFdpzpkr",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1913420296301801564/photo/1",
+          "indices": [
+            "128",
+            "151"
+          ],
+          "url": "https://t.co/xeiFdpzpkr",
+          "media_url": "http://pbs.twimg.com/media/Go3VnW1XkAEqzvL.jpg",
+          "id_str": "1913420288823365633",
+          "id": "1913420288823365633",
+          "media_url_https": "https://pbs.twimg.com/media/Go3VnW1XkAEqzvL.jpg",
+          "sizes": {
+            "large": {
+              "w": "1312",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "140",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "247",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xeiFdpzpkr"
+        }
+      ]
+    }
+  }
+}

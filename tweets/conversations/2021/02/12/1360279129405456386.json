@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1360279129405456386"
+        ],
+        "editableUntil": "2021-02-12T18:26:31.871Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ann Bordetsky",
+          "screen_name": "annbordetsky",
+          "indices": [
+            "24",
+            "37"
+          ],
+          "id_str": "15075881",
+          "id": "15075881"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nLPvLG0DQx",
+          "expanded_url": "https://x.com/annbordetsky/status/1360114085296132098",
+          "display_url": "x.com/annbordetsky/s…",
+          "indices": [
+            "183",
+            "206"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "1",
+    "id_str": "1360279129405456386",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1360279129405456386",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 12 17:26:31 +0000 2021",
+    "favorited": false,
+    "full_text": "This thread is spot on. @annbordetsky expertly sums up a lot of the trends I noticed that led me to start @net_defi. There is a huge shift coming. We are in the beginning days of it. https://t.co/nLPvLG0DQx",
+    "lang": "en"
+  }
+}

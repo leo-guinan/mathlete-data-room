@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1550117684892733441"
+        ],
+        "editableUntil": "2022-07-21T14:27:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/YycpajzCO3",
+          "expanded_url": "http://whoshouldIunfollow.com",
+          "display_url": "whoshouldIunfollow.com",
+          "indices": [
+            "24",
+            "47"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "222"
+    ],
+    "favorite_count": "3",
+    "id_str": "1550117684892733441",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1550117684892733441",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 21 13:57:10 +0000 2022",
+    "favorited": false,
+    "full_text": "Got a few UX fixes into https://t.co/YycpajzCO3 last night. Updated the page for inputting beta codes to show when things were happening and update a lot faster without waiting for a page render to make the needed DB call.",
+    "lang": "en"
+  }
+}

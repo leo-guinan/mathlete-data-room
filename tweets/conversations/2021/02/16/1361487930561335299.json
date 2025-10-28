@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1361487930561335299"
+        ],
+        "editableUntil": "2021-02-16T02:29:52.525Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonathan Chang",
+          "screen_name": "thechangj",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1015813710",
+          "id": "1015813710"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1361487930561335299",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1361487930561335299",
+    "created_at": "Tue Feb 16 01:29:52 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @thechangj: I’ll be on Clubhouse tomorrow talking about breaking into VC as a GenZ hosted by @genzscout. S/o @yoshimura_ami for being ou…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486500361674317824"
+        ],
+        "editableUntil": "2022-01-27T01:44:38.721Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "YouTube",
+          "indices": [
+            "4",
+            "12"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "72",
+            "80"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gYhLJQEGWF",
+          "expanded_url": "https://youtu.be/OpaW62rrtts",
+          "display_url": "youtu.be/OpaW62rrtts",
+          "indices": [
+            "44",
+            "67"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "2",
+    "id_str": "1486500361674317824",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1486500361674317824",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 27 00:44:38 +0000 2022",
+    "favorited": false,
+    "full_text": "New #YouTube video\n\nWho Owns Your Audience? https://t.co/gYhLJQEGWF via @YouTube",
+    "lang": "en"
+  }
+}

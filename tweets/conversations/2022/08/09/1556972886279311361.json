@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1556972886279311361"
+        ],
+        "editableUntil": "2022-08-09T12:27:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1556830411057250304",
+    "id_str": "1556972886279311361",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1556972886279311361",
+    "in_reply_to_status_id": "1556830411057250304",
+    "created_at": "Tue Aug 09 11:57:17 +0000 2022",
+    "favorited": false,
+    "full_text": "@markyerkes1734 Well, I'm at the truck hit me part of it.\n\nWife seems to be feeling a bit better.\n\n7 year old seems fine except for an occasional really nasty cough\n\nAnd 10 year old is 100% fine so far.\n\nHoping I can hit the upswing in the next day or two.",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939"
+  }
+}

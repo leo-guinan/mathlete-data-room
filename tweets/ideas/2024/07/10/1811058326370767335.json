@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811058326370767335"
+        ],
+        "editableUntil": "2024-07-10T16:22:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hGewMS86u8",
+          "expanded_url": "https://x.com/JoeBiden/status/1810713053886890161",
+          "display_url": "x.com/JoeBiden/statu…",
+          "indices": [
+            "30",
+            "53"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "53"
+    ],
+    "favorite_count": "0",
+    "id_str": "1811058326370767335",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1811058326370767335",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 10 15:22:07 +0000 2024",
+    "favorited": false,
+    "full_text": "Google Engineering Generosity https://t.co/hGewMS86u8",
+    "lang": "en"
+  }
+}

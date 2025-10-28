@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371509378071855105"
+        ],
+        "editableUntil": "2021-03-15T18:11:31.801Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Deep Thrill",
+          "screen_name": "DeeperThrill",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2252943488",
+          "id": "2252943488"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "64"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1371506890450989059",
+    "id_str": "1371509378071855105",
+    "in_reply_to_user_id": "2252943488",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371509378071855105",
+    "in_reply_to_status_id": "1371506890450989059",
+    "created_at": "Mon Mar 15 17:11:31 +0000 2021",
+    "favorited": false,
+    "full_text": "@DeeperThrill Awesome! I will follow along to see how it goes! 🙂",
+    "lang": "en",
+    "in_reply_to_screen_name": "DeeperThrill",
+    "in_reply_to_user_id_str": "2252943488"
+  }
+}

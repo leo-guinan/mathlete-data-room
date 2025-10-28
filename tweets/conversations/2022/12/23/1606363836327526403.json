@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1606363836327526403"
+        ],
+        "editableUntil": "2022-12-23T19:29:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "43",
+            "56"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        },
+        {
+          "name": "Nick Huber",
+          "screen_name": "sweatystartup",
+          "indices": [
+            "66",
+            "80"
+          ],
+          "id_str": "1067927682023915521",
+          "id": "1067927682023915521"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "2",
+    "id_str": "1606363836327526403",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1606363836327526403",
+    "created_at": "Fri Dec 23 18:59:18 +0000 2022",
+    "favorited": false,
+    "full_text": "I listened to the new @_trwih episode that @gregisenberg did with @sweatystartup and one of the ideas that they talked about was how to identify local business opportunities.\n\nAnd then I was presented with a scenario that came up that made me start wondering about things.",
+    "lang": "en"
+  }
+}

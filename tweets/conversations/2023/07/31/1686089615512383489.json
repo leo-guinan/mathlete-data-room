@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1686089615512383489"
+        ],
+        "editableUntil": "2023-07-31T20:01:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "GrahamTheDev",
+          "screen_name": "GrahamTheDev",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1293638636550983680",
+          "id": "1293638636550983680"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/peCg1P8vGR",
+          "expanded_url": "https://app.copy.ai/workflows/PKGW-4b42dfe0-1c1b-4522-823a-8d159166ec17/form",
+          "display_url": "app.copy.ai/workflows/PKGW…",
+          "indices": [
+            "139",
+            "162"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "162"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1686066016432828416",
+    "id_str": "1686089615512383489",
+    "in_reply_to_user_id": "1293638636550983680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1686089615512383489",
+    "in_reply_to_status_id": "1686066016432828416",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 31 19:01:05 +0000 2023",
+    "favorited": false,
+    "full_text": "@GrahamTheDev haha, love it!\n\nAlso, I made a little tool that can also generate them. Anyone who needs to improve their resume, have fun!\n\nhttps://t.co/peCg1P8vGR",
+    "lang": "en",
+    "in_reply_to_screen_name": "GrahamTheDev",
+    "in_reply_to_user_id_str": "1293638636550983680"
+  }
+}

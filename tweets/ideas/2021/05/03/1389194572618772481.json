@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1389194572618772481"
+        ],
+        "editableUntil": "2021-05-03T13:26:10.756Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XpCiREvQDQ",
+          "expanded_url": "https://nft-store.vercel.app/",
+          "display_url": "nft-store.vercel.app",
+          "indices": [
+            "218",
+            "241"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "241"
+    ],
+    "favorite_count": "1",
+    "id_str": "1389194572618772481",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1389194572618772481",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 03 12:26:10 +0000 2021",
+    "favorited": false,
+    "full_text": "Currently deploying the new version of @net_defi \n\nI have it working with the stripe webhooks locally, just need to test it running in a prod environment and then switch it over to live. Feel free to take a look here: https://t.co/XpCiREvQDQ",
+    "lang": "en"
+  }
+}

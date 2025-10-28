@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1884300243745063130"
+        ],
+        "editableUntil": "2025-01-28T18:59:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anthony Scaramucci",
+          "screen_name": "Scaramucci",
+          "indices": [
+            "95",
+            "106"
+          ],
+          "id_str": "24578794",
+          "id": "24578794"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Kq1QVGo5W3",
+          "expanded_url": "https://x.com/iamjasonlevin/status/1884267328025813108",
+          "display_url": "x.com/iamjasonlevin/…",
+          "indices": [
+            "110",
+            "133"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1884300243745063130",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1884300243745063130",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 28 17:59:21 +0000 2025",
+    "favorited": false,
+    "full_text": "Me on calls from now on: \"Yeah, I can get that done for 2.5 DeepSeeks and it will take about 2 @Scaramucci's\" https://t.co/Kq1QVGo5W3",
+    "lang": "en"
+  }
+}

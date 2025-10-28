@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363537028537872397"
+        ],
+        "editableUntil": "2021-02-21T18:12:15.553Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dTnxxGVG5W",
+          "expanded_url": "https://www.amazon.com/dp/0727883887/ref=cm_sw_r_cp_awdb_imm_M940V9KSMHGMQYNYC07E",
+          "display_url": "amazon.com/dp/0727883887/…",
+          "indices": [
+            "17",
+            "40"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "40"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1363528370252873728",
+    "id_str": "1363537028537872397",
+    "in_reply_to_user_id": "835209278600450054",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363537028537872397",
+    "in_reply_to_status_id": "1363528370252873728",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 21 17:12:15 +0000 2021",
+    "favorited": false,
+    "full_text": "@ellle_em Maybe? https://t.co/dTnxxGVG5W",
+    "lang": "en",
+    "in_reply_to_user_id_str": "835209278600450054"
+  }
+}

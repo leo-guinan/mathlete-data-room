@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1966850507190010020"
+        ],
+        "editableUntil": "2025-09-13T14:04:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matthew Pirkowski",
+          "screen_name": "MattPirkowski",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "15614600",
+          "id": "15614600"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ThjCiVZwEG",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/papers/Network%20Relativity/Network%20Relativity%20Theory.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "48",
+            "71"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "71"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1966599417072656804",
+    "id_str": "1966850507190010020",
+    "in_reply_to_user_id": "15614600",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1966850507190010020",
+    "in_reply_to_status_id": "1966599417072656804",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 13 13:04:37 +0000 2025",
+    "favorited": false,
+    "full_text": "@MattPirkowski You’ll enjoy this paper I think: https://t.co/ThjCiVZwEG",
+    "lang": "en",
+    "in_reply_to_screen_name": "MattPirkowski",
+    "in_reply_to_user_id_str": "15614600"
+  }
+}

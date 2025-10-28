@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327996665572241409"
+        ],
+        "editableUntil": "2020-11-15T16:27:32.714Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Anna Merlan",
+          "screen_name": "annamerlan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "112017297",
+          "id": "112017297"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/annamerlan/status/1327819823707992064/photo/1",
+          "source_status_id": "1327819823707992064",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/PRFP19lUc8",
+          "media_url": "http://pbs.twimg.com/media/Em1dFujXMAEkAZS.jpg",
+          "id_str": "1327819818121244673",
+          "source_user_id": "112017297",
+          "id": "1327819818121244673",
+          "media_url_https": "https://pbs.twimg.com/media/Em1dFujXMAEkAZS.jpg",
+          "source_user_id_str": "112017297",
+          "sizes": {
+            "medium": {
+              "w": "750",
+              "h": "783",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "750",
+              "h": "783",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "651",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1327819823707992064",
+          "display_url": "pic.x.com/PRFP19lUc8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "0",
+    "id_str": "1327996665572241409",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327996665572241409",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 15:27:32 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @annamerlan: The perfect Craigslist gig doesn’t exi- https://t.co/PRFP19lUc8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/annamerlan/status/1327819823707992064/photo/1",
+          "source_status_id": "1327819823707992064",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/PRFP19lUc8",
+          "media_url": "http://pbs.twimg.com/media/Em1dFujXMAEkAZS.jpg",
+          "id_str": "1327819818121244673",
+          "source_user_id": "112017297",
+          "id": "1327819818121244673",
+          "media_url_https": "https://pbs.twimg.com/media/Em1dFujXMAEkAZS.jpg",
+          "source_user_id_str": "112017297",
+          "sizes": {
+            "medium": {
+              "w": "750",
+              "h": "783",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "750",
+              "h": "783",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "651",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1327819823707992064",
+          "display_url": "pic.x.com/PRFP19lUc8"
+        }
+      ]
+    }
+  }
+}

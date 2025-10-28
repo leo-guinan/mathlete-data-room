@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941184994917154980"
+        ],
+        "editableUntil": "2025-07-04T18:19:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        },
+        {
+          "name": "kache",
+          "screen_name": "yacineMTB",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "1173552893003255808",
+          "id": "1173552893003255808"
+        },
+        {
+          "name": "Beff – e/acc",
+          "screen_name": "BasedBeffJezos",
+          "indices": [
+            "21",
+            "36"
+          ],
+          "id_str": "1556550048862928898",
+          "id": "1556550048862928898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1941184722023203118",
+    "id_str": "1941184994917154980",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941184994917154980",
+    "in_reply_to_status_id": "1941184722023203118",
+    "created_at": "Fri Jul 04 17:19:02 +0000 2025",
+    "favorited": false,
+    "full_text": "@elonmusk @yacineMTB @BasedBeffJezos The false choice is between conservative and progressive: change to the past and change to the future.\n\nBut those are both change, and if those options are split, who ends up getting to stay in charge?\n\nThose who are already in power.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

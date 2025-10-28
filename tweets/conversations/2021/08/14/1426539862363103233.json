@@ -1,0 +1,48 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1426539862363103233"
+        ],
+        "editableUntil": "2021-08-14T14:43:01.673Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperchargeYourTime",
+          "indices": [
+            "68",
+            "88"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1426539860198838287",
+    "id_str": "1426539862363103233",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1426539862363103233",
+    "in_reply_to_status_id": "1426539860198838287",
+    "created_at": "Sat Aug 14 13:43:01 +0000 2021",
+    "favorited": false,
+    "full_text": "I completely agree on this. \n\nStep 1 of my automation framework for #SuperchargeYourTime is to \"make it work\"\n\nIn order to automate something well, you need to make sure that you have the right steps.\n\nIf you don't have the steps figured out, your automation will never work.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

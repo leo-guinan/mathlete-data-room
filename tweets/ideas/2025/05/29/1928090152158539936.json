@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928090152158539936"
+        ],
+        "editableUntil": "2025-05-29T15:04:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928090152158539936/photo/1",
+          "indices": [
+            "161",
+            "184"
+          ],
+          "url": "https://t.co/XZuvMEyIyB",
+          "media_url": "http://pbs.twimg.com/media/GsHzj07W8AA7C0e.png",
+          "id_str": "1928089912319864832",
+          "id": "1928089912319864832",
+          "media_url_https": "https://pbs.twimg.com/media/GsHzj07W8AA7C0e.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "524",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "924",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1730",
+              "h": "1332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XZuvMEyIyB"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "184"
+    ],
+    "favorite_count": "2",
+    "id_str": "1928090152158539936",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928090152158539936",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 29 14:04:49 +0000 2025",
+    "favorited": false,
+    "full_text": "Just found this gem in an old blog post. I managed to capture a tiny piece of my son.\n\n(I guarantee that you won't be able to guess the topic of this blog post) https://t.co/XZuvMEyIyB",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928090152158539936/photo/1",
+          "indices": [
+            "161",
+            "184"
+          ],
+          "url": "https://t.co/XZuvMEyIyB",
+          "media_url": "http://pbs.twimg.com/media/GsHzj07W8AA7C0e.png",
+          "id_str": "1928089912319864832",
+          "id": "1928089912319864832",
+          "media_url_https": "https://pbs.twimg.com/media/GsHzj07W8AA7C0e.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "524",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "924",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1730",
+              "h": "1332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XZuvMEyIyB"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928948852528140777"
+        ],
+        "editableUntil": "2025-05-31T23:56:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter Van Ness",
+          "screen_name": "PeterVanNess33",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1578750661000306690",
+          "id": "1578750661000306690"
+        },
+        {
+          "name": "creekseeker",
+          "screen_name": "mudscryer",
+          "indices": [
+            "16",
+            "26"
+          ],
+          "id_str": "1864508358444896262",
+          "id": "1864508358444896262"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "306"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1928947479262744883",
+    "id_str": "1928948852528140777",
+    "in_reply_to_user_id": "1578750661000306690",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928948852528140777",
+    "in_reply_to_status_id": "1928947479262744883",
+    "created_at": "Sat May 31 22:56:59 +0000 2025",
+    "favorited": false,
+    "full_text": "@PeterVanNess33 @mudscryer Please feel free to plug your work! I'm actually typically really bad at plugging my own because I'd rather do it than talk about it, so I'm always excited when others can do it more easily. \n\nWill definitely check it out, because it sounds right up my alley! Thanks for sharing!",
+    "lang": "en",
+    "in_reply_to_screen_name": "PeterVanNess33",
+    "in_reply_to_user_id_str": "1578750661000306690"
+  }
+}

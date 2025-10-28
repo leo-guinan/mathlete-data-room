@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1771240264645902601"
+        ],
+        "editableUntil": "2024-03-22T19:19:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1771238878374162911",
+    "id_str": "1771240264645902601",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1771240264645902601",
+    "in_reply_to_status_id": "1771238878374162911",
+    "created_at": "Fri Mar 22 18:19:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli I think this captures it well. It's all about figuring out how we work best, and most places don't allow you to work the way you do best, because they are worried it will cause ripples elsewhere with others.\n\nMeans most companies will never unlock their employees' potential.",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

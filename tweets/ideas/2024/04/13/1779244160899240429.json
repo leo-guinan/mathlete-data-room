@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1779244160899240429"
+        ],
+        "editableUntil": "2024-04-13T21:23:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "1",
+    "id_str": "1779244160899240429",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1779244160899240429",
+    "created_at": "Sat Apr 13 20:23:59 +0000 2024",
+    "favorited": false,
+    "full_text": "Note to self when using prisma: if you try to filter on a value that is null, you end up getting all objects back.\n\nAccidentally ran all thoughts through all subminds instead of the user's specific subminds because I screwed up filtering with the userId. But that's fixed now!",
+    "lang": "en"
+  }
+}

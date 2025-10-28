@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1580182138527559680"
+        ],
+        "editableUntil": "2022-10-12T13:32:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenn Junod",
+          "screen_name": "JennJunod",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1343768871078006785",
+          "id": "1343768871078006785"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1580182138527559680/photo/1",
+          "indices": [
+            "248",
+            "271"
+          ],
+          "url": "https://t.co/YOgVCyjHuB",
+          "media_url": "http://pbs.twimg.com/media/Fe3u9V3X0AEgXkY.jpg",
+          "id_str": "1580181781885734913",
+          "id": "1580181781885734913",
+          "media_url_https": "https://pbs.twimg.com/media/Fe3u9V3X0AEgXkY.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YOgVCyjHuB"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1580181263994224641",
+    "id_str": "1580182138527559680",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1580182138527559680",
+    "in_reply_to_status_id": "1580181263994224641",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 12 13:02:34 +0000 2022",
+    "favorited": false,
+    "full_text": "@JennJunod But overall,  they feel the rabbits for their muscle texture, they look at the health of the rabbit, the size, and a few other categories I think. \n\nAnd here is Spice trying to eat Vader's whiskers because he got fed first this morning. https://t.co/YOgVCyjHuB",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1580182138527559680/photo/1",
+          "indices": [
+            "248",
+            "271"
+          ],
+          "url": "https://t.co/YOgVCyjHuB",
+          "media_url": "http://pbs.twimg.com/media/Fe3u9V3X0AEgXkY.jpg",
+          "id_str": "1580181781885734913",
+          "id": "1580181781885734913",
+          "media_url_https": "https://pbs.twimg.com/media/Fe3u9V3X0AEgXkY.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YOgVCyjHuB"
+        }
+      ]
+    }
+  }
+}

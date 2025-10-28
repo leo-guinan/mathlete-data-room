@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330511717516898304"
+        ],
+        "editableUntil": "2020-11-22T15:01:27.825Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eliza Orlins",
+          "screen_name": "elizaorlins",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "7391432",
+          "id": "7391432"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1330511717516898304",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330511717516898304",
+    "created_at": "Sun Nov 22 14:01:27 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @elizaorlins: Kyle Rittenhouse, accused of murder, has been released on $2M cash bail.\n\nAs a public defender, I represented teenagers un…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346943858383478791"
+        ],
+        "editableUntil": "2021-01-06T23:16:55.502Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Congresswoman Cori Bush (Archived)",
+          "screen_name": "RepCori",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "1002630999052865536",
+          "id": "1002630999052865536"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346943858383478791",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346943858383478791",
+    "created_at": "Wed Jan 06 22:16:55 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @RepCori: I believe the Republican members of Congress who have incited this domestic terror attack through their attempts to overturn t…",
+    "lang": "en"
+  }
+}

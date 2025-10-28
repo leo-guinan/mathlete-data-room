@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1558981622749347843"
+        ],
+        "editableUntil": "2022-08-15T01:29:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "248"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1558971310625079296",
+    "id_str": "1558981622749347843",
+    "in_reply_to_user_id": "280523147",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1558981622749347843",
+    "in_reply_to_status_id": "1558971310625079296",
+    "created_at": "Mon Aug 15 00:59:17 +0000 2022",
+    "favorited": false,
+    "full_text": "@tshubillabong The trick though is that you can make any of your ideas a reality.\n\nMore and more, it's not a matter of individual skills, it's a matter of human coordination\n\nNot about building. It's about convincing people that it should be built.",
+    "lang": "en",
+    "in_reply_to_screen_name": "tshubillabong",
+    "in_reply_to_user_id_str": "280523147"
+  }
+}

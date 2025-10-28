@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1753518827009106023"
+        ],
+        "editableUntil": "2024-02-02T21:40:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dmitry | Relationships Guide",
+          "screen_name": "Naararouter",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "3058560898",
+          "id": "3058560898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1753425439102566685",
+    "id_str": "1753518827009106023",
+    "in_reply_to_user_id": "3058560898",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1753518827009106023",
+    "in_reply_to_status_id": "1753425439102566685",
+    "created_at": "Fri Feb 02 20:40:41 +0000 2024",
+    "favorited": false,
+    "full_text": "@Naararouter That's the beautiful thing. I'm happy now. I learned a few years ago to not tie my job to my happiness, so I view this as a huge opportunity for me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Naararouter",
+    "in_reply_to_user_id_str": "3058560898"
+  }
+}

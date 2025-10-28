@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1469269343599013894"
+        ],
+        "editableUntil": "2021-12-10T12:34:43.875Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "victoria 💾🦄🛰🚀🥓📻🌈",
+          "screen_name": "victoria",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "53993",
+          "id": "53993"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "284"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1469182875765379074",
+    "id_str": "1469269343599013894",
+    "in_reply_to_user_id": "53993",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1469269343599013894",
+    "in_reply_to_status_id": "1469182875765379074",
+    "created_at": "Fri Dec 10 11:34:43 +0000 2021",
+    "favorited": false,
+    "full_text": "@victoria Yes, I am planning on adding search in and multiple accounts will be supported.\n\nSearch should be pretty simple to add and will probably be added in fairly soon. I'm not a huge fan of just the link, but it was the fastest implementation lol had to get it out to the world. 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "victoria",
+    "in_reply_to_user_id_str": "53993"
+  }
+}

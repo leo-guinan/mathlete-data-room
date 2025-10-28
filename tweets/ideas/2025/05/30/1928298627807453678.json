@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928298627807453678"
+        ],
+        "editableUntil": "2025-05-30T04:53:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/265F77DjAF",
+          "expanded_url": "https://x.com/leo_guinan/status/1928297097511531003",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "99",
+            "122"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928298627807453678/photo/1",
+          "indices": [
+            "123",
+            "146"
+          ],
+          "url": "https://t.co/9dM1ggZWW5",
+          "media_url": "http://pbs.twimg.com/media/GsKxXNwXMAA7FRs.jpg",
+          "id_str": "1928298602855608320",
+          "id": "1928298602855608320",
+          "media_url_https": "https://pbs.twimg.com/media/GsKxXNwXMAA7FRs.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "453",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/9dM1ggZWW5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "2",
+    "id_str": "1928298627807453678",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928298627807453678",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 30 03:53:13 +0000 2025",
+    "favorited": false,
+    "full_text": "Decided that wasn't mad scientist-y enough so stepped it up a notch.\n\nWelcome to the Galaxy Forge. https://t.co/265F77DjAF https://t.co/9dM1ggZWW5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928298627807453678/photo/1",
+          "indices": [
+            "123",
+            "146"
+          ],
+          "url": "https://t.co/9dM1ggZWW5",
+          "media_url": "http://pbs.twimg.com/media/GsKxXNwXMAA7FRs.jpg",
+          "id_str": "1928298602855608320",
+          "id": "1928298602855608320",
+          "media_url_https": "https://pbs.twimg.com/media/GsKxXNwXMAA7FRs.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "453",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/9dM1ggZWW5"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1708866089612955933"
+        ],
+        "editableUntil": "2023-10-02T16:26:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "RossiniB",
+          "screen_name": "randomshenans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "121729403",
+          "id": "121729403"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zF3pMDb0wN",
+          "expanded_url": "https://x.com/leo_guinan/status/1708544372315209931?t=-CGsC7eEK3V66mEp1eHXnw&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "131",
+            "154"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1708865483561189870",
+    "id_str": "1708866089612955933",
+    "in_reply_to_user_id": "121729403",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1708866089612955933",
+    "in_reply_to_status_id": "1708865483561189870",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 02 15:26:39 +0000 2023",
+    "favorited": false,
+    "full_text": "@randomshenans I had a similar experience over the weekend.\n\nIt's really good to reflect back and see how far we've actually come.\nhttps://t.co/zF3pMDb0wN",
+    "lang": "en",
+    "in_reply_to_screen_name": "randomshenans",
+    "in_reply_to_user_id_str": "121729403"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520764710731366401"
+        ],
+        "editableUntil": "2022-05-01T14:28:56.137Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1520760689383591937",
+    "id_str": "1520764710731366401",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520764710731366401",
+    "in_reply_to_status_id": "1520760689383591937",
+    "created_at": "Sun May 01 13:58:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@benjamingreeley There are a couple of routes I can see, based on your goals. \n\nYou can try to figure out who the manufacturers are and reach out directly to them.\n\nOr, you can break the idea down into components and ask experts about each piece. Then see what it would take to put it all together",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

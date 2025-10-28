@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890846288461148377"
+        ],
+        "editableUntil": "2025-02-15T20:31:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "34",
+            "50"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MD6XxV7aQD",
+          "expanded_url": "https://x.com/lessin/status/1890834375836684734",
+          "display_url": "x.com/lessin/status/…",
+          "indices": [
+            "120",
+            "143"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "143"
+    ],
+    "favorite_count": "2",
+    "id_str": "1890846288461148377",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890846288461148377",
+    "possibly_sensitive": false,
+    "created_at": "Sat Feb 15 19:31:00 +0000 2025",
+    "favorited": false,
+    "full_text": "Saw this and immediately thought: @DefenderOfBasic would appreciate this sentiment.\n\nWe need translators at the borders https://t.co/MD6XxV7aQD",
+    "lang": "en"
+  }
+}

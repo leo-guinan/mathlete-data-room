@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486004613195214869"
+        ],
+        "editableUntil": "2022-01-25T16:54:43.073Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1486002197775147018",
+    "id_str": "1486004613195214869",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1486004613195214869",
+    "in_reply_to_status_id": "1486002197775147018",
+    "created_at": "Tue Jan 25 15:54:43 +0000 2022",
+    "favorited": false,
+    "full_text": "@arvidkahl Haha, that's great. I've been trying to get to that point.\n\nJust keep practicing right? That's what it all boils down to!",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

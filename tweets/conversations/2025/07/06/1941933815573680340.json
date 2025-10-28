@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941933815573680340"
+        ],
+        "editableUntil": "2025-07-06T19:54:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Robin Hanson",
+          "screen_name": "robinhanson",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "7748752",
+          "id": "7748752"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cQpRhCf7U8",
+          "expanded_url": "https://open.substack.com/pub/hitchhikertothefuture/p/internet-20-integrated-mesh-governance?r=evblp&utm_medium=ios",
+          "display_url": "open.substack.com/pub/hitchhiker…",
+          "indices": [
+            "85",
+            "108"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941933815573680340/photo/1",
+          "indices": [
+            "109",
+            "132"
+          ],
+          "url": "https://t.co/LcPjUY4FWZ",
+          "media_url": "http://pbs.twimg.com/media/GvMigxBXQAAs1l1.jpg",
+          "id_str": "1941933810637029376",
+          "id": "1941933810637029376",
+          "media_url_https": "https://pbs.twimg.com/media/GvMigxBXQAAs1l1.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/LcPjUY4FWZ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941933050062889197",
+    "id_str": "1941933815573680340",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941933815573680340",
+    "in_reply_to_status_id": "1941933050062889197",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 18:54:35 +0000 2025",
+    "favorited": false,
+    "full_text": "@robinhanson Here’s something you might be interested in that builds on your work. \n\nhttps://t.co/cQpRhCf7U8 https://t.co/LcPjUY4FWZ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941933815573680340/photo/1",
+          "indices": [
+            "109",
+            "132"
+          ],
+          "url": "https://t.co/LcPjUY4FWZ",
+          "media_url": "http://pbs.twimg.com/media/GvMigxBXQAAs1l1.jpg",
+          "id_str": "1941933810637029376",
+          "id": "1941933810637029376",
+          "media_url_https": "https://pbs.twimg.com/media/GvMigxBXQAAs1l1.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/LcPjUY4FWZ"
+        }
+      ]
+    }
+  }
+}

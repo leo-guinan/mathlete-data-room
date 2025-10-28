@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941893617607455027"
+        ],
+        "editableUntil": "2025-07-06T17:14:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4D5RpUXN4R",
+          "expanded_url": "https://leo-guinan.github.io/me/",
+          "display_url": "leo-guinan.github.io/me/",
+          "indices": [
+            "25",
+            "48"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941701082196951134",
+    "id_str": "1941893617607455027",
+    "in_reply_to_user_id": "5614412",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941893617607455027",
+    "in_reply_to_status_id": "1941701082196951134",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 16:14:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@mykola Here's ragnarok: https://t.co/4D5RpUXN4R\n\nit's a human accountability wrapper for chatgpt.\n\nit creates local cashflow networks among local communities that aren't tied into the complexity of everything else, and will stabilize them during the collapse.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mykola",
+    "in_reply_to_user_id_str": "5614412"
+  }
+}

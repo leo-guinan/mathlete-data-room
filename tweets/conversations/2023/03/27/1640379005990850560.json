@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1640379005990850560"
+        ],
+        "editableUntil": "2023-03-27T16:13:26.453Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        },
+        {
+          "name": "Daymond John",
+          "screen_name": "TheSharkDaymond",
+          "indices": [
+            "21",
+            "37"
+          ],
+          "id_str": "16225240",
+          "id": "16225240"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "37"
+    ],
+    "favorite_count": "0",
+    "id_str": "1640379005990850560",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1640379005990850560",
+    "created_at": "Mon Mar 27 15:43:26 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @JustinAllingham: @TheSharkDaymond",
+    "lang": "qam"
+  }
+}

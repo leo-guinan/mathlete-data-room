@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1585051313070489600"
+        ],
+        "editableUntil": "2022-10-26T00:00:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1585051068542902275",
+    "id_str": "1585051313070489600",
+    "in_reply_to_user_id": "1043842782891134976",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1585051313070489600",
+    "in_reply_to_status_id": "1585051068542902275",
+    "created_at": "Tue Oct 25 23:30:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@bethicalj @LobowSpark Eastern time, US! Happening in 30 minutes. 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "bethicalj",
+    "in_reply_to_user_id_str": "1043842782891134976"
+  }
+}

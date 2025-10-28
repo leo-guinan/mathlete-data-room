@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1504080749724590085"
+        ],
+        "editableUntil": "2022-03-16T14:02:49.860Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rach Idowu @AdultingADHD",
+          "screen_name": "AdultingADHD",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1693603896",
+          "id": "1693603896"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "254"
+    ],
+    "favorite_count": "8",
+    "in_reply_to_status_id_str": "1500157261716631553",
+    "id_str": "1504080749724590085",
+    "in_reply_to_user_id": "1693603896",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1504080749724590085",
+    "in_reply_to_status_id": "1500157261716631553",
+    "created_at": "Wed Mar 16 13:02:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@AdultingADHD I'm really good at untangling things. \n\nI can take a look at a complex situation, dig into it, and figure out exactly what causes led to it.\n\nI used to think it was limited to debugging code, but I've found it useful in other areas as well.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AdultingADHD",
+    "in_reply_to_user_id_str": "1693603896"
+  }
+}

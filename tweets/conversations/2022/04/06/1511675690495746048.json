@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1511675690495746048"
+        ],
+        "editableUntil": "2022-04-06T13:02:24.847Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "⚡️ Ev Chapman 🚢 | Creative Entrepreneur",
+          "screen_name": "evielync",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15314440",
+          "id": "15314440"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "215"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1511638107535380481",
+    "id_str": "1511675690495746048",
+    "in_reply_to_user_id": "15314440",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1511675690495746048",
+    "in_reply_to_status_id": "1511638107535380481",
+    "created_at": "Wed Apr 06 12:02:24 +0000 2022",
+    "favorited": false,
+    "full_text": "@evielync Absolutely.\n\nI never automate things until I understand what I need to automate \n\nAutomating too early leads to issues down the line when things start falling apart.\n\nMake sure the process works well first",
+    "lang": "en",
+    "in_reply_to_screen_name": "evielync",
+    "in_reply_to_user_id_str": "15314440"
+  }
+}

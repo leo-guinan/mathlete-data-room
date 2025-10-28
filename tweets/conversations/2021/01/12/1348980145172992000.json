@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348980145172992000"
+        ],
+        "editableUntil": "2021-01-12T14:08:24.105Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Derek Thompson",
+          "screen_name": "DKThomp",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "37723353",
+          "id": "37723353"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348980145172992000",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348980145172992000",
+    "created_at": "Tue Jan 12 13:08:24 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @DKThomp: The very emotional discussion right now about whether Twitter has the right to de-platform Trump should widen the lens and see…",
+    "lang": "en"
+  }
+}

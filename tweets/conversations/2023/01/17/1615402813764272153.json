@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1615402813764272153"
+        ],
+        "editableUntil": "2023-01-17T18:06:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kyle Krzeski",
+          "screen_name": "kylekrzeski",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1618808973439672321",
+          "id": "1618808973439672321"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "23"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1615401065062465546",
+    "id_str": "1615402813764272153",
+    "in_reply_to_user_id": "562325716",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1615402813764272153",
+    "in_reply_to_status_id": "1615401065062465546",
+    "created_at": "Tue Jan 17 17:36:58 +0000 2023",
+    "favorited": false,
+    "full_text": "@kylekrzeski SEND THEM!",
+    "lang": "en",
+    "in_reply_to_screen_name": "FounderKyle",
+    "in_reply_to_user_id_str": "562325716"
+  }
+}

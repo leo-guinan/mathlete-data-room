@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1812148324612366802"
+        ],
+        "editableUntil": "2024-07-13T16:33:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Thasif",
+          "screen_name": "thasif_",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1276905516350885890",
+          "id": "1276905516350885890"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1zhe7Zv6rJ",
+          "expanded_url": "https://x.com/leo_guinan/status/1812148256136204328",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "58",
+            "81"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1812148256136204328",
+    "id_str": "1812148324612366802",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1812148324612366802",
+    "in_reply_to_status_id": "1812148256136204328",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 13 15:33:23 +0000 2024",
+    "favorited": false,
+    "full_text": "@thasif_ Quote of long post for the sake of notification:\nhttps://t.co/1zhe7Zv6rJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

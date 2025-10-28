@@ -1,0 +1,150 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939698805450084468"
+        ],
+        "editableUntil": "2025-06-30T15:53:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Stefan Wirth",
+          "screen_name": "NafetsWirth",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2411164066",
+          "id": "2411164066"
+        },
+        {
+          "name": "Michael Kove",
+          "screen_name": "michael_kove",
+          "indices": [
+            "13",
+            "26"
+          ],
+          "id_str": "1309409339824840704",
+          "id": "1309409339824840704"
+        },
+        {
+          "name": "Adam",
+          "screen_name": "adamc0dez",
+          "indices": [
+            "27",
+            "37"
+          ],
+          "id_str": "1500427684484112384",
+          "id": "1500427684484112384"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939698805450084468/photo/1",
+          "indices": [
+            "175",
+            "198"
+          ],
+          "url": "https://t.co/cQdq4iMqEz",
+          "media_url": "http://pbs.twimg.com/media/GusxyFNXkAAbUfb.jpg",
+          "id_str": "1939698800974598144",
+          "id": "1939698800974598144",
+          "media_url_https": "https://pbs.twimg.com/media/GusxyFNXkAAbUfb.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/cQdq4iMqEz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1939698041860038711",
+    "id_str": "1939698805450084468",
+    "in_reply_to_user_id": "2411164066",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939698805450084468",
+    "in_reply_to_status_id": "1939698041860038711",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 30 14:53:27 +0000 2025",
+    "favorited": false,
+    "full_text": "@NafetsWirth @michael_kove @adamc0dez Internet 2.0 removes the incentives to do things this way. I like the actual value creation method of Internet communication personally. https://t.co/cQdq4iMqEz",
+    "lang": "en",
+    "in_reply_to_screen_name": "NafetsWirth",
+    "in_reply_to_user_id_str": "2411164066",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939698805450084468/photo/1",
+          "indices": [
+            "175",
+            "198"
+          ],
+          "url": "https://t.co/cQdq4iMqEz",
+          "media_url": "http://pbs.twimg.com/media/GusxyFNXkAAbUfb.jpg",
+          "id_str": "1939698800974598144",
+          "id": "1939698800974598144",
+          "media_url_https": "https://pbs.twimg.com/media/GusxyFNXkAAbUfb.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/cQdq4iMqEz"
+        }
+      ]
+    }
+  }
+}

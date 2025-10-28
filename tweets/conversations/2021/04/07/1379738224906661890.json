@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379738224906661890"
+        ],
+        "editableUntil": "2021-04-07T11:10:01.771Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tim Denning",
+          "screen_name": "Tim_Denning",
+          "indices": [
+            "95",
+            "107"
+          ],
+          "id_str": "1448746765826486289",
+          "id": "1448746765826486289"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5Bbrb0pI2B",
+          "expanded_url": "https://link.medium.com/t2Gx4yj7ffb",
+          "display_url": "link.medium.com/t2Gx4yj7ffb",
+          "indices": [
+            "108",
+            "131"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "0",
+    "id_str": "1379738224906661890",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379738224906661890",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 07 10:10:01 +0000 2021",
+    "favorited": false,
+    "full_text": "“You become an even better writer with data-backed insights to inspire and loosely guide you.” @Tim_Denning https://t.co/5Bbrb0pI2B",
+    "lang": "en"
+  }
+}

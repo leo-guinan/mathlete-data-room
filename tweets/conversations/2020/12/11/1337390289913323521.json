@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1337390289913323521"
+        ],
+        "editableUntil": "2020-12-11T14:34:27.282Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Guardian sport",
+          "screen_name": "guardian_sport",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "46403451",
+          "id": "46403451"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QFSMF2beNt",
+          "expanded_url": "https://www.theguardian.com/football/2020/dec/11/columbus-crew-seattle-sounders-mls-cup-final-2020",
+          "display_url": "theguardian.com/football/2020/…",
+          "indices": [
+            "89",
+            "112"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "0",
+    "id_str": "1337390289913323521",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1337390289913323521",
+    "possibly_sensitive": false,
+    "created_at": "Fri Dec 11 13:34:27 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @guardian_sport: An MLS title is in view for Columbus Crew, a club saved by fan power https://t.co/QFSMF2beNt",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1861779312703074452"
+        ],
+        "editableUntil": "2024-11-27T15:29:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick Dobos",
+          "screen_name": "NickADobos",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "856753502",
+          "id": "856753502"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lADlzGjjDZ",
+          "expanded_url": "https://www.community-archive.org/",
+          "display_url": "community-archive.org",
+          "indices": [
+            "42",
+            "65"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1861510060188541391",
+    "id_str": "1861779312703074452",
+    "in_reply_to_user_id": "856753502",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1861779312703074452",
+    "in_reply_to_status_id": "1861510060188541391",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 27 14:29:12 +0000 2024",
+    "favorited": false,
+    "full_text": "@NickADobos If you upload your archive to https://t.co/lADlzGjjDZ you can hook it up via api connection.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NickADobos",
+    "in_reply_to_user_id_str": "856753502"
+  }
+}

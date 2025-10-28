@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899837299208110331"
+        ],
+        "editableUntil": "2025-03-12T15:58:04.058Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jan Wilmake",
+          "screen_name": "janwilmake",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "153933445",
+          "id": "153933445"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/janwilmake/status/1899731200631050487/photo/1",
+          "source_status_id": "1899731200631050487",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/NOhv8xX7qK",
+          "media_url": "http://pbs.twimg.com/media/Gl0zYaWWoAAuSR6.jpg",
+          "id_str": "1899731112303173632",
+          "source_user_id": "153933445",
+          "id": "1899731112303173632",
+          "media_url_https": "https://pbs.twimg.com/media/Gl0zYaWWoAAuSR6.jpg",
+          "source_user_id_str": "153933445",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1899731200631050487",
+          "display_url": "pic.x.com/NOhv8xX7qK"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "0",
+    "id_str": "1899837299208110331",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1899837299208110331",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 12 14:58:04 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @janwilmake: Programmers.... Be Like Rick Rubin! https://t.co/NOhv8xX7qK",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/janwilmake/status/1899731200631050487/photo/1",
+          "source_status_id": "1899731200631050487",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/NOhv8xX7qK",
+          "media_url": "http://pbs.twimg.com/media/Gl0zYaWWoAAuSR6.jpg",
+          "id_str": "1899731112303173632",
+          "source_user_id": "153933445",
+          "id": "1899731112303173632",
+          "media_url_https": "https://pbs.twimg.com/media/Gl0zYaWWoAAuSR6.jpg",
+          "source_user_id_str": "153933445",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1899731200631050487",
+          "display_url": "pic.x.com/NOhv8xX7qK"
+        }
+      ]
+    }
+  }
+}

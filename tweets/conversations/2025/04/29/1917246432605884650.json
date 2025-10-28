@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1917246432605884650"
+        ],
+        "editableUntil": "2025-04-29T16:55:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tyler Alterman",
+          "screen_name": "TylerAlterman",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "18280363",
+          "id": "18280363"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1917240362646622265",
+    "id_str": "1917246432605884650",
+    "in_reply_to_user_id": "18280363",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1917246432605884650",
+    "in_reply_to_status_id": "1917240362646622265",
+    "created_at": "Tue Apr 29 15:55:44 +0000 2025",
+    "favorited": false,
+    "full_text": "@TylerAlterman to build the archetypal institution for the internet",
+    "lang": "en",
+    "in_reply_to_screen_name": "TylerAlterman",
+    "in_reply_to_user_id_str": "18280363"
+  }
+}

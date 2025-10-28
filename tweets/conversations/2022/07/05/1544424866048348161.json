@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1544424866048348161"
+        ],
+        "editableUntil": "2022-07-05T21:25:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🏜 Eric Jakobsen",
+          "screen_name": "gentlegiantdev",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1477354735896203264",
+          "id": "1477354735896203264"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1544411520330633216",
+    "id_str": "1544424866048348161",
+    "in_reply_to_user_id": "1477354735896203264",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1544424866048348161",
+    "in_reply_to_status_id": "1544411520330633216",
+    "created_at": "Tue Jul 05 20:55:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@gentlegiantdev You can, soon. I'll be sending out codes to access a new tool I'm building for beta access.\n\nShould have something by the end of the week!",
+    "lang": "en",
+    "in_reply_to_screen_name": "gentlegiantdev",
+    "in_reply_to_user_id_str": "1477354735896203264"
+  }
+}

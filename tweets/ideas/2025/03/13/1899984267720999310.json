@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899984267720999310"
+        ],
+        "editableUntil": "2025-03-13T01:42:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1899984267720999310/photo/1",
+          "indices": [
+            "131",
+            "154"
+          ],
+          "url": "https://t.co/iXJweSqIAz",
+          "media_url": "http://pbs.twimg.com/media/Gl4Zm_oXkAAIRNa.jpg",
+          "id_str": "1899984250503401472",
+          "id": "1899984250503401472",
+          "media_url_https": "https://pbs.twimg.com/media/Gl4Zm_oXkAAIRNa.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1000",
+              "h": "700",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1000",
+              "h": "700",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "476",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/iXJweSqIAz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "2",
+    "id_str": "1899984267720999310",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1899984267720999310",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 13 00:42:04 +0000 2025",
+    "favorited": false,
+    "full_text": "Wrote a summary of the abstractions I've been building and how they drill down into core concepts.\n\nThen turned it into a diagram. https://t.co/iXJweSqIAz",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1899984267720999310/photo/1",
+          "indices": [
+            "131",
+            "154"
+          ],
+          "url": "https://t.co/iXJweSqIAz",
+          "media_url": "http://pbs.twimg.com/media/Gl4Zm_oXkAAIRNa.jpg",
+          "id_str": "1899984250503401472",
+          "id": "1899984250503401472",
+          "media_url_https": "https://pbs.twimg.com/media/Gl4Zm_oXkAAIRNa.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1000",
+              "h": "700",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1000",
+              "h": "700",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "476",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/iXJweSqIAz"
+        }
+      ]
+    }
+  }
+}

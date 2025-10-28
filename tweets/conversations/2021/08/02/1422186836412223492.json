@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422186836412223492"
+        ],
+        "editableUntil": "2021-08-02T14:25:39.411Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "DK",
+          "screen_name": "szlanzki343",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "57258140",
+          "id": "57258140"
+        },
+        {
+          "name": "Aleksandr Volodarsky",
+          "screen_name": "volodarik",
+          "indices": [
+            "30",
+            "40"
+          ],
+          "id_str": "1934228078",
+          "id": "1934228078"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1422179098625859588",
+    "id_str": "1422186836412223492",
+    "in_reply_to_user_id": "57258140",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422186836412223492",
+    "in_reply_to_status_id": "1422179098625859588",
+    "created_at": "Mon Aug 02 13:25:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@szlanzki343 @olivier01865746 @volodarik Well, the company was dissolved. So in that sense, it failed. The ideas behind it didn't necessarily fail. But I ran out of money, which is the kiss of death. The lessons learned are worth more than gold though.",
+    "lang": "en",
+    "in_reply_to_screen_name": "szlanzki343",
+    "in_reply_to_user_id_str": "57258140"
+  }
+}

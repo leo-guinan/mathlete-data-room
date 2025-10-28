@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420930721594609671"
+        ],
+        "editableUntil": "2021-07-30T03:14:18.301Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Tweten 🍁 | SaaS SEO",
+          "screen_name": "ctwtn",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "22282718",
+          "id": "22282718"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "82"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1420787271012429829",
+    "id_str": "1420930721594609671",
+    "in_reply_to_user_id": "22282718",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420930721594609671",
+    "in_reply_to_status_id": "1420787271012429829",
+    "created_at": "Fri Jul 30 02:14:18 +0000 2021",
+    "favorited": false,
+    "full_text": "@ctwtn I keep writing. And I keep publishing. And I get a little better each time.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ctwtn",
+    "in_reply_to_user_id_str": "22282718"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1463242566145556486"
+        ],
+        "editableUntil": "2021-11-23T21:26:28.158Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IbGCBGm4VL",
+          "expanded_url": "https://x.com/i/spaces/1mrxmadZQnzxy",
+          "display_url": "x.com/i/spaces/1mrxm…",
+          "indices": [
+            "0",
+            "23"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "23"
+    ],
+    "favorite_count": "1",
+    "id_str": "1463242566145556486",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1463242566145556486",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 23 20:26:28 +0000 2021",
+    "favorited": false,
+    "full_text": "https://t.co/IbGCBGm4VL",
+    "lang": "zxx"
+  }
+}

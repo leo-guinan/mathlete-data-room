@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1964073936636743759"
+        ],
+        "editableUntil": "2025-09-05T22:11:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1964073936636743759/photo/1",
+          "indices": [
+            "66",
+            "89"
+          ],
+          "url": "https://t.co/On1HkuQmNL",
+          "media_url": "http://pbs.twimg.com/media/G0HKvw1XIAAdCtA.jpg",
+          "id_str": "1964073834421624832",
+          "id": "1964073834421624832",
+          "media_url_https": "https://pbs.twimg.com/media/G0HKvw1XIAAdCtA.jpg",
+          "sizes": {
+            "large": {
+              "w": "970",
+              "h": "789",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "970",
+              "h": "789",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "553",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/On1HkuQmNL"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "2",
+    "id_str": "1964073936636743759",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1964073936636743759",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 05 21:11:31 +0000 2025",
+    "favorited": false,
+    "full_text": "Well that's a new error message.... \n\nwhat happened to you, opus? https://t.co/On1HkuQmNL",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1964073936636743759/photo/1",
+          "indices": [
+            "66",
+            "89"
+          ],
+          "url": "https://t.co/On1HkuQmNL",
+          "media_url": "http://pbs.twimg.com/media/G0HKvw1XIAAdCtA.jpg",
+          "id_str": "1964073834421624832",
+          "id": "1964073834421624832",
+          "media_url_https": "https://pbs.twimg.com/media/G0HKvw1XIAAdCtA.jpg",
+          "sizes": {
+            "large": {
+              "w": "970",
+              "h": "789",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "970",
+              "h": "789",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "553",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/On1HkuQmNL"
+        }
+      ]
+    }
+  }
+}

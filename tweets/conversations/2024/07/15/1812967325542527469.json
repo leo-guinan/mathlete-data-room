@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1812967325542527469"
+        ],
+        "editableUntil": "2024-07-15T22:47:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Knight",
+          "screen_name": "onejasonknight",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "20244980",
+          "id": "20244980"
+        },
+        {
+          "name": "Arnold",
+          "screen_name": "Schwarzenegger",
+          "indices": [
+            "16",
+            "31"
+          ],
+          "id_str": "12044602",
+          "id": "12044602"
+        },
+        {
+          "name": "Arnold",
+          "screen_name": "Schwarzenegger",
+          "indices": [
+            "54",
+            "69"
+          ],
+          "id_str": "12044602",
+          "id": "12044602"
+        },
+        {
+          "name": "Simon Sinek",
+          "screen_name": "simonsinek",
+          "indices": [
+            "120",
+            "131"
+          ],
+          "id_str": "15970050",
+          "id": "15970050"
+        },
+        {
+          "name": "Scott Galloway",
+          "screen_name": "profgalloway",
+          "indices": [
+            "136",
+            "149"
+          ],
+          "id_str": "9273802",
+          "id": "9273802"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1812958461178638590",
+    "id_str": "1812967325542527469",
+    "in_reply_to_user_id": "20244980",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1812967325542527469",
+    "in_reply_to_status_id": "1812958461178638590",
+    "created_at": "Mon Jul 15 21:47:48 +0000 2024",
+    "favorited": false,
+    "full_text": "@onejasonknight @Schwarzenegger Nice! I totally think @Schwarzenegger should go on your podcast!\n\nPersonally, I emailed @simonsinek and @profgalloway. I watched a podcast episode they recorded together and was blown away by how close their conversation was to the theories I've been working on.",
+    "lang": "en",
+    "in_reply_to_screen_name": "onejasonknight",
+    "in_reply_to_user_id_str": "20244980"
+  }
+}

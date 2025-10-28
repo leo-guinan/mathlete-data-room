@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1835703568109609378"
+        ],
+        "editableUntil": "2024-09-16T16:33:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Simon Sinek",
+          "screen_name": "simonsinek",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "15970050",
+          "id": "15970050"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9pCBoPb4Ln",
+          "expanded_url": "https://youtu.be/CNBxIhxHHxM?si=Z6Y7aJ2b5beViEvV",
+          "display_url": "youtu.be/CNBxIhxHHxM?si…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1835703475373523269",
+    "id_str": "1835703568109609378",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1835703568109609378",
+    "in_reply_to_status_id": "1835703475373523269",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 16 15:33:31 +0000 2024",
+    "favorited": false,
+    "full_text": "@simonsinek From this:\nhttps://t.co/9pCBoPb4Ln",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1759669270538018985"
+        ],
+        "editableUntil": "2024-02-19T21:00:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1759668400144413037",
+    "id_str": "1759669270538018985",
+    "in_reply_to_user_id": "1379146178244268035",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1759669270538018985",
+    "in_reply_to_status_id": "1759668400144413037",
+    "created_at": "Mon Feb 19 20:00:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@oluadedej That's actually what I started with, but as I used it, I realized that humanizing it is actually bad. We have inherent tendencies we use when communicating with humans that are really bad for using AI effectively.\n\nSo I'm moving away from a \"person\" who is a cofounder.",
+    "lang": "en",
+    "in_reply_to_screen_name": "oluadedej",
+    "in_reply_to_user_id_str": "1379146178244268035"
+  }
+}

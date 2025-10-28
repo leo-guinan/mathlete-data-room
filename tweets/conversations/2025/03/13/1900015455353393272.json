@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1900015455353393272"
+        ],
+        "editableUntil": "2025-03-13T03:45:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Joshua 💫",
+          "screen_name": "workflowsauce",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1750574343615320065",
+          "id": "1750574343615320065"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1900014049561366925",
+    "id_str": "1900015455353393272",
+    "in_reply_to_user_id": "1750574343615320065",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1900015455353393272",
+    "in_reply_to_status_id": "1900014049561366925",
+    "created_at": "Thu Mar 13 02:45:59 +0000 2025",
+    "favorited": false,
+    "full_text": "@workflowsauce The best way to think about it is the chaos between known systems. This is at the heart of my “chaos marketing” model. \n\nBecause it’s outside of known systems, all steps have to be manually connected to existing systems, so you create a hyper-observable path in chaos",
+    "lang": "en",
+    "in_reply_to_screen_name": "workflowsauce",
+    "in_reply_to_user_id_str": "1750574343615320065"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1460754644347625473"
+        ],
+        "editableUntil": "2021-11-17T00:40:21.378Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1460754644347625473",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1460754644347625473",
+    "created_at": "Tue Nov 16 23:40:21 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: How  can you drastically drop the value of a dataset?\n\nStarted thinking about what Zuck and team are doing and how they col…",
+    "lang": "en"
+  }
+}

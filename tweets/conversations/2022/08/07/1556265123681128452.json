@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1556265123681128452"
+        ],
+        "editableUntil": "2022-08-07T13:34:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VoteZelarayan",
+          "indices": [
+            "2",
+            "16"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Major League Soccer",
+          "screen_name": "MLS",
+          "indices": [
+            "21",
+            "25"
+          ],
+          "id_str": "107146095",
+          "id": "107146095"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "45"
+    ],
+    "favorite_count": "1",
+    "id_str": "1556265123681128452",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1556265123681128452",
+    "created_at": "Sun Aug 07 13:04:54 +0000 2022",
+    "favorited": false,
+    "full_text": "I #VoteZelarayan for @MLS Player of the Week!",
+    "lang": "en"
+  }
+}

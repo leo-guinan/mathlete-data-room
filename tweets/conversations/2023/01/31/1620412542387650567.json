@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1620412542387650567"
+        ],
+        "editableUntil": "2023-01-31T13:53:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1620237177685954561",
+    "id_str": "1620412542387650567",
+    "in_reply_to_user_id": "1461236887159382017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1620412542387650567",
+    "in_reply_to_status_id": "1620237177685954561",
+    "created_at": "Tue Jan 31 13:23:50 +0000 2023",
+    "favorited": false,
+    "full_text": "@Chuckenspire Why do you need to commit to one?\n\n(pro tip: choose a really broadly interpretable name and then follow the dopamine to talk about what's interesting)\n\nFor time, I think there's too much focus on high production value instead of just ideas or conversations.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chuckenspire",
+    "in_reply_to_user_id_str": "1461236887159382017"
+  }
+}

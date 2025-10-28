@@ -1,0 +1,177 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1382331648948191236"
+        ],
+        "editableUntil": "2021-04-14T14:55:22.246Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dan Toomey",
+          "screen_name": "dhtoomey",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "774402860947677184",
+          "id": "774402860947677184"
+        },
+        {
+          "name": "Morning Brew ☕️",
+          "screen_name": "MorningBrew",
+          "indices": [
+            "25",
+            "37"
+          ],
+          "id_str": "3092541736",
+          "id": "3092541736"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/dhtoomey/status/1382080371395792897/video/1",
+          "source_status_id": "1382080371395792897",
+          "indices": [
+            "64",
+            "87"
+          ],
+          "url": "https://t.co/iIenh5E7M5",
+          "media_url": "http://pbs.twimg.com/media/Ey4fjAIWgAAwPdO.jpg",
+          "id_str": "1382076599068196867",
+          "source_user_id": "3092541736",
+          "id": "1382076599068196867",
+          "media_url_https": "https://pbs.twimg.com/media/Ey4fjAIWgAAwPdO.jpg",
+          "source_user_id_str": "3092541736",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1382080371395792897",
+          "display_url": "pic.x.com/iIenh5E7M5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "87"
+    ],
+    "favorite_count": "0",
+    "id_str": "1382331648948191236",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1382331648948191236",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 14 13:55:22 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @dhtoomey: Latest for @morningbrew\n\n\"Generational investing\" https://t.co/iIenh5E7M5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/dhtoomey/status/1382080371395792897/video/1",
+          "source_status_id": "1382080371395792897",
+          "indices": [
+            "64",
+            "87"
+          ],
+          "url": "https://t.co/iIenh5E7M5",
+          "media_url": "http://pbs.twimg.com/media/Ey4fjAIWgAAwPdO.jpg",
+          "id_str": "1382076599068196867",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "58800",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1382076599068196867/vid/720x1280/gDsPZ-t837H7O5QO.mp4?tag=14"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1382076599068196867/vid/320x568/soosmhY2siH5Y0Io.mp4?tag=14"
+              },
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1382076599068196867/vid/480x852/TOFgrDUnCuAJi4ke.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1382076599068196867/pl/vYfckI9EGhOeRVIS.m3u8?tag=14"
+              }
+            ]
+          },
+          "source_user_id": "3092541736",
+          "additional_media_info": {
+            "title": "Gen Z vs. Millennial vs. Boomer Investors",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          },
+          "id": "1382076599068196867",
+          "media_url_https": "https://pbs.twimg.com/media/Ey4fjAIWgAAwPdO.jpg",
+          "source_user_id_str": "3092541736",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1382080371395792897",
+          "display_url": "pic.x.com/iIenh5E7M5"
+        }
+      ]
+    }
+  }
+}

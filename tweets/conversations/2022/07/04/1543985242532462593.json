@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1543985242532462593"
+        ],
+        "editableUntil": "2022-07-04T16:19:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Motif",
+          "screen_name": "motifland",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "1346402758312792065",
+          "id": "1346402758312792065"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1543984593657040901",
+    "id_str": "1543985242532462593",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1543985242532462593",
+    "in_reply_to_status_id": "1543984593657040901",
+    "created_at": "Mon Jul 04 15:49:02 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go @motifland Yeah, I noticed that feature when I was setting it up. That's a pretty cool one. I've never gotten any of my newsletters big enough to need that type of thing yet, but that should change with this project.\n\nThis is where the last 2 years of experimentation come together...",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972"
+  }
+}

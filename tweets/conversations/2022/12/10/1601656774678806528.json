@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1601656774678806528"
+        ],
+        "editableUntil": "2022-12-10T19:45:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "27",
+            "39"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1601656774678806528/photo/1",
+          "indices": [
+            "84",
+            "107"
+          ],
+          "url": "https://t.co/rQDMYYTcqz",
+          "media_url": "http://pbs.twimg.com/media/Fjo6AvWWQAAYSTV.jpg",
+          "id_str": "1601656401868242944",
+          "id": "1601656401868242944",
+          "media_url_https": "https://pbs.twimg.com/media/Fjo6AvWWQAAYSTV.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "2047",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rQDMYYTcqz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "107"
+    ],
+    "favorite_count": "27",
+    "id_str": "1601656774678806528",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1601656774678806528",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 10 19:15:07 +0000 2022",
+    "favorited": false,
+    "full_text": "Joining S2 of N&amp;W with @_buildspace!\n\nExcited to build alongside the community! https://t.co/rQDMYYTcqz",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1601656774678806528/photo/1",
+          "indices": [
+            "84",
+            "107"
+          ],
+          "url": "https://t.co/rQDMYYTcqz",
+          "media_url": "http://pbs.twimg.com/media/Fjo6AvWWQAAYSTV.jpg",
+          "id_str": "1601656401868242944",
+          "id": "1601656401868242944",
+          "media_url_https": "https://pbs.twimg.com/media/Fjo6AvWWQAAYSTV.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "2047",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rQDMYYTcqz"
+        }
+      ]
+    }
+  }
+}

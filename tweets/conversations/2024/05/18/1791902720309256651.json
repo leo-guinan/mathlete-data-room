@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1791902720309256651"
+        ],
+        "editableUntil": "2024-05-18T19:44:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex 💪",
+          "screen_name": "awpthorp",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1252590976746602498",
+          "id": "1252590976746602498"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "10",
+            "23"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1791902627313123335",
+    "id_str": "1791902720309256651",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1791902720309256651",
+    "in_reply_to_status_id": "1791902627313123335",
+    "created_at": "Sat May 18 18:44:35 +0000 2024",
+    "favorited": false,
+    "full_text": "@awpthorp @gregisenberg 👆(long reply above that doesn't trigger notifications)👆",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

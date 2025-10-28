@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1653098514832867328"
+        ],
+        "editableUntil": "2023-05-01T18:36:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/P6ui2wBiht",
+          "expanded_url": "https://www.youtube.com/@listentoleonow",
+          "display_url": "youtube.com/@listentoleonow",
+          "indices": [
+            "93",
+            "116"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1653098513067024386",
+    "id_str": "1653098514832867328",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1653098514832867328",
+    "in_reply_to_status_id": "1653098513067024386",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 01 18:06:13 +0000 2023",
+    "favorited": false,
+    "full_text": "Let me know if there's anything you want me to talk about/cover/explore!\n\nCheck it out here: https://t.co/P6ui2wBiht",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

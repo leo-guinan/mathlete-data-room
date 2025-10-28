@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1429147293740150789"
+        ],
+        "editableUntil": "2021-08-21T19:24:01.757Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jack of All Maths",
+          "screen_name": "JackalBruit",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1491964333286379520",
+          "id": "1491964333286379520"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "235"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1429146557857898500",
+    "id_str": "1429147293740150789",
+    "in_reply_to_user_id": "1117601083633950720",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1429147293740150789",
+    "in_reply_to_status_id": "1429146557857898500",
+    "created_at": "Sat Aug 21 18:24:01 +0000 2021",
+    "favorited": false,
+    "full_text": "@JackalBruit Advertising in general. \n\nGood ad response is around 10%. If you have a better targeting system, you can crush that number.\n\nAnd a good targeting system gets the data from the source instead of harvesting it from metadata.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JackalBruitOG",
+    "in_reply_to_user_id_str": "1117601083633950720"
+  }
+}

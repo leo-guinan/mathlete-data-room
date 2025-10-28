@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1497545320829534210"
+        ],
+        "editableUntil": "2022-02-26T13:13:22.189Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "haps 🔅",
+          "screen_name": "hapsize",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "247572432",
+          "id": "247572432"
+        },
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "9",
+            "17"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "182"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1497543218447237131",
+    "id_str": "1497545320829534210",
+    "in_reply_to_user_id": "247572432",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1497545320829534210",
+    "in_reply_to_status_id": "1497543218447237131",
+    "created_at": "Sat Feb 26 12:13:22 +0000 2022",
+    "favorited": false,
+    "full_text": "@hapsize @AndyM84 It is. \n\nThere was a lot of trust broken by the big tech companies.\n\nThere's going to be a need to earn that trust back and the way to do that is with transparency.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hapsize",
+    "in_reply_to_user_id_str": "247572432"
+  }
+}

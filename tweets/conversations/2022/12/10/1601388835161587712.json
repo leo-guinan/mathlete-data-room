@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1601388835161587712"
+        ],
+        "editableUntil": "2022-12-10T02:00:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "sydni | what in the ADHD?",
+          "screen_name": "WhatTheADHD",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1341112484476968960",
+          "id": "1341112484476968960"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "269"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1601388634938413056",
+    "id_str": "1601388835161587712",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1601388835161587712",
+    "in_reply_to_status_id": "1601388634938413056",
+    "created_at": "Sat Dec 10 01:30:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@WhatTheADHD If you can create a system around that to begin with, it becomes a lot easier to manage and measure the outcomes there. And then branch out to other things around that pain point. Eventually, you can end up with a system that does most of the work for you.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

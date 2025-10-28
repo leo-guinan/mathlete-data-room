@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1387236165225533443"
+        ],
+        "editableUntil": "2021-04-28T03:44:10.048Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EMrmj9stRK",
+          "expanded_url": "https://definet.dev",
+          "display_url": "definet.dev",
+          "indices": [
+            "138",
+            "161"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1387140764946378755",
+    "id_str": "1387236165225533443",
+    "in_reply_to_user_id": "4736729423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1387236165225533443",
+    "in_reply_to_status_id": "1387140764946378755",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 28 02:44:10 +0000 2021",
+    "favorited": false,
+    "full_text": "@thisiskp_ In the process of building @net_defi in public. Starting with shared ownership of income streams via NFTs. Site is going up at https://t.co/EMrmj9stRK",
+    "lang": "en",
+    "in_reply_to_screen_name": "thisiskp_",
+    "in_reply_to_user_id_str": "4736729423"
+  }
+}

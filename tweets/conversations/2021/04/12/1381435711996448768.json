@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381435711996448768"
+        ],
+        "editableUntil": "2021-04-12T03:35:14.231Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lv0ExfCv8o",
+          "expanded_url": "https://frontier.pioneer.app/posts/bb035d31-definet-progress-update-april-11th-2021",
+          "display_url": "frontier.pioneer.app/posts/bb035d31…",
+          "indices": [
+            "221",
+            "244"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "1",
+    "id_str": "1381435711996448768",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381435711996448768",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 12 02:35:14 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nI did launch the idea that I had and actually expanded it a bit. The revenue did not make it up to $1 yet, but hopefully soon. It is increasing daily. \n\nRead the rest here:\n\n https://t.co/lv0ExfCv8o",
+    "lang": "en"
+  }
+}

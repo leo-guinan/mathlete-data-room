@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1666524275975639057"
+        ],
+        "editableUntil": "2023-06-07T20:15:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "15",
+    "in_reply_to_status_id_str": "1666274460935102464",
+    "id_str": "1666524275975639057",
+    "in_reply_to_user_id": "5614412",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1666524275975639057",
+    "in_reply_to_status_id": "1666274460935102464",
+    "created_at": "Wed Jun 07 19:15:24 +0000 2023",
+    "favorited": false,
+    "full_text": "@mykola Wow, this sums it up well.\n\nSomething I've been working on personally: treat tasks like experiments and get curious about the results.\n\nSimilar to your approach, but I've found it to be repeatable. \n\nMight need to adjust the tasks to be more experiment like, but really helps me",
+    "lang": "en",
+    "in_reply_to_screen_name": "mykola",
+    "in_reply_to_user_id_str": "5614412"
+  }
+}

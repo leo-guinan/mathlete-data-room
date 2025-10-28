@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1604319971655442432"
+        ],
+        "editableUntil": "2022-12-18T04:07:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Farmer in the Del",
+          "screen_name": "craig_misewicz",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1139419418348253186",
+          "id": "1139419418348253186"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1604174468166795265",
+    "id_str": "1604319971655442432",
+    "in_reply_to_user_id": "1139419418348253186",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1604319971655442432",
+    "in_reply_to_status_id": "1604174468166795265",
+    "created_at": "Sun Dec 18 03:37:42 +0000 2022",
+    "favorited": false,
+    "full_text": "@craig_misewicz Awesome! Love to hear that. \n\nYou've got this!",
+    "lang": "en",
+    "in_reply_to_screen_name": "craig_misewicz",
+    "in_reply_to_user_id_str": "1139419418348253186"
+  }
+}

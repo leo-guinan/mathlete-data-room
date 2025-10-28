@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1544475115274084355"
+        ],
+        "editableUntil": "2022-07-06T00:45:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "253"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1544472665834020867",
+    "id_str": "1544475115274084355",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1544475115274084355",
+    "in_reply_to_status_id": "1544472665834020867",
+    "created_at": "Wed Jul 06 00:15:37 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Haha yep! \n\nMostly I just wanted to make sure I used my credits on AWS. Can't let them go to waste!\n\nBut now that I'm out of them (gotta say, they did last me a year after shutting down the startup, so not bad) it's a good time to move.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

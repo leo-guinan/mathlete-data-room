@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1949883220092133423"
+        ],
+        "editableUntil": "2025-07-28T18:22:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mastra",
+          "screen_name": "mastra_ai",
+          "indices": [
+            "62",
+            "72"
+          ],
+          "id_str": "1861308613563949057",
+          "id": "1861308613563949057"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1949883220092133423/photo/1",
+          "indices": [
+            "94",
+            "117"
+          ],
+          "url": "https://t.co/Rt7aPqD5T7",
+          "media_url": "http://pbs.twimg.com/media/Gw9gcOLWkAAzqYn.png",
+          "id_str": "1949883201633030144",
+          "id": "1949883201633030144",
+          "media_url_https": "https://pbs.twimg.com/media/Gw9gcOLWkAAzqYn.png",
+          "sizes": {
+            "medium": {
+              "w": "994",
+              "h": "170",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "994",
+              "h": "170",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "116",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Rt7aPqD5T7"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "117"
+    ],
+    "favorite_count": "1",
+    "id_str": "1949883220092133423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1949883220092133423",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 28 17:22:41 +0000 2025",
+    "favorited": false,
+    "full_text": "Playing around with something cool in preparation for today's @mastra_ai hackathon kickoff... https://t.co/Rt7aPqD5T7",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1949883220092133423/photo/1",
+          "indices": [
+            "94",
+            "117"
+          ],
+          "url": "https://t.co/Rt7aPqD5T7",
+          "media_url": "http://pbs.twimg.com/media/Gw9gcOLWkAAzqYn.png",
+          "id_str": "1949883201633030144",
+          "id": "1949883201633030144",
+          "media_url_https": "https://pbs.twimg.com/media/Gw9gcOLWkAAzqYn.png",
+          "sizes": {
+            "medium": {
+              "w": "994",
+              "h": "170",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "994",
+              "h": "170",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "116",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Rt7aPqD5T7"
+        }
+      ]
+    }
+  }
+}

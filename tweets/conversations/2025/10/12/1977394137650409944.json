@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1977394137650409944"
+        ],
+        "editableUntil": "2025-10-12T16:21:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/x30dL0erSb",
+          "expanded_url": "https://github.com/leo-guinan/4h-auction-indicator/blob/main/README.md",
+          "display_url": "github.com/leo-guinan/4h-…",
+          "indices": [
+            "0",
+            "23"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "23"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1977394135674835050",
+    "id_str": "1977394137650409944",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1977394137650409944",
+    "in_reply_to_status_id": "1977394135674835050",
+    "possibly_sensitive": false,
+    "created_at": "Sun Oct 12 15:21:15 +0000 2025",
+    "favorited": false,
+    "full_text": "https://t.co/x30dL0erSb",
+    "lang": "zxx",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

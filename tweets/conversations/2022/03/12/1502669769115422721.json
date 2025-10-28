@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1502669769115422721"
+        ],
+        "editableUntil": "2022-03-12T16:36:05.868Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eddie B",
+          "screen_name": "thinkknight",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1281992142945214466",
+          "id": "1281992142945214466"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1502487058475937792",
+    "id_str": "1502669769115422721",
+    "in_reply_to_user_id": "1281992142945214466",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1502669769115422721",
+    "in_reply_to_status_id": "1502487058475937792",
+    "created_at": "Sat Mar 12 15:36:05 +0000 2022",
+    "favorited": false,
+    "full_text": "@thinkknight I tend to pick a theme for the week and then post things that align with that theme. Also gives me flexibility to change things up on a weekly basis.\n\nI also tend to schedule things in daily chunks for now. But that's mostly because I've been scheduling a thread a day.",
+    "lang": "en",
+    "in_reply_to_screen_name": "thinkknight",
+    "in_reply_to_user_id_str": "1281992142945214466"
+  }
+}

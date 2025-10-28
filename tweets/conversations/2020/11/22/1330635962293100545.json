@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330635962293100545"
+        ],
+        "editableUntil": "2020-11-22T23:15:10.088Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Patrick OShaughnessy",
+          "screen_name": "patrick_oshag",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1528558014",
+          "id": "1528558014"
+        },
+        {
+          "name": "Matt Clifford",
+          "screen_name": "matthewclifford",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "20405474",
+          "id": "20405474"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1329763878696267776",
+    "id_str": "1330635962293100545",
+    "in_reply_to_user_id": "1528558014",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330635962293100545",
+    "in_reply_to_status_id": "1329763878696267776",
+    "created_at": "Sun Nov 22 22:15:10 +0000 2020",
+    "favorited": false,
+    "full_text": "@patrick_oshag @matthewclifford It all comes down to the flow of information. Ambitious people figure out ways to get themselves the optimal flow of information they need in order to meet their goals.\n\nSource: I am a newly ambitious person studying ambition.",
+    "lang": "en",
+    "in_reply_to_screen_name": "patrick_oshag",
+    "in_reply_to_user_id_str": "1528558014"
+  }
+}

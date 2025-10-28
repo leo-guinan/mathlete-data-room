@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885011945020862780"
+        ],
+        "editableUntil": "2025-01-30T18:07:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1885011945020862780/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/OgRy04IxED",
+          "media_url": "http://pbs.twimg.com/media/GijoUyiWUAA4nxM.jpg",
+          "id_str": "1885011887915421696",
+          "id": "1885011887915421696",
+          "media_url_https": "https://pbs.twimg.com/media/GijoUyiWUAA4nxM.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "768",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "768",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/OgRy04IxED"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1885009733481857414",
+    "id_str": "1885011945020862780",
+    "in_reply_to_user_id": "362189690",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885011945020862780",
+    "in_reply_to_status_id": "1885009733481857414",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 30 17:07:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@iamjasonlevin Challenge accepted! https://t.co/OgRy04IxED",
+    "lang": "en",
+    "in_reply_to_screen_name": "iamjasonlevin",
+    "in_reply_to_user_id_str": "362189690",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1885011945020862780/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/OgRy04IxED",
+          "media_url": "http://pbs.twimg.com/media/GijoUyiWUAA4nxM.jpg",
+          "id_str": "1885011887915421696",
+          "id": "1885011887915421696",
+          "media_url_https": "https://pbs.twimg.com/media/GijoUyiWUAA4nxM.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "768",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "768",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/OgRy04IxED"
+        }
+      ]
+    }
+  }
+}

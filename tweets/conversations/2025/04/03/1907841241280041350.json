@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1907841241280041350"
+        ],
+        "editableUntil": "2025-04-03T18:02:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "sublime",
+          "screen_name": "wwwsublimeapp",
+          "indices": [
+            "22",
+            "36"
+          ],
+          "id_str": "1272246961790484480",
+          "id": "1272246961790484480"
+        },
+        {
+          "name": "sari azout",
+          "screen_name": "sariazout",
+          "indices": [
+            "41",
+            "51"
+          ],
+          "id_str": "34724786",
+          "id": "34724786"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z2gnrR2mNq",
+          "expanded_url": "https://sublime.app/card/memetic-gardens-curated-spaces-where-ideas-can-de",
+          "display_url": "sublime.app/card/memetic-g…",
+          "indices": [
+            "109",
+            "132"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "6",
+    "id_str": "1907841241280041350",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1907841241280041350",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 03 17:02:52 +0000 2025",
+    "favorited": false,
+    "full_text": "It's a great sign for @wwwsublimeapp and @sariazout that the need for Sublime was predicted by my research.\n\nhttps://t.co/Z2gnrR2mNq",
+    "lang": "en"
+  }
+}

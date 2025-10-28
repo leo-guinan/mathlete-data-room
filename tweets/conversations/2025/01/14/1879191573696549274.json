@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1879191573696549274"
+        ],
+        "editableUntil": "2025-01-14T16:39:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "andrew garber - edu/acc 📚",
+          "screen_name": "garberchov",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1037377766373707776",
+          "id": "1037377766373707776"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1879190179904385232",
+    "id_str": "1879191573696549274",
+    "in_reply_to_user_id": "1037377766373707776",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1879191573696549274",
+    "in_reply_to_status_id": "1879190179904385232",
+    "created_at": "Tue Jan 14 15:39:19 +0000 2025",
+    "favorited": false,
+    "full_text": "@garberchov We need to start with stability in the economy, because expectations are growing faster than stability, so there's more and more of a push to create secure outcomes in an unpredictable world.\n\nEducation is something that we understand is valuable and we try to slam a bunch of…",
+    "lang": "en",
+    "in_reply_to_screen_name": "garberchov",
+    "in_reply_to_user_id_str": "1037377766373707776"
+  }
+}

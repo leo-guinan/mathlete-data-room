@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422576666795249668"
+        ],
+        "editableUntil": "2021-08-03T16:14:42.217Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "255"
+    ],
+    "favorite_count": "4",
+    "id_str": "1422576666795249668",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422576666795249668",
+    "created_at": "Tue Aug 03 15:14:42 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, just learned that on Heroku's free plan, I only get 20 connections to my Postgres database. And I used that in about a second when I tried to update things, which crashed my app and then left all the connections in place and left my database unusable.",
+    "lang": "en"
+  }
+}

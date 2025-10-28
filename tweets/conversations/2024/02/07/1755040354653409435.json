@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1755040354653409435"
+        ],
+        "editableUntil": "2024-02-07T02:26:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "257"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1754933750570344606",
+    "id_str": "1755040354653409435",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1755040354653409435",
+    "in_reply_to_status_id": "1754933750570344606",
+    "created_at": "Wed Feb 07 01:26:42 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, got the front end redesigned today. That should be the hard part.\n\nTomorrow I need to fix the backend to send data in the new format, but that should be pretty fast. \n\nWill try to have the new version deployed and in the hands of users tomorrow evening.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

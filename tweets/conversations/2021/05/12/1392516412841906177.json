@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1392516412841906177"
+        ],
+        "editableUntil": "2021-05-12T17:25:59.182Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Roberto Blake 🇺🇸🇵🇦 Creative Entrepreneur",
+          "screen_name": "robertoblake",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "19003754",
+          "id": "19003754"
+        },
+        {
+          "name": "Spotify",
+          "screen_name": "Spotify",
+          "indices": [
+            "67",
+            "75"
+          ],
+          "id_str": "17230018",
+          "id": "17230018"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1392516412841906177",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1392516412841906177",
+    "created_at": "Wed May 12 16:25:59 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @robertoblake: Every platform is starting to monetize Creators. @Spotify announcing monetization, YouTube Shorts, Instagram, it's all on…",
+    "lang": "en"
+  }
+}

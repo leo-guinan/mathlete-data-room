@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932140115624649106"
+        ],
+        "editableUntil": "2025-06-09T19:17:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "17",
+            "33"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932140115624649106/photo/1",
+          "indices": [
+            "34",
+            "57"
+          ],
+          "url": "https://t.co/oj3RwIbEzw",
+          "media_url": "http://pbs.twimg.com/media/GtBXMgNXwAAJzys.jpg",
+          "id_str": "1932140112458006528",
+          "id": "1932140112458006528",
+          "media_url_https": "https://pbs.twimg.com/media/GtBXMgNXwAAJzys.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "124",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "241",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "219",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oj3RwIbEzw"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "2",
+    "id_str": "1932140115624649106",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932140115624649106",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 09 18:17:55 +0000 2025",
+    "favorited": false,
+    "full_text": "This is data art @DefenderOfBasic https://t.co/oj3RwIbEzw",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932140115624649106/photo/1",
+          "indices": [
+            "34",
+            "57"
+          ],
+          "url": "https://t.co/oj3RwIbEzw",
+          "media_url": "http://pbs.twimg.com/media/GtBXMgNXwAAJzys.jpg",
+          "id_str": "1932140112458006528",
+          "id": "1932140112458006528",
+          "media_url_https": "https://pbs.twimg.com/media/GtBXMgNXwAAJzys.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "124",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "241",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "219",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oj3RwIbEzw"
+        }
+      ]
+    }
+  }
+}

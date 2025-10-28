@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1568057300232949764"
+        ],
+        "editableUntil": "2022-09-09T02:32:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1567771492078833665",
+    "id_str": "1568057300232949764",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1568057300232949764",
+    "in_reply_to_status_id": "1567771492078833665",
+    "created_at": "Fri Sep 09 02:02:48 +0000 2022",
+    "favorited": false,
+    "full_text": "@NotechAna Not quite. I didn't phrase it well. But I do think these discussions have been had in the tech community before the AI art won a contest. It was viewed as cool and exciting.\n\nBut now, those outside of those circles are seeing it for the first time, forcing conversations to be had",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

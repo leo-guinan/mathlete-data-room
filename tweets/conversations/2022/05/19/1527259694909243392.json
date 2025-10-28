@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527259694909243392"
+        ],
+        "editableUntil": "2022-05-19T12:37:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Marin's old account",
+          "screen_name": "troll_lock",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1529808534250172420",
+          "id": "1529808534250172420"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "209"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1527220151963332609",
+    "id_str": "1527259694909243392",
+    "in_reply_to_user_id": "43296539",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527259694909243392",
+    "in_reply_to_status_id": "1527220151963332609",
+    "created_at": "Thu May 19 12:07:41 +0000 2022",
+    "favorited": false,
+    "full_text": "@troll_lock Awesome, thanks! Just sent you a DM. That's the realization I've come to as well. Blockchain tends to muddy the conversation a bit and gets away from the key piece of the puzzle: organizing people.",
+    "lang": "en",
+    "in_reply_to_screen_name": "marinwaves",
+    "in_reply_to_user_id_str": "43296539"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941939907129155986"
+        ],
+        "editableUntil": "2025-07-06T20:18:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uWqWbeTx0J",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/internet-20-a-humanai-mesh-network",
+          "display_url": "hitchhikertothefuture.substack.com/p/internet-20-…",
+          "indices": [
+            "15",
+            "38"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941939848954229092",
+    "id_str": "1941939907129155986",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941939907129155986",
+    "in_reply_to_status_id": "1941939848954229092",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 19:18:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@ChrisChipMonk https://t.co/uWqWbeTx0J",
+    "lang": "qme",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

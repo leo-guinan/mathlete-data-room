@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1823855877314752949"
+        ],
+        "editableUntil": "2024-08-14T23:55:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Cursor",
+          "screen_name": "cursor_ai",
+          "indices": [
+            "6",
+            "16"
+          ],
+          "id_str": "1695890961094909952",
+          "id": "1695890961094909952"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "1",
+    "id_str": "1823855877314752949",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1823855877314752949",
+    "created_at": "Wed Aug 14 22:55:01 +0000 2024",
+    "favorited": false,
+    "full_text": "Damn, @cursor_ai is a gamechanger. The level of code I was able to ship today was absolutely incredible.\n\nCreated a high-fidelity prototype for someone in a couple of hours to show some ideas and get some feedback from them.\n\nIt was so incredibly easy. Would have taken days",
+    "lang": "en"
+  }
+}

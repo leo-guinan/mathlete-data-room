@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1682793667717734401"
+        ],
+        "editableUntil": "2023-07-22T17:44:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1682636335725838337",
+    "id_str": "1682793667717734401",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1682793667717734401",
+    "in_reply_to_status_id": "1682636335725838337",
+    "created_at": "Sat Jul 22 16:44:09 +0000 2023",
+    "favorited": false,
+    "full_text": "@finereli Haha, hopefully not! \n\nI'm planning on starting with my own approach to things, but ideally, I'll be able to offer the ability to create your own that you can offer, based on your values and approach. \n\nI am firmly in the camp that my approach isn't the best for everyone, and…",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

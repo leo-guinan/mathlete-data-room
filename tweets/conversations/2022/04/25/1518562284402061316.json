@@ -1,0 +1,75 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1518562284402061316"
+        ],
+        "editableUntil": "2022-04-25T13:07:16.781Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "99",
+            "106"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "22",
+            "33"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fy1VOYy8Hp",
+          "expanded_url": "https://vm.tiktok.com/ZTd4HQM75/",
+          "display_url": "vm.tiktok.com/ZTd4HQM75/",
+          "indices": [
+            "107",
+            "130"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "130"
+    ],
+    "favorite_count": "0",
+    "id_str": "1518562284402061316",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1518562284402061316",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 25 12:07:16 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: I see @LobowSpark over here just making an impact!\n\nCheck out Matthew Fry's video! #TikTok https://t.co/fy1VOYy8Hp",
+    "lang": "en"
+  }
+}

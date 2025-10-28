@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515302176624721922"
+        ],
+        "editableUntil": "2022-04-16T12:42:46.517Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1515302176624721922/photo/1",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/JACiMebZi4",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQdvS7MXEAcbMH6.jpg",
+          "id_str": "1515302170551324679",
+          "id": "1515302170551324679",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQdvS7MXEAcbMH6.jpg",
+          "sizes": {
+            "medium": {
+              "w": "220",
+              "h": "176",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "176",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "176",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JACiMebZi4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1515167823542505476",
+    "id_str": "1515302176624721922",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1515302176624721922",
+    "in_reply_to_status_id": "1515167823542505476",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 16 12:12:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go Rule 1: Never miss a chance to celebrate! https://t.co/JACiMebZi4",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1515302176624721922/photo/1",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/JACiMebZi4",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQdvS7MXEAcbMH6.jpg",
+          "id_str": "1515302170551324679",
+          "video_info": {
+            "aspect_ratio": [
+              "5",
+              "4"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FQdvS7MXEAcbMH6.mp4"
+              }
+            ]
+          },
+          "id": "1515302170551324679",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQdvS7MXEAcbMH6.jpg",
+          "sizes": {
+            "medium": {
+              "w": "220",
+              "h": "176",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "176",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "176",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/JACiMebZi4"
+        }
+      ]
+    }
+  }
+}

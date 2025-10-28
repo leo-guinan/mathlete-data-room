@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1921966769519915469"
+        ],
+        "editableUntil": "2025-05-12T17:32:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/O46krX9WYz",
+          "expanded_url": "https://x.com/leo_guinan/status/1921687599992709207",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1921959563240116482",
+    "id_str": "1921966769519915469",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1921966769519915469",
+    "in_reply_to_status_id": "1921959563240116482",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 12 16:32:40 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic Here's how I tried to steer my own personal economy through storytelling.\n\nYou capture this well.\n\nhttps://t.co/O46krX9WYz",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507851756616749062"
+        ],
+        "editableUntil": "2022-03-26T23:47:27.965Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MATT GRAY",
+          "screen_name": "matt_gray_",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "308800426",
+          "id": "308800426"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1507851756616749062",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507851756616749062",
+    "created_at": "Sat Mar 26 22:47:27 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @matt_gray_: You'd interact with 20 odd people in your day.\n\nYou don't know what each of them is going through.\n\nWhat are their challeng…",
+    "lang": "en"
+  }
+}

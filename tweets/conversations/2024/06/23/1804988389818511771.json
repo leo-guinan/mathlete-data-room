@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1804988389818511771"
+        ],
+        "editableUntil": "2024-06-23T22:22:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ellen Fishbein",
+          "screen_name": "EllenRhymes",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "3016316704",
+          "id": "3016316704"
+        },
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "13",
+            "27"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CTyXPKFZWN",
+          "expanded_url": "https://x.com/leo_guinan/status/1804986673199202616",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "85",
+            "108"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1804986673199202616",
+    "id_str": "1804988389818511771",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1804988389818511771",
+    "in_reply_to_status_id": "1804986673199202616",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 23 21:22:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@EllenRhymes @iamjasonlevin (quoting since long replies don't trigger notifications)\nhttps://t.co/CTyXPKFZWN",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

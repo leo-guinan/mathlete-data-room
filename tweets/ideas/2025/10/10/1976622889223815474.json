@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1976622889223815474"
+        ],
+        "editableUntil": "2025-10-10T13:16:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1976622889223815474/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/Q5ZXIGKE3f",
+          "media_url": "http://pbs.twimg.com/media/G25fr1zWUAAtqvX.jpg",
+          "id_str": "1976622493243691008",
+          "id": "1976622493243691008",
+          "media_url_https": "https://pbs.twimg.com/media/G25fr1zWUAAtqvX.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Q5ZXIGKE3f"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "305"
+    ],
+    "favorite_count": "3",
+    "id_str": "1976622889223815474",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1976622889223815474",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 10 12:16:35 +0000 2025",
+    "favorited": false,
+    "full_text": "These are your 2025 Market Rabbit Grand Champions!!!\n\nMy 10yo doesn't even realize yet what a big deal this win was. Most people won't ever get the opportunity to win at this level. My 14 yo is jealous, but I have some great video of him coaching his brother that I'm going to put… https://t.co/Q5ZXIGKE3f",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1976622889223815474/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/Q5ZXIGKE3f",
+          "media_url": "http://pbs.twimg.com/media/G25fr1zWUAAtqvX.jpg",
+          "id_str": "1976622493243691008",
+          "id": "1976622493243691008",
+          "media_url_https": "https://pbs.twimg.com/media/G25fr1zWUAAtqvX.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Q5ZXIGKE3f"
+        }
+      ]
+    }
+  }
+}

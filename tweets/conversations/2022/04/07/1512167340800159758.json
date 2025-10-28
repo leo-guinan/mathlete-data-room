@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1512167340800159758"
+        ],
+        "editableUntil": "2022-04-07T21:36:03.414Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Janine Sickmeyer",
+          "screen_name": "myfriendjanine",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "14766188",
+          "id": "14766188"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bzkHUNjWRW",
+          "expanded_url": "https://feathercrm.io",
+          "display_url": "feathercrm.io",
+          "indices": [
+            "25",
+            "48"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1511842359897640960",
+    "id_str": "1512167340800159758",
+    "in_reply_to_user_id": "14766188",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1512167340800159758",
+    "in_reply_to_status_id": "1511842359897640960",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 07 20:36:03 +0000 2022",
+    "favorited": false,
+    "full_text": "@myfriendjanine Feather: https://t.co/bzkHUNjWRW\nTeam: just me for now, although looking to expand team soon\nIndustry: cooperative social media\n1st year\nJust launched latest feature to beta users, doing full product launch next week\n\nLooking for users and intros to angels atm",
+    "lang": "en",
+    "in_reply_to_screen_name": "myfriendjanine",
+    "in_reply_to_user_id_str": "14766188"
+  }
+}

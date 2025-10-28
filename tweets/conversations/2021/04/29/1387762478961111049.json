@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1387762478961111049"
+        ],
+        "editableUntil": "2021-04-29T14:35:33.021Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Traverse.link",
+          "screen_name": "TraverseLink",
+          "indices": [
+            "12",
+            "25"
+          ],
+          "id_str": "1385517652391645186",
+          "id": "1385517652391645186"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6lUQ75xeNs",
+          "expanded_url": "https://traverse.link/Chadmeistr/The%20search%20for%20yield%20continued.../?learning=1",
+          "display_url": "traverse.link/Chadmeistr/The…",
+          "indices": [
+            "102",
+            "125"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1387684212245884930",
+    "id_str": "1387762478961111049",
+    "in_reply_to_user_id": "700696183",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1387762478961111049",
+    "in_reply_to_status_id": "1387684212245884930",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 29 13:35:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@RyanChadha @TraverseLink awesome course! just an fyi, noticed a bad link at the bottom of this page: https://t.co/6lUQ75xeNs",
+    "lang": "en",
+    "in_reply_to_screen_name": "ChadManRyger",
+    "in_reply_to_user_id_str": "700696183"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345403740384333825"
+        ],
+        "editableUntil": "2021-01-02T17:17:02.757Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amy Cheetham",
+          "screen_name": "amyecheetham",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "304227484",
+          "id": "304227484"
+        },
+        {
+          "name": "Alex Iskold | 2048.vc",
+          "screen_name": "alexiskold",
+          "indices": [
+            "14",
+            "25"
+          ],
+          "id_str": "2226061",
+          "id": "2226061"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "209"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1345396753256730624",
+    "id_str": "1345403740384333825",
+    "in_reply_to_user_id": "304227484",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345403740384333825",
+    "in_reply_to_status_id": "1345396753256730624",
+    "created_at": "Sat Jan 02 16:17:02 +0000 2021",
+    "favorited": false,
+    "full_text": "@amyecheetham @alexiskold One of the futures that I see as possible is a death of chain stores and the rise of small business again. Would love to talk with you about what I am building, if you are interested.",
+    "lang": "en",
+    "in_reply_to_screen_name": "amyecheetham",
+    "in_reply_to_user_id_str": "304227484"
+  }
+}

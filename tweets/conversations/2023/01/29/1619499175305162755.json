@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1619499175305162755"
+        ],
+        "editableUntil": "2023-01-29T01:24:26.889Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "116",
+            "127"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1619499175305162755",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1619499175305162755",
+    "created_at": "Sun Jan 29 00:54:26 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: Oh hell yes!! Going to watch this immediately! I’m torn on my opinion of AI so I can’t wait! Thanks @leo_guinan &amp; @MechiMan…",
+    "lang": "en"
+  }
+}

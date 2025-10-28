@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1781088851986944209"
+        ],
+        "editableUntil": "2024-04-18T23:34:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "37",
+            "48"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "129",
+            "137"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hWa1lchkxp",
+          "expanded_url": "https://youtu.be/Of90d4tbVvc?si=1mdeMuiY0_-WUgUP",
+          "display_url": "youtu.be/Of90d4tbVvc?si…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "137"
+    ],
+    "favorite_count": "1",
+    "id_str": "1781088851986944209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1781088851986944209",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 18 22:34:08 +0000 2024",
+    "favorited": false,
+    "full_text": "Finally checking out this episode of @LobowSpark!\n\nADHD Realities: Unveiling the Science and Stories https://t.co/hWa1lchkxp via @YouTube",
+    "lang": "en"
+  }
+}

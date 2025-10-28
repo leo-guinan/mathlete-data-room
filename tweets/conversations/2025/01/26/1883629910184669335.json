@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1883629910184669335"
+        ],
+        "editableUntil": "2025-01-26T22:35:41.396Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anton 🇺🇸",
+          "screen_name": "atroyn",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "889394994607529984",
+          "id": "889394994607529984"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KdfrrqTNpO",
+          "expanded_url": "https://x.com/mayaofspring/status/1883621804314411290",
+          "display_url": "x.com/mayaofspring/s…",
+          "indices": [
+            "12",
+            "35"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "0",
+    "id_str": "1883629910184669335",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1883629910184669335",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jan 26 21:35:41 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @atroyn: https://t.co/KdfrrqTNpO",
+    "lang": "zxx"
+  }
+}

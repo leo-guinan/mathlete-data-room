@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898246674893447636"
+        ],
+        "editableUntil": "2025-03-08T06:37:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anna Gát 🧭",
+          "screen_name": "TheAnnaGat",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "22073831",
+          "id": "22073831"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "31",
+            "45"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "188"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898144984270094605",
+    "id_str": "1898246674893447636",
+    "in_reply_to_user_id": "22073831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898246674893447636",
+    "in_reply_to_status_id": "1898144984270094605",
+    "created_at": "Sat Mar 08 05:37:29 +0000 2025",
+    "favorited": false,
+    "full_text": "@TheAnnaGat I think he needs a @glitchishuman actually. Something to put a little chaos in his optimizations. \n\nAlthough a hug might be sufficient enough chaos in an overly optimized body…",
+    "lang": "en",
+    "in_reply_to_screen_name": "TheAnnaGat",
+    "in_reply_to_user_id_str": "22073831"
+  }
+}

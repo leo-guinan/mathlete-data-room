@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1896715474429501740"
+        ],
+        "editableUntil": "2025-03-04T01:13:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/N4qALsHzU5",
+          "expanded_url": "https://github.com/leo-guinan/PhD/",
+          "display_url": "github.com/leo-guinan/PhD/",
+          "indices": [
+            "18",
+            "41"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "19",
+    "in_reply_to_status_id_str": "1896715472952758434",
+    "id_str": "1896715474429501740",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1896715474429501740",
+    "in_reply_to_status_id": "1896715472952758434",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 04 00:13:03 +0000 2025",
+    "favorited": false,
+    "full_text": "Here's mine now: \nhttps://t.co/N4qALsHzU5",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

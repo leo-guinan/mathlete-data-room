@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345563055967637505"
+        ],
+        "editableUntil": "2021-01-03T03:50:06.552Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Scalzi",
+          "screen_name": "scalzi",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "1867561604834877440",
+          "id": "1867561604834877440"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Km2QvTx03N",
+          "expanded_url": "https://x.com/tessalaprofessa/status/1345525417197891585?s=19",
+          "display_url": "x.com/tessalaprofess…",
+          "indices": [
+            "70",
+            "93"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1345562729260711937",
+    "id_str": "1345563055967637505",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345563055967637505",
+    "in_reply_to_status_id": "1345562729260711937",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jan 03 02:50:06 +0000 2021",
+    "favorited": false,
+    "full_text": "@scalzi This came up earlier and I loved it. Seems appropriate here.\n\nhttps://t.co/Km2QvTx03N",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

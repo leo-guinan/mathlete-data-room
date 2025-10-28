@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566457251736453120"
+        ],
+        "editableUntil": "2022-09-04T16:34:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Corey Wilks, Psy.D.",
+          "screen_name": "CoreyWilksPsyD",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1246991611793420288",
+          "id": "1246991611793420288"
+        },
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "16",
+            "26"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Khe Hy",
+          "screen_name": "khemaridh",
+          "indices": [
+            "27",
+            "37"
+          ],
+          "id_str": "592068784",
+          "id": "592068784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1566456961197031426",
+    "id_str": "1566457251736453120",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566457251736453120",
+    "in_reply_to_status_id": "1566456961197031426",
+    "created_at": "Sun Sep 04 16:04:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@CoreyWilksPsyD @p_millerd @khemaridh The more they get done, the more they get assigned. \n\nPay is tied to titles. Not outcomes.  So the game becomes all about advancing on the ladder instead of bettering output.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899321382330159384"
+        ],
+        "editableUntil": "2025-03-11T05:47:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "⿻ Andrew Trask",
+          "screen_name": "iamtrask",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "929211084",
+          "id": "929211084"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "163",
+            "177"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1899319350122664114",
+    "id_str": "1899321382330159384",
+    "in_reply_to_user_id": "929211084",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1899321382330159384",
+    "in_reply_to_status_id": "1899319350122664114",
+    "created_at": "Tue Mar 11 04:47:59 +0000 2025",
+    "favorited": false,
+    "full_text": "@iamtrask That’s why I prefer chaos over hype. Chaos is much less predictable. \n\nIf you want to see something worthy of hype that doesn’t look the part, check out @glitchishuman   \n\nThere’s a much deeper truth that’s part of this project that people are missing.",
+    "lang": "en",
+    "in_reply_to_screen_name": "iamtrask",
+    "in_reply_to_user_id_str": "929211084"
+  }
+}

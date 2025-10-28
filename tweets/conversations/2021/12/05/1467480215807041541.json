@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1467480215807041541"
+        ],
+        "editableUntil": "2021-12-05T14:05:22.569Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "257"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1467338755098951680",
+    "id_str": "1467480215807041541",
+    "in_reply_to_user_id": "45603991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1467480215807041541",
+    "in_reply_to_status_id": "1467338755098951680",
+    "created_at": "Sun Dec 05 13:05:22 +0000 2021",
+    "favorited": false,
+    "full_text": "@AndyM84 @feathercrm Thanks Andrew! Definitely feels good to have it up now. Feels really limited and barebones right now, but should hopefully scale fairly easily and features should be a lot easier to add. \n\nBut it's live, and that's the important part. 😎",
+    "lang": "en",
+    "in_reply_to_screen_name": "AndyM84",
+    "in_reply_to_user_id_str": "45603991"
+  }
+}

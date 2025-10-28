@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1393601290228445191"
+        ],
+        "editableUntil": "2021-05-15T17:16:54.107Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "108",
+            "116"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uGnikvE08o",
+          "expanded_url": "https://youtu.be/vjDdERXF89U",
+          "display_url": "youtu.be/vjDdERXF89U",
+          "indices": [
+            "80",
+            "103"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "4",
+    "id_str": "1393601290228445191",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1393601290228445191",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 15 16:16:54 +0000 2021",
+    "favorited": false,
+    "full_text": "Check out our pitch for @net_defi here!\nDeFiNet Pitch Video - Draper University https://t.co/uGnikvE08o via @YouTube",
+    "lang": "en"
+  }
+}

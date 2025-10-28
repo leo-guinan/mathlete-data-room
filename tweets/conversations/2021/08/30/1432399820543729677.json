@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432399820543729677"
+        ],
+        "editableUntil": "2021-08-30T18:48:24.576Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tom",
+          "screen_name": "tomjacquesson",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1355489467503669248",
+          "id": "1355489467503669248"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NgCw7kUnqd",
+          "expanded_url": "Https://feathercrm.io",
+          "display_url": "feathercrm.io",
+          "indices": [
+            "51",
+            "74"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1432394441214595076",
+    "id_str": "1432399820543729677",
+    "in_reply_to_user_id": "1355489467503669248",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432399820543729677",
+    "in_reply_to_status_id": "1432394441214595076",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 30 17:48:24 +0000 2021",
+    "favorited": false,
+    "full_text": "@tomjacquesson @feathercrm - the CRM for Twitter\n\n(https://t.co/NgCw7kUnqd)",
+    "lang": "en",
+    "in_reply_to_screen_name": "tomjacquesson",
+    "in_reply_to_user_id_str": "1355489467503669248"
+  }
+}

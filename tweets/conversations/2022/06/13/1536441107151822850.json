@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536441107151822850"
+        ],
+        "editableUntil": "2022-06-13T20:41:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🦾✝️🤳 Jesus needs a minute",
+          "screen_name": "evan_just_evan",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1282006421551415298",
+          "id": "1282006421551415298"
+        },
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "16",
+            "31"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g4A3kxvtS7",
+          "expanded_url": "https://securityboulevard.com/2022/02/kansas-missile-silo-for-sale-380k/",
+          "display_url": "securityboulevard.com/2022/02/kansas…",
+          "indices": [
+            "139",
+            "162"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1536438750342963204",
+    "id_str": "1536441107151822850",
+    "in_reply_to_user_id": "1282006421551415298",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536441107151822850",
+    "in_reply_to_status_id": "1536438750342963204",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 13 20:11:20 +0000 2022",
+    "favorited": false,
+    "full_text": "@evan_just_evan @markyerkes1734 *sigh*\n\nthat is the inevitable result\n\n(but on a side note, there is apparently a silo for sale in Kansas: https://t.co/g4A3kxvtS7, which I may or may not be trying to think up creative ways to pay for and renovate...AirSilo or SiloBNB anyone?\n)",
+    "lang": "en",
+    "in_reply_to_screen_name": "evan_just_evan",
+    "in_reply_to_user_id_str": "1282006421551415298"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339987575797403649"
+        ],
+        "editableUntil": "2020-12-18T18:35:08.492Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Navshah Balwar",
+          "screen_name": "navshah",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1629355673136898049",
+          "id": "1629355673136898049"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1339978292229619714",
+    "id_str": "1339987575797403649",
+    "in_reply_to_user_id": "83845423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339987575797403649",
+    "in_reply_to_status_id": "1339978292229619714",
+    "created_at": "Fri Dec 18 17:35:08 +0000 2020",
+    "favorited": false,
+    "full_text": "@Navshah @CodesCarla That's good feedback, thanks. I have an engineering background, not a marketing one, so that is one area I am trying to focus on. The best way for me to do that is give it a shot, see what happens, and then try again.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "83845423"
+  }
+}

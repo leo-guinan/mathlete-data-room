@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1404253618971332610"
+        ],
+        "editableUntil": "2021-06-14T02:45:27.190Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SpBLlLPStS",
+          "expanded_url": "https://medium.com/swlh/dont-just-build-in-public-fail-in-public-815155985da2?sk=d4479f7fc408c8765646fe051c61acb3",
+          "display_url": "medium.com/swlh/dont-just…",
+          "indices": [
+            "83",
+            "106"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "106"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1403876761394421766",
+    "id_str": "1404253618971332610",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1404253618971332610",
+    "in_reply_to_status_id": "1403876761394421766",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 14 01:45:27 +0000 2021",
+    "favorited": false,
+    "full_text": "And here's where I thought everything boiled down to one day. And it didn't work.\n\nhttps://t.co/SpBLlLPStS",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

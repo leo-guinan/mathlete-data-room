@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1780321570516259090"
+        ],
+        "editableUntil": "2024-04-16T20:45:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1780292374796599345",
+    "id_str": "1780321570516259090",
+    "in_reply_to_user_id": "2518563752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1780321570516259090",
+    "in_reply_to_status_id": "1780292374796599345",
+    "created_at": "Tue Apr 16 19:45:13 +0000 2024",
+    "favorited": false,
+    "full_text": "@anuatluru My personal modeling led me to $10M. $1M pre-seed, $4M seed, and then $5M crowd funding.\n\nBut that's based on being able to grant fellowships, and simply will extend the number I'd be able to offer. \n\nThe payoff for those fellowships will come in data generated + tools built",
+    "lang": "en",
+    "in_reply_to_screen_name": "anuatluru",
+    "in_reply_to_user_id_str": "2518563752"
+  }
+}

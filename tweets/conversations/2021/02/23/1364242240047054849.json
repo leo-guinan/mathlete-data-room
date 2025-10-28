@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1364242240047054849"
+        ],
+        "editableUntil": "2021-02-23T16:54:31.079Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Päivi Butcher has gone to 🦋✌🏻",
+          "screen_name": "Finnattentive",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "766273641386508288",
+          "id": "766273641386508288"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BAeg2qD9Gl",
+          "expanded_url": "https://adhdstartup.substack.com",
+          "display_url": "adhdstartup.substack.com",
+          "indices": [
+            "196",
+            "219"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "219"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1364241802618929154",
+    "id_str": "1364242240047054849",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1364242240047054849",
+    "in_reply_to_status_id": "1364241802618929154",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 23 15:54:31 +0000 2021",
+    "favorited": false,
+    "full_text": "@Finnattentive instead of against it. I just launched a newsletter yesterday talking about how ADHD has affected me and what it's like trying to start a company with ADHD if anyone is interested: https://t.co/BAeg2qD9Gl",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

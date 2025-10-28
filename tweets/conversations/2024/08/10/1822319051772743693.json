@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1822319051772743693"
+        ],
+        "editableUntil": "2024-08-10T18:08:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "56",
+            "66"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1822319051772743693/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/udu7Mc04cu",
+          "media_url": "http://pbs.twimg.com/media/GUotPAkW8AADJGM.jpg",
+          "id_str": "1822318735098572800",
+          "id": "1822318735098572800",
+          "media_url_https": "https://pbs.twimg.com/media/GUotPAkW8AADJGM.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/udu7Mc04cu"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "305"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1822308870691156462",
+    "id_str": "1822319051772743693",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1822319051772743693",
+    "in_reply_to_status_id": "1822308870691156462",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 10 17:08:13 +0000 2024",
+    "favorited": false,
+    "full_text": "Created a mascot for The Bootstrapped Founder. Thoughts @arvidkahl?\n\n\"This mascot concept embodies several key aspects of The Bootstrapped Founder brand:\n\nAcorn symbolism: Represents the potential for growth from small beginnings, much like a bootstrapped business.\nSelf-reliance:… https://t.co/udu7Mc04cu",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1822319051772743693/photo/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/udu7Mc04cu",
+          "media_url": "http://pbs.twimg.com/media/GUotPAkW8AADJGM.jpg",
+          "id_str": "1822318735098572800",
+          "id": "1822318735098572800",
+          "media_url_https": "https://pbs.twimg.com/media/GUotPAkW8AADJGM.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/udu7Mc04cu"
+        }
+      ]
+    }
+  }
+}

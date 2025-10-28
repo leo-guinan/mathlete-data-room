@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507819787669450759"
+        ],
+        "editableUntil": "2022-03-26T21:40:25.974Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1507818958384156681",
+    "id_str": "1507819787669450759",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507819787669450759",
+    "in_reply_to_status_id": "1507818958384156681",
+    "created_at": "Sat Mar 26 20:40:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Because there isn't one. There are things that try to be, but then get so overloaded a with volume that signal drops and they become useless.\n\nThat's the problem with how most things are currently scaled.\n\nWe need to start shifting away from volume and focusing on accuracy",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566601700231741440"
+        ],
+        "editableUntil": "2022-09-05T02:08:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1566574229788807169",
+    "id_str": "1566601700231741440",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566601700231741440",
+    "in_reply_to_status_id": "1566574229788807169",
+    "created_at": "Mon Sep 05 01:38:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@bkh_leung That's a good call. I'm working on figuring out what I want that to look like. I've got a couple of things that are pretty set in stone and others that are fluid.\n\nTrying to find the right balance overall.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862"
+  }
+}

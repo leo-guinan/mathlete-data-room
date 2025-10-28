@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1514600459796889600"
+        ],
+        "editableUntil": "2022-04-14T14:44:24.188Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HwT2PlIcIH",
+          "expanded_url": "https://x.com/reddy2go/status/1514296492189949952",
+          "display_url": "x.com/reddy2go/statu…",
+          "indices": [
+            "71",
+            "94"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "1",
+    "id_str": "1514600459796889600",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1514600459796889600",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 14 13:44:24 +0000 2022",
+    "favorited": false,
+    "full_text": "Bummed I missed the live conversation, but catching the recording now! https://t.co/HwT2PlIcIH",
+    "lang": "en"
+  }
+}

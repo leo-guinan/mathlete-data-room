@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553387962326519808"
+        ],
+        "editableUntil": "2022-07-30T15:02:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Sven 👉 intribe.co",
+          "screen_name": "radavics",
+          "indices": [
+            "11",
+            "20"
+          ],
+          "id_str": "90027390",
+          "id": "90027390"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1553280207540436992",
+    "id_str": "1553387962326519808",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553387962326519808",
+    "in_reply_to_status_id": "1553280207540436992",
+    "created_at": "Sat Jul 30 14:32:05 +0000 2022",
+    "favorited": false,
+    "full_text": "@NotechAna @radavics Not sure about the global breakdown of your normal audience, but the timing was tough for the US part of it. 5AM my time, so I wanted to listen live, but wasn't able to.\n\nSo I definitely appreciate the recording being available! :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803982115312165168"
+        ],
+        "editableUntil": "2024-06-21T03:43:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "Foster",
+          "screen_name": "0xFoster",
+          "indices": [
+            "10",
+            "19"
+          ],
+          "id_str": "1250822143597703169",
+          "id": "1250822143597703169"
+        },
+        {
+          "name": "jack",
+          "screen_name": "jackbutcher",
+          "indices": [
+            "20",
+            "32"
+          ],
+          "id_str": "52188203",
+          "id": "52188203"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "147"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1803621614862606436",
+    "id_str": "1803982115312165168",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803982115312165168",
+    "in_reply_to_status_id": "1803621614862606436",
+    "created_at": "Fri Jun 21 02:43:47 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli @0xFoster @jackbutcher 🙏 appreciate that! Might have to build a chrome extension that does an automatic check any time I write anything 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

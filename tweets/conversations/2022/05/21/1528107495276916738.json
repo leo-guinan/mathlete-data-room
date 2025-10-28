@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1528107495276916738"
+        ],
+        "editableUntil": "2022-05-21T20:46:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GZnfl2AIS6",
+          "expanded_url": "http://Render.com",
+          "display_url": "Render.com",
+          "indices": [
+            "186",
+            "209"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1528065127374802945",
+    "id_str": "1528107495276916738",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1528107495276916738",
+    "in_reply_to_status_id": "1528065127374802945",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 21 20:16:32 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, backend has been deployed successfully. Had to fix all sorts of little things along the way, but got it working and got it pointed to a real URL.\n\nNow, working on the frontend. Used https://t.co/GZnfl2AIS6 for the backend because that's what I found to be the nicest.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

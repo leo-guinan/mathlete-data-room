@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1920523220517617717"
+        ],
+        "editableUntil": "2025-05-08T17:56:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Champion 0f The Goddess",
+          "screen_name": "Seraph_Notitia",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1716575515476439040",
+          "id": "1716575515476439040"
+        },
+        {
+          "name": "VitaminEMafia",
+          "screen_name": "ISeePattern",
+          "indices": [
+            "16",
+            "28"
+          ],
+          "id_str": "1854060802883358736",
+          "id": "1854060802883358736"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1920279017027993912",
+    "id_str": "1920523220517617717",
+    "in_reply_to_user_id": "1716575515476439040",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1920523220517617717",
+    "in_reply_to_status_id": "1920279017027993912",
+    "created_at": "Thu May 08 16:56:32 +0000 2025",
+    "favorited": false,
+    "full_text": "@Seraph_Notitia @ISeePattern 100%\n\nBecause it's not repeatable by just anyone, only by those who can see the flows. This means that it gets categorized as high risk by systems that believe anything they can't control is risky.\n\nThe number one rule of alchemy is that you can't force it to happen.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Seraph_Notitia",
+    "in_reply_to_user_id_str": "1716575515476439040"
+  }
+}

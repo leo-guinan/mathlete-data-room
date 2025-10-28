@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1548860121765347331"
+        ],
+        "editableUntil": "2022-07-18T03:10:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HellIsReal",
+          "indices": [
+            "21",
+            "32"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oJZ3D40i7z",
+          "expanded_url": "https://x.com/ColumbusCrew/status/1548859378354339840",
+          "display_url": "x.com/ColumbusCrew/s…",
+          "indices": [
+            "33",
+            "56"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "0",
+    "id_str": "1548860121765347331",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1548860121765347331",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 18 02:40:04 +0000 2022",
+    "favorited": false,
+    "full_text": "Brutal.\n\nI approve.\n\n#HellIsReal https://t.co/oJZ3D40i7z",
+    "lang": "en"
+  }
+}

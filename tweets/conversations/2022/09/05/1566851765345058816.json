@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566851765345058816"
+        ],
+        "editableUntil": "2022-09-05T18:42:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lee Englestone 💡🧠👨‍💻🚀",
+          "screen_name": "LeeEnglestone",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "21288689",
+          "id": "21288689"
+        },
+        {
+          "name": "Who Should I Unfollow?",
+          "screen_name": "should_unfollow",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "1544441682741043203",
+          "id": "1544441682741043203"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "311"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1566851186162110464",
+    "id_str": "1566851765345058816",
+    "in_reply_to_user_id": "21288689",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566851765345058816",
+    "in_reply_to_status_id": "1566851186162110464",
+    "created_at": "Mon Sep 05 18:12:26 +0000 2022",
+    "favorited": false,
+    "full_text": "@LeeEnglestone @should_unfollow Unfortunately it does. I tried using the newer Oauth 2 implementation but it was too buggy. The token refresh wasn't reliable,  so I switched back to oauth1.1, which has read, read/write, and read/write/DM permissions. \n\nIt's set at read/write which is the lowest for it to work.",
+    "lang": "en",
+    "in_reply_to_screen_name": "LeeEnglestone",
+    "in_reply_to_user_id_str": "21288689"
+  }
+}

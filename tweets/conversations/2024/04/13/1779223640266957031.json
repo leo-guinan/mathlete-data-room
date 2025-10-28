@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1779223640266957031"
+        ],
+        "editableUntil": "2024-04-13T20:02:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Airchat",
+          "screen_name": "getairchat",
+          "indices": [
+            "20",
+            "31"
+          ],
+          "id_str": "1645242503434731520",
+          "id": "1645242503434731520"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AFln7G1wZG",
+          "expanded_url": "https://air.chat/leoguinan",
+          "display_url": "air.chat/leoguinan",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "1",
+    "id_str": "1779223640266957031",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1779223640266957031",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 13 19:02:26 +0000 2024",
+    "favorited": false,
+    "full_text": "Playing around with @getairchat now.\n\nhttps://t.co/AFln7G1wZG",
+    "lang": "en"
+  }
+}

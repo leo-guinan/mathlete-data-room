@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902397943006495138"
+        ],
+        "editableUntil": "2025-03-19T17:33:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Friedman 🤠",
+          "screen_name": "heyalexfriedman",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1085404386929659905",
+          "id": "1085404386929659905"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1902378519562170703",
+    "id_str": "1902397943006495138",
+    "in_reply_to_user_id": "1085404386929659905",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902397943006495138",
+    "in_reply_to_status_id": "1902378519562170703",
+    "created_at": "Wed Mar 19 16:33:09 +0000 2025",
+    "favorited": false,
+    "full_text": "@heyalexfriedman Or, hear me out....\n\nWhat if we used AI to do a ton, and we simply livestream it while talking about the research that went into everything while building tools that don't need to have a shelf-life because code is content and content is code.\n\nIt's all a story now...\n\n(It's what…",
+    "lang": "en",
+    "in_reply_to_screen_name": "heyalexfriedman",
+    "in_reply_to_user_id_str": "1085404386929659905"
+  }
+}

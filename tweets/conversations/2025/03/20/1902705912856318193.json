@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902705912856318193"
+        ],
+        "editableUntil": "2025-03-20T13:56:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Duncan",
+          "screen_name": "byte_curious_",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1825575989608353792",
+          "id": "1825575989608353792"
+        },
+        {
+          "name": "MrBeast",
+          "screen_name": "MrBeast",
+          "indices": [
+            "15",
+            "23"
+          ],
+          "id_str": "2455740283",
+          "id": "2455740283"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1902703282176348562",
+    "id_str": "1902705912856318193",
+    "in_reply_to_user_id": "1825575989608353792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902705912856318193",
+    "in_reply_to_status_id": "1902703282176348562",
+    "created_at": "Thu Mar 20 12:56:54 +0000 2025",
+    "favorited": false,
+    "full_text": "@byte_curious_ @MrBeast Ok, now this is the perfect use for some generative AI.\n\nYou have people trade their image/likeness for surgery and then give people the videos that they seem to think are already happening.\n\nThere's also a lovely tie in to eye surgery specifically, when it comes to seeing...",
+    "lang": "en",
+    "in_reply_to_screen_name": "byte_curious_",
+    "in_reply_to_user_id_str": "1825575989608353792"
+  }
+}

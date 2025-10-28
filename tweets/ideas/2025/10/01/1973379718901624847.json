@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973379718901624847"
+        ],
+        "editableUntil": "2025-10-01T14:29:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973379718901624847/photo/1",
+          "indices": [
+            "273",
+            "296"
+          ],
+          "url": "https://t.co/FAAzFBzNQR",
+          "media_url": "http://pbs.twimg.com/media/G2LZ4-FXgAA8beq.jpg",
+          "id_str": "1973379159503110144",
+          "id": "1973379159503110144",
+          "media_url_https": "https://pbs.twimg.com/media/G2LZ4-FXgAA8beq.jpg",
+          "sizes": {
+            "small": {
+              "w": "477",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "841",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1436",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/FAAzFBzNQR"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "1",
+    "id_str": "1973379718901624847",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973379718901624847",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 01 13:29:23 +0000 2025",
+    "favorited": false,
+    "full_text": "I've been working on reviving my youtube channel. If you look at the video I posted on monday, it took some time to take off. \n\nWhen I realized I wasn't getting traction, I noticed I had to give YT a little more to work with. So I uploaded a few shorts throughout the day… https://t.co/FAAzFBzNQR",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973379718901624847/photo/1",
+          "indices": [
+            "273",
+            "296"
+          ],
+          "url": "https://t.co/FAAzFBzNQR",
+          "media_url": "http://pbs.twimg.com/media/G2LZ4-FXgAA8beq.jpg",
+          "id_str": "1973379159503110144",
+          "id": "1973379159503110144",
+          "media_url_https": "https://pbs.twimg.com/media/G2LZ4-FXgAA8beq.jpg",
+          "sizes": {
+            "small": {
+              "w": "477",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "841",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1436",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/FAAzFBzNQR"
+        }
+      ]
+    }
+  }
+}

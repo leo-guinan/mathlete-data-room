@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516833636930236423"
+        ],
+        "editableUntil": "2022-04-20T18:08:15.107Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brianne Fleming",
+          "screen_name": "brianne2k",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1032061156393934849",
+          "id": "1032061156393934849"
+        },
+        {
+          "name": "🕵🏾‍♀️",
+          "screen_name": "Codishaa",
+          "indices": [
+            "11",
+            "20"
+          ],
+          "id_str": "415239970",
+          "id": "415239970"
+        },
+        {
+          "name": "Adam Mosseri",
+          "screen_name": "mosseri",
+          "indices": [
+            "21",
+            "29"
+          ],
+          "id_str": "6573352",
+          "id": "6573352"
+        },
+        {
+          "name": "danielle",
+          "screen_name": "danielle_reacts",
+          "indices": [
+            "30",
+            "46"
+          ],
+          "id_str": "156828381",
+          "id": "156828381"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "322"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1516829726215708682",
+    "id_str": "1516833636930236423",
+    "in_reply_to_user_id": "1032061156393934849",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1516833636930236423",
+    "in_reply_to_status_id": "1516829726215708682",
+    "created_at": "Wed Apr 20 17:38:15 +0000 2022",
+    "favorited": false,
+    "full_text": "@brianne2k @Codishaa @mosseri @danielle_reacts I'm building out @feathercrm to help out with most of those problems (sorry, not the JT one)\n\nPeople will control what gets boosted.\n\nCommunities become the power behind the algorithm\n\nAnd there's a focus on building real relationships.\n\nHappy to chat if anyone's interested!",
+    "lang": "en",
+    "in_reply_to_screen_name": "brianne2k",
+    "in_reply_to_user_id_str": "1032061156393934849"
+  }
+}

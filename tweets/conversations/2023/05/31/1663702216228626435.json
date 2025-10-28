@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1663702216228626435"
+        ],
+        "editableUntil": "2023-05-31T00:51:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tV5a1Lo1KH",
+          "expanded_url": "https://www.talkhomey.com/",
+          "display_url": "talkhomey.com",
+          "indices": [
+            "167",
+            "190"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "270"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1663216953631158272",
+    "id_str": "1663702216228626435",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1663702216228626435",
+    "in_reply_to_status_id": "1663216953631158272",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 31 00:21:33 +0000 2023",
+    "favorited": false,
+    "full_text": "Product 1: TalkHomey\n\nA context-aware Chatbot for realtors that can enhance their websites with additional information.\n\nWould love some feedback on the landing page: https://t.co/tV5a1Lo1KH\n\n(buttons don't go anywhere yet, but let me know what you think about the copy)",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

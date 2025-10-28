@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1329063139380514819"
+        ],
+        "editableUntil": "2020-11-18T15:05:19.884Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eshan Shetty",
+          "screen_name": "eshan_shetty",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "784057265158516736",
+          "id": "784057265158516736"
+        },
+        {
+          "name": "Emma Berquist",
+          "screen_name": "eeberquist",
+          "indices": [
+            "14",
+            "25"
+          ],
+          "id_str": "3122287740",
+          "id": "3122287740"
+        },
+        {
+          "name": "LambdaSchool",
+          "screen_name": "LambdaSchool",
+          "indices": [
+            "26",
+            "39"
+          ],
+          "id_str": "1516944479306993666",
+          "id": "1516944479306993666"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1329062660537610244",
+    "id_str": "1329063139380514819",
+    "in_reply_to_user_id": "784057265158516736",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1329063139380514819",
+    "in_reply_to_status_id": "1329062660537610244",
+    "created_at": "Wed Nov 18 14:05:19 +0000 2020",
+    "favorited": false,
+    "full_text": "@eshan_shetty @eeberquist @LambdaSchool I totally agree. But we also need to stop focusing information into how we make the most money. A well-rounded education is needed to make leaps of innovation. There needs to be both forms of education available at reasonable costs.",
+    "lang": "en",
+    "in_reply_to_screen_name": "eshan_shetty",
+    "in_reply_to_user_id_str": "784057265158516736"
+  }
+}

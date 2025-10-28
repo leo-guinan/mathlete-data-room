@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347762162966687746"
+        ],
+        "editableUntil": "2021-01-09T05:28:34.518Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Vince Olson , UDP ENVIRONMENTAL CAUCUS CHAIR",
+          "screen_name": "SteelToeTruth",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "819095640810491905",
+          "id": "819095640810491905"
+        },
+        {
+          "name": "Blandishmentbob",
+          "screen_name": "Blandishmentbob",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "4858827316",
+          "id": "4858827316"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "53"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1347761500019068928",
+    "id_str": "1347762162966687746",
+    "in_reply_to_user_id": "819095640810491905",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347762162966687746",
+    "in_reply_to_status_id": "1347761500019068928",
+    "created_at": "Sat Jan 09 04:28:34 +0000 2021",
+    "favorited": false,
+    "full_text": "@SteelToeTruth @Blandishmentbob The fourth one ducks.",
+    "lang": "en",
+    "in_reply_to_screen_name": "SteelToeTruth",
+    "in_reply_to_user_id_str": "819095640810491905"
+  }
+}

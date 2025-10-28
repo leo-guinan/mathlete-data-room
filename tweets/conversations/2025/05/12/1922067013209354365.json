@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922067013209354365"
+        ],
+        "editableUntil": "2025-05-13T00:11:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MacKenzie Fisher (MK)",
+          "screen_name": "philosofounder_",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "4541438237",
+          "id": "4541438237"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/O46krX9WYz",
+          "expanded_url": "https://x.com/leo_guinan/status/1921687599992709207",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "262",
+            "285"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1921921002595864846",
+    "id_str": "1922067013209354365",
+    "in_reply_to_user_id": "4541438237",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922067013209354365",
+    "in_reply_to_status_id": "1921921002595864846",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 12 23:11:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@philosofounder_ Yes! We are very much aligned, and I love the way you broke it down.\n\nI talk a lot about using value alignment as the key to everything, and I tried to create a visualization of my soul by analyzing my twitter archive. You'll probably enjoy it:\nhttps://t.co/O46krX9WYz",
+    "lang": "en",
+    "in_reply_to_screen_name": "philosofounder_",
+    "in_reply_to_user_id_str": "4541438237"
+  }
+}

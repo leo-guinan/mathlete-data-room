@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1544381876340654081"
+        ],
+        "editableUntil": "2022-07-05T18:35:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "251"
+    ],
+    "favorite_count": "2",
+    "id_str": "1544381876340654081",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1544381876340654081",
+    "created_at": "Tue Jul 05 18:05:07 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, so a weekend of running account analysis and I'm over my tweet pulls for the month with my API key...\n\nGood thing I've got a few different ones now.  Have to make my pulls a bit more efficient. Realized I was pulling in 100 tweets when I needed 1.",
+    "lang": "en"
+  }
+}

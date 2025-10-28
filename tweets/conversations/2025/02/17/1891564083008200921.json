@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1891564083008200921"
+        ],
+        "editableUntil": "2025-02-17T20:03:15.607Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "sari azout",
+          "screen_name": "sariazout",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "34724786",
+          "id": "34724786"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WdioprkL64",
+          "expanded_url": "http://sublime.app",
+          "display_url": "sublime.app",
+          "indices": [
+            "31",
+            "54"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1891564083008200921",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1891564083008200921",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 17 19:03:15 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @sariazout: the real reason https://t.co/WdioprkL64 will succeed is because I can accept being the mom who worked a lot, but I cannot ac…",
+    "lang": "en"
+  }
+}

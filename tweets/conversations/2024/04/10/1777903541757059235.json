@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1777903541757059235"
+        ],
+        "editableUntil": "2024-04-10T04:36:50.862Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "USMNT",
+          "indices": [
+            "20",
+            "26"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Doug McIntyre",
+          "screen_name": "ByDougMcIntyre",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "52772612",
+          "id": "52772612"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1777903541757059235",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1777903541757059235",
+    "created_at": "Wed Apr 10 03:36:50 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @ByDougMcIntyre: #USMNT’s Patrick Schulte makes two saves in the penalty shootout vs. Tigres to send MLS Cup champs Columbus Crew to the…",
+    "lang": "en"
+  }
+}

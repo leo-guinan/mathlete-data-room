@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938654082522128596"
+        ],
+        "editableUntil": "2025-06-27T18:42:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Roy",
+          "screen_name": "im_roy_lee",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1725985619640512512",
+          "id": "1725985619640512512"
+        },
+        {
+          "name": "Cluely",
+          "screen_name": "cluely",
+          "indices": [
+            "12",
+            "19"
+          ],
+          "id_str": "1911316698227216384",
+          "id": "1911316698227216384"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lxVoqIZiDL",
+          "expanded_url": "https://x.com/leo_guinan/status/1938632231557443831",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1938653273214566858",
+    "id_str": "1938654082522128596",
+    "in_reply_to_user_id": "1725985619640512512",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938654082522128596",
+    "in_reply_to_status_id": "1938653273214566858",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 27 17:42:06 +0000 2025",
+    "favorited": false,
+    "full_text": "@im_roy_lee @cluely Hope the new internet doesn't screw up your plans. ;)\n\nhttps://t.co/lxVoqIZiDL",
+    "lang": "en",
+    "in_reply_to_screen_name": "im_roy_lee",
+    "in_reply_to_user_id_str": "1725985619640512512"
+  }
+}

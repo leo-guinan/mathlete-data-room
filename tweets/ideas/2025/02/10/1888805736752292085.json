@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1888805736752292085"
+        ],
+        "editableUntil": "2025-02-10T05:22:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1888805736752292085/photo/1",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/MUwK0dr5VP",
+          "media_url": "http://pbs.twimg.com/media/GjZizoHWoAAenoo.jpg",
+          "id_str": "1888805732809613312",
+          "id": "1888805732809613312",
+          "media_url_https": "https://pbs.twimg.com/media/GjZizoHWoAAenoo.jpg",
+          "sizes": {
+            "large": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MUwK0dr5VP"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "1",
+    "id_str": "1888805736752292085",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1888805736752292085",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 10 04:22:34 +0000 2025",
+    "favorited": false,
+    "full_text": "Me lining up on banks and insurance companies https://t.co/MUwK0dr5VP",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1888805736752292085/photo/1",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/MUwK0dr5VP",
+          "media_url": "http://pbs.twimg.com/media/GjZizoHWoAAenoo.jpg",
+          "id_str": "1888805732809613312",
+          "id": "1888805732809613312",
+          "media_url_https": "https://pbs.twimg.com/media/GjZizoHWoAAenoo.jpg",
+          "sizes": {
+            "large": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MUwK0dr5VP"
+        }
+      ]
+    }
+  }
+}

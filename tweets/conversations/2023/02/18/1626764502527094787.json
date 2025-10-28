@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1626764502527094787"
+        ],
+        "editableUntil": "2023-02-18T02:34:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "90",
+            "106"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "108",
+            "119"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "121",
+            "131"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "136",
+            "150"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "185",
+            "195"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1626764502527094787/photo/1",
+          "indices": [
+            "199",
+            "222"
+          ],
+          "url": "https://t.co/CPRTdwz4Pl",
+          "media_url": "http://pbs.twimg.com/media/FpNtQv0WIAA53Uw.jpg",
+          "id_str": "1626764024892235776",
+          "id": "1626764024892235776",
+          "media_url_https": "https://pbs.twimg.com/media/FpNtQv0WIAA53Uw.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "336",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "593",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1011",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/CPRTdwz4Pl"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "35",
+            "52"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "222"
+    ],
+    "favorite_count": "7",
+    "id_str": "1626764502527094787",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1626764502527094787",
+    "possibly_sensitive": false,
+    "created_at": "Sat Feb 18 02:04:15 +0000 2023",
+    "favorited": false,
+    "full_text": "Little late on the post, but a fun #ADHDWithBenefits tonight! Featuring @Up4thechalleng2, @BlushingCrafter, @LobowSpark, @bethicalj and @MechiMansilla !\n\nSpecial welcome to first-timer @bethicalj!!! https://t.co/CPRTdwz4Pl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1626764502527094787/photo/1",
+          "indices": [
+            "199",
+            "222"
+          ],
+          "url": "https://t.co/CPRTdwz4Pl",
+          "media_url": "http://pbs.twimg.com/media/FpNtQv0WIAA53Uw.jpg",
+          "id_str": "1626764024892235776",
+          "id": "1626764024892235776",
+          "media_url_https": "https://pbs.twimg.com/media/FpNtQv0WIAA53Uw.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "336",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "593",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1011",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/CPRTdwz4Pl"
+        }
+      ]
+    }
+  }
+}

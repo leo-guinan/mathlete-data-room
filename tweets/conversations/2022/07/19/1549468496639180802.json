@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1549468496639180802"
+        ],
+        "editableUntil": "2022-07-19T19:27:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1549458591337402369",
+    "id_str": "1549468496639180802",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1549468496639180802",
+    "in_reply_to_status_id": "1549458591337402369",
+    "created_at": "Tue Jul 19 18:57:31 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU I've tried scripting my recordings and I just can't do it. It doesn't come off very well at all. \n\nSo I improvise everything. Each iteration gets a little better. \n\nThe trick is to do what is the easiest for you. Because that's going to come off more natural + be more effortless",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

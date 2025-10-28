@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1903456946054668796"
+        ],
+        "editableUntil": "2025-03-22T15:41:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "86",
+            "95"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/APAmF4OKbB",
+          "expanded_url": "https://x.com/BuildInPublicU/status/1903455367582945550",
+          "display_url": "x.com/BuildInPublicU…",
+          "indices": [
+            "113",
+            "136"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "2",
+    "id_str": "1903456946054668796",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1903456946054668796",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 22 14:41:15 +0000 2025",
+    "favorited": false,
+    "full_text": "Use Fun to minimize the activation energy of a network. Need some guidance?\n\nI'm sure @reddy2go has some for you https://t.co/APAmF4OKbB",
+    "lang": "en"
+  }
+}

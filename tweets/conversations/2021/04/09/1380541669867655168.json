@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1380541669867655168"
+        ],
+        "editableUntil": "2021-04-09T16:22:37.977Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Spencer Jones",
+          "screen_name": "jones_spencera",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1268934001852657664",
+          "id": "1268934001852657664"
+        },
+        {
+          "name": "Chime Social",
+          "screen_name": "chime_social",
+          "indices": [
+            "35",
+            "48"
+          ],
+          "id_str": "1348284684925599749",
+          "id": "1348284684925599749"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1380541669867655168",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1380541669867655168",
+    "created_at": "Fri Apr 09 15:22:37 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @jones_spencera: When I started @chime_social, I had 40 followers and had been using Twitter for ~2 months. \n\nI didn’t know what I was d…",
+    "lang": "en"
+  }
+}

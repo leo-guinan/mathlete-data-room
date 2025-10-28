@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1834308016750965214"
+        ],
+        "editableUntil": "2024-09-12T20:08:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hugo Hamel",
+          "screen_name": "HugoHamelcom",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "444430014",
+          "id": "444430014"
+        },
+        {
+          "name": "🚧 WIP",
+          "screen_name": "wip",
+          "indices": [
+            "14",
+            "18"
+          ],
+          "id_str": "11212692",
+          "id": "11212692"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "45"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1834239506637046128",
+    "id_str": "1834308016750965214",
+    "in_reply_to_user_id": "444430014",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1834308016750965214",
+    "in_reply_to_status_id": "1834239506637046128",
+    "created_at": "Thu Sep 12 19:08:05 +0000 2024",
+    "favorited": false,
+    "full_text": "@HugoHamelcom @wip Got it, thanks! I'm in. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "HugoHamelcom",
+    "in_reply_to_user_id_str": "444430014"
+  }
+}

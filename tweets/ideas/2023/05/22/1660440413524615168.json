@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1660440413524615168"
+        ],
+        "editableUntil": "2023-05-22T00:50:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HotAISummer",
+          "indices": [
+            "17",
+            "29"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Yph8xwJPme",
+          "expanded_url": "https://x.com/adamdangelo/status/1660391688047857664",
+          "display_url": "x.com/adamdangelo/st…",
+          "indices": [
+            "31",
+            "54"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "0",
+    "id_str": "1660440413524615168",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1660440413524615168",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 22 00:20:18 +0000 2023",
+    "favorited": false,
+    "full_text": "Time to bring on #HotAISummer! https://t.co/Yph8xwJPme",
+    "lang": "en"
+  }
+}

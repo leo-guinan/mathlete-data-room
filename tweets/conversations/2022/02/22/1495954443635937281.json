@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1495954443635937281"
+        ],
+        "editableUntil": "2022-02-22T03:51:47.509Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DouglasAdams",
+          "indices": [
+            "87",
+            "100"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Douglas Adams Bot",
+          "screen_name": "DirkGently_Bot",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2355096816",
+          "id": "2355096816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "0",
+    "id_str": "1495954443635937281",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1495954443635937281",
+    "created_at": "Tue Feb 22 02:51:47 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @DirkGently_Bot: \"To summarize the summary of the summary: People are a problem.\" - #DouglasAdams",
+    "lang": "en"
+  }
+}

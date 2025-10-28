@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1594342179597864960"
+        ],
+        "editableUntil": "2022-11-20T15:19:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Notion",
+          "screen_name": "NotionHQ",
+          "indices": [
+            "14",
+            "23"
+          ],
+          "id_str": "708915428454576128",
+          "id": "708915428454576128"
+        },
+        {
+          "name": "Airtable",
+          "screen_name": "airtable",
+          "indices": [
+            "24",
+            "33"
+          ],
+          "id_str": "2786252385",
+          "id": "2786252385"
+        },
+        {
+          "name": "KeyLink | 🚀 on iOS & Android",
+          "screen_name": "KeyLinkApp",
+          "indices": [
+            "34",
+            "45"
+          ],
+          "id_str": "1579173525163806723",
+          "id": "1579173525163806723"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/dhsSeWj9FT",
+          "expanded_url": "https://github.com/leo-guinan/twitter-backup",
+          "display_url": "github.com/leo-guinan/twi…",
+          "indices": [
+            "240",
+            "263"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "263"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1593679372380143616",
+    "id_str": "1594342179597864960",
+    "in_reply_to_user_id": "1379524637491658760",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1594342179597864960",
+    "in_reply_to_status_id": "1593679372380143616",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 20 14:49:31 +0000 2022",
+    "favorited": false,
+    "full_text": "@KolibricoArt @NotionHQ @airtable @KeyLinkApp If you want your account info emailed to you, just DM me your email address and I can send it over. \n\nOr, if you are more technically inclined, I've got a DIY Jupyter notebook you can run here: https://t.co/dhsSeWj9FT",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1379524637491658760"
+  }
+}

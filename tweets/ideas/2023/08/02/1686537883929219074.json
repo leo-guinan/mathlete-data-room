@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1686537883929219074"
+        ],
+        "editableUntil": "2023-08-02T01:42:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3ZoYdUj3uq",
+          "expanded_url": "https://x.com/leo_guinan/status/1686407530145001474",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "55",
+            "78"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1686537883929219074/photo/1",
+          "indices": [
+            "79",
+            "102"
+          ],
+          "url": "https://t.co/YZhlqWmbig",
+          "media_url": "http://pbs.twimg.com/media/F2fJK-OXEAAZ7-R.jpg",
+          "id_str": "1686537775812644864",
+          "id": "1686537775812644864",
+          "media_url_https": "https://pbs.twimg.com/media/F2fJK-OXEAAZ7-R.jpg",
+          "sizes": {
+            "medium": {
+              "w": "948",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1540",
+              "h": "1950",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "537",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YZhlqWmbig"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "102"
+    ],
+    "favorite_count": "7",
+    "id_str": "1686537883929219074",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1686537883929219074",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 02 00:42:20 +0000 2023",
+    "favorited": false,
+    "full_text": "Will be going live soon.\n\nThoughts on my pricing page? https://t.co/3ZoYdUj3uq https://t.co/YZhlqWmbig",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1686537883929219074/photo/1",
+          "indices": [
+            "79",
+            "102"
+          ],
+          "url": "https://t.co/YZhlqWmbig",
+          "media_url": "http://pbs.twimg.com/media/F2fJK-OXEAAZ7-R.jpg",
+          "id_str": "1686537775812644864",
+          "id": "1686537775812644864",
+          "media_url_https": "https://pbs.twimg.com/media/F2fJK-OXEAAZ7-R.jpg",
+          "sizes": {
+            "medium": {
+              "w": "948",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1540",
+              "h": "1950",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "537",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YZhlqWmbig"
+        }
+      ]
+    }
+  }
+}

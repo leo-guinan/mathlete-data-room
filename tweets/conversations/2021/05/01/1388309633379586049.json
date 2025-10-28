@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1388309633379586049"
+        ],
+        "editableUntil": "2021-05-01T02:49:44.800Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chikodi",
+          "screen_name": "Chikodi",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "12993762",
+          "id": "12993762"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "196"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1388302966751305738",
+    "id_str": "1388309633379586049",
+    "in_reply_to_user_id": "12993762",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1388309633379586049",
+    "in_reply_to_status_id": "1388302966751305738",
+    "created_at": "Sat May 01 01:49:44 +0000 2021",
+    "favorited": false,
+    "full_text": "@Chikodi Mostly, I've tried to be my own PR. I reached out to a couple people, but I just haven't gotten responses, so I wrote blogs and tried to get them out there. But not much success that way.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chikodi",
+    "in_reply_to_user_id_str": "12993762"
+  }
+}

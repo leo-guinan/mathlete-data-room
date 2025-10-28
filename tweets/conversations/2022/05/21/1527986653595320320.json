@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527986653595320320"
+        ],
+        "editableUntil": "2022-05-21T12:46:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ron Zakay 🏳️‍🌈 (he/him)",
+          "screen_name": "ronzakay",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "160795888",
+          "id": "160795888"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1527985966979264512",
+    "id_str": "1527986653595320320",
+    "in_reply_to_user_id": "160795888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527986653595320320",
+    "in_reply_to_status_id": "1527985966979264512",
+    "created_at": "Sat May 21 12:16:21 +0000 2022",
+    "favorited": false,
+    "full_text": "@ronzakay Exactly! We desperately need better representation in places of power and influence. We are definitely moving in the right direction, but not as quickly as I would like (I'm really impatient lol)\n\nBut I'm excited to see the changes that are happening!",
+    "lang": "en",
+    "in_reply_to_screen_name": "ronzakay",
+    "in_reply_to_user_id_str": "160795888"
+  }
+}

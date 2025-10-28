@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940391060687204779"
+        ],
+        "editableUntil": "2025-07-02T13:44:14.247Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rhys Fisher",
+          "screen_name": "virtual_rf",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1078269894976770048",
+          "id": "1078269894976770048"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1940391060687204779",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940391060687204779",
+    "created_at": "Wed Jul 02 12:44:14 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @virtual_rf: Traditional research studies are static and often lack the context relevance to spread far beyond an initial target consume…",
+    "lang": "en"
+  }
+}

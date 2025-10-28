@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1906707385906843757"
+        ],
+        "editableUntil": "2025-03-31T14:57:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kim",
+          "screen_name": "Web4Door",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1714136099902074880",
+          "id": "1714136099902074880"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "10",
+            "26"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "305"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1906548441058079195",
+    "id_str": "1906707385906843757",
+    "in_reply_to_user_id": "1714136099902074880",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1906707385906843757",
+    "in_reply_to_status_id": "1906548441058079195",
+    "created_at": "Mon Mar 31 13:57:20 +0000 2025",
+    "favorited": false,
+    "full_text": "@Web4Door @StroutMotivateU everyone.\n\nwe are all constantly creating and consuming information. It's simply communication.\n\nThis network doesn't suppress information, instead aggregates it at larger publishers and distributes it. \n\nI like to think of it like you can do something in your online community…",
+    "lang": "en",
+    "in_reply_to_screen_name": "Web4Door",
+    "in_reply_to_user_id_str": "1714136099902074880"
+  }
+}

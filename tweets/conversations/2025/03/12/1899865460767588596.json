@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899865460767588596"
+        ],
+        "editableUntil": "2025-03-12T17:49:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Charlie Greenman",
+          "screen_name": "razroo_chief",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2962828127",
+          "id": "2962828127"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uud0hNA4y0",
+          "expanded_url": "https://x.com/leo_guinan/status/1899847772670484973",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "14",
+            "37"
+          ]
+        },
+        {
+          "url": "https://t.co/CklyHQYnGQ",
+          "expanded_url": "https://x.com/leo_guinan/status/1899847772670484973",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1899863514455421169",
+    "id_str": "1899865460767588596",
+    "in_reply_to_user_id": "2962828127",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1899865460767588596",
+    "in_reply_to_status_id": "1899863514455421169",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 12 16:49:58 +0000 2025",
+    "favorited": false,
+    "full_text": "@razroo_chief https://t.co/uud0hNA4y0 https://t.co/CklyHQYnGQ",
+    "lang": "qme",
+    "in_reply_to_screen_name": "razroo_chief",
+    "in_reply_to_user_id_str": "2962828127"
+  }
+}

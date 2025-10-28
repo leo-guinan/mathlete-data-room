@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491495635157196807"
+        ],
+        "editableUntil": "2022-02-09T20:34:04.727Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "24",
+            "32"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        },
+        {
+          "name": "Amy's Vue on this",
+          "screen_name": "detwiler_amy",
+          "indices": [
+            "37",
+            "50"
+          ],
+          "id_str": "4683397465",
+          "id": "4683397465"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "119"
+    ],
+    "favorite_count": "0",
+    "id_str": "1491495635157196807",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1491495635157196807",
+    "created_at": "Wed Feb 09 19:34:04 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Thanks, @AndyM84 and @detwiler_amy\n\nI may or may not have purchased a domain today.\n\nBad influences...😂",
+    "lang": "en"
+  }
+}

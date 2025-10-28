@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761028917547188728"
+        ],
+        "editableUntil": "2024-02-23T15:03:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1761028917547188728/video/1",
+          "indices": [
+            "91",
+            "114"
+          ],
+          "url": "https://t.co/dJ6Yc4xFjh",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1761024545165541376/pu/img/OTLen3WcZDE2qmDH.jpg",
+          "id_str": "1761024545165541376",
+          "id": "1761024545165541376",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1761024545165541376/pu/img/OTLen3WcZDE2qmDH.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/dJ6Yc4xFjh"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "0",
+    "id_str": "1761028917547188728",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761028917547188728",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 23 14:03:06 +0000 2024",
+    "favorited": false,
+    "full_text": "Added a new feature in to My AI Cofounder last night: the Task Marketplace.\n\nCheck it out! https://t.co/dJ6Yc4xFjh",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1761028917547188728/video/1",
+          "indices": [
+            "91",
+            "114"
+          ],
+          "url": "https://t.co/dJ6Yc4xFjh",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1761024545165541376/pu/img/OTLen3WcZDE2qmDH.jpg",
+          "id_str": "1761024545165541376",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "98581",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1761024545165541376/pu/vid/avc1/1280x720/P1zWZdDSq6ZqSfFD.mp4?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1761024545165541376/pu/vid/avc1/480x270/8D9IDxVqzGuiDVti.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1761024545165541376/pu/pl/82Q5N-sJXRbKlpIE.m3u8?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1761024545165541376/pu/vid/avc1/640x360/86JPTWc_OU7s87Vh.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1761024545165541376",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1761024545165541376/pu/img/OTLen3WcZDE2qmDH.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/dJ6Yc4xFjh"
+        }
+      ]
+    }
+  }
+}

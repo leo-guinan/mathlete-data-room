@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1372660983089537028"
+        ],
+        "editableUntil": "2021-03-18T22:27:35.833Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rasiim kyan",
+          "screen_name": "refactorfiend",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1075056836183818243",
+          "id": "1075056836183818243"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "0",
+    "id_str": "1372660983089537028",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1372660983089537028",
+    "created_at": "Thu Mar 18 21:27:35 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @refactorfiend: what's supm you'd tell your 15 yrs younger coding self?",
+    "lang": "en"
+  }
+}

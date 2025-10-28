@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1889170931278361068"
+        ],
+        "editableUntil": "2025-02-11T05:33:43.772Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "0",
+    "id_str": "1889170931278361068",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1889170931278361068",
+    "created_at": "Tue Feb 11 04:33:43 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @jposhaughnessy: \"Above all, don't lie to yourself.\"\n~Fyodor Dostoevsky",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1639425281646632960"
+        ],
+        "editableUntil": "2023-03-25T01:03:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "168",
+            "182"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1639425281646632960/photo/1",
+          "indices": [
+            "216",
+            "239"
+          ],
+          "url": "https://t.co/ybb2tmP2iT",
+          "media_url": "http://pbs.twimg.com/media/FsBmA4GXwAEVY_0.jpg",
+          "id_str": "1639422429608001537",
+          "id": "1639422429608001537",
+          "media_url_https": "https://pbs.twimg.com/media/FsBmA4GXwAEVY_0.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ybb2tmP2iT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "239"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1639425279251689475",
+    "id_str": "1639425281646632960",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1639425281646632960",
+    "in_reply_to_status_id": "1639425279251689475",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 25 00:33:40 +0000 2023",
+    "favorited": false,
+    "full_text": "And, for your enjoyment, I tried to use Midjourney to add some sunglasses. \n\nIt....went. And got a bit weird. So enjoy some slightly off-the-wall pictures. \n\nFirst up, @MechiMansilla with not very dark sunglasses... https://t.co/ybb2tmP2iT",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1639425281646632960/photo/1",
+          "indices": [
+            "216",
+            "239"
+          ],
+          "url": "https://t.co/ybb2tmP2iT",
+          "media_url": "http://pbs.twimg.com/media/FsBmA4GXwAEVY_0.jpg",
+          "id_str": "1639422429608001537",
+          "id": "1639422429608001537",
+          "media_url_https": "https://pbs.twimg.com/media/FsBmA4GXwAEVY_0.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ybb2tmP2iT"
+        }
+      ]
+    }
+  }
+}

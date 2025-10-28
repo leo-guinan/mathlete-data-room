@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928827316219580756"
+        ],
+        "editableUntil": "2025-05-31T15:54:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        },
+        {
+          "name": "Christina Fedor",
+          "screen_name": "christinasatory",
+          "indices": [
+            "16",
+            "32"
+          ],
+          "id_str": "420744611",
+          "id": "420744611"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/r6mHvbFD8t",
+          "expanded_url": "https://x.com/leo_guinan/status/1928687201711174025",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "250",
+            "273"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1928541431578198082",
+    "id_str": "1928827316219580756",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928827316219580756",
+    "in_reply_to_status_id": "1928541431578198082",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 31 14:54:02 +0000 2025",
+    "favorited": false,
+    "full_text": "@BuildInPublicU @christinasatory Ok, on to day 2. Day 1 ended up finishing up with about 5 hours on Zoom then tried to get an astronaut to join us in the hackathon. I'm still letting that play out, but I don't think this attempt is likely a success.\nhttps://t.co/r6mHvbFD8t",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

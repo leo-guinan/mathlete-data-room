@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346946848339226625"
+        ],
+        "editableUntil": "2021-01-06T23:28:48.363Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Geoff Lewis",
+          "screen_name": "GeoffLewisOrg",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "86736696",
+          "id": "86736696"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/GeoffLewisOrg/status/1346945763910144001/photo/1",
+          "source_status_id": "1346945763910144001",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/DfAJLNa4pG",
+          "media_url": "http://pbs.twimg.com/media/ErFP_RVVQAM5m1f.jpg",
+          "id_str": "1346945711963717635",
+          "source_user_id": "86736696",
+          "id": "1346945711963717635",
+          "media_url_https": "https://pbs.twimg.com/media/ErFP_RVVQAM5m1f.jpg",
+          "source_user_id_str": "86736696",
+          "sizes": {
+            "large": {
+              "w": "1140",
+              "h": "712",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1140",
+              "h": "712",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "425",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1346945763910144001",
+          "display_url": "pic.x.com/DfAJLNa4pG"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346946848339226625",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346946848339226625",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 06 22:28:48 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @GeoffLewisOrg: No words. https://t.co/DfAJLNa4pG",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/GeoffLewisOrg/status/1346945763910144001/photo/1",
+          "source_status_id": "1346945763910144001",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/DfAJLNa4pG",
+          "media_url": "http://pbs.twimg.com/media/ErFP_RVVQAM5m1f.jpg",
+          "id_str": "1346945711963717635",
+          "source_user_id": "86736696",
+          "id": "1346945711963717635",
+          "media_url_https": "https://pbs.twimg.com/media/ErFP_RVVQAM5m1f.jpg",
+          "source_user_id_str": "86736696",
+          "sizes": {
+            "large": {
+              "w": "1140",
+              "h": "712",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1140",
+              "h": "712",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "425",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1346945763910144001",
+          "display_url": "pic.x.com/DfAJLNa4pG"
+        }
+      ]
+    }
+  }
+}

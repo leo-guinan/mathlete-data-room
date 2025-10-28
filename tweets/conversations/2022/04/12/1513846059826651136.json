@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513846059826651136"
+        ],
+        "editableUntil": "2022-04-12T12:46:41.219Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dan Rockwell",
+          "screen_name": "floozyspeak",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "14784349",
+          "id": "14784349"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1513846059826651136/photo/1",
+          "indices": [
+            "124",
+            "147"
+          ],
+          "url": "https://t.co/kTJUzwtMAj",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQJC9xKXwAYYeOm.jpg",
+          "id_str": "1513846053686198278",
+          "id": "1513846053686198278",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQJC9xKXwAYYeOm.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "278",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "278",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "278",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kTJUzwtMAj"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "147"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1513731202737491971",
+    "id_str": "1513846059826651136",
+    "in_reply_to_user_id": "14784349",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513846059826651136",
+    "in_reply_to_status_id": "1513731202737491971",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 12 11:46:41 +0000 2022",
+    "favorited": false,
+    "full_text": "@floozyspeak That's a good plan. Something I need to get better at so I can get things over the finish line a little better https://t.co/kTJUzwtMAj",
+    "lang": "en",
+    "in_reply_to_screen_name": "floozyspeak",
+    "in_reply_to_user_id_str": "14784349",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1513846059826651136/photo/1",
+          "indices": [
+            "124",
+            "147"
+          ],
+          "url": "https://t.co/kTJUzwtMAj",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQJC9xKXwAYYeOm.jpg",
+          "id_str": "1513846053686198278",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "139"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FQJC9xKXwAYYeOm.mp4"
+              }
+            ]
+          },
+          "id": "1513846053686198278",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQJC9xKXwAYYeOm.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "278",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "278",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "278",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/kTJUzwtMAj"
+        }
+      ]
+    }
+  }
+}

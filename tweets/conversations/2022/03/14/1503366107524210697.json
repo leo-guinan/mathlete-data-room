@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1503366107524210697"
+        ],
+        "editableUntil": "2022-03-14T14:43:05.882Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "54",
+            "65"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9cDjRQYw3T",
+          "expanded_url": "https://www.buzzsprout.com/1944068/10241481",
+          "display_url": "buzzsprout.com/1944068/102414…",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1503366107524210697",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1503366107524210697",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 14 13:43:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Finally live!\n\nScale Your Impact with @LobowSpark!\n\nhttps://t.co/9cDjRQYw3T",
+    "lang": "en"
+  }
+}

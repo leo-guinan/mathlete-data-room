@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1496815865219756034"
+        ],
+        "editableUntil": "2022-02-24T12:54:46.419Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1496743462187810817",
+    "id_str": "1496815865219756034",
+    "in_reply_to_user_id": "45603991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1496815865219756034",
+    "in_reply_to_status_id": "1496743462187810817",
+    "created_at": "Thu Feb 24 11:54:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@AndyM84 I did that in college! Was really a good experience. Networks rule the world.\n\nPeople should be able to build them.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AndyM84",
+    "in_reply_to_user_id_str": "45603991"
+  }
+}

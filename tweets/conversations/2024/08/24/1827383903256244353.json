@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1827383903256244353"
+        ],
+        "editableUntil": "2024-08-24T17:34:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sara Campbell",
+          "screen_name": "tinyrevver",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "3949831",
+          "id": "3949831"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BENjWPOQ2Z",
+          "expanded_url": "https://x.com/yagudaev/status/1827381144553452020",
+          "display_url": "x.com/yagudaev/statu…",
+          "indices": [
+            "90",
+            "113"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1827382858345848866",
+    "id_str": "1827383903256244353",
+    "in_reply_to_user_id": "3949831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1827383903256244353",
+    "in_reply_to_status_id": "1827382858345848866",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 24 16:34:08 +0000 2024",
+    "favorited": false,
+    "full_text": "@tinyrevver Checkout what Michael did with Audiowave.\n\nIs that what you are thinking of?\n\nhttps://t.co/BENjWPOQ2Z",
+    "lang": "en",
+    "in_reply_to_screen_name": "tinyrevver",
+    "in_reply_to_user_id_str": "3949831"
+  }
+}

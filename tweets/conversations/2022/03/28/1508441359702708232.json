@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1508441359702708232"
+        ],
+        "editableUntil": "2022-03-28T14:50:20.295Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tiago Forte",
+          "screen_name": "fortelabs",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1909232666",
+          "id": "1909232666"
+        },
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        },
+        {
+          "name": "Nicolas Cole 🚢👻",
+          "screen_name": "Nicolascole77",
+          "indices": [
+            "22",
+            "36"
+          ],
+          "id_str": "617073276",
+          "id": "617073276"
+        },
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "37",
+            "48"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1508441357840535552",
+    "id_str": "1508441359702708232",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1508441359702708232",
+    "in_reply_to_status_id": "1508441357840535552",
+    "created_at": "Mon Mar 28 13:50:20 +0000 2022",
+    "favorited": false,
+    "full_text": "@fortelabs @Bazzaruto @Nicolascole77 @dagorenouf TLDR:\n• Market to the past - where users have been, expensive, competitive\n• Market to the present - where are users now - harder, time-consuming\n• Market to the future - not competitive, compounding results, impact focused",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1385988428022571013"
+        ],
+        "editableUntil": "2021-04-24T17:06:06.317Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "kibookclub",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1385988428022571013",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1385988428022571013",
+    "created_at": "Sat Apr 24 16:06:06 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @kibookclub: “Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ou…",
+    "lang": "en"
+  }
+}

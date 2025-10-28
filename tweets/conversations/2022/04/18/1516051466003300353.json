@@ -1,0 +1,90 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516051466003300353"
+        ],
+        "editableUntil": "2022-04-18T14:20:11.026Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "207",
+            "218"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bzkHUNjWRW",
+          "expanded_url": "https://feathercrm.io",
+          "display_url": "feathercrm.io",
+          "indices": [
+            "83",
+            "106"
+          ]
+        },
+        {
+          "url": "https://t.co/WiBwKi5uV5",
+          "expanded_url": "https://feathercrm.io/profile/leo",
+          "display_url": "feathercrm.io/profile/leo",
+          "indices": [
+            "170",
+            "193"
+          ]
+        },
+        {
+          "url": "https://t.co/ys59RjsnKD",
+          "expanded_url": "https://x.com/leo_guinan/status/1516051443819630592",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "299",
+            "322"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "322"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1516051459355430917",
+    "id_str": "1516051466003300353",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1516051466003300353",
+    "in_reply_to_status_id": "1516051459355430917",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 18 13:50:11 +0000 2022",
+    "favorited": false,
+    "full_text": "@feathercrm @LobowSpark That's a wrap!\n\nIf you enjoyed this thread:\n\n1. Sign up at https://t.co/bzkHUNjWRW with your Twitter account and sign up as one of my amplifiers: https://t.co/WiBwKi5uV5\n2. Follow me @leo_guinan for more of these\n3. RT the tweet below to share this thread with your audience https://t.co/ys59RjsnKD",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

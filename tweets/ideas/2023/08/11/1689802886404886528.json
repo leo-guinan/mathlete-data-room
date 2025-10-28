@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1689802886404886528"
+        ],
+        "editableUntil": "2023-08-11T01:56:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "25",
+            "32"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BikAUuDYOM",
+          "expanded_url": "https://www.tiktok.com/@lobowspark/video/7265861142298348843?_r=1&u_code=e00ek9kcc76f5i&preview_pb=0&sharer_language=en&_d=e00ekd68j9cd9c&share_item_id=7265861142298348843&source=h5_m&timestamp=1691715348&user_id=7057125836071846918&sec_user_id=MS4wLjABAAAA3GLKQzTAxnVgQHVitT2u1z0fEQxOOghHqUYHK4H7iiAzKVlsDJudcglQBVC3NdR1&social_share_type=0&utm_source=twitter&utm_campaign=client_share&utm_medium=android&share_iid=7262018274208319275&share_link_id=6bf9c81f-6030-43a2-8a2f-b142b9702c91&share_app_id=1233&ugbiz_name=Main&ug_btm=b7360%2Cb2878",
+          "display_url": "tiktok.com/@lobowspark/vi…",
+          "indices": [
+            "33",
+            "56"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "0",
+    "id_str": "1689802886404886528",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1689802886404886528",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 11 00:56:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Check out Lobow's video! #TikTok https://t.co/BikAUuDYOM",
+    "lang": "en"
+  }
+}

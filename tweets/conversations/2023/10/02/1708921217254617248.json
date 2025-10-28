@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1708921217254617248"
+        ],
+        "editableUntil": "2023-10-02T20:05:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Terry Xu",
+          "screen_name": "coolnalu",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "12509862",
+          "id": "12509862"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "25"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1708920847681863796",
+    "id_str": "1708921217254617248",
+    "in_reply_to_user_id": "12509862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1708921217254617248",
+    "in_reply_to_status_id": "1708920847681863796",
+    "created_at": "Mon Oct 02 19:05:43 +0000 2023",
+    "favorited": false,
+    "full_text": "@coolnalu Human curation.",
+    "lang": "en",
+    "in_reply_to_screen_name": "coolnalu",
+    "in_reply_to_user_id_str": "12509862"
+  }
+}

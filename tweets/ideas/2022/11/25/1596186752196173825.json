@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596186752196173825"
+        ],
+        "editableUntil": "2022-11-25T17:29:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GoodProblems",
+          "indices": [
+            "161",
+            "174"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "174"
+    ],
+    "favorite_count": "3",
+    "id_str": "1596186752196173825",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596186752196173825",
+    "created_at": "Fri Nov 25 16:59:12 +0000 2022",
+    "favorited": false,
+    "full_text": "Getting a ton of interest on the account analysis, so I had to set up a script and make it a little easier to run in bulk.\n\nResults will be shared later today.\n\n#GoodProblems",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901755090173640818"
+        ],
+        "editableUntil": "2025-03-17T22:58:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Alex Kennedy",
+          "screen_name": "kenakennedy",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "50353584",
+          "id": "50353584"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1901755090173640818/photo/1",
+          "indices": [
+            "122",
+            "145"
+          ],
+          "url": "https://t.co/hIQ8Y9PuB4",
+          "media_url": "http://pbs.twimg.com/media/GmRkImHW8AA-n9g.jpg",
+          "id_str": "1901755041490333696",
+          "id": "1901755041490333696",
+          "media_url_https": "https://pbs.twimg.com/media/GmRkImHW8AA-n9g.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "459",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "810",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1724",
+              "h": "1164",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hIQ8Y9PuB4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1901752421014974783",
+    "id_str": "1901755090173640818",
+    "in_reply_to_user_id": "50353584",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901755090173640818",
+    "in_reply_to_status_id": "1901752421014974783",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 17 21:58:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@kenakennedy Well, if you are thinking of something that absorbs risk and outputs gold, I've got Human Insurance for you. https://t.co/hIQ8Y9PuB4",
+    "lang": "en",
+    "in_reply_to_screen_name": "kenakennedy",
+    "in_reply_to_user_id_str": "50353584",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1901755090173640818/photo/1",
+          "indices": [
+            "122",
+            "145"
+          ],
+          "url": "https://t.co/hIQ8Y9PuB4",
+          "media_url": "http://pbs.twimg.com/media/GmRkImHW8AA-n9g.jpg",
+          "id_str": "1901755041490333696",
+          "id": "1901755041490333696",
+          "media_url_https": "https://pbs.twimg.com/media/GmRkImHW8AA-n9g.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "459",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "810",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1724",
+              "h": "1164",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hIQ8Y9PuB4"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1901755090173640818/photo/1",
+          "indices": [
+            "122",
+            "145"
+          ],
+          "url": "https://t.co/hIQ8Y9PuB4",
+          "media_url": "http://pbs.twimg.com/media/GmRkImKWYAAP5fp.jpg",
+          "id_str": "1901755041502879744",
+          "id": "1901755041502879744",
+          "media_url_https": "https://pbs.twimg.com/media/GmRkImKWYAAP5fp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "810",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "459",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1724",
+              "h": "1164",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hIQ8Y9PuB4"
+        }
+      ]
+    }
+  }
+}

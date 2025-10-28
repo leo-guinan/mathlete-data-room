@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1568595237458542599"
+        ],
+        "editableUntil": "2022-09-10T14:10:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ferhat Suat Erdoğan",
+          "screen_name": "fsuaterdogan",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "878974576570617856",
+          "id": "878974576570617856"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "103"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1568582888274231299",
+    "id_str": "1568595237458542599",
+    "in_reply_to_user_id": "878974576570617856",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1568595237458542599",
+    "in_reply_to_status_id": "1568582888274231299",
+    "created_at": "Sat Sep 10 13:40:22 +0000 2022",
+    "favorited": false,
+    "full_text": "@fsuaterdogan Awesome! Let me know what you think!\n\nSomething cool being announced in the next issue. 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "fsuaterdogan",
+    "in_reply_to_user_id_str": "878974576570617856"
+  }
+}

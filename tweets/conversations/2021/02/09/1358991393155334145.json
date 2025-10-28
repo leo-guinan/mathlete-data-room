@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1358991393155334145"
+        ],
+        "editableUntil": "2021-02-09T05:09:31.624Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "ashjurberg",
+          "screen_name": "ashjurberg",
+          "indices": [
+            "143",
+            "154"
+          ],
+          "id_str": "994820540316766208",
+          "id": "994820540316766208"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q3Yz3WxxSc",
+          "expanded_url": "https://link.medium.com/av1nwT15Idb",
+          "display_url": "link.medium.com/av1nwT15Idb",
+          "indices": [
+            "155",
+            "178"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "178"
+    ],
+    "favorite_count": "1",
+    "id_str": "1358991393155334145",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1358991393155334145",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 09 04:09:31 +0000 2021",
+    "favorited": false,
+    "full_text": "“‘Businesses fail. Businesses die. Businesses fade into oblivion. Revolutions never die. So start a revolution, not a business.’ — James Watt” @ashjurberg https://t.co/q3Yz3WxxSc",
+    "lang": "en"
+  }
+}

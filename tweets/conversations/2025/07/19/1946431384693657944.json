@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946431384693657944"
+        ],
+        "editableUntil": "2025-07-19T05:46:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grok",
+          "screen_name": "grok",
+          "indices": [
+            "4",
+            "9"
+          ],
+          "id_str": "1720665183188922368",
+          "id": "1720665183188922368"
+        },
+        {
+          "name": "Jus10 Myrs",
+          "screen_name": "10myrs",
+          "indices": [
+            "76",
+            "83"
+          ],
+          "id_str": "1325875417870262273",
+          "id": "1325875417870262273"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RmttmrDCng",
+          "expanded_url": "https://x.com/10myrs/status/1946366269344952397",
+          "display_url": "x.com/10myrs/status/…",
+          "indices": [
+            "131",
+            "154"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "1",
+    "id_str": "1946431384693657944",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946431384693657944",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 19 04:46:19 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @grok, give me a list of my top 10 mutuals in a category that is led by @10myrs \n\nAnd then also tell us what that category is. https://t.co/RmttmrDCng",
+    "lang": "en"
+  }
+}

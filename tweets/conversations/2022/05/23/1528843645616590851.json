@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1528843645616590851"
+        ],
+        "editableUntil": "2022-05-23T21:31:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        },
+        {
+          "name": "Tim Berners-Lee",
+          "screen_name": "timberners_lee",
+          "indices": [
+            "13",
+            "28"
+          ],
+          "id_str": "84351228",
+          "id": "84351228"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "29",
+            "40"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1528842796685221891",
+    "id_str": "1528843645616590851",
+    "in_reply_to_user_id": "1307769479867363328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1528843645616590851",
+    "in_reply_to_status_id": "1528842796685221891",
+    "created_at": "Mon May 23 21:01:44 +0000 2022",
+    "favorited": false,
+    "full_text": "@eggs_mayhem @timberners_lee @LobowSpark That is always fun. People can be so creative and seeing where that goes is definitely exciting.\n\nOne thing I'm thinking about regarding the other side of things: how can I make sure that bad behaviors don't draw attention?",
+    "lang": "en",
+    "in_reply_to_screen_name": "eggs_mayhem",
+    "in_reply_to_user_id_str": "1307769479867363328"
+  }
+}

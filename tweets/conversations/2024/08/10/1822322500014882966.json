@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1822322500014882966"
+        ],
+        "editableUntil": "2024-08-10T18:21:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ameya K",
+          "screen_name": "DrAmeyaKale",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "499807176",
+          "id": "499807176"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1822320138621735261",
+    "id_str": "1822322500014882966",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1822322500014882966",
+    "in_reply_to_status_id": "1822320138621735261",
+    "created_at": "Sat Aug 10 17:21:55 +0000 2024",
+    "favorited": false,
+    "full_text": "@DrAmeyaKale Ok, I've been trying out a prompt that rewrites tweets without signaling language, and it's really interesting. Definitely simplifies things a lot, but also loses a lot of the personality.\n\nIt's a fine line, I think.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

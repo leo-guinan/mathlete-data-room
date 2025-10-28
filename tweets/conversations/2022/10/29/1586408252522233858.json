@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1586408252522233858"
+        ],
+        "editableUntil": "2022-10-29T17:52:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "DR.Williams",
+          "screen_name": "williamsdr",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "20883041",
+          "id": "20883041"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1586407349933453312",
+    "id_str": "1586408252522233858",
+    "in_reply_to_user_id": "20883041",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1586408252522233858",
+    "in_reply_to_status_id": "1586407349933453312",
+    "created_at": "Sat Oct 29 17:22:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@williamsdr Look at the additional replies. Plato typically is thr first response,  but there are others under those. Twitter seems to be collapsing those threads. But if you click on one of the replies from Plato, should see the other answers to that question.  😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "williamsdr",
+    "in_reply_to_user_id_str": "20883041"
+  }
+}

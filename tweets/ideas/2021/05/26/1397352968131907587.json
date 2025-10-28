@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1397352968131907587"
+        ],
+        "editableUntil": "2021-05-26T01:44:43.822Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/kzMkYOFvUv",
+          "expanded_url": "https://x.com/merott/status/1397269230064652298",
+          "display_url": "x.com/merott/status/…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1397352968131907587",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1397352968131907587",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 26 00:44:43 +0000 2021",
+    "favorited": false,
+    "full_text": "Some great ideas for getting started! https://t.co/kzMkYOFvUv",
+    "lang": "en"
+  }
+}

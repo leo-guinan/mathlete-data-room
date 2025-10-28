@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1918876824353812918"
+        ],
+        "editableUntil": "2025-05-04T04:54:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "human facer",
+          "screen_name": "screenfacer",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1421626727235719168",
+          "id": "1421626727235719168"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1918873672376291736",
+    "id_str": "1918876824353812918",
+    "in_reply_to_user_id": "1421626727235719168",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1918876824353812918",
+    "in_reply_to_status_id": "1918873672376291736",
+    "created_at": "Sun May 04 03:54:20 +0000 2025",
+    "favorited": false,
+    "full_text": "@screenfacer There are some weird divergent economics happening around PhD research right now, because there's a huge focus on giant, broad reaching technologies, but as AI centralizes the broad base of human knowledge, it's going to become more and more valuable to pursue novel research.…",
+    "lang": "en",
+    "in_reply_to_screen_name": "screenfacer",
+    "in_reply_to_user_id_str": "1421626727235719168"
+  }
+}

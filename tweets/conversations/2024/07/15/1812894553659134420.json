@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1812894553659134420"
+        ],
+        "editableUntil": "2024-07-15T17:58:38.201Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/finereli/status/1812845703409836534/photo/1",
+          "source_status_id": "1812845703409836534",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/8xbCOwysUl",
+          "media_url": "http://pbs.twimg.com/media/GSiFj45XUAIB8DU.jpg",
+          "id_str": "1812845701631528962",
+          "source_user_id": "6378712",
+          "id": "1812845701631528962",
+          "media_url_https": "https://pbs.twimg.com/media/GSiFj45XUAIB8DU.jpg",
+          "source_user_id_str": "6378712",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1812845703409836534",
+          "display_url": "pic.x.com/8xbCOwysUl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "0",
+    "id_str": "1812894553659134420",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1812894553659134420",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 15 16:58:38 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @finereli: Who else is a 5?\n\nI want to follow you. https://t.co/8xbCOwysUl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/finereli/status/1812845703409836534/photo/1",
+          "source_status_id": "1812845703409836534",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/8xbCOwysUl",
+          "media_url": "http://pbs.twimg.com/media/GSiFj45XUAIB8DU.jpg",
+          "id_str": "1812845701631528962",
+          "source_user_id": "6378712",
+          "id": "1812845701631528962",
+          "media_url_https": "https://pbs.twimg.com/media/GSiFj45XUAIB8DU.jpg",
+          "source_user_id_str": "6378712",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1812845703409836534",
+          "display_url": "pic.x.com/8xbCOwysUl"
+        }
+      ]
+    }
+  }
+}

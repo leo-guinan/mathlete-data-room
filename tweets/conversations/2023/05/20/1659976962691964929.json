@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1659976962691964929"
+        ],
+        "editableUntil": "2023-05-20T18:08:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "18",
+            "30"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "31",
+            "47"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "1",
+    "id_str": "1659976962691964929",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1659976962691964929",
+    "created_at": "Sat May 20 17:38:43 +0000 2023",
+    "favorited": false,
+    "full_text": "And at long last, @_buildspace @_nightsweekends S3 DEMO DAY IS HERE!!!\n\nAlso, just added in a new feature this morning: for each search engine, a corresponding chat bot!\n\nSuper cool piece: they are sending out all of our demo videos to their newsletter of over 100K people.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938675285399937234"
+        ],
+        "editableUntil": "2025-06-27T20:06:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1938675285399937234/video/1",
+          "indices": [
+            "176",
+            "199"
+          ],
+          "url": "https://t.co/eeq8Aq7LjA",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1938673681854574592/img/9AFyQVekny9DsFSu.jpg",
+          "id_str": "1938673681854574592",
+          "id": "1938673681854574592",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1938673681854574592/img/9AFyQVekny9DsFSu.jpg",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eeq8Aq7LjA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "12",
+    "id_str": "1938675285399937234",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1938675285399937234",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 27 19:06:21 +0000 2025",
+    "favorited": false,
+    "full_text": "Internet 2.0 is here.\n\nIt's time to create an internet that rewards humans that build and fix human systems, not cheaters that exploit loopholes in order to capture attention. https://t.co/eeq8Aq7LjA",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1938675285399937234/video/1",
+          "indices": [
+            "176",
+            "199"
+          ],
+          "url": "https://t.co/eeq8Aq7LjA",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1938673681854574592/img/9AFyQVekny9DsFSu.jpg",
+          "id_str": "1938673681854574592",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "160750",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1938673681854574592/pl/3hO4rWkvpVu_DXpp.m3u8"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1938673681854574592/vid/avc1/320x568/baQuDHFEXBxo_XIT.mp4"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1938673681854574592/vid/avc1/720x1280/SI9q5JdAq-U_tJQX.mp4"
+              },
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1938673681854574592/vid/avc1/480x852/4iH8mE58gJ3E65nK.mp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1938673681854574592",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1938673681854574592/img/9AFyQVekny9DsFSu.jpg",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/eeq8Aq7LjA"
+        }
+      ]
+    }
+  }
+}

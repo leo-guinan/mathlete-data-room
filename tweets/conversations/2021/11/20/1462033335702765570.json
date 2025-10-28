@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1462033335702765570"
+        ],
+        "editableUntil": "2021-11-20T13:21:25.154Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1462033335702765570/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/VIyPihvfoi",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FEovjXrWYAcvSZe.jpg",
+          "id_str": "1462033313732911111",
+          "id": "1462033313732911111",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FEovjXrWYAcvSZe.jpg",
+          "sizes": {
+            "small": {
+              "w": "384",
+              "h": "480",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "384",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "384",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VIyPihvfoi"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1461604793311379458",
+    "id_str": "1462033335702765570",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1462033335702765570",
+    "in_reply_to_status_id": "1461604793311379458",
+    "possibly_sensitive": false,
+    "created_at": "Sat Nov 20 12:21:25 +0000 2021",
+    "favorited": false,
+    "full_text": "@reddy2go Love this thread! https://t.co/VIyPihvfoi",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1462033335702765570/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/VIyPihvfoi",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FEovjXrWYAcvSZe.jpg",
+          "id_str": "1462033313732911111",
+          "video_info": {
+            "aspect_ratio": [
+              "4",
+              "5"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FEovjXrWYAcvSZe.mp4"
+              }
+            ]
+          },
+          "id": "1462033313732911111",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FEovjXrWYAcvSZe.jpg",
+          "sizes": {
+            "small": {
+              "w": "384",
+              "h": "480",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "384",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "384",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/VIyPihvfoi"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1567212337156820992"
+        ],
+        "editableUntil": "2022-09-06T18:35:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hitchhiker's Guide To The Future - The Video Game!",
+          "screen_name": "HHGTTF_Game",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1566591470773182464",
+          "id": "1566591470773182464"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "71",
+            "82"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6nbtiALHqS",
+          "expanded_url": "https://x.com/leo_guinan/status/1567212324078903300",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "163",
+            "186"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "186"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1567212335340601345",
+    "id_str": "1567212337156820992",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1567212337156820992",
+    "in_reply_to_status_id": "1567212335340601345",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 06 18:05:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@HHGTTF_Game That's a wrap!\n\nIf you enjoyed this thread:\n\n1. Follow me @leo_guinan for more of these\n2. RT the tweet below to share this thread with your audience https://t.co/6nbtiALHqS",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

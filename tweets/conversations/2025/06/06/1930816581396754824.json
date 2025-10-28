@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930816581396754824"
+        ],
+        "editableUntil": "2025-06-06T03:38:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "akhil",
+          "screen_name": "fkasummer",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1046615678101409797",
+          "id": "1046615678101409797"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FyyNN7ZRLL",
+          "expanded_url": "https://x.com/leo_guinan/status/1930805935649312991",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "93",
+            "116"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930815269225549907",
+    "id_str": "1930816581396754824",
+    "in_reply_to_user_id": "1046615678101409797",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930816581396754824",
+    "in_reply_to_status_id": "1930815269225549907",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 06 02:38:40 +0000 2025",
+    "favorited": false,
+    "full_text": "@fkasummer Bingo. And it’s why they are going to lose. Here’s the blueprint for what’s next: https://t.co/FyyNN7ZRLL",
+    "lang": "en",
+    "in_reply_to_screen_name": "fkasummer",
+    "in_reply_to_user_id_str": "1046615678101409797"
+  }
+}

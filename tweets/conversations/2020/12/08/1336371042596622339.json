@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1336371042596622339"
+        ],
+        "editableUntil": "2020-12-08T19:04:19.785Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "#TuckFrump",
+          "screen_name": "realTuckFrumper",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "55060090",
+          "id": "55060090"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/I5zStHhVBe",
+          "expanded_url": "https://www.huffpost.com/entry/jack-dorsey-mayors-basic-income_n_5fcf906fc5b63a153454e769",
+          "display_url": "huffpost.com/entry/jack-dor…",
+          "indices": [
+            "105",
+            "128"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "0",
+    "id_str": "1336371042596622339",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1336371042596622339",
+    "possibly_sensitive": false,
+    "created_at": "Tue Dec 08 18:04:19 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @realTuckFrumper: Twitter Billionaire Jack Dorsey Gives U.S. Mayors $15 Million To Fund Basic Income\n https://t.co/I5zStHhVBe",
+    "lang": "en"
+  }
+}

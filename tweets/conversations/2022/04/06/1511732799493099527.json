@@ -1,0 +1,76 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1511732799493099527"
+        ],
+        "editableUntil": "2022-04-06T16:49:20.693Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Wizen Guides",
+          "screen_name": "WizenGuides",
+          "indices": [
+            "39",
+            "51"
+          ],
+          "id_str": "1495551813046652932",
+          "id": "1495551813046652932"
+        },
+        {
+          "name": "Anthony Castrio",
+          "screen_name": "AnthonyCastrio",
+          "indices": [
+            "57",
+            "72"
+          ],
+          "id_str": "1309141400",
+          "id": "1309141400"
+        },
+        {
+          "name": "Bhanu Teja P",
+          "screen_name": "pbteja1998",
+          "indices": [
+            "79",
+            "90"
+          ],
+          "id_str": "795073342558457857",
+          "id": "795073342558457857"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1511732799493099527",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1511732799493099527",
+    "created_at": "Wed Apr 06 15:49:20 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @NotechAna: 🚨 PH LAUNCH 🚨\nLaunching @WizenGuides with @AnthonyCastrio &amp; @pbteja1998\n\nWe talk to successfull indie makers to distil their…",
+    "lang": "en"
+  }
+}

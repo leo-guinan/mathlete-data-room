@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1541903217759592448"
+        ],
+        "editableUntil": "2022-06-28T22:25:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Art Inspired By Banned Books!",
+          "screen_name": "BannedBooksArt",
+          "indices": [
+            "17",
+            "32"
+          ],
+          "id_str": "1489067131396403202",
+          "id": "1489067131396403202"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pUvTSO8ixW",
+          "expanded_url": "https://guinanleo.medium.com/so-you-want-to-change-the-world-38bc5f573d85?sk=f404a4efaff92c4cc412789306780d7b",
+          "display_url": "guinanleo.medium.com/so-you-want-to…",
+          "indices": [
+            "45",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "123"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1541877027602632707",
+    "id_str": "1541903217759592448",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1541903217759592448",
+    "in_reply_to_status_id": "1541877027602632707",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 28 21:55:48 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @BannedBooksArt Here it is! https://t.co/pUvTSO8ixW\n\nI'd love any feedback that people have on it! Thanks!",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

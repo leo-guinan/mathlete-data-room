@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545377175561506823"
+        ],
+        "editableUntil": "2022-07-08T12:30:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "BG",
+          "screen_name": "goforbg",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "2249587110",
+          "id": "2249587110"
+        },
+        {
+          "name": "MongoDB",
+          "screen_name": "MongoDB",
+          "indices": [
+            "9",
+            "17"
+          ],
+          "id_str": "18080585",
+          "id": "18080585"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "246"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1545262555681026048",
+    "id_str": "1545377175561506823",
+    "in_reply_to_user_id": "2249587110",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545377175561506823",
+    "in_reply_to_status_id": "1545262555681026048",
+    "created_at": "Fri Jul 08 12:00:05 +0000 2022",
+    "favorited": false,
+    "full_text": "@goforbg @MongoDB Ok, so it's way easier than I was thinking. Might have a few records that didn't go, but I was able to just generate insert statements to a file and then run them. It's not a ton of data compared to some cases (about 150K rows).",
+    "lang": "en",
+    "in_reply_to_screen_name": "goforbg",
+    "in_reply_to_user_id_str": "2249587110"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1351562404572909574"
+        ],
+        "editableUntil": "2021-01-19T17:09:22.722Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benedict Evans",
+          "screen_name": "benedictevans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1236101",
+          "id": "1236101"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1351452240716959745",
+    "id_str": "1351562404572909574",
+    "in_reply_to_user_id": "1236101",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1351562404572909574",
+    "in_reply_to_status_id": "1351452240716959745",
+    "created_at": "Tue Jan 19 16:09:22 +0000 2021",
+    "favorited": false,
+    "full_text": "@benedictevans I agree, in a sense. I think content moderation can work for platforms that host content. But the area that can use some work is content distribution. That's the problem I am looking at right now with @net_defi. Figuring out a way to democratize distribution channels.",
+    "lang": "en",
+    "in_reply_to_screen_name": "benedictevans",
+    "in_reply_to_user_id_str": "1236101"
+  }
+}

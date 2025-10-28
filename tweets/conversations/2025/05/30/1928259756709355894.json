@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928259756709355894"
+        ],
+        "editableUntil": "2025-05-30T02:18:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "104",
+            "119"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Xur9JNLpe7",
+          "expanded_url": "https://community.buildinpublicuniversity.com/invitation?code=3BA382",
+          "display_url": "community.buildinpublicuniversity.com/invitation?cod…",
+          "indices": [
+            "122",
+            "145"
+          ]
+        },
+        {
+          "url": "https://t.co/HoYgNZiPFc",
+          "expanded_url": "https://chronos.buildinpublicuniversity.com/",
+          "display_url": "chronos.buildinpublicuniversity.com",
+          "indices": [
+            "213",
+            "236"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "236"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1928259755086090280",
+    "id_str": "1928259756709355894",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928259756709355894",
+    "in_reply_to_status_id": "1928259755086090280",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 30 01:18:45 +0000 2025",
+    "favorited": false,
+    "full_text": "And now, we're out of time.\n\nI'll see y'all in the future.\n\nYou can see what that looks like by joining @BuildInPublicU : https://t.co/Xur9JNLpe7\n\nOr getting yourself one of the first time machines on the market:\nhttps://t.co/HoYgNZiPFc",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

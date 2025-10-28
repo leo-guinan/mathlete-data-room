@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1406285342966177793"
+        ],
+        "editableUntil": "2021-06-19T17:18:47.938Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Brian To",
+          "screen_name": "thebrianto",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1345679542422179845",
+          "id": "1345679542422179845"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/thebrianto/status/1406283142059622406/photo/1",
+          "source_status_id": "1406283142059622406",
+          "indices": [
+            "83",
+            "106"
+          ],
+          "url": "https://t.co/9OAXQ6A4kc",
+          "media_url": "http://pbs.twimg.com/media/E4QfEHkVEAMIaV5.jpg",
+          "id_str": "1406283139257798659",
+          "source_user_id": "1345679542422179845",
+          "id": "1406283139257798659",
+          "media_url_https": "https://pbs.twimg.com/media/E4QfEHkVEAMIaV5.jpg",
+          "source_user_id_str": "1345679542422179845",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "672",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1126",
+              "h": "1113",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1126",
+              "h": "1113",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1406283142059622406",
+          "display_url": "pic.x.com/9OAXQ6A4kc"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "106"
+    ],
+    "favorite_count": "0",
+    "id_str": "1406285342966177793",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1406285342966177793",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 19 16:18:47 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @thebrianto: @leo_guinan Your 9 year old will appreciate this in the future. 😆😆 https://t.co/9OAXQ6A4kc",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/thebrianto/status/1406283142059622406/photo/1",
+          "source_status_id": "1406283142059622406",
+          "indices": [
+            "83",
+            "106"
+          ],
+          "url": "https://t.co/9OAXQ6A4kc",
+          "media_url": "http://pbs.twimg.com/media/E4QfEHkVEAMIaV5.jpg",
+          "id_str": "1406283139257798659",
+          "source_user_id": "1345679542422179845",
+          "id": "1406283139257798659",
+          "media_url_https": "https://pbs.twimg.com/media/E4QfEHkVEAMIaV5.jpg",
+          "source_user_id_str": "1345679542422179845",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "672",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1126",
+              "h": "1113",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1126",
+              "h": "1113",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1406283142059622406",
+          "display_url": "pic.x.com/9OAXQ6A4kc"
+        }
+      ]
+    }
+  }
+}

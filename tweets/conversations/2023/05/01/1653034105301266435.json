@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1653034105301266435"
+        ],
+        "editableUntil": "2023-05-01T14:20:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "240"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1653034099148312583",
+    "id_str": "1653034105301266435",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1653034105301266435",
+    "in_reply_to_status_id": "1653034099148312583",
+    "created_at": "Mon May 01 13:50:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Best thing he can do right now: analyze github repos and answer questions about them.\n\nNeed to add in some functionality around breaking a problem down into the pieces and actually producing the code instead of requirement documents though.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

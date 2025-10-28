@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1648485681294094346"
+        ],
+        "editableUntil": "2023-04-19T01:06:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "twitterTwin",
+          "indices": [
+            "165",
+            "177"
+          ]
+        },
+        {
+          "text": "toasteed",
+          "indices": [
+            "178",
+            "187"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "94",
+            "105"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "108",
+            "118"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OBx4lK46st",
+          "expanded_url": "https://toasteed.com/dk4mr1/plp4zx7q",
+          "display_url": "toasteed.com/dk4mr1/plp4zx7q",
+          "indices": [
+            "188",
+            "211"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "1",
+    "id_str": "1648485681294094346",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1648485681294094346",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 19 00:36:28 +0000 2023",
+    "favorited": false,
+    "full_text": "Gotta say, this makes me feel like I'm doing something right. 💪\n\nWho is your Twitter twin? 👯\n\n@leo_guinan = @arvidkahl\n\nleo_guinan and arvidkahl are Twitter twins!\n\n#twitterTwin #toasteed\nhttps://t.co/OBx4lK46st",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363310611376058374"
+        ],
+        "editableUntil": "2021-02-21T03:12:33.495Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nikema is Advocating 🥑",
+          "screen_name": "dev_nikema",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1299058785634324480",
+          "id": "1299058785634324480"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1363310611376058374",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363310611376058374",
+    "created_at": "Sun Feb 21 02:12:33 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @dev_nikema: Boost thread!\n\nPlease tag either: \n- someone who more people should see and learn from \nor \n- a cause that needs funding or…",
+    "lang": "en"
+  }
+}

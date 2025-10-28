@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932079997512036818"
+        ],
+        "editableUntil": "2025-06-09T15:19:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "super",
+          "screen_name": "super_projects",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1872795280304693248",
+          "id": "1872795280304693248"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FsD6m0x7YM",
+          "expanded_url": "https://www.buildinpublicuniversity.com/temporal-p-np-theory-mathematical-formalization/",
+          "display_url": "buildinpublicuniversity.com/temporal-p-np-…",
+          "indices": [
+            "30",
+            "53"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "53"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1932079301874090320",
+    "id_str": "1932079997512036818",
+    "in_reply_to_user_id": "1872795280304693248",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932079997512036818",
+    "in_reply_to_status_id": "1932079301874090320",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 09 14:19:02 +0000 2025",
+    "favorited": false,
+    "full_text": "@super_projects Not anymore. \nhttps://t.co/FsD6m0x7YM",
+    "lang": "en",
+    "in_reply_to_screen_name": "super_projects",
+    "in_reply_to_user_id_str": "1872795280304693248"
+  }
+}

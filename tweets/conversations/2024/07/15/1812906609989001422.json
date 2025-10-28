@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1812906609989001422"
+        ],
+        "editableUntil": "2024-07-15T18:46:32.654Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "molinar",
+          "screen_name": "fluttermatt",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "712684869097168899",
+          "id": "712684869097168899"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "0",
+    "id_str": "1812906609989001422",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1812906609989001422",
+    "created_at": "Mon Jul 15 17:46:32 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @fluttermatt: introducing: multi.\n\nwe live in a digital world. digital power should belong to everyone. its up to us to fix the world.…",
+    "lang": "en"
+  }
+}

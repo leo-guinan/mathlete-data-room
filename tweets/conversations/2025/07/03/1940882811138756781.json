@@ -1,0 +1,161 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940882811138756781"
+        ],
+        "editableUntil": "2025-07-03T22:18:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Carlos E. Perez",
+          "screen_name": "IntuitMachine",
+          "indices": [
+            "196",
+            "210"
+          ],
+          "id_str": "3027431134",
+          "id": "3027431134"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940882811138756781/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/pFjkztzfaW",
+          "media_url": "http://pbs.twimg.com/media/Gu9k87xXEAAaQK2.jpg",
+          "id_str": "1940880962419625984",
+          "id": "1940880962419625984",
+          "media_url_https": "https://pbs.twimg.com/media/Gu9k87xXEAAaQK2.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1176",
+              "h": "1194",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1176",
+              "h": "1194",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "670",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pFjkztzfaW"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "304"
+    ],
+    "favorite_count": "3",
+    "id_str": "1940882811138756781",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940882811138756781",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 03 21:18:16 +0000 2025",
+    "favorited": false,
+    "full_text": "This is something that's pretty cool that I'm attempting to model. This is an approximation, but can be done through code as verification.\n\nI'm looking at the summary of a conversation I had with @IntuitMachine.\n\nWe had a great conversation, but when I get lost in a conversation… https://t.co/pFjkztzfaW",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940882811138756781/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/pFjkztzfaW",
+          "media_url": "http://pbs.twimg.com/media/Gu9k87xXEAAaQK2.jpg",
+          "id_str": "1940880962419625984",
+          "id": "1940880962419625984",
+          "media_url_https": "https://pbs.twimg.com/media/Gu9k87xXEAAaQK2.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1176",
+              "h": "1194",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1176",
+              "h": "1194",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "670",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pFjkztzfaW"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940882811138756781/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/pFjkztzfaW",
+          "media_url": "http://pbs.twimg.com/media/Gu9mKiJW0AACncw.jpg",
+          "id_str": "1940882295570747392",
+          "id": "1940882295570747392",
+          "media_url_https": "https://pbs.twimg.com/media/Gu9mKiJW0AACncw.jpg",
+          "sizes": {
+            "large": {
+              "w": "1176",
+              "h": "798",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1176",
+              "h": "798",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "461",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pFjkztzfaW"
+        }
+      ]
+    }
+  }
+}

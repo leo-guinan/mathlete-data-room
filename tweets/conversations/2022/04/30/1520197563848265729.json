@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520197563848265729"
+        ],
+        "editableUntil": "2022-04-30T01:25:17.783Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "ungatedcreative",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WKMrcZG97t",
+          "expanded_url": "https://x.com/leo_guinan/status/1520189491843145730?s=20&t=-0WRtFk4Gysc-0wKlfHDrg",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "0",
+    "id_str": "1520197563848265729",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520197563848265729",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 30 00:25:17 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @ungatedcreative: leo is just posting banger after banger tonight damn\n\nhttps://t.co/WKMrcZG97t",
+    "lang": "en"
+  }
+}

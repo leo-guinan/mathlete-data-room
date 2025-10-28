@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1481043668739964936"
+        ],
+        "editableUntil": "2022-01-12T00:21:41.745Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kait Feldmann",
+          "screen_name": "kaitfeldmann",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "118309053",
+          "id": "118309053"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1481043668739964936",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1481043668739964936",
+    "created_at": "Tue Jan 11 23:21:41 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @kaitfeldmann: Hey! You know what! In 2022 I am using exclamation points at the end of every email sentence! I don’t care if it looks li…",
+    "lang": "en"
+  }
+}

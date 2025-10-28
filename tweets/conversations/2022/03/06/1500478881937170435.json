@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1500478881937170435"
+        ],
+        "editableUntil": "2022-03-06T15:30:17.660Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        },
+        {
+          "name": "Sven 👉 intribe.co",
+          "screen_name": "radavics",
+          "indices": [
+            "25",
+            "34"
+          ],
+          "id_str": "90027390",
+          "id": "90027390"
+        },
+        {
+          "name": "Kilian Poulin 🦾",
+          "screen_name": "KilianPoulinTW",
+          "indices": [
+            "35",
+            "50"
+          ],
+          "id_str": "2225613595",
+          "id": "2225613595"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "5",
+    "in_reply_to_status_id_str": "1500473879055196162",
+    "id_str": "1500478881937170435",
+    "in_reply_to_user_id": "1379146178244268035",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1500478881937170435",
+    "in_reply_to_status_id": "1500473879055196162",
+    "created_at": "Sun Mar 06 14:30:17 +0000 2022",
+    "favorited": false,
+    "full_text": "@oluadedej @barunpandeyy @radavics @KilianPoulinTW @codebeef_ Thanks, Olu! Much appreciated! 🙏",
+    "lang": "en",
+    "in_reply_to_screen_name": "oluadedej",
+    "in_reply_to_user_id_str": "1379146178244268035"
+  }
+}

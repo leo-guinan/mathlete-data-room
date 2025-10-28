@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940879617889653077"
+        ],
+        "editableUntil": "2025-07-03T22:05:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940879617889653077/photo/1",
+          "indices": [
+            "153",
+            "176"
+          ],
+          "url": "https://t.co/1A6e5wsqZT",
+          "media_url": "http://pbs.twimg.com/media/Gu9jfE-WQAEmeyy.jpg",
+          "id_str": "1940879349982314497",
+          "id": "1940879349982314497",
+          "media_url_https": "https://pbs.twimg.com/media/Gu9jfE-WQAEmeyy.jpg",
+          "sizes": {
+            "small": {
+              "w": "629",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1192",
+              "h": "1288",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1111",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1A6e5wsqZT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "176"
+    ],
+    "favorite_count": "0",
+    "id_str": "1940879617889653077",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940879617889653077",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 03 21:05:35 +0000 2025",
+    "favorited": false,
+    "full_text": "Here's the problem with analytics. It compresses into something.\n\nWhat's your growth based on?\n\nAnything meaningful?\n\nOr an offhanded joke about trains? https://t.co/1A6e5wsqZT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940879617889653077/photo/1",
+          "indices": [
+            "153",
+            "176"
+          ],
+          "url": "https://t.co/1A6e5wsqZT",
+          "media_url": "http://pbs.twimg.com/media/Gu9jfE-WQAEmeyy.jpg",
+          "id_str": "1940879349982314497",
+          "id": "1940879349982314497",
+          "media_url_https": "https://pbs.twimg.com/media/Gu9jfE-WQAEmeyy.jpg",
+          "sizes": {
+            "small": {
+              "w": "629",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1192",
+              "h": "1288",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1111",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1A6e5wsqZT"
+        }
+      ]
+    }
+  }
+}

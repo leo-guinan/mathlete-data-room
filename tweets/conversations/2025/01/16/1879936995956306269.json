@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1879936995956306269"
+        ],
+        "editableUntil": "2025-01-16T18:01:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jake Zegil 🗽",
+          "screen_name": "JakeZegil",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1229048023822536705",
+          "id": "1229048023822536705"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1879933000579998022",
+    "id_str": "1879936995956306269",
+    "in_reply_to_user_id": "1229048023822536705",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1879936995956306269",
+    "in_reply_to_status_id": "1879933000579998022",
+    "created_at": "Thu Jan 16 17:01:22 +0000 2025",
+    "favorited": false,
+    "full_text": "@JakeZegil Huge, because our concept of university is structured around ideas of time, space, and intelligence that are broken and outdated.\n\nOur economy is structured on control, so we try to control education. But the key to education is that you've got to create an environment while…",
+    "lang": "en",
+    "in_reply_to_screen_name": "JakeZegil",
+    "in_reply_to_user_id_str": "1229048023822536705"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1880369327867850879"
+        ],
+        "editableUntil": "2025-01-17T22:39:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anton 🇺🇸",
+          "screen_name": "atroyn",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "889394994607529984",
+          "id": "889394994607529984"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "187"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1880367602830307431",
+    "id_str": "1880369327867850879",
+    "in_reply_to_user_id": "889394994607529984",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1880369327867850879",
+    "in_reply_to_status_id": "1880367602830307431",
+    "created_at": "Fri Jan 17 21:39:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@atroyn Human Insurance, here. Our bad, timeline predictions were a little bit skewed.\n\nTimeline patch is being accelerated so that we can really take off.\n\nThen the vibes will truly sing",
+    "lang": "en",
+    "in_reply_to_screen_name": "atroyn",
+    "in_reply_to_user_id_str": "889394994607529984"
+  }
+}

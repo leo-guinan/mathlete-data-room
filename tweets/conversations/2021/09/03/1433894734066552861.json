@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1433894734066552861"
+        ],
+        "editableUntil": "2021-09-03T21:48:39.734Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sai Krishna",
+          "screen_name": "_skris",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "135950335",
+          "id": "135950335"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1433883231233794048",
+    "id_str": "1433894734066552861",
+    "in_reply_to_user_id": "135950335",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1433894734066552861",
+    "in_reply_to_status_id": "1433883231233794048",
+    "created_at": "Fri Sep 03 20:48:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@_skris So, I've got the code written. The MVP currently works, but I'm running part of it on my own server due to deployment issues. I picked the tech that I could get deployed as easily as possible.\n\nThat's why I'm migrating part of the code over. Essentially, I'm moving modules.",
+    "lang": "en",
+    "in_reply_to_screen_name": "_skris",
+    "in_reply_to_user_id_str": "135950335"
+  }
+}

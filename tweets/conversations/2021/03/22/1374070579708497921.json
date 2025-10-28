@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1374070579708497921"
+        ],
+        "editableUntil": "2021-03-22T19:48:49.856Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ActuallyAutistic",
+          "indices": [
+            "22",
+            "39"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nicole Archambault 🌩🌴🦎",
+          "screen_name": "lavie_encode",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "3274121605",
+          "id": "3274121605"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1374070579708497921",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1374070579708497921",
+    "created_at": "Mon Mar 22 18:48:49 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @lavie_encode: hey #ActuallyAutistic friends and fam!\n\nI'm searching for a new therapist after a really bad fallout with an allistic and…",
+    "lang": "en"
+  }
+}

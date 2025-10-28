@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1433178354908340233"
+        ],
+        "editableUntil": "2021-09-01T22:22:01.633Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "247"
+    ],
+    "favorite_count": "3",
+    "id_str": "1433178354908340233",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1433178354908340233",
+    "created_at": "Wed Sep 01 21:22:01 +0000 2021",
+    "favorited": false,
+    "full_text": "Thinking about restructuring the data model for @feathercrm again. \n\nAs I've started talking to users and getting a clearer vision for what it can be, I'm realizing that a couple design decisions I made will be suboptimal at a point in the future.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563375064988340225"
+        ],
+        "editableUntil": "2022-08-27T04:27:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "63",
+            "79"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "80",
+            "91"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "RossiniB",
+          "screen_name": "randomshenans",
+          "indices": [
+            "92",
+            "106"
+          ],
+          "id_str": "121729403",
+          "id": "121729403"
+        },
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "107",
+            "121"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "122",
+            "136"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "137",
+            "151"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "179",
+            "195"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d1uTJBqemy",
+          "expanded_url": "https://x.com/LobowSpark/status/1563275482996453376",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "280",
+            "303"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1563375064988340225/photo/1",
+          "indices": [
+            "304",
+            "327"
+          ],
+          "url": "https://t.co/ixuRiAlxHl",
+          "media_url": "http://pbs.twimg.com/media/FbI43CsUIAIgb0W.jpg",
+          "id_str": "1563374538917683202",
+          "id": "1563374538917683202",
+          "media_url_https": "https://pbs.twimg.com/media/FbI43CsUIAIgb0W.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1216",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "712",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "404",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ixuRiAlxHl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "327"
+    ],
+    "favorite_count": "8",
+    "id_str": "1563375064988340225",
+    "truncated": false,
+    "retweet_count": "3",
+    "id": "1563375064988340225",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 27 03:57:16 +0000 2022",
+    "favorited": false,
+    "full_text": "Wonderful conversation around ADHD and Friendship!\n\nFeaturing: @BlushingCrafter @LobowSpark @randomshenans @TheKookamonga @MechiMansilla @tshubillabong, @DorseyMc \n\nNot pictured: @JustinAllingham, who had to leave a little early (please add a picture of you in sunglasses below!) https://t.co/d1uTJBqemy https://t.co/ixuRiAlxHl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1563375064988340225/photo/1",
+          "indices": [
+            "304",
+            "327"
+          ],
+          "url": "https://t.co/ixuRiAlxHl",
+          "media_url": "http://pbs.twimg.com/media/FbI43CsUIAIgb0W.jpg",
+          "id_str": "1563374538917683202",
+          "id": "1563374538917683202",
+          "media_url_https": "https://pbs.twimg.com/media/FbI43CsUIAIgb0W.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1216",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "712",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "404",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ixuRiAlxHl"
+        }
+      ]
+    }
+  }
+}

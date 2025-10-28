@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347910835058991110"
+        ],
+        "editableUntil": "2021-01-09T15:19:20.707Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "David Levy",
+          "screen_name": "DavidLevyMusic",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2604614774",
+          "id": "2604614774"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/DavidLevyMusic/status/1347640841595138048/photo/1",
+          "source_status_id": "1347640841595138048",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/UZonUPHgQl",
+          "media_url": "http://pbs.twimg.com/media/ErPIM8JWMAAGzRE.jpg",
+          "id_str": "1347640838143225856",
+          "source_user_id": "2604614774",
+          "id": "1347640838143225856",
+          "media_url_https": "https://pbs.twimg.com/media/ErPIM8JWMAAGzRE.jpg",
+          "source_user_id_str": "2604614774",
+          "sizes": {
+            "small": {
+              "w": "507",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "895",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1039",
+              "h": "1393",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1347640841595138048",
+          "display_url": "pic.x.com/UZonUPHgQl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "0",
+    "id_str": "1347910835058991110",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347910835058991110",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 09 14:19:20 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @DavidLevyMusic: All set. https://t.co/UZonUPHgQl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/DavidLevyMusic/status/1347640841595138048/photo/1",
+          "source_status_id": "1347640841595138048",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/UZonUPHgQl",
+          "media_url": "http://pbs.twimg.com/media/ErPIM8JWMAAGzRE.jpg",
+          "id_str": "1347640838143225856",
+          "source_user_id": "2604614774",
+          "id": "1347640838143225856",
+          "media_url_https": "https://pbs.twimg.com/media/ErPIM8JWMAAGzRE.jpg",
+          "source_user_id_str": "2604614774",
+          "sizes": {
+            "small": {
+              "w": "507",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "895",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1039",
+              "h": "1393",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1347640841595138048",
+          "display_url": "pic.x.com/UZonUPHgQl"
+        }
+      ]
+    }
+  }
+}

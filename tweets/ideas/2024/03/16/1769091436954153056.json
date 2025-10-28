@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1769091436954153056"
+        ],
+        "editableUntil": "2024-03-16T21:00:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1769091436954153056/video/1",
+          "indices": [
+            "265",
+            "288"
+          ],
+          "url": "https://t.co/Cza2qb10at",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1769091141973020672/pu/img/2Hp3C5H4wxfXKdNY.jpg",
+          "id_str": "1769091141973020672",
+          "id": "1769091141973020672",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1769091141973020672/pu/img/2Hp3C5H4wxfXKdNY.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Cza2qb10at"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "3",
+    "id_str": "1769091436954153056",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1769091436954153056",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 16 20:00:41 +0000 2024",
+    "favorited": false,
+    "full_text": "Here's a new piece of My AI Cofounder: drag and drop task re-prioritization.\n\nFinally fixed my login issue last night, so putting the finishing touches on the app for public use. Plan is to go live tomorrow to the public (with a secret team feature for one user 🤫) https://t.co/Cza2qb10at",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1769091436954153056/video/1",
+          "indices": [
+            "265",
+            "288"
+          ],
+          "url": "https://t.co/Cza2qb10at",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1769091141973020672/pu/img/2Hp3C5H4wxfXKdNY.jpg",
+          "id_str": "1769091141973020672",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "51660",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1769091141973020672/pu/pl/Igae_7TF2lhxIiak.m3u8?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1769091141973020672/pu/vid/avc1/480x270/UpTI3_n-QE0Tedh0.mp4?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1769091141973020672/pu/vid/avc1/1280x720/NBmEkDYmuZLA72Qj.mp4?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1769091141973020672/pu/vid/avc1/640x360/jKNOvhpDZor6j61L.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1769091141973020672",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1769091141973020672/pu/img/2Hp3C5H4wxfXKdNY.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/Cza2qb10at"
+        }
+      ]
+    }
+  }
+}

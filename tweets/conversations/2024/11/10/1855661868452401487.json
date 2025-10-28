@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1855661868452401487"
+        ],
+        "editableUntil": "2024-11-10T18:20:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "187"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1855017345863106971",
+    "id_str": "1855661868452401487",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1855661868452401487",
+    "in_reply_to_status_id": "1855017345863106971",
+    "created_at": "Sun Nov 10 17:20:40 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli Spoken like someone who has had their timeline blown up by one of my brain dumps 😂😂😂\n\n\"Ah, just enjoying this nice feed of quick hitters and...\" BAM! Leo dropped a dissertation.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509483983674957829"
+        ],
+        "editableUntil": "2022-03-31T11:53:21.221Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Cam Houser | 📹 🚀 📈",
+          "screen_name": "cahouser",
+          "indices": [
+            "41",
+            "50"
+          ],
+          "id_str": "13980292",
+          "id": "13980292"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "143"
+    ],
+    "favorite_count": "0",
+    "id_str": "1509483983674957829",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509483983674957829",
+    "created_at": "Thu Mar 31 10:53:21 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @reddy2go: and the charismatic cowboy @cahouser gets you to click your heels together &amp; dance to the beat of your inner drummer boi\n\nas…",
+    "lang": "en"
+  }
+}

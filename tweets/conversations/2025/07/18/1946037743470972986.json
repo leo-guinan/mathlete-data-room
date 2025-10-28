@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946037743470972986"
+        ],
+        "editableUntil": "2025-07-18T03:42:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Cohen",
+          "screen_name": "anothercohen",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "557440724",
+          "id": "557440724"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "7",
+    "in_reply_to_status_id_str": "1946037239969906892",
+    "id_str": "1946037743470972986",
+    "in_reply_to_user_id": "557440724",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946037743470972986",
+    "in_reply_to_status_id": "1946037239969906892",
+    "created_at": "Fri Jul 18 02:42:08 +0000 2025",
+    "favorited": false,
+    "full_text": "@anothercohen I'm honestly amazed. Every single time like clockwork.\n\nReally found yourself a niche. Kinda the Anti-Sohom, actually.",
+    "lang": "en",
+    "in_reply_to_screen_name": "anothercohen",
+    "in_reply_to_user_id_str": "557440724"
+  }
+}

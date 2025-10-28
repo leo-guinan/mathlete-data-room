@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346914231225118732"
+        ],
+        "editableUntil": "2021-01-06T21:19:11.837Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Geller",
+          "screen_name": "ericgeller",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "3817401",
+          "id": "3817401"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346914231225118732",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346914231225118732",
+    "created_at": "Wed Jan 06 20:19:11 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ericgeller: Every single BLM argument about white privilege and double standards in law enforcement is being validated in real time rig…",
+    "lang": "en"
+  }
+}

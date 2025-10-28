@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1378029507215417344"
+        ],
+        "editableUntil": "2021-04-02T18:00:11.727Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Moe",
+          "screen_name": "michaelmoe",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "7068442",
+          "id": "7068442"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "id_str": "1378029507215417344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1378029507215417344",
+    "created_at": "Fri Apr 02 17:00:11 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @michaelmoe: \"The fastest way to change yourself is to hang out with people who are already the way you want to be.\" - Reid Hoffman",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1410349885103222784"
+        ],
+        "editableUntil": "2021-06-30T22:29:50.299Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arthur Morgan",
+          "screen_name": "arthurmorganbot",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1282385014223712262",
+          "id": "1282385014223712262"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1410349885103222784",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1410349885103222784",
+    "created_at": "Wed Jun 30 21:29:50 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @arthurmorganbot: How could you not think this was a trap?",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885460646361190527"
+        ],
+        "editableUntil": "2025-01-31T23:50:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bryan Johnson",
+          "screen_name": "bryan_johnson",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "17468569",
+          "id": "17468569"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1885448663704780832",
+    "id_str": "1885460646361190527",
+    "in_reply_to_user_id": "17468569",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885460646361190527",
+    "in_reply_to_status_id": "1885448663704780832",
+    "created_at": "Fri Jan 31 22:50:22 +0000 2025",
+    "favorited": false,
+    "full_text": "@bryan_johnson I can help you do it right if you want.\n\nI'm studying it from the aspect of Human Insurance, which will incentivize not dying! would love to help you design it in line with your goals.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bryan_johnson",
+    "in_reply_to_user_id_str": "17468569"
+  }
+}

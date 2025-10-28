@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1561013072583659520"
+        ],
+        "editableUntil": "2022-08-20T16:01:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/trXlJnW2Jl",
+          "expanded_url": "https://www.twitch.tv/buildinpublicuniversity",
+          "display_url": "twitch.tv/buildinpublicu…",
+          "indices": [
+            "216",
+            "239"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "239"
+    ],
+    "favorite_count": "5",
+    "id_str": "1561013072583659520",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1561013072583659520",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 20 15:31:33 +0000 2022",
+    "favorited": false,
+    "full_text": "Testing my streaming/recording setup in preparation for some future things. Going to be talking about about the future of work, artificial intelligence, and where things are probably heading.\n\nFeel free to join me! \nhttps://t.co/trXlJnW2Jl",
+    "lang": "en"
+  }
+}

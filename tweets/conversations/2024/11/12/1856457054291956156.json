@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1856457054291956156"
+        ],
+        "editableUntil": "2024-11-12T23:00:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "85",
+            "100"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9nvQGdsQvW",
+          "expanded_url": "https://x.com/visakanv/status/1451147667732525063",
+          "display_url": "x.com/visakanv/statu…",
+          "indices": [
+            "157",
+            "180"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "180"
+    ],
+    "favorite_count": "1",
+    "id_str": "1856457054291956156",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1856457054291956156",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 12 22:00:27 +0000 2024",
+    "favorited": false,
+    "full_text": "This is the most important thing you can do and is at the heart of the philosophy of @BuildInPublicU.\n\nYou do the creating. We'll help handle the discovery. https://t.co/9nvQGdsQvW",
+    "lang": "en"
+  }
+}

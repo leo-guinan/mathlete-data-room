@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1824910862257393938"
+        ],
+        "editableUntil": "2024-08-17T21:47:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "223"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1824887680594755726",
+    "id_str": "1824910862257393938",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1824910862257393938",
+    "in_reply_to_status_id": "1824887680594755726",
+    "created_at": "Sat Aug 17 20:47:09 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli What if I told you that was a sign of a broken game?\n\nThat's something I've been considering about politics. The incentives will always lead to the wrong participants because the game selects for the wrong skills.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

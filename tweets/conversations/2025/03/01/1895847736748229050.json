@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895847736748229050"
+        ],
+        "editableUntil": "2025-03-01T15:44:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4KtyNN52mJ",
+          "expanded_url": "https://www.buildinpublicuniversity.com/complexity-inflation-the-hidden-economics-of-scaling/",
+          "display_url": "buildinpublicuniversity.com/complexity-inf…",
+          "indices": [
+            "256",
+            "279"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1895828043849220449",
+    "id_str": "1895847736748229050",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895847736748229050",
+    "in_reply_to_status_id": "1895828043849220449",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 01 14:44:58 +0000 2025",
+    "favorited": false,
+    "full_text": "Now I'm building a new product that implements this pricing model.\n\nIt's going to be a research tool based on the work I've been doing on this paper.\n\nHow can we coordinate multiple researchers across various institutions to coordinate on novel research?\n\nhttps://t.co/4KtyNN52mJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

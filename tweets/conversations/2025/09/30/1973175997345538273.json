@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973175997345538273"
+        ],
+        "editableUntil": "2025-10-01T00:59:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Callan",
+          "screen_name": "callanable",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1488129416005890049",
+          "id": "1488129416005890049"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "157"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1973175695603016010",
+    "id_str": "1973175997345538273",
+    "in_reply_to_user_id": "1488129416005890049",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973175997345538273",
+    "in_reply_to_status_id": "1973175695603016010",
+    "created_at": "Tue Sep 30 23:59:52 +0000 2025",
+    "favorited": false,
+    "full_text": "@callanable Yes.\n\nAnd many different things throughout the years. \n\nI'm currently collecting people, and that's pretty cool.\n\nIt was skills for way too long.",
+    "lang": "en",
+    "in_reply_to_screen_name": "callanable",
+    "in_reply_to_user_id_str": "1488129416005890049"
+  }
+}

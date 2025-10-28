@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941345226003828815"
+        ],
+        "editableUntil": "2025-07-05T04:55:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941345226003828815/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/DP289ClzNw",
+          "media_url": "http://pbs.twimg.com/media/GvEG2VNW8AAKUdL.png",
+          "id_str": "1941340444849270784",
+          "id": "1941340444849270784",
+          "media_url_https": "https://pbs.twimg.com/media/GvEG2VNW8AAKUdL.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "266",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1622",
+              "h": "634",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "469",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DP289ClzNw"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "4",
+    "id_str": "1941345226003828815",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941345226003828815",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 05 03:55:44 +0000 2025",
+    "favorited": false,
+    "full_text": "It's all about to drop now.\n\nNew essay on the state of the american economy in its final stage.\n\nWe have a choice to make. Are we going to save what we've got?\n\nOr are we going to let it burn? https://t.co/DP289ClzNw",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941345226003828815/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/DP289ClzNw",
+          "media_url": "http://pbs.twimg.com/media/GvEG2VNW8AAKUdL.png",
+          "id_str": "1941340444849270784",
+          "id": "1941340444849270784",
+          "media_url_https": "https://pbs.twimg.com/media/GvEG2VNW8AAKUdL.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "266",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1622",
+              "h": "634",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "469",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DP289ClzNw"
+        }
+      ]
+    }
+  }
+}

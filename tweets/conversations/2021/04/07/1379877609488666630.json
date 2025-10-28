@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379877609488666630"
+        ],
+        "editableUntil": "2021-04-07T20:23:53.645Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "minal hasan",
+          "screen_name": "minal_hasan",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1977132896",
+          "id": "1977132896"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1379792768101347336",
+    "id_str": "1379877609488666630",
+    "in_reply_to_user_id": "1977132896",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379877609488666630",
+    "in_reply_to_status_id": "1379792768101347336",
+    "created_at": "Wed Apr 07 19:23:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@minal_hasan Promotion/relegation.  I view it as similar to the structure in soccer. Starting out, the community will all be tight knit as a small community. As it starts to grow, there will be a tier that forms below that will be larger and contain more people. And so on until a pyramid is",
+    "lang": "en",
+    "in_reply_to_screen_name": "minal_hasan",
+    "in_reply_to_user_id_str": "1977132896"
+  }
+}

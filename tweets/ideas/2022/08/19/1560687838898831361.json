@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1560687838898831361"
+        ],
+        "editableUntil": "2022-08-19T18:29:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BuildInPublicFail",
+          "indices": [
+            "0",
+            "18"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "3",
+    "id_str": "1560687838898831361",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1560687838898831361",
+    "created_at": "Fri Aug 19 17:59:11 +0000 2022",
+    "favorited": false,
+    "full_text": "#BuildInPublicFail last night.\n\nTold people to start using my new bot.\n\nIt didn't work at all. I screwed up about 4 different things when I deployed it and didn't test it once it was live in prod.\n\nWhoops.\n\nBut no big deal. Now it's running live and people are trying it out!",
+    "lang": "en"
+  }
+}

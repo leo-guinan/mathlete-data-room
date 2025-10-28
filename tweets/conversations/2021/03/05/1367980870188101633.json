@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1367980870188101633"
+        ],
+        "editableUntil": "2021-03-06T00:30:29.965Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Yin 💛",
+          "screen_name": "dunkhippo33",
+          "indices": [
+            "23",
+            "35"
+          ],
+          "id_str": "14756283",
+          "id": "14756283"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L1pbzw1BjB",
+          "expanded_url": "https://x.com/dunkhippo33/status/1367974394367156225",
+          "display_url": "x.com/dunkhippo33/st…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "1",
+    "id_str": "1367980870188101633",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1367980870188101633",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 05 23:30:29 +0000 2021",
+    "favorited": false,
+    "full_text": "More awesome info from @dunkhippo33 ! https://t.co/L1pbzw1BjB",
+    "lang": "en"
+  }
+}

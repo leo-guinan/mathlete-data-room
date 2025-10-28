@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1533598964766986242"
+        ],
+        "editableUntil": "2022-06-06T00:27:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "269"
+    ],
+    "favorite_count": "0",
+    "id_str": "1533598964766986242",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1533598964766986242",
+    "created_at": "Sun Jun 05 23:57:40 +0000 2022",
+    "favorited": false,
+    "full_text": "Weird question going out to anyone who's using headlessUI and multiple Switch components:\n\nWhat's the best way to handle those changes? I've got a table of records, each with a switch. Should I just keep a map of records and update all of them each time one is changed?",
+    "lang": "en"
+  }
+}

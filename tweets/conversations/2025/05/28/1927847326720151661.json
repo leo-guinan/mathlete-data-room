@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1927847326720151661"
+        ],
+        "editableUntil": "2025-05-28T22:59:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/exHoH5t1Lh",
+          "expanded_url": "https://www.buildinpublicuniversity.com/discover-the-speed-limit-of-learning/",
+          "display_url": "buildinpublicuniversity.com/discover-the-s…",
+          "indices": [
+            "258",
+            "281"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "281"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1927786429398016244",
+    "id_str": "1927847326720151661",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1927847326720151661",
+    "in_reply_to_status_id": "1927786429398016244",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 28 21:59:55 +0000 2025",
+    "favorited": false,
+    "full_text": "@mykola If you have a chance, I put together a blog post about an  equation that I derived from this, testing a new format to make my work accessible. I'd love any feedback you have.\n\nIt shows us a model for education and AI training, interestingly enough.\n\nhttps://t.co/exHoH5t1Lh",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

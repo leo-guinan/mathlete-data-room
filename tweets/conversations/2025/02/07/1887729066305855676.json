@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887729066305855676"
+        ],
+        "editableUntil": "2025-02-07T06:04:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Strong",
+          "screen_name": "flowidealism",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "29804238",
+          "id": "29804238"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "19"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1887652598372597887",
+    "id_str": "1887729066305855676",
+    "in_reply_to_user_id": "29804238",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887729066305855676",
+    "in_reply_to_status_id": "1887652598372597887",
+    "created_at": "Fri Feb 07 05:04:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@flowidealism Done!",
+    "lang": "en",
+    "in_reply_to_screen_name": "flowidealism",
+    "in_reply_to_user_id_str": "29804238"
+  }
+}

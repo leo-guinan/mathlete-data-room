@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1471346634990755841"
+        ],
+        "editableUntil": "2021-12-16T06:09:08.737Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "42",
+            "50"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/r2XI6ewWre",
+          "expanded_url": "https://x.com/copy_ai/status/1471165153781690375",
+          "display_url": "x.com/copy_ai/status…",
+          "indices": [
+            "52",
+            "75"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "0",
+    "id_str": "1471346634990755841",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1471346634990755841",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 16 05:09:08 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Check out what's new with @copy_ai! https://t.co/r2XI6ewWre",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946010612200272363"
+        ],
+        "editableUntil": "2025-07-18T01:54:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eliezer Yudkowsky ⏹️",
+          "screen_name": "ESYudkowsky",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2595244026",
+          "id": "2595244026"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cFsfzgETTS",
+          "expanded_url": "http://app.leoasaservice.com",
+          "display_url": "app.leoasaservice.com",
+          "indices": [
+            "13",
+            "36"
+          ]
+        },
+        {
+          "url": "https://t.co/IIiEbwyft5",
+          "expanded_url": "https://github.com/Build-In-Public-University/trust_harmonics",
+          "display_url": "github.com/Build-In-Publi…",
+          "indices": [
+            "194",
+            "217"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1946010612200272363/photo/1",
+          "indices": [
+            "274",
+            "297"
+          ],
+          "url": "https://t.co/4o8t43dzqC",
+          "media_url": "http://pbs.twimg.com/media/GwGd73fWkAADqDK.jpg",
+          "id_str": "1946010165834059776",
+          "id": "1946010165834059776",
+          "media_url_https": "https://pbs.twimg.com/media/GwGd73fWkAADqDK.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "219",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "387",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1800",
+              "h": "580",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4o8t43dzqC"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1946008119450169845",
+    "id_str": "1946010612200272363",
+    "in_reply_to_user_id": "2595244026",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946010612200272363",
+    "in_reply_to_status_id": "1946008119450169845",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 18 00:54:19 +0000 2025",
+    "favorited": false,
+    "full_text": "@ESYudkowsky https://t.co/cFsfzgETTS\n\nI'm building it, but I'm not the one that's getting the funding, so I'm doing it based on trust and hope.\n\nAnd 5 years of research into how to do it right.\nhttps://t.co/IIiEbwyft5\n\nIt's a human problem and has a human-centric solution. https://t.co/4o8t43dzqC",
+    "lang": "en",
+    "in_reply_to_screen_name": "ESYudkowsky",
+    "in_reply_to_user_id_str": "2595244026",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1946010612200272363/photo/1",
+          "indices": [
+            "274",
+            "297"
+          ],
+          "url": "https://t.co/4o8t43dzqC",
+          "media_url": "http://pbs.twimg.com/media/GwGd73fWkAADqDK.jpg",
+          "id_str": "1946010165834059776",
+          "id": "1946010165834059776",
+          "media_url_https": "https://pbs.twimg.com/media/GwGd73fWkAADqDK.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "219",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "387",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1800",
+              "h": "580",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4o8t43dzqC"
+        }
+      ]
+    }
+  }
+}

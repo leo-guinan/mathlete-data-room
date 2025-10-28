@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1446951242782154755"
+        ],
+        "editableUntil": "2021-10-09T22:30:33.990Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "CAPYBARA MAN",
+          "screen_name": "CAPYBARA_MAN",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1226290896817225728",
+          "id": "1226290896817225728"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/CAPYBARA_MAN/status/1446950776019070984/photo/1",
+          "source_status_id": "1446950776019070984",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/lh7OP9lv16",
+          "media_url": "http://pbs.twimg.com/media/FBSaDx2XMAQeEBV.jpg",
+          "id_str": "1446950770004406276",
+          "source_user_id": "1226290896817225728",
+          "id": "1446950770004406276",
+          "media_url_https": "https://pbs.twimg.com/media/FBSaDx2XMAQeEBV.jpg",
+          "source_user_id_str": "1226290896817225728",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "571",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "748",
+              "h": "628",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "748",
+              "h": "628",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1446950776019070984",
+          "display_url": "pic.x.com/lh7OP9lv16"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "0",
+    "id_str": "1446951242782154755",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1446951242782154755",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 09 21:30:33 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @CAPYBARA_MAN: mamabara with her babybaras https://t.co/lh7OP9lv16",
+    "lang": "tl",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/CAPYBARA_MAN/status/1446950776019070984/photo/1",
+          "source_status_id": "1446950776019070984",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/lh7OP9lv16",
+          "media_url": "http://pbs.twimg.com/media/FBSaDx2XMAQeEBV.jpg",
+          "id_str": "1446950770004406276",
+          "source_user_id": "1226290896817225728",
+          "id": "1446950770004406276",
+          "media_url_https": "https://pbs.twimg.com/media/FBSaDx2XMAQeEBV.jpg",
+          "source_user_id_str": "1226290896817225728",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "571",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "748",
+              "h": "628",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "748",
+              "h": "628",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1446950776019070984",
+          "display_url": "pic.x.com/lh7OP9lv16"
+        }
+      ]
+    }
+  }
+}

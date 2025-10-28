@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333973387551662080"
+        ],
+        "editableUntil": "2020-12-02T04:16:54.276Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "226"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1333972511524995072",
+    "id_str": "1333973387551662080",
+    "in_reply_to_user_id": "44196397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333973387551662080",
+    "in_reply_to_status_id": "1333972511524995072",
+    "created_at": "Wed Dec 02 03:16:54 +0000 2020",
+    "favorited": false,
+    "full_text": "@elonmusk \"Any sufficiently advanced technology is indistinguishable from magic\"\n\nI like to think of science taking the magic of the universe and explaining it. Engineering is taking the science and turning it back into magic.",
+    "lang": "en",
+    "in_reply_to_screen_name": "elonmusk",
+    "in_reply_to_user_id_str": "44196397"
+  }
+}

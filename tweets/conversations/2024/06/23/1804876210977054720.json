@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1804876210977054720"
+        ],
+        "editableUntil": "2024-06-23T14:56:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dave",
+          "screen_name": "lildickytweets",
+          "indices": [
+            "76",
+            "91"
+          ],
+          "id_str": "1209516660",
+          "id": "1209516660"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1804876208959635482",
+    "id_str": "1804876210977054720",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1804876210977054720",
+    "in_reply_to_status_id": "1804876208959635482",
+    "created_at": "Sun Jun 23 13:56:36 +0000 2024",
+    "favorited": false,
+    "full_text": "I'm excited for the people who are doing things different.\n\nIn the words of @lildickytweets, \"I wanna do things different. [...] I just wanna do it my way\nAnd turn the whole game sideways\nAnd show people you ain't gotta be resigned to the highway\nYou can make a path while these…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

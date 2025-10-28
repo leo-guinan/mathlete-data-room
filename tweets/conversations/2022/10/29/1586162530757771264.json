@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1586162530757771264"
+        ],
+        "editableUntil": "2022-10-29T01:36:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "201"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1586155197768032257",
+    "id_str": "1586162530757771264",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1586162530757771264",
+    "in_reply_to_status_id": "1586155197768032257",
+    "created_at": "Sat Oct 29 01:06:31 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU That's what I thought! I've got a bunch of questions that I'm going to compile into a blog post.\n\nActually some decent food for thought. And a good bit of silliness, because why not? 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

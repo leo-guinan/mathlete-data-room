@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1814760284843618673"
+        ],
+        "editableUntil": "2024-07-20T21:32:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1814758505443959213",
+    "id_str": "1814760284843618673",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1814760284843618673",
+    "in_reply_to_status_id": "1814758505443959213",
+    "created_at": "Sat Jul 20 20:32:23 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli It's funny, I think it's because when I don't have multiple inputs, my brain starts branching to create multiple streams, and so my writing does as well. \n\nAnd yeah, I'm bad at breaks, but I did go to my grandma's 95th birthday party today and I'm watching a soccer game tonight.",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

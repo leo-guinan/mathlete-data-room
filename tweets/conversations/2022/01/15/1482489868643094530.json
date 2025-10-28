@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482489868643094530"
+        ],
+        "editableUntil": "2022-01-16T00:08:22.671Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "J. Martin",
+          "screen_name": "joedmarti",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "19720110",
+          "id": "19720110"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "19"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1482489729996050432",
+    "id_str": "1482489868643094530",
+    "in_reply_to_user_id": "19720110",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482489868643094530",
+    "in_reply_to_status_id": "1482489729996050432",
+    "created_at": "Sat Jan 15 23:08:22 +0000 2022",
+    "favorited": false,
+    "full_text": "@joeDmarti Right? 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "joedmarti",
+    "in_reply_to_user_id_str": "19720110"
+  }
+}

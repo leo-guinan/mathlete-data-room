@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1622315389429452810"
+        ],
+        "editableUntil": "2023-02-05T19:55:04.659Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "0",
+    "id_str": "1622315389429452810",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1622315389429452810",
+    "created_at": "Sun Feb 05 19:25:04 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @arvidkahl: Don't be a robot, be a real human being. The world needs more authenticity, not more machines.",
+    "lang": "en"
+  }
+}

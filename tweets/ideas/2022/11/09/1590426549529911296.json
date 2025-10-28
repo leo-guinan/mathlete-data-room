@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1590426549529911296"
+        ],
+        "editableUntil": "2022-11-09T20:00:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "4",
+    "id_str": "1590426549529911296",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1590426549529911296",
+    "created_at": "Wed Nov 09 19:30:12 +0000 2022",
+    "favorited": false,
+    "full_text": "I'm curious. What are you learning about right now?\n\nI've been spending some time working on semantic embeddings and how they can be used to represent text as numeric values.\n\nI'm playing around with using them to determine how close tweets align to certain topics right now.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545549167883390976"
+        ],
+        "editableUntil": "2022-07-08T23:53:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xF8asiggJM",
+          "expanded_url": "https://x.com/tshubillabong/status/1545541614352867328",
+          "display_url": "x.com/tshubillabong/…",
+          "indices": [
+            "28",
+            "51"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1545549167883390976/photo/1",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/23YNJFsMIj",
+          "media_url": "http://pbs.twimg.com/media/FXLkvXXWIAAPtnO.jpg",
+          "id_str": "1545549124518420480",
+          "id": "1545549124518420480",
+          "media_url_https": "https://pbs.twimg.com/media/FXLkvXXWIAAPtnO.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "413",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1244",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "729",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/23YNJFsMIj"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "0",
+    "id_str": "1545549167883390976",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545549167883390976",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 08 23:23:31 +0000 2022",
+    "favorited": false,
+    "full_text": "Good times were had by all. https://t.co/xF8asiggJM https://t.co/23YNJFsMIj",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1545549167883390976/photo/1",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/23YNJFsMIj",
+          "media_url": "http://pbs.twimg.com/media/FXLkvXXWIAAPtnO.jpg",
+          "id_str": "1545549124518420480",
+          "id": "1545549124518420480",
+          "media_url_https": "https://pbs.twimg.com/media/FXLkvXXWIAAPtnO.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "413",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1244",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "729",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/23YNJFsMIj"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1545549167883390976/photo/1",
+          "indices": [
+            "52",
+            "75"
+          ],
+          "url": "https://t.co/23YNJFsMIj",
+          "media_url": "http://pbs.twimg.com/media/FXLkvXWXwAQkATe.jpg",
+          "id_str": "1545549124514332676",
+          "id": "1545549124514332676",
+          "media_url_https": "https://pbs.twimg.com/media/FXLkvXWXwAQkATe.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "413",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "729",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1244",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/23YNJFsMIj"
+        }
+      ]
+    }
+  }
+}

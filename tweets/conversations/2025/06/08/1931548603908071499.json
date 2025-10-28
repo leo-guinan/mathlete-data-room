@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931548603908071499"
+        ],
+        "editableUntil": "2025-06-08T04:07:28.266Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "lemonaut1",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "0",
+    "id_str": "1931548603908071499",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931548603908071499",
+    "created_at": "Sun Jun 08 03:07:28 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @lemonaut1: The telos is calling for Kardashev Type I",
+    "lang": "en"
+  }
+}

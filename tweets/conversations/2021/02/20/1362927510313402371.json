@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362927510313402371"
+        ],
+        "editableUntil": "2021-02-20T01:50:15.084Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1362732910575517697",
+    "id_str": "1362927510313402371",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362927510313402371",
+    "in_reply_to_status_id": "1362732910575517697",
+    "created_at": "Sat Feb 20 00:50:15 +0000 2021",
+    "favorited": false,
+    "full_text": "Alright, so now we are approaching hour 34 of my 24 hour hackathon....\n\nBut in all seriousness, I didn't hit my time goal. But I did realize that I enjoy live tweeting my coding process. So I am just going to keep building. I did manage to get the auth process working once I",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

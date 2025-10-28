@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1361743143910178816"
+        ],
+        "editableUntil": "2021-02-16T19:24:00.129Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mat Sherman",
+          "screen_name": "Mat_Sherman",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "2995012297",
+          "id": "2995012297"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "0",
+    "id_str": "1361743143910178816",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1361743143910178816",
+    "created_at": "Tue Feb 16 18:24:00 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Mat_Sherman: It’s a beautiful day to invest in startups 🔥🔥🔥",
+    "lang": "en"
+  }
+}

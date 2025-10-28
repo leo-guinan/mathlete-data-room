@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333437486555680768"
+        ],
+        "editableUntil": "2020-11-30T16:47:25.522Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MLSCupPlayoffs",
+          "indices": [
+            "63",
+            "78"
+          ]
+        },
+        {
+          "text": "Crew96",
+          "indices": [
+            "114",
+            "121"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Carlos D. Mojica",
+          "screen_name": "CD_Mojica",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "2852745682",
+          "id": "2852745682"
+        },
+        {
+          "name": "Gyasi Zardes",
+          "screen_name": "gyasinho",
+          "indices": [
+            "25",
+            "34"
+          ],
+          "id_str": "61391437",
+          "id": "61391437"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "122"
+    ],
+    "favorite_count": "0",
+    "id_str": "1333437486555680768",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333437486555680768",
+    "created_at": "Mon Nov 30 15:47:25 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @CD_Mojica: A certain @gyasinho has scored in each of his 3 #MLSCupPlayoffs appearances at MAPFRE Stadium with #Crew96.",
+    "lang": "en"
+  }
+}

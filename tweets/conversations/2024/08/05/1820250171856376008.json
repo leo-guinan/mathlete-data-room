@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1820250171856376008"
+        ],
+        "editableUntil": "2024-08-05T01:07:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "204"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1820249945703678192",
+    "id_str": "1820250171856376008",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1820250171856376008",
+    "in_reply_to_status_id": "1820249945703678192",
+    "created_at": "Mon Aug 05 00:07:14 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli Really makes the idea that \"Your network is your net worth\" visible and accurate.\n\nRewards high-trust community behavior instead of pump+dumps common in networks with high information asymmetry.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1458115638681952256"
+        ],
+        "editableUntil": "2021-11-09T17:53:53.397Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Olivier",
+          "screen_name": "Olireiv",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1842436537889267713",
+          "id": "1842436537889267713"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1458115407965868036",
+    "id_str": "1458115638681952256",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1458115638681952256",
+    "in_reply_to_status_id": "1458115407965868036",
+    "created_at": "Tue Nov 09 16:53:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@olireiv It let's me have some idea of what to expect and gives me a baseline for filtering things out. \n\nFrom there, new situations don't tend to be quite as hard for me as they would be otherwise.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

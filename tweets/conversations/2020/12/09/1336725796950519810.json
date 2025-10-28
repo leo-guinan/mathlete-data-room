@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1336725796950519810"
+        ],
+        "editableUntil": "2020-12-09T18:33:59.814Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andy Duffer",
+          "screen_name": "AndrewJDuffer",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1270057259851288577",
+          "id": "1270057259851288577"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xXn1Kpzd3W",
+          "expanded_url": "https://youtu.be/O9bS5fwCaCQ",
+          "display_url": "youtu.be/O9bS5fwCaCQ",
+          "indices": [
+            "51",
+            "74"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "0",
+    "id_str": "1336725796950519810",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1336725796950519810",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 09 17:33:59 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @AndrewJDuffer: NEW VIDEO! THE DEVIL’S LETTUCE! https://t.co/xXn1Kpzd3W",
+    "lang": "en"
+  }
+}

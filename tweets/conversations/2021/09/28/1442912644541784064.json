@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1442912644541784064"
+        ],
+        "editableUntil": "2021-09-28T19:02:37.136Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Trends.vc",
+          "screen_name": "trends_vc",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1246312350053007365",
+          "id": "1246312350053007365"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "0",
+    "id_str": "1442912644541784064",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1442912644541784064",
+    "created_at": "Tue Sep 28 18:02:37 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @trends_vc: Technical moats will become irrelevant. \n\nCode is being commoditized.",
+    "lang": "en"
+  }
+}

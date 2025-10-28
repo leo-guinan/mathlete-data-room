@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1760785653489430766"
+        ],
+        "editableUntil": "2024-02-22T22:56:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lyle McKeany",
+          "screen_name": "lylemckeany",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "121707674",
+          "id": "121707674"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "254"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1760779549305086424",
+    "id_str": "1760785653489430766",
+    "in_reply_to_user_id": "121707674",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1760785653489430766",
+    "in_reply_to_status_id": "1760779549305086424",
+    "created_at": "Thu Feb 22 21:56:28 +0000 2024",
+    "favorited": false,
+    "full_text": "@lylemckeany Thanks Lyle!\n\nFoster has been incredible for helping me reflect this way. It's not something I do by default, so having these sessions that allow me this space is absolutely amazing.\n\nEvery single session has been so powerful for my writing.",
+    "lang": "en",
+    "in_reply_to_screen_name": "lylemckeany",
+    "in_reply_to_user_id_str": "121707674"
+  }
+}

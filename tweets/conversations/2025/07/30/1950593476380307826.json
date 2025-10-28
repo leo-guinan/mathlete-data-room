@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1950593476380307826"
+        ],
+        "editableUntil": "2025-07-30T17:24:59.700Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mastra",
+          "screen_name": "mastra_ai",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1861308613563949057",
+          "id": "1861308613563949057"
+        },
+        {
+          "name": "Confident AI",
+          "screen_name": "confident_ai",
+          "indices": [
+            "73",
+            "86"
+          ],
+          "id_str": "1846171971375321090",
+          "id": "1846171971375321090"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "0",
+    "id_str": "1950593476380307826",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1950593476380307826",
+    "created_at": "Wed Jul 30 16:24:59 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @mastra_ai: new category alert\n\nbest use of evals\n\nto be evaluated by @confident_ai",
+    "lang": "en"
+  }
+}

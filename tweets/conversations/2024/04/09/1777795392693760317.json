@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1777795392693760317"
+        ],
+        "editableUntil": "2024-04-09T21:27:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "danialhasan",
+          "screen_name": "dhasandev",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1319857338958942209",
+          "id": "1319857338958942209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "209"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1777795121876025364",
+    "id_str": "1777795392693760317",
+    "in_reply_to_user_id": "1319857338958942209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1777795392693760317",
+    "in_reply_to_status_id": "1777795121876025364",
+    "created_at": "Tue Apr 09 20:27:06 +0000 2024",
+    "favorited": false,
+    "full_text": "@dhasandev Exactly. How many times does a consultant just ask the people who work there what they think, put it in powerpoint, and get the leadership to buy in?\n\nIt's all about just listening to what they say.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dhasandev",
+    "in_reply_to_user_id_str": "1319857338958942209"
+  }
+}

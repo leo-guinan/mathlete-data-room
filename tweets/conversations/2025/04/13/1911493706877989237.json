@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1911493706877989237"
+        ],
+        "editableUntil": "2025-04-13T19:56:28.212Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Bateman",
+          "screen_name": "mbateman",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "3467611",
+          "id": "3467611"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1911493706877989237",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1911493706877989237",
+    "created_at": "Sun Apr 13 18:56:28 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @mbateman: Someone asked me in DMs whether or not an org was a competitor. The answer was yes but [below]. I think competition amongst a…",
+    "lang": "en"
+  }
+}

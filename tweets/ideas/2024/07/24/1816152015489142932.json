@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1816152015489142932"
+        ],
+        "editableUntil": "2024-07-24T17:42:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MhkUH3FmQ7",
+          "expanded_url": "https://x.com/TechCrunch/status/1816136692341809636",
+          "display_url": "x.com/TechCrunch/sta…",
+          "indices": [
+            "109",
+            "132"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "1",
+    "id_str": "1816152015489142932",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1816152015489142932",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 24 16:42:37 +0000 2024",
+    "favorited": false,
+    "full_text": "Crowdstrike: \"hmm, how can we do something that will somehow be way worse than doing nothing?\n\nI've got it!\" https://t.co/MhkUH3FmQ7",
+    "lang": "en"
+  }
+}

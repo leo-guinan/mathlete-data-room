@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1403405343309414406"
+        ],
+        "editableUntil": "2021-06-11T18:34:42.512Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fun Pilgrim",
+          "screen_name": "tasshinfogleman",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2063951",
+          "id": "2063951"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "247"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1403385067104264192",
+    "id_str": "1403405343309414406",
+    "in_reply_to_user_id": "2063951",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1403405343309414406",
+    "in_reply_to_status_id": "1403385067104264192",
+    "created_at": "Fri Jun 11 17:34:42 +0000 2021",
+    "favorited": false,
+    "full_text": "@tasshinfogleman +1. I think that's the most important part of online education going forward. I'm building what I'm calling a community-driven course. The goal is to get the effectiveness of a cohort based course but at the price point of a MOOC.",
+    "lang": "en",
+    "in_reply_to_screen_name": "tasshinfogleman",
+    "in_reply_to_user_id_str": "2063951"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1445067678352351247"
+        ],
+        "editableUntil": "2021-10-04T17:45:57.235Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "123"
+    ],
+    "favorite_count": "0",
+    "id_str": "1445067678352351247",
+    "in_reply_to_user_id": "1422255111422754816",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1445067678352351247",
+    "created_at": "Mon Oct 04 16:45:57 +0000 2021",
+    "favorited": false,
+    "full_text": "@_buildspace looks like there might be an issue with your ssl certificate? Been having issues with the site since yesterday",
+    "lang": "en",
+    "in_reply_to_screen_name": "_buildspace",
+    "in_reply_to_user_id_str": "1422255111422754816"
+  }
+}

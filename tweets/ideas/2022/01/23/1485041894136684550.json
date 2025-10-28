@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1485041894136684550"
+        ],
+        "editableUntil": "2022-01-23T01:09:12.963Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "246"
+    ],
+    "favorite_count": "1",
+    "id_str": "1485041894136684550",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1485041894136684550",
+    "created_at": "Sun Jan 23 00:09:12 +0000 2022",
+    "favorited": false,
+    "full_text": "Whoops, @feathercrm took itself down tonight with the weekly processing run.\n\nGonna need to adjust the way that's handled so it doesn't slam the system all at once.\n\nI also just have a single instance. I could always scale up, but I'd rather not.",
+    "lang": "en"
+  }
+}

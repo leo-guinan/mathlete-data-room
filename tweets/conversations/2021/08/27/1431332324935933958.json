@@ -1,0 +1,70 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1431332324935933958"
+        ],
+        "editableUntil": "2021-08-27T20:06:33.790Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperchargeYourTime",
+          "indices": [
+            "142",
+            "162"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lama corn",
+          "screen_name": "Lamacorn20",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1576747470549311488",
+          "id": "1576747470549311488"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IqYHTosIuk",
+          "expanded_url": "https://superchargeyourtime.com",
+          "display_url": "superchargeyourtime.com",
+          "indices": [
+            "164",
+            "187"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1431149487687413760",
+    "id_str": "1431332324935933958",
+    "in_reply_to_user_id": "1353447414624116736",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1431332324935933958",
+    "in_reply_to_status_id": "1431149487687413760",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 27 19:06:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@Lamacorn20 Hey Victor!\n\nCurrently building @feathercrm, a CRM for Twitter. Just started onboarding users for it.\n\nAlso, teaching a cohort of #SuperchargeYourTime (https://t.co/IqYHTosIuk) starting in Sept. Its a course to teach automation principles I've learned as a software engineer.",
+    "lang": "en",
+    "in_reply_to_screen_name": "victor_bigfield",
+    "in_reply_to_user_id_str": "1353447414624116736"
+  }
+}

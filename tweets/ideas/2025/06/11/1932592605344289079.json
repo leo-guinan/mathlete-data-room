@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932592605344289079"
+        ],
+        "editableUntil": "2025-06-11T01:15:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932592605344289079/video/1",
+          "indices": [
+            "0",
+            "23"
+          ],
+          "url": "https://t.co/j97tS7EEiT",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1932592440260562944/img/SfaiJbBYFx1pqCR-.jpg",
+          "id_str": "1932592440260562944",
+          "id": "1932592440260562944",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1932592440260562944/img/SfaiJbBYFx1pqCR-.jpg",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/j97tS7EEiT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "23"
+    ],
+    "favorite_count": "0",
+    "id_str": "1932592605344289079",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932592605344289079",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 11 00:15:57 +0000 2025",
+    "favorited": false,
+    "full_text": "https://t.co/j97tS7EEiT",
+    "lang": "zxx",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932592605344289079/video/1",
+          "indices": [
+            "0",
+            "23"
+          ],
+          "url": "https://t.co/j97tS7EEiT",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1932592440260562944/img/SfaiJbBYFx1pqCR-.jpg",
+          "id_str": "1932592440260562944",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "109833",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1932592440260562944/pl/4oLYVkpczvtbaVKY.m3u8"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1932592440260562944/vid/avc1/720x1280/FK7jg5LvoXzksSYU.mp4"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1932592440260562944/vid/avc1/320x568/aahK2xtho2udcSrR.mp4"
+              },
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1932592440260562944/vid/avc1/480x852/HSYNsFOzhpsCWGWN.mp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1932592440260562944",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1932592440260562944/img/SfaiJbBYFx1pqCR-.jpg",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/j97tS7EEiT"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1576614849915650051"
+        ],
+        "editableUntil": "2022-10-02T17:17:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/trXlJodDAT",
+          "expanded_url": "https://www.twitch.tv/buildinpublicuniversity",
+          "display_url": "twitch.tv/buildinpublicu…",
+          "indices": [
+            "177",
+            "200"
+          ]
+        },
+        {
+          "url": "https://t.co/g5Gmq2Dait",
+          "expanded_url": "https://x.com/leo_guinan/status/1576296000045871105",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "201",
+            "224"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "224"
+    ],
+    "favorite_count": "0",
+    "id_str": "1576614849915650051",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1576614849915650051",
+    "possibly_sensitive": false,
+    "created_at": "Sun Oct 02 16:47:26 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, going to try something fun with this. Will be live-streaming the recording of the first set of 5 minute courses today at 1:30PM Eastern.\n\nWill be able to check it out here: https://t.co/trXlJodDAT https://t.co/g5Gmq2Dait",
+    "lang": "en"
+  }
+}

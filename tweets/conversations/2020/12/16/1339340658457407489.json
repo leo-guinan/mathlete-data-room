@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339340658457407489"
+        ],
+        "editableUntil": "2020-12-16T23:44:31.379Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Josh RR Jokien",
+          "screen_name": "joshcarlosjosh",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "14105981",
+          "id": "14105981"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1339298276357488640",
+    "id_str": "1339340658457407489",
+    "in_reply_to_user_id": "14105981",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339340658457407489",
+    "in_reply_to_status_id": "1339298276357488640",
+    "created_at": "Wed Dec 16 22:44:31 +0000 2020",
+    "favorited": false,
+    "full_text": "@joshcarlosjosh All I want for Christmas is the only thing that will make you feel better about it and you will have to do so much wrong and I will never ever regret anything.\n\nI don't know what that means, but it sounds like it could be fun?",
+    "lang": "en",
+    "in_reply_to_screen_name": "joshcarlosjosh",
+    "in_reply_to_user_id_str": "14105981"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803901526286475663"
+        ],
+        "editableUntil": "2024-06-20T22:23:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "John Oliver",
+          "screen_name": "iamjohnoliver",
+          "indices": [
+            "9",
+            "23"
+          ],
+          "id_str": "316389142",
+          "id": "316389142"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xBkH8OHU2w",
+          "expanded_url": "https://x.com/EmmaTolkin/status/1803560873400869048",
+          "display_url": "x.com/EmmaTolkin/sta…",
+          "indices": [
+            "39",
+            "62"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "0",
+    "id_str": "1803901526286475663",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803901526286475663",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 20 21:23:33 +0000 2024",
+    "favorited": false,
+    "full_text": "This was @iamjohnoliver with Cake Bear https://t.co/xBkH8OHU2w",
+    "lang": "en"
+  }
+}

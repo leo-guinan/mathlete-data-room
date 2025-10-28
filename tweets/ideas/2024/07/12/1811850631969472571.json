@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811850631969472571"
+        ],
+        "editableUntil": "2024-07-12T20:50:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1811850631969472571/photo/1",
+          "indices": [
+            "238",
+            "261"
+          ],
+          "url": "https://t.co/qpYXDiLUWA",
+          "media_url": "http://pbs.twimg.com/media/GSTvZr9WEAA5oCH.jpg",
+          "id_str": "1811836174685573120",
+          "id": "1811836174685573120",
+          "media_url_https": "https://pbs.twimg.com/media/GSTvZr9WEAA5oCH.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "590",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1340",
+              "h": "1162",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1041",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qpYXDiLUWA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "5",
+    "id_str": "1811850631969472571",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1811850631969472571",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 12 19:50:27 +0000 2024",
+    "favorited": false,
+    "full_text": "I'm launching a new experiment based on what I've learned about creator-focused chatbots this week.\n\nAnd it's tied to sponsorships.\n\nCurrent sponsorship models are ineffective and inefficient.\n\nSo here's how I'm thinking about fixing it: https://t.co/qpYXDiLUWA",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1811850631969472571/photo/1",
+          "indices": [
+            "238",
+            "261"
+          ],
+          "url": "https://t.co/qpYXDiLUWA",
+          "media_url": "http://pbs.twimg.com/media/GSTvZr9WEAA5oCH.jpg",
+          "id_str": "1811836174685573120",
+          "id": "1811836174685573120",
+          "media_url_https": "https://pbs.twimg.com/media/GSTvZr9WEAA5oCH.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "590",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1340",
+              "h": "1162",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1041",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qpYXDiLUWA"
+        }
+      ]
+    }
+  }
+}

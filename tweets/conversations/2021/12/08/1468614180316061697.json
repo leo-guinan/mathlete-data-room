@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1468614180316061697"
+        ],
+        "editableUntil": "2021-12-08T17:11:20.776Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "248"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1468614172741193732",
+    "id_str": "1468614180316061697",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1468614180316061697",
+    "in_reply_to_status_id": "1468614172741193732",
+    "created_at": "Wed Dec 08 16:11:20 +0000 2021",
+    "favorited": false,
+    "full_text": "@Bazzaruto led ODCC, which helped a ton. I'm paying a lot of attention to curriculum design and how I can make sure students make it through the difficult parts of the learning journey\n\nHe showed me that online courses could really transform lives.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

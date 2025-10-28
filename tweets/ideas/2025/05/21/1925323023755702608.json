@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1925323023755702608"
+        ],
+        "editableUntil": "2025-05-21T23:49:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3yuWxbeJLE",
+          "expanded_url": "https://x.com/mudscryer/status/1925322607102190041",
+          "display_url": "x.com/mudscryer/stat…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "2",
+    "id_str": "1925323023755702608",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1925323023755702608",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 21 22:49:14 +0000 2025",
+    "favorited": false,
+    "full_text": "The war is on.\n\nAre you ready for it? https://t.co/3yuWxbeJLE",
+    "lang": "en"
+  }
+}

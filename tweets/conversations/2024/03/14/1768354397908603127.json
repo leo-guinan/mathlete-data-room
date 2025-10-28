@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768354397908603127"
+        ],
+        "editableUntil": "2024-03-14T20:11:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "danialhasan",
+          "screen_name": "dhasandev",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1319857338958942209",
+          "id": "1319857338958942209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "207"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1768352802722418969",
+    "id_str": "1768354397908603127",
+    "in_reply_to_user_id": "1319857338958942209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768354397908603127",
+    "in_reply_to_status_id": "1768352802722418969",
+    "created_at": "Thu Mar 14 19:11:57 +0000 2024",
+    "favorited": false,
+    "full_text": "@dhasandev There is. It's called the Nexus, it's actively being developed and deployed, and will be fully open-source, use a distributed data architecture, and will let agents and humans interact seamlessly.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dhasandev",
+    "in_reply_to_user_id_str": "1319857338958942209"
+  }
+}

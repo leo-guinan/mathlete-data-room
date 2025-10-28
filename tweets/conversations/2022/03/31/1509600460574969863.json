@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509600460574969863"
+        ],
+        "editableUntil": "2022-03-31T19:36:11.478Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "94",
+            "101"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QDK86zvjzq",
+          "expanded_url": "https://vm.tiktok.com/ZTdmXE1un/",
+          "display_url": "vm.tiktok.com/ZTdmXE1un/",
+          "indices": [
+            "102",
+            "125"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "0",
+    "id_str": "1509600460574969863",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509600460574969863",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 31 18:36:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Who's good at impersonations?\n\nLet's see them!\n\nCheck out LobowSPARK's video! #TikTok https://t.co/QDK86zvjzq",
+    "lang": "en"
+  }
+}

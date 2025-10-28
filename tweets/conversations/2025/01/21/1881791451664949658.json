@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1881791451664949658"
+        ],
+        "editableUntil": "2025-01-21T20:50:18.728Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1881791451664949658",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1881791451664949658",
+    "created_at": "Tue Jan 21 19:50:18 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @p_millerd: dont write the \"should\" book first unless your life is devoted to business success\n\nwrite the book that demands to be writte…",
+    "lang": "en"
+  }
+}

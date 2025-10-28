@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1889415295984366023"
+        ],
+        "editableUntil": "2025-02-11T21:44:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1889415295984366023/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/oTbWd8FQSA",
+          "media_url": "http://pbs.twimg.com/media/GjiHcN3XEAAM95t.jpg",
+          "id_str": "1889408962509869056",
+          "id": "1889408962509869056",
+          "media_url_https": "https://pbs.twimg.com/media/GjiHcN3XEAAM95t.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1178",
+              "h": "978",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1178",
+              "h": "978",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "565",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oTbWd8FQSA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "1",
+    "id_str": "1889415295984366023",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1889415295984366023",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 11 20:44:44 +0000 2025",
+    "favorited": false,
+    "full_text": "Anybody up for beta testing a new app?\n\nI've been thinking about this slop algorithm right now, and I've been exploring ideas for how to beat it.\n\nI also want to clean up my timeline. I've been reflecting on what I want to do, and I was writing a lot on here for the sake of AI… https://t.co/oTbWd8FQSA",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1889415295984366023/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/oTbWd8FQSA",
+          "media_url": "http://pbs.twimg.com/media/GjiHcN3XEAAM95t.jpg",
+          "id_str": "1889408962509869056",
+          "id": "1889408962509869056",
+          "media_url_https": "https://pbs.twimg.com/media/GjiHcN3XEAAM95t.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1178",
+              "h": "978",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1178",
+              "h": "978",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "565",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oTbWd8FQSA"
+        }
+      ]
+    }
+  }
+}

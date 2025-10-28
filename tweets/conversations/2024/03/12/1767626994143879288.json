@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1767626994143879288"
+        ],
+        "editableUntil": "2024-03-12T20:01:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1767625698523406740",
+    "id_str": "1767626994143879288",
+    "in_reply_to_user_id": "1383553628888211456",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1767626994143879288",
+    "in_reply_to_status_id": "1767625698523406740",
+    "created_at": "Tue Mar 12 19:01:30 +0000 2024",
+    "favorited": false,
+    "full_text": "@LobowSpark I appreciate you, man! Makes it all easier to have you in my corner 💪",
+    "lang": "en",
+    "in_reply_to_screen_name": "LobowSpark",
+    "in_reply_to_user_id_str": "1383553628888211456"
+  }
+}

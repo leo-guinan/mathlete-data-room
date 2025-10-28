@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1375201294395318282"
+        ],
+        "editableUntil": "2021-03-25T22:41:53.245Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Software Social Podcast",
+          "screen_name": "SoftwareSocPod",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1288427219786891265",
+          "id": "1288427219786891265"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cQFORLqH0O",
+          "expanded_url": "https://x.com/leo_guinan/status/1375155554868400129?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "16",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1375086856468058116",
+    "id_str": "1375201294395318282",
+    "in_reply_to_user_id": "1288427219786891265",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1375201294395318282",
+    "in_reply_to_status_id": "1375086856468058116",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 25 21:41:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@SoftwareSocPod https://t.co/cQFORLqH0O",
+    "lang": "qme",
+    "in_reply_to_screen_name": "SoftwareSocPod",
+    "in_reply_to_user_id_str": "1288427219786891265"
+  }
+}

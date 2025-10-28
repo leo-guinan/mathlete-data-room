@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348300112037093383"
+        ],
+        "editableUntil": "2021-01-10T17:06:11.571Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ulrike Kleemaier",
+          "screen_name": "kleemaier",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1502891674791464961",
+          "id": "1502891674791464961"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1348299475475968003",
+    "id_str": "1348300112037093383",
+    "in_reply_to_user_id": "226762096",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348300112037093383",
+    "in_reply_to_status_id": "1348299475475968003",
+    "created_at": "Sun Jan 10 16:06:11 +0000 2021",
+    "favorited": false,
+    "full_text": "@kleemaier I have been doing a bunch of research into the whole \"fake news\" idea and how social media can be used to influence decisions and thought processes. The problem is that almost half the country voted a certain way and it is due to a lot of forces at play. I see a path forward for",
+    "lang": "en",
+    "in_reply_to_user_id_str": "226762096"
+  }
+}

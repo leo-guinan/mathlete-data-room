@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768652739100225804"
+        ],
+        "editableUntil": "2024-03-15T15:57:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "subwaytime",
+          "screen_name": "subwaytime_",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1231006402581319684",
+          "id": "1231006402581319684"
+        },
+        {
+          "name": "@levelsio",
+          "screen_name": "levelsio",
+          "indices": [
+            "13",
+            "22"
+          ],
+          "id_str": "1577241403",
+          "id": "1577241403"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1768397963443716528",
+    "id_str": "1768652739100225804",
+    "in_reply_to_user_id": "1231006402581319684",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768652739100225804",
+    "in_reply_to_status_id": "1768397963443716528",
+    "created_at": "Fri Mar 15 14:57:27 +0000 2024",
+    "favorited": false,
+    "full_text": "@subwaytime_ @levelsio Europe actually has the opposite problem of the US. They are limiting earning too much.\n\nThe answer is actually for way more normal people to be making money in the $300K range.\n\nDeep down, it's the same issue of not understanding where the value is created or how to capture it",
+    "lang": "en",
+    "in_reply_to_screen_name": "subwaytime_",
+    "in_reply_to_user_id_str": "1231006402581319684"
+  }
+}

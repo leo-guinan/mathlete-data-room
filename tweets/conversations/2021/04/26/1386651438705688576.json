@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1386651438705688576"
+        ],
+        "editableUntil": "2021-04-26T13:00:40.382Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Thriving Orchid Girl",
+          "screen_name": "girl_thriving",
+          "indices": [
+            "80",
+            "94"
+          ],
+          "id_str": "1185359065351741440",
+          "id": "1185359065351741440"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RZDEfz0sOd",
+          "expanded_url": "https://link.medium.com/KN9IyyoMLfb",
+          "display_url": "link.medium.com/KN9IyyoMLfb",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "3",
+    "id_str": "1386651438705688576",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1386651438705688576",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 26 12:00:40 +0000 2021",
+    "favorited": false,
+    "full_text": "“Don’t let society drill creativity out of you. I believe we are all creators.” @girl_thriving https://t.co/RZDEfz0sOd",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1706322617357984003"
+        ],
+        "editableUntil": "2023-09-25T15:59:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dmytro Krasun",
+          "screen_name": "DmytroKrasun",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "843061266",
+          "id": "843061266"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1706253152725446912",
+    "id_str": "1706322617357984003",
+    "in_reply_to_user_id": "843061266",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1706322617357984003",
+    "in_reply_to_status_id": "1706253152725446912",
+    "created_at": "Mon Sep 25 14:59:48 +0000 2023",
+    "favorited": false,
+    "full_text": "@DmytroKrasun I've got some perspective on this. When I decided I wanted to go the startup route, I thought I had to be super ambitious and shoot for the moon.\n\nBut I had no clue what I was doing and never even got off the ground. \n\nSince then, I've built all sorts of little things to just…",
+    "lang": "en",
+    "in_reply_to_screen_name": "DmytroKrasun",
+    "in_reply_to_user_id_str": "843061266"
+  }
+}

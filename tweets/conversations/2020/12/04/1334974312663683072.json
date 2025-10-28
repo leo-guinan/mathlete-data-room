@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334974312663683072"
+        ],
+        "editableUntil": "2020-12-04T22:34:13.419Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Joyce Alene",
+          "screen_name": "JoyceWhiteVance",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "548384458",
+          "id": "548384458"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1334974312663683072",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334974312663683072",
+    "created_at": "Fri Dec 04 21:34:13 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @JoyceWhiteVance: “We are assisting law enforcement” the Governor says, pointing out the obvious, that it’s unwise to post photos of you…",
+    "lang": "en"
+  }
+}

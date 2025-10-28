@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1613986161663279104"
+        ],
+        "editableUntil": "2023-01-13T20:17:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1613893532724371456",
+    "id_str": "1613986161663279104",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1613986161663279104",
+    "in_reply_to_status_id": "1613893532724371456",
+    "created_at": "Fri Jan 13 19:47:42 +0000 2023",
+    "favorited": false,
+    "full_text": "@arvidkahl I think the biggest difference here is that chatgpt is just a wrapper on a much bigger technology shift.\n\nChatgpt won't stick around. But the tech underneath it will change so many things.\n\nClubhouse wasn't the same level of change",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

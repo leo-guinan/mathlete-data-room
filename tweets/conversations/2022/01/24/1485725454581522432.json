@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1485725454581522432"
+        ],
+        "editableUntil": "2022-01-24T22:25:26.473Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dev Machette",
+          "screen_name": "DevMachette_",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1047225983504453632",
+          "id": "1047225983504453632"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "202"
+    ],
+    "favorite_count": "9",
+    "in_reply_to_status_id_str": "1485710609140400138",
+    "id_str": "1485725454581522432",
+    "in_reply_to_user_id": "1047225983504453632",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1485725454581522432",
+    "in_reply_to_status_id": "1485710609140400138",
+    "created_at": "Mon Jan 24 21:25:26 +0000 2022",
+    "favorited": false,
+    "full_text": "@DevMachette_ I've actually started planning my showers for the middle of the day for exactly this reason. I work for a few hours, my brain stops working, so then I go jumpstart it!\n\nBig benefit to WFH!",
+    "lang": "en",
+    "in_reply_to_screen_name": "DevMachette_",
+    "in_reply_to_user_id_str": "1047225983504453632"
+  }
+}

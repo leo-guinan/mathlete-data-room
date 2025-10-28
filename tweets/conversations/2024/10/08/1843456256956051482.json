@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1843456256956051482"
+        ],
+        "editableUntil": "2024-10-08T01:59:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1843425867600650436",
+    "id_str": "1843456256956051482",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1843456256956051482",
+    "in_reply_to_status_id": "1843425867600650436",
+    "created_at": "Tue Oct 08 00:59:56 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli This is actually something I'm modeling a real-life economic example of, so I do think it's possible.\n\nHere's the insight that I had about it. \n\nWhy does 1000 attempts pay off more than 10 attempts? Asymmetrical upside. If you have a large enough bankroll, you can place lots of…",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

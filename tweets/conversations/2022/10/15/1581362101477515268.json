@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1581362101477515268"
+        ],
+        "editableUntil": "2022-10-15T19:41:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Farhanverse",
+          "screen_name": "farhanverse",
+          "indices": [
+            "15",
+            "27"
+          ],
+          "id_str": "1429421127852511235",
+          "id": "1429421127852511235"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/03pLmlgobD",
+          "expanded_url": "https://medium.com/swlh/is-the-creator-economy-the-future-of-work-8ac685bd9497?sk=f355f48bf638f46f88eeecca7341c6ed",
+          "display_url": "medium.com/swlh/is-the-cr…",
+          "indices": [
+            "249",
+            "272"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1581295754378825729",
+    "id_str": "1581362101477515268",
+    "in_reply_to_user_id": "280523147",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1581362101477515268",
+    "in_reply_to_status_id": "1581295754378825729",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 15 19:11:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@tshubillabong @farhanverse All of it? 😂\n\nI probably should have anticipated this question and it's actually a really hard one to answer. I started looking back at some of my older blogs, and did come across this one, which I think is really good.\n\nhttps://t.co/03pLmlgobD",
+    "lang": "en",
+    "in_reply_to_screen_name": "tshubillabong",
+    "in_reply_to_user_id_str": "280523147"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513153658795569153"
+        ],
+        "editableUntil": "2022-04-10T14:55:19.949Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "263"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1513153656841031681",
+    "id_str": "1513153658795569153",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513153658795569153",
+    "in_reply_to_status_id": "1513153656841031681",
+    "created_at": "Sun Apr 10 13:55:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@feathercrm I'm curious to see if users actually are interested in the analytics piece. That will become more useful as I allow options for tuning how things are distributed, but I'm hoping I can convert a fair number who want to see the numbers behind the magic.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

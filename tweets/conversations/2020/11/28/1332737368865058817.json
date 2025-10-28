@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1332737368865058817"
+        ],
+        "editableUntil": "2020-11-28T18:25:24.457Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "dataviz",
+          "indices": [
+            "73",
+            "81"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kate Petrova",
+          "screen_name": "kate_ptrv",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1253510802906034182",
+          "id": "1253510802906034182"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1332737368865058817",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1332737368865058817",
+    "created_at": "Sat Nov 28 17:25:24 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @kate_ptrv: I couldn’t just walk past this Tweet, so here is some fun #dataviz\n\nScented candles: An unexpected victim of the COVID-19 pa…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1836442351415267835"
+        ],
+        "editableUntil": "2024-09-18T17:29:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1836442351415267835/photo/1",
+          "indices": [
+            "10",
+            "33"
+          ],
+          "url": "https://t.co/GvISsvmKu2",
+          "media_url": "http://pbs.twimg.com/media/GXxakcQXEAc2eYI.jpg",
+          "id_str": "1836442330166923271",
+          "id": "1836442330166923271",
+          "media_url_https": "https://pbs.twimg.com/media/GXxakcQXEAc2eYI.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1067",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1578",
+              "h": "1774",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "605",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GvISsvmKu2"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NailedIt",
+          "indices": [
+            "0",
+            "9"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "33"
+    ],
+    "favorite_count": "0",
+    "id_str": "1836442351415267835",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1836442351415267835",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 18 16:29:10 +0000 2024",
+    "favorited": false,
+    "full_text": "#NailedIt https://t.co/GvISsvmKu2",
+    "lang": "qme",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1836442351415267835/photo/1",
+          "indices": [
+            "10",
+            "33"
+          ],
+          "url": "https://t.co/GvISsvmKu2",
+          "media_url": "http://pbs.twimg.com/media/GXxakcQXEAc2eYI.jpg",
+          "id_str": "1836442330166923271",
+          "id": "1836442330166923271",
+          "media_url_https": "https://pbs.twimg.com/media/GXxakcQXEAc2eYI.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1067",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1578",
+              "h": "1774",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "605",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GvISsvmKu2"
+        }
+      ]
+    }
+  }
+}

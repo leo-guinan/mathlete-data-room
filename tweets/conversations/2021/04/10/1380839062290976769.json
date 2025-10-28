@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1380839062290976769"
+        ],
+        "editableUntil": "2021-04-10T12:04:21.856Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "razzledazzle",
+          "screen_name": "razzled55545599",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1267919093987934209",
+          "id": "1267919093987934209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1380838813963055106",
+    "id_str": "1380839062290976769",
+    "in_reply_to_user_id": "1267919093987934209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1380839062290976769",
+    "in_reply_to_status_id": "1380838813963055106",
+    "created_at": "Sat Apr 10 11:04:21 +0000 2021",
+    "favorited": false,
+    "full_text": "@razzled55545599 Maybe just the second part?",
+    "lang": "en",
+    "in_reply_to_screen_name": "razzled55545599",
+    "in_reply_to_user_id_str": "1267919093987934209"
+  }
+}

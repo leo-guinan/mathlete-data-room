@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1894772616310780186"
+        ],
+        "editableUntil": "2025-02-26T16:32:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1894772616310780186/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/x26xDMzXBG",
+          "media_url": "http://pbs.twimg.com/media/GkuVhScXUAAcUxF.jpg",
+          "id_str": "1894772467358453760",
+          "id": "1894772467358453760",
+          "media_url_https": "https://pbs.twimg.com/media/GkuVhScXUAAcUxF.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "65",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "115",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1904",
+              "h": "182",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/x26xDMzXBG"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "0",
+    "id_str": "1894772616310780186",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1894772616310780186",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 26 15:32:49 +0000 2025",
+    "favorited": false,
+    "full_text": "When you have fun with your outreach, you can create winning positions from losing ones. https://t.co/x26xDMzXBG",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1894772616310780186/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/x26xDMzXBG",
+          "media_url": "http://pbs.twimg.com/media/GkuVhScXUAAcUxF.jpg",
+          "id_str": "1894772467358453760",
+          "id": "1894772467358453760",
+          "media_url_https": "https://pbs.twimg.com/media/GkuVhScXUAAcUxF.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "65",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "115",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1904",
+              "h": "182",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/x26xDMzXBG"
+        }
+      ]
+    }
+  }
+}

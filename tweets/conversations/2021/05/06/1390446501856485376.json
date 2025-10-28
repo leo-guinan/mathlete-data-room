@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1390446501856485376"
+        ],
+        "editableUntil": "2021-05-07T00:20:53.946Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CentiPenny | Tip Me 🪙",
+          "screen_name": "CentiPenny",
+          "indices": [
+            "45",
+            "56"
+          ],
+          "id_str": "1306424021630812161",
+          "id": "1306424021630812161"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PL1L8mShwX",
+          "expanded_url": "https://x.com/RachelTobac/status/1390409874006183936",
+          "display_url": "x.com/RachelTobac/st…",
+          "indices": [
+            "100",
+            "123"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "123"
+    ],
+    "favorite_count": "2",
+    "id_str": "1390446501856485376",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1390446501856485376",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 06 23:20:53 +0000 2021",
+    "favorited": false,
+    "full_text": "If you want a tip jar that is anonymous, use @CentiPenny.\n\nI really like their approach to privacy. https://t.co/PL1L8mShwX",
+    "lang": "en"
+  }
+}

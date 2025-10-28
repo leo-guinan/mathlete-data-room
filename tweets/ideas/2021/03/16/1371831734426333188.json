@@ -1,0 +1,39 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371831734426333188"
+        ],
+        "editableUntil": "2021-03-16T15:32:27.545Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1371827525286985731",
+    "id_str": "1371831734426333188",
+    "in_reply_to_user_id": "3245295960",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371831734426333188",
+    "in_reply_to_status_id": "1371827525286985731",
+    "created_at": "Tue Mar 16 14:32:27 +0000 2021",
+    "favorited": false,
+    "full_text": "@AdonousTech Yeah, I am working on getting everything over there. I actually tried to move my Ghost install over, but that didn't go well. And the Gatsby part allows me to use React with Ghost instead of Handlebars templates. It's getting there. I'm just about back up to speed as a web dev",
+    "lang": "en",
+    "in_reply_to_user_id_str": "3245295960"
+  }
+}

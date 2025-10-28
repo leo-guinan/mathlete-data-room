@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432431165919698952"
+        ],
+        "editableUntil": "2021-08-30T20:52:57.896Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adam Singer",
+          "screen_name": "AdamSinger",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "14031032",
+          "id": "14031032"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1432430294771056640",
+    "id_str": "1432431165919698952",
+    "in_reply_to_user_id": "14031032",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432431165919698952",
+    "in_reply_to_status_id": "1432430294771056640",
+    "created_at": "Mon Aug 30 19:52:57 +0000 2021",
+    "favorited": false,
+    "full_text": "@AdamSinger I think @feathercrm might help some people. One of the reasons I'm building it is to keep track of the Twitter relationships I've built. I want to be able to easily group people I've met.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AdamSinger",
+    "in_reply_to_user_id_str": "14031032"
+  }
+}

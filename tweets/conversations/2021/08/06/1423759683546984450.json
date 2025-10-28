@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423759683546984450"
+        ],
+        "editableUntil": "2021-08-06T22:35:35.390Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "202"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1423757614282940418",
+    "id_str": "1423759683546984450",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423759683546984450",
+    "in_reply_to_status_id": "1423757614282940418",
+    "created_at": "Fri Aug 06 21:35:35 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, I kicked off the request before I sent the last tweet and it is still running. 7 minutes in so far. Definitely going to need to work on performance. Which is of course why I wanted to queue it up...",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

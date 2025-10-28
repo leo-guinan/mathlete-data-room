@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939080539522076737"
+        ],
+        "editableUntil": "2025-06-28T22:56:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Cohen",
+          "screen_name": "anothercohen",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "557440724",
+          "id": "557440724"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1939080209023607045",
+    "id_str": "1939080539522076737",
+    "in_reply_to_user_id": "557440724",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939080539522076737",
+    "in_reply_to_status_id": "1939080209023607045",
+    "created_at": "Sat Jun 28 21:56:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@anothercohen She's doing the meme, just as we all are.",
+    "lang": "en",
+    "in_reply_to_screen_name": "anothercohen",
+    "in_reply_to_user_id_str": "557440724"
+  }
+}

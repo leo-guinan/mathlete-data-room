@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768684713210732795"
+        ],
+        "editableUntil": "2024-03-15T18:04:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Petra Donka",
+          "screen_name": "petradonka",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "17005962",
+          "id": "17005962"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "237"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1768683399382770151",
+    "id_str": "1768684713210732795",
+    "in_reply_to_user_id": "17005962",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768684713210732795",
+    "in_reply_to_status_id": "1768683399382770151",
+    "created_at": "Fri Mar 15 17:04:30 +0000 2024",
+    "favorited": false,
+    "full_text": "@petradonka Thanks for reaching out! I don't see the traffic going through the correct one, but when I check the config in prod, it's pointing to the correct api key.\n\nand just joined the discord, so I'll drop some more details in there.",
+    "lang": "en",
+    "in_reply_to_screen_name": "petradonka",
+    "in_reply_to_user_id_str": "17005962"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1856447316959666226"
+        ],
+        "editableUntil": "2024-11-12T22:21:46.143Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ryan Els",
+          "screen_name": "RyanEls4",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "1056159853704556550",
+          "id": "1056159853704556550"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/RyanEls4/status/1856275494565765377/photo/1",
+          "source_status_id": "1856275494565765377",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/i61AD78fxT",
+          "media_url": "http://pbs.twimg.com/media/GcHYjSdXoAAUrk6.jpg",
+          "id_str": "1856002622215397376",
+          "source_user_id": "1056159853704556550",
+          "id": "1856002622215397376",
+          "media_url_https": "https://pbs.twimg.com/media/GcHYjSdXoAAUrk6.jpg",
+          "source_user_id_str": "1056159853704556550",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "634",
+              "h": "631",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "634",
+              "h": "631",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "634",
+              "h": "631",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1856275494565765377",
+          "display_url": "pic.x.com/i61AD78fxT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "id_str": "1856447316959666226",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1856447316959666226",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 12 21:21:46 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @RyanEls4: Garbage collection 🤔 https://t.co/i61AD78fxT",
+    "lang": "fr",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/RyanEls4/status/1856275494565765377/photo/1",
+          "source_status_id": "1856275494565765377",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/i61AD78fxT",
+          "media_url": "http://pbs.twimg.com/media/GcHYjSdXoAAUrk6.jpg",
+          "id_str": "1856002622215397376",
+          "source_user_id": "1056159853704556550",
+          "id": "1856002622215397376",
+          "media_url_https": "https://pbs.twimg.com/media/GcHYjSdXoAAUrk6.jpg",
+          "source_user_id_str": "1056159853704556550",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "634",
+              "h": "631",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "634",
+              "h": "631",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "634",
+              "h": "631",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1856275494565765377",
+          "display_url": "pic.x.com/i61AD78fxT"
+        }
+      ]
+    }
+  }
+}

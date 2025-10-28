@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520427704012713989"
+        ],
+        "editableUntil": "2022-04-30T16:39:47.474Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tyler Black, MD",
+          "screen_name": "tylerblack32",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "164718384",
+          "id": "164718384"
+        },
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "18",
+            "27"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        },
+        {
+          "name": "Marc Andreessen 🇺🇸",
+          "screen_name": "pmarca",
+          "indices": [
+            "28",
+            "35"
+          ],
+          "id_str": "5943622",
+          "id": "5943622"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1520427704012713989",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520427704012713989",
+    "created_at": "Sat Apr 30 15:39:47 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @tylerblack32: @elonmusk @pmarca Hey Elon, I'm a suicidologist, psychiatrist, and and psychopharmacologist. I have expertise in every as…",
+    "lang": "en"
+  }
+}

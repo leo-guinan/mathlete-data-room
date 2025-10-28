@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1693765567037997395"
+        ],
+        "editableUntil": "2023-08-22T00:22:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Waseem",
+          "screen_name": "waseemhnyc",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "442435217",
+          "id": "442435217"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "12",
+            "24"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "25",
+            "41"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1693665819413168370",
+    "id_str": "1693765567037997395",
+    "in_reply_to_user_id": "442435217",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1693765567037997395",
+    "in_reply_to_status_id": "1693665819413168370",
+    "created_at": "Mon Aug 21 23:22:34 +0000 2023",
+    "favorited": false,
+    "full_text": "@waseemhnyc @_buildspace @_nightsweekends Very cool! I think the idea of showing people what they could build is a great way to get them experimenting. I've got all sorts of sensors that I've picked up along the years, but I haven't gotten around to playing with most of them.",
+    "lang": "en",
+    "in_reply_to_screen_name": "waseemhnyc",
+    "in_reply_to_user_id_str": "442435217"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1477050447517130757"
+        ],
+        "editableUntil": "2021-12-31T23:54:03.615Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Start it up",
+          "screen_name": "startitup_",
+          "indices": [
+            "20",
+            "31"
+          ],
+          "id_str": "125723797",
+          "id": "125723797"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LNObA8l9q7",
+          "expanded_url": "https://link.medium.com/oMChws9Nrmb",
+          "display_url": "link.medium.com/oMChws9Nrmb",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "2",
+    "id_str": "1477050447517130757",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1477050447517130757",
+    "possibly_sensitive": false,
+    "created_at": "Fri Dec 31 22:54:03 +0000 2021",
+    "favorited": false,
+    "full_text": "I just published in @startitup_ Is the Creator Economy the Future of Work? https://t.co/LNObA8l9q7",
+    "lang": "en"
+  }
+}

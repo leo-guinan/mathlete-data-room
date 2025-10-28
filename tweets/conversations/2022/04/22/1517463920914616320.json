@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517463920914616320"
+        ],
+        "editableUntil": "2022-04-22T12:22:46.519Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "44",
+            "56"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "0",
+    "id_str": "1517463920914616320",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517463920914616320",
+    "created_at": "Fri Apr 22 11:22:46 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @NotechAna: If you haven’t checked it on @ProductHunt  yet - please do! \nAn indie hacker needs some support 😉",
+    "lang": "en"
+  }
+}

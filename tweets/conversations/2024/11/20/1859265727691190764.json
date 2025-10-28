@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1859265727691190764"
+        ],
+        "editableUntil": "2024-11-20T17:01:07.625Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ong's Hat",
+          "screen_name": "OngsHat1",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "1113939373907570688",
+          "id": "1113939373907570688"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/OngsHat1/status/1859265450879979786/photo/1",
+          "source_status_id": "1859265450879979786",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/SF6Mq1X5pg",
+          "media_url": "http://pbs.twimg.com/media/Gb5DQXQbYAA9_ZJ.jpg",
+          "id_str": "1854994044923109376",
+          "source_user_id": "1113939373907570688",
+          "id": "1854994044923109376",
+          "media_url_https": "https://pbs.twimg.com/media/Gb5DQXQbYAA9_ZJ.jpg",
+          "source_user_id_str": "1113939373907570688",
+          "sizes": {
+            "small": {
+              "w": "512",
+              "h": "640",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "512",
+              "h": "640",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "512",
+              "h": "640",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1859265450879979786",
+          "display_url": "pic.x.com/SF6Mq1X5pg"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "37"
+    ],
+    "favorite_count": "0",
+    "id_str": "1859265727691190764",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1859265727691190764",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 20 16:01:07 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @OngsHat1: https://t.co/SF6Mq1X5pg",
+    "lang": "zxx",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/OngsHat1/status/1859265450879979786/photo/1",
+          "source_status_id": "1859265450879979786",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/SF6Mq1X5pg",
+          "media_url": "http://pbs.twimg.com/media/Gb5DQXQbYAA9_ZJ.jpg",
+          "id_str": "1854994044923109376",
+          "source_user_id": "1113939373907570688",
+          "id": "1854994044923109376",
+          "media_url_https": "https://pbs.twimg.com/media/Gb5DQXQbYAA9_ZJ.jpg",
+          "source_user_id_str": "1113939373907570688",
+          "sizes": {
+            "small": {
+              "w": "512",
+              "h": "640",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "512",
+              "h": "640",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "512",
+              "h": "640",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1859265450879979786",
+          "display_url": "pic.x.com/SF6Mq1X5pg"
+        }
+      ]
+    }
+  }
+}

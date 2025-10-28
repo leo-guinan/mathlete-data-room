@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1823050539128774801"
+        ],
+        "editableUntil": "2024-08-12T18:34:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mckay Wrigley",
+          "screen_name": "mckaywrigley",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2786431437",
+          "id": "2786431437"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1823046587523969505",
+    "id_str": "1823050539128774801",
+    "in_reply_to_user_id": "2786431437",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1823050539128774801",
+    "in_reply_to_status_id": "1823046587523969505",
+    "created_at": "Mon Aug 12 17:34:53 +0000 2024",
+    "favorited": false,
+    "full_text": "@mckaywrigley 100% agree. I think there's a huge opportunity to build software for SMBs at lower costs and then potentially teach them to extend/maintain it.\n\n(Also, feel free to send them my way. Happy to chat with them and either build something for them or connect them to someone who can)",
+    "lang": "en",
+    "in_reply_to_screen_name": "mckaywrigley",
+    "in_reply_to_user_id_str": "2786431437"
+  }
+}

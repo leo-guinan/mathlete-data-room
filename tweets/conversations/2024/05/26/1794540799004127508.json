@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1794540799004127508"
+        ],
+        "editableUntil": "2024-05-26T02:27:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Johnson",
+          "screen_name": "RatcalledAJ",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "3296109765",
+          "id": "3296109765"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "16"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1794540588022243463",
+    "id_str": "1794540799004127508",
+    "in_reply_to_user_id": "3296109765",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1794540799004127508",
+    "in_reply_to_status_id": "1794540588022243463",
+    "created_at": "Sun May 26 01:27:22 +0000 2024",
+    "favorited": false,
+    "full_text": "@RatcalledAJ 😂😂😂",
+    "lang": "qme",
+    "in_reply_to_screen_name": "RatcalledAJ",
+    "in_reply_to_user_id_str": "3296109765"
+  }
+}

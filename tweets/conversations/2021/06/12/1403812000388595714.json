@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1403812000388595714"
+        ],
+        "editableUntil": "2021-06-12T21:30:37.115Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Notion",
+          "screen_name": "NotionHQ",
+          "indices": [
+            "62",
+            "71"
+          ],
+          "id_str": "708915428454576128",
+          "id": "708915428454576128"
+        },
+        {
+          "name": "Daniel Canosa | Your fractional COO 🪄",
+          "screen_name": "dcanosa",
+          "indices": [
+            "89",
+            "97"
+          ],
+          "id_str": "30890685",
+          "id": "30890685"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "2",
+    "id_str": "1403812000388595714",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1403812000388595714",
+    "created_at": "Sat Jun 12 20:30:37 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, I need to bring some organization to my life. Doing it in @NotionHQ with the help of @dcanosa 's course.",
+    "lang": "en"
+  }
+}

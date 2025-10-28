@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1820901481232658770"
+        ],
+        "editableUntil": "2024-08-06T20:15:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3iXYioqY9B",
+          "expanded_url": "https://x.com/leo_guinan/status/1492864359516758019?t=4Mz5s8OYTxoV-VtBLZYm_Q&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "209",
+            "232"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1820900325340926242",
+    "id_str": "1820901481232658770",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1820901481232658770",
+    "in_reply_to_status_id": "1820900325340926242",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 06 19:15:18 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli I actually created 3 new metrics that I tested around about 2.5 years ago.\n\nBasically, I was looking at breadth vs depth of connection engagement. \n\nHad to track down where I offered the analysis: \n\nhttps://t.co/3iXYioqY9B",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

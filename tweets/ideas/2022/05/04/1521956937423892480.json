@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1521956937423892480"
+        ],
+        "editableUntil": "2022-05-04T21:26:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HKrKX9m1zy",
+          "expanded_url": "https://saasfactory.substack.com/p/greetings-from-miami?utm_source=twitter",
+          "display_url": "saasfactory.substack.com/p/greetings-fr…",
+          "indices": [
+            "149",
+            "172"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "0",
+    "id_str": "1521956937423892480",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1521956937423892480",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 04 20:56:25 +0000 2022",
+    "favorited": false,
+    "full_text": "New post for all SaaS Factory subscribers: some thoughts from Miami on the power of SaaS products and how to think about getting started with them.\n\nhttps://t.co/HKrKX9m1zy",
+    "lang": "en"
+  }
+}

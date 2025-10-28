@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1606349383565545491"
+        ],
+        "editableUntil": "2022-12-23T18:31:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "24",
+            "36"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1606349383565545491/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/yEWEFxHXvJ",
+          "media_url": "http://pbs.twimg.com/media/FkrmIEcXkA4Ri1d.jpg",
+          "id_str": "1606349243417071630",
+          "id": "1606349243417071630",
+          "media_url_https": "https://pbs.twimg.com/media/FkrmIEcXkA4Ri1d.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2047",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yEWEFxHXvJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "6",
+    "id_str": "1606349383565545491",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1606349383565545491",
+    "possibly_sensitive": false,
+    "created_at": "Fri Dec 23 18:01:52 +0000 2022",
+    "favorited": false,
+    "full_text": "My goal by demo day for @_buildspace N&amp;W https://t.co/yEWEFxHXvJ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1606349383565545491/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/yEWEFxHXvJ",
+          "media_url": "http://pbs.twimg.com/media/FkrmIEcXkA4Ri1d.jpg",
+          "id_str": "1606349243417071630",
+          "id": "1606349243417071630",
+          "media_url_https": "https://pbs.twimg.com/media/FkrmIEcXkA4Ri1d.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2047",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yEWEFxHXvJ"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973972161925669251"
+        ],
+        "editableUntil": "2025-10-03T05:43:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973972161925669251/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/reEusirjnd",
+          "media_url": "http://pbs.twimg.com/media/G2T06o0XsAAUY0m.png",
+          "id_str": "1973971824921784320",
+          "id": "1973971824921784320",
+          "media_url_https": "https://pbs.twimg.com/media/G2T06o0XsAAUY0m.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "141",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1460",
+              "h": "302",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "248",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/reEusirjnd"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "2",
+    "id_str": "1973972161925669251",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973972161925669251",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 03 04:43:32 +0000 2025",
+    "favorited": false,
+    "full_text": "I can't do the big models anymore.\n\nEven Claude annoys me now. So I'm exporting my data from chatgpt and anthropic and making my own chat model.\n\nAnd it's not going to be payable by token, it's going to be payable by task.\n\nThe first one is an AI cofounder for $100. \n\nI've been… https://t.co/reEusirjnd",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973972161925669251/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/reEusirjnd",
+          "media_url": "http://pbs.twimg.com/media/G2T06o0XsAAUY0m.png",
+          "id_str": "1973971824921784320",
+          "id": "1973971824921784320",
+          "media_url_https": "https://pbs.twimg.com/media/G2T06o0XsAAUY0m.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "141",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1460",
+              "h": "302",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "248",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/reEusirjnd"
+        }
+      ]
+    }
+  }
+}

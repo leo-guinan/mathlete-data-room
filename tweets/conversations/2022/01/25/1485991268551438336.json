@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1485991268551438336"
+        ],
+        "editableUntil": "2022-01-25T16:01:41.462Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Goutham Jay ⚡",
+          "screen_name": "gouthamjay8",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "815894131452956672",
+          "id": "815894131452956672"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1485988560469913613",
+    "id_str": "1485991268551438336",
+    "in_reply_to_user_id": "815894131452956672",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1485991268551438336",
+    "in_reply_to_status_id": "1485988560469913613",
+    "created_at": "Tue Jan 25 15:01:41 +0000 2022",
+    "favorited": false,
+    "full_text": "@gouthamjay8 Actually, it's the opposite. I really don't have too many. Most of my work is async. \n\nAnd I don't normally own the meetings, so when I click a button, that's normally all I do. But somehow, Zoom knew who I was but I wasn't completely logged in or something, so it didn't start.",
+    "lang": "en",
+    "in_reply_to_screen_name": "gouthamjay8",
+    "in_reply_to_user_id_str": "815894131452956672"
+  }
+}

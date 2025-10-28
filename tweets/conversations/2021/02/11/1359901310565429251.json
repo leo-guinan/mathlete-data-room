@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359901310565429251"
+        ],
+        "editableUntil": "2021-02-11T17:25:12.840Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rahul Rana",
+          "screen_name": "rrana03_",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1213878372100526080",
+          "id": "1213878372100526080"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1359901182513324047",
+    "id_str": "1359901310565429251",
+    "in_reply_to_user_id": "1213878372100526080",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359901310565429251",
+    "in_reply_to_status_id": "1359901182513324047",
+    "created_at": "Thu Feb 11 16:25:12 +0000 2021",
+    "favorited": false,
+    "full_text": "@rrana03_ Awesome! I will reach out once we have the kinks worked out. Thanks! :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "rrana03_",
+    "in_reply_to_user_id_str": "1213878372100526080"
+  }
+}

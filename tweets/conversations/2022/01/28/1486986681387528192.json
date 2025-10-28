@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486986681387528192"
+        ],
+        "editableUntil": "2022-01-28T09:57:06.376Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CcS4FATi9V",
+          "expanded_url": "https://x.com/DirkGently_Bot/status/1486712864542838786",
+          "display_url": "x.com/DirkGently_Bot…",
+          "indices": [
+            "45",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "0",
+    "id_str": "1486986681387528192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1486986681387528192",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 28 08:57:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Douglas Adams speaks wisdom. https://t.co/CcS4FATi9V",
+    "lang": "en"
+  }
+}

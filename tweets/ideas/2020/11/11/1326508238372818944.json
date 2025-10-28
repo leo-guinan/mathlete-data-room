@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1326508238372818944"
+        ],
+        "editableUntil": "2020-11-11T13:53:04.016Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Crew96",
+          "indices": [
+            "60",
+            "67"
+          ]
+        },
+        {
+          "text": "SaveTheCrew",
+          "indices": [
+            "68",
+            "80"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/P6rx53RhO6",
+          "expanded_url": "https://link.medium.com/AenJbw1jkbb",
+          "display_url": "link.medium.com/AenJbw1jkbb",
+          "indices": [
+            "34",
+            "57"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "0",
+    "id_str": "1326508238372818944",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1326508238372818944",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 11 12:53:04 +0000 2020",
+    "favorited": false,
+    "full_text": "\"How A Hashtag Changed the World\" https://t.co/P6rx53RhO6 \n\n#Crew96 #SaveTheCrew",
+    "lang": "en"
+  }
+}

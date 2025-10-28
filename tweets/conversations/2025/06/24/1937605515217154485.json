@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1937605515217154485"
+        ],
+        "editableUntil": "2025-06-24T21:15:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter Wildeford🇺🇸🚀",
+          "screen_name": "peterwildeford",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "25776739",
+          "id": "25776739"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YfjKEep8DE",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/the-temporal-trap-how-silicon-valley",
+          "display_url": "hitchhikertothefuture.substack.com/p/the-temporal…",
+          "indices": [
+            "124",
+            "147"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "147"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1937535382079570192",
+    "id_str": "1937605515217154485",
+    "in_reply_to_user_id": "25776739",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1937605515217154485",
+    "in_reply_to_status_id": "1937535382079570192",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 24 20:15:28 +0000 2025",
+    "favorited": false,
+    "full_text": "@peterwildeford Nothing, but that's ok, because some of us are, even though we don't have the funding, attention, or help.\n\nhttps://t.co/YfjKEep8DE",
+    "lang": "en",
+    "in_reply_to_screen_name": "peterwildeford",
+    "in_reply_to_user_id_str": "25776739"
+  }
+}

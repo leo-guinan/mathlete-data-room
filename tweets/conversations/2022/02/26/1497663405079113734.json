@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1497663405079113734"
+        ],
+        "editableUntil": "2022-02-26T21:02:35.668Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Rea",
+          "screen_name": "andrew__rea",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "898990607707852800",
+          "id": "898990607707852800"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1497658630275014665",
+    "id_str": "1497663405079113734",
+    "in_reply_to_user_id": "898990607707852800",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1497663405079113734",
+    "in_reply_to_status_id": "1497658630275014665",
+    "created_at": "Sat Feb 26 20:02:35 +0000 2022",
+    "favorited": false,
+    "full_text": "@andrew__rea It's true\n\nThat's pretty much what I did. \n\nReally helped me figure out what I truly wanted.",
+    "lang": "en",
+    "in_reply_to_screen_name": "andrew__rea",
+    "in_reply_to_user_id_str": "898990607707852800"
+  }
+}

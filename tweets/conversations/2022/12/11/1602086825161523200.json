@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1602086825161523200"
+        ],
+        "editableUntil": "2022-12-12T00:13:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "10",
+            "22"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "32"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1601700263030841344",
+    "id_str": "1602086825161523200",
+    "in_reply_to_user_id": "1425269255076028422",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1602086825161523200",
+    "in_reply_to_status_id": "1601700263030841344",
+    "created_at": "Sun Dec 11 23:43:59 +0000 2022",
+    "favorited": false,
+    "full_text": "@0xQuiint @_buildspace Thanks!!!",
+    "lang": "en",
+    "in_reply_to_screen_name": "0xQuint",
+    "in_reply_to_user_id_str": "1425269255076028422"
+  }
+}

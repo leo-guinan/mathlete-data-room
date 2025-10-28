@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491039205967171584"
+        ],
+        "editableUntil": "2022-02-08T14:20:23.528Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Packy McCormick",
+          "screen_name": "packyM",
+          "indices": [
+            "58",
+            "65"
+          ],
+          "id_str": "21306324",
+          "id": "21306324"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mgOJktPRcY",
+          "expanded_url": "https://guinanleo.medium.com/the-us-needs-to-fix-the-ownership-problem-237ae1fe0859?sk=851065e3cffa0d6a58e1dbf256a3822e",
+          "display_url": "guinanleo.medium.com/the-us-needs-t…",
+          "indices": [
+            "127",
+            "150"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "150"
+    ],
+    "favorite_count": "0",
+    "id_str": "1491039205967171584",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1491039205967171584",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 08 13:20:23 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally got around to jotting down my ideas after reading @packyM 's piece yesterday.\n\nHere's how I would fix the US economy: \nhttps://t.co/mgOJktPRcY",
+    "lang": "en"
+  }
+}

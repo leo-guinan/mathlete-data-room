@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1496073806842109953"
+        ],
+        "editableUntil": "2022-02-22T11:46:05.915Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IxpVhJNa3o",
+          "expanded_url": "https://x.com/CSMikeCardona/status/1495608438977613825",
+          "display_url": "x.com/CSMikeCardona/…",
+          "indices": [
+            "113",
+            "136"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "0",
+    "id_str": "1496073806842109953",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1496073806842109953",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 22 10:46:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Here's a good group of people building in public.\n\nI'd say that even if I weren't in the list.\n😅 https://t.co/IxpVhJNa3o",
+    "lang": "en"
+  }
+}

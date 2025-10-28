@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768682571355861335"
+        ],
+        "editableUntil": "2024-03-15T17:56:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "245"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1768665927531315514",
+    "id_str": "1768682571355861335",
+    "in_reply_to_user_id": "14642331",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768682571355861335",
+    "in_reply_to_status_id": "1768665927531315514",
+    "created_at": "Fri Mar 15 16:56:00 +0000 2024",
+    "favorited": false,
+    "full_text": "@gregisenberg Nope, I tune them out, and once I have the infrastructure set up, I'll use AI to pull the ads out before listening.\n\nAnd will have the product that will help podcasters monetize more efficiently so they can get away from those ads.",
+    "lang": "en",
+    "in_reply_to_screen_name": "gregisenberg",
+    "in_reply_to_user_id_str": "14642331"
+  }
+}

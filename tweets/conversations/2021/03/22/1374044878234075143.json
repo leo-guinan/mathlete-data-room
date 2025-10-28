@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1374044878234075143"
+        ],
+        "editableUntil": "2021-03-22T18:06:42.147Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonah Malin",
+          "screen_name": "JonahMalin95",
+          "indices": [
+            "53",
+            "66"
+          ],
+          "id_str": "296612803",
+          "id": "296612803"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KAuvCKBBR9",
+          "expanded_url": "https://link.medium.com/Tod4nSC2Peb",
+          "display_url": "link.medium.com/Tod4nSC2Peb",
+          "indices": [
+            "67",
+            "90"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "90"
+    ],
+    "favorite_count": "1",
+    "id_str": "1374044878234075143",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1374044878234075143",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 22 17:06:42 +0000 2021",
+    "favorited": false,
+    "full_text": "“Be Impatient With Actions and Patient With Results” @JonahMalin95 https://t.co/KAuvCKBBR9",
+    "lang": "en"
+  }
+}

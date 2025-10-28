@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513118133741043716"
+        ],
+        "editableUntil": "2022-04-10T12:34:10.116Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jose Sayago 👊",
+          "screen_name": "josejsayago",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1356319694576300033",
+          "id": "1356319694576300033"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "259"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1512875251683627008",
+    "id_str": "1513118133741043716",
+    "in_reply_to_user_id": "1356319694576300033",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513118133741043716",
+    "in_reply_to_status_id": "1512875251683627008",
+    "created_at": "Sun Apr 10 11:34:10 +0000 2022",
+    "favorited": false,
+    "full_text": "@josejsayago @ungatedcreative I've been thinking about this a lot and I think it has a lot to do with how much you feel like you control your future. If you can control the future, the bad stuff now seems fine, because it's working toward the future you want.",
+    "lang": "en",
+    "in_reply_to_screen_name": "josejsayago",
+    "in_reply_to_user_id_str": "1356319694576300033"
+  }
+}

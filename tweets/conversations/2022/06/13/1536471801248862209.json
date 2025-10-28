@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536471801248862209"
+        ],
+        "editableUntil": "2022-06-13T22:43:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Samantha Postman",
+          "screen_name": "SamanthaPostman",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "951591875441381376",
+          "id": "951591875441381376"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "173",
+            "184"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/o8QXQk03vF",
+          "expanded_url": "https://www.howtoscaleyourself.com/podcast/",
+          "display_url": "howtoscaleyourself.com/podcast/",
+          "indices": [
+            "127",
+            "150"
+          ]
+        },
+        {
+          "url": "https://t.co/EZZO0iVhxJ",
+          "expanded_url": "https://lobow.buzzsprout.com/1661950/9924438-something-for-someone-education-neurodiverse-entrepreneurs-hosted-by-leo-guinan",
+          "display_url": "lobow.buzzsprout.com/1661950/992443…",
+          "indices": [
+            "274",
+            "297"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1536470755072176128",
+    "id_str": "1536471801248862209",
+    "in_reply_to_user_id": "951591875441381376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536471801248862209",
+    "in_reply_to_status_id": "1536470755072176128",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 13 22:13:18 +0000 2022",
+    "favorited": false,
+    "full_text": "@SamanthaPostman That's a great question! It actually could be for 2 different ones.\n\nI have one called How To Scale Yourself: https://t.co/o8QXQk03vF\n\nBut I'm also helping @LobowSpark and occasionally guest hosting, if we wanted to do a more specifically ADHD-related one: https://t.co/EZZO0iVhxJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "SamanthaPostman",
+    "in_reply_to_user_id_str": "951591875441381376"
+  }
+}

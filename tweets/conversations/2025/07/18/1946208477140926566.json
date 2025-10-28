@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946208477140926566"
+        ],
+        "editableUntil": "2025-07-18T15:00:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tony Tong | Saas. Systems. Sprituality.",
+          "screen_name": "tonytonggg",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "3242976804",
+          "id": "3242976804"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1946073104981332017",
+    "id_str": "1946208477140926566",
+    "in_reply_to_user_id": "3242976804",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946208477140926566",
+    "in_reply_to_status_id": "1946073104981332017",
+    "created_at": "Fri Jul 18 14:00:34 +0000 2025",
+    "favorited": false,
+    "full_text": "@tonytonggg It's actually a bit of both.\n\nIt's an implementation of the research I've been doing in AI, specifically around the memory. \n\nIt's a memory that only updates in certain ways and at certain times.\n\nThis avoids a lot of the weirdness that ends up happening in ChatGPT, for example.",
+    "lang": "en",
+    "in_reply_to_screen_name": "tonytonggg",
+    "in_reply_to_user_id_str": "3242976804"
+  }
+}

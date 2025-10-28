@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1485623902038601733"
+        ],
+        "editableUntil": "2022-01-24T15:41:54.460Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick Campbell",
+          "screen_name": "ncb000gt",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "7955612",
+          "id": "7955612"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "147"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1485622247465361413",
+    "id_str": "1485623902038601733",
+    "in_reply_to_user_id": "7955612",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1485623902038601733",
+    "in_reply_to_status_id": "1485622247465361413",
+    "created_at": "Mon Jan 24 14:41:54 +0000 2022",
+    "favorited": false,
+    "full_text": "@ncb000gt @feathercrm And the best part? Those meaningful interactions are where the most value comes from!\n\nThe secret is that there is no secret.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ncb000gt",
+    "in_reply_to_user_id_str": "7955612"
+  }
+}

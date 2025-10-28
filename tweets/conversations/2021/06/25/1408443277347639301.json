@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1408443277347639301"
+        ],
+        "editableUntil": "2021-06-25T16:13:39.587Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1408411855127822338",
+    "id_str": "1408443277347639301",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1408443277347639301",
+    "in_reply_to_status_id": "1408411855127822338",
+    "created_at": "Fri Jun 25 15:13:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Yeah, definitely tough. But the key to it, like everything else, is iteration. Just keep doing it. Each one is a little better. One of these days, I'm hoping that I'm at least decent at it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

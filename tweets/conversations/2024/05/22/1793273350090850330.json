@@ -1,0 +1,163 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1793273350090850330"
+        ],
+        "editableUntil": "2024-05-22T14:30:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        },
+        {
+          "name": "MichaelRStraus",
+          "screen_name": "MichaelRStraus",
+          "indices": [
+            "11",
+            "26"
+          ],
+          "id_str": "1526246457988337671",
+          "id": "1526246457988337671"
+        },
+        {
+          "name": "Noah Kagan",
+          "screen_name": "noahkagan",
+          "indices": [
+            "27",
+            "37"
+          ],
+          "id_str": "13737",
+          "id": "13737"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1793273350090850330/photo/1",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/XIFV0Ie1Kg",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GOL8mfWW0AAZI4U.jpg",
+          "id_str": "1793273339827376128",
+          "id": "1793273339827376128",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GOL8mfWW0AAZI4U.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XIFV0Ie1Kg"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1793272037525295585",
+    "id_str": "1793273350090850330",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1793273350090850330",
+    "in_reply_to_status_id": "1793272037525295585",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 22 13:30:58 +0000 2024",
+    "favorited": false,
+    "full_text": "@arvidkahl @MichaelRStraus @noahkagan https://t.co/XIFV0Ie1Kg",
+    "lang": "qme",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1793273350090850330/photo/1",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/XIFV0Ie1Kg",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GOL8mfWW0AAZI4U.jpg",
+          "id_str": "1793273339827376128",
+          "video_info": {
+            "aspect_ratio": [
+              "6",
+              "5"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GOL8mfWW0AAZI4U.mp4"
+              }
+            ]
+          },
+          "id": "1793273339827376128",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GOL8mfWW0AAZI4U.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/XIFV0Ie1Kg"
+        }
+      ]
+    }
+  }
+}

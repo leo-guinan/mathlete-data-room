@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1561717883012530176"
+        ],
+        "editableUntil": "2022-08-22T14:42:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adam Lyttle",
+          "screen_name": "adamlyttleapps",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "7479922",
+          "id": "7479922"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1561712808156622848",
+    "id_str": "1561717883012530176",
+    "in_reply_to_user_id": "7479922",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1561717883012530176",
+    "in_reply_to_status_id": "1561712808156622848",
+    "created_at": "Mon Aug 22 14:12:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@adamlyttleapps My thoughts exactly! \n\nA day well spent. 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "adamlyttleapps",
+    "in_reply_to_user_id_str": "7479922"
+  }
+}

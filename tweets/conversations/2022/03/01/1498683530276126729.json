@@ -1,0 +1,64 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1498683530276126729"
+        ],
+        "editableUntil": "2022-03-01T16:36:12.468Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VoteZelarayan",
+          "indices": [
+            "18",
+            "32"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Major League Soccer",
+          "screen_name": "MLS",
+          "indices": [
+            "37",
+            "41"
+          ],
+          "id_str": "107146095",
+          "id": "107146095"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1498683530276126729",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1498683530276126729",
+    "created_at": "Tue Mar 01 15:36:12 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: I #VoteZelarayan for @MLS Player of the Week!",
+    "lang": "en"
+  }
+}

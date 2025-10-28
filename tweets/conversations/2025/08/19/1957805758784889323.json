@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1957805758784889323"
+        ],
+        "editableUntil": "2025-08-19T15:04:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Egregore Rising ☀️/acc",
+          "screen_name": "egregorerising",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "2577711",
+          "id": "2577711"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1957786730708296101",
+    "id_str": "1957805758784889323",
+    "in_reply_to_user_id": "2577711",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1957805758784889323",
+    "in_reply_to_status_id": "1957786730708296101",
+    "created_at": "Tue Aug 19 14:04:01 +0000 2025",
+    "favorited": false,
+    "full_text": "@egregorerising I approve this message.",
+    "lang": "en",
+    "in_reply_to_screen_name": "egregorerising",
+    "in_reply_to_user_id_str": "2577711"
+  }
+}

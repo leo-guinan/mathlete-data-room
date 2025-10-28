@@ -1,0 +1,172 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1685725048126996480"
+        ],
+        "editableUntil": "2023-07-30T19:52:25.387Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/LobowSpark/status/1685392133853728768/video/1",
+          "source_status_id": "1685392133853728768",
+          "indices": [
+            "95",
+            "118"
+          ],
+          "url": "https://t.co/VUfXkY6CI0",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1685392070427443200/pu/img/AVAf2mABRe-vCbQT.jpg",
+          "id_str": "1685392070427443200",
+          "source_user_id": "1383553628888211456",
+          "id": "1685392070427443200",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1685392070427443200/pu/img/AVAf2mABRe-vCbQT.jpg",
+          "source_user_id_str": "1383553628888211456",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1685392133853728768",
+          "display_url": "pic.x.com/VUfXkY6CI0"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "33",
+            "38"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "0",
+    "id_str": "1685725048126996480",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1685725048126996480",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 30 18:52:25 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: Can you spot the #ADHD in the following  picture?? Watch the video to find out https://t.co/VUfXkY6CI0",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/LobowSpark/status/1685392133853728768/video/1",
+          "source_status_id": "1685392133853728768",
+          "indices": [
+            "95",
+            "118"
+          ],
+          "url": "https://t.co/VUfXkY6CI0",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1685392070427443200/pu/img/AVAf2mABRe-vCbQT.jpg",
+          "id_str": "1685392070427443200",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "24233",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1685392070427443200/pu/vid/720x1280/vBttv_EkLNPBhEpe.mp4?tag=12"
+              },
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1685392070427443200/pu/vid/480x852/dPl9y3Gd2r_JVe1I.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1685392070427443200/pu/pl/Yxt7XxFUFXVAimcB.m3u8?tag=12"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1685392070427443200/pu/vid/320x568/CKpARMR12Hq5Flio.mp4?tag=12"
+              }
+            ]
+          },
+          "source_user_id": "1383553628888211456",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1685392070427443200",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1685392070427443200/pu/img/AVAf2mABRe-vCbQT.jpg",
+          "source_user_id_str": "1383553628888211456",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1685392133853728768",
+          "display_url": "pic.x.com/VUfXkY6CI0"
+        }
+      ]
+    }
+  }
+}

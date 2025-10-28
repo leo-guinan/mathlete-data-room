@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1642526107281784832"
+        ],
+        "editableUntil": "2023-04-02T14:25:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "248"
+    ],
+    "favorite_count": "1",
+    "id_str": "1642526107281784832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1642526107281784832",
+    "created_at": "Sun Apr 02 13:55:15 +0000 2023",
+    "favorited": false,
+    "full_text": "Something I need to figure out:\n\nWhen I convert podcasts into embeddings and store them in a vector database, I'm pretty sure I can identify the ads via clustering by looking at the density, because those should be higher density than other topics.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1349007915202580480"
+        ],
+        "editableUntil": "2021-01-12T15:58:44.996Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Gabe Ragland",
+          "screen_name": "gabe_ragland",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "274068895",
+          "id": "274068895"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1349007915202580480/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/VWBRC8xHYG",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eriji5_XMAoVQBs.jpg",
+          "id_str": "1349007908474925066",
+          "id": "1349007908474925066",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eriji5_XMAoVQBs.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "258",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "258",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "258",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VWBRC8xHYG"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "37"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1349007592740237319",
+    "id_str": "1349007915202580480",
+    "in_reply_to_user_id": "274068895",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1349007915202580480",
+    "in_reply_to_status_id": "1349007592740237319",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 12 14:58:44 +0000 2021",
+    "favorited": false,
+    "full_text": "@gabe_ragland https://t.co/VWBRC8xHYG",
+    "lang": "qme",
+    "in_reply_to_screen_name": "gabe_ragland",
+    "in_reply_to_user_id_str": "274068895",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1349007915202580480/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/VWBRC8xHYG",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eriji5_XMAoVQBs.jpg",
+          "id_str": "1349007908474925066",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "43"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Eriji5_XMAoVQBs.mp4"
+              }
+            ]
+          },
+          "id": "1349007908474925066",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eriji5_XMAoVQBs.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "258",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "258",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "258",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/VWBRC8xHYG"
+        }
+      ]
+    }
+  }
+}

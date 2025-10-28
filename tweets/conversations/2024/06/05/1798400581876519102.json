@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1798400581876519102"
+        ],
+        "editableUntil": "2024-06-05T18:04:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Bistromathtician",
+          "screen_name": "bistromathmagic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1066359344",
+          "id": "1066359344"
+        },
+        {
+          "name": "Emmett Shear",
+          "screen_name": "eshear",
+          "indices": [
+            "17",
+            "24"
+          ],
+          "id_str": "905201",
+          "id": "905201"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1798400581876519102/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/AERfdWJk3q",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GPUzy5qXcAAv2VL.jpg",
+          "id_str": "1798400575769374720",
+          "id": "1798400575769374720",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GPUzy5qXcAAv2VL.jpg",
+          "sizes": {
+            "small": {
+              "w": "410",
+              "h": "220",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "410",
+              "h": "220",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "410",
+              "h": "220",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/AERfdWJk3q"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1798065834218430892",
+    "id_str": "1798400581876519102",
+    "in_reply_to_user_id": "1066359344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1798400581876519102",
+    "in_reply_to_status_id": "1798065834218430892",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 05 17:04:46 +0000 2024",
+    "favorited": false,
+    "full_text": "@bistromathmagic @eshear That's what I'm here for! https://t.co/AERfdWJk3q",
+    "lang": "en",
+    "in_reply_to_screen_name": "bistromathmagic",
+    "in_reply_to_user_id_str": "1066359344",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1798400581876519102/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/AERfdWJk3q",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GPUzy5qXcAAv2VL.jpg",
+          "id_str": "1798400575769374720",
+          "video_info": {
+            "aspect_ratio": [
+              "41",
+              "22"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GPUzy5qXcAAv2VL.mp4"
+              }
+            ]
+          },
+          "id": "1798400575769374720",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GPUzy5qXcAAv2VL.jpg",
+          "sizes": {
+            "small": {
+              "w": "410",
+              "h": "220",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "410",
+              "h": "220",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "410",
+              "h": "220",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/AERfdWJk3q"
+        }
+      ]
+    }
+  }
+}

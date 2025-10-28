@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1612130561291702273"
+        ],
+        "editableUntil": "2023-01-08T17:24:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "3",
+    "id_str": "1612130561291702273",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1612130561291702273",
+    "created_at": "Sun Jan 08 16:54:12 +0000 2023",
+    "favorited": false,
+    "full_text": "Continuing to get better at integrating no-code solutions to help me quickly test.\n\nfor example, the other day when I was testing podcast recommendations, I set up an Airtable table that contained 2 columns - Twitter Username and Created, the timestamp the record was added. Why?",
+    "lang": "en"
+  }
+}

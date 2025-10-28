@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1944456342112252232"
+        ],
+        "editableUntil": "2025-07-13T18:58:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jason Shuman",
+          "screen_name": "JasonrShuman",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "26801410",
+          "id": "26801410"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944456342112252232/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/RaiXYv4I5R",
+          "media_url": "http://pbs.twimg.com/media/GvwYsjDW0AAVRhu.png",
+          "id_str": "1944456292719841280",
+          "id": "1944456292719841280",
+          "media_url_https": "https://pbs.twimg.com/media/GvwYsjDW0AAVRhu.png",
+          "sizes": {
+            "large": {
+              "w": "1830",
+              "h": "690",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "256",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "452",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RaiXYv4I5R"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1944455713381584947",
+    "id_str": "1944456342112252232",
+    "in_reply_to_user_id": "26801410",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1944456342112252232",
+    "in_reply_to_status_id": "1944455713381584947",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 13 17:58:12 +0000 2025",
+    "favorited": false,
+    "full_text": "@JasonrShuman I only see three models going forward for software https://t.co/RaiXYv4I5R",
+    "lang": "en",
+    "in_reply_to_screen_name": "JasonrShuman",
+    "in_reply_to_user_id_str": "26801410",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944456342112252232/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/RaiXYv4I5R",
+          "media_url": "http://pbs.twimg.com/media/GvwYsjDW0AAVRhu.png",
+          "id_str": "1944456292719841280",
+          "id": "1944456292719841280",
+          "media_url_https": "https://pbs.twimg.com/media/GvwYsjDW0AAVRhu.png",
+          "sizes": {
+            "large": {
+              "w": "1830",
+              "h": "690",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "256",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "452",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RaiXYv4I5R"
+        }
+      ]
+    }
+  }
+}

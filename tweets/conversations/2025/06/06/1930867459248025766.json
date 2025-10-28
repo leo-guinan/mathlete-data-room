@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930867459248025766"
+        ],
+        "editableUntil": "2025-06-06T07:00:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "TBPN",
+          "screen_name": "tbpn",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "1838288550569349120",
+          "id": "1838288550569349120"
+        },
+        {
+          "name": "Michael Mignano",
+          "screen_name": "mignano",
+          "indices": [
+            "6",
+            "14"
+          ],
+          "id_str": "15397734",
+          "id": "15397734"
+        },
+        {
+          "name": "Lightspeed",
+          "screen_name": "lightspeedvp",
+          "indices": [
+            "15",
+            "28"
+          ],
+          "id_str": "59910220",
+          "id": "59910220"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FyyNN7ZRLL",
+          "expanded_url": "https://x.com/leo_guinan/status/1930805935649312991",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930723673838952654",
+    "id_str": "1930867459248025766",
+    "in_reply_to_user_id": "1838288550569349120",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930867459248025766",
+    "in_reply_to_status_id": "1930723673838952654",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 06 06:00:50 +0000 2025",
+    "favorited": false,
+    "full_text": "@tbpn @mignano @lightspeedvp And here’s where that race heads. Let me know when you get there. https://t.co/FyyNN7ZRLL",
+    "lang": "en",
+    "in_reply_to_screen_name": "tbpn",
+    "in_reply_to_user_id_str": "1838288550569349120"
+  }
+}

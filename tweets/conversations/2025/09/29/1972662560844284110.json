@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1972662560844284110"
+        ],
+        "editableUntil": "2025-09-29T14:59:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Snub",
+          "screen_name": "1stSnub",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1924061287790821376",
+          "id": "1924061287790821376"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972662560844284110/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/YiEkn10Dsh",
+          "media_url": "http://pbs.twimg.com/media/G2BOElfWMAAPb6Q.jpg",
+          "id_str": "1972662477478309888",
+          "id": "1972662477478309888",
+          "media_url_https": "https://pbs.twimg.com/media/G2BOElfWMAAPb6Q.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YiEkn10Dsh"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1972651060922880252",
+    "id_str": "1972662560844284110",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1972662560844284110",
+    "in_reply_to_status_id": "1972651060922880252",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 29 13:59:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@1stSnub The goal is to have it fold up like this. https://t.co/YiEkn10Dsh",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972662560844284110/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/YiEkn10Dsh",
+          "media_url": "http://pbs.twimg.com/media/G2BOElfWMAAPb6Q.jpg",
+          "id_str": "1972662477478309888",
+          "id": "1972662477478309888",
+          "media_url_https": "https://pbs.twimg.com/media/G2BOElfWMAAPb6Q.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YiEkn10Dsh"
+        }
+      ]
+    }
+  }
+}

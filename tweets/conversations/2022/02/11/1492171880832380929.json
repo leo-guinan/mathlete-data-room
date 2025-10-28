@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492171880832380929"
+        ],
+        "editableUntil": "2022-02-11T17:21:14.260Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "0",
+    "id_str": "1492171880832380929",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492171880832380929",
+    "created_at": "Fri Feb 11 16:21:14 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: If someone offered you $10K to quit your job, would you take it? No stipulations beyond that. Just $10K to quit.",
+    "lang": "en"
+  }
+}

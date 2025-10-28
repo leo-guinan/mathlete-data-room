@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491881876247785479"
+        ],
+        "editableUntil": "2022-02-10T22:08:51.779Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick Campbell",
+          "screen_name": "ncb000gt",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "7955612",
+          "id": "7955612"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1491881508000387076",
+    "id_str": "1491881876247785479",
+    "in_reply_to_user_id": "7955612",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1491881876247785479",
+    "in_reply_to_status_id": "1491881508000387076",
+    "created_at": "Thu Feb 10 21:08:51 +0000 2022",
+    "favorited": false,
+    "full_text": "@ncb000gt but, not like drastically different. Like 1 micron vs 2 microns. So tiny...",
+    "lang": "en",
+    "in_reply_to_screen_name": "ncb000gt",
+    "in_reply_to_user_id_str": "7955612"
+  }
+}

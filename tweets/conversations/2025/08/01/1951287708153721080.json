@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1951287708153721080"
+        ],
+        "editableUntil": "2025-08-01T15:23:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anthony Fiedler",
+          "screen_name": "FAfied32",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "14470761",
+          "id": "14470761"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1951135684254978171",
+    "id_str": "1951287708153721080",
+    "in_reply_to_user_id": "14470761",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1951287708153721080",
+    "in_reply_to_status_id": "1951135684254978171",
+    "created_at": "Fri Aug 01 14:23:37 +0000 2025",
+    "favorited": false,
+    "full_text": "@FAfied32 it's honestly like discovering magic. \n\nWorking on a write up now to try to share what I've learned.",
+    "lang": "en",
+    "in_reply_to_screen_name": "FAfied32",
+    "in_reply_to_user_id_str": "14470761"
+  }
+}

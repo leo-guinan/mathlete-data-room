@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1579984859665432576"
+        ],
+        "editableUntil": "2022-10-12T00:28:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gXCtgGsBKw",
+          "expanded_url": "https://x.com/i/spaces/1dRJZMWyZjbGB",
+          "display_url": "x.com/i/spaces/1dRJZ…",
+          "indices": [
+            "16",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "id_str": "1579984859665432576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1579984859665432576",
+    "possibly_sensitive": false,
+    "created_at": "Tue Oct 11 23:58:39 +0000 2022",
+    "favorited": false,
+    "full_text": "Going live now!\nhttps://t.co/gXCtgGsBKw",
+    "lang": "en"
+  }
+}

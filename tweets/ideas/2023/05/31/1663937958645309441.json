@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1663937958645309441"
+        ],
+        "editableUntil": "2023-05-31T16:28:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "126"
+    ],
+    "favorite_count": "0",
+    "id_str": "1663937958645309441",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1663937958645309441",
+    "created_at": "Wed May 31 15:58:18 +0000 2023",
+    "favorited": false,
+    "full_text": "New Youtube video coming out this afternoon. \n\nShowing how I'm taking Langchain agents and building an actual product with it.",
+    "lang": "en"
+  }
+}

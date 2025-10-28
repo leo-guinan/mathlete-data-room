@@ -1,0 +1,118 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1344818175154778112"
+        ],
+        "editableUntil": "2021-01-01T02:30:13.127Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1344818175154778112/photo/1",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/3E8nCBh8Lj",
+          "media_url": "http://pbs.twimg.com/media/EqnBAOAXIAIs1r_.jpg",
+          "id_str": "1344818173250576386",
+          "id": "1344818173250576386",
+          "media_url_https": "https://pbs.twimg.com/media/EqnBAOAXIAIs1r_.jpg",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "666",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "666",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "419",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3E8nCBh8Lj"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1344621217148497920",
+    "id_str": "1344818175154778112",
+    "in_reply_to_user_id": "885137321229733888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1344818175154778112",
+    "in_reply_to_status_id": "1344621217148497920",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 01 01:30:13 +0000 2021",
+    "favorited": false,
+    "full_text": "@Frankvdb1971 From my timeline https://t.co/3E8nCBh8Lj",
+    "lang": "en",
+    "in_reply_to_user_id_str": "885137321229733888",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1344818175154778112/photo/1",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/3E8nCBh8Lj",
+          "media_url": "http://pbs.twimg.com/media/EqnBAOAXIAIs1r_.jpg",
+          "id_str": "1344818173250576386",
+          "id": "1344818173250576386",
+          "media_url_https": "https://pbs.twimg.com/media/EqnBAOAXIAIs1r_.jpg",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "666",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "666",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "419",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3E8nCBh8Lj"
+        }
+      ]
+    }
+  }
+}

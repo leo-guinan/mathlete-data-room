@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527717546836762624"
+        ],
+        "editableUntil": "2022-05-20T18:57:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "turbz",
+          "screen_name": "nicktorba",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "803693608419422209",
+          "id": "803693608419422209"
+        },
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "11",
+            "20"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1527716875840389120",
+    "id_str": "1527717546836762624",
+    "in_reply_to_user_id": "803693608419422209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527717546836762624",
+    "in_reply_to_status_id": "1527716875840389120",
+    "created_at": "Fri May 20 18:27:01 +0000 2022",
+    "favorited": false,
+    "full_text": "@nicktorba @reddy2go Had to have something to do with that extra time! 😂\n\nI seriously love writing twitter threads honestly. Way too much for the level of success they have. Because I don't write the threads that are formatted to share.\n\nI'm more of a 40-tweet brain dump kinda threader... 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "nicktorba",
+    "in_reply_to_user_id_str": "803693608419422209"
+  }
+}

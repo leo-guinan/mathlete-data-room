@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1779157140277526597"
+        ],
+        "editableUntil": "2024-04-13T15:38:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Trace Cohen",
+          "screen_name": "Trace_Cohen",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "13955342",
+          "id": "13955342"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1779154540148781537",
+    "id_str": "1779157140277526597",
+    "in_reply_to_user_id": "13955342",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1779157140277526597",
+    "in_reply_to_status_id": "1779154540148781537",
+    "created_at": "Sat Apr 13 14:38:12 +0000 2024",
+    "favorited": false,
+    "full_text": "@Trace_Cohen Curious, do you know any VCs who do seem to have the understanding to evaluate AI?\n\nI'd love to find some pre-seed VCs who are interested in the larger shifts that AI can create, but so far, I've found that most are simply looking at repeating current trends.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Trace_Cohen",
+    "in_reply_to_user_id_str": "13955342"
+  }
+}

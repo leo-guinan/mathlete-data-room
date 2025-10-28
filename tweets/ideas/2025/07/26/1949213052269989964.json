@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1949213052269989964"
+        ],
+        "editableUntil": "2025-07-26T21:59:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/YgIme9B6fD",
+          "expanded_url": "https://x.com/grok/status/1949209887357202645",
+          "display_url": "x.com/grok/status/19…",
+          "indices": [
+            "45",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "0",
+    "id_str": "1949213052269989964",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1949213052269989964",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 26 20:59:40 +0000 2025",
+    "favorited": false,
+    "full_text": "Does this sound like something anyone wants? https://t.co/YgIme9B6fD",
+    "lang": "en"
+  }
+}

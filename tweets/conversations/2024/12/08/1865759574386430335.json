@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1865759574386430335"
+        ],
+        "editableUntil": "2024-12-08T15:05:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zack",
+          "screen_name": "HackingBaseball",
+          "indices": [
+            "14",
+            "30"
+          ],
+          "id_str": "1081866076726743040",
+          "id": "1081866076726743040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1865646416128888919",
+    "id_str": "1865759574386430335",
+    "in_reply_to_user_id": "1463879181276573698",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1865759574386430335",
+    "in_reply_to_status_id": "1865646416128888919",
+    "created_at": "Sun Dec 08 14:05:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@lunar_cherie @HackingBaseball Assuming you've got it figured out since the top tweet was deleted, but happy to help however I can if/when needed 😀 \n\nDms are always open",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1463879181276573698"
+  }
+}

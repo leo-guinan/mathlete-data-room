@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1531964892391014407"
+        ],
+        "editableUntil": "2022-06-01T12:14:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "🦾✝️🤳 Jesus needs a minute",
+          "screen_name": "evan_just_evan",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1282006421551415298",
+          "id": "1282006421551415298"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1531964892391014407/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/8velebrTC5",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FUKh8n_WUAYCLIZ.jpg",
+          "id_str": "1531964886158299142",
+          "id": "1531964886158299142",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FUKh8n_WUAYCLIZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "382",
+              "h": "234",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "382",
+              "h": "234",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "382",
+              "h": "234",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/8velebrTC5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1531941560161603584",
+    "id_str": "1531964892391014407",
+    "in_reply_to_user_id": "1282006421551415298",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1531964892391014407",
+    "in_reply_to_status_id": "1531941560161603584",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 01 11:44:27 +0000 2022",
+    "favorited": false,
+    "full_text": "@evan_just_evan Same! And I think it's because that box wasn't designed not to. It wasn't necessarily designed to hurt our brains because they didn't bother to think about us when the boxes were made.\n\nSo it's time to design some new boxes! That might not really be boxes at all. https://t.co/8velebrTC5",
+    "lang": "en",
+    "in_reply_to_screen_name": "evan_just_evan",
+    "in_reply_to_user_id_str": "1282006421551415298",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1531964892391014407/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/8velebrTC5",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FUKh8n_WUAYCLIZ.jpg",
+          "id_str": "1531964886158299142",
+          "video_info": {
+            "aspect_ratio": [
+              "191",
+              "117"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FUKh8n_WUAYCLIZ.mp4"
+              }
+            ]
+          },
+          "id": "1531964886158299142",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FUKh8n_WUAYCLIZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "382",
+              "h": "234",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "382",
+              "h": "234",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "382",
+              "h": "234",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/8velebrTC5"
+        }
+      ]
+    }
+  }
+}

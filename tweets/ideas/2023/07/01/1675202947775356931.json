@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1675202947775356931"
+        ],
+        "editableUntil": "2023-07-01T19:01:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1675202947775356931/photo/1",
+          "indices": [
+            "230",
+            "253"
+          ],
+          "url": "https://t.co/m3I9GAzc1S",
+          "media_url": "http://pbs.twimg.com/media/Fz-EMYcWwAQ55e4.jpg",
+          "id_str": "1675202934659792900",
+          "id": "1675202934659792900",
+          "media_url_https": "https://pbs.twimg.com/media/Fz-EMYcWwAQ55e4.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/m3I9GAzc1S"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "253"
+    ],
+    "favorite_count": "3",
+    "id_str": "1675202947775356931",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1675202947775356931",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 01 18:01:21 +0000 2023",
+    "favorited": false,
+    "full_text": "My trip to the fireworks store with the kids was kinda like a typical corporate software project, but had one key difference.\n\nWe may have taken longer than expected, and way over budget, but at least the stakeholders were happy! https://t.co/m3I9GAzc1S",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1675202947775356931/photo/1",
+          "indices": [
+            "230",
+            "253"
+          ],
+          "url": "https://t.co/m3I9GAzc1S",
+          "media_url": "http://pbs.twimg.com/media/Fz-EMYcWwAQ55e4.jpg",
+          "id_str": "1675202934659792900",
+          "id": "1675202934659792900",
+          "media_url_https": "https://pbs.twimg.com/media/Fz-EMYcWwAQ55e4.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/m3I9GAzc1S"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940600901313745221"
+        ],
+        "editableUntil": "2025-07-03T03:38:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Creator Insurance Agency",
+          "screen_name": "insure_creators",
+          "indices": [
+            "47",
+            "63"
+          ],
+          "id_str": "1338107290256367616",
+          "id": "1338107290256367616"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "1",
+    "id_str": "1940600901313745221",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940600901313745221",
+    "created_at": "Thu Jul 03 02:38:04 +0000 2025",
+    "favorited": false,
+    "full_text": "Artificial Intelligence\n\nHuman Accountability\n\n@insure_creators",
+    "lang": "en"
+  }
+}

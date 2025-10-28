@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596321016330031104"
+        ],
+        "editableUntil": "2022-11-26T02:22:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "2",
+    "id_str": "1596321016330031104",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596321016330031104",
+    "created_at": "Sat Nov 26 01:52:43 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, rerunning the user analysis with some tweaked parameters.\n\nStarted looking over the results to share them and they were a little wild in places. GPT started expounding on some of the answers and got really wordy. I set the max number of tokens lower to see if that helps.",
+    "lang": "en"
+  }
+}

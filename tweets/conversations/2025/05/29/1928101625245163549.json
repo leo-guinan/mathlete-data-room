@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928101625245163549"
+        ],
+        "editableUntil": "2025-05-29T15:50:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Fred",
+          "screen_name": "FriedKielbasa",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1133288553859887106",
+          "id": "1133288553859887106"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zyqLKGtXGh",
+          "expanded_url": "https://buildinpublic-s663.metalabel.com/memetic-foundations?variantId=2&retryCount=1",
+          "display_url": "buildinpublic-s663.metalabel.com/memetic-founda…",
+          "indices": [
+            "251",
+            "274"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928101625245163549/photo/1",
+          "indices": [
+            "275",
+            "298"
+          ],
+          "url": "https://t.co/IRKDEZrx5l",
+          "media_url": "http://pbs.twimg.com/media/GsH-Dl6WAAAEScc.jpg",
+          "id_str": "1928101453161168896",
+          "id": "1928101453161168896",
+          "media_url_https": "https://pbs.twimg.com/media/GsH-Dl6WAAAEScc.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "962",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1641",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "545",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IRKDEZrx5l"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1928099987277127701",
+    "id_str": "1928101625245163549",
+    "in_reply_to_user_id": "1133288553859887106",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928101625245163549",
+    "in_reply_to_status_id": "1928099987277127701",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 29 14:50:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@FriedKielbasa You might both benefit from my paper on the memetic value of humans. I'm in the process of writing more about how to design organizations that actually value the people that are there, not just the ones that make the right data points.\nhttps://t.co/zyqLKGtXGh https://t.co/IRKDEZrx5l",
+    "lang": "en",
+    "in_reply_to_screen_name": "FriedKielbasa",
+    "in_reply_to_user_id_str": "1133288553859887106",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928101625245163549/photo/1",
+          "indices": [
+            "275",
+            "298"
+          ],
+          "url": "https://t.co/IRKDEZrx5l",
+          "media_url": "http://pbs.twimg.com/media/GsH-Dl6WAAAEScc.jpg",
+          "id_str": "1928101453161168896",
+          "id": "1928101453161168896",
+          "media_url_https": "https://pbs.twimg.com/media/GsH-Dl6WAAAEScc.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "962",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1641",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "545",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IRKDEZrx5l"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1632747024993927171"
+        ],
+        "editableUntil": "2023-03-06T14:46:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N79xFRJPZi",
+          "expanded_url": "https://transistor.fm",
+          "display_url": "transistor.fm",
+          "indices": [
+            "254",
+            "277"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1632745920931430401",
+    "id_str": "1632747024993927171",
+    "in_reply_to_user_id": "1461236887159382017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1632747024993927171",
+    "in_reply_to_status_id": "1632745920931430401",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 06 14:16:40 +0000 2023",
+    "favorited": false,
+    "full_text": "@Chuckenspire I use Buzzsprout, which required a little bit of work to get it distributed. They included directions on how to do so, but it was multiple steps.\n\nI've heard good things about Transistor though, and looks like that might be the better way: https://t.co/N79xFRJPZi",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chuckenspire",
+    "in_reply_to_user_id_str": "1461236887159382017"
+  }
+}

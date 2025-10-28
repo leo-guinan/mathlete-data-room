@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596536922549424128"
+        ],
+        "editableUntil": "2022-11-26T16:40:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jovan Cicmil",
+          "screen_name": "CicmilJovan",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1225690793580486657",
+          "id": "1225690793580486657"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "40"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1596534457867317248",
+    "id_str": "1596536922549424128",
+    "in_reply_to_user_id": "1225690793580486657",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596536922549424128",
+    "in_reply_to_status_id": "1596534457867317248",
+    "created_at": "Sat Nov 26 16:10:39 +0000 2022",
+    "favorited": false,
+    "full_text": "@CicmilJovan Awesome! Glad to hear that!",
+    "lang": "en",
+    "in_reply_to_screen_name": "CicmilJovan",
+    "in_reply_to_user_id_str": "1225690793580486657"
+  }
+}

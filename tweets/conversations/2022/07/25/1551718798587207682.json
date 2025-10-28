@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1551718798587207682"
+        ],
+        "editableUntil": "2022-07-26T00:29:25.781Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Manoj | fullstack.tel",
+          "screen_name": "indefiniteloops",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "2165176904",
+          "id": "2165176904"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "65"
+    ],
+    "favorite_count": "0",
+    "id_str": "1551718798587207682",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1551718798587207682",
+    "created_at": "Mon Jul 25 23:59:25 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @indefiniteloops: Chaos, and building systems. Give it a read.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1441943093553602564"
+        ],
+        "editableUntil": "2021-09-26T02:49:58.167Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "The Crew",
+          "screen_name": "ColumbusCrew",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "16960789",
+          "id": "16960789"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrew/status/1441940424063602688/photo/1",
+          "source_status_id": "1441940424063602688",
+          "indices": [
+            "18",
+            "41"
+          ],
+          "url": "https://t.co/GEGMAQyqGT",
+          "media_url": "http://pbs.twimg.com/media/E_SiOE_XoAAqBfN.jpg",
+          "id_str": "1437952543779430400",
+          "source_user_id": "16960789",
+          "id": "1437952543779430400",
+          "media_url_https": "https://pbs.twimg.com/media/E_SiOE_XoAAqBfN.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "800",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "454",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1366",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1441940424063602688",
+          "display_url": "pic.x.com/GEGMAQyqGT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "0",
+    "id_str": "1441943093553602564",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1441943093553602564",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 26 01:49:58 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ColumbusCrew: https://t.co/GEGMAQyqGT",
+    "lang": "zxx",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrew/status/1441940424063602688/photo/1",
+          "source_status_id": "1441940424063602688",
+          "indices": [
+            "18",
+            "41"
+          ],
+          "url": "https://t.co/GEGMAQyqGT",
+          "media_url": "http://pbs.twimg.com/media/E_SiOE_XoAAqBfN.jpg",
+          "id_str": "1437952543779430400",
+          "source_user_id": "16960789",
+          "id": "1437952543779430400",
+          "media_url_https": "https://pbs.twimg.com/media/E_SiOE_XoAAqBfN.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "800",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "454",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1366",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1441940424063602688",
+          "display_url": "pic.x.com/GEGMAQyqGT"
+        }
+      ]
+    }
+  }
+}

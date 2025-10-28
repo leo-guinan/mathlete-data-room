@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1889661865455730883"
+        ],
+        "editableUntil": "2025-02-12T14:04:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Richard Hanania",
+          "screen_name": "RichardHanania",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1041044330092195840",
+          "id": "1041044330092195840"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1889501887768174699",
+    "id_str": "1889661865455730883",
+    "in_reply_to_user_id": "1041044330092195840",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1889661865455730883",
+    "in_reply_to_status_id": "1889501887768174699",
+    "created_at": "Wed Feb 12 13:04:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@RichardHanania “Consequential” is a good word choice I think.",
+    "lang": "en",
+    "in_reply_to_screen_name": "RichardHanania",
+    "in_reply_to_user_id_str": "1041044330092195840"
+  }
+}

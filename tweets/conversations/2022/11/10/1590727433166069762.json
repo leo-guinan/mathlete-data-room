@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1590727433166069762"
+        ],
+        "editableUntil": "2022-11-10T15:55:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Austyn",
+          "screen_name": "austinwithay",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1635125306762600448",
+          "id": "1635125306762600448"
+        },
+        {
+          "name": "RossiniB",
+          "screen_name": "randomshenans",
+          "indices": [
+            "14",
+            "28"
+          ],
+          "id_str": "121729403",
+          "id": "121729403"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "307"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1590439620868968449",
+    "id_str": "1590727433166069762",
+    "in_reply_to_user_id": "1477320593934635010",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1590727433166069762",
+    "in_reply_to_status_id": "1590439620868968449",
+    "created_at": "Thu Nov 10 15:25:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@austinwithay @randomshenans I think this can depend, honestly. It works well for certain audiences. But it's tough to spend a bunch of time on when it tends to have a short-lived lifespan.\n\nWhereas blogs tend to have longer lifespans, so there's a certain tradeoff you have to think about, or just do both.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ByeAustyn",
+    "in_reply_to_user_id_str": "1477320593934635010"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545482877000978434"
+        ],
+        "editableUntil": "2022-07-08T19:30:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "andrew (in CS teacher mode) 🌹",
+          "screen_name": "__drewface",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1721070150",
+          "id": "1721070150"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1545469116852670464",
+    "id_str": "1545482877000978434",
+    "in_reply_to_user_id": "1721070150",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545482877000978434",
+    "in_reply_to_status_id": "1545469116852670464",
+    "created_at": "Fri Jul 08 19:00:06 +0000 2022",
+    "favorited": false,
+    "full_text": "@__drewface Wheel of Time series? I started at the beginning of the year and not a day has gone past that I haven't read a few pages at least. Currently on book 11...",
+    "lang": "en",
+    "in_reply_to_screen_name": "__drewface",
+    "in_reply_to_user_id_str": "1721070150"
+  }
+}

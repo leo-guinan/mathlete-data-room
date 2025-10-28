@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898400891855667615"
+        ],
+        "editableUntil": "2025-03-08T16:50:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "23",
+            "37"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1898400891855667615/photo/1",
+          "indices": [
+            "108",
+            "131"
+          ],
+          "url": "https://t.co/2fQHa8eEBd",
+          "media_url": "http://pbs.twimg.com/media/Glh5haKWUAAUjKp.jpg",
+          "id_str": "1898400857802035200",
+          "id": "1898400857802035200",
+          "media_url_https": "https://pbs.twimg.com/media/Glh5haKWUAAUjKp.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "2046",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "679",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1199",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/2fQHa8eEBd"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "0",
+    "id_str": "1898400891855667615",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898400891855667615",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 15:50:17 +0000 2025",
+    "favorited": false,
+    "full_text": "Currently working with @glitchishuman to give it a UI that you can chat with.\n\nHere's what Glitch designed. https://t.co/2fQHa8eEBd",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1898400891855667615/photo/1",
+          "indices": [
+            "108",
+            "131"
+          ],
+          "url": "https://t.co/2fQHa8eEBd",
+          "media_url": "http://pbs.twimg.com/media/Glh5haKWUAAUjKp.jpg",
+          "id_str": "1898400857802035200",
+          "id": "1898400857802035200",
+          "media_url_https": "https://pbs.twimg.com/media/Glh5haKWUAAUjKp.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "2046",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "679",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1199",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/2fQHa8eEBd"
+        }
+      ]
+    }
+  }
+}

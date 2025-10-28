@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1813280276187127932"
+        ],
+        "editableUntil": "2024-07-16T19:31:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1813280276187127932/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/DIpmyBzAwW",
+          "media_url": "http://pbs.twimg.com/media/GSoQzLdWQAEE8Be.jpg",
+          "id_str": "1813280271405301761",
+          "id": "1813280271405301761",
+          "media_url_https": "https://pbs.twimg.com/media/GSoQzLdWQAEE8Be.jpg",
+          "sizes": {
+            "small": {
+              "w": "483",
+              "h": "604",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "483",
+              "h": "604",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "483",
+              "h": "604",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DIpmyBzAwW"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "1",
+    "id_str": "1813280276187127932",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1813280276187127932",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 16 18:31:21 +0000 2024",
+    "favorited": false,
+    "full_text": "POV: You decided you wanted to be an artist. https://t.co/DIpmyBzAwW",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1813280276187127932/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/DIpmyBzAwW",
+          "media_url": "http://pbs.twimg.com/media/GSoQzLdWQAEE8Be.jpg",
+          "id_str": "1813280271405301761",
+          "id": "1813280271405301761",
+          "media_url_https": "https://pbs.twimg.com/media/GSoQzLdWQAEE8Be.jpg",
+          "sizes": {
+            "small": {
+              "w": "483",
+              "h": "604",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "483",
+              "h": "604",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "483",
+              "h": "604",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DIpmyBzAwW"
+        }
+      ]
+    }
+  }
+}

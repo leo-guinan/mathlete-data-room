@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941195331699605589"
+        ],
+        "editableUntil": "2025-07-04T19:00:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DAaMp5PBze",
+          "expanded_url": "https://x.com/leo_guinan/status/1941176899083903125",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "203",
+            "226"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941195331699605589/photo/1",
+          "indices": [
+            "227",
+            "250"
+          ],
+          "url": "https://t.co/mKE2ZGuvGS",
+          "media_url": "http://pbs.twimg.com/media/GvCC3aBWUAAvkWL.jpg",
+          "id_str": "1941195327786078208",
+          "id": "1941195327786078208",
+          "media_url_https": "https://pbs.twimg.com/media/GvCC3aBWUAAvkWL.jpg",
+          "sizes": {
+            "large": {
+              "w": "1319",
+              "h": "1166",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1061",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "601",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mKE2ZGuvGS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "250"
+    ],
+    "favorite_count": "0",
+    "id_str": "1941195331699605589",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941195331699605589",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 04 18:00:07 +0000 2025",
+    "favorited": false,
+    "full_text": "Uh…*looks in algorithm spell book for the right incantation*\n\nTrain companies don’t hire people who like trains. \n\nBelieve the term they use is foamers \n\n*waits for views to go up for important message* https://t.co/DAaMp5PBze https://t.co/mKE2ZGuvGS",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941195331699605589/photo/1",
+          "indices": [
+            "227",
+            "250"
+          ],
+          "url": "https://t.co/mKE2ZGuvGS",
+          "media_url": "http://pbs.twimg.com/media/GvCC3aBWUAAvkWL.jpg",
+          "id_str": "1941195327786078208",
+          "id": "1941195327786078208",
+          "media_url_https": "https://pbs.twimg.com/media/GvCC3aBWUAAvkWL.jpg",
+          "sizes": {
+            "large": {
+              "w": "1319",
+              "h": "1166",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1061",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "601",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mKE2ZGuvGS"
+        }
+      ]
+    }
+  }
+}

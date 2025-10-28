@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1434243592193724420"
+        ],
+        "editableUntil": "2021-09-04T20:54:53.993Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mat Sherman",
+          "screen_name": "Mat_Sherman",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2995012297",
+          "id": "2995012297"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1434037798512709634",
+    "id_str": "1434243592193724420",
+    "in_reply_to_user_id": "2995012297",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1434243592193724420",
+    "in_reply_to_status_id": "1434037798512709634",
+    "created_at": "Sat Sep 04 19:54:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@Mat_Sherman I'm doing something like that.\n\nI'm planning on minting NFTs for the first 10 users that buy the annual pro plan for my SaaS. \n\nThen I'll be building a community that will be gated to NFT holders.\n\nAnd I'm thinking about all sorts of ways I can have fun with it after that.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Mat_Sherman",
+    "in_reply_to_user_id_str": "2995012297"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482546284275904512"
+        ],
+        "editableUntil": "2022-01-16T03:52:33.206Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        },
+        {
+          "name": "Kelli Marks",
+          "screen_name": "kellimarks",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "17818061",
+          "id": "17818061"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1482545607147405317",
+    "id_str": "1482546284275904512",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482546284275904512",
+    "in_reply_to_status_id": "1482545607147405317",
+    "created_at": "Sun Jan 16 02:52:33 +0000 2022",
+    "favorited": false,
+    "full_text": "@markyerkes1734 @kellimarks I'd be really hesitant to scrape user data like that. You aren't going to win people over doing things that way.\n\nThe better way is to use a link-in-bio sort of site that you can use to capture emails and point them to various products.",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939"
+  }
+}

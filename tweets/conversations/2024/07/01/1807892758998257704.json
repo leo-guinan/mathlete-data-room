@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1807892758998257704"
+        ],
+        "editableUntil": "2024-07-01T22:43:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brandon Sanderson",
+          "screen_name": "BrandSanderson",
+          "indices": [
+            "116",
+            "131"
+          ],
+          "id_str": "28187205",
+          "id": "28187205"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8Dk3Pkkmnb",
+          "expanded_url": "https://x.com/visakanv/status/1807888372544987340",
+          "display_url": "x.com/visakanv/statu…",
+          "indices": [
+            "269",
+            "292"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "1",
+    "id_str": "1807892758998257704",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1807892758998257704",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 01 21:43:17 +0000 2024",
+    "favorited": false,
+    "full_text": "This made me think of one of my favorite characters that I've ever encountered in any book.\n\nIt's Taravangian, from @BrandSanderson's Stormlight Archive.\n\nHe captures this concept so perfectly that this is always my goto example when trying to explain this phenomenon. https://t.co/8Dk3Pkkmnb",
+    "lang": "en"
+  }
+}

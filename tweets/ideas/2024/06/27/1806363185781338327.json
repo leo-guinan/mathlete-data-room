@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1806363185781338327"
+        ],
+        "editableUntil": "2024-06-27T17:25:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/kxNhxO7g83",
+          "expanded_url": "https://x.com/baym/status/1804639805160231190",
+          "display_url": "x.com/baym/status/18…",
+          "indices": [
+            "45",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "1",
+    "id_str": "1806363185781338327",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1806363185781338327",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 27 16:25:18 +0000 2024",
+    "favorited": false,
+    "full_text": "GPT-7 will want to be a farmer on a commune. https://t.co/kxNhxO7g83",
+    "lang": "en"
+  }
+}

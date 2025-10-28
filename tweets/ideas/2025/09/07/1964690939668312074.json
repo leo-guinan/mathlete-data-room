@@ -1,0 +1,150 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1964690939668312074"
+        ],
+        "editableUntil": "2025-09-07T15:03:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1964690939668312074/photo/1",
+          "indices": [
+            "194",
+            "217"
+          ],
+          "url": "https://t.co/A5Sk8Mfl0d",
+          "media_url": "http://pbs.twimg.com/media/G0P7yxWWQAALe-O.png",
+          "id_str": "1964690712122769408",
+          "id": "1964690712122769408",
+          "media_url_https": "https://pbs.twimg.com/media/G0P7yxWWQAALe-O.png",
+          "sizes": {
+            "large": {
+              "w": "1176",
+              "h": "726",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "420",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1176",
+              "h": "726",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/A5Sk8Mfl0d"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "2",
+    "id_str": "1964690939668312074",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1964690939668312074",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 07 14:03:16 +0000 2025",
+    "favorited": false,
+    "full_text": "I'm running an edit to remove em dash structures from my essay, and I have to say, I think I like the version with em dashes more, even if it gets discounted by people because of the structure. https://t.co/A5Sk8Mfl0d",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1964690939668312074/photo/1",
+          "indices": [
+            "194",
+            "217"
+          ],
+          "url": "https://t.co/A5Sk8Mfl0d",
+          "media_url": "http://pbs.twimg.com/media/G0P7yxWWQAALe-O.png",
+          "id_str": "1964690712122769408",
+          "id": "1964690712122769408",
+          "media_url_https": "https://pbs.twimg.com/media/G0P7yxWWQAALe-O.png",
+          "sizes": {
+            "large": {
+              "w": "1176",
+              "h": "726",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "420",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1176",
+              "h": "726",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/A5Sk8Mfl0d"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1964690939668312074/photo/1",
+          "indices": [
+            "194",
+            "217"
+          ],
+          "url": "https://t.co/A5Sk8Mfl0d",
+          "media_url": "http://pbs.twimg.com/media/G0P7yzMWEAAft80.png",
+          "id_str": "1964690712617684992",
+          "id": "1964690712617684992",
+          "media_url_https": "https://pbs.twimg.com/media/G0P7yzMWEAAft80.png",
+          "sizes": {
+            "large": {
+              "w": "1476",
+              "h": "918",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "423",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "746",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/A5Sk8Mfl0d"
+        }
+      ]
+    }
+  }
+}

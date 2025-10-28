@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333849152678203399"
+        ],
+        "editableUntil": "2020-12-01T20:03:14.374Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2tq7sKrqg8",
+          "expanded_url": "https://x.com/PhineasDelgado/status/1321950165280968704",
+          "display_url": "x.com/PhineasDelgado…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "0",
+    "id_str": "1333849152678203399",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333849152678203399",
+    "possibly_sensitive": false,
+    "created_at": "Tue Dec 01 19:03:14 +0000 2020",
+    "favorited": false,
+    "full_text": "Good rules to live by. https://t.co/2tq7sKrqg8",
+    "lang": "en"
+  }
+}

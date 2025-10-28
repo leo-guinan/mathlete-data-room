@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1925571172982309136"
+        ],
+        "editableUntil": "2025-05-22T16:15:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jan Wilmake",
+          "screen_name": "janwilmake",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "153933445",
+          "id": "153933445"
+        },
+        {
+          "name": "Believe",
+          "screen_name": "believeapp",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "1849494185151168512",
+          "id": "1849494185151168512"
+        },
+        {
+          "name": "Solo Founders",
+          "screen_name": "solofounding",
+          "indices": [
+            "24",
+            "37"
+          ],
+          "id_str": "1909653948119896064",
+          "id": "1909653948119896064"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "304"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1925471336433860685",
+    "id_str": "1925571172982309136",
+    "in_reply_to_user_id": "153933445",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1925571172982309136",
+    "in_reply_to_status_id": "1925471336433860685",
+    "created_at": "Thu May 22 15:15:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@janwilmake @believeapp @solofounding The problem with crypto is that it creates an extremely noisy price signal, and that leads to inherent distrust with a lot of people now, because that was used as an easy way to target people.\n\nI would recommend using the crypto principles without the actual crypto.",
+    "lang": "en",
+    "in_reply_to_screen_name": "janwilmake",
+    "in_reply_to_user_id_str": "153933445"
+  }
+}

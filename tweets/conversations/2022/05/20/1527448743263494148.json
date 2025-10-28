@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527448743263494148"
+        ],
+        "editableUntil": "2022-05-20T01:08:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1527443540124610560",
+    "id_str": "1527448743263494148",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527448743263494148",
+    "in_reply_to_status_id": "1527443540124610560",
+    "created_at": "Fri May 20 00:38:53 +0000 2022",
+    "favorited": false,
+    "full_text": "@benjamingreeley @piva_jonas I wasn't. But I am now, thank you for sharing that \n\nI've got a lot to think about. Remote work actually solves one of the biggest issues outlined: people having to follow the opportunity.\n\nThe internet enables very interesting things...",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819395765912887504"
+        ],
+        "editableUntil": "2024-08-02T16:32:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "Noah Kagan",
+          "screen_name": "noahkagan",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "13737",
+          "id": "13737"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1819393777120718976",
+    "id_str": "1819395765912887504",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1819395765912887504",
+    "in_reply_to_status_id": "1819393777120718976",
+    "created_at": "Fri Aug 02 15:32:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli @noahkagan Wow, that's way better copy, thanks!  \n\nI can definitely see how that's way more specific than what I started with, and that gives me some ideas...\n\n(also, this is a perfect example of one of the techniques in the course. Something that AI can't do: evaluate its own output. So if…",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

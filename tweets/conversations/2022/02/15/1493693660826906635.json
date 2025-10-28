@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1493693660826906635"
+        ],
+        "editableUntil": "2022-02-15T22:08:14.884Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D7HhNtBSNJ",
+          "expanded_url": "https://x.com/RobbieBarstool/status/1493288136247586819",
+          "display_url": "x.com/RobbieBarstool…",
+          "indices": [
+            "111",
+            "134"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "id_str": "1493693660826906635",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1493693660826906635",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 15 21:08:14 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Holy shit, YES! This!\n\nGet your motivation here folks.\n\n\"The fucking shot is always worth it.\" https://t.co/D7HhNtBSNJ",
+    "lang": "en"
+  }
+}

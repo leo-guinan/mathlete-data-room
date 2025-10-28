@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1866293545717404056"
+        ],
+        "editableUntil": "2024-12-10T02:27:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kim",
+          "screen_name": "FakeName_1234",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1642068999583453184",
+          "id": "1642068999583453184"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1866292396561981896",
+    "id_str": "1866293545717404056",
+    "in_reply_to_user_id": "1642068999583453184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1866293545717404056",
+    "in_reply_to_status_id": "1866292396561981896",
+    "created_at": "Tue Dec 10 01:27:10 +0000 2024",
+    "favorited": false,
+    "full_text": "@FakeName_1234 We are at a moment in time in which we, as a human race, need to make a choice. \n\nWe can continue the violence of that past, or we can move collectively into the future. \n\nThe stakes are too high to get this wrong. \n\nAnd the answer is actually way easier than most people think.",
+    "lang": "en",
+    "in_reply_to_screen_name": "FakeName_1234",
+    "in_reply_to_user_id_str": "1642068999583453184"
+  }
+}

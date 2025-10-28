@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1624188280504832002"
+        ],
+        "editableUntil": "2023-02-10T23:57:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "92",
+            "103"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "130",
+            "144"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "146",
+            "160"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "162",
+            "176"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "210",
+            "221"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1624188280504832002/photo/1",
+          "indices": [
+            "223",
+            "246"
+          ],
+          "url": "https://t.co/VrAeRa8s8N",
+          "media_url": "http://pbs.twimg.com/media/FopGWCTWAAEv2rC.jpg",
+          "id_str": "1624187960009555969",
+          "id": "1624187960009555969",
+          "media_url_https": "https://pbs.twimg.com/media/FopGWCTWAAEv2rC.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "314",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "555",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "947",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VrAeRa8s8N"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "15",
+            "32"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "246"
+    ],
+    "favorite_count": "12",
+    "id_str": "1624188280504832002",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1624188280504832002",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 10 23:27:16 +0000 2023",
+    "favorited": false,
+    "full_text": "Did a recorded #ADHDWithBenefits tonight. The topic: Resilience.\n\nCheck out that episode of @LobowSpark when it drops.\n\nFeaturing @MechiMansilla, @tshubillabong, @TheKookamonga, @DorseyMc, and the one and only @LobowSpark! https://t.co/VrAeRa8s8N",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1624188280504832002/photo/1",
+          "indices": [
+            "223",
+            "246"
+          ],
+          "url": "https://t.co/VrAeRa8s8N",
+          "media_url": "http://pbs.twimg.com/media/FopGWCTWAAEv2rC.jpg",
+          "id_str": "1624187960009555969",
+          "id": "1624187960009555969",
+          "media_url_https": "https://pbs.twimg.com/media/FopGWCTWAAEv2rC.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "314",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "555",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "947",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VrAeRa8s8N"
+        }
+      ]
+    }
+  }
+}

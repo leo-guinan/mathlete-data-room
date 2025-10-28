@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328027897844600835"
+        ],
+        "editableUntil": "2020-11-15T18:31:39.068Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CBS News",
+          "screen_name": "CBSNews",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "15012486",
+          "id": "15012486"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/k1tFyCbxk0",
+          "expanded_url": "https://cbsn.ws/3lyHvBr",
+          "display_url": "cbsn.ws/3lyHvBr",
+          "indices": [
+            "93",
+            "116"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328027897844600835",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328027897844600835",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 17:31:39 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @CBSNews: Florida man becomes first person with Down syndrome to finish Ironman triathlon https://t.co/k1tFyCbxk0",
+    "lang": "en"
+  }
+}

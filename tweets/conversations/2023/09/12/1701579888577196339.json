@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1701579888577196339"
+        ],
+        "editableUntil": "2023-09-12T13:53:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "25",
+            "36"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/phqv9LhcXh",
+          "expanded_url": "https://open.substack.com/pub/internetfactory/p/revising-your-vision?r=evblp&utm_campaign=post&utm_medium=web",
+          "display_url": "open.substack.com/pub/internetfa…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "id_str": "1701579888577196339",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1701579888577196339",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 12 12:53:53 +0000 2023",
+    "favorited": false,
+    "full_text": "Revising Your Vision, by @leo_guinan https://t.co/phqv9LhcXh",
+    "lang": "en"
+  }
+}

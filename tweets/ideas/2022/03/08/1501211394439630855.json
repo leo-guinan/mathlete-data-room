@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1501211394439630855"
+        ],
+        "editableUntil": "2022-03-08T16:01:02.250Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pFV8xveB3Q",
+          "expanded_url": "https://x.com/CSMikeCardona/status/1495794211286884352",
+          "display_url": "x.com/CSMikeCardona/…",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "3",
+    "id_str": "1501211394439630855",
+    "truncated": false,
+    "retweet_count": "3",
+    "id": "1501211394439630855",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 08 15:01:02 +0000 2022",
+    "favorited": false,
+    "full_text": "Really excited for this email course.\n\nThis is one of the areas I'm interested in watching: scaling nocode systems. https://t.co/pFV8xveB3Q",
+    "lang": "en"
+  }
+}

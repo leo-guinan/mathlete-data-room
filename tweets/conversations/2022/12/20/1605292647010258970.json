@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1605292647010258970"
+        ],
+        "editableUntil": "2022-12-20T20:32:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Samantha Postman",
+          "screen_name": "SamanthaPostman",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "951591875441381376",
+          "id": "951591875441381376"
+        },
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vyJd89rQ5g",
+          "expanded_url": "https://x.com/leo_guinan/status/1605216022696382464?s=20&t=SVMRHeuWi5_w3yHCJPq_xg",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "118",
+            "141"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "141"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1605291196146143232",
+    "id_str": "1605292647010258970",
+    "in_reply_to_user_id": "951591875441381376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1605292647010258970",
+    "in_reply_to_status_id": "1605291196146143232",
+    "possibly_sensitive": false,
+    "created_at": "Tue Dec 20 20:02:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@SamanthaPostman @elonmusk I've given this a lot of thought actually. Here are the first set of changes I would make: https://t.co/vyJd89rQ5g",
+    "lang": "en",
+    "in_reply_to_screen_name": "SamanthaPostman",
+    "in_reply_to_user_id_str": "951591875441381376"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1667314333850664962"
+        ],
+        "editableUntil": "2023-06-10T00:34:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        },
+        {
+          "name": "Avrila, dodging COVID round 2",
+          "screen_name": "AvrilaWrites",
+          "indices": [
+            "8",
+            "21"
+          ],
+          "id_str": "3139212492",
+          "id": "3139212492"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "237"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1667270770983071744",
+    "id_str": "1667314333850664962",
+    "in_reply_to_user_id": "5614412",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1667314333850664962",
+    "in_reply_to_status_id": "1667270770983071744",
+    "created_at": "Fri Jun 09 23:34:49 +0000 2023",
+    "favorited": false,
+    "full_text": "@mykola @AvrilaWrites You have to set reminders on Calendly for each event (found this out after I had a no show and double checked)\n\nCan also ask for cell # to text reminders, iirc, but email alone usually improves showing up a good bit",
+    "lang": "en",
+    "in_reply_to_screen_name": "mykola",
+    "in_reply_to_user_id_str": "5614412"
+  }
+}

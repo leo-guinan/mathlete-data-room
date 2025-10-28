@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327769301055647746"
+        ],
+        "editableUntil": "2020-11-15T01:24:04.789Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shreyas Doshi",
+          "screen_name": "shreyas",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "2048741",
+          "id": "2048741"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1327769301055647746",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327769301055647746",
+    "created_at": "Sun Nov 15 00:24:04 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @shreyas: Let’s talk about High Agency: an attitude I’ve seen in every successful product manager &amp; leader I’ve known.\n\nSome ppl are bor…",
+    "lang": "en"
+  }
+}

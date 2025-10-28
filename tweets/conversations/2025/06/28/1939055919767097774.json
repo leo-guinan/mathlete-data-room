@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939055919767097774"
+        ],
+        "editableUntil": "2025-06-28T21:18:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "S.A. Senchal",
+          "screen_name": "samsenchal",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1519046588865421318",
+          "id": "1519046588865421318"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vRsjLCWT5L",
+          "expanded_url": "https://www.buildinpublicuniversity.com/why-every-future-proof-network-needs-a-god-node/",
+          "display_url": "buildinpublicuniversity.com/why-every-futu…",
+          "indices": [
+            "143",
+            "166"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1938998305691734353",
+    "id_str": "1939055919767097774",
+    "in_reply_to_user_id": "1519046588865421318",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939055919767097774",
+    "in_reply_to_status_id": "1938998305691734353",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 28 20:18:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@samsenchal Here's a really narrow view of it that I think you'll appreciate. You might be able to integrate it into your larger argument too.\nhttps://t.co/vRsjLCWT5L",
+    "lang": "en",
+    "in_reply_to_screen_name": "samsenchal",
+    "in_reply_to_user_id_str": "1519046588865421318"
+  }
+}

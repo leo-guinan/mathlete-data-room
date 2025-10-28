@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513850953329524738"
+        ],
+        "editableUntil": "2022-04-12T13:06:07.921Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1513850953329524738/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/aK58bzKfjD",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQJHanVWQAY7nY2.jpg",
+          "id_str": "1513850947310600198",
+          "id": "1513850947310600198",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQJHanVWQAY7nY2.jpg",
+          "sizes": {
+            "large": {
+              "w": "280",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "280",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "280",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/aK58bzKfjD"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "167"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1513849669604229125",
+    "id_str": "1513850953329524738",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513850953329524738",
+    "in_reply_to_status_id": "1513849669604229125",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 12 12:06:07 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go Play can be a goal.\n\nTeaching others to play can be a goal. \n\nI see your goals in action even if you've never explicitly stated them. https://t.co/aK58bzKfjD",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1513850953329524738/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/aK58bzKfjD",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FQJHanVWQAY7nY2.jpg",
+          "id_str": "1513850947310600198",
+          "video_info": {
+            "aspect_ratio": [
+              "140",
+              "249"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FQJHanVWQAY7nY2.mp4"
+              }
+            ]
+          },
+          "id": "1513850947310600198",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FQJHanVWQAY7nY2.jpg",
+          "sizes": {
+            "large": {
+              "w": "280",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "280",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "280",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/aK58bzKfjD"
+        }
+      ]
+    }
+  }
+}

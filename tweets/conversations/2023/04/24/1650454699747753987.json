@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1650454699747753987"
+        ],
+        "editableUntil": "2023-04-24T11:30:39.042Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Interintellect 🧭",
+          "screen_name": "interintellect_",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1125154247874633735",
+          "id": "1125154247874633735"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1650454699747753987",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1650454699747753987",
+    "created_at": "Mon Apr 24 11:00:39 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @interintellect_: The new social media platform Bluesky is all the rage. A kind of decentralized Twitter, just better, fairer, it’s run…",
+    "lang": "en"
+  }
+}

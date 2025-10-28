@@ -1,0 +1,166 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1649901709685141513"
+        ],
+        "editableUntil": "2023-04-22T22:53:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Choose Your Algorithm",
+          "screen_name": "ChooseYourAlgo",
+          "indices": [
+            "117",
+            "132"
+          ],
+          "id_str": "1613997408190402580",
+          "id": "1613997408190402580"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "266",
+            "278"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1649901709685141513/video/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/uIDu5uLXQz",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1649901188773543937/pu/img/XxZOElFSo7B-L2bz.jpg",
+          "id_str": "1649901188773543937",
+          "id": "1649901188773543937",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1649901188773543937/pu/img/XxZOElFSo7B-L2bz.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uIDu5uLXQz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "3",
+    "id_str": "1649901709685141513",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1649901709685141513",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 22 22:23:15 +0000 2023",
+    "favorited": false,
+    "full_text": "Creators: what if you could optimize for your own search engine?\n\nYou totally can.\n\nCheck out the newest features on @ChooseYourAlgo\n\n(Also, if you want to start building your own, send me a DM. I'm working with a few creators to start, but there's room for more!)\n\n@_buildspace https://t.co/uIDu5uLXQz",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1649901709685141513/video/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/uIDu5uLXQz",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1649901188773543937/pu/img/XxZOElFSo7B-L2bz.jpg",
+          "id_str": "1649901188773543937",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "54120",
+            "variants": [
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1649901188773543937/pu/vid/640x360/YutvdofFgcdw9g4J.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1649901188773543937/pu/pl/WfmhaX9pzUUzQAgH.m3u8?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1649901188773543937/pu/vid/1280x720/mWLRVPRr9xwhzNxR.mp4?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1649901188773543937/pu/vid/480x270/w-sZfl2DuIW8NhVJ.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1649901188773543937",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1649901188773543937/pu/img/XxZOElFSo7B-L2bz.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/uIDu5uLXQz"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973951086986998022"
+        ],
+        "editableUntil": "2025-10-03T04:19:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Metalabel",
+          "screen_name": "metalabel_",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1457805004614557696",
+          "id": "1457805004614557696"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6cwJ0Ka8rr",
+          "expanded_url": "https://buildinpublic-s663.metalabel.com/bottega_1010?variantId=1",
+          "display_url": "buildinpublic-s663.metalabel.com/bottega_1010?v…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1973950823399829848",
+    "id_str": "1973951086986998022",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973951086986998022",
+    "in_reply_to_status_id": "1973950823399829848",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 03 03:19:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@metalabel_ You can grab yours here: https://t.co/6cwJ0Ka8rr\n\nFirst deliverable is an AI cofounder. I'm testing v1 out as this launch.\n\nIt's better than I hoped.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

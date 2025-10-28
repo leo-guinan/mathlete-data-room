@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1586428711142060032"
+        ],
+        "editableUntil": "2022-10-29T19:14:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fXYEq9m1jG",
+          "expanded_url": "https://x.com/dagorenouf/status/1585989043820449792",
+          "display_url": "x.com/dagorenouf/sta…",
+          "indices": [
+            "44",
+            "67"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "2",
+    "id_str": "1586428711142060032",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1586428711142060032",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 29 18:44:13 +0000 2022",
+    "favorited": false,
+    "full_text": "Great opportunity to learn from the best!!! https://t.co/fXYEq9m1jG",
+    "lang": "en"
+  }
+}

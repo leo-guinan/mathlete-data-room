@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1891533656021401709"
+        ],
+        "editableUntil": "2025-02-17T18:02:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dan Shipper 📧",
+          "screen_name": "danshipper",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "19829693",
+          "id": "19829693"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "5",
+    "in_reply_to_status_id_str": "1891529478146318665",
+    "id_str": "1891533656021401709",
+    "in_reply_to_user_id": "19829693",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1891533656021401709",
+    "in_reply_to_status_id": "1891529478146318665",
+    "created_at": "Mon Feb 17 17:02:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@danshipper The funny thing is that this is a simple solution when people think about it.\n\nThe efficiency gains in time should be used to upskill junior developers faster.\n\nAs I design my company structure, I'm looking at how to quickly put people in systems that allow them to maximize the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "danshipper",
+    "in_reply_to_user_id_str": "19829693"
+  }
+}

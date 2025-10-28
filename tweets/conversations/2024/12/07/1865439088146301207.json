@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1865439088146301207"
+        ],
+        "editableUntil": "2024-12-07T17:51:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hunter Glenn",
+          "screen_name": "HunterGlenn",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "45068743",
+          "id": "45068743"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "59",
+            "75"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "187"
+    ],
+    "favorite_count": "12",
+    "in_reply_to_status_id_str": "1865399275158405210",
+    "id_str": "1865439088146301207",
+    "in_reply_to_user_id": "45068743",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1865439088146301207",
+    "in_reply_to_status_id": "1865399275158405210",
+    "created_at": "Sat Dec 07 16:51:51 +0000 2024",
+    "favorited": false,
+    "full_text": "@HunterGlenn I followed you because I'm a huge fan of what @DefenderOfBasic is doing and I think your description of it is perfect.\n\nCoordination is the goal. We are all on the same team.",
+    "lang": "en",
+    "in_reply_to_screen_name": "HunterGlenn",
+    "in_reply_to_user_id_str": "45068743"
+  }
+}

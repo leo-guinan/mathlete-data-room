@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897769210970784053"
+        ],
+        "editableUntil": "2025-03-06T23:00:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Joshua 💫",
+          "screen_name": "workflowsauce",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1750574343615320065",
+          "id": "1750574343615320065"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "295"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1897743974158549184",
+    "id_str": "1897769210970784053",
+    "in_reply_to_user_id": "1750574343615320065",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897769210970784053",
+    "in_reply_to_status_id": "1897743974158549184",
+    "created_at": "Thu Mar 06 22:00:13 +0000 2025",
+    "favorited": false,
+    "full_text": "@workflowsauce Ah, sorry. That wasn't actually meant to be dystopian, simply a recognition of the actual problem.\n\nI didn't think of it as dystopian, because today is the same day I'm releasing the patch.\n\nIt will soon be much easier to stick to a path that you feel is valuable, whether or not…",
+    "lang": "en",
+    "in_reply_to_screen_name": "workflowsauce",
+    "in_reply_to_user_id_str": "1750574343615320065"
+  }
+}

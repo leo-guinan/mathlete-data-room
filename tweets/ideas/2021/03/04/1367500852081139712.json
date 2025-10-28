@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1367500852081139712"
+        ],
+        "editableUntil": "2021-03-04T16:43:04.730Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BuildInPublic",
+          "indices": [
+            "23",
+            "37"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/zNCqKZwstX",
+          "expanded_url": "https://x.com/nikita_builds/status/1367315866153549824",
+          "display_url": "x.com/nikita_builds/…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "4",
+    "id_str": "1367500852081139712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1367500852081139712",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 04 15:43:04 +0000 2021",
+    "favorited": false,
+    "full_text": "This is how it's done. #BuildInPublic https://t.co/zNCqKZwstX",
+    "lang": "en"
+  }
+}

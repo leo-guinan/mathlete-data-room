@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1401166854064951305"
+        ],
+        "editableUntil": "2021-06-05T14:19:45.087Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dee",
+          "screen_name": "ADDeeCee",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "18023295",
+          "id": "18023295"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1401166854064951305",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1401166854064951305",
+    "created_at": "Sat Jun 05 13:19:45 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ADDeeCee: I find it so...interesting 😒 that communicating by subtext, implication, irony, etc...are all considered somehow higher-level…",
+    "lang": "en"
+  }
+}

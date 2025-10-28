@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819153515518087399"
+        ],
+        "editableUntil": "2024-08-02T00:29:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim Fanara",
+          "screen_name": "jimfanara",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1271253394343288833",
+          "id": "1271253394343288833"
+        },
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "11",
+            "20"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bIWxDvXYdx",
+          "expanded_url": "https://chat.leoguinan.ai",
+          "display_url": "chat.leoguinan.ai",
+          "indices": [
+            "94",
+            "117"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "267"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1819153075413963005",
+    "id_str": "1819153515518087399",
+    "in_reply_to_user_id": "1271253394343288833",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1819153515518087399",
+    "in_reply_to_status_id": "1819153075413963005",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 01 23:29:30 +0000 2024",
+    "favorited": false,
+    "full_text": "@jimfanara @finereli Awesome! Definitely let me know what you think.\n\nAlso, if you sign up at https://t.co/bIWxDvXYdx, you can chat with the digital me and surface content from my newsletter, blog, or youtube channel (actually used it to quickly find that video haha)",
+    "lang": "en",
+    "in_reply_to_screen_name": "jimfanara",
+    "in_reply_to_user_id_str": "1271253394343288833"
+  }
+}

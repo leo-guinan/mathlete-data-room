@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761087695101603871"
+        ],
+        "editableUntil": "2024-02-23T18:56:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "sari azout",
+          "screen_name": "sariazout",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "34724786",
+          "id": "34724786"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "281"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1761087142346826027",
+    "id_str": "1761087695101603871",
+    "in_reply_to_user_id": "34724786",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761087695101603871",
+    "in_reply_to_status_id": "1761087142346826027",
+    "created_at": "Fri Feb 23 17:56:40 +0000 2024",
+    "favorited": false,
+    "full_text": "@sariazout I think it's definitely uncommon.\n\nAnd I think it's a great answer. We focus on data against all else, but the data we can mentally hold is nowhere near the capacity our gut can hold.\n\nA well-trained gut can beat any mind. The gut knows first before the mind catches up.",
+    "lang": "en",
+    "in_reply_to_screen_name": "sariazout",
+    "in_reply_to_user_id_str": "34724786"
+  }
+}

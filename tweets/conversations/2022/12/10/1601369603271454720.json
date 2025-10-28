@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1601369603271454720"
+        ],
+        "editableUntil": "2022-12-10T00:44:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1601369603271454720/photo/1",
+          "indices": [
+            "151",
+            "174"
+          ],
+          "url": "https://t.co/bMhw2Fm30N",
+          "media_url": "http://pbs.twimg.com/media/Fjk1IwtXkAYbxSI.jpg",
+          "id_str": "1601369567137337350",
+          "id": "1601369567137337350",
+          "media_url_https": "https://pbs.twimg.com/media/Fjk1IwtXkAYbxSI.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bMhw2Fm30N"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "174"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1601369597721989121",
+    "id_str": "1601369603271454720",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1601369603271454720",
+    "in_reply_to_status_id": "1601369597721989121",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 10 00:14:00 +0000 2022",
+    "favorited": false,
+    "full_text": "Also, for reasons that will only make sense to attendees, here is a plant with a tail and an eagle screaming about how happy it is about its freedoms. https://t.co/bMhw2Fm30N",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1601369603271454720/photo/1",
+          "indices": [
+            "151",
+            "174"
+          ],
+          "url": "https://t.co/bMhw2Fm30N",
+          "media_url": "http://pbs.twimg.com/media/Fjk1IwtXkAYbxSI.jpg",
+          "id_str": "1601369567137337350",
+          "id": "1601369567137337350",
+          "media_url_https": "https://pbs.twimg.com/media/Fjk1IwtXkAYbxSI.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bMhw2Fm30N"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1601369603271454720/photo/1",
+          "indices": [
+            "151",
+            "174"
+          ],
+          "url": "https://t.co/bMhw2Fm30N",
+          "media_url": "http://pbs.twimg.com/media/Fjk1Iw_X0AAOgrO.jpg",
+          "id_str": "1601369567212851200",
+          "id": "1601369567212851200",
+          "media_url_https": "https://pbs.twimg.com/media/Fjk1Iw_X0AAOgrO.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bMhw2Fm30N"
+        }
+      ]
+    }
+  }
+}

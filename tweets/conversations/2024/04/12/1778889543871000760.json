@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1778889543871000760"
+        ],
+        "editableUntil": "2024-04-12T21:54:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "18",
+    "in_reply_to_status_id_str": "1778887559474495624",
+    "id_str": "1778889543871000760",
+    "in_reply_to_user_id": "183749519",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1778889543871000760",
+    "in_reply_to_status_id": "1778887559474495624",
+    "created_at": "Fri Apr 12 20:54:52 +0000 2024",
+    "favorited": false,
+    "full_text": "@paulg I do want to push back just a little on this, because I think while that has been traditionally true, it's mostly because of the way we've attempted to increase the efficiency of communication by compressing things as much as possible.\n\nBut with more information available to us,…",
+    "lang": "en",
+    "in_reply_to_screen_name": "paulg",
+    "in_reply_to_user_id_str": "183749519"
+  }
+}

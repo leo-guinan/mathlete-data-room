@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1603400461335203840"
+        ],
+        "editableUntil": "2022-12-15T15:13:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ashley Balstad",
+          "screen_name": "AshleyBalstad",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "485826507",
+          "id": "485826507"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1603113506089353224",
+    "id_str": "1603400461335203840",
+    "in_reply_to_user_id": "485826507",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1603400461335203840",
+    "in_reply_to_status_id": "1603113506089353224",
+    "created_at": "Thu Dec 15 14:43:54 +0000 2022",
+    "favorited": false,
+    "full_text": "@AshleyBalstad Love it. When you are able to align decisions with your goals explicitly, it makes those decisions a lot easier, doesn't it?",
+    "lang": "en",
+    "in_reply_to_screen_name": "AshleyBalstad",
+    "in_reply_to_user_id_str": "485826507"
+  }
+}

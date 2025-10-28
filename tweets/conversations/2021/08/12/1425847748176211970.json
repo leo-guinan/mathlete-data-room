@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425847748176211970"
+        ],
+        "editableUntil": "2021-08-12T16:52:48.792Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Kirby",
+          "screen_name": "IAmAndrewKirby",
+          "indices": [
+            "42",
+            "57"
+          ],
+          "id_str": "1235254274868875265",
+          "id": "1235254274868875265"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "179"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1425847746833960961",
+    "id_str": "1425847748176211970",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425847748176211970",
+    "in_reply_to_status_id": "1425847746833960961",
+    "created_at": "Thu Aug 12 15:52:48 +0000 2021",
+    "favorited": false,
+    "full_text": "Just some observations I've made.\n\nH/T to @IAmAndrewKirby for tagging me on a question about communities and triggering these thoughts. That's an example of how networks can work.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

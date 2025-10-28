@@ -1,0 +1,183 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330243571786670080"
+        ],
+        "editableUntil": "2020-11-21T21:15:56.901Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eshan Shetty",
+          "screen_name": "eshan_shetty",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "784057265158516736",
+          "id": "784057265158516736"
+        },
+        {
+          "name": "Chris Sacca 🇺🇸",
+          "screen_name": "sacca",
+          "indices": [
+            "14",
+            "20"
+          ],
+          "id_str": "586",
+          "id": "586"
+        },
+        {
+          "name": "Vinod Khosla",
+          "screen_name": "vkhosla",
+          "indices": [
+            "21",
+            "29"
+          ],
+          "id_str": "42226885",
+          "id": "42226885"
+        },
+        {
+          "name": "Roelof Botha",
+          "screen_name": "roelofbotha",
+          "indices": [
+            "30",
+            "42"
+          ],
+          "id_str": "1190051",
+          "id": "1190051"
+        },
+        {
+          "name": "Tim Draper",
+          "screen_name": "TimDraper",
+          "indices": [
+            "43",
+            "53"
+          ],
+          "id_str": "20884310",
+          "id": "20884310"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1330243571786670080/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/c3frdJbCRr",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EnX5eJAXMAIImO-.jpg",
+          "id_str": "1330243561166680066",
+          "id": "1330243561166680066",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnX5eJAXMAIImO-.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "374",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "500",
+              "h": "374",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "374",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/c3frdJbCRr"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1330243011477970945",
+    "id_str": "1330243571786670080",
+    "in_reply_to_user_id": "784057265158516736",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330243571786670080",
+    "in_reply_to_status_id": "1330243011477970945",
+    "possibly_sensitive": false,
+    "created_at": "Sat Nov 21 20:15:56 +0000 2020",
+    "favorited": false,
+    "full_text": "@eshan_shetty @sacca @vkhosla @roelofbotha @TimDraper Happy birthday! https://t.co/c3frdJbCRr",
+    "lang": "en",
+    "in_reply_to_screen_name": "eshan_shetty",
+    "in_reply_to_user_id_str": "784057265158516736",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1330243571786670080/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/c3frdJbCRr",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EnX5eJAXMAIImO-.jpg",
+          "id_str": "1330243561166680066",
+          "video_info": {
+            "aspect_ratio": [
+              "250",
+              "187"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EnX5eJAXMAIImO-.mp4"
+              }
+            ]
+          },
+          "id": "1330243561166680066",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EnX5eJAXMAIImO-.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "374",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "500",
+              "h": "374",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "374",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/c3frdJbCRr"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1577768672650793006"
+        ],
+        "editableUntil": "2022-10-05T21:42:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "16"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1577744595303153664",
+    "id_str": "1577768672650793006",
+    "in_reply_to_user_id": "45851500",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1577768672650793006",
+    "in_reply_to_status_id": "1577744595303153664",
+    "created_at": "Wed Oct 05 21:12:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@jayclouse Done!",
+    "lang": "en",
+    "in_reply_to_screen_name": "jayclouse",
+    "in_reply_to_user_id_str": "45851500"
+  }
+}

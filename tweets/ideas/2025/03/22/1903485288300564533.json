@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1903485288300564533"
+        ],
+        "editableUntil": "2025-03-22T17:33:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1404nqIEiq",
+          "expanded_url": "https://x.com/notpuang/status/1903397349017161909",
+          "display_url": "x.com/notpuang/statu…",
+          "indices": [
+            "40",
+            "63"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1903485288300564533/photo/1",
+          "indices": [
+            "64",
+            "87"
+          ],
+          "url": "https://t.co/meuBDAfeJa",
+          "media_url": "http://pbs.twimg.com/media/GmqJnn5XQAAcbLC.jpg",
+          "id_str": "1903485106334941184",
+          "id": "1903485106334941184",
+          "media_url_https": "https://pbs.twimg.com/media/GmqJnn5XQAAcbLC.jpg",
+          "sizes": {
+            "large": {
+              "w": "1190",
+              "h": "1176",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "672",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1190",
+              "h": "1176",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/meuBDAfeJa"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "87"
+    ],
+    "favorite_count": "2",
+    "id_str": "1903485288300564533",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1903485288300564533",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 22 16:33:52 +0000 2025",
+    "favorited": false,
+    "full_text": "\"quirky\" aka weird. \n\nCan't argue. 🤷‍♂️ https://t.co/1404nqIEiq https://t.co/meuBDAfeJa",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1903485288300564533/photo/1",
+          "indices": [
+            "64",
+            "87"
+          ],
+          "url": "https://t.co/meuBDAfeJa",
+          "media_url": "http://pbs.twimg.com/media/GmqJnn5XQAAcbLC.jpg",
+          "id_str": "1903485106334941184",
+          "id": "1903485106334941184",
+          "media_url_https": "https://pbs.twimg.com/media/GmqJnn5XQAAcbLC.jpg",
+          "sizes": {
+            "large": {
+              "w": "1190",
+              "h": "1176",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "672",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1190",
+              "h": "1176",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/meuBDAfeJa"
+        }
+      ]
+    }
+  }
+}

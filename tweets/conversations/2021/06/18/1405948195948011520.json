@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1405948195948011520"
+        ],
+        "editableUntil": "2021-06-18T18:59:05.825Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Erik Torenberg",
+          "screen_name": "eriktorenberg",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1475495658",
+          "id": "1475495658"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "190"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1405948194693910529",
+    "id_str": "1405948195948011520",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1405948195948011520",
+    "in_reply_to_status_id": "1405948194693910529",
+    "created_at": "Fri Jun 18 17:59:05 +0000 2021",
+    "favorited": false,
+    "full_text": "@eriktorenberg talked about what's included as the college bundle. \n\n1. Education\n2. Network\n3. Friendships\n4. Dating Market\n5. Co-living\n6. Sports\n7. Coming-of-age\n8. Prestige\n9. Credential",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1672595372844130309"
+        ],
+        "editableUntil": "2023-06-24T14:19:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "83",
+            "94"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "109",
+            "121"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        },
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "123",
+            "139"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "ADHD Designer 🟣👩🏻‍💻",
+          "screen_name": "ADHDdesigner",
+          "indices": [
+            "141",
+            "154"
+          ],
+          "id_str": "1270519607846109184",
+          "id": "1270519607846109184"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "169",
+            "185"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        },
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "187",
+            "201"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        },
+        {
+          "name": "Geraint Evans is: AuDHD",
+          "screen_name": "GeraintWorks",
+          "indices": [
+            "203",
+            "216"
+          ],
+          "id_str": "884124935026814976",
+          "id": "884124935026814976"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "222",
+            "236"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1672595372844130309/photo/1",
+          "indices": [
+            "238",
+            "261"
+          ],
+          "url": "https://t.co/bxPCAWowMd",
+          "media_url": "http://pbs.twimg.com/media/FzY_3ZWXwAITfCr.jpg",
+          "id_str": "1672594532544790530",
+          "id": "1672594532544790530",
+          "media_url_https": "https://pbs.twimg.com/media/FzY_3ZWXwAITfCr.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "395",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1191",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "698",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bxPCAWowMd"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "48",
+            "65"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "10",
+    "id_str": "1672595372844130309",
+    "truncated": false,
+    "retweet_count": "4",
+    "id": "1672595372844130309",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 24 13:19:46 +0000 2023",
+    "favorited": false,
+    "full_text": "Had a great group recording last night with the #ADHDWithBenefits crew!\n\nFeaturing @LobowSpark, the chair of @UntappedKeg, @BlushingCrafter, @ADHDDesigner, the chair of @JustinAllingham, @TheKookamonga, @GeraintWorks, and @tshubillabong! https://t.co/bxPCAWowMd",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1672595372844130309/photo/1",
+          "indices": [
+            "238",
+            "261"
+          ],
+          "url": "https://t.co/bxPCAWowMd",
+          "media_url": "http://pbs.twimg.com/media/FzY_3ZWXwAITfCr.jpg",
+          "id_str": "1672594532544790530",
+          "id": "1672594532544790530",
+          "media_url_https": "https://pbs.twimg.com/media/FzY_3ZWXwAITfCr.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "395",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1191",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "698",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bxPCAWowMd"
+        }
+      ]
+    }
+  }
+}

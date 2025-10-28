@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1976484818763526217"
+        ],
+        "editableUntil": "2025-10-10T04:07:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1976484818763526217/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/ve2hbCdmC9",
+          "media_url": "http://pbs.twimg.com/media/G23iKyZX0AEPUT0.jpg",
+          "id_str": "1976484486440275969",
+          "id": "1976484486440275969",
+          "media_url_https": "https://pbs.twimg.com/media/G23iKyZX0AEPUT0.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ve2hbCdmC9"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "2",
+    "id_str": "1976484818763526217",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1976484818763526217",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 10 03:07:56 +0000 2025",
+    "favorited": false,
+    "full_text": "I don’t think I’ve ever appreciated a county fair the way I do the one this year. \n\nI found some of the magic I was missing here. \n\nIt’s really cool to experience 4H through my kids. https://t.co/ve2hbCdmC9",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1976484818763526217/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/ve2hbCdmC9",
+          "media_url": "http://pbs.twimg.com/media/G23iKyZX0AEPUT0.jpg",
+          "id_str": "1976484486440275969",
+          "id": "1976484486440275969",
+          "media_url_https": "https://pbs.twimg.com/media/G23iKyZX0AEPUT0.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ve2hbCdmC9"
+        }
+      ]
+    }
+  }
+}

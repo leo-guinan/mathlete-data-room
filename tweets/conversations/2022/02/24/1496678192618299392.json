@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1496678192618299392"
+        ],
+        "editableUntil": "2022-02-24T03:47:42.713Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Xavier Helgesen",
+          "screen_name": "XavierHelgesen",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "968341850145918981",
+          "id": "968341850145918981"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "259"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1496173523668463617",
+    "id_str": "1496678192618299392",
+    "in_reply_to_user_id": "968341850145918981",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1496678192618299392",
+    "in_reply_to_status_id": "1496173523668463617",
+    "created_at": "Thu Feb 24 02:47:42 +0000 2022",
+    "favorited": false,
+    "full_text": "@XavierHelgesen helping people build stronger, more meaningful relationships on Twitter with @feathercrm\n\nBetter metrics and tools that help you connect with the people you care the most about.\n\nForget followers and likes. Build relationships with @feathercrm",
+    "lang": "en",
+    "in_reply_to_screen_name": "XavierHelgesen",
+    "in_reply_to_user_id_str": "968341850145918981"
+  }
+}

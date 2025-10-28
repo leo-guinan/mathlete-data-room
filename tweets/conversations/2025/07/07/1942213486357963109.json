@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942213486357963109"
+        ],
+        "editableUntil": "2025-07-07T14:25:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "daniel scott mitchell",
+          "screen_name": "TheDanielMitch",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3027227645",
+          "id": "3027227645"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "26"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942092268720070842",
+    "id_str": "1942213486357963109",
+    "in_reply_to_user_id": "3027227645",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942213486357963109",
+    "in_reply_to_status_id": "1942092268720070842",
+    "created_at": "Mon Jul 07 13:25:54 +0000 2025",
+    "favorited": false,
+    "full_text": "@TheDanielMitch 🍻 love it!",
+    "lang": "en",
+    "in_reply_to_screen_name": "TheDanielMitch",
+    "in_reply_to_user_id_str": "3027227645"
+  }
+}

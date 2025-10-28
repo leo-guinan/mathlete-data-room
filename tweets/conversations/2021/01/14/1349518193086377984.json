@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1349518193086377984"
+        ],
+        "editableUntil": "2021-01-14T01:46:24.724Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "VC Unlocked",
+          "screen_name": "vcunlocked",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "1121191426241392641",
+          "id": "1121191426241392641"
+        },
+        {
+          "name": "Venture University",
+          "screen_name": "VentureUniv",
+          "indices": [
+            "24",
+            "36"
+          ],
+          "id_str": "936293369457889280",
+          "id": "936293369457889280"
+        },
+        {
+          "name": "HBCUvc",
+          "screen_name": "HBCUvc",
+          "indices": [
+            "37",
+            "44"
+          ],
+          "id_str": "3763396092",
+          "id": "3763396092"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1349513047044452352",
+    "id_str": "1349518193086377984",
+    "in_reply_to_user_id": "41519559",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1349518193086377984",
+    "in_reply_to_status_id": "1349513047044452352",
+    "created_at": "Thu Jan 14 00:46:24 +0000 2021",
+    "favorited": false,
+    "full_text": "@GaleBowman @vcunlocked @VentureUniv @HBCUvc One thought that came to mind: find someone you want to invest in. Try to find someone to invest the money with you getting on the cap table as a sort of finder's fee. \n\nJust spitballing here. I am new to the VC world as a founder.",
+    "lang": "en",
+    "in_reply_to_screen_name": "galeforceVC",
+    "in_reply_to_user_id_str": "41519559"
+  }
+}

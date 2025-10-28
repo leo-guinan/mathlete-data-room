@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1672966699040100355"
+        ],
+        "editableUntil": "2023-06-25T14:55:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "0",
+    "id_str": "1672966699040100355",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1672966699040100355",
+    "created_at": "Sun Jun 25 13:55:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Was able to get my automation all set up yesterday for writing blog post drafts, although when I tried to kick them all off, j crashed my N8N server.\n\nWhoops 🤭",
+    "lang": "en"
+  }
+}

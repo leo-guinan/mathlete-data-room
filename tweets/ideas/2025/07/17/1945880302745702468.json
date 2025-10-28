@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1945880302745702468"
+        ],
+        "editableUntil": "2025-07-17T17:16:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1945880302745702468/photo/1",
+          "indices": [
+            "105",
+            "128"
+          ],
+          "url": "https://t.co/uzHlrHCVPh",
+          "media_url": "http://pbs.twimg.com/media/GwEnj-dWUAIUkTu.png",
+          "id_str": "1945880013015764994",
+          "id": "1945880013015764994",
+          "media_url_https": "https://pbs.twimg.com/media/GwEnj-dWUAIUkTu.png",
+          "sizes": {
+            "large": {
+              "w": "1648",
+              "h": "906",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "660",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "374",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uzHlrHCVPh"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "3",
+    "id_str": "1945880302745702468",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1945880302745702468",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 17 16:16:31 +0000 2025",
+    "favorited": false,
+    "full_text": "in case you're wondering, here's what's going on right now.\n\nit's gonna get worse before it gets better. https://t.co/uzHlrHCVPh",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1945880302745702468/photo/1",
+          "indices": [
+            "105",
+            "128"
+          ],
+          "url": "https://t.co/uzHlrHCVPh",
+          "media_url": "http://pbs.twimg.com/media/GwEnj-dWUAIUkTu.png",
+          "id_str": "1945880013015764994",
+          "id": "1945880013015764994",
+          "media_url_https": "https://pbs.twimg.com/media/GwEnj-dWUAIUkTu.png",
+          "sizes": {
+            "large": {
+              "w": "1648",
+              "h": "906",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "660",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "374",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uzHlrHCVPh"
+        }
+      ]
+    }
+  }
+}

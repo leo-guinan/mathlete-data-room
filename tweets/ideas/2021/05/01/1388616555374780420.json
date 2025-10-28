@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1388616555374780420"
+        ],
+        "editableUntil": "2021-05-01T23:09:20.706Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Pv6H6iH1v1",
+          "expanded_url": "https://en.m.wikipedia.org/wiki/IP_over_Avian_Carriers",
+          "display_url": "en.m.wikipedia.org/wiki/IP_over_A…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        },
+        {
+          "url": "https://t.co/4HDj1ib1oA",
+          "expanded_url": "https://x.com/emollick/status/1388594078837878788",
+          "display_url": "x.com/emollick/statu…",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "70"
+    ],
+    "favorite_count": "0",
+    "id_str": "1388616555374780420",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1388616555374780420",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 01 22:09:20 +0000 2021",
+    "favorited": false,
+    "full_text": "What can't pigeons do? https://t.co/Pv6H6iH1v1 https://t.co/4HDj1ib1oA",
+    "lang": "en"
+  }
+}

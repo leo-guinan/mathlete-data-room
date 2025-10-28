@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940081129240805639"
+        ],
+        "editableUntil": "2025-07-01T17:12:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mike Taylor",
+          "screen_name": "hammer_mt",
+          "indices": [
+            "61",
+            "71"
+          ],
+          "id_str": "21192157",
+          "id": "21192157"
+        },
+        {
+          "name": "Rhys Fisher",
+          "screen_name": "virtual_rf",
+          "indices": [
+            "72",
+            "83"
+          ],
+          "id_str": "1078269894976770048",
+          "id": "1078269894976770048"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "187"
+    ],
+    "favorite_count": "1",
+    "id_str": "1940081129240805639",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940081129240805639",
+    "created_at": "Tue Jul 01 16:12:40 +0000 2025",
+    "favorited": false,
+    "full_text": "Generating an army of bots.\n\nSorry, that doesn't feel right. @hammer_mt @virtual_rf we need a name for a collective group of audiences that creates understanding instead of destroying it.",
+    "lang": "en"
+  }
+}

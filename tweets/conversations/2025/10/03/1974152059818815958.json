@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1974152059818815958"
+        ],
+        "editableUntil": "2025-10-03T17:38:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Farmer in the Del",
+          "screen_name": "craig_misewicz",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1139419418348253186",
+          "id": "1139419418348253186"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FLseHjysU0",
+          "expanded_url": "https://youtu.be/lXQL6LlKXV0",
+          "display_url": "youtu.be/lXQL6LlKXV0",
+          "indices": [
+            "63",
+            "86"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1974151185843270035",
+    "id_str": "1974152059818815958",
+    "in_reply_to_user_id": "1139419418348253186",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1974152059818815958",
+    "in_reply_to_status_id": "1974151185843270035",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 03 16:38:23 +0000 2025",
+    "favorited": false,
+    "full_text": "@craig_misewicz Ok, I guess I can do that as my last action. \n\nhttps://t.co/FLseHjysU0",
+    "lang": "en",
+    "in_reply_to_screen_name": "craig_misewicz",
+    "in_reply_to_user_id_str": "1139419418348253186"
+  }
+}

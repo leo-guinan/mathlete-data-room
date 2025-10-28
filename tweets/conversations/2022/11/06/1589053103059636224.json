@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1589053103059636224"
+        ],
+        "editableUntil": "2022-11-06T01:02:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jordan Harbinger",
+          "screen_name": "JordanHarbinger",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "871776297525137413",
+          "id": "871776297525137413"
+        },
+        {
+          "name": "Scott Galloway",
+          "screen_name": "profgalloway",
+          "indices": [
+            "17",
+            "30"
+          ],
+          "id_str": "9273802",
+          "id": "9273802"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "309"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1588242442348003328",
+    "id_str": "1589053103059636224",
+    "in_reply_to_user_id": "871776297525137413",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1589053103059636224",
+    "in_reply_to_status_id": "1588242442348003328",
+    "created_at": "Sun Nov 06 00:32:37 +0000 2022",
+    "favorited": false,
+    "full_text": "@JordanHarbinger @profgalloway 100%. You have to have enough knowledge to find the experts that are actually experts, vs the ones who are good at marketing and therefore discoverable.\n\nThe irony is that if you spend time on the skills, you become a better expert but not as discoverable.\n\nneed both skills now",
+    "lang": "en",
+    "in_reply_to_screen_name": "JordanHarbinger",
+    "in_reply_to_user_id_str": "871776297525137413"
+  }
+}

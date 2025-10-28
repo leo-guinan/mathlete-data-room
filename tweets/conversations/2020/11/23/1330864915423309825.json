@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330864915423309825"
+        ],
+        "editableUntil": "2020-11-23T14:24:56.768Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "GaleBowman",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1330864915423309825",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330864915423309825",
+    "created_at": "Mon Nov 23 13:24:56 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @GaleBowman: Best cold email to raise VC$ (in 🥜shell):\n\n1-2 sentences to establish WHY the VC firm you are contacting is a good fit for…",
+    "lang": "en"
+  }
+}

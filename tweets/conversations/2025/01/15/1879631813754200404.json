@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1879631813754200404"
+        ],
+        "editableUntil": "2025-01-15T21:48:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "4",
+            "13"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "5",
+    "id_str": "1879631813754200404",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1879631813754200404",
+    "created_at": "Wed Jan 15 20:48:40 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @elonmusk,\n\nMad respect for what you've done so far, but you have a few broken priors that I'm going to help you update.\n\nAnd when I do, you'll give me Twitter to run and turn it into the global communication network you want it to be, because I'll do it better than you can.…",
+    "lang": "en"
+  }
+}

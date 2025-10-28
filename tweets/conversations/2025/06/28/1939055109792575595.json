@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939055109792575595"
+        ],
+        "editableUntil": "2025-06-28T21:15:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Strong",
+          "screen_name": "flowidealism",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "29804238",
+          "id": "29804238"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "213"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1939054791021470122",
+    "id_str": "1939055109792575595",
+    "in_reply_to_user_id": "29804238",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1939055109792575595",
+    "in_reply_to_status_id": "1939054791021470122",
+    "created_at": "Sat Jun 28 20:15:38 +0000 2025",
+    "favorited": false,
+    "full_text": "@flowidealism Reminds me of when I asked for a computer as a kid. my dad wouldn't get me one. But he did let me buy one piece by piece and assemble it. \n\nAmazing how much of a formative experience that was for me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "flowidealism",
+    "in_reply_to_user_id_str": "29804238"
+  }
+}

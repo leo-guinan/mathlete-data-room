@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1449446038499123200"
+        ],
+        "editableUntil": "2021-10-16T19:43:59.640Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "nextjsconf",
+          "indices": [
+            "23",
+            "34"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Vercel",
+          "screen_name": "vercel",
+          "indices": [
+            "38",
+            "45"
+          ],
+          "id_str": "4686835494",
+          "id": "4686835494"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/f1bMLsqyby",
+          "expanded_url": "https://nextjs.org/conf/tickets/oct21/leo-guinan?s=7",
+          "display_url": "nextjs.org/conf/tickets/o…",
+          "indices": [
+            "90",
+            "113"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "2",
+    "id_str": "1449446038499123200",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1449446038499123200",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 16 18:43:59 +0000 2021",
+    "favorited": false,
+    "full_text": "Just got my ticket for #nextjsconf by @vercel, claim yours!\n\nLet's make the Web. Faster.\n\nhttps://t.co/f1bMLsqyby",
+    "lang": "en"
+  }
+}

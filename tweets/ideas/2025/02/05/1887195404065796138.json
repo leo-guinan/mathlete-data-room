@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887195404065796138"
+        ],
+        "editableUntil": "2025-02-05T18:43:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1887195404065796138/photo/1",
+          "indices": [
+            "233",
+            "256"
+          ],
+          "url": "https://t.co/lc5d6ulstv",
+          "media_url": "http://pbs.twimg.com/media/GjCqG4BWoAA40_P.jpg",
+          "id_str": "1887195278962237440",
+          "id": "1887195278962237440",
+          "media_url_https": "https://pbs.twimg.com/media/GjCqG4BWoAA40_P.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "151",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1460",
+              "h": "184",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "86",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lc5d6ulstv"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "1",
+    "id_str": "1887195404065796138",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887195404065796138",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 05 17:43:41 +0000 2025",
+    "favorited": false,
+    "full_text": "\"This suggests a deeper connection between epistemological limits in mathematics and physics - both stemming from the self-referential nature of trying to completely describe a system while being constrained by that system's rules.\" https://t.co/lc5d6ulstv",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1887195404065796138/photo/1",
+          "indices": [
+            "233",
+            "256"
+          ],
+          "url": "https://t.co/lc5d6ulstv",
+          "media_url": "http://pbs.twimg.com/media/GjCqG4BWoAA40_P.jpg",
+          "id_str": "1887195278962237440",
+          "id": "1887195278962237440",
+          "media_url_https": "https://pbs.twimg.com/media/GjCqG4BWoAA40_P.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "151",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1460",
+              "h": "184",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "86",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lc5d6ulstv"
+        }
+      ]
+    }
+  }
+}

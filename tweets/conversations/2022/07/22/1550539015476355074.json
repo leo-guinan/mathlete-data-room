@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1550539015476355074"
+        ],
+        "editableUntil": "2022-07-22T18:21:23.568Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/StroutMotivateU/status/1550538614521663492/photo/1",
+          "source_status_id": "1550538614521663492",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/X5Xfj7fYVl",
+          "media_url": "http://pbs.twimg.com/media/FYSepu2WAAAau9t.jpg",
+          "id_str": "1550538611510083584",
+          "source_user_id": "1378776755738140675",
+          "id": "1550538611510083584",
+          "media_url_https": "https://pbs.twimg.com/media/FYSepu2WAAAau9t.jpg",
+          "source_user_id_str": "1378776755738140675",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1021",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1021",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "678",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1550538614521663492",
+          "display_url": "pic.x.com/X5Xfj7fYVl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "id_str": "1550539015476355074",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1550539015476355074",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 22 17:51:23 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @StroutMotivateU: Say it isn’t so https://t.co/X5Xfj7fYVl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/StroutMotivateU/status/1550538614521663492/photo/1",
+          "source_status_id": "1550538614521663492",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/X5Xfj7fYVl",
+          "media_url": "http://pbs.twimg.com/media/FYSepu2WAAAau9t.jpg",
+          "id_str": "1550538611510083584",
+          "source_user_id": "1378776755738140675",
+          "id": "1550538611510083584",
+          "media_url_https": "https://pbs.twimg.com/media/FYSepu2WAAAau9t.jpg",
+          "source_user_id_str": "1378776755738140675",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1021",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1021",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "678",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1550538614521663492",
+          "display_url": "pic.x.com/X5Xfj7fYVl"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887599213535510703"
+        ],
+        "editableUntil": "2025-02-06T21:28:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Austin Calvert",
+          "screen_name": "_AustinCalvert_",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "422986298",
+          "id": "422986298"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1887597207047512478",
+    "id_str": "1887599213535510703",
+    "in_reply_to_user_id": "422986298",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887599213535510703",
+    "in_reply_to_status_id": "1887597207047512478",
+    "created_at": "Thu Feb 06 20:28:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@_AustinCalvert_ There's something to realize about the rate of change of software. \n\nWhen it's constantly changing, there's no lasting value because it can constantly be swapped in and out. It's completely unpredictable.\n\nIn that case, the only thing that is predictable, and therefore valuable,…",
+    "lang": "en",
+    "in_reply_to_screen_name": "_AustinCalvert_",
+    "in_reply_to_user_id_str": "422986298"
+  }
+}

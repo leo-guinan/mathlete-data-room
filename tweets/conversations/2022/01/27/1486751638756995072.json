@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486751638756995072"
+        ],
+        "editableUntil": "2022-01-27T18:23:07.846Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "117",
+            "124"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1486751638756995072",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1486751638756995072",
+    "created_at": "Thu Jan 27 17:23:07 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: There we go! Just being wonky I guess.\n\nLet's chat about email lists.\n\nCheck out Leo Guinan's video! #TikTok https://t.co/O…",
+    "lang": "en"
+  }
+}

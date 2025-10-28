@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1399386003530522626"
+        ],
+        "editableUntil": "2021-05-31T16:23:17.233Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NFTs",
+          "indices": [
+            "212",
+            "217"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "BUIDL Labs",
+          "screen_name": "buidllabs",
+          "indices": [
+            "222",
+            "232"
+          ],
+          "id_str": "1275296180235202560",
+          "id": "1275296180235202560"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5fZaORVeI9",
+          "expanded_url": "https://cryptocodeschool.in/tezos/cryptobot/265",
+          "display_url": "cryptocodeschool.in/tezos/cryptobo…",
+          "indices": [
+            "188",
+            "211"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "2",
+    "id_str": "1399386003530522626",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1399386003530522626",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 31 15:23:17 +0000 2021",
+    "favorited": false,
+    "full_text": "Take a look at my Cryptobot-265, which I built and earned as a reward for completing a module on Cryptoverse Wars. Join me and others in learning and creating your own army of Cryptobots! https://t.co/5fZaORVeI9 #NFTs via @buidllabs",
+    "lang": "en"
+  }
+}

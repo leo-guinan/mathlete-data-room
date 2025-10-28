@@ -1,0 +1,48 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1397630786967412738"
+        ],
+        "editableUntil": "2021-05-26T20:08:40.994Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "260",
+            "265"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1397630785453281280",
+    "id_str": "1397630786967412738",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1397630786967412738",
+    "in_reply_to_status_id": "1397630785453281280",
+    "created_at": "Wed May 26 19:08:40 +0000 2021",
+    "favorited": false,
+    "full_text": "And then reality struck me. Hard. I didn't realize that there was a lot of structure in corporate life that I depended on. Even things like daily standups, JIRA, and having IntelliJ as my IDE of choice played a big role in determining my productivity. Thanks, #ADHD!",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1698898643284111533"
+        ],
+        "editableUntil": "2023-09-05T04:19:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1698898643284111533/photo/1",
+          "indices": [
+            "21",
+            "44"
+          ],
+          "url": "https://t.co/1jzySG2iNi",
+          "media_url": "http://pbs.twimg.com/media/F5OzS8vXIAA5gOj.png",
+          "id_str": "1698898622572601344",
+          "id": "1698898622572601344",
+          "media_url_https": "https://pbs.twimg.com/media/F5OzS8vXIAA5gOj.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "668",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "378",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1139",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1jzySG2iNi"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "0",
+    "id_str": "1698898643284111533",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1698898643284111533",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 05 03:19:35 +0000 2023",
+    "favorited": false,
+    "full_text": "Week 4 in the books. https://t.co/1jzySG2iNi",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1698898643284111533/photo/1",
+          "indices": [
+            "21",
+            "44"
+          ],
+          "url": "https://t.co/1jzySG2iNi",
+          "media_url": "http://pbs.twimg.com/media/F5OzS8vXIAA5gOj.png",
+          "id_str": "1698898622572601344",
+          "id": "1698898622572601344",
+          "media_url_https": "https://pbs.twimg.com/media/F5OzS8vXIAA5gOj.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "668",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "378",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1139",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1jzySG2iNi"
+        }
+      ]
+    }
+  }
+}

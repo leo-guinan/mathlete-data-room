@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1421296423291719682"
+        ],
+        "editableUntil": "2021-07-31T03:27:28.380Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        },
+        {
+          "name": "Clay Hebert",
+          "screen_name": "clayhebert",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "14316355",
+          "id": "14316355"
+        },
+        {
+          "name": "Brendan McAdams",
+          "screen_name": "brendanmcadams",
+          "indices": [
+            "37",
+            "52"
+          ],
+          "id_str": "118678489",
+          "id": "118678489"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1421296085985894401",
+    "id_str": "1421296423291719682",
+    "in_reply_to_user_id": "36301478",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1421296423291719682",
+    "in_reply_to_status_id": "1421296085985894401",
+    "created_at": "Sat Jul 31 02:27:28 +0000 2021",
+    "favorited": false,
+    "full_text": "@Bazzaruto @clayhebert @theothercole @brendanmcadams Awesome! Added you to my list!",
+    "lang": "en",
+    "in_reply_to_screen_name": "Bazzaruto",
+    "in_reply_to_user_id_str": "36301478"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1704618782335942779"
+        ],
+        "editableUntil": "2023-09-20T23:09:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Steph Smith",
+          "screen_name": "stephsmithio",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "626691391",
+          "id": "626691391"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "247"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1704603464842842347",
+    "id_str": "1704618782335942779",
+    "in_reply_to_user_id": "626691391",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1704618782335942779",
+    "in_reply_to_status_id": "1704603464842842347",
+    "created_at": "Wed Sep 20 22:09:22 +0000 2023",
+    "favorited": false,
+    "full_text": "@stephsmithio The funniest part is how we typically believe our memories of how things happened to be accurate,  or we just don't remember them, but they tend to mutate over time.\n\nMalcom Gladwell had a really interesting \npodcast episode on that.",
+    "lang": "en",
+    "in_reply_to_screen_name": "stephsmithio",
+    "in_reply_to_user_id_str": "626691391"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1504066229975273480"
+        ],
+        "editableUntil": "2022-03-16T13:05:08.082Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "0",
+    "id_str": "1504066229975273480",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1504066229975273480",
+    "created_at": "Wed Mar 16 12:05:08 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: It's amazing how far the process of:\n\n1. Try\n2. Assess\n3. Iterate\n\nwill get you in life.",
+    "lang": "en"
+  }
+}

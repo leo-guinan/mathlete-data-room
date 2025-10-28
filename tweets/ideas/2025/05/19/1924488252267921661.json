@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1924488252267921661"
+        ],
+        "editableUntil": "2025-05-19T16:32:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vpOLmcosQq",
+          "expanded_url": "https://x.com/forthrighter/status/1924469207015608819",
+          "display_url": "x.com/forthrighter/s…",
+          "indices": [
+            "129",
+            "152"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "152"
+    ],
+    "favorite_count": "3",
+    "id_str": "1924488252267921661",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1924488252267921661",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 19 15:32:09 +0000 2025",
+    "favorited": false,
+    "full_text": "This is one of the major threat vectors to intelligence systems. \n\nI talk about this in my upcoming paper on network relativity. https://t.co/vpOLmcosQq",
+    "lang": "en"
+  }
+}

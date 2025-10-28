@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1817623184038097126"
+        ],
+        "editableUntil": "2024-07-28T19:08:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "moved to @teddypresent",
+          "screen_name": "sunsettler",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1931700356104552448",
+          "id": "1931700356104552448"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "13"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1817443376662266312",
+    "id_str": "1817623184038097126",
+    "in_reply_to_user_id": "1794959828214743040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1817623184038097126",
+    "in_reply_to_status_id": "1817443376662266312",
+    "created_at": "Sun Jul 28 18:08:31 +0000 2024",
+    "favorited": false,
+    "full_text": "@sunsettler 👋",
+    "lang": "qme",
+    "in_reply_to_screen_name": "teddypresent",
+    "in_reply_to_user_id_str": "1794959828214743040"
+  }
+}

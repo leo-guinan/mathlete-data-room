@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339682793073369088"
+        ],
+        "editableUntil": "2020-12-17T22:24:02.628Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "bee_coast",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1339682793073369088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339682793073369088",
+    "created_at": "Thu Dec 17 21:24:02 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @bee_coast: Ok. I hate asking for help because I'm usually the one in these situations to be the giver. But I need help this time\n\nI'm l…",
+    "lang": "en"
+  }
+}

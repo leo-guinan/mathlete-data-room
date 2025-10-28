@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1674784389723738115"
+        ],
+        "editableUntil": "2023-06-30T15:18:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Packy McCormick",
+          "screen_name": "packyM",
+          "indices": [
+            "132",
+            "139"
+          ],
+          "id_str": "21306324",
+          "id": "21306324"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7T37HJS1rq",
+          "expanded_url": "https://open.substack.com/pub/notboring/p/how-to-fix-a-country-in-12-days?r=evblp&utm_campaign=post&utm_medium=web",
+          "display_url": "open.substack.com/pub/notboring/…",
+          "indices": [
+            "140",
+            "163"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "163"
+    ],
+    "favorite_count": "1",
+    "id_str": "1674784389723738115",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1674784389723738115",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 30 14:18:09 +0000 2023",
+    "favorited": false,
+    "full_text": "We need to make this happen.\n\nOne of the best pieces I've read in a long time.\n\nBring on ECPN!\n\nHow to Fix a Country in 12 Days, by @packyM https://t.co/7T37HJS1rq",
+    "lang": "en"
+  }
+}

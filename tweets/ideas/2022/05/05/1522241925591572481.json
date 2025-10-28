@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1522241925591572481"
+        ],
+        "editableUntil": "2022-05-05T16:18:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PAeRwBVHQI",
+          "expanded_url": "https://x.com/AsaasinsClub/status/1522228441017421824",
+          "display_url": "x.com/AsaasinsClub/s…",
+          "indices": [
+            "51",
+            "74"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "1",
+    "id_str": "1522241925591572481",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1522241925591572481",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 05 15:48:51 +0000 2022",
+    "favorited": false,
+    "full_text": "This is a really exciting community. Check it out! https://t.co/PAeRwBVHQI",
+    "lang": "en"
+  }
+}

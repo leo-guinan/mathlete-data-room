@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1799956978887713101"
+        ],
+        "editableUntil": "2024-06-10T01:09:20.007Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Joe Hudson",
+          "screen_name": "FU_joehudson",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1101222943013580800",
+          "id": "1101222943013580800"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "32"
+    ],
+    "favorite_count": "0",
+    "id_str": "1799956978887713101",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1799956978887713101",
+    "created_at": "Mon Jun 10 00:09:20 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @FU_joehudson: Be don't tell.",
+    "lang": "en"
+  }
+}

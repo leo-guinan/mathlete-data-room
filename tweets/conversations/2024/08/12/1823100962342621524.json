@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1823100962342621524"
+        ],
+        "editableUntil": "2024-08-12T21:55:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1823100335780483332",
+    "id_str": "1823100962342621524",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1823100962342621524",
+    "in_reply_to_status_id": "1823100335780483332",
+    "created_at": "Mon Aug 12 20:55:15 +0000 2024",
+    "favorited": false,
+    "full_text": "This actually allows me to create a couple different models. I can do one that allows me to push my content out to users of the extension, which is kinda cool, but I feel not useful for users as much.\n\nOr, I can develop a version that allows people to create/connect their library",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

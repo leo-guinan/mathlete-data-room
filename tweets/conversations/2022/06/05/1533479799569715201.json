@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1533479799569715201"
+        ],
+        "editableUntil": "2022-06-05T16:34:09.551Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "ungatedcreative",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ungatedcreative/status/1533478776960520192/photo/1",
+          "source_status_id": "1533478776960520192",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/7ZS5HGYXP0",
+          "media_url": "http://pbs.twimg.com/media/FUgC0ZrUUAA_Jio.jpg",
+          "id_str": "1533478772388679680",
+          "source_user_id": "532970397",
+          "id": "1533478772388679680",
+          "media_url_https": "https://pbs.twimg.com/media/FUgC0ZrUUAA_Jio.jpg",
+          "source_user_id_str": "532970397",
+          "sizes": {
+            "medium": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1533478776960520192",
+          "display_url": "pic.x.com/7ZS5HGYXP0"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "0",
+    "id_str": "1533479799569715201",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1533479799569715201",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 05 16:04:09 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @ungatedcreative: fuck yeah https://t.co/7ZS5HGYXP0",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ungatedcreative/status/1533478776960520192/photo/1",
+          "source_status_id": "1533478776960520192",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/7ZS5HGYXP0",
+          "media_url": "http://pbs.twimg.com/media/FUgC0ZrUUAA_Jio.jpg",
+          "id_str": "1533478772388679680",
+          "source_user_id": "532970397",
+          "id": "1533478772388679680",
+          "media_url_https": "https://pbs.twimg.com/media/FUgC0ZrUUAA_Jio.jpg",
+          "source_user_id_str": "532970397",
+          "sizes": {
+            "medium": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1533478776960520192",
+          "display_url": "pic.x.com/7ZS5HGYXP0"
+        }
+      ]
+    }
+  }
+}

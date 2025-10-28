@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1542187159469309957"
+        ],
+        "editableUntil": "2022-06-29T17:14:05.926Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Monique Woodard",
+          "screen_name": "MoniqueWoodard",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "14176514",
+          "id": "14176514"
+        },
+        {
+          "name": "Kristy Tillman",
+          "screen_name": "KristyT",
+          "indices": [
+            "20",
+            "28"
+          ],
+          "id_str": "220226736",
+          "id": "220226736"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "id_str": "1542187159469309957",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1542187159469309957",
+    "created_at": "Wed Jun 29 16:44:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @MoniqueWoodard: @KristyT This is what @joshincare does",
+    "lang": "en"
+  }
+}

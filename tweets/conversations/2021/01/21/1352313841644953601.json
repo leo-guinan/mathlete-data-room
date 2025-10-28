@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1352313841644953601"
+        ],
+        "editableUntil": "2021-01-21T18:55:19.281Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MQD5mLMdbF",
+          "expanded_url": "https://x.com/leo_guinan/status/1352259112906719233?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "187",
+            "210"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "210"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1352313840172720134",
+    "id_str": "1352313841644953601",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1352313841644953601",
+    "in_reply_to_status_id": "1352313840172720134",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 21 17:55:19 +0000 2021",
+    "favorited": false,
+    "full_text": "I am also sponsoring an app that allows you to send hugs to loved ones. Every hug sent in the app gets me to donate $1 to local homeless youth shelters.  Would love if you could share! 🤗\nhttps://t.co/MQD5mLMdbF",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

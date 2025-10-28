@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803524803355087137"
+        ],
+        "editableUntil": "2024-06-19T21:26:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "It's Adon.",
+          "screen_name": "AtRiskMedia",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1380453648",
+          "id": "1380453648"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "13",
+            "25"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "Astro",
+          "screen_name": "astrodotbuild",
+          "indices": [
+            "26",
+            "40"
+          ],
+          "id_str": "1376650370340986883",
+          "id": "1376650370340986883"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1803449594916815352",
+    "id_str": "1803524803355087137",
+    "in_reply_to_user_id": "1380453648",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803524803355087137",
+    "in_reply_to_status_id": "1803449594916815352",
+    "created_at": "Wed Jun 19 20:26:35 +0000 2024",
+    "favorited": false,
+    "full_text": "@AtRiskMedia @_buildspace @astrodotbuild Definitely harder than it looks, isn't it? 😂\n\nCongrats on the progress!",
+    "lang": "en",
+    "in_reply_to_screen_name": "AtRiskMedia",
+    "in_reply_to_user_id_str": "1380453648"
+  }
+}

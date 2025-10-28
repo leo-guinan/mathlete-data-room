@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1676260661418942468"
+        ],
+        "editableUntil": "2023-07-04T17:04:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "0",
+    "id_str": "1676260661418942468",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1676260661418942468",
+    "created_at": "Tue Jul 04 16:04:19 +0000 2023",
+    "favorited": false,
+    "full_text": "Had a friend reach out and ask about a tool to generate images based on a set of existing images.\n\nI don't know of any that can do that directly, but I do have a notebook set up for training stable diffusion, so I'm just training a custom model for a 1-time job.\n\nWhy not? 😎",
+    "lang": "en"
+  }
+}

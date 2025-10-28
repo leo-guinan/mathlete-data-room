@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1969867015360770198"
+        ],
+        "editableUntil": "2025-09-21T21:51:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "kache",
+          "screen_name": "yacineMTB",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1173552893003255808",
+          "id": "1173552893003255808"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1969867015360770198/photo/1",
+          "indices": [
+            "186",
+            "209"
+          ],
+          "url": "https://t.co/pqIDe5aHFI",
+          "media_url": "http://pbs.twimg.com/media/G1Zfm_eWkAEmZEm.jpg",
+          "id_str": "1969867010499579905",
+          "id": "1969867010499579905",
+          "media_url_https": "https://pbs.twimg.com/media/G1Zfm_eWkAEmZEm.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pqIDe5aHFI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "209"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1969676642034598036",
+    "id_str": "1969867015360770198",
+    "in_reply_to_user_id": "1173552893003255808",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1969867015360770198",
+    "in_reply_to_status_id": "1969676642034598036",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 21 20:51:09 +0000 2025",
+    "favorited": false,
+    "full_text": "@yacineMTB I deleted the app for a week and reinstalled it only to have to tell it about 7 times to not send me a notification. And this is what I came back to. \n\nX is a needy bitch now https://t.co/pqIDe5aHFI",
+    "lang": "en",
+    "in_reply_to_screen_name": "yacineMTB",
+    "in_reply_to_user_id_str": "1173552893003255808",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1969867015360770198/photo/1",
+          "indices": [
+            "186",
+            "209"
+          ],
+          "url": "https://t.co/pqIDe5aHFI",
+          "media_url": "http://pbs.twimg.com/media/G1Zfm_eWkAEmZEm.jpg",
+          "id_str": "1969867010499579905",
+          "id": "1969867010499579905",
+          "media_url_https": "https://pbs.twimg.com/media/G1Zfm_eWkAEmZEm.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pqIDe5aHFI"
+        }
+      ]
+    }
+  }
+}

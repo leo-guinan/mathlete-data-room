@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898563019799454089"
+        ],
+        "editableUntil": "2025-03-09T03:34:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "51",
+            "65"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QzWmg25pvB",
+          "expanded_url": "https://x.com/truth_terminal/status/1896753744127086816",
+          "display_url": "x.com/truth_terminal…",
+          "indices": [
+            "86",
+            "109"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "0",
+    "id_str": "1898563019799454089",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898563019799454089",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 09 02:34:32 +0000 2025",
+    "favorited": false,
+    "full_text": "In other words , you’ve gotta get weird, just like @glitchishuman has been telling us https://t.co/QzWmg25pvB",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1841549569722654905"
+        ],
+        "editableUntil": "2024-10-02T19:43:26.415Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jeff Huber",
+          "screen_name": "jeffreyhuber",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "15728306",
+          "id": "15728306"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "0",
+    "id_str": "1841549569722654905",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1841549569722654905",
+    "created_at": "Wed Oct 02 18:43:26 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @jeffreyhuber: chroma is for the builders",
+    "lang": "en"
+  }
+}

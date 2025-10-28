@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1916193811941790204"
+        ],
+        "editableUntil": "2025-04-26T19:13:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Shapiro ⏩",
+          "screen_name": "DaveShapi",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1795781228399869952",
+          "id": "1795781228399869952"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "177"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1916188978727784847",
+    "id_str": "1916193811941790204",
+    "in_reply_to_user_id": "1795781228399869952",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1916193811941790204",
+    "in_reply_to_status_id": "1916188978727784847",
+    "created_at": "Sat Apr 26 18:13:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@DaveShapi Your economic model is wrong. \n\nYou are using a data-centric economic model which isn’t bound by time and you need to switch to a human-bound economic model which is.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DaveShapi",
+    "in_reply_to_user_id_str": "1795781228399869952"
+  }
+}

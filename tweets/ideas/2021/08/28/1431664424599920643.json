@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1431664424599920643"
+        ],
+        "editableUntil": "2021-08-28T18:06:12.520Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "213"
+    ],
+    "favorite_count": "1",
+    "id_str": "1431664424599920643",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1431664424599920643",
+    "created_at": "Sat Aug 28 17:06:12 +0000 2021",
+    "favorited": false,
+    "full_text": "Fixed a bug on the @feathercrm search that allowed users to search everyone's relationships instead of just their own.\n\nFigured it out when I saw myself show up multiple times while I was searching as @feathercrm.",
+    "lang": "en"
+  }
+}

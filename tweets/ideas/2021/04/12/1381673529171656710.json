@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381673529171656710"
+        ],
+        "editableUntil": "2021-04-12T19:20:14.264Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AskADHD",
+          "indices": [
+            "0",
+            "8"
+          ]
+        },
+        {
+          "text": "ActuallyAutistic",
+          "indices": [
+            "13",
+            "30"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "4",
+    "id_str": "1381673529171656710",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1381673529171656710",
+    "created_at": "Mon Apr 12 18:20:14 +0000 2021",
+    "favorited": false,
+    "full_text": "#AskADHD and #ActuallyAutistic friends, I'm tossing together ideas for a presentation on what workplaces can do to support their neurodivergent employees. So let's hear it from you. What changes would you like to see?",
+    "lang": "en"
+  }
+}

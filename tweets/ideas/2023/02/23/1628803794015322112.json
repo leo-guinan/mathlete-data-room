@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1628803794015322112"
+        ],
+        "editableUntil": "2023-02-23T17:37:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1628803794015322112/video/1",
+          "indices": [
+            "127",
+            "150"
+          ],
+          "url": "https://t.co/ixoAutjgXM",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1628803702944301057/img/UwrFJCf0P597XKA0.jpg",
+          "id_str": "1628803702944301057",
+          "id": "1628803702944301057",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1628803702944301057/img/UwrFJCf0P597XKA0.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ixoAutjgXM"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "150"
+    ],
+    "favorite_count": "8",
+    "id_str": "1628803794015322112",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1628803794015322112",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 23 17:07:40 +0000 2023",
+    "favorited": false,
+    "full_text": "New Episode of How To Scale Yourself is now live!\n\nScale Your Resilience featuring @Up4thechalleng2!\n\nThings we chatted about: https://t.co/ixoAutjgXM",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1628803794015322112/video/1",
+          "indices": [
+            "127",
+            "150"
+          ],
+          "url": "https://t.co/ixoAutjgXM",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1628803702944301057/img/UwrFJCf0P597XKA0.jpg",
+          "id_str": "1628803702944301057",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "59920",
+            "variants": [
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1628803702944301057/vid/640x360/4DCvXO1txyinNXdJ.mp4?tag=14"
+              },
+              {
+                "bitrate": "288000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1628803702944301057/vid/480x270/U_jugGv6chiEWnZb.mp4?tag=14"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1628803702944301057/vid/1280x720/fFMeGg2uFcN6dkpZ.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1628803702944301057/pl/-yXsjZHKOrrS7XzF.m3u8?tag=14"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1628803702944301057",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1628803702944301057/img/UwrFJCf0P597XKA0.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/ixoAutjgXM"
+        }
+      ]
+    }
+  }
+}

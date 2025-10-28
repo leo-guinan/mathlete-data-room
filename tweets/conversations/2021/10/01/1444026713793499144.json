@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1444026713793499144"
+        ],
+        "editableUntil": "2021-10-01T20:49:31.944Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DouglasAdams",
+          "indices": [
+            "82",
+            "95"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Douglas Adams Bot",
+          "screen_name": "DirkGently_Bot",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2355096816",
+          "id": "2355096816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "95"
+    ],
+    "favorite_count": "0",
+    "id_str": "1444026713793499144",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1444026713793499144",
+    "created_at": "Fri Oct 01 19:49:31 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @DirkGently_Bot: \"We demand rigidly defined areas of doubt and uncertainty!\" - #DouglasAdams",
+    "lang": "en"
+  }
+}

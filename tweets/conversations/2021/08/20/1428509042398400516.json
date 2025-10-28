@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1428509042398400516"
+        ],
+        "editableUntil": "2021-08-20T01:07:50.779Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Creaton",
+          "screen_name": "creaton_io",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1322300256583929856",
+          "id": "1322300256583929856"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4SzJddutV1",
+          "expanded_url": "https://medium.com/creaton/introducing-the-creaton-dao-create-token-3ec6d47a4acd",
+          "display_url": "medium.com/creaton/introd…",
+          "indices": [
+            "115",
+            "138"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "0",
+    "id_str": "1428509042398400516",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1428509042398400516",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 20 00:07:50 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @creaton_io: Creaton DAO dropping next month. \n\nCan't kick off creators if a DAO w/ creators run the platform🧠\n\nhttps://t.co/4SzJddutV1",
+    "lang": "en"
+  }
+}

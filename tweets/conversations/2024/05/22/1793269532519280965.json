@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1793269532519280965"
+        ],
+        "editableUntil": "2024-05-22T14:15:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sara Campbell",
+          "screen_name": "tinyrevver",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "3949831",
+          "id": "3949831"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1793268731709153410",
+    "id_str": "1793269532519280965",
+    "in_reply_to_user_id": "3949831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1793269532519280965",
+    "in_reply_to_status_id": "1793268731709153410",
+    "created_at": "Wed May 22 13:15:48 +0000 2024",
+    "favorited": false,
+    "full_text": "@tinyrevver The biggest issue with generative AI: in order to truly trust the output, you've got to already know the thing well enough to validate the response.\n\nThen, there's also the belief that there's always an answer to begin with.\n\nAI will always *try* to answer and make you happy",
+    "lang": "en",
+    "in_reply_to_screen_name": "tinyrevver",
+    "in_reply_to_user_id_str": "3949831"
+  }
+}

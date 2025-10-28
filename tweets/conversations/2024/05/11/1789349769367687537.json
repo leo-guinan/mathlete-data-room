@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1789349769367687537"
+        ],
+        "editableUntil": "2024-05-11T18:40:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Tim Connors",
+          "screen_name": "itstimconnors",
+          "indices": [
+            "17",
+            "31"
+          ],
+          "id_str": "273565626",
+          "id": "273565626"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1789346036709773689",
+    "id_str": "1789349769367687537",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1789349769367687537",
+    "in_reply_to_status_id": "1789346036709773689",
+    "created_at": "Sat May 11 17:40:04 +0000 2024",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @itstimconnors I'll just throw this out there: there's a better solution than email.\n\nThere are reasons it has become the de facto way people communicate online, but with AI, new options become possible that don't rely on lossy message queueing.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

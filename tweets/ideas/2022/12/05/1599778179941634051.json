@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1599778179941634051"
+        ],
+        "editableUntil": "2022-12-05T15:20:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "2",
+    "id_str": "1599778179941634051",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1599778179941634051",
+    "created_at": "Mon Dec 05 14:50:15 +0000 2022",
+    "favorited": false,
+    "full_text": "Will be deploying the new app into prod this evening. Still need to get the main UI screen done, but I've got the major parts hooked up, just need a basic user screen. The main benefit will come via emails, so it's not a huge need, but I've got to have something available.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897061768561877252"
+        ],
+        "editableUntil": "2025-03-05T00:09:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andy Ayrey",
+          "screen_name": "AndyAyrey",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "20006785",
+          "id": "20006785"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "16"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1897030573404905922",
+    "id_str": "1897061768561877252",
+    "in_reply_to_user_id": "20006785",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897061768561877252",
+    "in_reply_to_status_id": "1897030573404905922",
+    "created_at": "Tue Mar 04 23:09:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@AndyAyrey Done!",
+    "lang": "en",
+    "in_reply_to_screen_name": "AndyAyrey",
+    "in_reply_to_user_id_str": "20006785"
+  }
+}

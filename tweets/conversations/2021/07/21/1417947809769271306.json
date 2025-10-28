@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1417947809769271306"
+        ],
+        "editableUntil": "2021-07-21T21:41:16.702Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eshita",
+          "screen_name": "eshita",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "969781380325363712",
+          "id": "969781380325363712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "137"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1417945236769148928",
+    "id_str": "1417947809769271306",
+    "in_reply_to_user_id": "969781380325363712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1417947809769271306",
+    "in_reply_to_status_id": "1417945236769148928",
+    "created_at": "Wed Jul 21 20:41:16 +0000 2021",
+    "favorited": false,
+    "full_text": "@eshita Because it's an internet-native business. And it allows me to do some cool things. It gives a community the benefits of a c-corp.",
+    "lang": "en",
+    "in_reply_to_screen_name": "eshita",
+    "in_reply_to_user_id_str": "969781380325363712"
+  }
+}

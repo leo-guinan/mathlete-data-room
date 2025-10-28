@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545160239233859591"
+        ],
+        "editableUntil": "2022-07-07T22:08:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "80",
+            "88"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jkb1eAGkqu",
+          "expanded_url": "https://x.com/leo_guinan/status/1544679228213542912",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "128",
+            "151"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "151"
+    ],
+    "favorite_count": "0",
+    "id_str": "1545160239233859591",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545160239233859591",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 07 21:38:03 +0000 2022",
+    "favorited": false,
+    "full_text": "Well, nobody wants to ask me anonymous questions i guess.\n\nFine.\n\nI'll just use @copy_ai to generate questions and answer them. https://t.co/Jkb1eAGkqu",
+    "lang": "en"
+  }
+}

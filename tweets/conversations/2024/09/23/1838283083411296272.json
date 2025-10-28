@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1838283083411296272"
+        ],
+        "editableUntil": "2024-09-23T19:23:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim Fanara",
+          "screen_name": "jimfanara",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1271253394343288833",
+          "id": "1271253394343288833"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "249"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1838227406605156441",
+    "id_str": "1838283083411296272",
+    "in_reply_to_user_id": "1271253394343288833",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1838283083411296272",
+    "in_reply_to_status_id": "1838227406605156441",
+    "created_at": "Mon Sep 23 18:23:35 +0000 2024",
+    "favorited": false,
+    "full_text": "@jimfanara It's something I've been doing some writing about, the value of games and the value of simulations.\n\nI've written a fair bit, but haven't been able to finish the pieces. \n\nThere's a lot of really cool things packed into the games we play.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jimfanara",
+    "in_reply_to_user_id_str": "1271253394343288833"
+  }
+}

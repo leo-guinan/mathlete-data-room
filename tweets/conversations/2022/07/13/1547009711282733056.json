@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1547009711282733056"
+        ],
+        "editableUntil": "2022-07-13T00:37:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "71",
+            "85"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/q386Xo3qQo",
+          "expanded_url": "https://blog.buildinpublicuniversity.com/breaking-news-im-not-going-to-tell-you-what-to-do/",
+          "display_url": "blog.buildinpublicuniversity.com/breaking-news-…",
+          "indices": [
+            "105",
+            "128"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "2",
+    "id_str": "1547009711282733056",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1547009711282733056",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 13 00:07:11 +0000 2022",
+    "favorited": false,
+    "full_text": "New Blog Post Published!\n\nI'm not going to tell you what to do. H/t to @tshubillabong for inspiring it!\n\nhttps://t.co/q386Xo3qQo",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1962508176550412766"
+        ],
+        "editableUntil": "2025-09-01T14:29:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1962508176550412766/photo/1",
+          "indices": [
+            "105",
+            "128"
+          ],
+          "url": "https://t.co/to8rzHmjIl",
+          "media_url": "http://pbs.twimg.com/media/Gzw6pWwXIAAL0zT.jpg",
+          "id_str": "1962508019784163328",
+          "id": "1962508019784163328",
+          "media_url_https": "https://pbs.twimg.com/media/Gzw6pWwXIAAL0zT.jpg",
+          "sizes": {
+            "small": {
+              "w": "630",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1112",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1626",
+              "h": "1754",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/to8rzHmjIl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "1",
+    "id_str": "1962508176550412766",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1962508176550412766",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 01 13:29:45 +0000 2025",
+    "favorited": false,
+    "full_text": "Currently dropping some dimes on running fine tuning jobs.\n\n(literally dimes. This is so stupidly cheap) https://t.co/to8rzHmjIl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1962508176550412766/photo/1",
+          "indices": [
+            "105",
+            "128"
+          ],
+          "url": "https://t.co/to8rzHmjIl",
+          "media_url": "http://pbs.twimg.com/media/Gzw6pWwXIAAL0zT.jpg",
+          "id_str": "1962508019784163328",
+          "id": "1962508019784163328",
+          "media_url_https": "https://pbs.twimg.com/media/Gzw6pWwXIAAL0zT.jpg",
+          "sizes": {
+            "small": {
+              "w": "630",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1112",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1626",
+              "h": "1754",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/to8rzHmjIl"
+        }
+      ]
+    }
+  }
+}

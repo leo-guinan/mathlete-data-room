@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1610704250803306512"
+        ],
+        "editableUntil": "2023-01-04T18:56:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Martin Adams | Building Flowtelic",
+          "screen_name": "Martin_Adams",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "50427950",
+          "id": "50427950"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1610703345345527809",
+    "id_str": "1610704250803306512",
+    "in_reply_to_user_id": "50427950",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1610704250803306512",
+    "in_reply_to_status_id": "1610703345345527809",
+    "created_at": "Wed Jan 04 18:26:33 +0000 2023",
+    "favorited": false,
+    "full_text": "@Martin_Adams Twitter is a game. It's a game in which you set your own rules and winning conditions.\n\nPersonally, my winning conditions are number and strength of friendships I've built. (I've already won and I'm just continuing to play for the high score 😀)",
+    "lang": "en",
+    "in_reply_to_screen_name": "Martin_Adams",
+    "in_reply_to_user_id_str": "50427950"
+  }
+}

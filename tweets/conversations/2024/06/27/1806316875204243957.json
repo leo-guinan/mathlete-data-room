@@ -1,0 +1,76 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1806316875204243957"
+        ],
+        "editableUntil": "2024-06-27T14:21:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "4",
+            "16"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "17",
+            "33"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "167",
+            "179"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        },
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "198",
+            "208"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "281"
+    ],
+    "favorite_count": "2",
+    "id_str": "1806316875204243957",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1806316875204243957",
+    "created_at": "Thu Jun 27 13:21:17 +0000 2024",
+    "favorited": false,
+    "full_text": "Hey @_buildspace @_nightsweekends crew, imma need your help on something. We've got a bit of David vs Goliath thing going on. \n\nSee, I launched Score My Deck today on @ProductHunt with my cofounder @oluadedej \n\nIf you are thinking about raising money for your company, or you just…",
+    "lang": "en"
+  }
+}

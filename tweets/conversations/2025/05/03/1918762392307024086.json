@@ -1,0 +1,135 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1918762392307024086"
+        ],
+        "editableUntil": "2025-05-03T21:19:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "33",
+            "43"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Metalabel",
+          "screen_name": "metalabel_",
+          "indices": [
+            "230",
+            "241"
+          ],
+          "id_str": "1457805004614557696",
+          "id": "1457805004614557696"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1918762392307024086/photo/1",
+          "indices": [
+            "243",
+            "266"
+          ],
+          "url": "https://t.co/jr9JVvpaMS",
+          "media_url": "http://pbs.twimg.com/media/GqDPxiUXYAACNSP.jpg",
+          "id_str": "1918761891192594432",
+          "id": "1918761891192594432",
+          "media_url_https": "https://pbs.twimg.com/media/GqDPxiUXYAACNSP.jpg",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "1920",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jr9JVvpaMS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "4",
+    "id_str": "1918762392307024086",
+    "truncated": false,
+    "retweet_count": "3",
+    "id": "1918762392307024086",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 03 20:19:37 +0000 2025",
+    "favorited": false,
+    "full_text": "Can't resist a chance to support @p_millerd. I've been battling against my work and money scripts for years and his books have helped me see that I was going the right way, even when everything got harder.\n\nLove this release with @metalabel_! https://t.co/jr9JVvpaMS",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1918762392307024086/photo/1",
+          "indices": [
+            "243",
+            "266"
+          ],
+          "url": "https://t.co/jr9JVvpaMS",
+          "media_url": "http://pbs.twimg.com/media/GqDPxiUXYAACNSP.jpg",
+          "id_str": "1918761891192594432",
+          "id": "1918761891192594432",
+          "media_url_https": "https://pbs.twimg.com/media/GqDPxiUXYAACNSP.jpg",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "1920",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jr9JVvpaMS"
+        }
+      ]
+    }
+  }
+}

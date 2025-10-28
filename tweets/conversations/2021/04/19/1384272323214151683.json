@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1384272323214151683"
+        ],
+        "editableUntil": "2021-04-19T23:26:55.047Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Emmy",
+          "screen_name": "EmmySobieski",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1668526861",
+          "id": "1668526861"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/es3ELGsaCY",
+          "expanded_url": "http://Myhealth.mba",
+          "display_url": "Myhealth.mba",
+          "indices": [
+            "63",
+            "86"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1384272323214151683",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1384272323214151683",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 19 22:26:55 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @EmmySobieski: Building in public\n\nLaunched my new website\n\nhttps://t.co/es3ELGsaCY is 360 degree health\n\nMy health is more than diet an…",
+    "lang": "en"
+  }
+}

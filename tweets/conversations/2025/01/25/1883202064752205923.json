@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1883202064752205923"
+        ],
+        "editableUntil": "2025-01-25T18:15:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lightning_Shade",
+          "screen_name": "LightningShade0",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "694943360277151744",
+          "id": "694943360277151744"
+        },
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "307"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1882923266396045386",
+    "id_str": "1883202064752205923",
+    "in_reply_to_user_id": "694943360277151744",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1883202064752205923",
+    "in_reply_to_status_id": "1882923266396045386",
+    "created_at": "Sat Jan 25 17:15:35 +0000 2025",
+    "favorited": false,
+    "full_text": "@LightningShade0 @visakanv It's getting worse too, I think. With more access to information, we spend way more time than we used to be able to learning about specific things, so it gives us an illusion of understanding that isn't necessarily rooted in reality.\n\nWe're building our models of the world based…",
+    "lang": "en",
+    "in_reply_to_screen_name": "LightningShade0",
+    "in_reply_to_user_id_str": "694943360277151744"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1447683268405567492"
+        ],
+        "editableUntil": "2021-10-11T22:59:22.499Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Scott David Meyer",
+          "screen_name": "MrScottMeyer",
+          "indices": [
+            "16",
+            "29"
+          ],
+          "id_str": "10466662",
+          "id": "10466662"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mdP2GD3i6s",
+          "expanded_url": "https://accelerated.uj.edu",
+          "display_url": "accelerated.uj.edu",
+          "indices": [
+            "96",
+            "119"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "119"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1447683267243790338",
+    "id_str": "1447683268405567492",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1447683268405567492",
+    "in_reply_to_status_id": "1447683267243790338",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 11 21:59:22 +0000 2021",
+    "favorited": false,
+    "full_text": "Between him and @MrScottMeyer , I know this accelerator will be incredible. \n\nCheck them out at https://t.co/mdP2GD3i6s",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

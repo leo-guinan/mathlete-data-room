@@ -1,0 +1,70 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363529470347534343"
+        ],
+        "editableUntil": "2021-02-21T17:42:13.540Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Bokor",
+          "screen_name": "brianbokor",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1419080193361072132",
+          "id": "1419080193361072132"
+        },
+        {
+          "name": "René Brooks | Black Girl, Lost Keys",
+          "screen_name": "blkgirllostkeys",
+          "indices": [
+            "39",
+            "55"
+          ],
+          "id_str": "74353840",
+          "id": "74353840"
+        },
+        {
+          "name": "Hank Neloms",
+          "screen_name": "MongoSlade64",
+          "indices": [
+            "56",
+            "69"
+          ],
+          "id_str": "73543460",
+          "id": "73543460"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "334"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1363527915866968064",
+    "id_str": "1363529470347534343",
+    "in_reply_to_user_id": "1108595321439830016",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363529470347534343",
+    "in_reply_to_status_id": "1363527915866968064",
+    "created_at": "Sun Feb 21 16:42:13 +0000 2021",
+    "favorited": false,
+    "full_text": "@brianbokor @DilichiDavies @bengalriot @blkgirllostkeys @MongoSlade64 Thanks. :) it is both the best and worst idea for someone with ADHD. It is everything I wanted. And it exposes all of my weaknesses. So I go back and forth depending on the day. But it also forces me to confront my weaknesses, which I think is overall a good thing",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1108595321439830016"
+  }
+}

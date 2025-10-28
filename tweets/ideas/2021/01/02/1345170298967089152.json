@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345170298967089152"
+        ],
+        "editableUntil": "2021-01-02T01:49:25.986Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sJP1c15NrF",
+          "expanded_url": "https://inspirobot.me/share?iuid=a/qjepE5DMJn.jpg",
+          "display_url": "inspirobot.me/share?iuid=a/q…",
+          "indices": [
+            "0",
+            "23"
+          ]
+        },
+        {
+          "url": "https://t.co/J41WC6zjkT",
+          "expanded_url": "https://x.com/findmereading/status/1344783599174897665",
+          "display_url": "x.com/findmereading/…",
+          "indices": [
+            "43",
+            "66"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "0",
+    "id_str": "1345170298967089152",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345170298967089152",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 02 00:49:25 +0000 2021",
+    "favorited": false,
+    "full_text": "https://t.co/sJP1c15NrF\n\nWords to live by. https://t.co/J41WC6zjkT",
+    "lang": "en"
+  }
+}

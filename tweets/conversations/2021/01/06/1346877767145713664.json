@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346877767145713664"
+        ],
+        "editableUntil": "2021-01-06T18:54:18.123Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Deb Mukherjee",
+          "screen_name": "debgotwired",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1906483951",
+          "id": "1906483951"
+        },
+        {
+          "name": "Lenny Rachitsky",
+          "screen_name": "lennysan",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "7958322",
+          "id": "7958322"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346877767145713664",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346877767145713664",
+    "created_at": "Wed Jan 06 17:54:18 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @debgotwired: @lennysan I'm so glad that you asked this. We write our JDs from scratch and it resonates incredibly well with our audienc…",
+    "lang": "en"
+  }
+}

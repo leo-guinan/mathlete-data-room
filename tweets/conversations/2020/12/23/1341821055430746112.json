@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1341821055430746112"
+        ],
+        "editableUntil": "2020-12-23T20:00:44.101Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kevin Weil 🇺🇸",
+          "screen_name": "kevinweil",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "3452911",
+          "id": "3452911"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1341821055430746112",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1341821055430746112",
+    "created_at": "Wed Dec 23 19:00:44 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @kevinweil: Matthew and I were making freestyle Legos. Every time I placed a piece, he'd move it somewhere else. After a while of this:…",
+    "lang": "en"
+  }
+}

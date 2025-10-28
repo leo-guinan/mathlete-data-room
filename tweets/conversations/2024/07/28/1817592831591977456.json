@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1817592831591977456"
+        ],
+        "editableUntil": "2024-07-28T17:07:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TbKfiXpnVG",
+          "expanded_url": "https://youtu.be/BqxGnJaDR1o",
+          "display_url": "youtu.be/BqxGnJaDR1o",
+          "indices": [
+            "119",
+            "142"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "142"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1817592656538861587",
+    "id_str": "1817592831591977456",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1817592831591977456",
+    "in_reply_to_status_id": "1817592656538861587",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 28 16:07:54 +0000 2024",
+    "favorited": false,
+    "full_text": "Dropped some thoughts on the paper on synthetic data causing model collapse, in case you were curious about the video:\nhttps://t.co/TbKfiXpnVG",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

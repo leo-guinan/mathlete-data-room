@@ -1,0 +1,193 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1574169819699548161"
+        ],
+        "editableUntil": "2022-09-25T23:21:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "32",
+            "43"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "44",
+            "60"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "78",
+            "92"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "93",
+            "105"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1574169819699548161/photo/1",
+          "indices": [
+            "106",
+            "129"
+          ],
+          "url": "https://t.co/UH4DzMBsK9",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdiTGasXkAE0dsk.jpg",
+          "id_str": "1574169808219901953",
+          "id": "1574169808219901953",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdiTGasXkAE0dsk.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "306",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "306",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "306",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/UH4DzMBsK9"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "129"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1574088531534032897",
+    "id_str": "1574169819699548161",
+    "in_reply_to_user_id": "280523147",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1574169819699548161",
+    "in_reply_to_status_id": "1574088531534032897",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 25 22:51:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@tshubillabong @JustinAllingham @LobowSpark @BlushingCrafter @Up4thechalleng2 @MechiMansilla @UntappedKeg https://t.co/UH4DzMBsK9",
+    "lang": "qme",
+    "in_reply_to_screen_name": "tshubillabong",
+    "in_reply_to_user_id_str": "280523147",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1574169819699548161/photo/1",
+          "indices": [
+            "106",
+            "129"
+          ],
+          "url": "https://t.co/UH4DzMBsK9",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FdiTGasXkAE0dsk.jpg",
+          "id_str": "1574169808219901953",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "51"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FdiTGasXkAE0dsk.mp4"
+              }
+            ]
+          },
+          "id": "1574169808219901953",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdiTGasXkAE0dsk.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "306",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "306",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "306",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/UH4DzMBsK9"
+        }
+      ]
+    }
+  }
+}

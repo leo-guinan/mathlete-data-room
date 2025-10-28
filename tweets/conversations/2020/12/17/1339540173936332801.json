@@ -1,0 +1,151 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339540173936332801"
+        ],
+        "editableUntil": "2020-12-17T12:57:19.576Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Indiana Men's Soccer",
+          "screen_name": "IndianaMSOC",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "29739264",
+          "id": "29739264"
+        },
+        {
+          "name": "Aidan Morris",
+          "screen_name": "AidanZMorris",
+          "indices": [
+            "70",
+            "83"
+          ],
+          "id_str": "1213598834925789184",
+          "id": "1213598834925789184"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/IndianaMSOC/status/1338951971651383296/photo/1",
+          "source_status_id": "1338951971651383296",
+          "indices": [
+            "93",
+            "116"
+          ],
+          "url": "https://t.co/7RyEOWp0ru",
+          "media_url": "http://pbs.twimg.com/media/EpThz-oW4AMpyMp.jpg",
+          "id_str": "1338943272337727491",
+          "source_user_id": "29739264",
+          "id": "1338943272337727491",
+          "media_url_https": "https://pbs.twimg.com/media/EpThz-oW4AMpyMp.jpg",
+          "source_user_id_str": "29739264",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "340",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1400",
+              "h": "700",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "600",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1338951971651383296",
+          "display_url": "pic.x.com/7RyEOWp0ru"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ProIU",
+          "indices": [
+            "86",
+            "92"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "0",
+    "id_str": "1339540173936332801",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339540173936332801",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 17 11:57:19 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @IndianaMSOC: How about one more round of applause for the kid? 👏\n\n@AidanZMorris | #ProIU https://t.co/7RyEOWp0ru",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/IndianaMSOC/status/1338951971651383296/photo/1",
+          "source_status_id": "1338951971651383296",
+          "indices": [
+            "93",
+            "116"
+          ],
+          "url": "https://t.co/7RyEOWp0ru",
+          "media_url": "http://pbs.twimg.com/media/EpThz-oW4AMpyMp.jpg",
+          "id_str": "1338943272337727491",
+          "source_user_id": "29739264",
+          "id": "1338943272337727491",
+          "media_url_https": "https://pbs.twimg.com/media/EpThz-oW4AMpyMp.jpg",
+          "source_user_id_str": "29739264",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "340",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1400",
+              "h": "700",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "600",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1338951971651383296",
+          "display_url": "pic.x.com/7RyEOWp0ru"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938591345398219021"
+        ],
+        "editableUntil": "2025-06-27T14:32:48.685Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jakob Greenfeld",
+          "screen_name": "jakobgreenfeld",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1285142519525892098",
+          "id": "1285142519525892098"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1938591345398219021",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938591345398219021",
+    "created_at": "Fri Jun 27 13:32:48 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @jakobgreenfeld: Can we please make it stop. \n\nEven Airtable now clutters everything with their AI nonsense.\n\nNot every product needs to…",
+    "lang": "en"
+  }
+}

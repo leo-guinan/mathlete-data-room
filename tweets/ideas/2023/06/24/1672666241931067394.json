@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1672666241931067394"
+        ],
+        "editableUntil": "2023-06-24T19:01:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "3",
+    "id_str": "1672666241931067394",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1672666241931067394",
+    "created_at": "Sat Jun 24 18:01:23 +0000 2023",
+    "favorited": false,
+    "full_text": "So close to getting this automation working. Biggest issue right now: trying to input paragraphs into Notion pages with length &gt; 2000 characters is apparently not supported.\n\nSo creating an N8N node that can split the text into sections of no longer than 1600 characters.",
+    "lang": "en"
+  }
+}

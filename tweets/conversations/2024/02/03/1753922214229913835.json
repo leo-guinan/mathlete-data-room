@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1753922214229913835"
+        ],
+        "editableUntil": "2024-02-04T00:23:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dayo Samuel 💯",
+          "screen_name": "iamDayoSamuel",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "751273519",
+          "id": "751273519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "210"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1753892054134861872",
+    "id_str": "1753922214229913835",
+    "in_reply_to_user_id": "751273519",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1753922214229913835",
+    "in_reply_to_status_id": "1753892054134861872",
+    "created_at": "Sat Feb 03 23:23:36 +0000 2024",
+    "favorited": false,
+    "full_text": "@iamDayoSamuel Yeah, I upgraded to get long posts, but then I realized it doesn't notify people if you reply with a long post.\n\nSo I always just reply with a short post to the long post indicating as such haha.",
+    "lang": "en",
+    "in_reply_to_screen_name": "iamDayoSamuel",
+    "in_reply_to_user_id_str": "751273519"
+  }
+}

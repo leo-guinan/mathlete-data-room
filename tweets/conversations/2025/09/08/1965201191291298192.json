@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1965201191291298192"
+        ],
+        "editableUntil": "2025-09-09T00:50:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1965183832078123324",
+    "id_str": "1965201191291298192",
+    "in_reply_to_user_id": "28369153",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1965201191291298192",
+    "in_reply_to_status_id": "1965183832078123324",
+    "created_at": "Mon Sep 08 23:50:50 +0000 2025",
+    "favorited": false,
+    "full_text": "@jposhaughnessy I started digging into the line between genius and madness, and as it turns out, there wasn't one during the brightest period of human flourishing: the Renaissance. And that's because there was a very specific network structure in place: the bottegas.\n\nIndividual genius was…",
+    "lang": "en",
+    "in_reply_to_screen_name": "jposhaughnessy",
+    "in_reply_to_user_id_str": "28369153"
+  }
+}

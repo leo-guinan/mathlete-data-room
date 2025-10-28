@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1457430897507160064"
+        ],
+        "editableUntil": "2021-11-07T20:32:58.379Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1457429534999990286",
+    "id_str": "1457430897507160064",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1457430897507160064",
+    "in_reply_to_status_id": "1457429534999990286",
+    "created_at": "Sun Nov 07 19:32:58 +0000 2021",
+    "favorited": false,
+    "full_text": "@bkh_leung A user's mailbox is their hub of operations. It acts as a defacto queue, from which the user can process things the way they want. \n\nIt's a users database, allowing them to collect all kinds of resources, tagging and cataloging things the way they want.\n\nSo how do you disrupt it?",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

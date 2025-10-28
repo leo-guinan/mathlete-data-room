@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941198755656855669"
+        ],
+        "editableUntil": "2025-07-04T19:13:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uiqOL7f1hf",
+          "expanded_url": "https://x.com/leo_guinan/status/1941176899083903125",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "80",
+            "103"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "103"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941119099532378580",
+    "id_str": "1941198755656855669",
+    "in_reply_to_user_id": "44196397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941198755656855669",
+    "in_reply_to_status_id": "1941119099532378580",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 04 18:13:43 +0000 2025",
+    "favorited": false,
+    "full_text": "@elonmusk Internet 2.0 is the answer that makes a political party unnecessary.\n\nhttps://t.co/uiqOL7f1hf",
+    "lang": "en",
+    "in_reply_to_screen_name": "elonmusk",
+    "in_reply_to_user_id_str": "44196397"
+  }
+}

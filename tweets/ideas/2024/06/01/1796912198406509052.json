@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1796912198406509052"
+        ],
+        "editableUntil": "2024-06-01T15:30:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1796912198406509052/photo/1",
+          "indices": [
+            "117",
+            "140"
+          ],
+          "url": "https://t.co/XsaSyMbfUC",
+          "media_url": "http://pbs.twimg.com/media/GO_p8AWWAAAUVRZ.png",
+          "id_str": "1796911993439256576",
+          "id": "1796911993439256576",
+          "media_url_https": "https://pbs.twimg.com/media/GO_p8AWWAAAUVRZ.png",
+          "sizes": {
+            "large": {
+              "w": "716",
+              "h": "140",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "140",
+              "h": "140",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "716",
+              "h": "140",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "133",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XsaSyMbfUC"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "1",
+    "id_str": "1796912198406509052",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1796912198406509052",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 01 14:30:27 +0000 2024",
+    "favorited": false,
+    "full_text": "Man, these cold DMs are getting better and better.\n\nThe warmth I feel in my heart when I'm called \"Lead\" is just 🔥🔥🔥 https://t.co/XsaSyMbfUC",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1796912198406509052/photo/1",
+          "indices": [
+            "117",
+            "140"
+          ],
+          "url": "https://t.co/XsaSyMbfUC",
+          "media_url": "http://pbs.twimg.com/media/GO_p8AWWAAAUVRZ.png",
+          "id_str": "1796911993439256576",
+          "id": "1796911993439256576",
+          "media_url_https": "https://pbs.twimg.com/media/GO_p8AWWAAAUVRZ.png",
+          "sizes": {
+            "large": {
+              "w": "716",
+              "h": "140",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "140",
+              "h": "140",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "716",
+              "h": "140",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "133",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XsaSyMbfUC"
+        }
+      ]
+    }
+  }
+}

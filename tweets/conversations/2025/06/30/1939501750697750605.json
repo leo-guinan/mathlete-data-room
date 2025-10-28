@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939501750697750605"
+        ],
+        "editableUntil": "2025-06-30T02:50:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eliezer Yudkowsky ⏹️",
+          "screen_name": "ESYudkowsky",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2595244026",
+          "id": "2595244026"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LqkeJVGp20",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/internet-20-integrated-mesh-governance",
+          "display_url": "hitchhikertothefuture.substack.com/p/internet-20-…",
+          "indices": [
+            "121",
+            "144"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939501750697750605/photo/1",
+          "indices": [
+            "145",
+            "168"
+          ],
+          "url": "https://t.co/CIJA0oPZQn",
+          "media_url": "http://pbs.twimg.com/media/Gup-izIXoAAHAIY.png",
+          "id_str": "1939501725842382848",
+          "id": "1939501725842382848",
+          "media_url_https": "https://pbs.twimg.com/media/Gup-izIXoAAHAIY.png",
+          "sizes": {
+            "large": {
+              "w": "1452",
+              "h": "756",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "354",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "625",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/CIJA0oPZQn"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "168"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1939457258221691108",
+    "id_str": "1939501750697750605",
+    "in_reply_to_user_id": "2595244026",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939501750697750605",
+    "in_reply_to_status_id": "1939457258221691108",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 30 01:50:26 +0000 2025",
+    "favorited": false,
+    "full_text": "@ESYudkowsky Actually it's that time ran at the correct rate for everyone in the economy.\n\nWe align AI, we fix obesity.\n\nhttps://t.co/LqkeJVGp20 https://t.co/CIJA0oPZQn",
+    "lang": "en",
+    "in_reply_to_screen_name": "ESYudkowsky",
+    "in_reply_to_user_id_str": "2595244026",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939501750697750605/photo/1",
+          "indices": [
+            "145",
+            "168"
+          ],
+          "url": "https://t.co/CIJA0oPZQn",
+          "media_url": "http://pbs.twimg.com/media/Gup-izIXoAAHAIY.png",
+          "id_str": "1939501725842382848",
+          "id": "1939501725842382848",
+          "media_url_https": "https://pbs.twimg.com/media/Gup-izIXoAAHAIY.png",
+          "sizes": {
+            "large": {
+              "w": "1452",
+              "h": "756",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "354",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "625",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/CIJA0oPZQn"
+        }
+      ]
+    }
+  }
+}

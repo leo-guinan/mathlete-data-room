@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1433615421433917443"
+        ],
+        "editableUntil": "2021-09-03T03:18:46.413Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Garcia 🔍",
+          "screen_name": "alexgarcia_atx",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "822518487675305984",
+          "id": "822518487675305984"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1433615421433917443",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1433615421433917443",
+    "created_at": "Fri Sep 03 02:18:46 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @alexgarcia_atx: Drop your site in the comments and I’ll rewrite your above the fold section this weekend. \n\nPicking 10 sites. \n\nI’ll fe…",
+    "lang": "en"
+  }
+}

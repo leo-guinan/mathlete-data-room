@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1904163871268442121"
+        ],
+        "editableUntil": "2025-03-24T14:30:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "alegator",
+          "screen_name": "alegator_cs",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1675589499223506944",
+          "id": "1675589499223506944"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1904163308007039303",
+    "id_str": "1904163871268442121",
+    "in_reply_to_user_id": "1675589499223506944",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1904163871268442121",
+    "in_reply_to_status_id": "1904163308007039303",
+    "created_at": "Mon Mar 24 13:30:19 +0000 2025",
+    "favorited": false,
+    "full_text": "@alegator_cs Can definitely make tomorrow work. Are you good with livestreaming the conversation instead of just recording it? That's what I've been doing lately because I love giving people the raw format in a world that cuts things up all the time first. It's the way I think verification…",
+    "lang": "en",
+    "in_reply_to_screen_name": "alegator_cs",
+    "in_reply_to_user_id_str": "1675589499223506944"
+  }
+}

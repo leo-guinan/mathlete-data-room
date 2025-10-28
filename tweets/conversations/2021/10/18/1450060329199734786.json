@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1450060329199734786"
+        ],
+        "editableUntil": "2021-10-18T12:24:57.956Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ask ADHD",
+          "screen_name": "AskADHD",
+          "indices": [
+            "13",
+            "21"
+          ],
+          "id_str": "1249961238815076352",
+          "id": "1249961238815076352"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "163"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1450056750233706497",
+    "id_str": "1450060329199734786",
+    "in_reply_to_user_id": "1415037388095692802",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1450060329199734786",
+    "in_reply_to_status_id": "1450056750233706497",
+    "created_at": "Mon Oct 18 11:24:57 +0000 2021",
+    "favorited": false,
+    "full_text": "@ND_DevDream @AskADHD My DMs are open. I'd be happy to chat. Recently figured out I was ADHD and it really opened my eyes. \n\nI'd love to help out in any way I can!",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1415037388095692802"
+  }
+}

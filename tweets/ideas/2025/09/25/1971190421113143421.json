@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1971190421113143421"
+        ],
+        "editableUntil": "2025-09-25T13:29:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971190421113143421/photo/1",
+          "indices": [
+            "69",
+            "92"
+          ],
+          "url": "https://t.co/JtcHbx5Utl",
+          "media_url": "http://pbs.twimg.com/media/G1sTGKXWAAAjV73.jpg",
+          "id_str": "1971190258487132160",
+          "id": "1971190258487132160",
+          "media_url_https": "https://pbs.twimg.com/media/G1sTGKXWAAAjV73.jpg",
+          "sizes": {
+            "large": {
+              "w": "1914",
+              "h": "1908",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1196",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "678",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JtcHbx5Utl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "92"
+    ],
+    "favorite_count": "1",
+    "id_str": "1971190421113143421",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1971190421113143421",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 25 12:29:53 +0000 2025",
+    "favorited": false,
+    "full_text": "Reddit experiment in full swing. One successful post of 3 yesterday. https://t.co/JtcHbx5Utl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971190421113143421/photo/1",
+          "indices": [
+            "69",
+            "92"
+          ],
+          "url": "https://t.co/JtcHbx5Utl",
+          "media_url": "http://pbs.twimg.com/media/G1sTGKXWAAAjV73.jpg",
+          "id_str": "1971190258487132160",
+          "id": "1971190258487132160",
+          "media_url_https": "https://pbs.twimg.com/media/G1sTGKXWAAAjV73.jpg",
+          "sizes": {
+            "large": {
+              "w": "1914",
+              "h": "1908",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1196",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "678",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JtcHbx5Utl"
+        }
+      ]
+    }
+  }
+}

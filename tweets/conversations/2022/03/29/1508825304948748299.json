@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1508825304948748299"
+        ],
+        "editableUntil": "2022-03-29T16:15:59.975Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1508825304948748299",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1508825304948748299",
+    "created_at": "Tue Mar 29 15:15:59 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @dagorenouf: I was scared to launch my startup before it was perfect.\n\nWhat if people think it sucks? \n\nBut I launched anyway and it was…",
+    "lang": "en"
+  }
+}

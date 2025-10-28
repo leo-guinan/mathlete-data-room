@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1592230918684438530"
+        ],
+        "editableUntil": "2022-11-14T19:30:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Flightcontrol",
+          "screen_name": "Flightcontrolhq",
+          "indices": [
+            "177",
+            "193"
+          ],
+          "id_str": "1416737194321104899",
+          "id": "1416737194321104899"
+        },
+        {
+          "name": "Brandon 🚀 Flightcontrol",
+          "screen_name": "flybayer",
+          "indices": [
+            "203",
+            "212"
+          ],
+          "id_str": "2826554209",
+          "id": "2826554209"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P8rUiGxmKp",
+          "expanded_url": "https://x.com/flybayer/status/1592143054944620545",
+          "display_url": "x.com/flybayer/statu…",
+          "indices": [
+            "233",
+            "256"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "5",
+    "id_str": "1592230918684438530",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1592230918684438530",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 14 19:00:07 +0000 2022",
+    "favorited": false,
+    "full_text": "I really appreciate this way of doing things. Allows me to use my credits on AWS and yet not have to worry about handling all the complex interactions of AWS.\n\nI'm a big fan of @Flightcontrolhq and what @flybayer and team are doing! https://t.co/P8rUiGxmKp",
+    "lang": "en"
+  }
+}

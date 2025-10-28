@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1879320414079349078"
+        ],
+        "editableUntil": "2025-01-15T01:11:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1879320414079349078/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/ZAORiaeYgP",
+          "media_url": "http://pbs.twimg.com/media/GhSv9O1WQAAJGBB.jpg",
+          "id_str": "1879320411009073152",
+          "id": "1879320411009073152",
+          "media_url_https": "https://pbs.twimg.com/media/GhSv9O1WQAAJGBB.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "260",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1150",
+              "h": "440",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1150",
+              "h": "440",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZAORiaeYgP"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "2",
+    "id_str": "1879320414079349078",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1879320414079349078",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 15 00:11:17 +0000 2025",
+    "favorited": false,
+    "full_text": "This is my competition. \n\nMan, I’m going to have fun destroying the banking industry. \n\nYou focus on that, I’ll focus on the fundamental nature of money and how we create a viable and valuable society. \n\nI don’t know who is going to win (I’m lying. It’s going to be me) but I do… https://t.co/ZAORiaeYgP",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1879320414079349078/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/ZAORiaeYgP",
+          "media_url": "http://pbs.twimg.com/media/GhSv9O1WQAAJGBB.jpg",
+          "id_str": "1879320411009073152",
+          "id": "1879320411009073152",
+          "media_url_https": "https://pbs.twimg.com/media/GhSv9O1WQAAJGBB.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "260",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1150",
+              "h": "440",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1150",
+              "h": "440",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZAORiaeYgP"
+        }
+      ]
+    }
+  }
+}

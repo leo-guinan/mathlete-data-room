@@ -1,0 +1,79 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516904804148203520"
+        ],
+        "editableUntil": "2022-04-20T22:51:02.694Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "100devs",
+          "indices": [
+            "206",
+            "214"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dana 李",
+          "screen_name": "danamitecoder",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1480339102713233408",
+          "id": "1480339102713233408"
+        },
+        {
+          "name": "Leon Noel 🔥",
+          "screen_name": "leonnoel",
+          "indices": [
+            "15",
+            "24"
+          ],
+          "id_str": "21020590",
+          "id": "21020590"
+        },
+        {
+          "name": "Leon Noel 🔥",
+          "screen_name": "leonnoel",
+          "indices": [
+            "151",
+            "160"
+          ],
+          "id_str": "21020590",
+          "id": "21020590"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1516872139575492608",
+    "id_str": "1516904804148203520",
+    "in_reply_to_user_id": "1480339102713233408",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1516904804148203520",
+    "in_reply_to_status_id": "1516872139575492608",
+    "created_at": "Wed Apr 20 22:21:02 +0000 2022",
+    "favorited": false,
+    "full_text": "@danamitecoder @leonnoel It's totally true. I was blown away when I was part of ODCC and saw what online education could be.\n\nAnd I really need to get @leonnoel on my podcast.\n\nEveryone I've talked to from #100devs tells me how awesome he is. \n\nThat's the type of impact I love to see!",
+    "lang": "en",
+    "in_reply_to_screen_name": "danamitecoder",
+    "in_reply_to_user_id_str": "1480339102713233408"
+  }
+}

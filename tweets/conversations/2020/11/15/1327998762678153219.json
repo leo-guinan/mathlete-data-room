@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327998762678153219"
+        ],
+        "editableUntil": "2020-11-15T16:35:52.703Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aaron Rupar",
+          "screen_name": "atrupar",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "288277167",
+          "id": "288277167"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "163"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1327995620347535360",
+    "id_str": "1327998762678153219",
+    "in_reply_to_user_id": "288277167",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327998762678153219",
+    "in_reply_to_status_id": "1327995620347535360",
+    "created_at": "Sun Nov 15 15:35:52 +0000 2020",
+    "favorited": false,
+    "full_text": "@atrupar She is talking about the form isn't she. The one that lets everyone write anything? That is gonna be one hell of a reveal....wish I could be there for it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "atrupar",
+    "in_reply_to_user_id_str": "288277167"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1522945010353725440"
+        ],
+        "editableUntil": "2022-05-07T14:52:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1522945010353725440/photo/1",
+          "indices": [
+            "131",
+            "154"
+          ],
+          "url": "https://t.co/ixeyGXHO9w",
+          "media_url": "http://pbs.twimg.com/media/FSKWanUWYAAfbDZ.jpg",
+          "id_str": "1522945007979749376",
+          "id": "1522945007979749376",
+          "media_url_https": "https://pbs.twimg.com/media/FSKWanUWYAAfbDZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ixeyGXHO9w"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "12",
+    "id_str": "1522945010353725440",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1522945010353725440",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 07 14:22:40 +0000 2022",
+    "favorited": false,
+    "full_text": "Getting into the second leg of my vacation. Out of Miami, and now on the lake. Different vibe, but recharging different batteries. https://t.co/ixeyGXHO9w",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1522945010353725440/photo/1",
+          "indices": [
+            "131",
+            "154"
+          ],
+          "url": "https://t.co/ixeyGXHO9w",
+          "media_url": "http://pbs.twimg.com/media/FSKWanUWYAAfbDZ.jpg",
+          "id_str": "1522945007979749376",
+          "id": "1522945007979749376",
+          "media_url_https": "https://pbs.twimg.com/media/FSKWanUWYAAfbDZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ixeyGXHO9w"
+        }
+      ]
+    }
+  }
+}

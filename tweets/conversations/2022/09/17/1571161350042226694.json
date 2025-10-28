@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1571161350042226694"
+        ],
+        "editableUntil": "2022-09-17T16:07:11.273Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1571161350042226694",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1571161350042226694",
+    "created_at": "Sat Sep 17 15:37:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: Ep 8 of Lobow’s SPARK Reality Show is now available on Patreon. So proud of producing over 10hrs of intimate ADHD content.…",
+    "lang": "en"
+  }
+}

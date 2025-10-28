@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1488227392330076168"
+        ],
+        "editableUntil": "2022-01-31T20:07:14.916Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessie van Breugel 🟣",
+          "screen_name": "jessievbreugel",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "416546307",
+          "id": "416546307"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1488226340511916042",
+    "id_str": "1488227392330076168",
+    "in_reply_to_user_id": "416546307",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1488227392330076168",
+    "in_reply_to_status_id": "1488226340511916042",
+    "created_at": "Mon Jan 31 19:07:14 +0000 2022",
+    "favorited": false,
+    "full_text": "@jessievbreugel The people I want to connect with are here.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jessievbreugel",
+    "in_reply_to_user_id_str": "416546307"
+  }
+}

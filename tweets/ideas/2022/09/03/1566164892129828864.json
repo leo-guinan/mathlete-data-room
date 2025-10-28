@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566164892129828864"
+        ],
+        "editableUntil": "2022-09-03T21:13:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1566164892129828864/photo/1",
+          "indices": [
+            "199",
+            "222"
+          ],
+          "url": "https://t.co/OSzCdyhCJG",
+          "media_url": "http://pbs.twimg.com/media/Fbwiq2iXwAEJ4na.jpg",
+          "id_str": "1566164890007617537",
+          "id": "1566164890007617537",
+          "media_url_https": "https://pbs.twimg.com/media/Fbwiq2iXwAEJ4na.jpg",
+          "sizes": {
+            "medium": {
+              "w": "440",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "752",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "250",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/OSzCdyhCJG"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "222"
+    ],
+    "favorite_count": "0",
+    "id_str": "1566164892129828864",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566164892129828864",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 03 20:43:02 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, Twitter, which tweet are you asking me about?\n\nI mean, the answer is weirdly the same. \n\nBut also, I feel like you should know by now. You've been at this a long time. \n\nWhy do you need my help? https://t.co/OSzCdyhCJG",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1566164892129828864/photo/1",
+          "indices": [
+            "199",
+            "222"
+          ],
+          "url": "https://t.co/OSzCdyhCJG",
+          "media_url": "http://pbs.twimg.com/media/Fbwiq2iXwAEJ4na.jpg",
+          "id_str": "1566164890007617537",
+          "id": "1566164890007617537",
+          "media_url_https": "https://pbs.twimg.com/media/Fbwiq2iXwAEJ4na.jpg",
+          "sizes": {
+            "medium": {
+              "w": "440",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "752",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "250",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/OSzCdyhCJG"
+        }
+      ]
+    }
+  }
+}

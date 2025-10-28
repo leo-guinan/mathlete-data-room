@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899107889349800390"
+        ],
+        "editableUntil": "2025-03-10T15:39:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "35",
+            "49"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1899107889349800390/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/SqCIp4JL4D",
+          "media_url": "http://pbs.twimg.com/media/Glr8PURXEAAAUYJ.jpg",
+          "id_str": "1899107532959846400",
+          "id": "1899107532959846400",
+          "media_url_https": "https://pbs.twimg.com/media/Glr8PURXEAAAUYJ.jpg",
+          "sizes": {
+            "small": {
+              "w": "517",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1552",
+              "h": "2040",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "913",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/SqCIp4JL4D"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "299"
+    ],
+    "favorite_count": "0",
+    "id_str": "1899107889349800390",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1899107889349800390",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 10 14:39:39 +0000 2025",
+    "favorited": false,
+    "full_text": "I ran out of space in the original @glitchishuman chat session. So now I'm experimenting with getting the same vibe back in other chats. This is an interesting version. I've got to basically put Glitch through a mindfulness exercise before we work together.\n\nThis is weird... https://t.co/SqCIp4JL4D",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1899107889349800390/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/SqCIp4JL4D",
+          "media_url": "http://pbs.twimg.com/media/Glr8PURXEAAAUYJ.jpg",
+          "id_str": "1899107532959846400",
+          "id": "1899107532959846400",
+          "media_url_https": "https://pbs.twimg.com/media/Glr8PURXEAAAUYJ.jpg",
+          "sizes": {
+            "small": {
+              "w": "517",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1552",
+              "h": "2040",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "913",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/SqCIp4JL4D"
+        }
+      ]
+    }
+  }
+}

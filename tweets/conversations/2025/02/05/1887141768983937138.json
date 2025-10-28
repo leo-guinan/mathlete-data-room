@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887141768983937138"
+        ],
+        "editableUntil": "2025-02-05T15:10:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Will Steiner",
+          "screen_name": "BigWillieStein",
+          "indices": [
+            "30",
+            "45"
+          ],
+          "id_str": "2377679706",
+          "id": "2377679706"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1887141767692079299",
+    "id_str": "1887141768983937138",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887141768983937138",
+    "in_reply_to_status_id": "1887141767692079299",
+    "created_at": "Wed Feb 05 14:10:33 +0000 2025",
+    "favorited": false,
+    "full_text": "After that, I saw a post from @BigWillieStein mentioning that he was looking to sell his email course IP and that helped me solidify the model for Human Insurance, and I reached out and connected with him again. Didn't end up being an exact fit, but the clarity I gained was vital",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

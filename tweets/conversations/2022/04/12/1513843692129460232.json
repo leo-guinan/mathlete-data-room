@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513843692129460232"
+        ],
+        "editableUntil": "2022-04-12T12:37:16.716Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessie van Breugel 🟣",
+          "screen_name": "jessievbreugel",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "416546307",
+          "id": "416546307"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "8",
+    "in_reply_to_status_id_str": "1513639281985740811",
+    "id_str": "1513843692129460232",
+    "in_reply_to_user_id": "416546307",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513843692129460232",
+    "in_reply_to_status_id": "1513639281985740811",
+    "created_at": "Tue Apr 12 11:37:16 +0000 2022",
+    "favorited": false,
+    "full_text": "@jessievbreugel Probably anything, honestly.\n\nBut I've got ADHD, so it won't be the same topic at the end. It will probably span a number of tangentially related topics.\n\nI can go really in depth on creator economy, software engineering, system design, and data engineering",
+    "lang": "en",
+    "in_reply_to_screen_name": "jessievbreugel",
+    "in_reply_to_user_id_str": "416546307"
+  }
+}

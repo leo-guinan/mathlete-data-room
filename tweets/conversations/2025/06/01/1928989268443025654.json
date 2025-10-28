@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928989268443025654"
+        ],
+        "editableUntil": "2025-06-01T02:37:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "240"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1928974323483554158",
+    "id_str": "1928989268443025654",
+    "in_reply_to_user_id": "5614412",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928989268443025654",
+    "in_reply_to_status_id": "1928974323483554158",
+    "created_at": "Sun Jun 01 01:37:35 +0000 2025",
+    "favorited": false,
+    "full_text": "@mykola I really wish I had a scan of my brain from before my Twitter dive. \n\nIt was so clean and clear and focused. There was a period there that was beautiful. But then I took the dive back in because it was the fastest way to the answer.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mykola",
+    "in_reply_to_user_id_str": "5614412"
+  }
+}

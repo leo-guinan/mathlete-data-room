@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1678145599248515073"
+        ],
+        "editableUntil": "2023-07-09T21:54:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1678145599248515073/photo/1",
+          "indices": [
+            "126",
+            "149"
+          ],
+          "url": "https://t.co/5bx9jh4hSu",
+          "media_url": "http://pbs.twimg.com/media/F0n4MgqWIAQ1KSb.jpg",
+          "id_str": "1678145229981884420",
+          "id": "1678145229981884420",
+          "media_url_https": "https://pbs.twimg.com/media/F0n4MgqWIAQ1KSb.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "197",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "65",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "115",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5bx9jh4hSu"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "149"
+    ],
+    "favorite_count": "1",
+    "id_str": "1678145599248515073",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1678145599248515073",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 09 20:54:23 +0000 2023",
+    "favorited": false,
+    "full_text": "Ok, who were they? Who are the 7 people who gave my video with my dog a 👎?\n\nWe need to fight now.\n\nNobody gives my doggy a 👎! https://t.co/5bx9jh4hSu",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1678145599248515073/photo/1",
+          "indices": [
+            "126",
+            "149"
+          ],
+          "url": "https://t.co/5bx9jh4hSu",
+          "media_url": "http://pbs.twimg.com/media/F0n4MgqWIAQ1KSb.jpg",
+          "id_str": "1678145229981884420",
+          "id": "1678145229981884420",
+          "media_url_https": "https://pbs.twimg.com/media/F0n4MgqWIAQ1KSb.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "197",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "65",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "115",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5bx9jh4hSu"
+        }
+      ]
+    }
+  }
+}

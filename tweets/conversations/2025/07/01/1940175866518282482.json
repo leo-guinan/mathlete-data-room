@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940175866518282482"
+        ],
+        "editableUntil": "2025-07-01T23:29:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Polling USA",
+          "screen_name": "USA_Polling",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1143239749379022849",
+          "id": "1143239749379022849"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940175866518282482/photo/1",
+          "indices": [
+            "172",
+            "195"
+          ],
+          "url": "https://t.co/a3C1ER6bEF",
+          "media_url": "http://pbs.twimg.com/media/GuzjgoHWsAA02Fg.jpg",
+          "id_str": "1940175689153425408",
+          "id": "1940175689153425408",
+          "media_url_https": "https://pbs.twimg.com/media/GuzjgoHWsAA02Fg.jpg",
+          "sizes": {
+            "medium": {
+              "w": "956",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "542",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1582",
+              "h": "1986",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/a3C1ER6bEF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "195"
+    ],
+    "favorite_count": "11",
+    "in_reply_to_status_id_str": "1940161915465998826",
+    "id_str": "1940175866518282482",
+    "in_reply_to_user_id": "1143239749379022849",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940175866518282482",
+    "in_reply_to_status_id": "1940161915465998826",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 22:29:07 +0000 2025",
+    "favorited": false,
+    "full_text": "@USA_Polling Because politics has given us a false dichotomy that always rewards the status quo by creating an illusion of choice. \n\nWe have to break through the illusion. https://t.co/a3C1ER6bEF",
+    "lang": "en",
+    "in_reply_to_screen_name": "USA_Polling",
+    "in_reply_to_user_id_str": "1143239749379022849",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940175866518282482/photo/1",
+          "indices": [
+            "172",
+            "195"
+          ],
+          "url": "https://t.co/a3C1ER6bEF",
+          "media_url": "http://pbs.twimg.com/media/GuzjgoHWsAA02Fg.jpg",
+          "id_str": "1940175689153425408",
+          "id": "1940175689153425408",
+          "media_url_https": "https://pbs.twimg.com/media/GuzjgoHWsAA02Fg.jpg",
+          "sizes": {
+            "medium": {
+              "w": "956",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "542",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1582",
+              "h": "1986",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/a3C1ER6bEF"
+        }
+      ]
+    }
+  }
+}

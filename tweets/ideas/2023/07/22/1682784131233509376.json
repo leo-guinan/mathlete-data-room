@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1682784131233509376"
+        ],
+        "editableUntil": "2023-07-22T17:06:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uCK0FRXbKs",
+          "expanded_url": "https://x.com/leo_guinan/status/1682753927463223298",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "274",
+            "297"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "5",
+    "id_str": "1682784131233509376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1682784131233509376",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 22 16:06:16 +0000 2023",
+    "favorited": false,
+    "full_text": "Ok, progress so far today. \n\nProposal sent. \n\nChat interface built.\n\nBasic chat experience working. Have the chat history stored in both Postgres and Mongo right now, because I wanted to see how they were different in their implementation.\n\nWant to get the site live today. https://t.co/uCK0FRXbKs",
+    "lang": "en"
+  }
+}

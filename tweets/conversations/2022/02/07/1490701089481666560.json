@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1490701089481666560"
+        ],
+        "editableUntil": "2022-02-07T15:56:50.276Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "53",
+            "63"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        },
+        {
+          "name": "BlackMagic.so 🪄",
+          "screen_name": "blackmagic_so",
+          "indices": [
+            "157",
+            "171"
+          ],
+          "id_str": "1418194615010689027",
+          "id": "1418194615010689027"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/p5SRBSOuvt",
+          "expanded_url": "https://x.com/bkh_leung/status/1489263428069777417",
+          "display_url": "x.com/bkh_leung/stat…",
+          "indices": [
+            "188",
+            "211"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "7",
+    "id_str": "1490701089481666560",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1490701089481666560",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 07 14:56:50 +0000 2022",
+    "favorited": false,
+    "full_text": "Get it on this! Super generous of Brian to do this.\n\n@arvidkahl 's course is amazing. I'm going through it right now, and it's definitely worth taking.\n\nAnd @blackmagic_so is awesome too. https://t.co/p5SRBSOuvt",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562814154888491008"
+        ],
+        "editableUntil": "2022-08-25T15:18:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "AMA",
+          "screen_name": "NoCodeWealth",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2994294668",
+          "id": "2994294668"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1562709498451861505",
+    "id_str": "1562814154888491008",
+    "in_reply_to_user_id": "2994294668",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562814154888491008",
+    "in_reply_to_status_id": "1562709498451861505",
+    "created_at": "Thu Aug 25 14:48:24 +0000 2022",
+    "favorited": false,
+    "full_text": "@NoCodeWealth A lot of times it's the first thing to go.\n\nAnd the last thing that should.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NoCodeWealth",
+    "in_reply_to_user_id_str": "2994294668"
+  }
+}

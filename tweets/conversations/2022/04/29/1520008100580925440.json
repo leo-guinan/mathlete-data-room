@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520008100580925440"
+        ],
+        "editableUntil": "2022-04-29T12:22:26.220Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ron Zakay 🏳️‍🌈 (he/him)",
+          "screen_name": "ronzakay",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "160795888",
+          "id": "160795888"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1519910873720000512",
+    "id_str": "1520008100580925440",
+    "in_reply_to_user_id": "160795888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520008100580925440",
+    "in_reply_to_status_id": "1519910873720000512",
+    "created_at": "Fri Apr 29 11:52:26 +0000 2022",
+    "favorited": false,
+    "full_text": "@ronzakay I truly think so too. \n\nI'm also a bit hesitant to put that in a pitch deck. \n\nI can tell you what the answer looks like. \n\nIt's part of what I've been working on. But it's tough because almost everybody is doing things in really inefficient ways\n\nthey don't want to hear that",
+    "lang": "en",
+    "in_reply_to_screen_name": "ronzakay",
+    "in_reply_to_user_id_str": "160795888"
+  }
+}

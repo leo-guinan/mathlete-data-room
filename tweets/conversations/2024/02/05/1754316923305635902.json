@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1754316923305635902"
+        ],
+        "editableUntil": "2024-02-05T02:32:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lachlan Phillips exo/acc 👾",
+          "screen_name": "bitcloud",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "14865350",
+          "id": "14865350"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "197"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1754315982959714600",
+    "id_str": "1754316923305635902",
+    "in_reply_to_user_id": "14865350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1754316923305635902",
+    "in_reply_to_status_id": "1754315982959714600",
+    "created_at": "Mon Feb 05 01:32:02 +0000 2024",
+    "favorited": false,
+    "full_text": "@bitcloud We don't need market forces to incentivize decentralization,  we need a decentralized market.\n\nI.e. one that can identify a price for a given unit given the economies of the participants.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bitcloud",
+    "in_reply_to_user_id_str": "14865350"
+  }
+}

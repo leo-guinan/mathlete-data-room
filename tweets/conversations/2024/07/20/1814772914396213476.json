@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1814772914396213476"
+        ],
+        "editableUntil": "2024-07-20T22:22:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "184"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1814772692727574557",
+    "id_str": "1814772914396213476",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1814772914396213476",
+    "in_reply_to_status_id": "1814772692727574557",
+    "created_at": "Sat Jul 20 21:22:34 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli ☝️\n\nI actually had a more complex script but then I asked claude to write one, and it was easier to use haha. So that's what I've been using for all sorts of things I create.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

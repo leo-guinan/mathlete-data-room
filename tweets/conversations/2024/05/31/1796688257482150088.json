@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1796688257482150088"
+        ],
+        "editableUntil": "2024-06-01T00:40:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Foster",
+          "screen_name": "0xFoster",
+          "indices": [
+            "41",
+            "50"
+          ],
+          "id_str": "1250822143597703169",
+          "id": "1250822143597703169"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "4",
+    "id_str": "1796688257482150088",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1796688257482150088",
+    "created_at": "Fri May 31 23:40:36 +0000 2024",
+    "favorited": false,
+    "full_text": "Took the energy from the closing session @0xFoster and poured it into a draft for my newsletter.\n\nAnd then, the real improvement: instead of hitting publish, I sent it to the editors.\n\nI want this to be a good one. It's my personal story and why I am focused on abundant systems",
+    "lang": "en"
+  }
+}

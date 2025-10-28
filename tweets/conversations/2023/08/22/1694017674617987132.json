@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1694017674617987132"
+        ],
+        "editableUntil": "2023-08-22T17:04:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Indie Hackers",
+          "screen_name": "IndieHackers",
+          "indices": [
+            "36",
+            "49"
+          ],
+          "id_str": "756326958946922496",
+          "id": "756326958946922496"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/V15ZF6lMHa",
+          "expanded_url": "https://www.indiehackers.com/post/i-am-worried-about-your-social-media-marketing-3a4e04056f",
+          "display_url": "indiehackers.com/post/i-am-worr…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "0",
+    "id_str": "1694017674617987132",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1694017674617987132",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 22 16:04:21 +0000 2023",
+    "favorited": false,
+    "full_text": "This was an interesting post in the @IndieHackers newsletter this morning:\nhttps://t.co/V15ZF6lMHa\n\nI think it's pretty spot on in a lot of ways, but there was a piece that I wanted to argue a bit:\n\nI don't view building in public as marketing.",
+    "lang": "en"
+  }
+}

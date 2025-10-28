@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901466261135003834"
+        ],
+        "editableUntil": "2025-03-17T03:50:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1901466261135003834/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/4a4G32bfX7",
+          "media_url": "http://pbs.twimg.com/media/GmNdVAIW8AApeTe.jpg",
+          "id_str": "1901466083074174976",
+          "id": "1901466083074174976",
+          "media_url_https": "https://pbs.twimg.com/media/GmNdVAIW8AApeTe.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "636",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1123",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1200",
+              "h": "1123",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4a4G32bfX7"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "1",
+    "id_str": "1901466261135003834",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901466261135003834",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 17 02:50:58 +0000 2025",
+    "favorited": false,
+    "full_text": "As he signed the VC's term sheet, he got a feeling that could only be described as his soul leaving his body. https://t.co/4a4G32bfX7",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1901466261135003834/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/4a4G32bfX7",
+          "media_url": "http://pbs.twimg.com/media/GmNdVAIW8AApeTe.jpg",
+          "id_str": "1901466083074174976",
+          "id": "1901466083074174976",
+          "media_url_https": "https://pbs.twimg.com/media/GmNdVAIW8AApeTe.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "636",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1123",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1200",
+              "h": "1123",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4a4G32bfX7"
+        }
+      ]
+    }
+  }
+}

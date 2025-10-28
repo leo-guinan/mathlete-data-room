@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1678401257084448772"
+        ],
+        "editableUntil": "2023-07-10T14:50:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "219"
+    ],
+    "favorite_count": "2",
+    "id_str": "1678401257084448772",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1678401257084448772",
+    "created_at": "Mon Jul 10 13:50:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Was working on an automation yesterday and ran into an issue: I was able to create blog posts in Markdown, but it's not completely straightforward to insert markdown into Notion via the API.\n\nSo I started investigating.",
+    "lang": "en"
+  }
+}

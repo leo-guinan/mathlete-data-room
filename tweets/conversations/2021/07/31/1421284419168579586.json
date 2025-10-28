@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1421284419168579586"
+        ],
+        "editableUntil": "2021-07-31T02:39:46.374Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nate Beckman",
+          "screen_name": "BeckmanNate",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1519858398551891968",
+          "id": "1519858398551891968"
+        },
+        {
+          "name": "csepe",
+          "screen_name": "csepe6",
+          "indices": [
+            "13",
+            "20"
+          ],
+          "id_str": "186197917",
+          "id": "186197917"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1421282556398473217",
+    "id_str": "1421284419168579586",
+    "in_reply_to_user_id": "17154613",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1421284419168579586",
+    "in_reply_to_status_id": "1421282556398473217",
+    "created_at": "Sat Jul 31 01:39:46 +0000 2021",
+    "favorited": false,
+    "full_text": "@BeckmanNate @csepe6 That's better than mine, Nate.\n\nI was just gonna say Covid.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "17154613"
+  }
+}

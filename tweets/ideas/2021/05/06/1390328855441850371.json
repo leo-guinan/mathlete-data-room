@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1390328855441850371"
+        ],
+        "editableUntil": "2021-05-06T16:33:24.855Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/f3U0aQ4VtM",
+          "expanded_url": "https://x.com/leo_guinan/status/1390089198926016518",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "25",
+            "48"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "48"
+    ],
+    "favorite_count": "0",
+    "id_str": "1390328855441850371",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1390328855441850371",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 06 15:33:24 +0000 2021",
+    "favorited": false,
+    "full_text": "Bumping for the AM crowd https://t.co/f3U0aQ4VtM",
+    "lang": "en"
+  }
+}

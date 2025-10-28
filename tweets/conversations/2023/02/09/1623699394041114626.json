@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1623699394041114626"
+        ],
+        "editableUntil": "2023-02-09T15:34:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "SimonMcNally",
+          "screen_name": "SimonMcNally5",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1344662973281927171",
+          "id": "1344662973281927171"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1623364271210958867",
+    "id_str": "1623699394041114626",
+    "in_reply_to_user_id": "1344662973281927171",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1623699394041114626",
+    "in_reply_to_status_id": "1623364271210958867",
+    "created_at": "Thu Feb 09 15:04:37 +0000 2023",
+    "favorited": false,
+    "full_text": "@SimonMcNally5 I'm still pretty up in the air about what \"success\" on Twitter means. Mostly, I've been focusing on building strong relationships with cool people, and that's felt pretty successful.\n\nI'm not as sold on the need for \"niching down\" or sticking to topics. I write what I'm thinking",
+    "lang": "en",
+    "in_reply_to_screen_name": "SimonMcNally5",
+    "in_reply_to_user_id_str": "1344662973281927171"
+  }
+}

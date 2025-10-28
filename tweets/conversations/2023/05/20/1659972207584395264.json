@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1659972207584395264"
+        ],
+        "editableUntil": "2023-05-20T17:49:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1659970479858302976",
+    "id_str": "1659972207584395264",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1659972207584395264",
+    "in_reply_to_status_id": "1659970479858302976",
+    "created_at": "Sat May 20 17:19:49 +0000 2023",
+    "favorited": false,
+    "full_text": "@p_millerd That's the biggest realization I had: when you're on your own, you don't need to capture nearly as much to be at least as effective. (which is good, because it's harder, especially starting out on your own)\n\nBut the bigger the company, the more friction that shaves off efficiency",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1530297925632417792"
+        ],
+        "editableUntil": "2022-05-27T21:50:31.688Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "614startups",
+          "screen_name": "614startups",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "957785619463360512",
+          "id": "957785619463360512"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3wo3kerNFe",
+          "expanded_url": "https://x.com/i/spaces/1nAJEYzZmgOJL",
+          "display_url": "x.com/i/spaces/1nAJE…",
+          "indices": [
+            "52",
+            "75"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "0",
+    "id_str": "1530297925632417792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1530297925632417792",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 27 21:20:31 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @614startups: First Spaces episode in the bag!!\n\nhttps://t.co/3wo3kerNFe",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1495405069612855297"
+        ],
+        "editableUntil": "2022-02-20T15:28:46.535Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mike Cardona | Automation Alchemist 🧪🔧",
+          "screen_name": "CSMikeCardona",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "2904219673",
+          "id": "2904219673"
+        },
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "15",
+            "26"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "27",
+            "43"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1495404800887775232",
+    "id_str": "1495405069612855297",
+    "in_reply_to_user_id": "2904219673",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1495405069612855297",
+    "in_reply_to_status_id": "1495404800887775232",
+    "created_at": "Sun Feb 20 14:28:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@CSMikeCardona @dagorenouf @StroutMotivateU @feathercrm 🤣🤣🤣",
+    "lang": "qme",
+    "in_reply_to_screen_name": "CSMikeCardona",
+    "in_reply_to_user_id_str": "2904219673"
+  }
+}

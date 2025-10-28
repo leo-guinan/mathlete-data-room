@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1358210176298455040"
+        ],
+        "editableUntil": "2021-02-07T01:25:15.011Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Del Johnson",
+          "screen_name": "DelJohnsonVC",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "815847044",
+          "id": "815847044"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/G96pZnPUYB",
+          "expanded_url": "https://definet.dev/the-beginning-of-the-end-for-facebook/",
+          "display_url": "definet.dev/the-beginning-…",
+          "indices": [
+            "40",
+            "63"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "0",
+    "id_str": "1358210176298455040",
+    "in_reply_to_user_id": "815847044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1358210176298455040",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 07 00:25:15 +0000 2021",
+    "favorited": false,
+    "full_text": "@DelJohnsonVC you might be interested:\n\nhttps://t.co/G96pZnPUYB",
+    "lang": "en",
+    "in_reply_to_screen_name": "DelJohnsonVC",
+    "in_reply_to_user_id_str": "815847044"
+  }
+}

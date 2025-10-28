@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1421294785202098184"
+        ],
+        "editableUntil": "2021-07-31T03:20:57.829Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Clay Hebert",
+          "screen_name": "clayhebert",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "14316355",
+          "id": "14316355"
+        },
+        {
+          "name": "Brendan McAdams",
+          "screen_name": "brendanmcadams",
+          "indices": [
+            "26",
+            "41"
+          ],
+          "id_str": "118678489",
+          "id": "118678489"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1421292607498592269",
+    "id_str": "1421294785202098184",
+    "in_reply_to_user_id": "14316355",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1421294785202098184",
+    "in_reply_to_status_id": "1421292607498592269",
+    "created_at": "Sat Jul 31 02:20:57 +0000 2021",
+    "favorited": false,
+    "full_text": "@clayhebert @theothercole @brendanmcadams Awesome! Added you to the list!",
+    "lang": "en",
+    "in_reply_to_screen_name": "clayhebert",
+    "in_reply_to_user_id_str": "14316355"
+  }
+}

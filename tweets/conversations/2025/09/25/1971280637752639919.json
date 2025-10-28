@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1971280637752639919"
+        ],
+        "editableUntil": "2025-09-25T19:28:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "134",
+            "149"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        },
+        {
+          "name": "Jean-Marc Baketel Daecius",
+          "screen_name": "JMBDaecius",
+          "indices": [
+            "182",
+            "193"
+          ],
+          "id_str": "1952435617104793600",
+          "id": "1952435617104793600"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uBo1WYdn2F",
+          "expanded_url": "https://x.com/leo_guinan/status/1971277392456077445",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "194",
+            "217"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "1",
+    "id_str": "1971280637752639919",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1971280637752639919",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 25 18:28:23 +0000 2025",
+    "favorited": false,
+    "full_text": "Huge thanks to the team at OSV for the assist with the needed connection.\n\nAnd I'm officially submitting this as a job application to @jposhaughnessy .\n\nLink in the next tweet.\n\nCC: @JMBDaecius https://t.co/uBo1WYdn2F",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895829029497762302"
+        ],
+        "editableUntil": "2025-03-01T14:30:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Christopher C. Smith",
+          "screen_name": "christophcsmith",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "707078994852622336",
+          "id": "707078994852622336"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1895828102397436325",
+    "id_str": "1895829029497762302",
+    "in_reply_to_user_id": "707078994852622336",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895829029497762302",
+    "in_reply_to_status_id": "1895828102397436325",
+    "created_at": "Sat Mar 01 13:30:38 +0000 2025",
+    "favorited": false,
+    "full_text": "@christophcsmith 100%.\n\nThere are filters we can build, but it's tough when the platforms are actively preventing us from being able to do so.\n\nThe good news is that AI is making it more and more trivial to move between platforms, because it takes more work to prevent it than it does to achieve…",
+    "lang": "en",
+    "in_reply_to_screen_name": "christophcsmith",
+    "in_reply_to_user_id_str": "707078994852622336"
+  }
+}

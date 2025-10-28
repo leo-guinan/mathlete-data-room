@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1949837724271235238"
+        ],
+        "editableUntil": "2025-07-28T15:21:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1949837724271235238/photo/1",
+          "indices": [
+            "169",
+            "192"
+          ],
+          "url": "https://t.co/abqcMm3dzG",
+          "media_url": "http://pbs.twimg.com/media/Gw826fnW4AA1QwC.jpg",
+          "id_str": "1949837542221602816",
+          "id": "1949837542221602816",
+          "media_url_https": "https://pbs.twimg.com/media/Gw826fnW4AA1QwC.jpg",
+          "sizes": {
+            "large": {
+              "w": "1828",
+              "h": "308",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "115",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "202",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/abqcMm3dzG"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "192"
+    ],
+    "favorite_count": "1",
+    "id_str": "1949837724271235238",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1949837724271235238",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 28 14:21:54 +0000 2025",
+    "favorited": false,
+    "full_text": "Cool. Just initialized my first business via CLI.\n\nThis is a big first step, because I realized that everything we create is code now.\n\nThis is true even of businesses. https://t.co/abqcMm3dzG",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1949837724271235238/photo/1",
+          "indices": [
+            "169",
+            "192"
+          ],
+          "url": "https://t.co/abqcMm3dzG",
+          "media_url": "http://pbs.twimg.com/media/Gw826fnW4AA1QwC.jpg",
+          "id_str": "1949837542221602816",
+          "id": "1949837542221602816",
+          "media_url_https": "https://pbs.twimg.com/media/Gw826fnW4AA1QwC.jpg",
+          "sizes": {
+            "large": {
+              "w": "1828",
+              "h": "308",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "115",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "202",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/abqcMm3dzG"
+        }
+      ]
+    }
+  }
+}

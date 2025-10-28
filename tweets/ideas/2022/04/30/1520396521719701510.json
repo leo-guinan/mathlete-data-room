@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520396521719701510"
+        ],
+        "editableUntil": "2022-04-30T14:05:53.036Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1520396521719701510/photo/1",
+          "indices": [
+            "162",
+            "185"
+          ],
+          "url": "https://t.co/4HyZE6kRdV",
+          "media_url": "http://pbs.twimg.com/media/FRmIlDCXwAMSslD.jpg",
+          "id_str": "1520396519266041859",
+          "id": "1520396519266041859",
+          "media_url_https": "https://pbs.twimg.com/media/FRmIlDCXwAMSslD.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4HyZE6kRdV"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "185"
+    ],
+    "favorite_count": "1",
+    "id_str": "1520396521719701510",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1520396521719701510",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 30 13:35:53 +0000 2022",
+    "favorited": false,
+    "full_text": "Someone was waiting to get out of the car. \n\nShe got a timbit and has to carry it in the house before she eats it.\n\nSo she was patiently waiting to be let out... https://t.co/4HyZE6kRdV",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1520396521719701510/photo/1",
+          "indices": [
+            "162",
+            "185"
+          ],
+          "url": "https://t.co/4HyZE6kRdV",
+          "media_url": "http://pbs.twimg.com/media/FRmIlDCXwAMSslD.jpg",
+          "id_str": "1520396519266041859",
+          "id": "1520396519266041859",
+          "media_url_https": "https://pbs.twimg.com/media/FRmIlDCXwAMSslD.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4HyZE6kRdV"
+        }
+      ]
+    }
+  }
+}

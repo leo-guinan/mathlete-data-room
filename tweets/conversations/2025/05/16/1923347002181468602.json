@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923347002181468602"
+        ],
+        "editableUntil": "2025-05-16T12:57:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BRZDoLUwIJ",
+          "expanded_url": "https://x.com/leo_guinan/status/1923341047356101010",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "59",
+            "82"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "82"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1922808780800065983",
+    "id_str": "1923347002181468602",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923347002181468602",
+    "in_reply_to_status_id": "1922808780800065983",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 16 11:57:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic Here's a fun breakdown on art vs science:\nhttps://t.co/BRZDoLUwIJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

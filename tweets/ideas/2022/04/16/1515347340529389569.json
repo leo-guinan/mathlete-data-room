@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515347340529389569"
+        ],
+        "editableUntil": "2022-04-16T15:42:14.431Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/O4MGIf1b3j",
+          "expanded_url": "https://blog.feathercrm.io/feather-social-media-and-mental-health-867c0cddb3f?source=social.tw",
+          "display_url": "blog.feathercrm.io/feather-social…",
+          "indices": [
+            "58",
+            "81"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "3",
+    "id_str": "1515347340529389569",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1515347340529389569",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 16 15:12:14 +0000 2022",
+    "favorited": false,
+    "full_text": "I just published Feather, Social Media, and Mental Health https://t.co/O4MGIf1b3j",
+    "lang": "en"
+  }
+}

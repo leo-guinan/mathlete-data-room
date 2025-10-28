@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1392616813305995268"
+        ],
+        "editableUntil": "2021-05-13T00:04:56.518Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "adhd",
+          "indices": [
+            "22",
+            "27"
+          ]
+        },
+        {
+          "text": "ActuallyAutistic",
+          "indices": [
+            "28",
+            "45"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/WVH0aLr3Dk",
+          "expanded_url": "https://vm.tiktok.com/ZMepRthRk/",
+          "display_url": "vm.tiktok.com/ZMepRthRk/",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "70"
+    ],
+    "favorite_count": "0",
+    "id_str": "1392616813305995268",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1392616813305995268",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 12 23:04:56 +0000 2021",
+    "favorited": false,
+    "full_text": "Talking interoception #adhd #ActuallyAutistic\n\nhttps://t.co/WVH0aLr3Dk",
+    "lang": "en"
+  }
+}

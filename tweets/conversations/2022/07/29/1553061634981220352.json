@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553061634981220352"
+        ],
+        "editableUntil": "2022-07-29T17:25:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Corey Wilks, Psy.D.",
+          "screen_name": "CoreyWilksPsyD",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1246991611793420288",
+          "id": "1246991611793420288"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1553061351756632070",
+    "id_str": "1553061634981220352",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553061634981220352",
+    "in_reply_to_status_id": "1553061351756632070",
+    "created_at": "Fri Jul 29 16:55:22 +0000 2022",
+    "favorited": false,
+    "full_text": "@CoreyWilksPsyD The biggest reason I say this is due to the weird state of ADHD as viewed in therapy. As more therapists become more aware of the extent of ADHD and what that entails, there are still a lot holding outdated views.\n\nSo someone up to date and focused on it is helpful to have around",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

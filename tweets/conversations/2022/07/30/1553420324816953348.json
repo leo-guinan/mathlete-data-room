@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553420324816953348"
+        ],
+        "editableUntil": "2022-07-30T17:10:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1553420323558723590",
+    "id_str": "1553420324816953348",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553420324816953348",
+    "in_reply_to_status_id": "1553420323558723590",
+    "created_at": "Sat Jul 30 16:40:41 +0000 2022",
+    "favorited": false,
+    "full_text": "I'm probably going to have to do that, because that's the fastest solution and I can work on creating a full migration plan. Might have to accept that some things will end up breaking when I flip over. Old links won't work and that might be ok.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

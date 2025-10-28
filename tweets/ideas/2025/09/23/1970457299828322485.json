@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1970457299828322485"
+        ],
+        "editableUntil": "2025-09-23T12:56:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970457299828322485/photo/1",
+          "indices": [
+            "81",
+            "104"
+          ],
+          "url": "https://t.co/3GmJqffDYg",
+          "media_url": "http://pbs.twimg.com/media/G1h4ZhpXAAANO5X.png",
+          "id_str": "1970457216898498560",
+          "id": "1970457216898498560",
+          "media_url_https": "https://pbs.twimg.com/media/G1h4ZhpXAAANO5X.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "359",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "634",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1446",
+              "h": "764",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3GmJqffDYg"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "2",
+    "id_str": "1970457299828322485",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1970457299828322485",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 23 11:56:44 +0000 2025",
+    "favorited": false,
+    "full_text": "Just an FYI: time is compressed and shit's about to blow up in a really cool way https://t.co/3GmJqffDYg",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970457299828322485/photo/1",
+          "indices": [
+            "81",
+            "104"
+          ],
+          "url": "https://t.co/3GmJqffDYg",
+          "media_url": "http://pbs.twimg.com/media/G1h4ZhpXAAANO5X.png",
+          "id_str": "1970457216898498560",
+          "id": "1970457216898498560",
+          "media_url_https": "https://pbs.twimg.com/media/G1h4ZhpXAAANO5X.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "359",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "634",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1446",
+              "h": "764",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3GmJqffDYg"
+        }
+      ]
+    }
+  }
+}

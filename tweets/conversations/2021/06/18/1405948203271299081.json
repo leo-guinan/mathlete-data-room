@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1405948203271299081"
+        ],
+        "editableUntil": "2021-06-18T18:59:07.571Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "On Deck now ODF",
+          "screen_name": "beondeck",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1825981215473623040",
+          "id": "1825981215473623040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "255"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1405948202008805380",
+    "id_str": "1405948203271299081",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1405948203271299081",
+    "in_reply_to_status_id": "1405948202008805380",
+    "created_at": "Fri Jun 18 17:59:07 +0000 2021",
+    "favorited": false,
+    "full_text": "@beondeck gave me a taste of what options are starting to come into existence. Pre-internet, I think your college experience really locked you into your path. At least, much more so than today. But now, the world's knowledge is at the tips of our fingers.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

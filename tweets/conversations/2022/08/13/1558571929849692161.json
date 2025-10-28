@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1558571929849692161"
+        ],
+        "editableUntil": "2022-08-13T22:21:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1558571928570548227",
+    "id_str": "1558571929849692161",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1558571929849692161",
+    "in_reply_to_status_id": "1558571928570548227",
+    "created_at": "Sat Aug 13 21:51:19 +0000 2022",
+    "favorited": false,
+    "full_text": "So I'm probably going to have to bump my official launch date back until I can clear out the queue.\n\nAnd actually, probably put in better handling of rate limits if it does turn out I can only make 500 requests to that endpoint, because otherwise, I'll quickly run out if not",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

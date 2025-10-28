@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1374477547379912709"
+        ],
+        "editableUntil": "2021-03-23T22:45:58.510Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DeFiNetSummary",
+          "indices": [
+            "4",
+            "19"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/20WGUi1EAh",
+          "expanded_url": "https://link.medium.com/PcaMj5m1Reb",
+          "display_url": "link.medium.com/PcaMj5m1Reb",
+          "indices": [
+            "87",
+            "110"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "4",
+    "id_str": "1374477547379912709",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1374477547379912709",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 23 21:45:58 +0000 2021",
+    "favorited": false,
+    "full_text": "New #DeFiNetSummary: I just published Discovered: Cooking with Artificial Intelligence https://t.co/20WGUi1EAh",
+    "lang": "en"
+  }
+}

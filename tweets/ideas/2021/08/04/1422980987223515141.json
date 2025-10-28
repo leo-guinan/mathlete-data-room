@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422980987223515141"
+        ],
+        "editableUntil": "2021-08-04T19:01:19.719Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AskADHD",
+          "indices": [
+            "0",
+            "8"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/eKvEARKJr0",
+          "expanded_url": "https://x.com/AmandaMGoetz/status/1422979937129074691",
+          "display_url": "x.com/AmandaMGoetz/s…",
+          "indices": [
+            "21",
+            "44"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "3",
+    "id_str": "1422980987223515141",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1422980987223515141",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 04 18:01:19 +0000 2021",
+    "favorited": false,
+    "full_text": "#AskADHD share away! https://t.co/eKvEARKJr0",
+    "lang": "en"
+  }
+}

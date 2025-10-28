@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1430301899840966659"
+        ],
+        "editableUntil": "2021-08-24T23:52:01.303Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "SpaceHead",
+          "screen_name": "SpaceHead3",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1619697685321359362",
+          "id": "1619697685321359362"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "176"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1430292276413177859",
+    "id_str": "1430301899840966659",
+    "in_reply_to_user_id": "1383131186210476035",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1430301899840966659",
+    "in_reply_to_status_id": "1430292276413177859",
+    "created_at": "Tue Aug 24 22:52:01 +0000 2021",
+    "favorited": false,
+    "full_text": "@spacehead3 Haha, yeah. I've got notes in all sorts of different apps.  But Notion seems to have had the biggest sticking power with me so far\n\nWe'll see how long that lasts. 🤣",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1383131186210476035"
+  }
+}

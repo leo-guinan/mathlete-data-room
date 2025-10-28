@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596636148822028288"
+        ],
+        "editableUntil": "2022-11-26T23:14:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Kove",
+          "screen_name": "michael_kove",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1309409339824840704",
+          "id": "1309409339824840704"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1596633783813513217",
+    "id_str": "1596636148822028288",
+    "in_reply_to_user_id": "1309409339824840704",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596636148822028288",
+    "in_reply_to_status_id": "1596633783813513217",
+    "created_at": "Sat Nov 26 22:44:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@michael_kove haha, yeah, with a small sample and a relatively high number of clusters, ends up being pretty heavily affected by a small number of tweets. Played around with different numbers though and there's always tradeoffs. I'm working on some dynamic cluster sizing for the next version.",
+    "lang": "en",
+    "in_reply_to_screen_name": "michael_kove",
+    "in_reply_to_user_id_str": "1309409339824840704"
+  }
+}

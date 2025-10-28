@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1626609794202181632"
+        ],
+        "editableUntil": "2023-02-17T16:19:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin",
+          "screen_name": "JustinQuda",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1463456280773681160",
+          "id": "1463456280773681160"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "34"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1626248215820484608",
+    "id_str": "1626609794202181632",
+    "in_reply_to_user_id": "1463456280773681160",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1626609794202181632",
+    "in_reply_to_status_id": "1626248215820484608",
+    "created_at": "Fri Feb 17 15:49:30 +0000 2023",
+    "favorited": false,
+    "full_text": "@JustinQuda Looking forward to it!",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinQuda",
+    "in_reply_to_user_id_str": "1463456280773681160"
+  }
+}

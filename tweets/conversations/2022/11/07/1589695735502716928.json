@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1589695735502716928"
+        ],
+        "editableUntil": "2022-11-07T19:36:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jordan Harbinger",
+          "screen_name": "JordanHarbinger",
+          "indices": [
+            "105",
+            "121"
+          ],
+          "id_str": "871776297525137413",
+          "id": "871776297525137413"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "3",
+    "id_str": "1589695735502716928",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1589695735502716928",
+    "created_at": "Mon Nov 07 19:06:13 +0000 2022",
+    "favorited": false,
+    "full_text": "\"The problem with more is that it's an infinite hole that can never be filled.\"\n\nSeth Godin talking with @JordanHarbinger",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1539596044467687426"
+        ],
+        "editableUntil": "2022-06-22T13:37:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tom Homecoming",
+          "screen_name": "TechByAJ",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3286939094",
+          "id": "3286939094"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "178"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1539547147250581509",
+    "id_str": "1539596044467687426",
+    "in_reply_to_user_id": "3286939094",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1539596044467687426",
+    "in_reply_to_status_id": "1539547147250581509",
+    "created_at": "Wed Jun 22 13:07:55 +0000 2022",
+    "favorited": false,
+    "full_text": "@TechByAJ That's an important thing kids need to realize, for sure!\n\nConfidence leads to success. School so often kills the confidence of kids, which leads to unfulfilled dreams.",
+    "lang": "en",
+    "in_reply_to_screen_name": "TechByAJ",
+    "in_reply_to_user_id_str": "3286939094"
+  }
+}

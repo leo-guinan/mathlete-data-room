@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492311651747569666"
+        ],
+        "editableUntil": "2022-02-12T02:36:38.243Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kCAWrzjLkU",
+          "expanded_url": "https://x.com/IntrovertNigel/status/1491865388954628098?s=20&t=BzaKkbJY2RuTmJGb6px7lw",
+          "display_url": "x.com/IntrovertNigel…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "0",
+    "id_str": "1492311651747569666",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492311651747569666",
+    "possibly_sensitive": false,
+    "created_at": "Sat Feb 12 01:36:38 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @NotechAna: Probably this flu makes me and Nigel a little bit cheezy 😅\n\nhttps://t.co/kCAWrzjLkU",
+    "lang": "en"
+  }
+}

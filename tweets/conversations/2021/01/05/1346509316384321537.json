@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346509316384321537"
+        ],
+        "editableUntil": "2021-01-05T18:30:12.616Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dr Aniruddha Malpani, MD",
+          "screen_name": "malpani",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "58417042",
+          "id": "58417042"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346509316384321537",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346509316384321537",
+    "created_at": "Tue Jan 05 17:30:12 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @malpani: If you work in a startup and are ambitious, ask the founder - What can I do to earn equity?\nIf he says, “Nothing,” leave.",
+    "lang": "en"
+  }
+}

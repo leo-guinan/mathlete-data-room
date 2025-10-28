@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371289680814219268"
+        ],
+        "editableUntil": "2021-03-15T03:38:31.893Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3csmsC89EU",
+          "expanded_url": "https://t.co/3csmsC89EU",
+          "display_url": "t.co/3csmsC89EU",
+          "indices": [
+            "112",
+            "135"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "0",
+    "id_str": "1371289680814219268",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371289680814219268",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 15 02:38:31 +0000 2021",
+    "favorited": false,
+    "full_text": "If anyone can help Rory raise some money, that would be awesome. This is a cause that really resonates with me. https://t.co/3csmsC89EU",
+    "lang": "en"
+  }
+}

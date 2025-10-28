@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1403895321768378371"
+        ],
+        "editableUntil": "2021-06-13T03:01:42.480Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Wynn has AuDHD",
+          "screen_name": "wynneliz1",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1365172933862191104",
+          "id": "1365172933862191104"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "12"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1403894942729084930",
+    "id_str": "1403895321768378371",
+    "in_reply_to_user_id": "1365172933862191104",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1403895321768378371",
+    "in_reply_to_status_id": "1403894942729084930",
+    "created_at": "Sun Jun 13 02:01:42 +0000 2021",
+    "favorited": false,
+    "full_text": "@wynneliz1 🥰",
+    "lang": "qme",
+    "in_reply_to_screen_name": "wynneliz1",
+    "in_reply_to_user_id_str": "1365172933862191104"
+  }
+}

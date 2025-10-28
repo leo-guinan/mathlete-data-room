@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1415688249666854913"
+        ],
+        "editableUntil": "2021-07-15T16:02:35.593Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZWorTcepIr",
+          "expanded_url": "https://x.com/fernandoparnes/status/1415687458017013761",
+          "display_url": "x.com/fernandoparnes…",
+          "indices": [
+            "28",
+            "51"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "5",
+    "id_str": "1415688249666854913",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1415688249666854913",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 15 15:02:35 +0000 2021",
+    "favorited": false,
+    "full_text": "Great advice from Fernando. https://t.co/ZWorTcepIr",
+    "lang": "en"
+  }
+}

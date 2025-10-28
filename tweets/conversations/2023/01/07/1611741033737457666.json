@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1611741033737457666"
+        ],
+        "editableUntil": "2023-01-07T15:36:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "61",
+            "73"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1611741033737457666/photo/1",
+          "indices": [
+            "259",
+            "282"
+          ],
+          "url": "https://t.co/pDv9L9H2GL",
+          "media_url": "http://pbs.twimg.com/media/Fl4N7H_XkAArq9y.jpg",
+          "id_str": "1611741026053492736",
+          "id": "1611741026053492736",
+          "media_url_https": "https://pbs.twimg.com/media/Fl4N7H_XkAArq9y.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1000",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "567",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1600",
+              "h": "1920",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pDv9L9H2GL"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "2",
+    "id_str": "1611741033737457666",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1611741033737457666",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 07 15:06:21 +0000 2023",
+    "favorited": false,
+    "full_text": "New recommendation algorithm seems to be working well. \n\nFor @_buildspace N&amp;W, decided to pivot a little bit from 5 Minute Show Notes.\n\nI didn't get the level of interest I was hoping for, but that's ok. That provided the basis for this new, better idea. https://t.co/pDv9L9H2GL",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1611741033737457666/photo/1",
+          "indices": [
+            "259",
+            "282"
+          ],
+          "url": "https://t.co/pDv9L9H2GL",
+          "media_url": "http://pbs.twimg.com/media/Fl4N7H_XkAArq9y.jpg",
+          "id_str": "1611741026053492736",
+          "id": "1611741026053492736",
+          "media_url_https": "https://pbs.twimg.com/media/Fl4N7H_XkAArq9y.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1000",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "567",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1600",
+              "h": "1920",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pDv9L9H2GL"
+        }
+      ]
+    }
+  }
+}

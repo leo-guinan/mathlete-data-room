@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1424061971469635584"
+        ],
+        "editableUntil": "2021-08-07T18:36:46.447Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessie van Breugel 🟣",
+          "screen_name": "jessievbreugel",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "416546307",
+          "id": "416546307"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "29"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1424017173362642946",
+    "id_str": "1424061971469635584",
+    "in_reply_to_user_id": "416546307",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1424061971469635584",
+    "in_reply_to_status_id": "1424017173362642946",
+    "created_at": "Sat Aug 07 17:36:46 +0000 2021",
+    "favorited": false,
+    "full_text": "@jessievbreugel 👋 absolutely!",
+    "lang": "en",
+    "in_reply_to_screen_name": "jessievbreugel",
+    "in_reply_to_user_id_str": "416546307"
+  }
+}

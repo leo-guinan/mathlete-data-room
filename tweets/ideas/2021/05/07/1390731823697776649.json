@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1390731823697776649"
+        ],
+        "editableUntil": "2021-05-07T19:14:39.974Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dc6eugSma2",
+          "expanded_url": "https://x.com/AviralVerma_/status/1390217240822222848",
+          "display_url": "x.com/AviralVerma_/s…",
+          "indices": [
+            "16",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "1",
+    "id_str": "1390731823697776649",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1390731823697776649",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 07 18:14:39 +0000 2021",
+    "favorited": false,
+    "full_text": "Fund my startup https://t.co/dc6eugSma2",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1637180643858604040"
+        ],
+        "editableUntil": "2023-03-18T20:24:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "adolfo",
+          "screen_name": "adolfos_tweets",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1779992314657595392",
+          "id": "1779992314657595392"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1637172721225170946",
+    "id_str": "1637180643858604040",
+    "in_reply_to_user_id": "1270173744548311040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1637180643858604040",
+    "in_reply_to_status_id": "1637172721225170946",
+    "created_at": "Sat Mar 18 19:54:17 +0000 2023",
+    "favorited": false,
+    "full_text": "@adolfos_tweets I'm still working out the specifics of how this all looks, but basically, I view the internet as a collection of products, people, and information.\n\nBuilding your own internet is about curating the products, people, and information you feel are worth paying attention to.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1270173744548311040"
+  }
+}

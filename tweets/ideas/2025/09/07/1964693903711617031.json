@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1964693903711617031"
+        ],
+        "editableUntil": "2025-09-07T15:15:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JTdowWbkCC",
+          "expanded_url": "https://x.com/leo_guinan/status/1964449213150089277",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "144",
+            "167"
+          ]
+        },
+        {
+          "url": "https://t.co/g9LmkGjK1w",
+          "expanded_url": "https://x.com/nikitabier/status/1963498520805007470",
+          "display_url": "x.com/nikitabier/sta…",
+          "indices": [
+            "168",
+            "191"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "191"
+    ],
+    "favorite_count": "0",
+    "id_str": "1964693903711617031",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1964693903711617031",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 07 14:15:03 +0000 2025",
+    "favorited": false,
+    "full_text": "If you want to get rich on X, it won't be from X. Nikita admits that.\n\nBut it could be if they knew the algorithm they needed to implement....\n\nhttps://t.co/JTdowWbkCC https://t.co/g9LmkGjK1w",
+    "lang": "en"
+  }
+}

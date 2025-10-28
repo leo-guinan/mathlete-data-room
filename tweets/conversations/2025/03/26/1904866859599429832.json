@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1904866859599429832"
+        ],
+        "editableUntil": "2025-03-26T13:03:44.700Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mike Taylor",
+          "screen_name": "hammer_mt",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "21192157",
+          "id": "21192157"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/hammer_mt/status/1904866356672995533/photo/1",
+          "source_status_id": "1904866356672995533",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/vrbK91Ie7w",
+          "media_url": "http://pbs.twimg.com/media/Gm9x2JoXoAAHEIv.jpg",
+          "id_str": "1904866342513123328",
+          "source_user_id": "21192157",
+          "id": "1904866342513123328",
+          "media_url_https": "https://pbs.twimg.com/media/Gm9x2JoXoAAHEIv.jpg",
+          "source_user_id_str": "21192157",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1904866356672995533",
+          "display_url": "pic.x.com/vrbK91Ie7w"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "0",
+    "id_str": "1904866859599429832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1904866859599429832",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 26 12:03:44 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @hammer_mt: What you need to succeed in AI https://t.co/vrbK91Ie7w",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/hammer_mt/status/1904866356672995533/photo/1",
+          "source_status_id": "1904866356672995533",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/vrbK91Ie7w",
+          "media_url": "http://pbs.twimg.com/media/Gm9x2JoXoAAHEIv.jpg",
+          "id_str": "1904866342513123328",
+          "source_user_id": "21192157",
+          "id": "1904866342513123328",
+          "media_url_https": "https://pbs.twimg.com/media/Gm9x2JoXoAAHEIv.jpg",
+          "source_user_id_str": "21192157",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1904866356672995533",
+          "display_url": "pic.x.com/vrbK91Ie7w"
+        }
+      ]
+    }
+  }
+}

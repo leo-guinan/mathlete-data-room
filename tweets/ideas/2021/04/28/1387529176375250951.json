@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1387529176375250951"
+        ],
+        "editableUntil": "2021-04-28T23:08:29.350Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CpzmyjXATq",
+          "expanded_url": "https://x.com/PaulYacoubian/status/1387527911004164097",
+          "display_url": "x.com/PaulYacoubian/…",
+          "indices": [
+            "22",
+            "45"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "45"
+    ],
+    "favorite_count": "3",
+    "id_str": "1387529176375250951",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1387529176375250951",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 28 22:08:29 +0000 2021",
+    "favorited": false,
+    "full_text": "This is incredible... https://t.co/CpzmyjXATq",
+    "lang": "en"
+  }
+}

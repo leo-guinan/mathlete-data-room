@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432401040918433796"
+        ],
+        "editableUntil": "2021-08-30T18:53:15.536Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "267"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1432395588482523141",
+    "id_str": "1432401040918433796",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432401040918433796",
+    "in_reply_to_status_id": "1432395588482523141",
+    "created_at": "Mon Aug 30 17:53:15 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, after researching Singular, one big complaint. It requires the Polkadot browser extension as its wallet. \n\nBut when I try to create a wallet using it, if I copy the seed phrase and try to drop it in my password manager, and then switch back, it loses my progress.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

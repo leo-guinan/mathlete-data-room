@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1484215144746033159"
+        ],
+        "editableUntil": "2022-01-20T18:24:00.548Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "17",
+            "25"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1484215144746033159/photo/1",
+          "indices": [
+            "40",
+            "63"
+          ],
+          "url": "https://t.co/kRZmCNcjL1",
+          "media_url": "http://pbs.twimg.com/media/FJj9mN9WQAUevZA.png",
+          "id_str": "1484214910242406405",
+          "id": "1484214910242406405",
+          "media_url_https": "https://pbs.twimg.com/media/FJj9mN9WQAUevZA.png",
+          "sizes": {
+            "large": {
+              "w": "1060",
+              "h": "410",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1060",
+              "h": "410",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "263",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kRZmCNcjL1"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "2",
+    "id_str": "1484215144746033159",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1484215144746033159",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 20 17:24:00 +0000 2022",
+    "favorited": false,
+    "full_text": "Some gold out of @copy_ai this morning: https://t.co/kRZmCNcjL1",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1484215144746033159/photo/1",
+          "indices": [
+            "40",
+            "63"
+          ],
+          "url": "https://t.co/kRZmCNcjL1",
+          "media_url": "http://pbs.twimg.com/media/FJj9mN9WQAUevZA.png",
+          "id_str": "1484214910242406405",
+          "id": "1484214910242406405",
+          "media_url_https": "https://pbs.twimg.com/media/FJj9mN9WQAUevZA.png",
+          "sizes": {
+            "large": {
+              "w": "1060",
+              "h": "410",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1060",
+              "h": "410",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "263",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kRZmCNcjL1"
+        }
+      ]
+    }
+  }
+}

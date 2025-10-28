@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509935641496371214"
+        ],
+        "editableUntil": "2022-04-01T17:48:04.837Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Brené Brown",
+          "screen_name": "BreneBrown",
+          "indices": [
+            "50",
+            "61"
+          ],
+          "id_str": "14717311",
+          "id": "14717311"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D2bTTwxekW",
+          "expanded_url": "https://x.com/TheEllenShow/status/1509658574183493634",
+          "display_url": "x.com/TheEllenShow/s…",
+          "indices": [
+            "77",
+            "100"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "0",
+    "id_str": "1509935641496371214",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509935641496371214",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 01 16:48:04 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: And as usual, it's great advice.\n\n@BreneBrown is phenomenal. https://t.co/D2bTTwxekW",
+    "lang": "en"
+  }
+}

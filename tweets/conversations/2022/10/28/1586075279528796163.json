@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1586075279528796163"
+        ],
+        "editableUntil": "2022-10-28T19:49:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1585794597476651009",
+    "id_str": "1586075279528796163",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1586075279528796163",
+    "in_reply_to_status_id": "1585794597476651009",
+    "created_at": "Fri Oct 28 19:19:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@markyerkes1734 Ok, I've given this quite a bit of thought and consulted an AI professor of game theory for its input.\n\nI think the solution lies somewhere around here.\n\nDistribute the money periodically and weight the amount distributed each period in favor of the oldest.",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939"
+  }
+}

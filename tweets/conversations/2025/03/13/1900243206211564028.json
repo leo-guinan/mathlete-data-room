@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1900243206211564028"
+        ],
+        "editableUntil": "2025-03-13T18:50:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Max Zeigler ᚹᛟᚦᚨᛉ",
+          "screen_name": "HaikuHeroics",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1823375742538743808",
+          "id": "1823375742538743808"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cEeH54ymYU",
+          "expanded_url": "https://youtube.com/@ideasupplychain",
+          "display_url": "youtube.com/@ideasupplycha…",
+          "indices": [
+            "187",
+            "210"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "210"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1900241805914104045",
+    "id_str": "1900243206211564028",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1900243206211564028",
+    "in_reply_to_status_id": "1900241805914104045",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 13 17:50:59 +0000 2025",
+    "favorited": false,
+    "full_text": "@HaikuHeroics And I’m not coming at this completely out of left field :)\n\nI have been doing a YouTube channel for quite a bit that is mostly talking head, so you can see what I’ve got at https://t.co/cEeH54ymYU",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

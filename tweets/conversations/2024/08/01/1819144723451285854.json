@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819144723451285854"
+        ],
+        "editableUntil": "2024-08-01T23:54:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m6Df1pma0L",
+          "expanded_url": "https://twitter.wordware.ai/",
+          "display_url": "twitter.wordware.ai",
+          "indices": [
+            "81",
+            "104"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1819131875497017494",
+    "id_str": "1819144723451285854",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1819144723451285854",
+    "in_reply_to_status_id": "1819131875497017494",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 01 22:54:34 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli I actually discovered something the other day that might help there. \n\nhttps://t.co/m6Df1pma0L\n\nthat's the piece that I tried using, which is a multi-step agent prompt. But it's open source and composable. The first step is to scrape your tweets, so you could use it to pass them",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

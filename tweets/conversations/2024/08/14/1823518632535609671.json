@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1823518632535609671"
+        ],
+        "editableUntil": "2024-08-14T01:34:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "shree",
+          "screen_name": "sreeenidhi",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1444626836",
+          "id": "1444626836"
+        },
+        {
+          "name": "Adam",
+          "screen_name": "adamc0dez",
+          "indices": [
+            "12",
+            "22"
+          ],
+          "id_str": "1500427684484112384",
+          "id": "1500427684484112384"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1823488171306574187",
+    "id_str": "1823518632535609671",
+    "in_reply_to_user_id": "1444626836",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1823518632535609671",
+    "in_reply_to_status_id": "1823488171306574187",
+    "created_at": "Wed Aug 14 00:34:55 +0000 2024",
+    "favorited": false,
+    "full_text": "@sreeenidhi @adamc0dez Damn, just checked the last project I launched and no good backlink. 😕 \n\nGood to know....",
+    "lang": "en",
+    "in_reply_to_screen_name": "sreeenidhi",
+    "in_reply_to_user_id_str": "1444626836"
+  }
+}

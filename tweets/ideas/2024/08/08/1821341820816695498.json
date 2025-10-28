@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821341820816695498"
+        ],
+        "editableUntil": "2024-08-08T01:25:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1821341820816695498/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/eahBsA57B0",
+          "media_url": "http://pbs.twimg.com/media/GUa0hGvXwAAtfYa.jpg",
+          "id_str": "1821341580155928576",
+          "id": "1821341580155928576",
+          "media_url_https": "https://pbs.twimg.com/media/GUa0hGvXwAAtfYa.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1218",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "714",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "405",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eahBsA57B0"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "1",
+    "id_str": "1821341820816695498",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1821341820816695498",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 08 00:25:03 +0000 2024",
+    "favorited": false,
+    "full_text": "Now able to search tweets that have been collected.\n\nNeed to tweak the UI in order to be able to do things like display media + quoted tweets, but the search is the important part. 💪 https://t.co/eahBsA57B0",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1821341820816695498/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/eahBsA57B0",
+          "media_url": "http://pbs.twimg.com/media/GUa0hGvXwAAtfYa.jpg",
+          "id_str": "1821341580155928576",
+          "id": "1821341580155928576",
+          "media_url_https": "https://pbs.twimg.com/media/GUa0hGvXwAAtfYa.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1218",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "714",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "405",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eahBsA57B0"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1503072014852050944"
+        ],
+        "editableUntil": "2022-03-13T19:14:28.725Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "68",
+            "79"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "245"
+    ],
+    "favorite_count": "10",
+    "id_str": "1503072014852050944",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1503072014852050944",
+    "created_at": "Sun Mar 13 18:14:28 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally getting a chance to edit my podcast episode I recorded with @LobowSpark. \n\nDamn, it's hard. \n\nI'm trying to keep it a reasonable length but I just want to include everything...\n\nGoing to try to get it under an hour, but it will be tough.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517459092448677889"
+        ],
+        "editableUntil": "2022-04-22T11:33:35.323Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Mathers | 🐉",
+          "screen_name": "Alexmathers84",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1450424698853072897",
+          "id": "1450424698853072897"
+        },
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "15",
+            "24"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "25",
+            "37"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1517458822415200257",
+    "id_str": "1517459092448677889",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517459092448677889",
+    "in_reply_to_status_id": "1517458822415200257",
+    "created_at": "Fri Apr 22 11:03:35 +0000 2022",
+    "favorited": false,
+    "full_text": "@Alexmathers84 @reddy2go @ProductHunt Then, when you've got something important that you want to boost, you can send out a request to your amplifiers to boost it for you.\n\nAllows for coordination among your audience to boost the stuff that matters. Happy to answer any questions you have!",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

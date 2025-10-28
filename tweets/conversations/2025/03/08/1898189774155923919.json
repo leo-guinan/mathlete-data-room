@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898189774155923919"
+        ],
+        "editableUntil": "2025-03-08T02:51:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "51",
+            "65"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T16ZSutaWb",
+          "expanded_url": "https://riverside.fm/studio/listen-to-leo",
+          "display_url": "riverside.fm/studio/listen-…",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1898189774155923919",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898189774155923919",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 01:51:23 +0000 2025",
+    "favorited": false,
+    "full_text": "Getting ready to livestream some thoughts/demos of @glitchishuman \n\nhttps://t.co/T16ZSutaWb",
+    "lang": "en"
+  }
+}

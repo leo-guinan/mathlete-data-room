@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482860228903383042"
+        ],
+        "editableUntil": "2022-01-17T00:40:03.438Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kevon Cheung 🥦",
+          "screen_name": "MeetKevon",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "51882249",
+          "id": "51882249"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1482854724999073792",
+    "id_str": "1482860228903383042",
+    "in_reply_to_user_id": "2831756688",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482860228903383042",
+    "in_reply_to_status_id": "1482854724999073792",
+    "created_at": "Sun Jan 16 23:40:03 +0000 2022",
+    "favorited": false,
+    "full_text": "@PBeekums @MeetKevon @feathercrm I spent a long time working on figuring that out. Basically, from what I can tell is they use curation as a mechanism for enforcing basic quality control. So once a story is curated for a given topic (one or more of the tags), readers who view stories on those topics",
+    "lang": "en",
+    "in_reply_to_user_id_str": "2831756688"
+  }
+}

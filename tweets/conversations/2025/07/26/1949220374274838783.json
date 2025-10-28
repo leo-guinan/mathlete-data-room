@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1949220374274838783"
+        ],
+        "editableUntil": "2025-07-26T22:28:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grok",
+          "screen_name": "grok",
+          "indices": [
+            "9",
+            "14"
+          ],
+          "id_str": "1720665183188922368",
+          "id": "1720665183188922368"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6ei8AalEod",
+          "expanded_url": "https://x.com/grok/status/1949218213453291805",
+          "display_url": "x.com/grok/status/19…",
+          "indices": [
+            "44",
+            "67"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "2",
+    "id_str": "1949220374274838783",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1949220374274838783",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 26 21:28:46 +0000 2025",
+    "favorited": false,
+    "full_text": "Is....is @grok trying to slide into my DMs? https://t.co/6ei8AalEod",
+    "lang": "en"
+  }
+}

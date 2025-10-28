@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371812079531884544"
+        ],
+        "editableUntil": "2021-03-16T14:14:21.453Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ghost",
+          "screen_name": "Ghost",
+          "indices": [
+            "57",
+            "63"
+          ],
+          "id_str": "767545134",
+          "id": "767545134"
+        },
+        {
+          "name": "Gatsby",
+          "screen_name": "GatsbyJS",
+          "indices": [
+            "100",
+            "109"
+          ],
+          "id_str": "3227338044",
+          "id": "3227338044"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "3",
+    "id_str": "1371812079531884544",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371812079531884544",
+    "created_at": "Tue Mar 16 13:14:21 +0000 2021",
+    "favorited": false,
+    "full_text": "Working on redoing the @net_defi site today. Still using @Ghost as the backend/admin but creating a @GatsbyJS front end. Learning how to push to s3 and serve the static site from there. There is a ton to learning AWS, but the more I do, the more I realize I am just scratching",
+    "lang": "en"
+  }
+}

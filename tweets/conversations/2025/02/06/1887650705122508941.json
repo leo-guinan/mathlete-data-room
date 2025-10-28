@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887650705122508941"
+        ],
+        "editableUntil": "2025-02-07T00:52:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OJISjkJLjp",
+          "expanded_url": "https://x.com/leo_guinan/status/1879631813754200404",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1887382379922083948",
+    "id_str": "1887650705122508941",
+    "in_reply_to_user_id": "44196397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887650705122508941",
+    "in_reply_to_status_id": "1887382379922083948",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 06 23:52:53 +0000 2025",
+    "favorited": false,
+    "full_text": "@elonmusk You’re not bad, but I’m better. You’ll see soon enough. 😉 https://t.co/OJISjkJLjp",
+    "lang": "en",
+    "in_reply_to_screen_name": "elonmusk",
+    "in_reply_to_user_id_str": "44196397"
+  }
+}

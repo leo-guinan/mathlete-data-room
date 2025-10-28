@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1370179107905007619"
+        ],
+        "editableUntil": "2021-03-12T02:05:30.678Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "⭐️ ADHD Galaxy ⭐️",
+          "screen_name": "adhdgalaxy",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1289106018576760832",
+          "id": "1289106018576760832"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1370179107905007619/photo/1",
+          "indices": [
+            "44",
+            "67"
+          ],
+          "url": "https://t.co/9douNgVemi",
+          "media_url": "http://pbs.twimg.com/media/EwPalGXXMAUUK6q.png",
+          "id_str": "1370179042549379077",
+          "id": "1370179042549379077",
+          "media_url_https": "https://pbs.twimg.com/media/EwPalGXXMAUUK6q.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "753",
+              "h": "741",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "753",
+              "h": "741",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/9douNgVemi"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1369608318554173440",
+    "id_str": "1370179107905007619",
+    "in_reply_to_user_id": "1289106018576760832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1370179107905007619",
+    "in_reply_to_status_id": "1369608318554173440",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 12 01:05:30 +0000 2021",
+    "favorited": false,
+    "full_text": "@ADHDGalaxy I think I might have ADHD... :) https://t.co/9douNgVemi",
+    "lang": "en",
+    "in_reply_to_screen_name": "adhdgalaxy",
+    "in_reply_to_user_id_str": "1289106018576760832",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1370179107905007619/photo/1",
+          "indices": [
+            "44",
+            "67"
+          ],
+          "url": "https://t.co/9douNgVemi",
+          "media_url": "http://pbs.twimg.com/media/EwPalGXXMAUUK6q.png",
+          "id_str": "1370179042549379077",
+          "id": "1370179042549379077",
+          "media_url_https": "https://pbs.twimg.com/media/EwPalGXXMAUUK6q.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "753",
+              "h": "741",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "753",
+              "h": "741",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/9douNgVemi"
+        }
+      ]
+    }
+  }
+}

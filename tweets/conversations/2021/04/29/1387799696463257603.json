@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1387799696463257603"
+        ],
+        "editableUntil": "2021-04-29T17:03:26.365Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Zach Gollwitzer",
+          "screen_name": "zg_dev",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "1344034901344083971",
+          "id": "1344034901344083971"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/zg_dev/status/1387481770090635267/photo/1",
+          "source_status_id": "1387481770090635267",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/Krd0Q4lvyo",
+          "media_url": "http://pbs.twimg.com/media/E0FTUTWUcAIhqwG.png",
+          "id_str": "1387481768463200258",
+          "source_user_id": "1344034901344083971",
+          "id": "1387481768463200258",
+          "media_url_https": "https://pbs.twimg.com/media/E0FTUTWUcAIhqwG.png",
+          "source_user_id_str": "1344034901344083971",
+          "sizes": {
+            "large": {
+              "w": "633",
+              "h": "195",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "633",
+              "h": "195",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "633",
+              "h": "195",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1387481770090635267",
+          "display_url": "pic.x.com/Krd0Q4lvyo"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "0",
+    "id_str": "1387799696463257603",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1387799696463257603",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 29 16:03:26 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @zg_dev: A message to the writers of React documentation:\n\nThank you for knowing how my brain works. https://t.co/Krd0Q4lvyo",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/zg_dev/status/1387481770090635267/photo/1",
+          "source_status_id": "1387481770090635267",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/Krd0Q4lvyo",
+          "media_url": "http://pbs.twimg.com/media/E0FTUTWUcAIhqwG.png",
+          "id_str": "1387481768463200258",
+          "source_user_id": "1344034901344083971",
+          "id": "1387481768463200258",
+          "media_url_https": "https://pbs.twimg.com/media/E0FTUTWUcAIhqwG.png",
+          "source_user_id_str": "1344034901344083971",
+          "sizes": {
+            "large": {
+              "w": "633",
+              "h": "195",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "633",
+              "h": "195",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "633",
+              "h": "195",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1387481770090635267",
+          "display_url": "pic.x.com/Krd0Q4lvyo"
+        }
+      ]
+    }
+  }
+}

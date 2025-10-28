@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1813675600399524147"
+        ],
+        "editableUntil": "2024-07-17T21:42:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grace (cross posting arc)",
+          "screen_name": "kindgracekind",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1740153535931486208",
+          "id": "1740153535931486208"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1813673325119644042",
+    "id_str": "1813675600399524147",
+    "in_reply_to_user_id": "1740153535931486208",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1813675600399524147",
+    "in_reply_to_status_id": "1813673325119644042",
+    "created_at": "Wed Jul 17 20:42:14 +0000 2024",
+    "favorited": false,
+    "full_text": "@kindgracekind Ooh, those are all good. Gotta say though, the sound of \"Moravec Worm Transfer\" feels very epic...",
+    "lang": "en",
+    "in_reply_to_screen_name": "kindgracekind",
+    "in_reply_to_user_id_str": "1740153535931486208"
+  }
+}

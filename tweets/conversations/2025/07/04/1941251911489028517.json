@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941251911489028517"
+        ],
+        "editableUntil": "2025-07-04T22:44:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mike Taylor",
+          "screen_name": "hammer_mt",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "21192157",
+          "id": "21192157"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941250008738885851",
+    "id_str": "1941251911489028517",
+    "in_reply_to_user_id": "21192157",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941251911489028517",
+    "in_reply_to_status_id": "1941250008738885851",
+    "created_at": "Fri Jul 04 21:44:57 +0000 2025",
+    "favorited": false,
+    "full_text": "@hammer_mt Nah. Just spend all the money you’d spend on creating the party and just fix shit and tell people you are doing it. \n\nNone of them actually fix a god damn thing. You’d win in a landslide.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hammer_mt",
+    "in_reply_to_user_id_str": "21192157"
+  }
+}

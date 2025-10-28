@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1468623915069198342"
+        ],
+        "editableUntil": "2021-12-08T17:50:01.722Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "12",
+            "27"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VLnwdTS1ww",
+          "expanded_url": "https://x.com/fernandoparnes/status/1468622127364378628",
+          "display_url": "x.com/fernandoparnes…",
+          "indices": [
+            "130",
+            "153"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "153"
+    ],
+    "favorite_count": "1",
+    "id_str": "1468623915069198342",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1468623915069198342",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 08 16:50:01 +0000 2021",
+    "favorited": false,
+    "full_text": "Love seeing @fernandoparnes embracing build in public!\n\nHop on board this 🚀!\n\nSeriously, it's awesome for creators. Check it out! https://t.co/VLnwdTS1ww",
+    "lang": "en"
+  }
+}

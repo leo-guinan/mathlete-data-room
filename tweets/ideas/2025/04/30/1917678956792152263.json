@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1917678956792152263"
+        ],
+        "editableUntil": "2025-04-30T21:34:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1917678956792152263/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/zgF0UiA8E6",
+          "media_url": "http://pbs.twimg.com/media/Gpz2wwfXcAASiVI.jpg",
+          "id_str": "1917678858863603712",
+          "id": "1917678858863603712",
+          "media_url_https": "https://pbs.twimg.com/media/Gpz2wwfXcAASiVI.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/zgF0UiA8E6"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "id_str": "1917678956792152263",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1917678956792152263",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 30 20:34:26 +0000 2025",
+    "favorited": false,
+    "full_text": "What happens when the ladder ends? https://t.co/zgF0UiA8E6",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1917678956792152263/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/zgF0UiA8E6",
+          "media_url": "http://pbs.twimg.com/media/Gpz2wwfXcAASiVI.jpg",
+          "id_str": "1917678858863603712",
+          "id": "1917678858863603712",
+          "media_url_https": "https://pbs.twimg.com/media/Gpz2wwfXcAASiVI.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/zgF0UiA8E6"
+        }
+      ]
+    }
+  }
+}

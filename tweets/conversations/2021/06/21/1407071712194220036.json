@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1407071712194220036"
+        ],
+        "editableUntil": "2021-06-21T21:23:32.972Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adrienne Sheares",
+          "screen_name": "AdriSheares",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "135976346",
+          "id": "135976346"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "119"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1407070847601418241",
+    "id_str": "1407071712194220036",
+    "in_reply_to_user_id": "135976346",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1407071712194220036",
+    "in_reply_to_status_id": "1407070847601418241",
+    "created_at": "Mon Jun 21 20:23:32 +0000 2021",
+    "favorited": false,
+    "full_text": "@AdriSheares Let me know if I can help. Happy to provide feedback, just listen,  or whatever you need. My DMs are open.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AdriSheares",
+    "in_reply_to_user_id_str": "135976346"
+  }
+}

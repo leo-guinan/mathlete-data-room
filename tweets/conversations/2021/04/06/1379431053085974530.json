@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379431053085974530"
+        ],
+        "editableUntil": "2021-04-06T14:49:26.302Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Can’t Stop Columbus",
+          "screen_name": "cantstopcbus",
+          "indices": [
+            "106",
+            "119"
+          ],
+          "id_str": "1239668622504734720",
+          "id": "1239668622504734720"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1379431048174444547",
+    "id_str": "1379431053085974530",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379431053085974530",
+    "in_reply_to_status_id": "1379431048174444547",
+    "created_at": "Tue Apr 06 13:49:26 +0000 2021",
+    "favorited": false,
+    "full_text": "Then I'll explain how I plan to use my Medium account to create a product.\n3. Spending some time with the @cantstopcbus Vaccinate OH team and hopefully getting a little further with my web scraping efforts",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

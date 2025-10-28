@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492678779919122441"
+        ],
+        "editableUntil": "2022-02-13T02:55:28.420Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "2",
+    "id_str": "1492678779919122441",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1492678779919122441",
+    "created_at": "Sun Feb 13 01:55:28 +0000 2022",
+    "favorited": false,
+    "full_text": "Just requested an archive of my Twitter data. Going to start exploring it tomorrow in my lab.\n\nNeed to do some retroactive organizing, so hoping I can do that too. I've got some ideas for extracting links and things that I can play around with.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1483423705640448000"
+        ],
+        "editableUntil": "2022-01-18T13:59:06.761Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BACI1RSXVX",
+          "expanded_url": "https://x.com/dagorenouf/status/1483151560075005954",
+          "display_url": "x.com/dagorenouf/sta…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "0",
+    "id_str": "1483423705640448000",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1483423705640448000",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 18 12:59:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: This is such a great description of Twitter. https://t.co/BACI1RSXVX",
+    "lang": "en"
+  }
+}

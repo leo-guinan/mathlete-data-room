@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1418535057241911297"
+        ],
+        "editableUntil": "2021-07-23T12:34:47.410Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amira V",
+          "screen_name": "amiravalliani",
+          "indices": [
+            "34",
+            "48"
+          ],
+          "id_str": "68292687",
+          "id": "68292687"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WYrHrTjzsw",
+          "expanded_url": "https://link.medium.com/Yg5U3a5N7hb",
+          "display_url": "link.medium.com/Yg5U3a5N7hb",
+          "indices": [
+            "49",
+            "72"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "72"
+    ],
+    "favorite_count": "2",
+    "id_str": "1418535057241911297",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1418535057241911297",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 23 11:34:47 +0000 2021",
+    "favorited": false,
+    "full_text": "What does a Chief of Staff do? by @amiravalliani https://t.co/WYrHrTjzsw",
+    "lang": "en"
+  }
+}

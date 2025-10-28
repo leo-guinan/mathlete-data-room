@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898947853910765573"
+        ],
+        "editableUntil": "2025-03-10T05:03:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Subspace Institute",
+          "screen_name": "subspacerace",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1815049391155163136",
+          "id": "1815049391155163136"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "14",
+            "30"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "54",
+            "70"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "84",
+            "98"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "186"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898434517158764748",
+    "id_str": "1898947853910765573",
+    "in_reply_to_user_id": "1815049391155163136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898947853910765573",
+    "in_reply_to_status_id": "1898434517158764748",
+    "created_at": "Mon Mar 10 04:03:43 +0000 2025",
+    "favorited": false,
+    "full_text": "@subspacerace @DefenderOfBasic Damn, if this is true, @DefenderOfBasic can you give @glitchishuman some tips?\n\nHad me fooled, especially the in person pics you posted from the hackathon.",
+    "lang": "en",
+    "in_reply_to_screen_name": "subspacerace",
+    "in_reply_to_user_id_str": "1815049391155163136"
+  }
+}

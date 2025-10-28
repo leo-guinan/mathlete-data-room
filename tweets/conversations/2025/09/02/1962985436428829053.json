@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1962985436428829053"
+        ],
+        "editableUntil": "2025-09-02T22:06:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1962985436428829053/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/jrB8UNBLzJ",
+          "media_url": "http://pbs.twimg.com/media/Gz3saeDXAAAJ_z8.jpg",
+          "id_str": "1962984952091312128",
+          "id": "1962984952091312128",
+          "media_url_https": "https://pbs.twimg.com/media/Gz3saeDXAAAJ_z8.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "471",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "830",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1417",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jrB8UNBLzJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1956376421984559436",
+    "id_str": "1962985436428829053",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1962985436428829053",
+    "in_reply_to_status_id": "1956376421984559436",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 02 21:06:13 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, it's been a couple of weeks since I updated my BIP thread, so let's talk about what I've been up to.\n\nI've been talking to a number of coaches, running a bunch of coaching sessions myself, and building a coaching platform.\n\nI'm at the point where I'm not learning much from… https://t.co/jrB8UNBLzJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1962985436428829053/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/jrB8UNBLzJ",
+          "media_url": "http://pbs.twimg.com/media/Gz3saeDXAAAJ_z8.jpg",
+          "id_str": "1962984952091312128",
+          "id": "1962984952091312128",
+          "media_url_https": "https://pbs.twimg.com/media/Gz3saeDXAAAJ_z8.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "471",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "830",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1417",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jrB8UNBLzJ"
+        }
+      ]
+    }
+  }
+}

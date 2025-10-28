@@ -1,0 +1,161 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1974931807838917091"
+        ],
+        "editableUntil": "2025-10-05T21:16:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "13",
+            "27"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1974931807838917091/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/IIljMZEaGi",
+          "media_url": "http://pbs.twimg.com/media/G2hdgn3W8AAUTcQ.jpg",
+          "id_str": "1974931251640332288",
+          "id": "1974931251640332288",
+          "media_url_https": "https://pbs.twimg.com/media/G2hdgn3W8AAUTcQ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "816",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "463",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1393",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IIljMZEaGi"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "1",
+    "id_str": "1974931807838917091",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1974931807838917091",
+    "possibly_sensitive": false,
+    "created_at": "Sun Oct 05 20:16:50 +0000 2025",
+    "favorited": false,
+    "full_text": "Is this PMF? @iamjasonlevin I have attention, High Conviction, and a belief in money nobody else believes possible.\n\nI've got psychosis-meme fit! https://t.co/IIljMZEaGi",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1974931807838917091/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/IIljMZEaGi",
+          "media_url": "http://pbs.twimg.com/media/G2hdgn3W8AAUTcQ.jpg",
+          "id_str": "1974931251640332288",
+          "id": "1974931251640332288",
+          "media_url_https": "https://pbs.twimg.com/media/G2hdgn3W8AAUTcQ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "816",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "463",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1393",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IIljMZEaGi"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1974931807838917091/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/IIljMZEaGi",
+          "media_url": "http://pbs.twimg.com/media/G2hdytGWIAANM3w.jpg",
+          "id_str": "1974931562283016192",
+          "id": "1974931562283016192",
+          "media_url_https": "https://pbs.twimg.com/media/G2hdytGWIAANM3w.jpg",
+          "sizes": {
+            "large": {
+              "w": "1393",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "463",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "816",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IIljMZEaGi"
+        }
+      ]
+    }
+  }
+}

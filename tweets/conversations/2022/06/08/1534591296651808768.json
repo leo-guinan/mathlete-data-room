@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1534591296651808768"
+        ],
+        "editableUntil": "2022-06-08T18:10:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ryan Law",
+          "screen_name": "thinking_slow",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "2785379476",
+          "id": "2785379476"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "97"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1534580003270172672",
+    "id_str": "1534591296651808768",
+    "in_reply_to_user_id": "2785379476",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1534591296651808768",
+    "in_reply_to_status_id": "1534580003270172672",
+    "created_at": "Wed Jun 08 17:40:51 +0000 2022",
+    "favorited": false,
+    "full_text": "@thinking_slow Absolutely! Would love to have you as a guest. I'll send you a DM with details! :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "thinking_slow",
+    "in_reply_to_user_id_str": "2785379476"
+  }
+}

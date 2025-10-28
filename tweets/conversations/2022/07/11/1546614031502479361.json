@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1546614031502479361"
+        ],
+        "editableUntil": "2022-07-11T22:24:54.466Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "115",
+            "120"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1546614031502479361",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1546614031502479361",
+    "created_at": "Mon Jul 11 21:54:54 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: I can’t say why just yet, I can’t give details on social… but I want to share my euphoria with the #ADHD community that hav…",
+    "lang": "en"
+  }
+}

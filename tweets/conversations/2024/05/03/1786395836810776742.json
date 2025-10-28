@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1786395836810776742"
+        ],
+        "editableUntil": "2024-05-03T15:02:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Gregor Purdy",
+          "screen_name": "GregorPurdy",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1714446562091528192",
+          "id": "1714446562091528192"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "246"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1786165798865956974",
+    "id_str": "1786395836810776742",
+    "in_reply_to_user_id": "1714446562091528192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1786395836810776742",
+    "in_reply_to_status_id": "1786165798865956974",
+    "created_at": "Fri May 03 14:02:11 +0000 2024",
+    "favorited": false,
+    "full_text": "@GregorPurdy What about things that can't be measured at all?\n\nMy intended point was more around the fact that a lot of things happen that aren't measurable, but they did, in fact, happen.\n\n(I say this as a recovering optimizer of all the things)",
+    "lang": "en",
+    "in_reply_to_screen_name": "GregorPurdy",
+    "in_reply_to_user_id_str": "1714446562091528192"
+  }
+}

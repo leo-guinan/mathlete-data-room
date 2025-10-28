@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1944231707260887175"
+        ],
+        "editableUntil": "2025-07-13T04:05:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944231707260887175/photo/1",
+          "indices": [
+            "81",
+            "104"
+          ],
+          "url": "https://t.co/HLGZVIIf34",
+          "media_url": "http://pbs.twimg.com/media/GvtMWLvWAAAqAtt.png",
+          "id_str": "1944231608132698112",
+          "id": "1944231608132698112",
+          "media_url_https": "https://pbs.twimg.com/media/GvtMWLvWAAAqAtt.png",
+          "sizes": {
+            "large": {
+              "w": "930",
+              "h": "168",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "930",
+              "h": "168",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "123",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HLGZVIIf34"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "0",
+    "id_str": "1944231707260887175",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1944231707260887175",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 13 03:05:35 +0000 2025",
+    "favorited": false,
+    "full_text": "New paper coming soon about bounding complexity to avoid this type of situation. https://t.co/HLGZVIIf34",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1944231707260887175/photo/1",
+          "indices": [
+            "81",
+            "104"
+          ],
+          "url": "https://t.co/HLGZVIIf34",
+          "media_url": "http://pbs.twimg.com/media/GvtMWLvWAAAqAtt.png",
+          "id_str": "1944231608132698112",
+          "id": "1944231608132698112",
+          "media_url_https": "https://pbs.twimg.com/media/GvtMWLvWAAAqAtt.png",
+          "sizes": {
+            "large": {
+              "w": "930",
+              "h": "168",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "930",
+              "h": "168",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "123",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HLGZVIIf34"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1577358444868141056"
+        ],
+        "editableUntil": "2022-10-04T18:32:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "turbz",
+          "screen_name": "nicktorba",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "803693608419422209",
+          "id": "803693608419422209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1577356687328976896",
+    "id_str": "1577358444868141056",
+    "in_reply_to_user_id": "803693608419422209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1577358444868141056",
+    "in_reply_to_status_id": "1577356687328976896",
+    "created_at": "Tue Oct 04 18:02:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@nicktorba Was a rough few days for me lol.\n\nFirst, my local python environment was all jacked up. Finally got that figured out and my deploy pipeline stopped working.\n\nThe fix was weird too.  Something odd going on with Render's configuration. So had to add the same command multiple places",
+    "lang": "en",
+    "in_reply_to_screen_name": "nicktorba",
+    "in_reply_to_user_id_str": "803693608419422209"
+  }
+}

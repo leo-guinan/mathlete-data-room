@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938999938748158031"
+        ],
+        "editableUntil": "2025-06-28T17:36:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Creator Insurance Agency",
+          "screen_name": "insure_creators",
+          "indices": [
+            "102",
+            "118"
+          ],
+          "id_str": "1338107290256367616",
+          "id": "1338107290256367616"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "236"
+    ],
+    "favorite_count": "0",
+    "id_str": "1938999938748158031",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938999938748158031",
+    "created_at": "Sat Jun 28 16:36:24 +0000 2025",
+    "favorited": false,
+    "full_text": "Quick: someone ask me a question about your creator business\n\nI need some inspiration for content for @insure_creators and anything I can help you with will help a bunch of future creators too.\n\nWhat complexity is killing you right now?",
+    "lang": "en"
+  }
+}

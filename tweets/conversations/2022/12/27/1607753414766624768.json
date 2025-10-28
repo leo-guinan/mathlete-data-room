@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1607753414766624768"
+        ],
+        "editableUntil": "2022-12-27T15:30:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "AbdAllah auf Algerien",
+          "screen_name": "abdnormal",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1300667251733991424",
+          "id": "1300667251733991424"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1607311189247234048",
+    "id_str": "1607753414766624768",
+    "in_reply_to_user_id": "1300667251733991424",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1607753414766624768",
+    "in_reply_to_status_id": "1607311189247234048",
+    "created_at": "Tue Dec 27 15:00:59 +0000 2022",
+    "favorited": false,
+    "full_text": "@abdnormal I've started outlining it. Not sure when I'll have it done, but hopefully within the next week or two, depending on other commitments.",
+    "lang": "en",
+    "in_reply_to_screen_name": "abdnormal",
+    "in_reply_to_user_id_str": "1300667251733991424"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929923213485629852"
+        ],
+        "editableUntil": "2025-06-03T16:28:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tom Morgan",
+          "screen_name": "tomowenmorgan",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "3359016527",
+          "id": "3359016527"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1929912584628535704",
+    "id_str": "1929923213485629852",
+    "in_reply_to_user_id": "3359016527",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929923213485629852",
+    "in_reply_to_status_id": "1929912584628535704",
+    "created_at": "Tue Jun 03 15:28:44 +0000 2025",
+    "favorited": false,
+    "full_text": "@tomowenmorgan Wait til I launch my mystic-led AI lab, and then we can talk. \n\n😉",
+    "lang": "en",
+    "in_reply_to_screen_name": "tomowenmorgan",
+    "in_reply_to_user_id_str": "3359016527"
+  }
+}

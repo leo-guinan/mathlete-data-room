@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1619381370245054468"
+        ],
+        "editableUntil": "2023-01-28T17:36:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/PBM1xzLV3K",
+          "expanded_url": "https://lu.ma/juny37bz",
+          "display_url": "lu.ma/juny37bz",
+          "indices": [
+            "40",
+            "63"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "2",
+    "id_str": "1619381370245054468",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1619381370245054468",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 28 17:06:19 +0000 2023",
+    "favorited": false,
+    "full_text": "Demo day is starting now! Come join us:\nhttps://t.co/PBM1xzLV3K",
+    "lang": "en"
+  }
+}

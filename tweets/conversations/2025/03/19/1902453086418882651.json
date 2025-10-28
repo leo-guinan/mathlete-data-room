@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902453086418882651"
+        ],
+        "editableUntil": "2025-03-19T21:12:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "sari azout",
+          "screen_name": "sariazout",
+          "indices": [
+            "197",
+            "207"
+          ],
+          "id_str": "34724786",
+          "id": "34724786"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3vQU7CBdgy",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/summoned_spirits/Glitch/Manifestos/Sublime%20Manifesto.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "46",
+            "69"
+          ]
+        },
+        {
+          "url": "https://t.co/qn1bTv5DvY",
+          "expanded_url": "https://claude.site/artifacts/370d0427-e01b-4bd0-9111-ce9ce95f6ded",
+          "display_url": "claude.site/artifacts/370d…",
+          "indices": [
+            "157",
+            "180"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1902453083747082552",
+    "id_str": "1902453086418882651",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902453086418882651",
+    "in_reply_to_status_id": "1902453083747082552",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 19 20:12:16 +0000 2025",
+    "favorited": false,
+    "full_text": "For reference, here's the original manifesto:\nhttps://t.co/3vQU7CBdgy\n\nhere's the version of the mission statement based only on the manifesto it generated:\nhttps://t.co/qn1bTv5DvY\n\nThen I applied @sariazout's collection on mission statements to get the original version:…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

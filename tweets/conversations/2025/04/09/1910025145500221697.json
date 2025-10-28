@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1910025145500221697"
+        ],
+        "editableUntil": "2025-04-09T18:40:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Geoff Lewis",
+          "screen_name": "GeoffLewisOrg",
+          "indices": [
+            "54",
+            "68"
+          ],
+          "id_str": "86736696",
+          "id": "86736696"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lhBqFdPIfV",
+          "expanded_url": "https://x.com/GeoffLewisOrg/status/1910016656488947889",
+          "display_url": "x.com/GeoffLewisOrg/…",
+          "indices": [
+            "98",
+            "121"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "2",
+    "id_str": "1910025145500221697",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1910025145500221697",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 09 17:40:55 +0000 2025",
+    "favorited": false,
+    "full_text": "I….spent 5 years on the paper in my pinned tweet, and @GeoffLewisOrg … just… tweeted it out…\n\n💀💀💀 https://t.co/lhBqFdPIfV",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1727378070279975312"
+        ],
+        "editableUntil": "2023-11-22T18:26:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Miguel Mayher",
+          "screen_name": "MiguelMayher",
+          "indices": [
+            "11",
+            "24"
+          ],
+          "id_str": "26089570",
+          "id": "26089570"
+        },
+        {
+          "name": "MrBeast",
+          "screen_name": "MrBeast",
+          "indices": [
+            "25",
+            "33"
+          ],
+          "id_str": "2455740283",
+          "id": "2455740283"
+        },
+        {
+          "name": "Alex Hormozi",
+          "screen_name": "AlexHormozi",
+          "indices": [
+            "34",
+            "46"
+          ],
+          "id_str": "1417686048579018753",
+          "id": "1417686048579018753"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "327"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1727377585020051913",
+    "id_str": "1727378070279975312",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1727378070279975312",
+    "in_reply_to_status_id": "1727377585020051913",
+    "created_at": "Wed Nov 22 17:26:39 +0000 2023",
+    "favorited": false,
+    "full_text": "@p_millerd @MiguelMayher @MrBeast @AlexHormozi It seems super simple, doesn't it?\n\nBut we live in a world of performative communication. It's not about what you do, it's about what you say you do and who you say it to.\n\n(that's corporate life in a nutshell, and my biggest complaint of it, and it just extended to social media)",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

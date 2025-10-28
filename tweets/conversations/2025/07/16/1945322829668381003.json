@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1945322829668381003"
+        ],
+        "editableUntil": "2025-07-16T04:21:19.600Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "prismaura",
+          "screen_name": "alchemicAV",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "862488191638671360",
+          "id": "862488191638671360"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "0",
+    "id_str": "1945322829668381003",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1945322829668381003",
+    "created_at": "Wed Jul 16 03:21:19 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @alchemicAV: Still thinking about this",
+    "lang": "en"
+  }
+}

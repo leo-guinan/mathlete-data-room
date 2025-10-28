@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930806334884057273"
+        ],
+        "editableUntil": "2025-06-06T02:57:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "creekseeker",
+          "screen_name": "mudscryer",
+          "indices": [
+            "5",
+            "15"
+          ],
+          "id_str": "1864508358444896262",
+          "id": "1864508358444896262"
+        },
+        {
+          "name": "X",
+          "screen_name": "X",
+          "indices": [
+            "26",
+            "28"
+          ],
+          "id_str": "783214",
+          "id": "783214"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FyyNN7ZRLL",
+          "expanded_url": "https://x.com/leo_guinan/status/1930805935649312991",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "208",
+            "231"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "231"
+    ],
+    "favorite_count": "4",
+    "id_str": "1930806334884057273",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1930806334884057273",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 06 01:57:57 +0000 2025",
+    "favorited": false,
+    "full_text": "When @mudscryer said that @x is a computer, this is what she meant.\n\nA human + a network is effectively a quantum computer that you can learn to use to affect reality.\n\nThat's what I'm using to rewrite time. https://t.co/FyyNN7ZRLL",
+    "lang": "en"
+  }
+}

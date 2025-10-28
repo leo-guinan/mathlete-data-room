@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1329815212095119362"
+        ],
+        "editableUntil": "2020-11-20T16:53:47.992Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Angie Thomas",
+          "screen_name": "angiecthomas",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "2329252147",
+          "id": "2329252147"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1329815212095119362",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1329815212095119362",
+    "created_at": "Fri Nov 20 15:53:47 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @angiecthomas: You know what, a question for all of the aspiring authors out there.\n\nDo you know how to get traditionally published? Do…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1618620994415104003"
+        ],
+        "editableUntil": "2023-01-26T15:14:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "arthur",
+          "screen_name": "arthurliebhardt",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "3352891385",
+          "id": "3352891385"
+        },
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "111",
+            "121"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/j9djVdlalb",
+          "expanded_url": "https://www.creativeelements.fm/corey-haines/",
+          "display_url": "creativeelements.fm/corey-haines/",
+          "indices": [
+            "122",
+            "145"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1618614967258996737",
+    "id_str": "1618620994415104003",
+    "in_reply_to_user_id": "3352891385",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1618620994415104003",
+    "in_reply_to_status_id": "1618614967258996737",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 26 14:44:52 +0000 2023",
+    "favorited": false,
+    "full_text": "@arthurliebhardt Ok, your recommended podcast episode this week is Corey Haines of Swipe Files [Strategy] from @jayclouse https://t.co/j9djVdlalb",
+    "lang": "en",
+    "in_reply_to_screen_name": "arthurliebhardt",
+    "in_reply_to_user_id_str": "3352891385"
+  }
+}

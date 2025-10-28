@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333621699623997441"
+        ],
+        "editableUntil": "2020-12-01T04:59:25.340Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Novall Swift",
+          "screen_name": "NovallSwift",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1851641846923190272",
+          "id": "1851641846923190272"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "233"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1333619262569660416",
+    "id_str": "1333621699623997441",
+    "in_reply_to_user_id": "27519453",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333621699623997441",
+    "in_reply_to_status_id": "1333619262569660416",
+    "created_at": "Tue Dec 01 03:59:25 +0000 2020",
+    "favorited": false,
+    "full_text": "@NovallSwift That's always been my philosophy. If I make a mistake (and I have, many, many times), I try to figure out how I can fix the system to prevent that same mistake. If I could make it, someone else could easily have as well.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "27519453"
+  }
+}

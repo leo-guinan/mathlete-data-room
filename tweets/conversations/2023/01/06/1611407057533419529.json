@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1611407057533419529"
+        ],
+        "editableUntil": "2023-01-06T17:29:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Annie Duke",
+          "screen_name": "AnnieDuke",
+          "indices": [
+            "30",
+            "40"
+          ],
+          "id_str": "24340604",
+          "id": "24340604"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "259"
+    ],
+    "favorite_count": "3",
+    "id_str": "1611407057533419529",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1611407057533419529",
+    "created_at": "Fri Jan 06 16:59:15 +0000 2023",
+    "favorited": false,
+    "full_text": "Finally listening to Quit, by @AnnieDuke.  I've been looking forward to it for a bit now, and I'm excited to finally do it.\n\nIt has definitely hit home on a number of levels. I've waited too long to quit many times.  That essentially defines my first startup.",
+    "lang": "en"
+  }
+}

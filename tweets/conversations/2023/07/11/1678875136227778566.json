@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1678875136227778566"
+        ],
+        "editableUntil": "2023-07-11T22:13:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "91",
+            "103"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "113",
+            "123"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1678875136227778566/photo/1",
+          "indices": [
+            "125",
+            "148"
+          ],
+          "url": "https://t.co/X9fofHU16y",
+          "media_url": "http://pbs.twimg.com/media/F0yP3VTXsAAAQqC.jpg",
+          "id_str": "1678874941876318208",
+          "id": "1678874941876318208",
+          "media_url_https": "https://pbs.twimg.com/media/F0yP3VTXsAAAQqC.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "417",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1256",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "736",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/X9fofHU16y"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "66",
+            "83"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "3",
+    "id_str": "1678875136227778566",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1678875136227778566",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 11 21:13:19 +0000 2023",
+    "favorited": false,
+    "full_text": "Only *checks watch*  4 days late posting, but here's the pic from #ADHDWithBenefits!\n\nWith @UntappedKeg, Up, and @bethicalj! https://t.co/X9fofHU16y",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1678875136227778566/photo/1",
+          "indices": [
+            "125",
+            "148"
+          ],
+          "url": "https://t.co/X9fofHU16y",
+          "media_url": "http://pbs.twimg.com/media/F0yP3VTXsAAAQqC.jpg",
+          "id_str": "1678874941876318208",
+          "id": "1678874941876318208",
+          "media_url_https": "https://pbs.twimg.com/media/F0yP3VTXsAAAQqC.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "417",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1256",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "736",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/X9fofHU16y"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596531889124552704"
+        ],
+        "editableUntil": "2022-11-26T16:20:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Berman® 👑 Galadon",
+          "screen_name": "alxberman",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "290886318",
+          "id": "290886318"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1596531856891158532",
+    "id_str": "1596531889124552704",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596531889124552704",
+    "in_reply_to_status_id": "1596531856891158532",
+    "created_at": "Sat Nov 26 15:50:39 +0000 2022",
+    "favorited": false,
+    "full_text": "@alxberman 4.  making a choice that defines their future\n5.  Russell Brunson\n6.  Email",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

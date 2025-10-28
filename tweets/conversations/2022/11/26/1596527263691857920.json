@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596527263691857920"
+        ],
+        "editableUntil": "2022-11-26T16:02:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick Osale",
+          "screen_name": "fit_writer",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "2519385460",
+          "id": "2519385460"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1596037993587957761",
+    "id_str": "1596527263691857920",
+    "in_reply_to_user_id": "2519385460",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596527263691857920",
+    "in_reply_to_status_id": "1596037993587957761",
+    "created_at": "Sat Nov 26 15:32:16 +0000 2022",
+    "favorited": false,
+    "full_text": "@fit_writer Thanks Nick, I appreciate that!\n\nYou bio returned the topics of Self Improvement, Online Writing, and Fitness. Your last 75 tweets have the following topics:\n\n1.  fitness, health, Twitter, writing\n2.  fitness, philosophy, writing\n3.  fitness journey\n4.  Writing",
+    "lang": "en",
+    "in_reply_to_screen_name": "fit_writer",
+    "in_reply_to_user_id_str": "2519385460"
+  }
+}

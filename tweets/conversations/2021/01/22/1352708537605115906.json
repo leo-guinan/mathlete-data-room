@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1352708537605115906"
+        ],
+        "editableUntil": "2021-01-22T21:03:42.131Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bo Ren",
+          "screen_name": "Bosefina",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "216857985",
+          "id": "216857985"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ooQJaB5xhY",
+          "expanded_url": "http://Definet.dev",
+          "display_url": "Definet.dev",
+          "indices": [
+            "149",
+            "172"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "247"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1352672916404654081",
+    "id_str": "1352708537605115906",
+    "in_reply_to_user_id": "216857985",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1352708537605115906",
+    "in_reply_to_status_id": "1352672916404654081",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 22 20:03:42 +0000 2021",
+    "favorited": false,
+    "full_text": "@Bosefina I agree. There needs to be a way to find the others. I am building out a way to connect people to the quiet voices, instead of the loud. \n\nhttps://t.co/ooQJaB5xhY \n\nSubscriptions were supposed to be up but not working yet apparently.  :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "Bosefina",
+    "in_reply_to_user_id_str": "216857985"
+  }
+}

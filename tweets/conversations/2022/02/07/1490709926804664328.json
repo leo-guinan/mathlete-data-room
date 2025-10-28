@@ -1,0 +1,101 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1490709926804664328"
+        ],
+        "editableUntil": "2022-02-07T16:31:57.258Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        },
+        {
+          "name": "Emily Leahy",
+          "screen_name": "iamemilyleahy",
+          "indices": [
+            "28",
+            "42"
+          ],
+          "id_str": "2897739555",
+          "id": "2897739555"
+        },
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "43",
+            "53"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        },
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "54",
+            "62"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        },
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "250",
+            "265"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "328"
+    ],
+    "favorite_count": "5",
+    "in_reply_to_status_id_str": "1490707019476746240",
+    "id_str": "1490709926804664328",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1490709926804664328",
+    "in_reply_to_status_id": "1490707019476746240",
+    "created_at": "Mon Feb 07 15:31:57 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @bkh_leung @iamemilyleahy @oluadedej @AndyM84 That's an awesome group of founders right there. I get a ton of inspiration from all of them!\n\nMostly due to the high level of community they build around themselves. \n\nAlso want to toss @fernandoparnes into the mix. I love what he's building and how he's doing it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1529185308432027649"
+        ],
+        "editableUntil": "2022-05-24T20:09:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Skoob",
+          "screen_name": "djskoob2021",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1333478894851256325",
+          "id": "1333478894851256325"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1529185308432027649",
+    "in_reply_to_user_id": "1333478894851256325",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1529185308432027649",
+    "created_at": "Tue May 24 19:39:23 +0000 2022",
+    "favorited": false,
+    "full_text": "@djskoob2021 let's chat. I've been playing around with some monetization options. Happy to brainstorm with you and share what I've learned!",
+    "lang": "en",
+    "in_reply_to_screen_name": "djskoob2021",
+    "in_reply_to_user_id_str": "1333478894851256325"
+  }
+}

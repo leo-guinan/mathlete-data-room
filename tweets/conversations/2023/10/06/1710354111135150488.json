@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1710354111135150488"
+        ],
+        "editableUntil": "2023-10-06T18:59:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "232",
+            "248"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/d7Vpq1wUat",
+          "expanded_url": "https://youtu.be/X2Tk_YNkENE",
+          "display_url": "youtu.be/X2Tk_YNkENE",
+          "indices": [
+            "251",
+            "274"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "0",
+    "id_str": "1710354111135150488",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1710354111135150488",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 06 17:59:31 +0000 2023",
+    "favorited": false,
+    "full_text": "Bit of a different video today. Mostly because zoom cloud recording ended up giving me a resolution that wasn't appropriate to share. Nobody should have to see me that pixelated. So enjoy waveform.\n\nBut enjoy a convo between me and @JustinAllingham:\n\nhttps://t.co/d7Vpq1wUat",
+    "lang": "en"
+  }
+}

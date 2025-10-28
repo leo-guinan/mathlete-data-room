@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1891914363218350434"
+        ],
+        "editableUntil": "2025-02-18T19:15:08.917Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1891914363218350434",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1891914363218350434",
+    "created_at": "Tue Feb 18 18:15:08 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @DefenderOfBasic: ok i just did a version of this that works 100% local, 100% free. You don't even need to upload your tweets or give th…",
+    "lang": "en"
+  }
+}

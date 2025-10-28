@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491058551498108930"
+        ],
+        "editableUntil": "2022-02-08T15:37:15.862Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UmQ52gAuvN",
+          "expanded_url": "https://x.com/arvidkahl/status/1385959798823428096",
+          "display_url": "x.com/arvidkahl/stat…",
+          "indices": [
+            "20",
+            "43"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "43"
+    ],
+    "favorite_count": "1",
+    "id_str": "1491058551498108930",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1491058551498108930",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 08 14:37:15 +0000 2022",
+    "favorited": false,
+    "full_text": "This is pure truth. https://t.co/UmQ52gAuvN",
+    "lang": "en"
+  }
+}

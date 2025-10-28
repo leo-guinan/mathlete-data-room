@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486101332926861315"
+        ],
+        "editableUntil": "2022-01-25T23:19:02.854Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "81",
+            "88"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9DUynu29N8",
+          "expanded_url": "https://vm.tiktok.com/TTPdhrq5De/",
+          "display_url": "vm.tiktok.com/TTPdhrq5De/",
+          "indices": [
+            "89",
+            "112"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "1",
+    "id_str": "1486101332926861315",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1486101332926861315",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 25 22:19:02 +0000 2022",
+    "favorited": false,
+    "full_text": "Getting back on the tiktok habit with a question.\n\nCheck out Leo Guinan's video! #TikTok https://t.co/9DUynu29N8",
+    "lang": "en"
+  }
+}

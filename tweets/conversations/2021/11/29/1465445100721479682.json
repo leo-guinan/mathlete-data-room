@@ -1,0 +1,138 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1465445100721479682"
+        ],
+        "editableUntil": "2021-11-29T23:18:33.322Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "jack",
+          "screen_name": "jack",
+          "indices": [
+            "4",
+            "9"
+          ],
+          "id_str": "12",
+          "id": "12"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1465445100721479682/photo/1",
+          "indices": [
+            "151",
+            "174"
+          ],
+          "url": "https://t.co/5CkpXDnnID",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FFZOjKvXsAcxyjX.jpg",
+          "id_str": "1465445094841102343",
+          "id": "1465445094841102343",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFZOjKvXsAcxyjX.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5CkpXDnnID"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "174"
+    ],
+    "favorite_count": "3",
+    "id_str": "1465445100721479682",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1465445100721479682",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 29 22:18:33 +0000 2021",
+    "favorited": false,
+    "full_text": "So. @jack, seems like you might have some free time now. I've been kicking around some ideas that I think you might like. Hit me up and we can chat. 😎 https://t.co/5CkpXDnnID",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1465445100721479682/photo/1",
+          "indices": [
+            "151",
+            "174"
+          ],
+          "url": "https://t.co/5CkpXDnnID",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FFZOjKvXsAcxyjX.jpg",
+          "id_str": "1465445094841102343",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "71"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FFZOjKvXsAcxyjX.mp4"
+              }
+            ]
+          },
+          "id": "1465445094841102343",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFZOjKvXsAcxyjX.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/5CkpXDnnID"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928461418120049037"
+        ],
+        "editableUntil": "2025-05-30T15:40:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "inextinguishable warmth is writing his FIRST BOOK",
+          "screen_name": "PrinceManayBora",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2221738009",
+          "id": "2221738009"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/qQHO12ifdL",
+          "expanded_url": "https://polite-yeot-5d5940.netlify.app/",
+          "display_url": "polite-yeot-5d5940.netlify.app",
+          "indices": [
+            "77",
+            "100"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928461418120049037/photo/1",
+          "indices": [
+            "101",
+            "124"
+          ],
+          "url": "https://t.co/K0SYS0EtHY",
+          "media_url": "http://pbs.twimg.com/media/GsNFZ2_WwAAaWRB.jpg",
+          "id_str": "1928461376004997120",
+          "id": "1928461376004997120",
+          "media_url_https": "https://pbs.twimg.com/media/GsNFZ2_WwAAaWRB.jpg",
+          "sizes": {
+            "small": {
+              "w": "672",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1186",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1726",
+              "h": "1746",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/K0SYS0EtHY"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1927949432336564319",
+    "id_str": "1928461418120049037",
+    "in_reply_to_user_id": "2221738009",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928461418120049037",
+    "in_reply_to_status_id": "1927949432336564319",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 30 14:40:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@PrinceManayBora New idea for this, if you don't mind sharing your feedback: https://t.co/qQHO12ifdL https://t.co/K0SYS0EtHY",
+    "lang": "en",
+    "in_reply_to_screen_name": "PrinceManayBora",
+    "in_reply_to_user_id_str": "2221738009",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928461418120049037/photo/1",
+          "indices": [
+            "101",
+            "124"
+          ],
+          "url": "https://t.co/K0SYS0EtHY",
+          "media_url": "http://pbs.twimg.com/media/GsNFZ2_WwAAaWRB.jpg",
+          "id_str": "1928461376004997120",
+          "id": "1928461376004997120",
+          "media_url_https": "https://pbs.twimg.com/media/GsNFZ2_WwAAaWRB.jpg",
+          "sizes": {
+            "small": {
+              "w": "672",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1186",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1726",
+              "h": "1746",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/K0SYS0EtHY"
+        }
+      ]
+    }
+  }
+}

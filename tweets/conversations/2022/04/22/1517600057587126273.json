@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517600057587126273"
+        ],
+        "editableUntil": "2022-04-22T20:53:44.031Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Maryam",
+          "screen_name": "maryam_farsh",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1362562620369367047",
+          "id": "1362562620369367047"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "14",
+            "24"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "65"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1517599874367123456",
+    "id_str": "1517600057587126273",
+    "in_reply_to_user_id": "1362562620369367047",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517600057587126273",
+    "in_reply_to_status_id": "1517599874367123456",
+    "created_at": "Fri Apr 22 20:23:44 +0000 2022",
+    "favorited": false,
+    "full_text": "@maryam_farsh @NotechAna Thanks Maryam! Really appreciate it! 🙏🙏🙏",
+    "lang": "en",
+    "in_reply_to_screen_name": "maryam_farsh",
+    "in_reply_to_user_id_str": "1362562620369367047"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1692676529447153876"
+        ],
+        "editableUntil": "2023-08-19T00:15:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Wabastreams - $1 On Patreon!",
+          "screen_name": "wabastreams",
+          "indices": [
+            "69",
+            "81"
+          ],
+          "id_str": "1254795953741205504",
+          "id": "1254795953741205504"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "83",
+            "94"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "101",
+            "111"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1692676529447153876/photo/1",
+          "indices": [
+            "113",
+            "136"
+          ],
+          "url": "https://t.co/j4En3nae4a",
+          "media_url": "http://pbs.twimg.com/media/F32XyCpWQAAnZsk.jpg",
+          "id_str": "1692675920920723456",
+          "id": "1692675920920723456",
+          "media_url_https": "https://pbs.twimg.com/media/F32XyCpWQAAnZsk.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "380",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "671",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1146",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/j4En3nae4a"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "10",
+            "27"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "3",
+    "id_str": "1692676529447153876",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1692676529447153876",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 18 23:15:07 +0000 2023",
+    "favorited": false,
+    "full_text": "Excellent #ADHDWithBenefits tonight (as always!)\n\nFeaturing newcomer @Wabastreams, @LobowSpark , and @bethicalj! https://t.co/j4En3nae4a",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1692676529447153876/photo/1",
+          "indices": [
+            "113",
+            "136"
+          ],
+          "url": "https://t.co/j4En3nae4a",
+          "media_url": "http://pbs.twimg.com/media/F32XyCpWQAAnZsk.jpg",
+          "id_str": "1692675920920723456",
+          "id": "1692675920920723456",
+          "media_url_https": "https://pbs.twimg.com/media/F32XyCpWQAAnZsk.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "380",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "671",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1146",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/j4En3nae4a"
+        }
+      ]
+    }
+  }
+}

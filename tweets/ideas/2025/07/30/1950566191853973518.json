@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1950566191853973518"
+        ],
+        "editableUntil": "2025-07-30T15:36:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1950566191853973518/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/HHSRA3Y7VJ",
+          "media_url": "http://pbs.twimg.com/media/GxHNlxpWMAAUXOc.png",
+          "id_str": "1950566162493747200",
+          "id": "1950566162493747200",
+          "media_url_https": "https://pbs.twimg.com/media/GxHNlxpWMAAUXOc.png",
+          "sizes": {
+            "large": {
+              "w": "930",
+              "h": "156",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "930",
+              "h": "156",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "114",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HHSRA3Y7VJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "1",
+    "id_str": "1950566191853973518",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1950566191853973518",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 30 14:36:34 +0000 2025",
+    "favorited": false,
+    "full_text": "Love getting messages like this.\n\n\"love you dude you changed my life\" https://t.co/HHSRA3Y7VJ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1950566191853973518/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/HHSRA3Y7VJ",
+          "media_url": "http://pbs.twimg.com/media/GxHNlxpWMAAUXOc.png",
+          "id_str": "1950566162493747200",
+          "id": "1950566162493747200",
+          "media_url_https": "https://pbs.twimg.com/media/GxHNlxpWMAAUXOc.png",
+          "sizes": {
+            "large": {
+              "w": "930",
+              "h": "156",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "930",
+              "h": "156",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "114",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HHSRA3Y7VJ"
+        }
+      ]
+    }
+  }
+}

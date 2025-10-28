@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1967230660948726027"
+        ],
+        "editableUntil": "2025-09-14T15:15:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1967230660948726027/photo/1",
+          "indices": [
+            "161",
+            "184"
+          ],
+          "url": "https://t.co/IliRdkVXmk",
+          "media_url": "http://pbs.twimg.com/media/G00B2aJWwAA8JdW.jpg",
+          "id_str": "1967230646473900032",
+          "id": "1967230646473900032",
+          "media_url_https": "https://pbs.twimg.com/media/G00B2aJWwAA8JdW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IliRdkVXmk"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "184"
+    ],
+    "favorite_count": "4",
+    "id_str": "1967230660948726027",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1967230660948726027",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 14 14:15:13 +0000 2025",
+    "favorited": false,
+    "full_text": "I’ve found that the quality of my work has started increasing when I found my batcave. \n\nStep behind the bookcase and go down into a completely different world. https://t.co/IliRdkVXmk",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1967230660948726027/photo/1",
+          "indices": [
+            "161",
+            "184"
+          ],
+          "url": "https://t.co/IliRdkVXmk",
+          "media_url": "http://pbs.twimg.com/media/G00B2aJWwAA8JdW.jpg",
+          "id_str": "1967230646473900032",
+          "id": "1967230646473900032",
+          "media_url_https": "https://pbs.twimg.com/media/G00B2aJWwAA8JdW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IliRdkVXmk"
+        }
+      ]
+    }
+  }
+}

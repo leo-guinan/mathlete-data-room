@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1585031482225364993"
+        ],
+        "editableUntil": "2022-10-25T22:42:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "221"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1584204297926897665",
+    "id_str": "1585031482225364993",
+    "in_reply_to_user_id": "1461236887159382017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1585031482225364993",
+    "in_reply_to_status_id": "1584204297926897665",
+    "created_at": "Tue Oct 25 22:12:08 +0000 2022",
+    "favorited": false,
+    "full_text": "@Chuckenspire Ok, so I was hoping to actually get it working, but I started by thinking about the automation I wanted to build around my podcasts.\n\nAnd I started exploring how I could create dynamic pages for each episode",
+    "lang": "en",
+    "in_reply_to_screen_name": "Chuckenspire",
+    "in_reply_to_user_id_str": "1461236887159382017"
+  }
+}

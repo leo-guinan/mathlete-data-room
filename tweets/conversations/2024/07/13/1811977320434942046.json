@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811977320434942046"
+        ],
+        "editableUntil": "2024-07-13T05:13:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "bayes",
+          "screen_name": "bayeslord",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1084942466376257537",
+          "id": "1084942466376257537"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "175"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1811905472624230875",
+    "id_str": "1811977320434942046",
+    "in_reply_to_user_id": "1084942466376257537",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1811977320434942046",
+    "in_reply_to_status_id": "1811905472624230875",
+    "created_at": "Sat Jul 13 04:13:52 +0000 2024",
+    "favorited": false,
+    "full_text": "@bayeslord What kind do you want? I've got ideas around the economics of information, how we should be building abundant systems, and efficient communications, among others...",
+    "lang": "en",
+    "in_reply_to_screen_name": "bayeslord",
+    "in_reply_to_user_id_str": "1084942466376257537"
+  }
+}

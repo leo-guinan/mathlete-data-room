@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1342962399163404289"
+        ],
+        "editableUntil": "2020-12-26T23:36:01.652Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "minal hasan",
+          "screen_name": "minal_hasan",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1977132896",
+          "id": "1977132896"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "188"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1342961440630603776",
+    "id_str": "1342962399163404289",
+    "in_reply_to_user_id": "1977132896",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1342962399163404289",
+    "in_reply_to_status_id": "1342961440630603776",
+    "created_at": "Sat Dec 26 22:36:01 +0000 2020",
+    "favorited": false,
+    "full_text": "@minal_hasan Because most of the people in power can't be bothered to learn enough about it to really understand it. They just don't care enough. And those that do are profiting off of it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "minal_hasan",
+    "in_reply_to_user_id_str": "1977132896"
+  }
+}

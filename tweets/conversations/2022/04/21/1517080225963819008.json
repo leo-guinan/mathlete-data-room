@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517080225963819008"
+        ],
+        "editableUntil": "2022-04-21T10:58:06.514Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "33",
+            "44"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1517080225963819008",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517080225963819008",
+    "created_at": "Thu Apr 21 09:58:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Today's featured @LobowSpark episode: \n\nThink you could do a 36 hour live stream?\n\nWhat is a Mental Health Ultramarathon, w…",
+    "lang": "en"
+  }
+}

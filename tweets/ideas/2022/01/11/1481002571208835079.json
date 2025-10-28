@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1481002571208835079"
+        ],
+        "editableUntil": "2022-01-11T21:38:23.330Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "119"
+    ],
+    "favorite_count": "0",
+    "id_str": "1481002571208835079",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1481002571208835079",
+    "created_at": "Tue Jan 11 20:38:23 +0000 2022",
+    "favorited": false,
+    "full_text": "How important are your edge cases? A good test: \n\nWill someone die if I miss this edge case?\n\nIf yes, pretty important!",
+    "lang": "en"
+  }
+}

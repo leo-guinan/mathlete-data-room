@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1581091111514255360"
+        ],
+        "editableUntil": "2022-10-15T01:44:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fJcHscTpuO",
+          "expanded_url": "https://x.com/reddy2go/status/1579999341241982976",
+          "display_url": "x.com/reddy2go/statu…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "1",
+    "id_str": "1581091111514255360",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1581091111514255360",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 15 01:14:30 +0000 2022",
+    "favorited": false,
+    "full_text": "Still thinking a lot about the things that came up during this discussion. https://t.co/fJcHscTpuO",
+    "lang": "en"
+  }
+}

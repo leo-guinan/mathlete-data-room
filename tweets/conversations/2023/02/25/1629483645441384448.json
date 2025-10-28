@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1629483645441384448"
+        ],
+        "editableUntil": "2023-02-25T14:39:10.072Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Maxime Dupré",
+          "screen_name": "maximehugodupre",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "3358091321",
+          "id": "3358091321"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "43",
+            "55"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1629483645441384448",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1629483645441384448",
+    "created_at": "Sat Feb 25 14:09:10 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @maximehugodupre: 🚨🚨🚨\n\nBirdy is LIVE on @ProductHunt 😱🤩😎\n\nOver the last year, I have poured my heart and soul into making Birdy the best…",
+    "lang": "en"
+  }
+}

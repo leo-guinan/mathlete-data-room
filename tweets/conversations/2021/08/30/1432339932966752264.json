@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432339932966752264"
+        ],
+        "editableUntil": "2021-08-30T14:50:26.265Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "jack",
+          "screen_name": "jackbutcher",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "52188203",
+          "id": "52188203"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y8LyJnGQUn",
+          "expanded_url": "http://leveragedcreator.com",
+          "display_url": "leveragedcreator.com",
+          "indices": [
+            "41",
+            "64"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "64"
+    ],
+    "favorite_count": "0",
+    "id_str": "1432339932966752264",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432339932966752264",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 30 13:50:26 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @jackbutcher: 10 days of free game\n\n↓\nhttps://t.co/Y8LyJnGQUn",
+    "lang": "en"
+  }
+}

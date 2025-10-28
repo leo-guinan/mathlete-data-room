@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1800665535488950699"
+        ],
+        "editableUntil": "2024-06-12T00:04:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6dJjKRy4ml",
+          "expanded_url": "https://x.com/leo_guinan/status/1800551556179505418",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "239",
+            "262"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "1",
+    "id_str": "1800665535488950699",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1800665535488950699",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 11 23:04:53 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, anybody else have a gmail account compomised? \n\nLooks like the got access to Gmail long enough to take over the microsoft account that was linked and then google logged them out. \n\nBut also had suspicious activity on my steam account. https://t.co/6dJjKRy4ml",
+    "lang": "en"
+  }
+}

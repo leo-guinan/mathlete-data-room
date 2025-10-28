@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1488231804687597568"
+        ],
+        "editableUntil": "2022-01-31T20:24:46.904Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessie van Breugel 🟣",
+          "screen_name": "jessievbreugel",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "416546307",
+          "id": "416546307"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1488228279354019848",
+    "id_str": "1488231804687597568",
+    "in_reply_to_user_id": "416546307",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1488231804687597568",
+    "in_reply_to_status_id": "1488228279354019848",
+    "created_at": "Mon Jan 31 19:24:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@jessievbreugel Not easily.  Which is one of the reasons I'm building @feathercrm .\n\nShould be easier to find your tribe but there's a lot of noise.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jessievbreugel",
+    "in_reply_to_user_id_str": "416546307"
+  }
+}

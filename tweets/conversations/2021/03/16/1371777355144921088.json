@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371777355144921088"
+        ],
+        "editableUntil": "2021-03-16T11:56:22.514Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lunchclub",
+          "screen_name": "lunchclubai",
+          "indices": [
+            "38",
+            "50"
+          ],
+          "id_str": "1071464835559251968",
+          "id": "1071464835559251968"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XuL6w3kXyx",
+          "expanded_url": "https://lunchclub.com/?invite_code=leog7&ref=twitter",
+          "display_url": "lunchclub.com/?invite_code=l…",
+          "indices": [
+            "132",
+            "155"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "155"
+    ],
+    "favorite_count": "1",
+    "id_str": "1371777355144921088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371777355144921088",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 16 10:56:22 +0000 2021",
+    "favorited": false,
+    "full_text": "Excited to be networking from home on @lunchclubai! Use my invite link to skip the waitlist and meet interesting people over video: https://t.co/XuL6w3kXyx",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1338086853099085827"
+        ],
+        "editableUntil": "2020-12-13T12:42:20.887Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Crew96",
+          "indices": [
+            "70",
+            "77"
+          ]
+        },
+        {
+          "text": "MLSCup",
+          "indices": [
+            "78",
+            "85"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Agustin Viana",
+          "screen_name": "AgustinViana",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "552911608",
+          "id": "552911608"
+        },
+        {
+          "name": "CCSC",
+          "screen_name": "columbuscrewsc",
+          "indices": [
+            "31",
+            "46"
+          ],
+          "id_str": "2792544626",
+          "id": "2792544626"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "97"
+    ],
+    "favorite_count": "0",
+    "id_str": "1338086853099085827",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1338086853099085827",
+    "created_at": "Sun Dec 13 11:42:20 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @AgustinViana: So happy for @ColumbusCrewSC and the City! Congrats #Crew96 #MLSCup Well done !",
+    "lang": "en"
+  }
+}

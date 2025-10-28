@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1912723687737843742"
+        ],
+        "editableUntil": "2025-04-17T05:23:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Leow",
+          "screen_name": "jasonleowsg",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2890893720",
+          "id": "2890893720"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "188"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1912722888542810539",
+    "id_str": "1912723687737843742",
+    "in_reply_to_user_id": "2890893720",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1912723687737843742",
+    "in_reply_to_status_id": "1912722888542810539",
+    "created_at": "Thu Apr 17 04:23:58 +0000 2025",
+    "favorited": false,
+    "full_text": "@jasonleowsg when you have clarity and stability in your goals. \n\nIt's easy to constantly change with the times, riding the next wave.\n\nIt's hard to stay the course, knowing you are right.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jasonleowsg",
+    "in_reply_to_user_id_str": "2890893720"
+  }
+}

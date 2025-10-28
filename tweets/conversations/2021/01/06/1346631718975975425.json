@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346631718975975425"
+        ],
+        "editableUntil": "2021-01-06T02:36:35.668Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Carla Notarobot 🤖👩🏻‍💻",
+          "screen_name": "CarlaNotarobot",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1263631110581432320",
+          "id": "1263631110581432320"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "31"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1346631368453844992",
+    "id_str": "1346631718975975425",
+    "in_reply_to_user_id": "1263631110581432320",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346631718975975425",
+    "in_reply_to_status_id": "1346631368453844992",
+    "created_at": "Wed Jan 06 01:36:35 +0000 2021",
+    "favorited": false,
+    "full_text": "@CarlaNotarobot Stack overflow?",
+    "lang": "en",
+    "in_reply_to_screen_name": "CarlaNotarobot",
+    "in_reply_to_user_id_str": "1263631110581432320"
+  }
+}

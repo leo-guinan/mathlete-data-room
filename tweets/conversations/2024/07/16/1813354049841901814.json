@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1813354049841901814"
+        ],
+        "editableUntil": "2024-07-17T00:24:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "⚡️ Ev Chapman 🚢 | Creative Entrepreneur",
+          "screen_name": "evielync",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15314440",
+          "id": "15314440"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bIWxDvXqnZ",
+          "expanded_url": "https://chat.leoguinan.ai",
+          "display_url": "chat.leoguinan.ai",
+          "indices": [
+            "197",
+            "220"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1813353233404039487",
+    "id_str": "1813354049841901814",
+    "in_reply_to_user_id": "15314440",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1813354049841901814",
+    "in_reply_to_status_id": "1813353233404039487",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 16 23:24:30 +0000 2024",
+    "favorited": false,
+    "full_text": "@evielync I built my own. I didn't like the way existing platforms did it, because I've been thinking a lot about completely new models that become possible.\n\nIf you want, can check mine out here: https://t.co/bIWxDvXqnZ\n\nWent live 2 days ago",
+    "lang": "en",
+    "in_reply_to_screen_name": "evielync",
+    "in_reply_to_user_id_str": "15314440"
+  }
+}

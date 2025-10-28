@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423042188473245697"
+        ],
+        "editableUntil": "2021-08-04T23:04:31.234Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "5",
+    "id_str": "1423042188473245697",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1423042188473245697",
+    "created_at": "Wed Aug 04 22:04:31 +0000 2021",
+    "favorited": false,
+    "full_text": "TwitterCRM Daily update:\n\nRemember what I said about putting Quirrel off to the side?  Yeah, turns out it can make my life a lot easier due to the way Twitter returns data. As I was pulling in DM info, I noticed that it's coming back in a really weird way.",
+    "lang": "en"
+  }
+}

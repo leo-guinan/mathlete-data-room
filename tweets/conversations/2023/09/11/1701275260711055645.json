@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1701275260711055645"
+        ],
+        "editableUntil": "2023-09-11T17:43:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "174",
+            "183"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gBeCVbCIhW",
+          "expanded_url": "https://youtu.be/2UFGWolDFBQ",
+          "display_url": "youtu.be/2UFGWolDFBQ",
+          "indices": [
+            "186",
+            "209"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "209"
+    ],
+    "favorite_count": "1",
+    "id_str": "1701275260711055645",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1701275260711055645",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 11 16:43:24 +0000 2023",
+    "favorited": false,
+    "full_text": "Premiering in 20 minutes:\n\nThe Power of Play in Business Innovation\n\nOnce again, I dove into my archives to find some wisdom, this time reaching back to my conversation with @reddy2go \n\nhttps://t.co/gBeCVbCIhW",
+    "lang": "en"
+  }
+}

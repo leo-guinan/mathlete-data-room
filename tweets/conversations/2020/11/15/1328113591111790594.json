@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328113591111790594"
+        ],
+        "editableUntil": "2020-11-16T00:12:09.935Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Perell",
+          "screen_name": "david_perell",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "240049622",
+          "id": "240049622"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328113591111790594",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328113591111790594",
+    "created_at": "Sun Nov 15 23:12:09 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @david_perell: “In this world, there are two times. There is mechanical time and there is body time.”\n\n— Alan Lightman\n\nIt‘d be fun to s…",
+    "lang": "en"
+  }
+}

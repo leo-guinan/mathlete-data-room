@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371503968485052418"
+        ],
+        "editableUntil": "2021-03-15T17:50:02.055Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "WrittenByAI",
+          "indices": [
+            "150",
+            "162"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LapFXJv7xX",
+          "expanded_url": "http://tweetbutler.com",
+          "display_url": "tweetbutler.com",
+          "indices": [
+            "167",
+            "190"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "190"
+    ],
+    "favorite_count": "0",
+    "id_str": "1371503968485052418",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371503968485052418",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 15 16:50:02 +0000 2021",
+    "favorited": false,
+    "full_text": "I try to share at least one thing a day that I learned. One lesson I want you to know is that you should get paid as much as possible for your work.\n\n#WrittenByAI via https://t.co/LapFXJv7xX",
+    "lang": "en"
+  }
+}

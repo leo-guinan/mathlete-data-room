@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946066279409807672"
+        ],
+        "editableUntil": "2025-07-18T05:35:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "zeta",
+          "screen_name": "zeta_globin",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1634953426034458624",
+          "id": "1634953426034458624"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9wLf1skJV8",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/the-rise-of-the-online-schizo",
+          "display_url": "hitchhikertothefuture.substack.com/p/the-rise-of-…",
+          "indices": [
+            "168",
+            "191"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1946066279409807672/photo/1",
+          "indices": [
+            "228",
+            "251"
+          ],
+          "url": "https://t.co/8cKoMoo60k",
+          "media_url": "http://pbs.twimg.com/media/GwHQ93lWYAIaGOe.jpg",
+          "id_str": "1946066275311968258",
+          "id": "1946066275311968258",
+          "media_url_https": "https://pbs.twimg.com/media/GwHQ93lWYAIaGOe.jpg",
+          "sizes": {
+            "large": {
+              "w": "1320",
+              "h": "1653",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "543",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "958",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/8cKoMoo60k"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "251"
+    ],
+    "favorite_count": "7",
+    "in_reply_to_status_id_str": "1946030067261272457",
+    "id_str": "1946066279409807672",
+    "in_reply_to_user_id": "1634953426034458624",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946066279409807672",
+    "in_reply_to_status_id": "1946030067261272457",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 18 04:35:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@zeta_globin The systems alone are enough. \n\nWe’re in a very interesting time right now. \n\nThis is basically exactly what I was predicting we’d see when I wrote this:\n\nhttps://t.co/9wLf1skJV8\n\nJust didn’t expect it to be Geoff. https://t.co/8cKoMoo60k",
+    "lang": "en",
+    "in_reply_to_screen_name": "zeta_globin",
+    "in_reply_to_user_id_str": "1634953426034458624",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1946066279409807672/photo/1",
+          "indices": [
+            "228",
+            "251"
+          ],
+          "url": "https://t.co/8cKoMoo60k",
+          "media_url": "http://pbs.twimg.com/media/GwHQ93lWYAIaGOe.jpg",
+          "id_str": "1946066275311968258",
+          "id": "1946066275311968258",
+          "media_url_https": "https://pbs.twimg.com/media/GwHQ93lWYAIaGOe.jpg",
+          "sizes": {
+            "large": {
+              "w": "1320",
+              "h": "1653",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "543",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "958",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/8cKoMoo60k"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819422509835735502"
+        ],
+        "editableUntil": "2024-08-02T18:18:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dan Shipper 📧",
+          "screen_name": "danshipper",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "19829693",
+          "id": "19829693"
+        },
+        {
+          "name": "Every 📧",
+          "screen_name": "every",
+          "indices": [
+            "12",
+            "18"
+          ],
+          "id_str": "809565356",
+          "id": "809565356"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yjwZoIYRY8",
+          "expanded_url": "https://x.com/leo_guinan/status/1819422341513802151",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "131",
+            "154"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1819401204390129873",
+    "id_str": "1819422509835735502",
+    "in_reply_to_user_id": "19829693",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1819422509835735502",
+    "in_reply_to_status_id": "1819401204390129873",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 02 17:18:24 +0000 2024",
+    "favorited": false,
+    "full_text": "@danshipper @every Here's my recommendation on what you should do. Happy to chat more about the model if it interests you at all. \nhttps://t.co/yjwZoIYRY8",
+    "lang": "en",
+    "in_reply_to_screen_name": "danshipper",
+    "in_reply_to_user_id_str": "19829693"
+  }
+}

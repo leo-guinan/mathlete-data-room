@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1579546898331238400"
+        ],
+        "editableUntil": "2022-10-10T19:28:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1579545810651713536",
+    "id_str": "1579546898331238400",
+    "in_reply_to_user_id": "16884623",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1579546898331238400",
+    "in_reply_to_status_id": "1579545810651713536",
+    "created_at": "Mon Oct 10 18:58:21 +0000 2022",
+    "favorited": false,
+    "full_text": "@visakanv Experimentation around a shared purpose is what popped into my head first.\n\nUnderstanding that we don't understand everything, trust in the people you've selected to figure things out.\n\nA little guidance + space to play",
+    "lang": "en",
+    "in_reply_to_screen_name": "visakanv",
+    "in_reply_to_user_id_str": "16884623"
+  }
+}

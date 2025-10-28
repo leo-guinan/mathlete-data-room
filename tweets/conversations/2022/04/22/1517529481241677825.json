@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517529481241677825"
+        ],
+        "editableUntil": "2022-04-22T16:13:17.319Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin",
+          "screen_name": "JustinQuda",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1463456280773681160",
+          "id": "1463456280773681160"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "12",
+            "24"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1517518071921094656",
+    "id_str": "1517529481241677825",
+    "in_reply_to_user_id": "1463456280773681160",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517529481241677825",
+    "in_reply_to_status_id": "1517518071921094656",
+    "created_at": "Fri Apr 22 15:43:17 +0000 2022",
+    "favorited": false,
+    "full_text": "@JustinQuda @ProductHunt Thanks Justin! Really appreciate it! 🙏",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinQuda",
+    "in_reply_to_user_id_str": "1463456280773681160"
+  }
+}

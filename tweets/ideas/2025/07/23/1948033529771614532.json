@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1948033529771614532"
+        ],
+        "editableUntil": "2025-07-23T15:52:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nC63G5jqng",
+          "expanded_url": "http://leoasaservice.com",
+          "display_url": "leoasaservice.com",
+          "indices": [
+            "214",
+            "237"
+          ]
+        },
+        {
+          "url": "https://t.co/oXrZAMtrB2",
+          "expanded_url": "https://x.com/alignment_lab/status/1947797238702317623",
+          "display_url": "x.com/alignment_lab/…",
+          "indices": [
+            "278",
+            "301"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1948033529771614532/photo/1",
+          "indices": [
+            "302",
+            "325"
+          ],
+          "url": "https://t.co/bl1KFQltqV",
+          "media_url": "http://pbs.twimg.com/media/GwjNixlXkAAoMhB.jpg",
+          "id_str": "1948032836147056640",
+          "id": "1948032836147056640",
+          "media_url_https": "https://pbs.twimg.com/media/GwjNixlXkAAoMhB.jpg",
+          "sizes": {
+            "large": {
+              "w": "1192",
+              "h": "1416",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1010",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "572",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bl1KFQltqV"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "325"
+    ],
+    "favorite_count": "1",
+    "id_str": "1948033529771614532",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1948033529771614532",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 23 14:52:40 +0000 2025",
+    "favorited": false,
+    "full_text": "And now I've got a goal: I need one of these.\n\nTime to step up the work and get the revenue bumping so I can start the training process on the data as I get it.\n\nOr, two birds, one stone.\n\nI'm collecting data with https://t.co/nC63G5jqng to train my own custom LLM based on my… https://t.co/oXrZAMtrB2 https://t.co/bl1KFQltqV",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1948033529771614532/photo/1",
+          "indices": [
+            "302",
+            "325"
+          ],
+          "url": "https://t.co/bl1KFQltqV",
+          "media_url": "http://pbs.twimg.com/media/GwjNixlXkAAoMhB.jpg",
+          "id_str": "1948032836147056640",
+          "id": "1948032836147056640",
+          "media_url_https": "https://pbs.twimg.com/media/GwjNixlXkAAoMhB.jpg",
+          "sizes": {
+            "large": {
+              "w": "1192",
+              "h": "1416",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1010",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "572",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bl1KFQltqV"
+        }
+      ]
+    }
+  }
+}

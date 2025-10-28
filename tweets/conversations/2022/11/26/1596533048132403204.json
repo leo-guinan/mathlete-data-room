@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596533048132403204"
+        ],
+        "editableUntil": "2022-11-26T16:25:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nate Ritter 🦋",
+          "screen_name": "nateritter",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "712823",
+          "id": "712823"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1596171478722306049",
+    "id_str": "1596533048132403204",
+    "in_reply_to_user_id": "712823",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596533048132403204",
+    "in_reply_to_status_id": "1596171478722306049",
+    "created_at": "Sat Nov 26 15:55:15 +0000 2022",
+    "favorited": false,
+    "full_text": "@nateritter Excellent. Your bio came back with these topics: business, entrepreneurship\nYour last 75 tweets had these groups of topics:\n1.  self-care\n2.  startup founders\n3.  sleep\n4.  using Twitter to share content\n5.  how to build a high-functioning team\n6.  GPT-4 and GPT-5",
+    "lang": "en",
+    "in_reply_to_screen_name": "nateritter",
+    "in_reply_to_user_id_str": "712823"
+  }
+}

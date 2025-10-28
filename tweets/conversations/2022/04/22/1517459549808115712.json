@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517459549808115712"
+        ],
+        "editableUntil": "2022-04-22T11:35:24.366Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "12",
+            "24"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1517451973938794497",
+    "id_str": "1517459549808115712",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517459549808115712",
+    "in_reply_to_status_id": "1517451973938794497",
+    "created_at": "Fri Apr 22 11:05:24 +0000 2022",
+    "favorited": false,
+    "full_text": "@dagorenouf @ProductHunt Thanks Dago! Really appreciate it!",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561"
+  }
+}

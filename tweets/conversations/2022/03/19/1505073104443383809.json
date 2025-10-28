@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1505073104443383809"
+        ],
+        "editableUntil": "2022-03-19T07:46:05.662Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "30",
+            "44"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/szxJRZ4McP",
+          "expanded_url": "https://x.com/LobowSpark/status/1504640566017024002",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "60",
+            "83"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "0",
+    "id_str": "1505073104443383809",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1505073104443383809",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 19 06:46:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Check it out! @MindsetByDave is incredible. https://t.co/szxJRZ4McP",
+    "lang": "en"
+  }
+}

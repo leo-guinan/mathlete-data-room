@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946238871206838377"
+        ],
+        "editableUntil": "2025-07-18T17:01:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grace (cross posting arc)",
+          "screen_name": "kindgracekind",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1740153535931486208",
+          "id": "1740153535931486208"
+        },
+        {
+          "name": "Emmett Shear",
+          "screen_name": "eshear",
+          "indices": [
+            "15",
+            "22"
+          ],
+          "id_str": "905201",
+          "id": "905201"
+        },
+        {
+          "name": "Cate Hall",
+          "screen_name": "catehall",
+          "indices": [
+            "23",
+            "32"
+          ],
+          "id_str": "3125968288",
+          "id": "3125968288"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/66AzVVMkJH",
+          "expanded_url": "https://x.com/leo_guinan/status/1946238282146132303",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "239",
+            "262"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1946237578170048674",
+    "id_str": "1946238871206838377",
+    "in_reply_to_user_id": "1740153535931486208",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946238871206838377",
+    "in_reply_to_status_id": "1946237578170048674",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 18 16:01:20 +0000 2025",
+    "favorited": false,
+    "full_text": "@kindgracekind @eshear @catehall This is where I believe scale comes in.\n\nShow them the scalable solution, and see if they decide to implement it or if they die.\n\nBecause if they don't implement it, someone will, and everyone will leave.\n\nhttps://t.co/66AzVVMkJH",
+    "lang": "en",
+    "in_reply_to_screen_name": "kindgracekind",
+    "in_reply_to_user_id_str": "1740153535931486208"
+  }
+}

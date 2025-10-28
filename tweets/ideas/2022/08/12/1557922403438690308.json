@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1557922403438690308"
+        ],
+        "editableUntil": "2022-08-12T03:20:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1557922403438690308/photo/1",
+          "indices": [
+            "80",
+            "103"
+          ],
+          "url": "https://t.co/F9YbwZQMzF",
+          "media_url": "http://pbs.twimg.com/media/FZ7aK3IXkAAbZUI.png",
+          "id_str": "1557922401249366016",
+          "id": "1557922401249366016",
+          "media_url_https": "https://pbs.twimg.com/media/FZ7aK3IXkAAbZUI.png",
+          "sizes": {
+            "large": {
+              "w": "900",
+              "h": "900",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/F9YbwZQMzF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "103"
+    ],
+    "favorite_count": "5",
+    "id_str": "1557922403438690308",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1557922403438690308",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 12 02:50:20 +0000 2022",
+    "favorited": false,
+    "full_text": "I completed the August challenge faster than 97.2% of all learners on Duolingo! https://t.co/F9YbwZQMzF",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1557922403438690308/photo/1",
+          "indices": [
+            "80",
+            "103"
+          ],
+          "url": "https://t.co/F9YbwZQMzF",
+          "media_url": "http://pbs.twimg.com/media/FZ7aK3IXkAAbZUI.png",
+          "id_str": "1557922401249366016",
+          "id": "1557922401249366016",
+          "media_url_https": "https://pbs.twimg.com/media/FZ7aK3IXkAAbZUI.png",
+          "sizes": {
+            "large": {
+              "w": "900",
+              "h": "900",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/F9YbwZQMzF"
+        }
+      ]
+    }
+  }
+}

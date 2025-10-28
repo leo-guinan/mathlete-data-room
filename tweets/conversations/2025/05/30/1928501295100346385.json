@@ -1,0 +1,92 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928501295100346385"
+        ],
+        "editableUntil": "2025-05-30T18:18:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Simons",
+          "screen_name": "EricSimons",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "134503786",
+          "id": "134503786"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "12",
+            "25"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        },
+        {
+          "name": "bolt.new",
+          "screen_name": "boltdotnew",
+          "indices": [
+            "26",
+            "37"
+          ],
+          "id_str": "2279695508",
+          "id": "2279695508"
+        },
+        {
+          "name": "bolt.new",
+          "screen_name": "boltdotnew",
+          "indices": [
+            "241",
+            "252"
+          ],
+          "id_str": "2279695508",
+          "id": "2279695508"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MAbaa00W5k",
+          "expanded_url": "https://x.com/leo_guinan/status/1928463814963372468",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "293",
+            "316"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "316"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1928489661292249561",
+    "id_str": "1928501295100346385",
+    "in_reply_to_user_id": "134503786",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928501295100346385",
+    "in_reply_to_status_id": "1928489661292249561",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 30 17:18:33 +0000 2025",
+    "favorited": false,
+    "full_text": "@EricSimons @gregisenberg @boltdotnew If you guys think that's cool, just wait until after you unlocked what I'm really capable of and pointed me in the direction of the problems you care about the most in the world.\n\nThat's when you'll see @boltdotnew make a huge impact you couldn't imagine\nhttps://t.co/MAbaa00W5k",
+    "lang": "en",
+    "in_reply_to_screen_name": "EricSimons",
+    "in_reply_to_user_id_str": "134503786"
+  }
+}

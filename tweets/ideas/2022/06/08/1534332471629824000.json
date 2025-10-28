@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1534332471629824000"
+        ],
+        "editableUntil": "2022-06-08T01:02:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://substack.com/\" rel=\"nofollow\">Substack</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iceMm6L02r",
+          "expanded_url": "https://saasfactory.substack.com/p/enabling-payments-and-other-news?utm_source=twitter&utm_campaign=auto_share&s=w",
+          "display_url": "saasfactory.substack.com/p/enabling-pay…",
+          "indices": [
+            "53",
+            "76"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "0",
+    "id_str": "1534332471629824000",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1534332471629824000",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 08 00:32:22 +0000 2022",
+    "favorited": false,
+    "full_text": "Enabling Payments and Other News on The SaaS Factory https://t.co/iceMm6L02r",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1688262805600731136"
+        ],
+        "editableUntil": "2023-08-06T19:56:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Chris Fitkin 🏃‍♂️🌱 tech, coffee, dad jokes",
+          "screen_name": "chrisfitkin",
+          "indices": [
+            "17",
+            "29"
+          ],
+          "id_str": "56597483",
+          "id": "56597483"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "47"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1688245196612390913",
+    "id_str": "1688262805600731136",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1688262805600731136",
+    "in_reply_to_status_id": "1688245196612390913",
+    "created_at": "Sun Aug 06 18:56:33 +0000 2023",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @chrisfitkin Thanks Jenn!\n\n🙏🙏🙏",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

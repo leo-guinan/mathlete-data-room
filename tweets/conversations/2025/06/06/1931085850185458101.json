@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931085850185458101"
+        ],
+        "editableUntil": "2025-06-06T21:28:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "48",
+            "58"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OKpC1NffNP",
+          "expanded_url": "https://x.com/thisiskp_/status/1931081692296491010",
+          "display_url": "x.com/thisiskp_/stat…",
+          "indices": [
+            "127",
+            "150"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "150"
+    ],
+    "favorite_count": "0",
+    "id_str": "1931085850185458101",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931085850185458101",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 06 20:28:39 +0000 2025",
+    "favorited": false,
+    "full_text": "Who wants to see this power a new internet like @thisiskp_  did for the hackathon?\n\nIt can all be better. Let me show you how. https://t.co/OKpC1NffNP",
+    "lang": "en"
+  }
+}

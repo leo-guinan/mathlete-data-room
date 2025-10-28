@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1709196338334724467"
+        ],
+        "editableUntil": "2023-10-03T14:18:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "35",
+            "46"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OQaeAPcVlP",
+          "expanded_url": "https://open.substack.com/pub/internetfactory/p/the-paradox-of-discoverability?r=evblp&utm_campaign=post&utm_medium=web",
+          "display_url": "open.substack.com/pub/internetfa…",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "70"
+    ],
+    "favorite_count": "0",
+    "id_str": "1709196338334724467",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1709196338334724467",
+    "possibly_sensitive": false,
+    "created_at": "Tue Oct 03 13:18:57 +0000 2023",
+    "favorited": false,
+    "full_text": "The Paradox of Discoverability, by @leo_guinan https://t.co/OQaeAPcVlP",
+    "lang": "en"
+  }
+}

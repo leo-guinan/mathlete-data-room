@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1580920652931833861"
+        ],
+        "editableUntil": "2022-10-14T14:27:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "19",
+            "34"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7FUupyLThU",
+          "expanded_url": "https://anchor.fm/leo-guinan/episodes/The-Importance-of-Writing-and-the-Factory-Mindset-e1p63ds",
+          "display_url": "anchor.fm/leo-guinan/epi…",
+          "indices": [
+            "45",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "0",
+    "id_str": "1580920652931833861",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1580920652931833861",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 14 13:57:10 +0000 2022",
+    "favorited": false,
+    "full_text": "New Episode of The @BuildInPublicU Podcast!\n\nhttps://t.co/7FUupyLThU",
+    "lang": "en"
+  }
+}

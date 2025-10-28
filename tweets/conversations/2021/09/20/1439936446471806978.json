@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1439936446471806978"
+        ],
+        "editableUntil": "2021-09-20T13:56:16.221Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1439934044951617538",
+    "id_str": "1439936446471806978",
+    "in_reply_to_user_id": "16884623",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1439936446471806978",
+    "in_reply_to_status_id": "1439934044951617538",
+    "created_at": "Mon Sep 20 12:56:16 +0000 2021",
+    "favorited": false,
+    "full_text": "@visakanv Hate is faster. That's the reality. It is a lot faster to grow with hate (or other negativity). That's why FUD marketing exists. It gets results faster.\n\nBut in the long term, hate loses. Positivity wins out. We just need more people to focus on long term benefits vs short term.",
+    "lang": "en",
+    "in_reply_to_screen_name": "visakanv",
+    "in_reply_to_user_id_str": "16884623"
+  }
+}

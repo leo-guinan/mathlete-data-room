@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803039797746844107"
+        ],
+        "editableUntil": "2024-06-18T13:19:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Mattia Righetti 👨‍🚀",
+          "screen_name": "heymattia",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "132235427",
+          "id": "132235427"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "28",
+            "40"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1802718420971991495",
+    "id_str": "1803039797746844107",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803039797746844107",
+    "in_reply_to_status_id": "1802718420971991495",
+    "created_at": "Tue Jun 18 12:19:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @heymattia @_buildspace I'm loving it :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

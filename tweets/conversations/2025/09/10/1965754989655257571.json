@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1965754989655257571"
+        ],
+        "editableUntil": "2025-09-10T13:31:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Vander 😎",
+          "screen_name": "JayVander_",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1058741156698378241",
+          "id": "1058741156698378241"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lLJl9vft91",
+          "expanded_url": "https://coreywilkspsyd.com/the-four-horsemen-of-fear/",
+          "display_url": "coreywilkspsyd.com/the-four-horse…",
+          "indices": [
+            "184",
+            "207"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "207"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1965751861883076787",
+    "id_str": "1965754989655257571",
+    "in_reply_to_user_id": "1058741156698378241",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1965754989655257571",
+    "in_reply_to_status_id": "1965751861883076787",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 10 12:31:26 +0000 2025",
+    "favorited": false,
+    "full_text": "@JayVander_ I've found that almost everything is based in fear at the heart, because we try to protect ourselves from the things we don't understand.\n\nReally recommend this blog post: https://t.co/lLJl9vft91",
+    "lang": "en",
+    "in_reply_to_screen_name": "JayVander_",
+    "in_reply_to_user_id_str": "1058741156698378241"
+  }
+}

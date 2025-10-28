@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1913422107259686945"
+        ],
+        "editableUntil": "2025-04-19T03:39:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "alegator",
+          "screen_name": "alegator_cs",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1675589499223506944",
+          "id": "1675589499223506944"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aUUndyscmZ",
+          "expanded_url": "https://claude.site/artifacts/0e0fcf38-da3a-4876-9e2f-29b22fb36e30",
+          "display_url": "claude.site/artifacts/0e0f…",
+          "indices": [
+            "239",
+            "262"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1913421704489029913",
+    "id_str": "1913422107259686945",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1913422107259686945",
+    "in_reply_to_status_id": "1913421704489029913",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 19 02:39:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@alegator_cs It's some basic code to try to break the premise of the paper, so not in the realm of formalized proofs of anything (yet ;)  ), but it's some promising support.\n\nIf you want to check out the full analysis so far, have at it.\n\nhttps://t.co/aUUndyscmZ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

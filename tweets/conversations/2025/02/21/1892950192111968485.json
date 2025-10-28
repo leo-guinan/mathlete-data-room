@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892950192111968485"
+        ],
+        "editableUntil": "2025-02-21T15:51:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "X",
+          "screen_name": "X",
+          "indices": [
+            "38",
+            "40"
+          ],
+          "id_str": "783214",
+          "id": "783214"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "102",
+            "118"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/MTp1GeWS8z",
+          "expanded_url": "https://x.com/search?q=from%3Aleo_guinan%20%23goals&src=typed_query",
+          "display_url": "x.com/search?q=from%…",
+          "indices": [
+            "157",
+            "180"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "180"
+    ],
+    "favorite_count": "1",
+    "id_str": "1892950192111968485",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892950192111968485",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 21 14:51:09 +0000 2025",
+    "favorited": false,
+    "full_text": "Just discovered it's possible to hack @X and get access to my innermost desires.\n\nCan you believe it, @DefenderOfBasic? \n\nWhy is nobody talking about this?\n\nhttps://t.co/MTp1GeWS8z",
+    "lang": "en"
+  }
+}

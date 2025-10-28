@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1866127729357177262"
+        ],
+        "editableUntil": "2024-12-09T15:28:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        },
+        {
+          "name": "Guy IS GOING TO NYC!!!",
+          "screen_name": "nosilverv",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "1163743742764998658",
+          "id": "1163743742764998658"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1866123029077725312",
+    "id_str": "1866127729357177262",
+    "in_reply_to_user_id": "16884623",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1866127729357177262",
+    "in_reply_to_status_id": "1866123029077725312",
+    "created_at": "Mon Dec 09 14:28:16 +0000 2024",
+    "favorited": false,
+    "full_text": "@visakanv @nosilverv People are being exploited, but almost all of it is simply because of \"that's how things are done\". It's a self-continuing cycle that basically beats people into a shape that kinda works, and then passes on the idea that that's the ideal shape.\n\nIronically, it's because of this…",
+    "lang": "en",
+    "in_reply_to_screen_name": "visakanv",
+    "in_reply_to_user_id_str": "16884623"
+  }
+}

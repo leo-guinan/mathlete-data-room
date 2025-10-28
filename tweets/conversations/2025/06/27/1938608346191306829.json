@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938608346191306829"
+        ],
+        "editableUntil": "2025-06-27T15:40:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "John Rush",
+          "screen_name": "johnrushx",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1456321269029380097",
+          "id": "1456321269029380097"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "11",
+            "24"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1938607116425765160",
+    "id_str": "1938608346191306829",
+    "in_reply_to_user_id": "1456321269029380097",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938608346191306829",
+    "in_reply_to_status_id": "1938607116425765160",
+    "created_at": "Fri Jun 27 14:40:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@johnrushx @gregisenberg It won't until we fix the venture space. I've been working on something for the past five years that was exactly the type of thing venture should have helped with.\n\nInstead, I did it alone.\n\nVCs ruined the internet. Until today.\n\nInternet 2.0 is here.",
+    "lang": "en",
+    "in_reply_to_screen_name": "johnrushx",
+    "in_reply_to_user_id_str": "1456321269029380097"
+  }
+}

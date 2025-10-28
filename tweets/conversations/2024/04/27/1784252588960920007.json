@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1784252588960920007"
+        ],
+        "editableUntil": "2024-04-27T17:05:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "It's Adon.",
+          "screen_name": "AtRiskMedia",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1380453648",
+          "id": "1380453648"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "129"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1783352149092585909",
+    "id_str": "1784252588960920007",
+    "in_reply_to_user_id": "1380453648",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1784252588960920007",
+    "in_reply_to_status_id": "1783352149092585909",
+    "created_at": "Sat Apr 27 16:05:41 +0000 2024",
+    "favorited": false,
+    "full_text": "@AtRiskMedia haha, right? Spent so many hours playing that game with my cousin. \n\nWould always devolve into fighting each other 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "AtRiskMedia",
+    "in_reply_to_user_id_str": "1380453648"
+  }
+}

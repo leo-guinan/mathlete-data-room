@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1442187992634904577"
+        ],
+        "editableUntil": "2021-09-26T19:03:06.658Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Tweet100",
+          "indices": [
+            "193",
+            "202"
+          ]
+        },
+        {
+          "text": "100DaysOfCommunity",
+          "indices": [
+            "203",
+            "222"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "222"
+    ],
+    "favorite_count": "4",
+    "id_str": "1442187992634904577",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1442187992634904577",
+    "created_at": "Sun Sep 26 18:03:06 +0000 2021",
+    "favorited": false,
+    "full_text": "I think one of the most important parts of running a community is just connecting people at the right time.\n\nThe most basic way to do this is to get them in a room together and let them talk.\n\n#Tweet100 #100DaysOfCommunity",
+    "lang": "en"
+  }
+}

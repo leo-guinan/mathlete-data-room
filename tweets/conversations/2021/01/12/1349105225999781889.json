@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1349105225999781889"
+        ],
+        "editableUntil": "2021-01-12T22:25:25.698Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tweets from Zach Weinberg",
+          "screen_name": "zachweinberg",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23504313",
+          "id": "23504313"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "231"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1349104739854786562",
+    "id_str": "1349105225999781889",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1349105225999781889",
+    "in_reply_to_status_id": "1349104739854786562",
+    "created_at": "Tue Jan 12 21:25:25 +0000 2021",
+    "favorited": false,
+    "full_text": "@zachweinberg I am working on building out potential SaaS offerings to try to generate revenue since I haven't been able to secure any funding yet. Let me know if you want to talk. I can see building this as a part of my offerings.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

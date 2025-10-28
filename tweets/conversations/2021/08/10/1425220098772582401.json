@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425220098772582401"
+        ],
+        "editableUntil": "2021-08-10T23:18:45.513Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "John Costello",
+          "screen_name": "JCHIndustries",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "3191565239",
+          "id": "3191565239"
+        },
+        {
+          "name": "Aaron Orendorff",
+          "screen_name": "AaronOrendorff",
+          "indices": [
+            "15",
+            "30"
+          ],
+          "id_str": "754272146",
+          "id": "754272146"
+        },
+        {
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "indices": [
+            "31",
+            "38"
+          ],
+          "id_str": "4398626122",
+          "id": "4398626122"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1425219166508826627",
+    "id_str": "1425220098772582401",
+    "in_reply_to_user_id": "3191565239",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425220098772582401",
+    "in_reply_to_status_id": "1425219166508826627",
+    "created_at": "Tue Aug 10 22:18:45 +0000 2021",
+    "favorited": false,
+    "full_text": "@JCHIndustries @AaronOrendorff @OpenAI Well, I'm already working on what could be the basis for the social listening part...\n\nLooks like I'm going to have to check out the codex! \n\nThanks for the tip John!",
+    "lang": "en",
+    "in_reply_to_screen_name": "JCHIndustries",
+    "in_reply_to_user_id_str": "3191565239"
+  }
+}

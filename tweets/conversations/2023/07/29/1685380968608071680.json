@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1685380968608071680"
+        ],
+        "editableUntil": "2023-07-29T21:05:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Stephen J. Caggiano",
+          "screen_name": "StephenCaggiano",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "29130296",
+          "id": "29130296"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uY5BXpnKb8",
+          "expanded_url": "https://app.buildinpublic.coach",
+          "display_url": "app.buildinpublic.coach",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1685326388104974337",
+    "id_str": "1685380968608071680",
+    "in_reply_to_user_id": "29130296",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1685380968608071680",
+    "in_reply_to_status_id": "1685326388104974337",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 29 20:05:10 +0000 2023",
+    "favorited": false,
+    "full_text": "@StephenCaggiano @hackathonGPT Awesome! \n\nYou can sign up at https://t.co/uY5BXpnKb8.\n\nThen it should redirect you to a chat and ask you a few basic questions. Once you get through those, you can chat normally! \n\nLet me know what you think :) \n\nAnd don't hold back!",
+    "lang": "en",
+    "in_reply_to_screen_name": "StephenCaggiano",
+    "in_reply_to_user_id_str": "29130296"
+  }
+}

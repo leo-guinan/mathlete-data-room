@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345167234633785344"
+        ],
+        "editableUntil": "2021-01-02T01:37:15.392Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mark Burge",
+          "screen_name": "markeburge",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "105066283",
+          "id": "105066283"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/markeburge/status/1344920817243570176/photo/1",
+          "source_status_id": "1344920817243570176",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/vdc1RNgMX9",
+          "media_url": "http://pbs.twimg.com/media/EqoeWs7VEAAT5_t.jpg",
+          "id_str": "1344920814089474048",
+          "source_user_id": "105066283",
+          "id": "1344920814089474048",
+          "media_url_https": "https://pbs.twimg.com/media/EqoeWs7VEAAT5_t.jpg",
+          "source_user_id_str": "105066283",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "720",
+              "h": "720",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "720",
+              "h": "720",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1344920817243570176",
+          "display_url": "pic.x.com/vdc1RNgMX9"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "id_str": "1345167234633785344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345167234633785344",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jan 02 00:37:15 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @markeburge: https://t.co/vdc1RNgMX9",
+    "lang": "zxx",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/markeburge/status/1344920817243570176/photo/1",
+          "source_status_id": "1344920817243570176",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/vdc1RNgMX9",
+          "media_url": "http://pbs.twimg.com/media/EqoeWs7VEAAT5_t.jpg",
+          "id_str": "1344920814089474048",
+          "source_user_id": "105066283",
+          "id": "1344920814089474048",
+          "media_url_https": "https://pbs.twimg.com/media/EqoeWs7VEAAT5_t.jpg",
+          "source_user_id_str": "105066283",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "720",
+              "h": "720",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "720",
+              "h": "720",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1344920817243570176",
+          "display_url": "pic.x.com/vdc1RNgMX9"
+        }
+      ]
+    }
+  }
+}

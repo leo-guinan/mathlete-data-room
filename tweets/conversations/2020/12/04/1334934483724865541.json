@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334934483724865541"
+        ],
+        "editableUntil": "2020-12-04T19:55:57.460Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "DrPeteEdwards",
+          "screen_name": "DrPeteEdwards1",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1078764726484533248",
+          "id": "1078764726484533248"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1334934483724865541",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334934483724865541",
+    "created_at": "Fri Dec 04 18:55:57 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @DrPeteEdwards1: There’s no place like home, there’s no place like home. \n \nClick your heels together and repeat to go to the land of th…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1514978474532179969"
+        ],
+        "editableUntil": "2022-04-15T15:16:29.924Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sahil Bloom",
+          "screen_name": "SahilBloom",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "312681953",
+          "id": "312681953"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1514977926256766976",
+    "id_str": "1514978474532179969",
+    "in_reply_to_user_id": "312681953",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1514978474532179969",
+    "in_reply_to_status_id": "1514977926256766976",
+    "created_at": "Fri Apr 15 14:46:29 +0000 2022",
+    "favorited": false,
+    "full_text": "@SahilBloom Such an incredible feeling. \n\nI've loved being able to watch my kids grow over the years and see their (very strong) personalities develop. \n\nIt's not easy, but damn is it fun. A lot of good times ahead. \n\nAnd those make the rough times a lot easier.",
+    "lang": "en",
+    "in_reply_to_screen_name": "SahilBloom",
+    "in_reply_to_user_id_str": "312681953"
+  }
+}

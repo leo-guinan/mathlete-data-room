@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1975191484065251459"
+        ],
+        "editableUntil": "2025-10-06T14:28:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Roy",
+          "screen_name": "roydherbert",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1488749842490871809",
+          "id": "1488749842490871809"
+        },
+        {
+          "name": "Joscha Bach",
+          "screen_name": "Plinz",
+          "indices": [
+            "13",
+            "19"
+          ],
+          "id_str": "28131948",
+          "id": "28131948"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VOqpX3JYsJ",
+          "expanded_url": "https://blog.ideanexusventures.com/",
+          "display_url": "blog.ideanexusventures.com",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1975188917931647094",
+    "id_str": "1975191484065251459",
+    "in_reply_to_user_id": "1488749842490871809",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1975191484065251459",
+    "in_reply_to_status_id": "1975188917931647094",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 06 13:28:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@roydherbert @Plinz You'll enjoy the bottega if you like that. I'm showing how money obeys physics.\n\nhttps://t.co/VOqpX3JYsJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "roydherbert",
+    "in_reply_to_user_id_str": "1488749842490871809"
+  }
+}

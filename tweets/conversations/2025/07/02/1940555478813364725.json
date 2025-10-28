@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940555478813364725"
+        ],
+        "editableUntil": "2025-07-03T00:37:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Neil deGrasse Tyson",
+          "screen_name": "neiltyson",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "19725644",
+          "id": "19725644"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940555478813364725/photo/1",
+          "indices": [
+            "73",
+            "96"
+          ],
+          "url": "https://t.co/EEnmCFwgDF",
+          "media_url": "http://pbs.twimg.com/media/Gu481zKXQAAa4d6.png",
+          "id_str": "1940555384407670784",
+          "id": "1940555384407670784",
+          "media_url_https": "https://pbs.twimg.com/media/Gu481zKXQAAa4d6.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "663",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1582",
+              "h": "1542",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1170",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EEnmCFwgDF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1940554729022746722",
+    "id_str": "1940555478813364725",
+    "in_reply_to_user_id": "19725644",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940555478813364725",
+    "in_reply_to_status_id": "1940554729022746722",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 02 23:37:34 +0000 2025",
+    "favorited": false,
+    "full_text": "@neiltyson Internet 2.0 works for you regardless of your boot ownership. https://t.co/EEnmCFwgDF",
+    "lang": "en",
+    "in_reply_to_screen_name": "neiltyson",
+    "in_reply_to_user_id_str": "19725644",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940555478813364725/photo/1",
+          "indices": [
+            "73",
+            "96"
+          ],
+          "url": "https://t.co/EEnmCFwgDF",
+          "media_url": "http://pbs.twimg.com/media/Gu481zKXQAAa4d6.png",
+          "id_str": "1940555384407670784",
+          "id": "1940555384407670784",
+          "media_url_https": "https://pbs.twimg.com/media/Gu481zKXQAAa4d6.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "663",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1582",
+              "h": "1542",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1170",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EEnmCFwgDF"
+        }
+      ]
+    }
+  }
+}

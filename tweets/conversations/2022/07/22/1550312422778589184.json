@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1550312422778589184"
+        ],
+        "editableUntil": "2022-07-22T03:20:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1550312422778589184/photo/1",
+          "indices": [
+            "22",
+            "45"
+          ],
+          "url": "https://t.co/mZfukfqdr0",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FYPQ7eiWYAAOS6k.jpg",
+          "id_str": "1550312416973578240",
+          "id": "1550312416973578240",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FYPQ7eiWYAAOS6k.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "200",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mZfukfqdr0"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "45"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1550311807805526017",
+    "id_str": "1550312422778589184",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1550312422778589184",
+    "in_reply_to_status_id": "1550311807805526017",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 22 02:50:59 +0000 2022",
+    "favorited": false,
+    "full_text": "@p_millerd @Bazzaruto https://t.co/mZfukfqdr0",
+    "lang": "qme",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1550312422778589184/photo/1",
+          "indices": [
+            "22",
+            "45"
+          ],
+          "url": "https://t.co/mZfukfqdr0",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FYPQ7eiWYAAOS6k.jpg",
+          "id_str": "1550312416973578240",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "100"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FYPQ7eiWYAAOS6k.mp4"
+              }
+            ]
+          },
+          "id": "1550312416973578240",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FYPQ7eiWYAAOS6k.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "200",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "200",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/mZfukfqdr0"
+        }
+      ]
+    }
+  }
+}

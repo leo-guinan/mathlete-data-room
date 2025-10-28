@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932028458923962589"
+        ],
+        "editableUntil": "2025-06-09T11:54:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Owlcyon",
+          "screen_name": "owlcyon",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1896636458829803520",
+          "id": "1896636458829803520"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kNIMCMykHk",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/papers/Network%20Relativity/Part%202%20-%20The%20Calculus%20of%20Time.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        },
+        {
+          "url": "https://t.co/eVPZtR3Avg",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/the-thermodynamic-internet-manifesto",
+          "display_url": "hitchhikertothefuture.substack.com/p/the-thermody…",
+          "indices": [
+            "87",
+            "110"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1931962481196302589",
+    "id_str": "1932028458923962589",
+    "in_reply_to_user_id": "1896636458829803520",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932028458923962589",
+    "in_reply_to_status_id": "1931962481196302589",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 09 10:54:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@owlcyon That’s all part of this.  \n\nhttps://t.co/kNIMCMykHk\n\nSo that we achieve this\n\nhttps://t.co/eVPZtR3Avg",
+    "lang": "en",
+    "in_reply_to_screen_name": "owlcyon",
+    "in_reply_to_user_id_str": "1896636458829803520"
+  }
+}

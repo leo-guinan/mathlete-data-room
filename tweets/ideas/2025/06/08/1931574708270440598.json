@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931574708270440598"
+        ],
+        "editableUntil": "2025-06-08T05:51:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931574708270440598/photo/1",
+          "indices": [
+            "219",
+            "242"
+          ],
+          "url": "https://t.co/kQQr5x4L39",
+          "media_url": "http://pbs.twimg.com/media/Gs5U50DW0AAldHj.jpg",
+          "id_str": "1931574642390519808",
+          "id": "1931574642390519808",
+          "media_url_https": "https://pbs.twimg.com/media/Gs5U50DW0AAldHj.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1067",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1772",
+              "h": "1992",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "605",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kQQr5x4L39"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "2",
+    "id_str": "1931574708270440598",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931574708270440598",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 08 04:51:12 +0000 2025",
+    "favorited": false,
+    "full_text": "Ever wanted to see your future?\n\nI wanted to see a future where I'd be able to help my friend when I needed to. Starting today, I won't have to worry about that ever again. \n\nBecause you can get a ticket to the future. https://t.co/kQQr5x4L39",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931574708270440598/photo/1",
+          "indices": [
+            "219",
+            "242"
+          ],
+          "url": "https://t.co/kQQr5x4L39",
+          "media_url": "http://pbs.twimg.com/media/Gs5U50DW0AAldHj.jpg",
+          "id_str": "1931574642390519808",
+          "id": "1931574642390519808",
+          "media_url_https": "https://pbs.twimg.com/media/Gs5U50DW0AAldHj.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1067",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1772",
+              "h": "1992",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "605",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kQQr5x4L39"
+        }
+      ]
+    }
+  }
+}

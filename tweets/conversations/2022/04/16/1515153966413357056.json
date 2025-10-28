@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515153966413357056"
+        ],
+        "editableUntil": "2022-04-16T03:23:50.449Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1515153966413357056",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1515153966413357056",
+    "created_at": "Sat Apr 16 02:23:50 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @NotechAna: Relationships, business, personal brand, an audience — it's never up and to the right. \nDon't give up too fast\nhttps://t.co/…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1828061552525627680"
+        ],
+        "editableUntil": "2024-08-26T14:26:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aletheia Delivre",
+          "screen_name": "delivreal",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "976403578293243904",
+          "id": "976403578293243904"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1827855127778332894",
+    "id_str": "1828061552525627680",
+    "in_reply_to_user_id": "976403578293243904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1828061552525627680",
+    "in_reply_to_status_id": "1827855127778332894",
+    "created_at": "Mon Aug 26 13:26:52 +0000 2024",
+    "favorited": false,
+    "full_text": "@delivreal Thank you Aletheia! I appreciate you. 🙏",
+    "lang": "en",
+    "in_reply_to_screen_name": "delivreal",
+    "in_reply_to_user_id_str": "976403578293243904"
+  }
+}

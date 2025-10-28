@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1586043809019834369"
+        ],
+        "editableUntil": "2022-10-28T17:44:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andy Warner",
+          "screen_name": "whoisandywarner",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "15627485",
+          "id": "15627485"
+        },
+        {
+          "name": "Araks Brand",
+          "screen_name": "Araks111",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "3239016249",
+          "id": "3239016249"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JPKWI3QCeT",
+          "expanded_url": "https://x.com/leo_guinan/status/1586024792204918784?s=20&t=oPCWx-izPYiYEMUH2kgTvg",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "93",
+            "116"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1585953289065369600",
+    "id_str": "1586043809019834369",
+    "in_reply_to_user_id": "15627485",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1586043809019834369",
+    "in_reply_to_status_id": "1585953289065369600",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 28 17:14:45 +0000 2022",
+    "favorited": false,
+    "full_text": "@whoisandywarner @Araks111 Ok, it's officially announced. The vote was overwhelmingly yes 😂: https://t.co/JPKWI3QCeT",
+    "lang": "en",
+    "in_reply_to_screen_name": "whoisandywarner",
+    "in_reply_to_user_id_str": "15627485"
+  }
+}

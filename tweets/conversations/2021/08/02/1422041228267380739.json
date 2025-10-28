@@ -1,0 +1,162 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422041228267380739"
+        ],
+        "editableUntil": "2021-08-02T04:47:03.724Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Concacaf",
+          "screen_name": "Concacaf",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "33246493",
+          "id": "33246493"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/Concacaf/status/1422039480207384583/photo/1",
+          "source_status_id": "1422039480207384583",
+          "indices": [
+            "93",
+            "116"
+          ],
+          "url": "https://t.co/DeHZ42kRUR",
+          "media_url": "http://pbs.twimg.com/media/E7wZXjoWQAYod_l.jpg",
+          "id_str": "1422039474834391046",
+          "source_user_id": "33246493",
+          "id": "1422039474834391046",
+          "media_url_https": "https://pbs.twimg.com/media/E7wZXjoWQAYod_l.jpg",
+          "source_user_id_str": "33246493",
+          "sizes": {
+            "small": {
+              "w": "544",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "960",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1422039480207384583",
+          "display_url": "pic.x.com/DeHZ42kRUR"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GoldCup21",
+          "indices": [
+            "39",
+            "49"
+          ]
+        },
+        {
+          "text": "USMNT",
+          "indices": [
+            "61",
+            "67"
+          ]
+        },
+        {
+          "text": "ThisIsOurs",
+          "indices": [
+            "71",
+            "82"
+          ]
+        },
+        {
+          "text": "OurFinal",
+          "indices": [
+            "83",
+            "92"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "0",
+    "id_str": "1422041228267380739",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422041228267380739",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 02 03:47:03 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Concacaf: 🇺🇸🏆🏆🏆🏆🏆🏆🏆 The seven time #GoldCup21 champions! #USMNT! \n\n#ThisIsOurs #OurFinal https://t.co/DeHZ42kRUR",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/Concacaf/status/1422039480207384583/photo/1",
+          "source_status_id": "1422039480207384583",
+          "indices": [
+            "93",
+            "116"
+          ],
+          "url": "https://t.co/DeHZ42kRUR",
+          "media_url": "http://pbs.twimg.com/media/E7wZXjoWQAYod_l.jpg",
+          "id_str": "1422039474834391046",
+          "source_user_id": "33246493",
+          "id": "1422039474834391046",
+          "media_url_https": "https://pbs.twimg.com/media/E7wZXjoWQAYod_l.jpg",
+          "source_user_id_str": "33246493",
+          "sizes": {
+            "small": {
+              "w": "544",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "960",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1422039480207384583",
+          "display_url": "pic.x.com/DeHZ42kRUR"
+        }
+      ]
+    }
+  }
+}

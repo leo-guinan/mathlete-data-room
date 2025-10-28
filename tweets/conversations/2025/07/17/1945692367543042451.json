@@ -1,0 +1,148 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1945692367543042451"
+        ],
+        "editableUntil": "2025-07-17T04:49:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "X",
+          "screen_name": "X",
+          "indices": [
+            "7",
+            "9"
+          ],
+          "id_str": "783214",
+          "id": "783214"
+        },
+        {
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "indices": [
+            "43",
+            "55"
+          ],
+          "id_str": "1353836358901501952",
+          "id": "1353836358901501952"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1945692367543042451/photo/1",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/qNXib9xugI",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GwB85MsW4AE_06R.jpg",
+          "id_str": "1945692361125715969",
+          "id": "1945692361125715969",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GwB85MsW4AE_06R.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "206",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "206",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "206",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qNXib9xugI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "0",
+    "id_str": "1945692367543042451",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1945692367543042451",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 17 03:49:44 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, so @X has Mechahitler, right?\n\nI think @AnthropicAI has the opportunity to do the funniest thing... https://t.co/qNXib9xugI",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1945692367543042451/photo/1",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/qNXib9xugI",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GwB85MsW4AE_06R.jpg",
+          "id_str": "1945692361125715969",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "103"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GwB85MsW4AE_06R.mp4"
+              }
+            ]
+          },
+          "id": "1945692361125715969",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GwB85MsW4AE_06R.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "206",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "206",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "206",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/qNXib9xugI"
+        }
+      ]
+    }
+  }
+}

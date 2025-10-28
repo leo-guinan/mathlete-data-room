@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1948595807533277328"
+        ],
+        "editableUntil": "2025-07-25T05:06:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Gero",
+          "screen_name": "Geero_Gero",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "127020980",
+          "id": "127020980"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "12",
+            "28"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "308"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1948593139230413287",
+    "id_str": "1948595807533277328",
+    "in_reply_to_user_id": "127020980",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1948595807533277328",
+    "in_reply_to_status_id": "1948593139230413287",
+    "created_at": "Fri Jul 25 04:06:58 +0000 2025",
+    "favorited": false,
+    "full_text": "@Geero_Gero @DefenderOfBasic We don't need to be able to align all humans or all AIs all at once.\n\nIt's about a network that lets alignment be defined at the atomic unit of connection.\n\nThe individual human.\n\nWe need sovereign humans that are aware of the systems they are using, instead of systems that use…",
+    "lang": "en",
+    "in_reply_to_screen_name": "Geero_Gero",
+    "in_reply_to_user_id_str": "127020980"
+  }
+}

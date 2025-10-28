@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1886417173327007845"
+        ],
+        "editableUntil": "2025-02-03T15:11:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brandon 🚀 Flightcontrol",
+          "screen_name": "flybayer",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "2826554209",
+          "id": "2826554209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1886414427710238860",
+    "id_str": "1886417173327007845",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1886417173327007845",
+    "in_reply_to_status_id": "1886414427710238860",
+    "created_at": "Mon Feb 03 14:11:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@flybayer For anyone else who's watching this, I'd be happy to chat with you too. :)\n\nBut here are a few things to keep in mind generally:\n\nThe key to a successful AI integration is a good data flywheel. You want people using your integration to give you information about whether the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

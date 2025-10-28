@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1795483955153785206"
+        ],
+        "editableUntil": "2024-05-28T16:55:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1795281399903383569",
+    "id_str": "1795483955153785206",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1795483955153785206",
+    "in_reply_to_status_id": "1795281399903383569",
+    "created_at": "Tue May 28 15:55:08 +0000 2024",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Looks like the early votes are no longer there, which leads me to believe they were actually porn bots that were voting. So good thing I didn't weight them too heavily 😂\n\nBut I still think there's a service around that in larger companies.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1966219826713751825"
+        ],
+        "editableUntil": "2025-09-11T20:18:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "12",
+            "27"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CCCpAWaYiC",
+          "expanded_url": "https://x.com/leo_guinan/status/1966208525765382322",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "92",
+            "115"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "0",
+    "id_str": "1966219826713751825",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1966219826713751825",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 11 19:18:31 +0000 2025",
+    "favorited": false,
+    "full_text": "I wonder if @jposhaughnessy's AI has the answer that grok doesn't seem to have right now... https://t.co/CCCpAWaYiC",
+    "lang": "en"
+  }
+}

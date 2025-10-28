@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1920512308985385017"
+        ],
+        "editableUntil": "2025-05-08T17:13:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Reid Hoffman",
+          "screen_name": "reidhoffman",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "10078",
+          "id": "10078"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "85",
+            "100"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1920454846907383990",
+    "id_str": "1920512308985385017",
+    "in_reply_to_user_id": "10078",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1920512308985385017",
+    "in_reply_to_status_id": "1920454846907383990",
+    "created_at": "Thu May 08 16:13:10 +0000 2025",
+    "favorited": false,
+    "full_text": "@reidhoffman If you want to understand where things are going, me.\n\nI'm building out @BuildInPublicU as a way to showcase what an AI-native institution looks like, because it's not based on the broken economics that currently exist, but rather the new economics that I developed.",
+    "lang": "en",
+    "in_reply_to_screen_name": "reidhoffman",
+    "in_reply_to_user_id_str": "10078"
+  }
+}

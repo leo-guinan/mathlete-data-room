@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362413296079564805"
+        ],
+        "editableUntil": "2021-02-18T15:46:56.857Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "philosophie",
+          "screen_name": "Funny_Wally",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2766824890",
+          "id": "2766824890"
+        },
+        {
+          "name": "Ask ADHD",
+          "screen_name": "AskADHD",
+          "indices": [
+            "13",
+            "21"
+          ],
+          "id_str": "1249961238815076352",
+          "id": "1249961238815076352"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "221"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1362412079785852929",
+    "id_str": "1362413296079564805",
+    "in_reply_to_user_id": "2766824890",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362413296079564805",
+    "in_reply_to_status_id": "1362412079785852929",
+    "created_at": "Thu Feb 18 14:46:56 +0000 2021",
+    "favorited": false,
+    "full_text": "@Funny_Wally @AskADHD Yes. 100%. For me it is programming. I am actually hoping to channel that hyperfocus for a project I am doing today. Here's hoping it works because pretty much everything is riding on it right now. 🤞",
+    "lang": "en",
+    "in_reply_to_screen_name": "Funny_Wally",
+    "in_reply_to_user_id_str": "2766824890"
+  }
+}

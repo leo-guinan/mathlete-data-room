@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516733186373529602"
+        ],
+        "editableUntil": "2022-04-20T11:59:05.828Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Buzzsprout",
+          "screen_name": "buzzsprout",
+          "indices": [
+            "77",
+            "88"
+          ],
+          "id_str": "86794592",
+          "id": "86794592"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7UG1XENgEc",
+          "expanded_url": "https://www.buzzsprout.com/1944068/achievements/1176014?milestone=5",
+          "display_url": "buzzsprout.com/1944068/achiev…",
+          "indices": [
+            "90",
+            "113"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "0",
+    "id_str": "1516733186373529602",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1516733186373529602",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 20 10:59:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: I just published the 5th episode of How To Scale Yourself on @buzzsprout! https://t.co/7UG1XENgEc",
+    "lang": "en"
+  }
+}

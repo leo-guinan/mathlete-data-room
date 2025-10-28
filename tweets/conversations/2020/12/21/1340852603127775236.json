@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340852603127775236"
+        ],
+        "editableUntil": "2020-12-21T03:52:27.079Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "your inner monologue",
+          "screen_name": "armajawas_here",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "172599173",
+          "id": "172599173"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1340852603127775236/photo/1",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/j6guuPrW2Z",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpuqVGyXcAAHXlH.jpg",
+          "id_str": "1340852593648693248",
+          "id": "1340852593648693248",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpuqVGyXcAAHXlH.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "370",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "370",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "370",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/j6guuPrW2Z"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1340739679931383808",
+    "id_str": "1340852603127775236",
+    "in_reply_to_user_id": "172599173",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340852603127775236",
+    "in_reply_to_status_id": "1340739679931383808",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 21 02:52:27 +0000 2020",
+    "favorited": false,
+    "full_text": "@ArmajaWas_HERE https://t.co/j6guuPrW2Z",
+    "lang": "qme",
+    "in_reply_to_screen_name": "armajawas_here",
+    "in_reply_to_user_id_str": "172599173",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1340852603127775236/photo/1",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/j6guuPrW2Z",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EpuqVGyXcAAHXlH.jpg",
+          "id_str": "1340852593648693248",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "185"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EpuqVGyXcAAHXlH.mp4"
+              }
+            ]
+          },
+          "id": "1340852593648693248",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpuqVGyXcAAHXlH.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "370",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "370",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "370",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/j6guuPrW2Z"
+        }
+      ]
+    }
+  }
+}

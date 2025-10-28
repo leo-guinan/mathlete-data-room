@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1476633524744736780"
+        ],
+        "editableUntil": "2021-12-30T20:17:21.480Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "ADHD Designer 🟣👩🏻‍💻",
+          "screen_name": "ADHDdesigner",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1270519607846109184",
+          "id": "1270519607846109184"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1476633524744736780/photo/1",
+          "indices": [
+            "286",
+            "309"
+          ],
+          "url": "https://t.co/vle7n7nvZ6",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FH4OXHtWUAM5aZl.jpg",
+          "id_str": "1476633518193135619",
+          "id": "1476633518193135619",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH4OXHtWUAM5aZl.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vle7n7nvZ6"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "309"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1476421033292877827",
+    "id_str": "1476633524744736780",
+    "in_reply_to_user_id": "1270519607846109184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1476633524744736780",
+    "in_reply_to_status_id": "1476421033292877827",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 30 19:17:21 +0000 2021",
+    "favorited": false,
+    "full_text": "@ADHDdesigner Really sorry to hear that. \n\nSomething that helps me: I've been working on being ok with being burnt out. I'm trying to focus on self compassion. \n\nIt's OK to need breaks. It's OK to bump deadlines. Take some time to recover, otherwise it's just going to come back worse. https://t.co/vle7n7nvZ6",
+    "lang": "en",
+    "in_reply_to_screen_name": "ADHDdesigner",
+    "in_reply_to_user_id_str": "1270519607846109184",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1476633524744736780/photo/1",
+          "indices": [
+            "286",
+            "309"
+          ],
+          "url": "https://t.co/vle7n7nvZ6",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FH4OXHtWUAM5aZl.jpg",
+          "id_str": "1476633518193135619",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "71"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FH4OXHtWUAM5aZl.mp4"
+              }
+            ]
+          },
+          "id": "1476633518193135619",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FH4OXHtWUAM5aZl.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "426",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/vle7n7nvZ6"
+        }
+      ]
+    }
+  }
+}

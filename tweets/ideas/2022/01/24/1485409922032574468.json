@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1485409922032574468"
+        ],
+        "editableUntil": "2022-01-24T01:31:37.651Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bJ3gm6YqRp",
+          "expanded_url": "https://blog.feathercrm.io/feather-crm-roadmap-66865c08f191?source=social.tw",
+          "display_url": "blog.feathercrm.io/feather-crm-ro…",
+          "indices": [
+            "66",
+            "89"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "1",
+    "id_str": "1485409922032574468",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1485409922032574468",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 24 00:31:37 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally finished updating (for now at least): Feather CRM Roadmap https://t.co/bJ3gm6YqRp",
+    "lang": "en"
+  }
+}

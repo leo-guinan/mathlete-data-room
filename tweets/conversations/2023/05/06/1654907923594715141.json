@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1654907923594715141"
+        ],
+        "editableUntil": "2023-05-06T18:26:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U3OB8FkKQo",
+          "expanded_url": "https://blog.bullettrain.co/teams-should-be-an-mvp-feature/",
+          "display_url": "blog.bullettrain.co/teams-should-b…",
+          "indices": [
+            "142",
+            "165"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "165"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1654907921359069186",
+    "id_str": "1654907923594715141",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1654907923594715141",
+    "in_reply_to_status_id": "1654907921359069186",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 06 17:56:10 +0000 2023",
+    "favorited": false,
+    "full_text": "This allows a ton of flexibility later down the line and it's easy enough to implement a team of 1 as a default structure.\n\nLink to the blog: https://t.co/U3OB8FkKQo",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

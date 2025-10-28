@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1618442213431836672"
+        ],
+        "editableUntil": "2023-01-26T03:24:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1618366137909280769",
+    "id_str": "1618442213431836672",
+    "in_reply_to_user_id": "2795277902",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1618442213431836672",
+    "in_reply_to_status_id": "1618366137909280769",
+    "created_at": "Thu Jan 26 02:54:27 +0000 2023",
+    "favorited": false,
+    "full_text": "@NoDegreeDotCom @LobowSpark Thanks Jonaed! That means a ton!",
+    "lang": "en",
+    "in_reply_to_screen_name": "NoDegreeCareers",
+    "in_reply_to_user_id_str": "2795277902"
+  }
+}

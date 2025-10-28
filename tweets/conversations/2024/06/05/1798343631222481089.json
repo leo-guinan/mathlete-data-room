@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1798343631222481089"
+        ],
+        "editableUntil": "2024-06-05T14:18:27.949Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Friend",
+          "screen_name": "fambizjournal",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1350343174053650433",
+          "id": "1350343174053650433"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1798343631222481089",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1798343631222481089",
+    "created_at": "Wed Jun 05 13:18:27 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @fambizjournal: why i came back to Friend Paper right here",
+    "lang": "en"
+  }
+}

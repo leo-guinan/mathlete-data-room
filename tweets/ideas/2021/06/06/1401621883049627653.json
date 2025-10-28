@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1401621883049627653"
+        ],
+        "editableUntil": "2021-06-06T20:27:52.451Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Rr2Uk9vKE0",
+          "expanded_url": "https://x.com/ThatChristinaG/status/1401512204910858242",
+          "display_url": "x.com/ThatChristinaG…",
+          "indices": [
+            "97",
+            "120"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "4",
+    "id_str": "1401621883049627653",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1401621883049627653",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 06 19:27:52 +0000 2021",
+    "favorited": false,
+    "full_text": "This tweet is me. I'm building both the community I wish I'd had and the product I wish I'd had. https://t.co/Rr2Uk9vKE0",
+    "lang": "en"
+  }
+}

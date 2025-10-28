@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1619497013124685824"
+        ],
+        "editableUntil": "2023-01-29T01:15:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "1",
+    "id_str": "1619497013124685824",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1619497013124685824",
+    "created_at": "Sun Jan 29 00:45:51 +0000 2023",
+    "favorited": false,
+    "full_text": "Working on setting up an endpoint for processing audio with Whisper. Of course, not as easy as I thought it would be (when is it ever?)\n\nBut all good. I've got something up and running now. Not quite as fast as my previous idea, but actually processes bigger files, so a win",
+    "lang": "en"
+  }
+}

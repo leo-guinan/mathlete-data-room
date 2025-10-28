@@ -1,0 +1,160 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1937000274423627964"
+        ],
+        "editableUntil": "2025-06-23T05:10:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nRHU16IuBE",
+          "expanded_url": "https://x.com/iamjasonlevin/status/1936945967577616694",
+          "display_url": "x.com/iamjasonlevin/…",
+          "indices": [
+            "98",
+            "121"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1937000274423627964/video/1",
+          "indices": [
+            "122",
+            "145"
+          ],
+          "url": "https://t.co/9jzoxJDIAg",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1937000119154388992/img/kT9bZy3vtwJhTl5J.jpg",
+          "id_str": "1937000119154388992",
+          "id": "1937000119154388992",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1937000119154388992/img/kT9bZy3vtwJhTl5J.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "750",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "425",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1728",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/9jzoxJDIAg"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "1",
+    "id_str": "1937000274423627964",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1937000274423627964",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 23 04:10:27 +0000 2025",
+    "favorited": false,
+    "full_text": "In case any other memelords want pitch things like this, might I recommend Mostly Harmless Decks? https://t.co/nRHU16IuBE https://t.co/9jzoxJDIAg",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1937000274423627964/video/1",
+          "indices": [
+            "122",
+            "145"
+          ],
+          "url": "https://t.co/9jzoxJDIAg",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1937000119154388992/img/kT9bZy3vtwJhTl5J.jpg",
+          "id_str": "1937000119154388992",
+          "video_info": {
+            "aspect_ratio": [
+              "8",
+              "5"
+            ],
+            "duration_millis": "44300",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1937000119154388992/pl/oLIRrgBHHMB7JxT3.m3u8"
+              },
+              {
+                "bitrate": "10368000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1937000119154388992/vid/avc1/1728x1080/EQhWYwnWU6ufGNmB.mp4"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1937000119154388992/vid/avc1/1152x720/d9e3wx5mPlek1-n1.mp4"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1937000119154388992/vid/avc1/576x360/TcBnwjtJ-Xorjcxb.mp4"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1937000119154388992/vid/avc1/432x270/3O4WXgoZPd7MrNv-.mp4"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1937000119154388992",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1937000119154388992/img/kT9bZy3vtwJhTl5J.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "750",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "425",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1728",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/9jzoxJDIAg"
+        }
+      ]
+    }
+  }
+}

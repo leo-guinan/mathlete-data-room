@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1763693560497639832"
+        ],
+        "editableUntil": "2024-03-01T23:31:27.321Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Vercel",
+          "screen_name": "vercel",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "4686835494",
+          "id": "4686835494"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1763693560497639832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1763693560497639832",
+    "created_at": "Fri Mar 01 22:31:27 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @vercel: AI SDK 3.0\n\n◆ Generative UI (alpha)\n◆ Assistant Tools APIs\n◆ Mistral, Azure, Perplexity, and Gemini support\n\nhttps://t.co/r7pLY…",
+    "lang": "ro"
+  }
+}

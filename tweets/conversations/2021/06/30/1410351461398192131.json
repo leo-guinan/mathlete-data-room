@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1410351461398192131"
+        ],
+        "editableUntil": "2021-06-30T22:36:06.117Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Morning Brew ☕️",
+          "screen_name": "MorningBrew",
+          "indices": [
+            "165",
+            "177"
+          ],
+          "id_str": "3092541736",
+          "id": "3092541736"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/e2D3VXYVWx",
+          "expanded_url": "https://www.morningbrew.com/daily/r?kid=99fd34",
+          "display_url": "morningbrew.com/daily/r?kid=99…",
+          "indices": [
+            "137",
+            "160"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "177"
+    ],
+    "favorite_count": "0",
+    "id_str": "1410351461398192131",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1410351461398192131",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 30 21:36:06 +0000 2021",
+    "favorited": false,
+    "full_text": "I start my day with Morning Brew—the free daily email that delivers the top business news in just a 5-minute read. You can sign up here: https://t.co/e2D3VXYVWx via @MorningBrew",
+    "lang": "en"
+  }
+}

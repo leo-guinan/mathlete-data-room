@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553167616331730944"
+        ],
+        "editableUntil": "2022-07-30T00:26:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ion Alpha",
+          "screen_name": "ionalpha_",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1534633456017489920",
+          "id": "1534633456017489920"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1553049624939622400",
+    "id_str": "1553167616331730944",
+    "in_reply_to_user_id": "1534633456017489920",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553167616331730944",
+    "in_reply_to_status_id": "1553049624939622400",
+    "created_at": "Fri Jul 29 23:56:30 +0000 2022",
+    "favorited": false,
+    "full_text": "@ionalpha_ That was an interesting read, thanks for sharing.\n\nI think there is definitely something to that.\n\nI think comparison is the root of a lot of violence.\n\nFor violence to occur though, is aggression needed?\n\nOr to flip the question, it is possible to engage in violence passively?",
+    "lang": "en",
+    "in_reply_to_screen_name": "ionalpha_",
+    "in_reply_to_user_id_str": "1534633456017489920"
+  }
+}

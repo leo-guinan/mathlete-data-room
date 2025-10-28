@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1813279965196308921"
+        ],
+        "editableUntil": "2024-07-16T19:30:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chenell Basilio",
+          "screen_name": "chenellco",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "35321889",
+          "id": "35321889"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1813279098166296643",
+    "id_str": "1813279965196308921",
+    "in_reply_to_user_id": "35321889",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1813279965196308921",
+    "in_reply_to_status_id": "1813279098166296643",
+    "created_at": "Tue Jul 16 18:30:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@chenellco Oh, that's a really cool idea. I've thought about it with other things, but never email lists...🤔",
+    "lang": "en",
+    "in_reply_to_screen_name": "chenellco",
+    "in_reply_to_user_id_str": "35321889"
+  }
+}

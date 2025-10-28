@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1480971658076766211"
+        ],
+        "editableUntil": "2022-01-11T19:35:33.065Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Codemash",
+          "indices": [
+            "204",
+            "213"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "221"
+    ],
+    "favorite_count": "2",
+    "id_str": "1480971658076766211",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1480971658076766211",
+    "created_at": "Tue Jan 11 18:35:33 +0000 2022",
+    "favorited": false,
+    "full_text": "Don't have a field that looks like a boolean but has values of \"true\", \"false\", and \"optionally required\".\n\nJust saw what that does to testers. It's not pretty.\n\nAlso, you might end up as an example in a #Codemash talk...",
+    "lang": "en"
+  }
+}

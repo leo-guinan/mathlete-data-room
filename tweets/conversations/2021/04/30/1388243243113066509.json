@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1388243243113066509"
+        ],
+        "editableUntil": "2021-04-30T22:25:56.127Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AutisticPrideMonth",
+          "indices": [
+            "37",
+            "56"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1388243243113066509",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1388243243113066509",
+    "created_at": "Fri Apr 30 21:25:56 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @mykola: Ok, it’s the last day of #AutisticPrideMonth and today I want to flip the script:\n\nIf you are NOT autistic, please quote tweet…",
+    "lang": "en"
+  }
+}

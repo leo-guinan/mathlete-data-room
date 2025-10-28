@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1393282647015763974"
+        ],
+        "editableUntil": "2021-05-14T20:10:43.645Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "autism",
+          "indices": [
+            "43",
+            "50"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pavan 💙 is a Swiftie",
+          "screen_name": "AutisticPb",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1242514607547330563",
+          "id": "1242514607547330563"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1393282647015763974",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1393282647015763974",
+    "created_at": "Fri May 14 19:10:43 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @AutisticPb: Autistic people talk about #autism and their experiences of autism in order to educate others about what's it like to be #a…",
+    "lang": "en"
+  }
+}

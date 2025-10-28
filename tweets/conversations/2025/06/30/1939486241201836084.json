@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939486241201836084"
+        ],
+        "editableUntil": "2025-06-30T01:48:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "bolt.new",
+          "screen_name": "boltdotnew",
+          "indices": [
+            "7",
+            "18"
+          ],
+          "id_str": "2279695508",
+          "id": "2279695508"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939486241201836084/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/lTydcsUUCp",
+          "media_url": "http://pbs.twimg.com/media/GupwdJYXIAA3Gqp.jpg",
+          "id_str": "1939486235573035008",
+          "id": "1939486235573035008",
+          "media_url_https": "https://pbs.twimg.com/media/GupwdJYXIAA3Gqp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lTydcsUUCp"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "1",
+    "id_str": "1939486241201836084",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939486241201836084",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 30 00:48:48 +0000 2025",
+    "favorited": false,
+    "full_text": "As the @boltdotnew hackathon wraps up, hang in there. https://t.co/lTydcsUUCp",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939486241201836084/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/lTydcsUUCp",
+          "media_url": "http://pbs.twimg.com/media/GupwdJYXIAA3Gqp.jpg",
+          "id_str": "1939486235573035008",
+          "id": "1939486235573035008",
+          "media_url_https": "https://pbs.twimg.com/media/GupwdJYXIAA3Gqp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lTydcsUUCp"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811557774167568878"
+        ],
+        "editableUntil": "2024-07-12T01:26:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Andrew Hoyer",
+          "screen_name": "andrewhoyer",
+          "indices": [
+            "17",
+            "29"
+          ],
+          "id_str": "19413704",
+          "id": "19413704"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "308"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1811555397431357912",
+    "id_str": "1811557774167568878",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1811557774167568878",
+    "in_reply_to_status_id": "1811555397431357912",
+    "created_at": "Fri Jul 12 00:26:45 +0000 2024",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @andrewhoyer I decided to just wreck the timeline when it feels right haha. If I've got thoughts worth sharing, they are getting shared.\n\nAlthough this discussion does make me think about having dual feeds - 1 for structured thoughts that you get exposure on once per day and 1 unhinged feed",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339292006523285512"
+        ],
+        "editableUntil": "2020-12-16T20:31:11.854Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NewGoal",
+          "indices": [
+            "9",
+            "17"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sheel Mohnot",
+          "screen_name": "pitdesi",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "6228302",
+          "id": "6228302"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "17"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1339291014121410560",
+    "id_str": "1339292006523285512",
+    "in_reply_to_user_id": "6228302",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339292006523285512",
+    "in_reply_to_status_id": "1339291014121410560",
+    "created_at": "Wed Dec 16 19:31:11 +0000 2020",
+    "favorited": false,
+    "full_text": "@pitdesi #NewGoal",
+    "lang": "qme",
+    "in_reply_to_screen_name": "pitdesi",
+    "in_reply_to_user_id_str": "6228302"
+  }
+}

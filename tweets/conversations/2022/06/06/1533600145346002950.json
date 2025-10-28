@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1533600145346002950"
+        ],
+        "editableUntil": "2022-06-06T00:32:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1533598968818589697",
+    "id_str": "1533600145346002950",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1533600145346002950",
+    "in_reply_to_status_id": "1533598968818589697",
+    "created_at": "Mon Jun 06 00:02:22 +0000 2022",
+    "favorited": false,
+    "full_text": "yeah, that was easy enough....\n\nso I have the switch wrapped in a component that takes a function to update the value for that id, and an internal function that handles the change for that specific instance and triggers the passed in function for the passed in id.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

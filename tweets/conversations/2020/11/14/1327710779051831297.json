@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327710779051831297"
+        ],
+        "editableUntil": "2020-11-14T21:31:32.056Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "LeGate",
+          "screen_name": "williamlegate",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "38029205",
+          "id": "38029205"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "0",
+    "id_str": "1327710779051831297",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327710779051831297",
+    "created_at": "Sat Nov 14 20:31:32 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @williamlegate: Can someone please explain what is happening in that last picture?",
+    "lang": "en"
+  }
+}

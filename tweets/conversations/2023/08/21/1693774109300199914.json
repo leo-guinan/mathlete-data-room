@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1693774109300199914"
+        ],
+        "editableUntil": "2023-08-22T00:56:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "ZΞN 💡",
+          "screen_name": "ThisIsMeIn360VR",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "4828470319",
+          "id": "4828470319"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1693774109300199914/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/uH3VZpAm2d",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/F4F-fj-XEAASNgU.jpg",
+          "id_str": "1693774015565860864",
+          "id": "1693774015565860864",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/F4F-fj-XEAASNgU.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uH3VZpAm2d"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1693657905902289260",
+    "id_str": "1693774109300199914",
+    "in_reply_to_user_id": "4828470319",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1693774109300199914",
+    "in_reply_to_status_id": "1693657905902289260",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 21 23:56:31 +0000 2023",
+    "favorited": false,
+    "full_text": "@ThisIsMeIn360VR Can't go wrong with the classics. https://t.co/uH3VZpAm2d",
+    "lang": "en",
+    "in_reply_to_screen_name": "ThisIsMeIn360VR",
+    "in_reply_to_user_id_str": "4828470319",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1693774109300199914/photo/1",
+          "indices": [
+            "51",
+            "74"
+          ],
+          "url": "https://t.co/uH3VZpAm2d",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/F4F-fj-XEAASNgU.jpg",
+          "id_str": "1693774015565860864",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/F4F-fj-XEAASNgU.mp4"
+              }
+            ]
+          },
+          "id": "1693774015565860864",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/F4F-fj-XEAASNgU.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/uH3VZpAm2d"
+        }
+      ]
+    }
+  }
+}

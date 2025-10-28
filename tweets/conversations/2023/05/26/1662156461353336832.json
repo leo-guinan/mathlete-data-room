@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1662156461353336832"
+        ],
+        "editableUntil": "2023-05-26T18:29:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "114",
+            "123"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "168"
+    ],
+    "favorite_count": "3",
+    "id_str": "1662156461353336832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1662156461353336832",
+    "created_at": "Fri May 26 17:59:16 +0000 2023",
+    "favorited": false,
+    "full_text": "New YouTube Video is Live!\n\nStartups 101: Reflections on what a startup really is after a great conversation with @finereli (look for that recording coming out soon  👀)",
+    "lang": "en"
+  }
+}

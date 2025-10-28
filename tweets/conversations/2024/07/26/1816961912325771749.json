@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1816961912325771749"
+        ],
+        "editableUntil": "2024-07-26T23:20:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1816954513200476520",
+    "id_str": "1816961912325771749",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1816961912325771749",
+    "in_reply_to_status_id": "1816954513200476520",
+    "created_at": "Fri Jul 26 22:20:52 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli that's actually one reason I've been so focused on documenting my journey along the way. I wanted to capture thoughts + feelings in the moment I had them, instead of trying to do so after the fact.\n\nI think the best way to build an audience is to not actually try. \n\nJust focus on…",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

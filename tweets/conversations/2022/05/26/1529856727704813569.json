@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1529856727704813569"
+        ],
+        "editableUntil": "2022-05-26T16:37:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1529856725104349186",
+    "id_str": "1529856727704813569",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1529856727704813569",
+    "in_reply_to_status_id": "1529856725104349186",
+    "created_at": "Thu May 26 16:07:21 +0000 2022",
+    "favorited": false,
+    "full_text": "@copy_ai So we need some sort of metric, some way to determine success.\n\nThe like. This shows us what users like, right?\n\nOh, and the retweet. If users share something, they must like it even more!\n\nRight?\n\nSo now, if we look at \"engagement\", we see things happen.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

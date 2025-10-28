@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1816603521447518348"
+        ],
+        "editableUntil": "2024-07-25T23:36:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RN8CcclMya",
+          "expanded_url": "https://x.com/Rahll/status/1816525411742023919",
+          "display_url": "x.com/Rahll/status/1…",
+          "indices": [
+            "71",
+            "94"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1816603521447518348/photo/1",
+          "indices": [
+            "95",
+            "118"
+          ],
+          "url": "https://t.co/xH45hsoG3J",
+          "media_url": "http://pbs.twimg.com/media/GTXfLdeXUAAjak3.jpg",
+          "id_str": "1816603412697403392",
+          "id": "1816603412697403392",
+          "media_url_https": "https://pbs.twimg.com/media/GTXfLdeXUAAjak3.jpg",
+          "sizes": {
+            "small": {
+              "w": "460",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "739",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "500",
+              "h": "739",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xH45hsoG3J"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "4",
+    "id_str": "1816603521447518348",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1816603521447518348",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 25 22:36:45 +0000 2024",
+    "favorited": false,
+    "full_text": "This is what happens when companies are designed to punish efficiency. https://t.co/RN8CcclMya https://t.co/xH45hsoG3J",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1816603521447518348/photo/1",
+          "indices": [
+            "95",
+            "118"
+          ],
+          "url": "https://t.co/xH45hsoG3J",
+          "media_url": "http://pbs.twimg.com/media/GTXfLdeXUAAjak3.jpg",
+          "id_str": "1816603412697403392",
+          "id": "1816603412697403392",
+          "media_url_https": "https://pbs.twimg.com/media/GTXfLdeXUAAjak3.jpg",
+          "sizes": {
+            "small": {
+              "w": "460",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "739",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "500",
+              "h": "739",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xH45hsoG3J"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527830584600428544"
+        ],
+        "editableUntil": "2022-05-21T02:26:11.745Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PzoZY6v9eS",
+          "expanded_url": "https://www.patreon.com/posts/66694152",
+          "display_url": "patreon.com/posts/66694152",
+          "indices": [
+            "86",
+            "109"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "0",
+    "id_str": "1527830584600428544",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527830584600428544",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 21 01:56:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: Watch the raw footage of this episode NOW!  Only available on Patreon https://t.co/PzoZY6v9eS",
+    "lang": "en"
+  }
+}

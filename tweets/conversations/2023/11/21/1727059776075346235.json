@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1727059776075346235"
+        ],
+        "editableUntil": "2023-11-21T21:21:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dwarkesh Patel",
+          "screen_name": "dwarkesh_sp",
+          "indices": [
+            "14",
+            "26"
+          ],
+          "id_str": "1209960539390201864",
+          "id": "1209960539390201864"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1727055519142305927",
+    "id_str": "1727059776075346235",
+    "in_reply_to_user_id": "605913597",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1727059776075346235",
+    "in_reply_to_status_id": "1727055519142305927",
+    "created_at": "Tue Nov 21 20:21:52 +0000 2023",
+    "favorited": false,
+    "full_text": "@LightOneFire @dwarkesh_sp It's agentic, but not in the way we usually think of it.\n\nWe've got an observer, right? So that observer records an observation and broadcasts that observation.\n\nHow valuable is that observation? We don't actually know.\n\nIt's only in a larger context that the value of the…",
+    "lang": "en",
+    "in_reply_to_user_id_str": "605913597"
+  }
+}

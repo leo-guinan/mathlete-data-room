@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1950682868289511477"
+        ],
+        "editableUntil": "2025-07-30T23:20:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1950682868289511477/photo/1",
+          "indices": [
+            "269",
+            "292"
+          ],
+          "url": "https://t.co/GiYHRBEvlF",
+          "media_url": "http://pbs.twimg.com/media/GxI3sdRXgAADbA2.jpg",
+          "id_str": "1950682825516089344",
+          "id": "1950682825516089344",
+          "media_url_https": "https://pbs.twimg.com/media/GxI3sdRXgAADbA2.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GiYHRBEvlF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "3",
+    "id_str": "1950682868289511477",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1950682868289511477",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 30 22:20:12 +0000 2025",
+    "favorited": false,
+    "full_text": "Idea → Community in 4 weeks.\n\n1:1 coaching where we design, run, and score your personal hackathon:\n• Week 1 - You  \n• Week 2 - Manifesto \n• Week 3 - Build \n• Week 4 - Community (your first 10).\n\n$997 \n\n10 seats. \n\n2 half-off codes for people starting now.\n\nDM “HACK.” https://t.co/GiYHRBEvlF",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1950682868289511477/photo/1",
+          "indices": [
+            "269",
+            "292"
+          ],
+          "url": "https://t.co/GiYHRBEvlF",
+          "media_url": "http://pbs.twimg.com/media/GxI3sdRXgAADbA2.jpg",
+          "id_str": "1950682825516089344",
+          "id": "1950682825516089344",
+          "media_url_https": "https://pbs.twimg.com/media/GxI3sdRXgAADbA2.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GiYHRBEvlF"
+        }
+      ]
+    }
+  }
+}

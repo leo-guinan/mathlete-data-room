@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1850925716700897701"
+        ],
+        "editableUntil": "2024-10-28T16:40:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "David Shapiro ⏩",
+          "screen_name": "DaveShapi",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "1795781228399869952",
+          "id": "1795781228399869952"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OoAt5WktV1",
+          "expanded_url": "https://www.buildinpublicuniversity.com/multiplying-attention-the-secret-art-of-doing-more/",
+          "display_url": "buildinpublicuniversity.com/multiplying-at…",
+          "indices": [
+            "195",
+            "218"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1850191078001197421",
+    "id_str": "1850925716700897701",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1850925716700897701",
+    "in_reply_to_status_id": "1850191078001197421",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 28 15:40:54 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli @DaveShapi Oh, thanks for the heads up, I wasn't! \n\nBut I was actually in the middle of writing this piece when I saw this, and just got it published, so I wanted to share it here too: https://t.co/OoAt5WktV1\n\nThere are definitely better models that we can implement.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

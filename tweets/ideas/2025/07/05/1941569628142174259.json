@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941569628142174259"
+        ],
+        "editableUntil": "2025-07-05T19:47:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941569628142174259/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/5BHLfuYDts",
+          "media_url": "http://pbs.twimg.com/media/GvHXL7oWUAApKvU.png",
+          "id_str": "1941569514358853632",
+          "id": "1941569514358853632",
+          "media_url_https": "https://pbs.twimg.com/media/GvHXL7oWUAApKvU.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "304",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "537",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1872",
+              "h": "838",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5BHLfuYDts"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "1",
+    "id_str": "1941569628142174259",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941569628142174259",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 05 18:47:26 +0000 2025",
+    "favorited": false,
+    "full_text": "You mind is being colonized by people who aren't you.\n\nMight wanna get that checked out. https://t.co/5BHLfuYDts",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941569628142174259/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/5BHLfuYDts",
+          "media_url": "http://pbs.twimg.com/media/GvHXL7oWUAApKvU.png",
+          "id_str": "1941569514358853632",
+          "id": "1941569514358853632",
+          "media_url_https": "https://pbs.twimg.com/media/GvHXL7oWUAApKvU.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "304",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "537",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1872",
+              "h": "838",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5BHLfuYDts"
+        }
+      ]
+    }
+  }
+}

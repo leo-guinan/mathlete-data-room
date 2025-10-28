@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1565719168057499648"
+        ],
+        "editableUntil": "2022-09-02T15:41:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fuNo3raaqv",
+          "expanded_url": "http://Copy.ai",
+          "display_url": "Copy.ai",
+          "indices": [
+            "46",
+            "69"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "149"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1565719166862114819",
+    "id_str": "1565719168057499648",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1565719168057499648",
+    "in_reply_to_status_id": "1565719166862114819",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 02 15:11:53 +0000 2022",
+    "favorited": false,
+    "full_text": "(ok, this is pretty good. I'm exploring using https://t.co/fuNo3raaqv tools to generate wittier text and this is what came out with no editing by me)",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

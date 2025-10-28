@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939667735522259114"
+        ],
+        "editableUntil": "2025-06-30T13:50:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Christian Reber 🇪🇺",
+          "screen_name": "christianreber",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "11418222",
+          "id": "11418222"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uWqWbeTx0J",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/internet-20-a-humanai-mesh-network",
+          "display_url": "hitchhikertothefuture.substack.com/p/internet-20-…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939667735522259114/photo/1",
+          "indices": [
+            "99",
+            "122"
+          ],
+          "url": "https://t.co/1BDt0az7hr",
+          "media_url": "http://pbs.twimg.com/media/GusVhjQXoAA4PKV.jpg",
+          "id_str": "1939667730656894976",
+          "id": "1939667730656894976",
+          "media_url_https": "https://pbs.twimg.com/media/GusVhjQXoAA4PKV.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1BDt0az7hr"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "122"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1939658479796457655",
+    "id_str": "1939667735522259114",
+    "in_reply_to_user_id": "11418222",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939667735522259114",
+    "in_reply_to_status_id": "1939658479796457655",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 30 12:50:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@christianreber It’s a broken economy but I figured out how to solve it. \n\nhttps://t.co/uWqWbeTx0J https://t.co/1BDt0az7hr",
+    "lang": "en",
+    "in_reply_to_screen_name": "christianreber",
+    "in_reply_to_user_id_str": "11418222",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939667735522259114/photo/1",
+          "indices": [
+            "99",
+            "122"
+          ],
+          "url": "https://t.co/1BDt0az7hr",
+          "media_url": "http://pbs.twimg.com/media/GusVhjQXoAA4PKV.jpg",
+          "id_str": "1939667730656894976",
+          "id": "1939667730656894976",
+          "media_url_https": "https://pbs.twimg.com/media/GusVhjQXoAA4PKV.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1BDt0az7hr"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1352443155438858245"
+        ],
+        "editableUntil": "2021-01-22T03:29:10.092Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LItXhGrvJo",
+          "expanded_url": "https://x.com/itstimconnors/status/1352437698175225856",
+          "display_url": "x.com/itstimconnors/…",
+          "indices": [
+            "70",
+            "93"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "1",
+    "id_str": "1352443155438858245",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1352443155438858245",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 22 02:29:10 +0000 2021",
+    "favorited": false,
+    "full_text": "This is a cool story. Shows the power of launching your own business. https://t.co/LItXhGrvJo",
+    "lang": "en"
+  }
+}

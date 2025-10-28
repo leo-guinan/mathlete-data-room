@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899650622950916409"
+        ],
+        "editableUntil": "2025-03-12T03:36:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1899650622950916409/video/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/k7cNrCjYC5",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1899637439255252992/pu/img/Yr688BCI-UGmfUCY.jpg",
+          "id_str": "1899637439255252992",
+          "id": "1899637439255252992",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1899637439255252992/pu/img/Yr688BCI-UGmfUCY.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/k7cNrCjYC5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "305"
+    ],
+    "favorite_count": "2",
+    "id_str": "1899650622950916409",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1899650622950916409",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 12 02:36:16 +0000 2025",
+    "favorited": false,
+    "full_text": "Back in 2023, I got the opportunity to interview one of my heroes. \n\nExcept, after interviewing him, I never published it.\n\nIt's funny, because this was the interview that I thought was going to elevate my content creation game. He had a large audience and this was my opportunity… https://t.co/k7cNrCjYC5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1899650622950916409/video/1",
+          "indices": [
+            "282",
+            "305"
+          ],
+          "url": "https://t.co/k7cNrCjYC5",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1899637439255252992/pu/img/Yr688BCI-UGmfUCY.jpg",
+          "id_str": "1899637439255252992",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "10500",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1899637439255252992/pu/pl/EziCkeM_aSdLZo1s.m3u8?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1899637439255252992/pu/vid/avc1/480x270/0PtkRN4cKrLkamRx.mp4?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1899637439255252992/pu/vid/avc1/640x360/W34j4Y4bikQCl8ks.mp4?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1899637439255252992/pu/vid/avc1/1280x720/_dUW9Ym9JnarR6We.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1899637439255252992",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1899637439255252992/pu/img/Yr688BCI-UGmfUCY.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/k7cNrCjYC5"
+        }
+      ]
+    }
+  }
+}

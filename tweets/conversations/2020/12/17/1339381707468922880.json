@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339381707468922880"
+        ],
+        "editableUntil": "2020-12-17T02:27:38.226Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aaron Rupar",
+          "screen_name": "atrupar",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "288277167",
+          "id": "288277167"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "0",
+    "id_str": "1339381707468922880",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339381707468922880",
+    "created_at": "Thu Dec 17 01:27:38 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @atrupar: 305,934 souls could not be reached for comment",
+    "lang": "en"
+  }
+}

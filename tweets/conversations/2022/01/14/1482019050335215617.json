@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482019050335215617"
+        ],
+        "editableUntil": "2022-01-14T16:57:30.839Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "178"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1482011322237833216",
+    "id_str": "1482019050335215617",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482019050335215617",
+    "in_reply_to_status_id": "1482011322237833216",
+    "created_at": "Fri Jan 14 15:57:30 +0000 2022",
+    "favorited": false,
+    "full_text": "@benjamingreeley Dopamine rush from notifications is definitely a thing. \n\nReally need to turn off my notifications...\n\nBut I'm probably not going to.\n\nGive me that dopamine!!! 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

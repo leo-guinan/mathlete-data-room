@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923158465595261051"
+        ],
+        "editableUntil": "2025-05-16T00:28:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "divya venn",
+          "screen_name": "divya_venn",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1620810558541815808",
+          "id": "1620810558541815808"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/U0VOcmXYyd",
+          "expanded_url": "https://x.com/leo_guinan/status/1909628684039766060?s=46",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "143",
+            "166"
+          ]
+        },
+        {
+          "url": "https://t.co/nu5m8JlkYk",
+          "expanded_url": "https://x.com/leo_guinan/status/1909628684039766060",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "167",
+            "190"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "190"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1923100318537031908",
+    "id_str": "1923158465595261051",
+    "in_reply_to_user_id": "1620810558541815808",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923158465595261051",
+    "in_reply_to_status_id": "1923100318537031908",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 15 23:28:03 +0000 2025",
+    "favorited": false,
+    "full_text": "@divya_venn That’s actually the role the economy should serve, as a way to protect people from bad networks and help them reach their goals. \n\nhttps://t.co/U0VOcmXYyd https://t.co/nu5m8JlkYk",
+    "lang": "en",
+    "in_reply_to_screen_name": "divya_venn",
+    "in_reply_to_user_id_str": "1620810558541815808"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1446188306480476160"
+        ],
+        "editableUntil": "2021-10-07T19:58:55.801Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        },
+        {
+          "name": "J0eCool",
+          "screen_name": "CountJ0ecool",
+          "indices": [
+            "8",
+            "21"
+          ],
+          "id_str": "2936422304",
+          "id": "2936422304"
+        },
+        {
+          "name": "Silicon Jungle",
+          "screen_name": "JungleSilicon",
+          "indices": [
+            "38",
+            "52"
+          ],
+          "id_str": "1309747655367483393",
+          "id": "1309747655367483393"
+        },
+        {
+          "name": "Mikael Brockman",
+          "screen_name": "meekaale",
+          "indices": [
+            "53",
+            "62"
+          ],
+          "id_str": "3331714493",
+          "id": "3331714493"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "163"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1446179943503867907",
+    "id_str": "1446188306480476160",
+    "in_reply_to_user_id": "5614412",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1446188306480476160",
+    "in_reply_to_status_id": "1446179943503867907",
+    "created_at": "Thu Oct 07 18:58:55 +0000 2021",
+    "favorited": false,
+    "full_text": "@mykola @CountJ0ecool @davidfactorial @JungleSilicon @meekaale That's exactly what it is. \n\nIt's just wrapped in some different layers, but that's the heart of it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mykola",
+    "in_reply_to_user_id_str": "5614412"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928461571509911939"
+        ],
+        "editableUntil": "2025-05-30T15:40:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "alegator",
+          "screen_name": "alegator_cs",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1675589499223506944",
+          "id": "1675589499223506944"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1928408175855960478",
+    "id_str": "1928461571509911939",
+    "in_reply_to_user_id": "1675589499223506944",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928461571509911939",
+    "in_reply_to_status_id": "1928408175855960478",
+    "created_at": "Fri May 30 14:40:42 +0000 2025",
+    "favorited": false,
+    "full_text": "@alegator_cs That’s a sign of idea exploration instead of focusing on it as a status symbol 😉\n\nMines that way too",
+    "lang": "en",
+    "in_reply_to_screen_name": "alegator_cs",
+    "in_reply_to_user_id_str": "1675589499223506944"
+  }
+}

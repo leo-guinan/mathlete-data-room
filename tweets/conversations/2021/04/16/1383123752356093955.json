@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1383123752356093955"
+        ],
+        "editableUntil": "2021-04-16T19:22:54.415Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1383123752356093955",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1383123752356093955",
+    "created_at": "Fri Apr 16 18:22:54 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @p_millerd: The amount that an organization will mold you over time is more than most people expect and the norms in the creator economy…",
+    "lang": "en"
+  }
+}

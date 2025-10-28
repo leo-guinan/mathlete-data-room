@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890796696168194229"
+        ],
+        "editableUntil": "2025-02-15T17:13:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "❤️‍🔥 xiq in NYC until Nov 4",
+          "screen_name": "exgenesis",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "322603863",
+          "id": "322603863"
+        },
+        {
+          "name": "chroma",
+          "screen_name": "chroma",
+          "indices": [
+            "15",
+            "22"
+          ],
+          "id_str": "11685",
+          "id": "11685"
+        },
+        {
+          "name": "Jeff Huber",
+          "screen_name": "jeffreyhuber",
+          "indices": [
+            "23",
+            "36"
+          ],
+          "id_str": "15728306",
+          "id": "15728306"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "36"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1890796336213119158",
+    "id_str": "1890796696168194229",
+    "in_reply_to_user_id": "322603863",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890796696168194229",
+    "in_reply_to_status_id": "1890796336213119158",
+    "created_at": "Sat Feb 15 16:13:56 +0000 2025",
+    "favorited": false,
+    "full_text": "@exgenesis Cc: @chroma @jeffreyhuber",
+    "lang": "und",
+    "in_reply_to_screen_name": "exgenesis",
+    "in_reply_to_user_id_str": "322603863"
+  }
+}

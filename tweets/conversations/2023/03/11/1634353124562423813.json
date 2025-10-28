@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1634353124562423813"
+        ],
+        "editableUntil": "2023-03-11T01:08:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "44",
+            "58"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "188",
+            "199"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "201",
+            "215"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "241",
+            "255"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "261",
+            "277"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1634353124562423813/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/kPxiaLSZ8s",
+          "media_url": "http://pbs.twimg.com/media/Fq5jBcLWIAAu3M2.jpg",
+          "id_str": "1634352591176867840",
+          "id": "1634352591176867840",
+          "media_url_https": "https://pbs.twimg.com/media/Fq5jBcLWIAAu3M2.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1076",
+              "h": "610",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "386",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1076",
+              "h": "610",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kPxiaLSZ8s"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "14",
+            "31"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "8",
+    "id_str": "1634353124562423813",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1634353124562423813",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 11 00:38:44 +0000 2023",
+    "favorited": false,
+    "full_text": "Another great #ADHDWithBenefits!\n\nFeaturing @TheKookamonga, then there's my incredibly beautiful face generated with Midjourney because in typical ADHD fashion, I lost my sunglasses, then @LobowSpark, @MechiMansilla, @Up4thechalleng2, Mark, @tshubillabong, and @JustinAllingham! https://t.co/kPxiaLSZ8s",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1634353124562423813/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/kPxiaLSZ8s",
+          "media_url": "http://pbs.twimg.com/media/Fq5jBcLWIAAu3M2.jpg",
+          "id_str": "1634352591176867840",
+          "id": "1634352591176867840",
+          "media_url_https": "https://pbs.twimg.com/media/Fq5jBcLWIAAu3M2.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1076",
+              "h": "610",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "386",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1076",
+              "h": "610",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/kPxiaLSZ8s"
+        }
+      ]
+    }
+  }
+}

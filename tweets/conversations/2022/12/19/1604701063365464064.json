@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1604701063365464064"
+        ],
+        "editableUntil": "2022-12-19T05:22:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oCsVnIzqSr",
+          "expanded_url": "https://x.com/leo_guinan/status/1604631045676142593?t=Qdq0eCAWPD2B6es-pEq-lQ&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "29",
+            "52"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1604699869569986560",
+    "id_str": "1604701063365464064",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1604701063365464064",
+    "in_reply_to_status_id": "1604699869569986560",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 19 04:52:02 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go Haha, great minds! https://t.co/oCsVnIzqSr",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972"
+  }
+}

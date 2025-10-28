@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509864085768318980"
+        ],
+        "editableUntil": "2022-04-01T13:03:44.622Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ali Abdaal",
+          "screen_name": "AliAbdaal",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "30436279",
+          "id": "30436279"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1509856120113963009",
+    "id_str": "1509864085768318980",
+    "in_reply_to_user_id": "30436279",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509864085768318980",
+    "in_reply_to_status_id": "1509856120113963009",
+    "created_at": "Fri Apr 01 12:03:44 +0000 2022",
+    "favorited": false,
+    "full_text": "@AliAbdaal The most transformational book I've ever read,  I've only made it 1/2 way through.\n\nYou don't need to finish everything.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AliAbdaal",
+    "in_reply_to_user_id_str": "30436279"
+  }
+}

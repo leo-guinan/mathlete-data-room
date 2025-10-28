@@ -1,0 +1,164 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1561095550707040264"
+        ],
+        "editableUntil": "2022-08-20T21:29:17.698Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/dagorenouf/status/1561005496898813953/video/1",
+          "source_status_id": "1561005496898813953",
+          "indices": [
+            "66",
+            "89"
+          ],
+          "url": "https://t.co/iPkysIZC3U",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1561005434785480705/img/368LOHiZFjWSWgmi.jpg",
+          "id_str": "1561005434785480705",
+          "source_user_id": "991657337747394561",
+          "id": "1561005434785480705",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1561005434785480705/img/368LOHiZFjWSWgmi.jpg",
+          "source_user_id_str": "991657337747394561",
+          "sizes": {
+            "medium": {
+              "w": "1072",
+              "h": "800",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1072",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1561005496898813953",
+          "display_url": "pic.x.com/iPkysIZC3U"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "0",
+    "id_str": "1561095550707040264",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1561095550707040264",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 20 20:59:17 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @dagorenouf: Building your startup in public is a superpower 💪 https://t.co/iPkysIZC3U",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/dagorenouf/status/1561005496898813953/video/1",
+          "source_status_id": "1561005496898813953",
+          "indices": [
+            "66",
+            "89"
+          ],
+          "url": "https://t.co/iPkysIZC3U",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1561005434785480705/img/368LOHiZFjWSWgmi.jpg",
+          "id_str": "1561005434785480705",
+          "video_info": {
+            "aspect_ratio": [
+              "67",
+              "50"
+            ],
+            "duration_millis": "9002",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1561005434785480705/vid/964x720/lZfb64Dl5E8HN_TL.mp4?tag=14"
+              },
+              {
+                "bitrate": "288000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1561005434785480705/vid/360x270/DPfpMAFe0VEZlP2b.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1561005434785480705/pl/ZLTLGX7IR8QXvt_0.m3u8?tag=14"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1561005434785480705/vid/482x360/T9CtZbeNHWf8u78d.mp4?tag=14"
+              }
+            ]
+          },
+          "source_user_id": "991657337747394561",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1561005434785480705",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1561005434785480705/img/368LOHiZFjWSWgmi.jpg",
+          "source_user_id_str": "991657337747394561",
+          "sizes": {
+            "medium": {
+              "w": "1072",
+              "h": "800",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1072",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1561005496898813953",
+          "display_url": "pic.x.com/iPkysIZC3U"
+        }
+      ]
+    }
+  }
+}

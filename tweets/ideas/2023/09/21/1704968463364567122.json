@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1704968463364567122"
+        ],
+        "editableUntil": "2023-09-21T22:18:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "0",
+    "id_str": "1704968463364567122",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1704968463364567122",
+    "created_at": "Thu Sep 21 21:18:53 +0000 2023",
+    "favorited": false,
+    "full_text": "Me for the last 30 minutes: \"huh, that's weird. Why isn't this webhook working? No matter what, I can't make it do what it's supposed to\"\n\nMe yesterday: *removed webhook in favor of another process*",
+    "lang": "en"
+  }
+}

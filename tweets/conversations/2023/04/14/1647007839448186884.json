@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1647007839448186884"
+        ],
+        "editableUntil": "2023-04-14T23:14:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "59",
+            "70"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "72",
+            "88"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "90",
+            "100"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        },
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "106",
+            "118"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "128",
+            "142"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1647007839448186884/photo/1",
+          "indices": [
+            "184",
+            "207"
+          ],
+          "url": "https://t.co/qYjJSSwYeI",
+          "media_url": "http://pbs.twimg.com/media/FttYjVgX0AI_2uZ.jpg",
+          "id_str": "1647007452825636866",
+          "id": "1647007452825636866",
+          "media_url_https": "https://pbs.twimg.com/media/FttYjVgX0AI_2uZ.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1870",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "621",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1095",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qYjJSSwYeI"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "19",
+            "36"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "207"
+    ],
+    "favorite_count": "9",
+    "id_str": "1647007839448186884",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1647007839448186884",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 14 22:44:03 +0000 2023",
+    "favorited": false,
+    "full_text": "Another incredible #ADHDWithBenefits this week!\n\nFeaturing @LobowSpark, @BlushingCrafter, @bethicalj, and @UntappedKeg!\n\n(also, @tshubillabong who had to duck out a few minutes early) https://t.co/qYjJSSwYeI",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1647007839448186884/photo/1",
+          "indices": [
+            "184",
+            "207"
+          ],
+          "url": "https://t.co/qYjJSSwYeI",
+          "media_url": "http://pbs.twimg.com/media/FttYjVgX0AI_2uZ.jpg",
+          "id_str": "1647007452825636866",
+          "id": "1647007452825636866",
+          "media_url_https": "https://pbs.twimg.com/media/FttYjVgX0AI_2uZ.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1870",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "621",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1095",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qYjJSSwYeI"
+        }
+      ]
+    }
+  }
+}

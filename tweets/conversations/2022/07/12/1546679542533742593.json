@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1546679542533742593"
+        ],
+        "editableUntil": "2022-07-12T02:45:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jacob Asper",
+          "screen_name": "asper_jacob",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1475203375662780420",
+          "id": "1475203375662780420"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1546569574434439176",
+    "id_str": "1546679542533742593",
+    "in_reply_to_user_id": "1475203375662780420",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1546679542533742593",
+    "in_reply_to_status_id": "1546569574434439176",
+    "created_at": "Tue Jul 12 02:15:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@asper_jacob Definitely frustrating at times, but can prevent a lot of errors. Really does help you understand a lot of the structure and gotchas of Javascript",
+    "lang": "en",
+    "in_reply_to_screen_name": "asper_jacob",
+    "in_reply_to_user_id_str": "1475203375662780420"
+  }
+}

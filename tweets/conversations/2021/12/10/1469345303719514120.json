@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1469345303719514120"
+        ],
+        "editableUntil": "2021-12-10T17:36:34.179Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Josh",
+          "screen_name": "JoshuaOgundu",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1599986989",
+          "id": "1599986989"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "234"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1469341148938326019",
+    "id_str": "1469345303719514120",
+    "in_reply_to_user_id": "1599986989",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1469345303719514120",
+    "in_reply_to_status_id": "1469341148938326019",
+    "created_at": "Fri Dec 10 16:36:34 +0000 2021",
+    "favorited": false,
+    "full_text": "@JoshuaOgundu I think the people that make the best founders are underutilized at companies.\n\nThis might show as a bad employee. But if it does, it's likely because they are an unhappy employee.\n\nBut they weren't always bad employees.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JoshuaOgundu",
+    "in_reply_to_user_id_str": "1599986989"
+  }
+}

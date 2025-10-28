@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1530525843553910786"
+        ],
+        "editableUntil": "2022-05-28T12:56:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZqSH3jLppQ",
+          "expanded_url": "https://x.com/treyhunner/status/1529930184316661761",
+          "display_url": "x.com/treyhunner/sta…",
+          "indices": [
+            "31",
+            "54"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "0",
+    "id_str": "1530525843553910786",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1530525843553910786",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 28 12:26:11 +0000 2022",
+    "favorited": false,
+    "full_text": "Good thread on python looping! https://t.co/ZqSH3jLppQ",
+    "lang": "en"
+  }
+}

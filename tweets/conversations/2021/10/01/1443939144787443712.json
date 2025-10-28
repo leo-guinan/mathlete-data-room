@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1443939144787443712"
+        ],
+        "editableUntil": "2021-10-01T15:01:33.866Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "130"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1443832831621300225",
+    "id_str": "1443939144787443712",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1443939144787443712",
+    "in_reply_to_status_id": "1443832831621300225",
+    "created_at": "Fri Oct 01 14:01:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@NotechAna One that always works for me: fishing. Give me a quiet few hours in the river or on the bank, and nothing can be wrong.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

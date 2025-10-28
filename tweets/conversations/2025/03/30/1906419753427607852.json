@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1906419753427607852"
+        ],
+        "editableUntil": "2025-03-30T19:54:23.440Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "❤️‍🔥 xiq in NYC until Nov 4",
+          "screen_name": "exgenesis",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "322603863",
+          "id": "322603863"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/exgenesis/status/1906345504717324589/photo/1",
+          "source_status_id": "1906345504717324589",
+          "indices": [
+            "74",
+            "97"
+          ],
+          "url": "https://t.co/6QzLpD8Cs8",
+          "media_url": "http://pbs.twimg.com/media/GnSzB8SW0AAEn26.png",
+          "id_str": "1906345388228923392",
+          "source_user_id": "322603863",
+          "id": "1906345388228923392",
+          "media_url_https": "https://pbs.twimg.com/media/GnSzB8SW0AAEn26.png",
+          "source_user_id_str": "322603863",
+          "sizes": {
+            "large": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1906345504717324589",
+          "display_url": "pic.x.com/6QzLpD8Cs8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "97"
+    ],
+    "favorite_count": "0",
+    "id_str": "1906419753427607852",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1906419753427607852",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 30 18:54:23 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @exgenesis: my proposal is out and I'm fundraising\nI love this picture https://t.co/6QzLpD8Cs8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/exgenesis/status/1906345504717324589/photo/1",
+          "source_status_id": "1906345504717324589",
+          "indices": [
+            "74",
+            "97"
+          ],
+          "url": "https://t.co/6QzLpD8Cs8",
+          "media_url": "http://pbs.twimg.com/media/GnSzB8SW0AAEn26.png",
+          "id_str": "1906345388228923392",
+          "source_user_id": "322603863",
+          "id": "1906345388228923392",
+          "media_url_https": "https://pbs.twimg.com/media/GnSzB8SW0AAEn26.png",
+          "source_user_id_str": "322603863",
+          "sizes": {
+            "large": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "800",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1906345504717324589",
+          "display_url": "pic.x.com/6QzLpD8Cs8"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1601624338775437312"
+        ],
+        "editableUntil": "2022-12-10T17:36:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1601624338775437312/photo/1",
+          "indices": [
+            "119",
+            "142"
+          ],
+          "url": "https://t.co/mI43EUjxcI",
+          "media_url": "http://pbs.twimg.com/media/Fjoc2FZWYAEy-N-.jpg",
+          "id_str": "1601624332970647553",
+          "id": "1601624332970647553",
+          "media_url_https": "https://pbs.twimg.com/media/Fjoc2FZWYAEy-N-.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "434",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "246",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1682",
+              "h": "608",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mI43EUjxcI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "142"
+    ],
+    "favorite_count": "2",
+    "id_str": "1601624338775437312",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1601624338775437312",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 10 17:06:13 +0000 2022",
+    "favorited": false,
+    "full_text": "ADHD + AI:\n\nMe, seeing a question asking me what my hobbies are: ChatGPT, what are my hobbies?\n\nBTW, no help at all... https://t.co/mI43EUjxcI",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1601624338775437312/photo/1",
+          "indices": [
+            "119",
+            "142"
+          ],
+          "url": "https://t.co/mI43EUjxcI",
+          "media_url": "http://pbs.twimg.com/media/Fjoc2FZWYAEy-N-.jpg",
+          "id_str": "1601624332970647553",
+          "id": "1601624332970647553",
+          "media_url_https": "https://pbs.twimg.com/media/Fjoc2FZWYAEy-N-.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "434",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "246",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1682",
+              "h": "608",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mI43EUjxcI"
+        }
+      ]
+    }
+  }
+}

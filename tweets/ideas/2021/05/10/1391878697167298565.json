@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1391878697167298565"
+        ],
+        "editableUntil": "2021-05-10T23:11:55.917Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CreatorEconomy",
+          "indices": [
+            "41",
+            "56"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/0vIYUEn3bJ",
+          "expanded_url": "https://vm.tiktok.com/ZMeg8QKnV/",
+          "display_url": "vm.tiktok.com/ZMeg8QKnV/",
+          "indices": [
+            "59",
+            "82"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "82"
+    ],
+    "favorite_count": "1",
+    "id_str": "1391878697167298565",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1391878697167298565",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 10 22:11:55 +0000 2021",
+    "favorited": false,
+    "full_text": "This is the part that's missing from the #CreatorEconomy.\n\nhttps://t.co/0vIYUEn3bJ",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1552836641219289088"
+        ],
+        "editableUntil": "2022-07-29T02:31:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "1",
+    "id_str": "1552836641219289088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1552836641219289088",
+    "created_at": "Fri Jul 29 02:01:20 +0000 2022",
+    "favorited": false,
+    "full_text": "Twitter's API is starting to annoy me as much as the app itself at this point.\n\nSo, I've been working with their OAuth2 flows, and it took some effort, but I finally got it working.\n\nExcept it's not. I've got everything set up the way it should be, and it should work.",
+    "lang": "en"
+  }
+}

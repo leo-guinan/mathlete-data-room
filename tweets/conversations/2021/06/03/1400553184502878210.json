@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1400553184502878210"
+        ],
+        "editableUntil": "2021-06-03T21:41:14.862Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mohammed's Product Marketing Hub",
+          "screen_name": "athick2",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "15796921",
+          "id": "15796921"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "157"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1400547593625669643",
+    "id_str": "1400553184502878210",
+    "in_reply_to_user_id": "15796921",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1400553184502878210",
+    "in_reply_to_status_id": "1400547593625669643",
+    "created_at": "Thu Jun 03 20:41:14 +0000 2021",
+    "favorited": false,
+    "full_text": "@athick2 Not at all. But there is a definite range of understanding within the medical community. This can make it hard for people to get the help they need.",
+    "lang": "en",
+    "in_reply_to_screen_name": "athick2",
+    "in_reply_to_user_id_str": "15796921"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1416115117775785984"
+        ],
+        "editableUntil": "2021-07-16T20:18:48.881Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Taylor Lagace",
+          "screen_name": "TaylorLagace",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "779410904026800128",
+          "id": "779410904026800128"
+        },
+        {
+          "name": "daniel snow",
+          "screen_name": "iamdansnow",
+          "indices": [
+            "42",
+            "53"
+          ],
+          "id_str": "1280873443081273347",
+          "id": "1280873443081273347"
+        },
+        {
+          "name": "The Snow Agency",
+          "screen_name": "snowagencyco",
+          "indices": [
+            "64",
+            "77"
+          ],
+          "id_str": "1281042909882695680",
+          "id": "1281042909882695680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "143"
+    ],
+    "favorite_count": "0",
+    "id_str": "1416115117775785984",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1416115117775785984",
+    "created_at": "Fri Jul 16 19:18:48 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @TaylorLagace: Excited to team up with @iamdansnow &amp; the @snowagencyco on this webinar! ❄️❄️\n\nNext week - July 21st- 9amPST/12pmEST ✏️📔…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1771031981196706177"
+        ],
+        "editableUntil": "2024-03-22T05:31:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "danialhasan",
+          "screen_name": "dhasandev",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1319857338958942209",
+          "id": "1319857338958942209"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fqiqnYMHMb",
+          "expanded_url": "https://x.com/leo_guinan/status/1770973140614578305?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "39",
+            "62"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "214"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1770984168966558092",
+    "id_str": "1771031981196706177",
+    "in_reply_to_user_id": "1319857338958942209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1771031981196706177",
+    "in_reply_to_status_id": "1770984168966558092",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 22 04:31:43 +0000 2024",
+    "favorited": false,
+    "full_text": "@dhasandev Well it was 11, and then 12 https://t.co/fqiqnYMHMb\n\nExcept, then I got a message, so went ahead and shipped a new feature, with ended up being a few more commits, but now it's after midnight, so 🤷‍♂️\n\n😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "dhasandev",
+    "in_reply_to_user_id_str": "1319857338958942209"
+  }
+}

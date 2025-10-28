@@ -1,0 +1,156 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931369952730034350"
+        ],
+        "editableUntil": "2025-06-07T16:17:34.506Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "14",
+            "25"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/reddy2go/status/1931369875899138242/photo/1",
+          "source_status_id": "1931369875899138242",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/hDejiXwgoa",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Gs2aqRpbMAAv3CE.jpg",
+          "id_str": "1931369866294145024",
+          "source_user_id": "15659972",
+          "id": "1931369866294145024",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gs2aqRpbMAAv3CE.jpg",
+          "source_user_id_str": "15659972",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1931369875899138242",
+          "display_url": "pic.x.com/hDejiXwgoa"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "id_str": "1931369952730034350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931369952730034350",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 07 15:17:34 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @reddy2go: @leo_guinan hell yeah brother! trailblazers all the way https://t.co/hDejiXwgoa",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/reddy2go/status/1931369875899138242/photo/1",
+          "source_status_id": "1931369875899138242",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/hDejiXwgoa",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Gs2aqRpbMAAv3CE.jpg",
+          "id_str": "1931369866294145024",
+          "video_info": {
+            "aspect_ratio": [
+              "1",
+              "1"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Gs2aqRpbMAAv3CE.mp4"
+              }
+            ]
+          },
+          "source_user_id": "15659972",
+          "id": "1931369866294145024",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Gs2aqRpbMAAv3CE.jpg",
+          "source_user_id_str": "15659972",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "source_status_id_str": "1931369875899138242",
+          "display_url": "pic.x.com/hDejiXwgoa"
+        }
+      ]
+    }
+  }
+}

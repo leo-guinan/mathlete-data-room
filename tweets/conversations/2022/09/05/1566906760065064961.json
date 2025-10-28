@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566906760065064961"
+        ],
+        "editableUntil": "2022-09-05T22:20:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1566899688120410117",
+    "id_str": "1566906760065064961",
+    "in_reply_to_user_id": "1307769479867363328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566906760065064961",
+    "in_reply_to_status_id": "1566899688120410117",
+    "created_at": "Mon Sep 05 21:50:57 +0000 2022",
+    "favorited": false,
+    "full_text": "@eggs_mayhem The number is way higher than you can imagine.\n\nThere are APIs for everything and you'll realize it's a lot easier to call 7500 different apis than it is to implement 7500 different pieces of the app.\n\nThe number just keeps going up and up and up...",
+    "lang": "en",
+    "in_reply_to_screen_name": "eggs_mayhem",
+    "in_reply_to_user_id_str": "1307769479867363328"
+  }
+}

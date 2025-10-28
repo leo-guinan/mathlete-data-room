@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1975332623024038133"
+        ],
+        "editableUntil": "2025-10-06T23:49:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim Fanara",
+          "screen_name": "jimfanara",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1271253394343288833",
+          "id": "1271253394343288833"
+        },
+        {
+          "name": "Manifold",
+          "screen_name": "ManifoldMarkets",
+          "indices": [
+            "64",
+            "80"
+          ],
+          "id_str": "1466559813752606725",
+          "id": "1466559813752606725"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1975319738369909133",
+    "id_str": "1975332623024038133",
+    "in_reply_to_user_id": "1271253394343288833",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1975332623024038133",
+    "in_reply_to_status_id": "1975319738369909133",
+    "created_at": "Mon Oct 06 22:49:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@jimfanara Yep. Didn’t know what a time suck it was until I hit @ManifoldMarkets and started having realtime conversations about what I wanted to talk about. All I had to do was make a crazy prediction and bet on it and give them fake money. They loved me and asked so much about me I felt…",
+    "lang": "en",
+    "in_reply_to_screen_name": "jimfanara",
+    "in_reply_to_user_id_str": "1271253394343288833"
+  }
+}

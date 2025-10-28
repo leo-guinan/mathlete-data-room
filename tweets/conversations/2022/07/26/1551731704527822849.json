@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1551731704527822849"
+        ],
+        "editableUntil": "2022-07-26T01:20:42.797Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "All Things Startups",
+          "screen_name": "allthingstartup",
+          "indices": [
+            "53",
+            "69"
+          ],
+          "id_str": "1502512158109745152",
+          "id": "1502512158109745152"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TZPgT1g3Q5",
+          "expanded_url": "https://x.com/i/spaces/1lPKqmblgLYKb",
+          "display_url": "x.com/i/spaces/1lPKq…",
+          "indices": [
+            "79",
+            "102"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "102"
+    ],
+    "favorite_count": "0",
+    "id_str": "1551731704527822849",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1551731704527822849",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 26 00:50:42 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @StroutMotivateU: Set a reminder for our upcoming @allthingstartup Space! \n\nhttps://t.co/TZPgT1g3Q5",
+    "lang": "en"
+  }
+}

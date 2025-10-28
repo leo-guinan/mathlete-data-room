@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519677849002721280"
+        ],
+        "editableUntil": "2022-04-28T15:00:08.108Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1519677849002721280",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1519677849002721280",
+    "created_at": "Thu Apr 28 14:00:08 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: I bought a new domain.\n\nIt's going to be the first microsaas I launch.\n\nAnd I'm building it because I got annoyed by someth…",
+    "lang": "en"
+  }
+}

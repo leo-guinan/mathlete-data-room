@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821291040671985961"
+        ],
+        "editableUntil": "2024-08-07T22:03:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lukas Tassanyi",
+          "screen_name": "vuapo_ai",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1706499553632100352",
+          "id": "1706499553632100352"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1821285362255458589",
+    "id_str": "1821291040671985961",
+    "in_reply_to_user_id": "1706499553632100352",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821291040671985961",
+    "in_reply_to_status_id": "1821285362255458589",
+    "created_at": "Wed Aug 07 21:03:16 +0000 2024",
+    "favorited": false,
+    "full_text": "@vuapo_ai I've got a chrome extension that scrapes tweets as you scroll in order to create a composite view of twitter. \n\nThe next step is adding in the ability to creating searches in natural language. \n\nThen I'll add in email feeds of tweets that highlight the things you are looking for",
+    "lang": "en",
+    "in_reply_to_screen_name": "vuapo_ai",
+    "in_reply_to_user_id_str": "1706499553632100352"
+  }
+}

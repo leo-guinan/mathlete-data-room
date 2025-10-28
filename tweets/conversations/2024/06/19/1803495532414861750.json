@@ -1,0 +1,111 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803495532414861750"
+        ],
+        "editableUntil": "2024-06-19T19:30:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mattia",
+          "screen_name": "mattiapomelli",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1099717499057328128",
+          "id": "1099717499057328128"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        },
+        {
+          "name": "Framer",
+          "screen_name": "framer",
+          "indices": [
+            "32",
+            "39"
+          ],
+          "id_str": "1056838028",
+          "id": "1056838028"
+        },
+        {
+          "name": "Next.js",
+          "screen_name": "nextjs",
+          "indices": [
+            "40",
+            "47"
+          ],
+          "id_str": "1467726470533754880",
+          "id": "1467726470533754880"
+        },
+        {
+          "name": "Tailwind CSS",
+          "screen_name": "tailwindcss",
+          "indices": [
+            "48",
+            "60"
+          ],
+          "id_str": "895273477711769600",
+          "id": "895273477711769600"
+        },
+        {
+          "name": "shadcn",
+          "screen_name": "shadcn",
+          "indices": [
+            "61",
+            "68"
+          ],
+          "id_str": "31206819",
+          "id": "31206819"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "69",
+            "81"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1803134649260188131",
+    "id_str": "1803495532414861750",
+    "in_reply_to_user_id": "1099717499057328128",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803495532414861750",
+    "in_reply_to_status_id": "1803134649260188131",
+    "created_at": "Wed Jun 19 18:30:16 +0000 2024",
+    "favorited": false,
+    "full_text": "@mattiapomelli @_nightsweekends @framer @nextjs @tailwindcss @shadcn @_buildspace Oh, I love this! That's what I use anyway, so if I could get everything I need faster, that's a huge win. It's exactly what prevents me from using other builders. Can't customize them as easily.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mattiapomelli",
+    "in_reply_to_user_id_str": "1099717499057328128"
+  }
+}

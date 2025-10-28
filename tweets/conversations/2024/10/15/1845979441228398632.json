@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1845979441228398632"
+        ],
+        "editableUntil": "2024-10-15T01:06:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1845853892967575637",
+    "id_str": "1845979441228398632",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1845979441228398632",
+    "in_reply_to_status_id": "1845853892967575637",
+    "created_at": "Tue Oct 15 00:06:10 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli This starts with the assumption that human value has a limit on how much can be produced.\n\nThat's an incorrect assumption.\n\nThe math here doesn't make sense, because of the idea of growth, that you correctly captured in your response.\n\nBut the more complete picture shows that…",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1907576651841446251"
+        ],
+        "editableUntil": "2025-04-03T00:31:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "niko",
+          "screen_name": "nikovijay",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "254982351",
+          "id": "254982351"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XUjnRt4eIA",
+          "expanded_url": "https://x.com/leo_guinan/status/1907482095548600742",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1907572705462800580",
+    "id_str": "1907576651841446251",
+    "in_reply_to_user_id": "254982351",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1907576651841446251",
+    "in_reply_to_status_id": "1907572705462800580",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 02 23:31:29 +0000 2025",
+    "favorited": false,
+    "full_text": "@nikovijay It’s the key to everything. \n\nI outlined the structure needed to support this here: https://t.co/XUjnRt4eIA",
+    "lang": "en",
+    "in_reply_to_screen_name": "nikovijay",
+    "in_reply_to_user_id_str": "254982351"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1771550630680678678"
+        ],
+        "editableUntil": "2024-03-23T15:52:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1771550630680678678/photo/1",
+          "indices": [
+            "179",
+            "202"
+          ],
+          "url": "https://t.co/w7mfZKgLsb",
+          "media_url": "http://pbs.twimg.com/media/GJWpLG0XIAARZct.jpg",
+          "id_str": "1771508036714045440",
+          "id": "1771508036714045440",
+          "media_url_https": "https://pbs.twimg.com/media/GJWpLG0XIAARZct.jpg",
+          "sizes": {
+            "small": {
+              "w": "292",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "824",
+              "h": "1920",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "515",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/w7mfZKgLsb"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "202"
+    ],
+    "favorite_count": "12",
+    "id_str": "1771550630680678678",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1771550630680678678",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 23 14:52:38 +0000 2024",
+    "favorited": false,
+    "full_text": "Embracing my pathless self and taking a break from building AI products to learn some blacksmithing!\n\n(I've been wanting to do this for a long time, so excited to finally learn!) https://t.co/w7mfZKgLsb",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1771550630680678678/photo/1",
+          "indices": [
+            "179",
+            "202"
+          ],
+          "url": "https://t.co/w7mfZKgLsb",
+          "media_url": "http://pbs.twimg.com/media/GJWpLG0XIAARZct.jpg",
+          "id_str": "1771508036714045440",
+          "id": "1771508036714045440",
+          "media_url_https": "https://pbs.twimg.com/media/GJWpLG0XIAARZct.jpg",
+          "sizes": {
+            "small": {
+              "w": "292",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "824",
+              "h": "1920",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "515",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/w7mfZKgLsb"
+        }
+      ]
+    }
+  }
+}

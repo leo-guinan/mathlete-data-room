@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929907472703045781"
+        ],
+        "editableUntil": "2025-06-03T15:26:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shane Andersen",
+          "screen_name": "StrikingCrayon",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3119691642",
+          "id": "3119691642"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "295"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929348782480826680",
+    "id_str": "1929907472703045781",
+    "in_reply_to_user_id": "3119691642",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929907472703045781",
+    "in_reply_to_status_id": "1929348782480826680",
+    "created_at": "Tue Jun 03 14:26:12 +0000 2025",
+    "favorited": false,
+    "full_text": "@StrikingCrayon Really appreciate that feedback! You definitely have more time in it than I do. I noticed the issue 5 years ago\n\nI think you might actually like my paper on network relativity. It's the backing framework for everything. I'm cleaning up the edges but it's all coming together now.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StrikingCrayon",
+    "in_reply_to_user_id_str": "3119691642"
+  }
+}

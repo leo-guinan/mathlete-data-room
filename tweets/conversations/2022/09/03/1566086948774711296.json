@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566086948774711296"
+        ],
+        "editableUntil": "2022-09-03T16:03:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andy Warner",
+          "screen_name": "whoisandywarner",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "15627485",
+          "id": "15627485"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1566086756998725633",
+    "id_str": "1566086948774711296",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566086948774711296",
+    "in_reply_to_status_id": "1566086756998725633",
+    "created_at": "Sat Sep 03 15:33:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@whoisandywarner Now, think about how resources have to be allocated to how many different programs. So if something goes wrong, it then affects everything else by holding onto resources that can't go elsewhere. So the OS has to be a lot smarter and resilient.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

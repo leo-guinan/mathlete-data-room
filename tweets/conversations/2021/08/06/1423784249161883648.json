@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423784249161883648"
+        ],
+        "editableUntil": "2021-08-07T00:13:12.289Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1423784247966437377",
+    "id_str": "1423784249161883648",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423784249161883648",
+    "in_reply_to_status_id": "1423784247966437377",
+    "created_at": "Fri Aug 06 23:13:12 +0000 2021",
+    "favorited": false,
+    "full_text": "If you design it right, you should end up with an idempotent step (you can run it over and over again, and the results won't be changed)\n\nAirflow was designed to process large amounts of data. If you accidentally run a step twice, it shouldn't ruin the data or mess up the process",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

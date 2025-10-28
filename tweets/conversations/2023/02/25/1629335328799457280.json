@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1629335328799457280"
+        ],
+        "editableUntil": "2023-02-25T04:49:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Maxime Dupré",
+          "screen_name": "maximehugodupre",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "3358091321",
+          "id": "3358091321"
+        },
+        {
+          "name": "birdy.so (Profile A/B Testing)",
+          "screen_name": "birdy_so",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "1538473988862709760",
+          "id": "1538473988862709760"
+        },
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "27",
+            "39"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "43"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1629193260986953730",
+    "id_str": "1629335328799457280",
+    "in_reply_to_user_id": "3358091321",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1629335328799457280",
+    "in_reply_to_status_id": "1629193260986953730",
+    "created_at": "Sat Feb 25 04:19:48 +0000 2023",
+    "favorited": false,
+    "full_text": "@maximehugodupre @birdy_so @ProductHunt 🚀🚀🚀",
+    "lang": "qme",
+    "in_reply_to_screen_name": "maximehugodupre",
+    "in_reply_to_user_id_str": "3358091321"
+  }
+}

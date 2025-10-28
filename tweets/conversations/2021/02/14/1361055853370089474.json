@@ -1,0 +1,164 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1361055853370089474"
+        ],
+        "editableUntil": "2021-02-14T21:52:57.295Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Anthony Walker - Слава Україні 🇺🇦",
+          "screen_name": "anthonycwalker",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "130651720",
+          "id": "130651720"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/anthonycwalker/status/1360725538432835584/video/1",
+          "source_status_id": "1360725538432835584",
+          "indices": [
+            "49",
+            "72"
+          ],
+          "url": "https://t.co/jxKw6NfU5F",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360724999502495744/pu/img/k9uw4_CTKZ2m3tAS.jpg",
+          "id_str": "1360724999502495744",
+          "source_user_id": "130651720",
+          "id": "1360724999502495744",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360724999502495744/pu/img/k9uw4_CTKZ2m3tAS.jpg",
+          "source_user_id_str": "130651720",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1360725538432835584",
+          "display_url": "pic.x.com/jxKw6NfU5F"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "72"
+    ],
+    "favorite_count": "0",
+    "id_str": "1361055853370089474",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1361055853370089474",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 14 20:52:57 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @anthonycwalker: trump team closing arguments https://t.co/jxKw6NfU5F",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/anthonycwalker/status/1360725538432835584/video/1",
+          "source_status_id": "1360725538432835584",
+          "indices": [
+            "49",
+            "72"
+          ],
+          "url": "https://t.co/jxKw6NfU5F",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1360724999502495744/pu/img/k9uw4_CTKZ2m3tAS.jpg",
+          "id_str": "1360724999502495744",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "92967",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1360724999502495744/pu/pl/rmOaHXMxX2C1wEVx.m3u8?tag=10"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1360724999502495744/pu/vid/320x568/fvcP96gQNq6hKTic.mp4?tag=10"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1360724999502495744/pu/vid/360x640/vxeGJ5NZiZGDVPjl.mp4?tag=10"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1360724999502495744/pu/vid/720x1280/raZkwPd-hZhY7154.mp4?tag=10"
+              }
+            ]
+          },
+          "source_user_id": "130651720",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1360724999502495744",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1360724999502495744/pu/img/k9uw4_CTKZ2m3tAS.jpg",
+          "source_user_id_str": "130651720",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1360725538432835584",
+          "display_url": "pic.x.com/jxKw6NfU5F"
+        }
+      ]
+    }
+  }
+}

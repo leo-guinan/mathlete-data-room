@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938632269997945025"
+        ],
+        "editableUntil": "2025-06-27T17:15:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1938632269997945025/photo/1",
+          "indices": [
+            "270",
+            "293"
+          ],
+          "url": "https://t.co/5XA8GlMRxC",
+          "media_url": "http://pbs.twimg.com/media/Gudk9n9XYAAIXxg.png",
+          "id_str": "1938629174467452928",
+          "id": "1938629174467452928",
+          "media_url_https": "https://pbs.twimg.com/media/Gudk9n9XYAAIXxg.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "650",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "368",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1588",
+              "h": "860",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5XA8GlMRxC"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1938632267233931694",
+    "id_str": "1938632269997945025",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938632269997945025",
+    "in_reply_to_status_id": "1938632267233931694",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 27 16:15:25 +0000 2025",
+    "favorited": false,
+    "full_text": "This architecture allows us to do something important.\n\nRecognize people as the source of generation. And reward them appropriately, based on what was generated.\n\nEven a sharing is a generation,  because something shared is something changed. We don't account for that. https://t.co/5XA8GlMRxC",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1938632269997945025/photo/1",
+          "indices": [
+            "270",
+            "293"
+          ],
+          "url": "https://t.co/5XA8GlMRxC",
+          "media_url": "http://pbs.twimg.com/media/Gudk9n9XYAAIXxg.png",
+          "id_str": "1938629174467452928",
+          "id": "1938629174467452928",
+          "media_url_https": "https://pbs.twimg.com/media/Gudk9n9XYAAIXxg.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "650",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "368",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1588",
+              "h": "860",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/5XA8GlMRxC"
+        }
+      ]
+    }
+  }
+}

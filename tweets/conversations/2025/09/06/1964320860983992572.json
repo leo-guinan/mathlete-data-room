@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1964320860983992572"
+        ],
+        "editableUntil": "2025-09-06T14:32:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Annie Duke",
+          "screen_name": "AnnieDuke",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "24340604",
+          "id": "24340604"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oWcFwLmccV",
+          "expanded_url": "https://x.com/dagorenouf/status/1964319700168450235",
+          "display_url": "x.com/dagorenouf/sta…",
+          "indices": [
+            "90",
+            "113"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "1",
+    "id_str": "1964320860983992572",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1964320860983992572",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 06 13:32:43 +0000 2025",
+    "favorited": false,
+    "full_text": "As @AnnieDuke says, knowing when to quit is one of the most valuable skills you can have. https://t.co/oWcFwLmccV",
+    "lang": "en"
+  }
+}

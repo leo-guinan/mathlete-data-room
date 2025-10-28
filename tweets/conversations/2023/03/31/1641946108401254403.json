@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1641946108401254403"
+        ],
+        "editableUntil": "2023-04-01T00:00:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "80",
+            "92"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "94",
+            "105"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "122",
+            "136"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1641946108401254403/photo/1",
+          "indices": [
+            "140",
+            "163"
+          ],
+          "url": "https://t.co/wj4MwE4Y4l",
+          "media_url": "http://pbs.twimg.com/media/FsldH-xWYAACxT0.jpg",
+          "id_str": "1641945930843709440",
+          "id": "1641945930843709440",
+          "media_url_https": "https://pbs.twimg.com/media/FsldH-xWYAACxT0.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1866",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1093",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "620",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wj4MwE4Y4l"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "22",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "163"
+    ],
+    "favorite_count": "4",
+    "id_str": "1641946108401254403",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1641946108401254403",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 31 23:30:32 +0000 2023",
+    "favorited": false,
+    "full_text": "Yet another fantastic #ADHDWithBenefits tonight!\n\nFeaturing the fantastic folks @UntappedKeg, @LobowSpark, @DorseyMc, and @tshubillabong!!! https://t.co/wj4MwE4Y4l",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1641946108401254403/photo/1",
+          "indices": [
+            "140",
+            "163"
+          ],
+          "url": "https://t.co/wj4MwE4Y4l",
+          "media_url": "http://pbs.twimg.com/media/FsldH-xWYAACxT0.jpg",
+          "id_str": "1641945930843709440",
+          "id": "1641945930843709440",
+          "media_url_https": "https://pbs.twimg.com/media/FsldH-xWYAACxT0.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1866",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1093",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "620",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wj4MwE4Y4l"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1361172588660199429"
+        ],
+        "editableUntil": "2021-02-15T05:36:49.157Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hOfRsyrcjm",
+          "expanded_url": "https://frontier.pioneer.app/posts/496fd81c-definet-progress-update-february-14th-2021",
+          "display_url": "frontier.pioneer.app/posts/496fd81c…",
+          "indices": [
+            "249",
+            "272"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "id_str": "1361172588660199429",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1361172588660199429",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 15 04:36:49 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nStill lacking on the paid conversions. Had multiple conversations with investors. Still haven't closed an investment but getting closer. Also got the first episode of our podcast…\n\nRead the rest here:\n\n https://t.co/hOfRsyrcjm",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1478106641946091524"
+        ],
+        "editableUntil": "2022-01-03T21:50:59.990Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Douglas Adams Bot",
+          "screen_name": "DirkGently_Bot",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2355096816",
+          "id": "2355096816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1478106641946091524",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1478106641946091524",
+    "created_at": "Mon Jan 03 20:50:59 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @DirkGently_Bot: \"We have normality. I repeat, we have normality. Anything you still can't cope with is therefore your own problem\" - #D…",
+    "lang": "en"
+  }
+}

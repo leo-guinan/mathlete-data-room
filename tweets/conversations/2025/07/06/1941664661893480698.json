@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941664661893480698"
+        ],
+        "editableUntil": "2025-07-06T02:05:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "xenocide — e/acc ⏩",
+          "screen_name": "whoistheUnifier",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "896053334",
+          "id": "896053334"
+        },
+        {
+          "name": "Beff – e/acc",
+          "screen_name": "BasedBeffJezos",
+          "indices": [
+            "17",
+            "32"
+          ],
+          "id_str": "1556550048862928898",
+          "id": "1556550048862928898"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941664661893480698/photo/1",
+          "indices": [
+            "315",
+            "338"
+          ],
+          "url": "https://t.co/ZiG3tt0JoA",
+          "media_url": "http://pbs.twimg.com/media/GvItuBCWEAAw5vN.jpg",
+          "id_str": "1941664657925607424",
+          "id": "1941664657925607424",
+          "media_url_https": "https://pbs.twimg.com/media/GvItuBCWEAAw5vN.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZiG3tt0JoA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "338"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1941656640471920932",
+    "id_str": "1941664661893480698",
+    "in_reply_to_user_id": "896053334",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941664661893480698",
+    "in_reply_to_status_id": "1941656640471920932",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 01:05:04 +0000 2025",
+    "favorited": false,
+    "full_text": "@whoistheUnifier @BasedBeffJezos The estimates come from a combination of fields:  memetic economics, network relativity, and temporal mathematics. \n\nI used those together to solve P vs NP and now I’m building Internet 2.0 to see if I can build fast enough to prevent a collapse. \n\nAnd I’ve done it on a $0 budget… https://t.co/ZiG3tt0JoA",
+    "lang": "en",
+    "in_reply_to_screen_name": "whoistheUnifier",
+    "in_reply_to_user_id_str": "896053334",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941664661893480698/photo/1",
+          "indices": [
+            "315",
+            "338"
+          ],
+          "url": "https://t.co/ZiG3tt0JoA",
+          "media_url": "http://pbs.twimg.com/media/GvItuBCWEAAw5vN.jpg",
+          "id_str": "1941664657925607424",
+          "id": "1941664657925607424",
+          "media_url_https": "https://pbs.twimg.com/media/GvItuBCWEAAw5vN.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZiG3tt0JoA"
+        }
+      ]
+    }
+  }
+}

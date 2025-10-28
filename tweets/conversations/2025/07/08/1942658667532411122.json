@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942658667532411122"
+        ],
+        "editableUntil": "2025-07-08T19:54:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andres",
+          "screen_name": "andreskg_",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1424811510556155905",
+          "id": "1424811510556155905"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942658500372394276",
+    "id_str": "1942658667532411122",
+    "in_reply_to_user_id": "1424811510556155905",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942658667532411122",
+    "in_reply_to_status_id": "1942658500372394276",
+    "created_at": "Tue Jul 08 18:54:53 +0000 2025",
+    "favorited": false,
+    "full_text": "@andreskg_ Exactly.\n\nThe technology is irrelevant.",
+    "lang": "en",
+    "in_reply_to_screen_name": "andreskg_",
+    "in_reply_to_user_id_str": "1424811510556155905"
+  }
+}

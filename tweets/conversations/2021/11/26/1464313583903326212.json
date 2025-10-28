@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1464313583903326212"
+        ],
+        "editableUntil": "2021-11-26T20:22:18.690Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Superlocal",
+          "screen_name": "joinsuperlocal",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1805366636523962369",
+          "id": "1805366636523962369"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "29"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1463909316037992455",
+    "id_str": "1464313583903326212",
+    "in_reply_to_user_id": "1258056469246734338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1464313583903326212",
+    "in_reply_to_status_id": "1463909316037992455",
+    "created_at": "Fri Nov 26 19:22:18 +0000 2021",
+    "favorited": false,
+    "full_text": "@joinsuperlocal leoguinan.eth",
+    "lang": "ht",
+    "in_reply_to_screen_name": "superlocalmaps",
+    "in_reply_to_user_id_str": "1258056469246734338"
+  }
+}

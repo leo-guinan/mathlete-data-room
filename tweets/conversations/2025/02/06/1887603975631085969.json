@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887603975631085969"
+        ],
+        "editableUntil": "2025-02-06T21:47:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mike Wawszczak 🇺🇸",
+          "screen_name": "mikewawszczak",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "894994051698532352",
+          "id": "894994051698532352"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1887603318068789614",
+    "id_str": "1887603975631085969",
+    "in_reply_to_user_id": "894994051698532352",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887603975631085969",
+    "in_reply_to_status_id": "1887603318068789614",
+    "created_at": "Thu Feb 06 20:47:12 +0000 2025",
+    "favorited": false,
+    "full_text": "@mikewawszczak Humans and their neighbors should protect each other.\n\nSafety comes from coordination.\n\nWe need to move back to that.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mikewawszczak",
+    "in_reply_to_user_id_str": "894994051698532352"
+  }
+}

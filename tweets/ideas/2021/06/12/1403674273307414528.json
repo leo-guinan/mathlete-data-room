@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1403674273307414528"
+        ],
+        "editableUntil": "2021-06-12T12:23:20.420Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1403674273307414528/photo/1",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/U7zGNg2dv8",
+          "media_url": "http://pbs.twimg.com/media/E3raT0FXEAMJ8Dd.jpg",
+          "id_str": "1403674267812827139",
+          "id": "1403674267812827139",
+          "media_url_https": "https://pbs.twimg.com/media/E3raT0FXEAMJ8Dd.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/U7zGNg2dv8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "3",
+    "id_str": "1403674273307414528",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1403674273307414528",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 12 11:23:20 +0000 2021",
+    "favorited": false,
+    "full_text": "Foggy morning. Up and about early for the first swim meet of the year! https://t.co/U7zGNg2dv8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1403674273307414528/photo/1",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/U7zGNg2dv8",
+          "media_url": "http://pbs.twimg.com/media/E3raT0FXEAMJ8Dd.jpg",
+          "id_str": "1403674267812827139",
+          "id": "1403674267812827139",
+          "media_url_https": "https://pbs.twimg.com/media/E3raT0FXEAMJ8Dd.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/U7zGNg2dv8"
+        }
+      ]
+    }
+  }
+}

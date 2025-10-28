@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1620436368701722632"
+        ],
+        "editableUntil": "2023-01-31T15:28:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1620436368701722632/photo/1",
+          "indices": [
+            "129",
+            "152"
+          ],
+          "url": "https://t.co/xqtCz9dLLP",
+          "media_url": "http://pbs.twimg.com/media/FnzySYQXoAQHs7t.jpg",
+          "id_str": "1620436363509211140",
+          "id": "1620436363509211140",
+          "media_url_https": "https://pbs.twimg.com/media/FnzySYQXoAQHs7t.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xqtCz9dLLP"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "152"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1620436359113474048",
+    "id_str": "1620436368701722632",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1620436368701722632",
+    "in_reply_to_status_id": "1620436359113474048",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 31 14:58:31 +0000 2023",
+    "favorited": false,
+    "full_text": "Ended up backing up and regenerating a couple of times, and got to something my son liked.\n\nPretty solid for 20 minutes of work! https://t.co/xqtCz9dLLP",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1620436368701722632/photo/1",
+          "indices": [
+            "129",
+            "152"
+          ],
+          "url": "https://t.co/xqtCz9dLLP",
+          "media_url": "http://pbs.twimg.com/media/FnzySYQXoAQHs7t.jpg",
+          "id_str": "1620436363509211140",
+          "id": "1620436363509211140",
+          "media_url_https": "https://pbs.twimg.com/media/FnzySYQXoAQHs7t.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xqtCz9dLLP"
+        }
+      ]
+    }
+  }
+}

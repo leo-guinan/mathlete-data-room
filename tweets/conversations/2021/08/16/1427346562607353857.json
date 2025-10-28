@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1427346562607353857"
+        ],
+        "editableUntil": "2021-08-16T20:08:33.999Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CENT",
+          "screen_name": "Cent",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "883094385063116800",
+          "id": "883094385063116800"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1427346417996091419",
+    "id_str": "1427346562607353857",
+    "in_reply_to_user_id": "883094385063116800",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1427346562607353857",
+    "in_reply_to_status_id": "1427346417996091419",
+    "created_at": "Mon Aug 16 19:08:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@Cent April 25th, Miss Congeniality",
+    "lang": "en",
+    "in_reply_to_screen_name": "Cent",
+    "in_reply_to_user_id_str": "883094385063116800"
+  }
+}

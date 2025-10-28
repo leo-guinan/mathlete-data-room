@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1350937776817102848"
+        ],
+        "editableUntil": "2021-01-17T23:47:19.860Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Kelsey",
+          "screen_name": "kelseydyoung",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2226372136",
+          "id": "2226372136"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1350937776817102848/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/aWrsYEsshE",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Er9-u9qXAAA6uGy.jpg",
+          "id_str": "1350937758525751296",
+          "id": "1350937758525751296",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er9-u9qXAAA6uGy.jpg",
+          "sizes": {
+            "medium": {
+              "w": "400",
+              "h": "224",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "400",
+              "h": "224",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "400",
+              "h": "224",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/aWrsYEsshE"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "37"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1350937473250177026",
+    "id_str": "1350937776817102848",
+    "in_reply_to_user_id": "2226372136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1350937776817102848",
+    "in_reply_to_status_id": "1350937473250177026",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jan 17 22:47:19 +0000 2021",
+    "favorited": false,
+    "full_text": "@kelseydyoung https://t.co/aWrsYEsshE",
+    "lang": "qme",
+    "in_reply_to_screen_name": "kelseydyoung",
+    "in_reply_to_user_id_str": "2226372136",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1350937776817102848/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/aWrsYEsshE",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Er9-u9qXAAA6uGy.jpg",
+          "id_str": "1350937758525751296",
+          "video_info": {
+            "aspect_ratio": [
+              "25",
+              "14"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Er9-u9qXAAA6uGy.mp4"
+              }
+            ]
+          },
+          "id": "1350937758525751296",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Er9-u9qXAAA6uGy.jpg",
+          "sizes": {
+            "medium": {
+              "w": "400",
+              "h": "224",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "400",
+              "h": "224",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "400",
+              "h": "224",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/aWrsYEsshE"
+        }
+      ]
+    }
+  }
+}

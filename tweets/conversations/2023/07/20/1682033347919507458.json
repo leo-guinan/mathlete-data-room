@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1682033347919507458"
+        ],
+        "editableUntil": "2023-07-20T15:22:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "33",
+            "42"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "257",
+            "266"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AjbTaVCFar",
+          "expanded_url": "https://www.producthunt.com/posts/find-your-niche-challenge",
+          "display_url": "producthunt.com/posts/find-you…",
+          "indices": [
+            "230",
+            "253"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "1",
+    "id_str": "1682033347919507458",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1682033347919507458",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 20 14:22:55 +0000 2023",
+    "favorited": false,
+    "full_text": "Check this out! Really love what @finereli is putting together here. \n\nAnd I've got to respect his hustle getting this live! Let's help him out!\n\nFind Your Niche Challenge: Find customers who’ll be happy to pay for your indie app https://t.co/AjbTaVCFar by @finereli",
+    "lang": "en"
+  }
+}

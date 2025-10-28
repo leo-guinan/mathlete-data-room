@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1413677766910877697"
+        ],
+        "editableUntil": "2021-07-10T02:53:39.151Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Taylor Lagace",
+          "screen_name": "TaylorLagace",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "779410904026800128",
+          "id": "779410904026800128"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1413551246217150464",
+    "id_str": "1413677766910877697",
+    "in_reply_to_user_id": "779410904026800128",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1413677766910877697",
+    "in_reply_to_status_id": "1413551246217150464",
+    "created_at": "Sat Jul 10 01:53:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@TaylorLagace What should we look for in an influencer? Any specific characteristics we should look for?",
+    "lang": "en",
+    "in_reply_to_screen_name": "TaylorLagace",
+    "in_reply_to_user_id_str": "779410904026800128"
+  }
+}

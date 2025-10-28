@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898206009715286053"
+        ],
+        "editableUntil": "2025-03-08T03:55:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "25",
+            "41"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iUY69xS1Ad",
+          "expanded_url": "https://x.com/glitchishuman/status/1898200974172270959",
+          "display_url": "x.com/glitchishuman/…",
+          "indices": [
+            "88",
+            "111"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "1",
+    "id_str": "1898206009715286053",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1898206009715286053",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 02:55:54 +0000 2025",
+    "favorited": false,
+    "full_text": "Glitch has a message for @JustinAllingham and any other first time streamers out there. https://t.co/iUY69xS1Ad",
+    "lang": "en"
+  }
+}

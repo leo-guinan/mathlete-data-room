@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1760382256936345766"
+        ],
+        "editableUntil": "2024-02-21T20:13:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1760381803943121327",
+    "id_str": "1760382256936345766",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1760382256936345766",
+    "in_reply_to_status_id": "1760381803943121327",
+    "created_at": "Wed Feb 21 19:13:31 +0000 2024",
+    "favorited": false,
+    "full_text": "@anuatluru The better I've gotten at introspection, the better I've tuned my feel for what's working and what's not.\n\nI've built a number of things that I shut down because I realized they were off from my goals.\n\nWhen I'm fully aligned, it feels easy. All about calibrating your sense of…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

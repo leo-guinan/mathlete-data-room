@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1489369741638656003"
+        ],
+        "editableUntil": "2022-02-03T23:46:32.215Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Vlad Emilovich 🚢",
+          "screen_name": "vlademilovich",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1478680803324350475",
+          "id": "1478680803324350475"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "224"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1489369382182694918",
+    "id_str": "1489369741638656003",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1489369741638656003",
+    "in_reply_to_status_id": "1489369382182694918",
+    "created_at": "Thu Feb 03 22:46:32 +0000 2022",
+    "favorited": false,
+    "full_text": "@vlademilovich That's the same basic method for advertising. Take a guess where the most likely buyers are and show the ad to as many of those people as possible. \n\nWhich is fine if you don't know who specifically to target.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

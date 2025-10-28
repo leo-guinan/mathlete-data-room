@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1344378178702348294"
+        ],
+        "editableUntil": "2020-12-30T21:21:49.798Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kenneth Cassel",
+          "screen_name": "KennethCassel",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1319269656264409088",
+          "id": "1319269656264409088"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1344378178702348294",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1344378178702348294",
+    "created_at": "Wed Dec 30 20:21:49 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @KennethCassel: Software engineering interview experiences don't have to be terrible.  \n\nThread on my best software engineering intervie…",
+    "lang": "en"
+  }
+}

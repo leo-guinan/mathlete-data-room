@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330240754816585728"
+        ],
+        "editableUntil": "2020-11-21T21:04:45.283Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Geoff Lewis",
+          "screen_name": "GeoffLewisOrg",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "86736696",
+          "id": "86736696"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "21",
+    "in_reply_to_status_id_str": "1330239297128194050",
+    "id_str": "1330240754816585728",
+    "in_reply_to_user_id": "86736696",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330240754816585728",
+    "in_reply_to_status_id": "1330239297128194050",
+    "created_at": "Sat Nov 21 20:04:45 +0000 2020",
+    "favorited": false,
+    "full_text": "@GeoffLewisOrg I used to mine it a little bit in college when it first started. Then I got bored and gave up on it. Then I lost the wallet. \n\nI don't know how much I had, but I do know that it wasn't nothing. I have thought about it quite a bit over the last several years. Lost opportunities",
+    "lang": "en",
+    "in_reply_to_screen_name": "GeoffLewisOrg",
+    "in_reply_to_user_id_str": "86736696"
+  }
+}

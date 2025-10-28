@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1666213624602411009"
+        ],
+        "editableUntil": "2023-06-06T23:40:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Richard Choi",
+          "screen_name": "choir241",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1475508453015699458",
+          "id": "1475508453015699458"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1665672566898343937",
+    "id_str": "1666213624602411009",
+    "in_reply_to_user_id": "1475508453015699458",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1666213624602411009",
+    "in_reply_to_status_id": "1665672566898343937",
+    "created_at": "Tue Jun 06 22:40:59 +0000 2023",
+    "favorited": false,
+    "full_text": "@choir241 it can be fun! I tend to be pretty optimistic with things, but I do think it's important to acknowledge the potential trouble areas with it. \n\nBy doing that, we can really have meaningful conversations that really move things forward.\n\n(the truth is somewhere in the middle of…",
+    "lang": "en",
+    "in_reply_to_screen_name": "choir241",
+    "in_reply_to_user_id_str": "1475508453015699458"
+  }
+}

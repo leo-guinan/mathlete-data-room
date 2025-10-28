@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359578752431370242"
+        ],
+        "editableUntil": "2021-02-10T20:03:28.988Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shopify",
+          "screen_name": "Shopify",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "17136315",
+          "id": "17136315"
+        },
+        {
+          "name": "Shop",
+          "screen_name": "shop",
+          "indices": [
+            "78",
+            "83"
+          ],
+          "id_str": "851211469236686848",
+          "id": "851211469236686848"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1359578752431370242",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359578752431370242",
+    "created_at": "Wed Feb 10 19:03:28 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Shopify: alright, we're doing the thing 👀\n\n50 RT's and we'll give away 10 @Shop hoodies \n100 RT's and we'll start selling 'em\n\nlets goo…",
+    "lang": "en"
+  }
+}

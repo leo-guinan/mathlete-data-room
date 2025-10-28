@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1661164758723067904"
+        ],
+        "editableUntil": "2023-05-24T00:48:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1661164758723067904/photo/1",
+          "indices": [
+            "107",
+            "130"
+          ],
+          "url": "https://t.co/bUCrQgslWT",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fw2kiqIXwAQHPYl.jpg",
+          "id_str": "1661164752901488644",
+          "id": "1661164752901488644",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fw2kiqIXwAQHPYl.jpg",
+          "sizes": {
+            "large": {
+              "w": "200",
+              "h": "108",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "108",
+              "h": "108",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "200",
+              "h": "108",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "200",
+              "h": "108",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/bUCrQgslWT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "130"
+    ],
+    "favorite_count": "1",
+    "id_str": "1661164758723067904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1661164758723067904",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 24 00:18:36 +0000 2023",
+    "favorited": false,
+    "full_text": "Pro tip: Don't give your AI agents a tool to \"Brainstorm\".\n\nGuess what tool they pick every single time... https://t.co/bUCrQgslWT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1661164758723067904/photo/1",
+          "indices": [
+            "107",
+            "130"
+          ],
+          "url": "https://t.co/bUCrQgslWT",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fw2kiqIXwAQHPYl.jpg",
+          "id_str": "1661164752901488644",
+          "video_info": {
+            "aspect_ratio": [
+              "50",
+              "27"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Fw2kiqIXwAQHPYl.mp4"
+              }
+            ]
+          },
+          "id": "1661164752901488644",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fw2kiqIXwAQHPYl.jpg",
+          "sizes": {
+            "large": {
+              "w": "200",
+              "h": "108",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "108",
+              "h": "108",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "200",
+              "h": "108",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "200",
+              "h": "108",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/bUCrQgslWT"
+        }
+      ]
+    }
+  }
+}

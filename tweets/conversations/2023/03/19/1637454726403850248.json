@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1637454726403850248"
+        ],
+        "editableUntil": "2023-03-19T14:33:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alvar Lagerlöf",
+          "screen_name": "alvarlagerlof",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "3025714996",
+          "id": "3025714996"
+        },
+        {
+          "name": "Fly.io",
+          "screen_name": "flydotio",
+          "indices": [
+            "15",
+            "24"
+          ],
+          "id_str": "836308794774814721",
+          "id": "836308794774814721"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1637454396173819905",
+    "id_str": "1637454726403850248",
+    "in_reply_to_user_id": "3025714996",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1637454726403850248",
+    "in_reply_to_status_id": "1637454396173819905",
+    "created_at": "Sun Mar 19 14:03:23 +0000 2023",
+    "favorited": false,
+    "full_text": "@alvarlagerlof @flydotio Check out Poetry. \n\nThat's what I use and it does a great job of locking in versions.",
+    "lang": "en",
+    "in_reply_to_screen_name": "alvarlagerlof",
+    "in_reply_to_user_id_str": "3025714996"
+  }
+}

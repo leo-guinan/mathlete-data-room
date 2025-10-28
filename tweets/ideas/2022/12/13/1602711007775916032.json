@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1602711007775916032"
+        ],
+        "editableUntil": "2022-12-13T17:34:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "219"
+    ],
+    "favorite_count": "6",
+    "id_str": "1602711007775916032",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1602711007775916032",
+    "created_at": "Tue Dec 13 17:04:15 +0000 2022",
+    "favorited": false,
+    "full_text": "One of the keys to moving fast: learn to strip out the parts you don't actually need.\n\nWhen building new tools, I try to figure out the minimum pieces I need to implement and start there. Then I add things on as needed.",
+    "lang": "en"
+  }
+}

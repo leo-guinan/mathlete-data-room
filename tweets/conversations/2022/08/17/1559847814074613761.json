@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1559847814074613761"
+        ],
+        "editableUntil": "2022-08-17T10:51:14.103Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "buildinpublic",
+          "indices": [
+            "82",
+            "96"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sven 👉 intribe.co",
+          "screen_name": "radavics",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "90027390",
+          "id": "90027390"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pCe5VV9JPd",
+          "expanded_url": "https://www.intribe.co/blog/paid-advertising-alternatives",
+          "display_url": "intribe.co/blog/paid-adve…",
+          "indices": [
+            "99",
+            "122"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "122"
+    ],
+    "favorite_count": "0",
+    "id_str": "1559847814074613761",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1559847814074613761",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 17 10:21:14 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @radavics: Latest blog post is up.  5 great alternatives to paid advertising.\n\n#buildinpublic \n\nhttps://t.co/pCe5VV9JPd",
+    "lang": "en"
+  }
+}

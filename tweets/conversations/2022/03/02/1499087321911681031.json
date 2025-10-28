@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499087321911681031"
+        ],
+        "editableUntil": "2022-03-02T19:20:43.896Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kilian Poulin 🦾",
+          "screen_name": "KilianPoulinTW",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "2225613595",
+          "id": "2225613595"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "5",
+    "in_reply_to_status_id_str": "1499072352633561088",
+    "id_str": "1499087321911681031",
+    "in_reply_to_user_id": "2225613595",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499087321911681031",
+    "in_reply_to_status_id": "1499072352633561088",
+    "created_at": "Wed Mar 02 18:20:43 +0000 2022",
+    "favorited": false,
+    "full_text": "@KilianPoulinTW That's why it's actually a negative signal to me.\n\nAs I've been working on @feathercrm, I've realized that the best connections are between full people, not one dimensional projections.\n\nIf you're growing fast, all you're really doing is generating noise in your stats.",
+    "lang": "en",
+    "in_reply_to_screen_name": "KilianPoulinTW",
+    "in_reply_to_user_id_str": "2225613595"
+  }
+}

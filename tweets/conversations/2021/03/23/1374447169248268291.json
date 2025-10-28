@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1374447169248268291"
+        ],
+        "editableUntil": "2021-03-23T20:45:15.799Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Herbert Lui",
+          "screen_name": "HerbertLui",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "14637214",
+          "id": "14637214"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1374446002606776332",
+    "id_str": "1374447169248268291",
+    "in_reply_to_user_id": "14637214",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1374447169248268291",
+    "in_reply_to_status_id": "1374446002606776332",
+    "created_at": "Tue Mar 23 19:45:15 +0000 2021",
+    "favorited": false,
+    "full_text": "@HerbertLui Sure! I think you did a great job outlining the problem. It's something I am pretty passionate about. I believe that there is too much of a focus on number of views when we should be rewarding connection with audience. Trying to help that shift happen with my company.",
+    "lang": "en",
+    "in_reply_to_screen_name": "HerbertLui",
+    "in_reply_to_user_id_str": "14637214"
+  }
+}

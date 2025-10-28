@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1782857506487742752"
+        ],
+        "editableUntil": "2024-04-23T20:42:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sYJuefRmFR",
+          "expanded_url": "https://x.com/leo_guinan/status/1780318278323228744",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "71",
+            "94"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "0",
+    "id_str": "1782857506487742752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1782857506487742752",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 23 19:42:08 +0000 2024",
+    "favorited": false,
+    "full_text": "Looks like there is something here.\n\nWill have to do some experiments. https://t.co/sYJuefRmFR",
+    "lang": "en"
+  }
+}

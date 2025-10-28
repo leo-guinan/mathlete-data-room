@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1933129956021645338"
+        ],
+        "editableUntil": "2025-06-12T12:51:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nLY30Tc7KB",
+          "expanded_url": "https://x.com/mykola/status/1933120102821707970",
+          "display_url": "x.com/mykola/status/…",
+          "indices": [
+            "62",
+            "85"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "3",
+    "id_str": "1933129956021645338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1933129956021645338",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 12 11:51:11 +0000 2025",
+    "favorited": false,
+    "full_text": "Information is only as valuable as your ability to verify it. https://t.co/nLY30Tc7KB",
+    "lang": "en"
+  }
+}

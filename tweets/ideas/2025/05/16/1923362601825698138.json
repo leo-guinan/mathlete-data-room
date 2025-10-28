@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923362601825698138"
+        ],
+        "editableUntil": "2025-05-16T13:59:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xJmXPkfPjB",
+          "expanded_url": "https://x.com/iamjasonlevin/status/1923360182857289983",
+          "display_url": "x.com/iamjasonlevin/…",
+          "indices": [
+            "36",
+            "59"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "1",
+    "id_str": "1923362601825698138",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923362601825698138",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 16 12:59:13 +0000 2025",
+    "favorited": false,
+    "full_text": "That's how we got our time machine. https://t.co/xJmXPkfPjB",
+    "lang": "en"
+  }
+}

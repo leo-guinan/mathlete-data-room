@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1787204876025421992"
+        ],
+        "editableUntil": "2024-05-05T20:37:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1787196130343657657",
+    "id_str": "1787204876025421992",
+    "in_reply_to_user_id": "183749519",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1787204876025421992",
+    "in_reply_to_status_id": "1787196130343657657",
+    "created_at": "Sun May 05 19:37:01 +0000 2024",
+    "favorited": false,
+    "full_text": "@paulg I think it's a graph of economic inefficiency.\n\nWith an efficient economy, the growth of wages increases with the growth of productivity.\n\nWith an inefficient economy, the growth of productivity outpaces the growth of wages and therefore extra energy is spent on trying to…",
+    "lang": "en",
+    "in_reply_to_screen_name": "paulg",
+    "in_reply_to_user_id_str": "183749519"
+  }
+}

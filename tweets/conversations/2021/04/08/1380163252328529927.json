@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1380163252328529927"
+        ],
+        "editableUntil": "2021-04-08T15:18:56.205Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "@erikaheidi.bsky.social",
+          "screen_name": "erikaheidi",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "19625601",
+          "id": "19625601"
+        },
+        {
+          "name": "GitHub",
+          "screen_name": "github",
+          "indices": [
+            "76",
+            "83"
+          ],
+          "id_str": "13334762",
+          "id": "13334762"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1380163252328529927",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1380163252328529927",
+    "created_at": "Thu Apr 08 14:18:56 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @erikaheidi: I am having a hard time finding any women to sponsor on the @github sponsors program 😒 if you know any, please drop the pro…",
+    "lang": "en"
+  }
+}

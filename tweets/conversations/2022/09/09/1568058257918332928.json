@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1568058257918332928"
+        ],
+        "editableUntil": "2022-09-09T02:36:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Henry",
+          "screen_name": "ItsWaveyDavid",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1485765237139718148",
+          "id": "1485765237139718148"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "255"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1567643251363954688",
+    "id_str": "1568058257918332928",
+    "in_reply_to_user_id": "1485765237139718148",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1568058257918332928",
+    "in_reply_to_status_id": "1567643251363954688",
+    "created_at": "Fri Sep 09 02:06:36 +0000 2022",
+    "favorited": false,
+    "full_text": "@ItsWaveyDavid I play on the XBox One. \n\nHardest part is I can't play it when the kids are awake lol. So there's at most an hour late at night after my wife goes to bed because normally we watch TV together, so I have to stay up later to find the time lol",
+    "lang": "en",
+    "in_reply_to_screen_name": "ItsWaveyDavid",
+    "in_reply_to_user_id_str": "1485765237139718148"
+  }
+}

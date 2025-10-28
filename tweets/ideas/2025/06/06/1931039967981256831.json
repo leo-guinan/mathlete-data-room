@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931039967981256831"
+        ],
+        "editableUntil": "2025-06-06T18:26:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931039967981256831/photo/1",
+          "indices": [
+            "138",
+            "161"
+          ],
+          "url": "https://t.co/uzCgrWZJUX",
+          "media_url": "http://pbs.twimg.com/media/GsxtD5cXMAAX3p5.png",
+          "id_str": "1931038253961916416",
+          "id": "1931038253961916416",
+          "media_url_https": "https://pbs.twimg.com/media/GsxtD5cXMAAX3p5.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "349",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1590",
+              "h": "462",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "198",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uzCgrWZJUX"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "1",
+    "id_str": "1931039967981256831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931039967981256831",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 06 17:26:20 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, I outlined a plan to fix academic publishing.\n\nThe key: don't worry about publishing  the old way. New way is better, faster, easier. https://t.co/uzCgrWZJUX",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931039967981256831/photo/1",
+          "indices": [
+            "138",
+            "161"
+          ],
+          "url": "https://t.co/uzCgrWZJUX",
+          "media_url": "http://pbs.twimg.com/media/GsxtD5cXMAAX3p5.png",
+          "id_str": "1931038253961916416",
+          "id": "1931038253961916416",
+          "media_url_https": "https://pbs.twimg.com/media/GsxtD5cXMAAX3p5.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "349",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1590",
+              "h": "462",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "198",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uzCgrWZJUX"
+        }
+      ]
+    }
+  }
+}

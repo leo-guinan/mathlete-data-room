@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519147381610233856"
+        ],
+        "editableUntil": "2022-04-27T03:52:14.826Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1519147381610233856",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1519147381610233856",
+    "created_at": "Wed Apr 27 02:52:14 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @NotechAna: Learning from the master\n\n1) Find a subject you care about\n2) Do not ramble though\n3) Keep it simple \n4) Have the guts to cu…",
+    "lang": "en"
+  }
+}

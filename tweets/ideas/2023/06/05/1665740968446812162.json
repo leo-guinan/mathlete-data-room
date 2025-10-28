@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1665740968446812162"
+        ],
+        "editableUntil": "2023-06-05T15:52:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1665740968446812162/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/VTjQZ3eWZT",
+          "media_url": "http://pbs.twimg.com/media/Fx3mTKfXoAcdHL7.jpg",
+          "id_str": "1665740654104780807",
+          "id": "1665740654104780807",
+          "media_url_https": "https://pbs.twimg.com/media/Fx3mTKfXoAcdHL7.jpg",
+          "sizes": {
+            "large": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VTjQZ3eWZT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "1",
+    "id_str": "1665740968446812162",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1665740968446812162",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 05 15:22:49 +0000 2023",
+    "favorited": false,
+    "full_text": "Waiting for Jake Smith to visit my site\n\n(it feels like he doesn't even know I exist...) https://t.co/VTjQZ3eWZT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1665740968446812162/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/VTjQZ3eWZT",
+          "media_url": "http://pbs.twimg.com/media/Fx3mTKfXoAcdHL7.jpg",
+          "id_str": "1665740654104780807",
+          "id": "1665740654104780807",
+          "media_url_https": "https://pbs.twimg.com/media/Fx3mTKfXoAcdHL7.jpg",
+          "sizes": {
+            "large": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "669",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VTjQZ3eWZT"
+        }
+      ]
+    }
+  }
+}

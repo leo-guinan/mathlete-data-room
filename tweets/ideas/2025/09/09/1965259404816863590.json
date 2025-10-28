@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1965259404816863590"
+        ],
+        "editableUntil": "2025-09-09T04:42:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1965259404816863590/photo/1",
+          "indices": [
+            "181",
+            "204"
+          ],
+          "url": "https://t.co/uVF2kmofJA",
+          "media_url": "http://pbs.twimg.com/media/G0YAk-zXgAAThYu.png",
+          "id_str": "1965258922727538688",
+          "id": "1965258922727538688",
+          "media_url_https": "https://pbs.twimg.com/media/G0YAk-zXgAAThYu.png",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "929",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "544",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "308",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uVF2kmofJA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "204"
+    ],
+    "favorite_count": "3",
+    "id_str": "1965259404816863590",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1965259404816863590",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 09 03:42:09 +0000 2025",
+    "favorited": false,
+    "full_text": "An artist's statement for my new project\n\nIt's time to figure out how to be great. What does it mean to become a true master of one's art?\n\nI don't know. But I'm going to find out. https://t.co/uVF2kmofJA",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1965259404816863590/photo/1",
+          "indices": [
+            "181",
+            "204"
+          ],
+          "url": "https://t.co/uVF2kmofJA",
+          "media_url": "http://pbs.twimg.com/media/G0YAk-zXgAAThYu.png",
+          "id_str": "1965258922727538688",
+          "id": "1965258922727538688",
+          "media_url_https": "https://pbs.twimg.com/media/G0YAk-zXgAAThYu.png",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "929",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "544",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "308",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uVF2kmofJA"
+        }
+      ]
+    }
+  }
+}

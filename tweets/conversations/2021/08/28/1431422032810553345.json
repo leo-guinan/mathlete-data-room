@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1431422032810553345"
+        ],
+        "editableUntil": "2021-08-28T02:03:01.814Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Overlooked Ventures",
+          "screen_name": "OverlookedVC",
+          "indices": [
+            "12",
+            "25"
+          ],
+          "id_str": "1036213437611892736",
+          "id": "1036213437611892736"
+        },
+        {
+          "name": "Ⓞrbit",
+          "screen_name": "OrbitModel",
+          "indices": [
+            "38",
+            "49"
+          ],
+          "id_str": "1012355031549513728",
+          "id": "1012355031549513728"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bzkHUNjWRW",
+          "expanded_url": "https://feathercrm.io",
+          "display_url": "feathercrm.io",
+          "indices": [
+            "63",
+            "86"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "316"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1431421153252417537",
+    "id_str": "1431422032810553345",
+    "in_reply_to_user_id": "1218996709432406017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1431422032810553345",
+    "in_reply_to_status_id": "1431421153252417537",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 28 01:03:01 +0000 2021",
+    "favorited": false,
+    "full_text": "@nocodedevs @OverlookedVC @feathercrm @OrbitModel @feathercrm (https://t.co/bzkHUNjWRW)\n\nRight now, you sign up and link your Twitter account, and the app will pull in your followers/following. Then you can tag users and send a single DM to multiple users. \n\nFYI: not mobile friendly yet. That's on the roadmap soon.",
+    "lang": "en",
+    "in_reply_to_screen_name": "MakerThrive",
+    "in_reply_to_user_id_str": "1218996709432406017"
+  }
+}

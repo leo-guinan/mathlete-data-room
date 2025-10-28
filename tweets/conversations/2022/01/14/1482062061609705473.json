@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482062061609705473"
+        ],
+        "editableUntil": "2022-01-14T19:48:25.526Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mike Templeton 🛒",
+          "screen_name": "miketempleton",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "11577712",
+          "id": "11577712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1482062061609705473",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482062061609705473",
+    "created_at": "Fri Jan 14 18:48:25 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @miketempleton: This applies to any account on Twitter — business, brand or personal. Twitter is about creating and building on connecti…",
+    "lang": "en"
+  }
+}

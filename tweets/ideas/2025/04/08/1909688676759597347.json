@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1909688676759597347"
+        ],
+        "editableUntil": "2025-04-08T20:23:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909688676759597347/photo/1",
+          "indices": [
+            "270",
+            "293"
+          ],
+          "url": "https://t.co/scEdQRdEro",
+          "media_url": "http://pbs.twimg.com/media/GoCTpOPWQAAqGuT.jpg",
+          "id_str": "1909688578411479040",
+          "id": "1909688578411479040",
+          "media_url_https": "https://pbs.twimg.com/media/GoCTpOPWQAAqGuT.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1198",
+              "h": "1598",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/scEdQRdEro"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "9",
+    "id_str": "1909688676759597347",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1909688676759597347",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 08 19:23:55 +0000 2025",
+    "favorited": false,
+    "full_text": "I've never stayed for my own recognition ceremonies. \n\nSkipped my Eagle Scout court of honor. Never walked at either college graduation. Always felt disconnected from the institutions that were supposedly validating me.\n\nI thought these rituals were meaningless. I was… https://t.co/scEdQRdEro",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909688676759597347/photo/1",
+          "indices": [
+            "270",
+            "293"
+          ],
+          "url": "https://t.co/scEdQRdEro",
+          "media_url": "http://pbs.twimg.com/media/GoCTpOPWQAAqGuT.jpg",
+          "id_str": "1909688578411479040",
+          "id": "1909688578411479040",
+          "media_url_https": "https://pbs.twimg.com/media/GoCTpOPWQAAqGuT.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1198",
+              "h": "1598",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/scEdQRdEro"
+        }
+      ]
+    }
+  }
+}

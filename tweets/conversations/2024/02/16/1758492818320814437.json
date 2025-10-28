@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1758492818320814437"
+        ],
+        "editableUntil": "2024-02-16T15:05:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1758492818320814437/photo/1",
+          "indices": [
+            "94",
+            "117"
+          ],
+          "url": "https://t.co/RVbC7WY1JO",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GGdr5V0WYAA4lrn.jpg",
+          "id_str": "1758492812364898304",
+          "id": "1758492812364898304",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GGdr5V0WYAA4lrn.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "276",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "276",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "276",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RVbC7WY1JO"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "117"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1758491422733283575",
+    "id_str": "1758492818320814437",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1758492818320814437",
+    "in_reply_to_status_id": "1758491422733283575",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 16 14:05:33 +0000 2024",
+    "favorited": false,
+    "full_text": "@dagorenouf French AND a memelord?\n\nDamn, Dago. Save some of the hot bots for the rest of us. https://t.co/RVbC7WY1JO",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1758492818320814437/photo/1",
+          "indices": [
+            "94",
+            "117"
+          ],
+          "url": "https://t.co/RVbC7WY1JO",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GGdr5V0WYAA4lrn.jpg",
+          "id_str": "1758492812364898304",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "46"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GGdr5V0WYAA4lrn.mp4"
+              }
+            ]
+          },
+          "id": "1758492812364898304",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GGdr5V0WYAA4lrn.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "276",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "276",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "276",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/RVbC7WY1JO"
+        }
+      ]
+    }
+  }
+}

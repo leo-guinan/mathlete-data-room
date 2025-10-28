@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1865434439481786770"
+        ],
+        "editableUntil": "2024-12-07T17:33:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nat Eliason",
+          "screen_name": "nateliason",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "19032289",
+          "id": "19032289"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "103"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1865416633671393680",
+    "id_str": "1865434439481786770",
+    "in_reply_to_user_id": "19032289",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1865434439481786770",
+    "in_reply_to_status_id": "1865416633671393680",
+    "created_at": "Sat Dec 07 16:33:23 +0000 2024",
+    "favorited": false,
+    "full_text": "@nateliason Just realized i do both of those things without thinking about it.\n\nInteresting consistency",
+    "lang": "en",
+    "in_reply_to_screen_name": "nateliason",
+    "in_reply_to_user_id_str": "19032289"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1467936453808336906"
+        ],
+        "editableUntil": "2021-12-06T20:18:18.185Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/utMP2zCFtl",
+          "expanded_url": "https://x.com/mgattozzi/status/1467652163916771332",
+          "display_url": "x.com/mgattozzi/stat…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1467936453808336906/photo/1",
+          "indices": [
+            "99",
+            "122"
+          ],
+          "url": "https://t.co/scUQs8zA0R",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FF8oa_7XwAA0_4a.jpg",
+          "id_str": "1467936447848235008",
+          "id": "1467936447848235008",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF8oa_7XwAA0_4a.jpg",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/scUQs8zA0R"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "122"
+    ],
+    "favorite_count": "0",
+    "id_str": "1467936453808336906",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1467936453808336906",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 06 19:18:18 +0000 2021",
+    "favorited": false,
+    "full_text": "Some great stuff in this thread. We make it way too hard in so many cases. https://t.co/utMP2zCFtl https://t.co/scUQs8zA0R",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1467936453808336906/photo/1",
+          "indices": [
+            "99",
+            "122"
+          ],
+          "url": "https://t.co/scUQs8zA0R",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FF8oa_7XwAA0_4a.jpg",
+          "id_str": "1467936447848235008",
+          "video_info": {
+            "aspect_ratio": [
+              "1",
+              "1"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FF8oa_7XwAA0_4a.mp4"
+              }
+            ]
+          },
+          "id": "1467936447848235008",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FF8oa_7XwAA0_4a.jpg",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/scUQs8zA0R"
+        }
+      ]
+    }
+  }
+}

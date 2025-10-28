@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1564788775594725377"
+        ],
+        "editableUntil": "2022-08-31T02:04:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1564788775594725377/photo/1",
+          "indices": [
+            "168",
+            "191"
+          ],
+          "url": "https://t.co/9TsxiHHSQi",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fbc_FysWYAYcw0m.jpg",
+          "id_str": "1564788764274221062",
+          "id": "1564788764274221062",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fbc_FysWYAYcw0m.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "322",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "322",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "322",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/9TsxiHHSQi"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "191"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1564785950722506754",
+    "id_str": "1564788775594725377",
+    "in_reply_to_user_id": "280523147",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1564788775594725377",
+    "in_reply_to_status_id": "1564785950722506754",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 31 01:34:51 +0000 2022",
+    "favorited": false,
+    "full_text": "@tshubillabong @ADHD_Senpai It's impossible to distill our immense personalities into a single sentence,  so that's as good as (and probably a lot better) than others! https://t.co/9TsxiHHSQi",
+    "lang": "en",
+    "in_reply_to_screen_name": "tshubillabong",
+    "in_reply_to_user_id_str": "280523147",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1564788775594725377/photo/1",
+          "indices": [
+            "168",
+            "191"
+          ],
+          "url": "https://t.co/9TsxiHHSQi",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fbc_FysWYAYcw0m.jpg",
+          "id_str": "1564788764274221062",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "161"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Fbc_FysWYAYcw0m.mp4"
+              }
+            ]
+          },
+          "id": "1564788764274221062",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fbc_FysWYAYcw0m.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "322",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "322",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "322",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/9TsxiHHSQi"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1759266892995289374"
+        ],
+        "editableUntil": "2024-02-18T18:21:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zack",
+          "screen_name": "HackingBaseball",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1081866076726743040",
+          "id": "1081866076726743040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1759266283760025812",
+    "id_str": "1759266892995289374",
+    "in_reply_to_user_id": "1081866076726743040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1759266892995289374",
+    "in_reply_to_status_id": "1759266283760025812",
+    "created_at": "Sun Feb 18 17:21:27 +0000 2024",
+    "favorited": false,
+    "full_text": "@HackingBaseball It's all just made up.  Convince people to give you some amount of money and deliver them some results.\n\nAlmost impossible to tell if it was worth it.\n\nEverybody is just playing their role.",
+    "lang": "en",
+    "in_reply_to_screen_name": "HackingBaseball",
+    "in_reply_to_user_id_str": "1081866076726743040"
+  }
+}

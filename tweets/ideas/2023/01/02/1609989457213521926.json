@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1609989457213521926"
+        ],
+        "editableUntil": "2023-01-02T19:36:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "2",
+    "id_str": "1609989457213521926",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1609989457213521926",
+    "created_at": "Mon Jan 02 19:06:13 +0000 2023",
+    "favorited": false,
+    "full_text": "Playing some whack-a-mole with bugs right now for Who Followed Me?.\n\nFixed an issue yesterday and woke up to three new ones today.\n\nApparently hit a few edge cases...",
+    "lang": "en"
+  }
+}

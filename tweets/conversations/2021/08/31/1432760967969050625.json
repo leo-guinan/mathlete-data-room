@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432760967969050625"
+        ],
+        "editableUntil": "2021-08-31T18:43:28.832Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "LB",
+          "screen_name": "beyondbrandable",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "912518793477410816",
+          "id": "912518793477410816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1432750415452545026",
+    "id_str": "1432760967969050625",
+    "in_reply_to_user_id": "912518793477410816",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432760967969050625",
+    "in_reply_to_status_id": "1432750415452545026",
+    "created_at": "Tue Aug 31 17:43:28 +0000 2021",
+    "favorited": false,
+    "full_text": "@beyondbrandable Time zones are the worst...",
+    "lang": "en",
+    "in_reply_to_screen_name": "beyondbrandable",
+    "in_reply_to_user_id_str": "912518793477410816"
+  }
+}

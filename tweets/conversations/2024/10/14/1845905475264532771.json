@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1845905475264532771"
+        ],
+        "editableUntil": "2024-10-14T20:12:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1844189383072809308",
+    "id_str": "1845905475264532771",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1845905475264532771",
+    "in_reply_to_status_id": "1844189383072809308",
+    "created_at": "Mon Oct 14 19:12:15 +0000 2024",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Haha, was the result of walking around the county fair, wondering about what kind of person would eat some of the assorted offerings, and what products could be a nice pairing.\n\nWith the newly legalized substance, I think I found hypothetical product market fit 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

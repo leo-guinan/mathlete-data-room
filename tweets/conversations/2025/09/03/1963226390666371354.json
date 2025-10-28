@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1963226390666371354"
+        ],
+        "editableUntil": "2025-09-03T14:03:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "15",
+            "29"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xF7vNRpSI6",
+          "expanded_url": "https://x.com/leo_guinan/status/1963226289872998428",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "53",
+            "76"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "0",
+    "id_str": "1963226390666371354",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1963226390666371354",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 03 13:03:41 +0000 2025",
+    "favorited": false,
+    "full_text": "Going to try a @ChrisChipMonk-style bounty offering. https://t.co/xF7vNRpSI6",
+    "lang": "en"
+  }
+}

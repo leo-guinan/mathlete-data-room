@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768327697959194994"
+        ],
+        "editableUntil": "2024-03-14T18:25:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1768327390038528304",
+    "id_str": "1768327697959194994",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768327697959194994",
+    "in_reply_to_status_id": "1768327390038528304",
+    "created_at": "Thu Mar 14 17:25:51 +0000 2024",
+    "favorited": false,
+    "full_text": "@hellostartupla Given the answer to those three things and a brief rundown of what your business is, I can give you a plan that will allow you to reach that.\n\nObviously the lower amount you want to invest and the more crunched the timelines, the lower the probability of success. But doable.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

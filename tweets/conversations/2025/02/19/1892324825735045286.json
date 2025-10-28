@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892324825735045286"
+        ],
+        "editableUntil": "2025-02-19T22:26:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1892323906565931044",
+    "id_str": "1892324825735045286",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892324825735045286",
+    "in_reply_to_status_id": "1892323906565931044",
+    "created_at": "Wed Feb 19 21:26:10 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic this is all of my tweets + replies (through 10/24 at least)\n\nI looked at all of the outlier clusters and immediately identified something that almost all of the outlier clusters had in common (a couple of of them don't fit the pattern)",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

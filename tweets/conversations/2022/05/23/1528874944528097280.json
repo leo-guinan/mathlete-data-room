@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1528874944528097280"
+        ],
+        "editableUntil": "2022-05-23T23:36:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Samy Dindane",
+          "screen_name": "SamyDindane",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "40318534",
+          "id": "40318534"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zEfjvUnzvG",
+          "expanded_url": "https://saasfactory.substack.com",
+          "display_url": "saasfactory.substack.com",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1528755455660539905",
+    "id_str": "1528874944528097280",
+    "in_reply_to_user_id": "40318534",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1528874944528097280",
+    "in_reply_to_status_id": "1528755455660539905",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 23 23:06:06 +0000 2022",
+    "favorited": false,
+    "full_text": "@SamyDindane 👋 I'm Leo.\n\nBuilding @feathercrm \n\nWriting The SaaS Factory - https://t.co/zEfjvUnzvG",
+    "lang": "en",
+    "in_reply_to_screen_name": "SamyDindane",
+    "in_reply_to_user_id_str": "40318534"
+  }
+}

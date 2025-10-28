@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1926861525765009818"
+        ],
+        "editableUntil": "2025-05-26T05:42:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jan Wilmake",
+          "screen_name": "janwilmake",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "153933445",
+          "id": "153933445"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1926861525765009818/photo/1",
+          "indices": [
+            "290",
+            "313"
+          ],
+          "url": "https://t.co/zuGuRgvDWe",
+          "media_url": "http://pbs.twimg.com/media/Gr2WNOdWgAIAUAu.jpg",
+          "id_str": "1926861369548111874",
+          "id": "1926861369548111874",
+          "media_url_https": "https://pbs.twimg.com/media/Gr2WNOdWgAIAUAu.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1128",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1838",
+              "h": "1728",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "639",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/zuGuRgvDWe"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "313"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1926509554704978074",
+    "id_str": "1926861525765009818",
+    "in_reply_to_user_id": "153933445",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1926861525765009818",
+    "in_reply_to_status_id": "1926509554704978074",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 26 04:42:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@janwilmake Let's!\n\nIn this case, let's work together on a time machine that will take this social media platform back to the good days. 😉\n\nI think we can build this quite easily on top of what you did with the xchat DOs. \n\nI'll have a repo set up in the next day or two with more details. https://t.co/zuGuRgvDWe",
+    "lang": "en",
+    "in_reply_to_screen_name": "janwilmake",
+    "in_reply_to_user_id_str": "153933445",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1926861525765009818/photo/1",
+          "indices": [
+            "290",
+            "313"
+          ],
+          "url": "https://t.co/zuGuRgvDWe",
+          "media_url": "http://pbs.twimg.com/media/Gr2WNOdWgAIAUAu.jpg",
+          "id_str": "1926861369548111874",
+          "id": "1926861369548111874",
+          "media_url_https": "https://pbs.twimg.com/media/Gr2WNOdWgAIAUAu.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1128",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1838",
+              "h": "1728",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "639",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/zuGuRgvDWe"
+        }
+      ]
+    }
+  }
+}

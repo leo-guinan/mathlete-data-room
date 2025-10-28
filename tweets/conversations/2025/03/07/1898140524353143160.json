@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898140524353143160"
+        ],
+        "editableUntil": "2025-03-07T23:35:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "27 — floofy/acc 🦝📈🚀",
+          "screen_name": "happysmash27",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "707430773754875904",
+          "id": "707430773754875904"
+        },
+        {
+          "name": "tbt",
+          "screen_name": "TechBroTino",
+          "indices": [
+            "14",
+            "26"
+          ],
+          "id_str": "1732071117798404096",
+          "id": "1732071117798404096"
+        },
+        {
+          "name": "the tiny corp",
+          "screen_name": "__tinygrad__",
+          "indices": [
+            "27",
+            "40"
+          ],
+          "id_str": "1674187388825006082",
+          "id": "1674187388825006082"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pqFmy2cfpu",
+          "expanded_url": "http://maketheinternetweirdagain.com",
+          "display_url": "maketheinternetweirdagain.com",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898139949280772539",
+    "id_str": "1898140524353143160",
+    "in_reply_to_user_id": "707430773754875904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898140524353143160",
+    "in_reply_to_status_id": "1898139949280772539",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 07 22:35:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@happysmash27 @TechBroTino @__tinygrad__ Go to https://t.co/pqFmy2cfpu and sign up for the email newsletter. \n\nThings are starting to move.",
+    "lang": "en",
+    "in_reply_to_screen_name": "happysmash27",
+    "in_reply_to_user_id_str": "707430773754875904"
+  }
+}

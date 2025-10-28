@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922446800935415904"
+        ],
+        "editableUntil": "2025-05-14T01:20:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922446800935415904/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/geJNRAdWT4",
+          "media_url": "http://pbs.twimg.com/media/Gq3m9IPXAAE9kYZ.png",
+          "id_str": "1922446553815384065",
+          "id": "1922446553815384065",
+          "media_url_https": "https://pbs.twimg.com/media/Gq3m9IPXAAE9kYZ.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "919",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1552",
+              "h": "1188",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "521",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/geJNRAdWT4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "1",
+    "id_str": "1922446800935415904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922446800935415904",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 14 00:20:09 +0000 2025",
+    "favorited": false,
+    "full_text": "New paper in the works.\n\nIt's a bit more complex, so I'm looking for some early reviewers.\n\nThis is the research I'm going to use to build my time machine.\n\nhmu if you want early access to it. https://t.co/geJNRAdWT4",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922446800935415904/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/geJNRAdWT4",
+          "media_url": "http://pbs.twimg.com/media/Gq3m9IPXAAE9kYZ.png",
+          "id_str": "1922446553815384065",
+          "id": "1922446553815384065",
+          "media_url_https": "https://pbs.twimg.com/media/Gq3m9IPXAAE9kYZ.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "919",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1552",
+              "h": "1188",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "521",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/geJNRAdWT4"
+        }
+      ]
+    }
+  }
+}

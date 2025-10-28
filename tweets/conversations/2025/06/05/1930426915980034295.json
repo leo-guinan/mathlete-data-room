@@ -1,0 +1,129 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930426915980034295"
+        ],
+        "editableUntil": "2025-06-05T01:50:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ThjCiVYYP8",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/papers/Network%20Relativity/Network%20Relativity%20Theory.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "219",
+            "242"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930426915980034295/photo/1",
+          "indices": [
+            "243",
+            "266"
+          ],
+          "url": "https://t.co/mxOpkwUY3H",
+          "media_url": "http://pbs.twimg.com/media/Gso-puiXoAAPowg.jpg",
+          "id_str": "1930424276869423104",
+          "id": "1930424276869423104",
+          "media_url_https": "https://pbs.twimg.com/media/Gso-puiXoAAPowg.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "483",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "852",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1453",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mxOpkwUY3H"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930426914079924299",
+    "id_str": "1930426915980034295",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930426915980034295",
+    "in_reply_to_status_id": "1930426914079924299",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 00:50:17 +0000 2025",
+    "favorited": false,
+    "full_text": "Instead, you need to be able to track the value of all the holders over time, to see if everyone's is moving at the same rate. That's the sign of a fair economy. \n\nI realized that when I figured out network relativity.\nhttps://t.co/ThjCiVYYP8 https://t.co/mxOpkwUY3H",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930426915980034295/photo/1",
+          "indices": [
+            "243",
+            "266"
+          ],
+          "url": "https://t.co/mxOpkwUY3H",
+          "media_url": "http://pbs.twimg.com/media/Gso-puiXoAAPowg.jpg",
+          "id_str": "1930424276869423104",
+          "id": "1930424276869423104",
+          "media_url_https": "https://pbs.twimg.com/media/Gso-puiXoAAPowg.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "483",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "852",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1453",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mxOpkwUY3H"
+        }
+      ]
+    }
+  }
+}

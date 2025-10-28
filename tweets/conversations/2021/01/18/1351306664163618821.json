@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1351306664163618821"
+        ],
+        "editableUntil": "2021-01-19T00:13:09.457Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Gabe Ragland",
+          "screen_name": "gabe_ragland",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "274068895",
+          "id": "274068895"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/gabe_ragland/status/1351276371276750849/photo/1",
+          "source_status_id": "1351276371276750849",
+          "indices": [
+            "44",
+            "67"
+          ],
+          "url": "https://t.co/ThdopjEdQa",
+          "media_url": "http://pbs.twimg.com/media/EsCye8JVQAEA6ze.jpg",
+          "id_str": "1351276132822237185",
+          "source_user_id": "274068895",
+          "id": "1351276132822237185",
+          "media_url_https": "https://pbs.twimg.com/media/EsCye8JVQAEA6ze.jpg",
+          "source_user_id_str": "274068895",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "189",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1318",
+              "h": "366",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "333",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1351276371276750849",
+          "display_url": "pic.x.com/ThdopjEdQa"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "0",
+    "id_str": "1351306664163618821",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1351306664163618821",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 18 23:13:09 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @gabe_ragland: Let's see what happens... https://t.co/ThdopjEdQa",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/gabe_ragland/status/1351276371276750849/photo/1",
+          "source_status_id": "1351276371276750849",
+          "indices": [
+            "44",
+            "67"
+          ],
+          "url": "https://t.co/ThdopjEdQa",
+          "media_url": "http://pbs.twimg.com/media/EsCye8JVQAEA6ze.jpg",
+          "id_str": "1351276132822237185",
+          "source_user_id": "274068895",
+          "id": "1351276132822237185",
+          "media_url_https": "https://pbs.twimg.com/media/EsCye8JVQAEA6ze.jpg",
+          "source_user_id_str": "274068895",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "189",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1318",
+              "h": "366",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "333",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1351276371276750849",
+          "display_url": "pic.x.com/ThdopjEdQa"
+        }
+      ]
+    }
+  }
+}

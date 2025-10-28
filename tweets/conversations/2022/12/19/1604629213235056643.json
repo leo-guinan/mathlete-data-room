@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1604629213235056643"
+        ],
+        "editableUntil": "2022-12-19T00:36:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "maricris bonzo",
+          "screen_name": "seemcat",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "846492418778132480",
+          "id": "846492418778132480"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "24",
+            "36"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "197"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1604547988486909952",
+    "id_str": "1604629213235056643",
+    "in_reply_to_user_id": "846492418778132480",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1604629213235056643",
+    "in_reply_to_status_id": "1604547988486909952",
+    "created_at": "Mon Dec 19 00:06:31 +0000 2022",
+    "favorited": false,
+    "full_text": "@seemcat @DarbyBaileyXO @_buildspace Awesome, thanks for that feedback! \n\nI'm building it to scratch my own itch (I hate writing show notes), and I thought it would be really useful for others too!",
+    "lang": "en",
+    "in_reply_to_screen_name": "seemcat",
+    "in_reply_to_user_id_str": "846492418778132480"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499368270733979658"
+        ],
+        "editableUntil": "2022-03-03T13:57:07.315Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1499355265636122624",
+    "id_str": "1499368270733979658",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499368270733979658",
+    "in_reply_to_status_id": "1499355265636122624",
+    "created_at": "Thu Mar 03 12:57:07 +0000 2022",
+    "favorited": false,
+    "full_text": "@JustinAllingham I'll definitely vouch for that. 🔥",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

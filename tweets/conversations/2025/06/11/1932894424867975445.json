@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932894424867975445"
+        ],
+        "editableUntil": "2025-06-11T21:15:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dan Schoonmaker",
+          "screen_name": "DanSchoonmaker",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "15675105",
+          "id": "15675105"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4RX3ztwhmK",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/welcome-to-day-1-of-the-future",
+          "display_url": "hitchhikertothefuture.substack.com/p/welcome-to-d…",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1932893058263040231",
+    "id_str": "1932894424867975445",
+    "in_reply_to_user_id": "15675105",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932894424867975445",
+    "in_reply_to_status_id": "1932893058263040231",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 11 20:15:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@DanSchoonmaker If you really want fun, here’s the whole breakdown. That’s the answer to five years of questions. \n\nhttps://t.co/4RX3ztwhmK",
+    "lang": "en",
+    "in_reply_to_screen_name": "DanSchoonmaker",
+    "in_reply_to_user_id_str": "15675105"
+  }
+}

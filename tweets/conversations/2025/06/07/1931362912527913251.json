@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931362912527913251"
+        ],
+        "editableUntil": "2025-06-07T15:49:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Emily",
+          "screen_name": "EmilybyNight",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "125374868",
+          "id": "125374868"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1931066858108506165",
+    "id_str": "1931362912527913251",
+    "in_reply_to_user_id": "125374868",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931362912527913251",
+    "in_reply_to_status_id": "1931066858108506165",
+    "created_at": "Sat Jun 07 14:49:35 +0000 2025",
+    "favorited": false,
+    "full_text": "@EmilybyNight I wonder if it’s a memetic signal of safety. It’s like hearing someone else pee, so it’s a signal to the body that it’s time. \n\nDefinitely think it’s an input that isn’t being validated right.",
+    "lang": "en",
+    "in_reply_to_screen_name": "EmilybyNight",
+    "in_reply_to_user_id_str": "125374868"
+  }
+}

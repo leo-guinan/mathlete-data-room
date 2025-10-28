@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1696320986470080954"
+        ],
+        "editableUntil": "2023-08-29T01:36:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Frank Elda | Build Your Freedom",
+          "screen_name": "frankelda1",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1278752707944251394",
+          "id": "1278752707944251394"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "220"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1694825365015855282",
+    "id_str": "1696320986470080954",
+    "in_reply_to_user_id": "1278752707944251394",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1696320986470080954",
+    "in_reply_to_status_id": "1694825365015855282",
+    "created_at": "Tue Aug 29 00:36:53 +0000 2023",
+    "favorited": false,
+    "full_text": "@FrankElda1 This is 100% true for me. I tend to pack things in badly, which is fine as long as everything is flowing well. But then if something goes wonky, everything else tends to fall apart. \n\nI need to improve there.",
+    "lang": "en",
+    "in_reply_to_screen_name": "frankelda1",
+    "in_reply_to_user_id_str": "1278752707944251394"
+  }
+}

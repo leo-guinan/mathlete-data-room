@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941681212059234480"
+        ],
+        "editableUntil": "2025-07-06T03:10:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "xenocide — e/acc ⏩",
+          "screen_name": "whoistheUnifier",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "896053334",
+          "id": "896053334"
+        },
+        {
+          "name": "Beff – e/acc",
+          "screen_name": "BasedBeffJezos",
+          "indices": [
+            "17",
+            "32"
+          ],
+          "id_str": "1556550048862928898",
+          "id": "1556550048862928898"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941681212059234480/photo/1",
+          "indices": [
+            "315",
+            "338"
+          ],
+          "url": "https://t.co/wWfU6fTYeh",
+          "media_url": "http://pbs.twimg.com/media/GvI8xYtW4AAZEPB.jpg",
+          "id_str": "1941681208494055424",
+          "id": "1941681208494055424",
+          "media_url_https": "https://pbs.twimg.com/media/GvI8xYtW4AAZEPB.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wWfU6fTYeh"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "338"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1941672794330423554",
+    "id_str": "1941681212059234480",
+    "in_reply_to_user_id": "896053334",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941681212059234480",
+    "in_reply_to_status_id": "1941672794330423554",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 02:10:50 +0000 2025",
+    "favorited": false,
+    "full_text": "@whoistheUnifier @BasedBeffJezos Best way is to sign up for my consulting offering for ChatGPT prices. You give me problems you don’t want to solve via text or video chat and I help you solve them. It’s how I’m prioritizing builds, so you basically get custom infrastructure for a steal. I just ask that you share… https://t.co/wWfU6fTYeh",
+    "lang": "en",
+    "in_reply_to_screen_name": "whoistheUnifier",
+    "in_reply_to_user_id_str": "896053334",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941681212059234480/photo/1",
+          "indices": [
+            "315",
+            "338"
+          ],
+          "url": "https://t.co/wWfU6fTYeh",
+          "media_url": "http://pbs.twimg.com/media/GvI8xYtW4AAZEPB.jpg",
+          "id_str": "1941681208494055424",
+          "id": "1941681208494055424",
+          "media_url_https": "https://pbs.twimg.com/media/GvI8xYtW4AAZEPB.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wWfU6fTYeh"
+        }
+      ]
+    }
+  }
+}

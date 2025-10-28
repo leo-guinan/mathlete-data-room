@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1417966611852582915"
+        ],
+        "editableUntil": "2021-07-21T22:55:59.468Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zack Gleeson",
+          "screen_name": "zackgleeson",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "453673757",
+          "id": "453673757"
+        },
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "13",
+            "28"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        },
+        {
+          "name": "Super",
+          "screen_name": "superdotfans",
+          "indices": [
+            "29",
+            "42"
+          ],
+          "id_str": "1382203111255674881",
+          "id": "1382203111255674881"
+        },
+        {
+          "name": "Corinne Marie Riley",
+          "screen_name": "CorinneMRiley",
+          "indices": [
+            "43",
+            "57"
+          ],
+          "id_str": "744615480",
+          "id": "744615480"
+        },
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "62",
+            "77"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "100"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1417941211567034369",
+    "id_str": "1417966611852582915",
+    "in_reply_to_user_id": "453673757",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1417966611852582915",
+    "in_reply_to_status_id": "1417941211567034369",
+    "created_at": "Wed Jul 21 21:55:59 +0000 2021",
+    "favorited": false,
+    "full_text": "@zackgleeson @fernandoparnes @superdotfans @CorinneMRiley +1. @fernandoparnes is doing awesome work!",
+    "lang": "en",
+    "in_reply_to_screen_name": "zackgleeson",
+    "in_reply_to_user_id_str": "453673757"
+  }
+}

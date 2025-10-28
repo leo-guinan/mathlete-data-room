@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1392290839414677509"
+        ],
+        "editableUntil": "2021-05-12T02:29:38.286Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "parnesfernando",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "78612413",
+          "id": "78612413"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "48"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1392286249856114689",
+    "id_str": "1392290839414677509",
+    "in_reply_to_user_id": "1136454673521528832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1392290839414677509",
+    "in_reply_to_status_id": "1392286249856114689",
+    "created_at": "Wed May 12 01:29:38 +0000 2021",
+    "favorited": false,
+    "full_text": "@ParnesFernando Absolutely! I'd love to do that!",
+    "lang": "en",
+    "in_reply_to_screen_name": "fernandoparnes",
+    "in_reply_to_user_id_str": "1136454673521528832"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1528695341847126018"
+        ],
+        "editableUntil": "2022-05-23T11:42:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/tz8YgMhd7l",
+          "expanded_url": "https://x.com/radavics/status/1528638700405784576",
+          "display_url": "x.com/radavics/statu…",
+          "indices": [
+            "35",
+            "58"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "2",
+    "id_str": "1528695341847126018",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1528695341847126018",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 23 11:12:25 +0000 2022",
+    "favorited": false,
+    "full_text": "Everyone should go upvote Intribe! https://t.co/tz8YgMhd7l",
+    "lang": "en"
+  }
+}

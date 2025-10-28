@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1915456178143834292"
+        ],
+        "editableUntil": "2025-04-24T18:21:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1915456178143834292/photo/1",
+          "indices": [
+            "33",
+            "56"
+          ],
+          "url": "https://t.co/O4ZJbyP0fF",
+          "media_url": "http://pbs.twimg.com/media/GpURLPnWUAAXA9P.jpg",
+          "id_str": "1915456101383819264",
+          "id": "1915456101383819264",
+          "media_url_https": "https://pbs.twimg.com/media/GpURLPnWUAAXA9P.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "581",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1276",
+              "h": "1090",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1025",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/O4ZJbyP0fF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "3",
+    "id_str": "1915456178143834292",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1915456178143834292",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 24 17:21:54 +0000 2025",
+    "favorited": false,
+    "full_text": "New paper getting ready to drop. https://t.co/O4ZJbyP0fF",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1915456178143834292/photo/1",
+          "indices": [
+            "33",
+            "56"
+          ],
+          "url": "https://t.co/O4ZJbyP0fF",
+          "media_url": "http://pbs.twimg.com/media/GpURLPnWUAAXA9P.jpg",
+          "id_str": "1915456101383819264",
+          "id": "1915456101383819264",
+          "media_url_https": "https://pbs.twimg.com/media/GpURLPnWUAAXA9P.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "581",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1276",
+              "h": "1090",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1025",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/O4ZJbyP0fF"
+        }
+      ]
+    }
+  }
+}

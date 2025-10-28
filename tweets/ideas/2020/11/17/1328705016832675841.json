@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328705016832675841"
+        ],
+        "editableUntil": "2020-11-17T15:22:16.815Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DpokLkOXwk",
+          "expanded_url": "https://link.medium.com/QjC4ogKupbb",
+          "display_url": "link.medium.com/QjC4ogKupbb",
+          "indices": [
+            "43",
+            "66"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328705016832675841",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328705016832675841",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 17 14:22:16 +0000 2020",
+    "favorited": false,
+    "full_text": "Reflecting on My Startup Journey: Week One https://t.co/DpokLkOXwk",
+    "lang": "en"
+  }
+}

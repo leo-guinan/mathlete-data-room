@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381232299853946880"
+        ],
+        "editableUntil": "2021-04-11T14:06:56.997Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "nader dabit",
+          "screen_name": "dabit3",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "17189394",
+          "id": "17189394"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/dabit3/status/1380998026794176512/photo/1",
+          "source_status_id": "1380998026794176512",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/0E6Z3Scog3",
+          "media_url": "http://pbs.twimg.com/media/EypKS5cXIAYltEn.jpg",
+          "id_str": "1380997924260356102",
+          "source_user_id": "17189394",
+          "id": "1380997924260356102",
+          "media_url_https": "https://pbs.twimg.com/media/EypKS5cXIAYltEn.jpg",
+          "source_user_id_str": "17189394",
+          "sizes": {
+            "medium": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1380998026794176512",
+          "display_url": "pic.x.com/0E6Z3Scog3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "0",
+    "id_str": "1381232299853946880",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381232299853946880",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 11 13:06:56 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @dabit3: My GitHub projects https://t.co/0E6Z3Scog3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/dabit3/status/1380998026794176512/photo/1",
+          "source_status_id": "1380998026794176512",
+          "indices": [
+            "31",
+            "54"
+          ],
+          "url": "https://t.co/0E6Z3Scog3",
+          "media_url": "http://pbs.twimg.com/media/EypKS5cXIAYltEn.jpg",
+          "id_str": "1380997924260356102",
+          "source_user_id": "17189394",
+          "id": "1380997924260356102",
+          "media_url_https": "https://pbs.twimg.com/media/EypKS5cXIAYltEn.jpg",
+          "source_user_id_str": "17189394",
+          "sizes": {
+            "medium": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1380998026794176512",
+          "display_url": "pic.x.com/0E6Z3Scog3"
+        }
+      ]
+    }
+  }
+}

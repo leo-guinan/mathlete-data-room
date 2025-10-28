@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942749710953144347"
+        ],
+        "editableUntil": "2025-07-09T01:56:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "active resonator",
+          "screen_name": "loopholekid",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1915273423",
+          "id": "1915273423"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1942749447848436048",
+    "id_str": "1942749710953144347",
+    "in_reply_to_user_id": "1915273423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942749710953144347",
+    "in_reply_to_status_id": "1942749447848436048",
+    "created_at": "Wed Jul 09 00:56:40 +0000 2025",
+    "favorited": false,
+    "full_text": "@loopholekid Ok. That’s a good idea!\n\nLaser coming online now.",
+    "lang": "en",
+    "in_reply_to_screen_name": "loopholekid",
+    "in_reply_to_user_id_str": "1915273423"
+  }
+}

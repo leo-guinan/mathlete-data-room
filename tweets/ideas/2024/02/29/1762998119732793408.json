@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1762998119732793408"
+        ],
+        "editableUntil": "2024-02-29T01:28:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "LeoOnTour",
+          "indices": [
+            "0",
+            "10"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IEmHakeEw7",
+          "expanded_url": "https://x.com/jessyka_boat/status/1762989472604704968",
+          "display_url": "x.com/jessyka_boat/s…",
+          "indices": [
+            "11",
+            "34"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "34"
+    ],
+    "favorite_count": "0",
+    "id_str": "1762998119732793408",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1762998119732793408",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 29 00:28:01 +0000 2024",
+    "favorited": false,
+    "full_text": "#LeoOnTour https://t.co/IEmHakeEw7",
+    "lang": "qht"
+  }
+}

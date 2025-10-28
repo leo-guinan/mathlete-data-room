@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1682419990824099841"
+        ],
+        "editableUntil": "2023-07-21T16:59:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nr0ZFC51Hp",
+          "expanded_url": "https://youtu.be/yDePhaLJ6h0",
+          "display_url": "youtu.be/yDePhaLJ6h0",
+          "indices": [
+            "82",
+            "105"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "2",
+    "id_str": "1682419990824099841",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1682419990824099841",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 21 15:59:18 +0000 2023",
+    "favorited": false,
+    "full_text": "New video dropping in an hour: reflections on how tech is changing our behavior.\n\nhttps://t.co/nr0ZFC51Hp",
+    "lang": "en"
+  }
+}

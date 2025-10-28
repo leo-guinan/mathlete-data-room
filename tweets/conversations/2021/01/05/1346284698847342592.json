@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346284698847342592"
+        ],
+        "editableUntil": "2021-01-05T03:37:39.622Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Turner Novak 🍌🧢",
+          "screen_name": "TurnerNovak",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "35647451",
+          "id": "35647451"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "29"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1346284432051810304",
+    "id_str": "1346284698847342592",
+    "in_reply_to_user_id": "35647451",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346284698847342592",
+    "in_reply_to_status_id": "1346284432051810304",
+    "created_at": "Tue Jan 05 02:37:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@TurnerNovak Working on it. 😁",
+    "lang": "en",
+    "in_reply_to_screen_name": "TurnerNovak",
+    "in_reply_to_user_id_str": "35647451"
+  }
+}

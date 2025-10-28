@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973540534062030881"
+        ],
+        "editableUntil": "2025-10-02T01:08:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973540534062030881/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/ddetIMDUiF",
+          "media_url": "http://pbs.twimg.com/media/G2NseXwW8AA44_j.jpg",
+          "id_str": "1973540330747129856",
+          "id": "1973540330747129856",
+          "media_url_https": "https://pbs.twimg.com/media/G2NseXwW8AA44_j.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1065",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "603",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1430",
+              "h": "1612",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ddetIMDUiF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "167"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1973537392956153935",
+    "id_str": "1973540534062030881",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973540534062030881",
+    "in_reply_to_status_id": "1973537392956153935",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 02 00:08:24 +0000 2025",
+    "favorited": false,
+    "full_text": "Well, my email was really bad. Holy shit am I bad at this. But thankfully, this is day 1.\n\nAnd now I have an AI coach to help me figure it out. https://t.co/ddetIMDUiF",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973540534062030881/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/ddetIMDUiF",
+          "media_url": "http://pbs.twimg.com/media/G2NseXwW8AA44_j.jpg",
+          "id_str": "1973540330747129856",
+          "id": "1973540330747129856",
+          "media_url_https": "https://pbs.twimg.com/media/G2NseXwW8AA44_j.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1065",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "603",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1430",
+              "h": "1612",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ddetIMDUiF"
+        }
+      ]
+    }
+  }
+}

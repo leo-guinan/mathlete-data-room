@@ -1,0 +1,76 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1570404747085230081"
+        ],
+        "editableUntil": "2022-09-15T14:00:43.071Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Øle",
+          "screen_name": "eorvd_",
+          "indices": [
+            "14",
+            "21"
+          ],
+          "id_str": "1523965302580686848",
+          "id": "1523965302580686848"
+        },
+        {
+          "name": "Christophe Porot",
+          "screen_name": "PorotChristophe",
+          "indices": [
+            "22",
+            "38"
+          ],
+          "id_str": "1466977901270683648",
+          "id": "1466977901270683648"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "39",
+            "50"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "0",
+    "id_str": "1570404747085230081",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1570404747085230081",
+    "created_at": "Thu Sep 15 13:30:43 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @reddy2go: @eorvd_ @PorotChristophe @leo_guinan 💯 indeed that's the way!",
+    "lang": "en"
+  }
+}

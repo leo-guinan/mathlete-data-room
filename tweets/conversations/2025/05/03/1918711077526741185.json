@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1918711077526741185"
+        ],
+        "editableUntil": "2025-05-03T17:55:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Bressler 📊",
+          "screen_name": "bresslertweets",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "292581084",
+          "id": "292581084"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1918709924823011404",
+    "id_str": "1918711077526741185",
+    "in_reply_to_user_id": "292581084",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1918711077526741185",
+    "in_reply_to_status_id": "1918709924823011404",
+    "created_at": "Sat May 03 16:55:43 +0000 2025",
+    "favorited": false,
+    "full_text": "@bresslertweets I started down the ai cmo route about a year ago and realized that exact thing.\n\nBut at least starting down that path has led to all sorts of original research being published, and has set me up for something much more interesting.\n\nSo it's not always bad to not know. 😉",
+    "lang": "en",
+    "in_reply_to_screen_name": "bresslertweets",
+    "in_reply_to_user_id_str": "292581084"
+  }
+}

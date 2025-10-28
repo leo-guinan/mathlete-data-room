@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1655289220028592128"
+        ],
+        "editableUntil": "2023-05-07T19:41:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "162",
+            "172"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iJg04affWR",
+          "expanded_url": "https://creatorscience.com/efficiency/",
+          "display_url": "creatorscience.com/efficiency/",
+          "indices": [
+            "242",
+            "265"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1655289218216742913",
+    "id_str": "1655289220028592128",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1655289220028592128",
+    "in_reply_to_status_id": "1655289218216742913",
+    "possibly_sensitive": false,
+    "created_at": "Sun May 07 19:11:18 +0000 2023",
+    "favorited": false,
+    "full_text": "I'm a big believer in maximizing my efficiency, but that's only really possible after figuring out what efficiency means in a given context.\n\n(also, quick aside, @jayclouse included a great blog post about efficiency in his newsletter today: https://t.co/iJg04affWR)",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

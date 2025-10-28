@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1790943149574979762"
+        ],
+        "editableUntil": "2024-05-16T04:11:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nwuZrERl4a",
+          "expanded_url": "https://x.com/leo_guinan/status/1790942894771068945",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "182",
+            "205"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "0",
+    "id_str": "1790943149574979762",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1790943149574979762",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 16 03:11:35 +0000 2024",
+    "favorited": false,
+    "full_text": "Hmm, actually there's an interesting point here related to probability fields.\n\nQuestions set the scope of possible answers, whereas answers collapse the function to a single value. https://t.co/nwuZrERl4a",
+    "lang": "en"
+  }
+}

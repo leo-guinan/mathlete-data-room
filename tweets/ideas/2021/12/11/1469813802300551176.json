@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1469813802300551176"
+        ],
+        "editableUntil": "2021-12-12T00:38:12.945Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "1",
+    "id_str": "1469813802300551176",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1469813802300551176",
+    "created_at": "Sat Dec 11 23:38:12 +0000 2021",
+    "favorited": false,
+    "full_text": "What started as a small enhancement for @feathercrm ended up being a bit more involved and ended up leading me to learn about using explicit many-to-many relations in prisma. \n\nBut it's all good. It's something I was going to have to do anyway and since I was in there...",
+    "lang": "en"
+  }
+}

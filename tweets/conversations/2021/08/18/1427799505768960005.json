@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1427799505768960005"
+        ],
+        "editableUntil": "2021-08-18T02:08:24.064Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tibo",
+          "screen_name": "tibo_maker",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "470129898",
+          "id": "470129898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "0",
+    "id_str": "1427799505768960005",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1427799505768960005",
+    "created_at": "Wed Aug 18 01:08:24 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @tibo_maker: ❌ Most successful brands have the best product\n\n✅ Most successful brands are the best content creators",
+    "lang": "en"
+  }
+}

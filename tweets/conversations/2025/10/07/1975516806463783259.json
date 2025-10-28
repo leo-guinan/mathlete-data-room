@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1975516806463783259"
+        ],
+        "editableUntil": "2025-10-07T12:01:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Manifold",
+          "screen_name": "ManifoldMarkets",
+          "indices": [
+            "4",
+            "20"
+          ],
+          "id_str": "1466559813752606725",
+          "id": "1466559813752606725"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1975516806463783259/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/0Et3XZXXQT",
+          "media_url": "http://pbs.twimg.com/media/G2pxwyvWEAA6B5T.jpg",
+          "id_str": "1975516469623394304",
+          "id": "1975516469623394304",
+          "media_url_https": "https://pbs.twimg.com/media/G2pxwyvWEAA6B5T.jpg",
+          "sizes": {
+            "small": {
+              "w": "615",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1084",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1520",
+              "h": "1682",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0Et3XZXXQT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "167"
+    ],
+    "favorite_count": "0",
+    "id_str": "1975516806463783259",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1975516806463783259",
+    "possibly_sensitive": false,
+    "created_at": "Tue Oct 07 11:01:24 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @ManifoldMarkets - how valuable is each user that leaves Twitter and becomes a DAU on Manifold?\n\nAsking for a friend who wants to get rich. https://t.co/0Et3XZXXQT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1975516806463783259/photo/1",
+          "indices": [
+            "144",
+            "167"
+          ],
+          "url": "https://t.co/0Et3XZXXQT",
+          "media_url": "http://pbs.twimg.com/media/G2pxwyvWEAA6B5T.jpg",
+          "id_str": "1975516469623394304",
+          "id": "1975516469623394304",
+          "media_url_https": "https://pbs.twimg.com/media/G2pxwyvWEAA6B5T.jpg",
+          "sizes": {
+            "small": {
+              "w": "615",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1084",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1520",
+              "h": "1682",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/0Et3XZXXQT"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1539781902667767808"
+        ],
+        "editableUntil": "2022-06-23T01:56:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "MotivateU",
+          "screen_name": "MotivateUTech",
+          "indices": [
+            "17",
+            "31"
+          ],
+          "id_str": "1378796282295255045",
+          "id": "1378796282295255045"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1539781902667767808/photo/1",
+          "indices": [
+            "32",
+            "55"
+          ],
+          "url": "https://t.co/HVLaK40MLZ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FV5nefqXkAAvtyp.jpg",
+          "id_str": "1539781896200228864",
+          "id": "1539781896200228864",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FV5nefqXkAAvtyp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "300",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "300",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "300",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/HVLaK40MLZ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1539436921750953985",
+    "id_str": "1539781902667767808",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1539781902667767808",
+    "in_reply_to_status_id": "1539436921750953985",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 23 01:26:28 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @MotivateUTech https://t.co/HVLaK40MLZ",
+    "lang": "qme",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1539781902667767808/photo/1",
+          "indices": [
+            "32",
+            "55"
+          ],
+          "url": "https://t.co/HVLaK40MLZ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FV5nefqXkAAvtyp.jpg",
+          "id_str": "1539781896200228864",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "50"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FV5nefqXkAAvtyp.mp4"
+              }
+            ]
+          },
+          "id": "1539781896200228864",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FV5nefqXkAAvtyp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "300",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "300",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "300",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/HVLaK40MLZ"
+        }
+      ]
+    }
+  }
+}

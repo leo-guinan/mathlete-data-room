@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1764017814556622960"
+        ],
+        "editableUntil": "2024-03-02T20:59:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QuquSxrZfY",
+          "expanded_url": "https://x.com/HackingBaseball/status/1763633217280643278",
+          "display_url": "x.com/HackingBasebal…",
+          "indices": [
+            "215",
+            "238"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "10",
+    "id_str": "1764017814556622960",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1764017814556622960",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 02 19:59:55 +0000 2024",
+    "favorited": false,
+    "full_text": "Give me 10 juniors, and I'll never commit a line of code again.\n\nAt most, I'll write code to explain things and show patterns, and then give it to them to clean up and learn.\n\nJuniors are way undervalued right now. https://t.co/QuquSxrZfY",
+    "lang": "en"
+  }
+}

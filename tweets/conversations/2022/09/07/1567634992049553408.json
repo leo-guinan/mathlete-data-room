@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1567634992049553408"
+        ],
+        "editableUntil": "2022-09-07T22:34:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ben Putano 📚",
+          "screen_name": "BenjaminPutano",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "228834325",
+          "id": "228834325"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "241"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1567633834178678786",
+    "id_str": "1567634992049553408",
+    "in_reply_to_user_id": "228834325",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1567634992049553408",
+    "in_reply_to_status_id": "1567633834178678786",
+    "created_at": "Wed Sep 07 22:04:42 +0000 2022",
+    "favorited": false,
+    "full_text": "@BenjaminPutano I've started using Obsidian for my notes for my book, at least.\n\nAnd Notion for other things \n\nAnd my notepad.\n\nSo yeah, I need to have better organization too lol, but it's amazing how much it helps to just put it somewhere.",
+    "lang": "en",
+    "in_reply_to_screen_name": "BenjaminPutano",
+    "in_reply_to_user_id_str": "228834325"
+  }
+}

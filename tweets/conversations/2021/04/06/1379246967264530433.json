@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379246967264530433"
+        ],
+        "editableUntil": "2021-04-06T02:37:56.822Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ben Putano 📚",
+          "screen_name": "BenjaminPutano",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "228834325",
+          "id": "228834325"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "0",
+    "id_str": "1379246967264530433",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379246967264530433",
+    "created_at": "Tue Apr 06 01:37:56 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @BenjaminPutano: As a founder, your only obligation is to show up.\n\nDo that consistently and eventually you'll find your way.",
+    "lang": "en"
+  }
+}

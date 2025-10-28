@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1546550277905551361"
+        ],
+        "editableUntil": "2022-07-11T18:11:34.424Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Bateman",
+          "screen_name": "mbateman",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "3467611",
+          "id": "3467611"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1546550277905551361",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1546550277905551361",
+    "created_at": "Mon Jul 11 17:41:34 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @mbateman: \"This then is our task, to gather the highest discoveries that have been made in the sciences, to render them clear and fasci…",
+    "lang": "en"
+  }
+}

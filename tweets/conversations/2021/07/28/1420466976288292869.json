@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420466976288292869"
+        ],
+        "editableUntil": "2021-07-28T20:31:32.804Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "41",
+            "57"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/X041xbBRRd",
+          "expanded_url": "https://x.com/TaylorLagace/status/1420413742395834370",
+          "display_url": "x.com/TaylorLagace/s…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "4",
+    "id_str": "1420466976288292869",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420466976288292869",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 28 19:31:32 +0000 2021",
+    "favorited": false,
+    "full_text": "Who could use some fitness influencers?\n\n@StroutMotivateU 👀👀 https://t.co/X041xbBRRd",
+    "lang": "en"
+  }
+}

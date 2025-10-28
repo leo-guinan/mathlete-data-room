@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1375517647962529793"
+        ],
+        "editableUntil": "2021-03-26T19:38:57.813Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Saverio Bianchi",
+          "screen_name": "SaverioBianchi",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "40995214",
+          "id": "40995214"
+        },
+        {
+          "name": "On Deck now ODF",
+          "screen_name": "beondeck",
+          "indices": [
+            "16",
+            "25"
+          ],
+          "id_str": "1825981215473623040",
+          "id": "1825981215473623040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "43"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1375514811056881667",
+    "id_str": "1375517647962529793",
+    "in_reply_to_user_id": "40995214",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1375517647962529793",
+    "in_reply_to_status_id": "1375514811056881667",
+    "created_at": "Fri Mar 26 18:38:57 +0000 2021",
+    "favorited": false,
+    "full_text": "@SaverioBianchi @beondeck Likewise Saverio!",
+    "lang": "en",
+    "in_reply_to_screen_name": "SaverioBianchi",
+    "in_reply_to_user_id_str": "40995214"
+  }
+}

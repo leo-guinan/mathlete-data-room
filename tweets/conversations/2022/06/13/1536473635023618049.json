@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536473635023618049"
+        ],
+        "editableUntil": "2022-06-13T22:50:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        },
+        {
+          "name": "🦾✝️🤳 Jesus needs a minute",
+          "screen_name": "evan_just_evan",
+          "indices": [
+            "16",
+            "31"
+          ],
+          "id_str": "1282006421551415298",
+          "id": "1282006421551415298"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "136"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1536472637886562306",
+    "id_str": "1536473635023618049",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536473635023618049",
+    "in_reply_to_status_id": "1536472637886562306",
+    "created_at": "Mon Jun 13 22:20:35 +0000 2022",
+    "favorited": false,
+    "full_text": "@markyerkes1734 @evan_just_evan An elaborate system of tunnels, naturally!\n\n(Might need a really good team of architects/contractors...)",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939"
+  }
+}

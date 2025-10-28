@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420544412887789571"
+        ],
+        "editableUntil": "2021-07-29T01:39:15.128Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jeremy Ginn (Papa J) 🚢",
+          "screen_name": "jwginn",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "8800692",
+          "id": "8800692"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1420544412887789571/photo/1",
+          "indices": [
+            "8",
+            "31"
+          ],
+          "url": "https://t.co/ivDncRexNJ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E7bJmdyXMAg6hvv.jpg",
+          "id_str": "1420544395150045192",
+          "id": "1420544395150045192",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E7bJmdyXMAg6hvv.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "328",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "328",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "328",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ivDncRexNJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "31"
+    ],
+    "favorite_count": "7",
+    "in_reply_to_status_id_str": "1420540129157001220",
+    "id_str": "1420544412887789571",
+    "in_reply_to_user_id": "8800692",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420544412887789571",
+    "in_reply_to_status_id": "1420540129157001220",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 29 00:39:15 +0000 2021",
+    "favorited": false,
+    "full_text": "@jwginn https://t.co/ivDncRexNJ",
+    "lang": "qme",
+    "in_reply_to_screen_name": "jwginn",
+    "in_reply_to_user_id_str": "8800692",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1420544412887789571/photo/1",
+          "indices": [
+            "8",
+            "31"
+          ],
+          "url": "https://t.co/ivDncRexNJ",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E7bJmdyXMAg6hvv.jpg",
+          "id_str": "1420544395150045192",
+          "video_info": {
+            "aspect_ratio": [
+              "60",
+              "41"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/E7bJmdyXMAg6hvv.mp4"
+              }
+            ]
+          },
+          "id": "1420544395150045192",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E7bJmdyXMAg6hvv.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "328",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "328",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "328",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/ivDncRexNJ"
+        }
+      ]
+    }
+  }
+}

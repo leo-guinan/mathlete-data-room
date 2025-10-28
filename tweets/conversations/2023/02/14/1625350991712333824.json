@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1625350991712333824"
+        ],
+        "editableUntil": "2023-02-14T04:57:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/R634QNbhlJ",
+          "expanded_url": "https://pioneer.app/leo.guinan/progress-updates/e30fa4be/2023-02-13",
+          "display_url": "pioneer.app/leo.guinan/pro…",
+          "indices": [
+            "249",
+            "272"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "id_str": "1625350991712333824",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1625350991712333824",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 14 04:27:28 +0000 2023",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nI was able to iron out the majority of the issues with ingesting podcasts and got a lot of episodes processed from several larger podcasts. I was also able to get most of the sea…\n\nRead the rest here:\n\n https://t.co/R634QNbhlJ",
+    "lang": "en"
+  }
+}

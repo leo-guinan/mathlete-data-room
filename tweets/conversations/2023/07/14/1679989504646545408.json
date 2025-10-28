@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1679989504646545408"
+        ],
+        "editableUntil": "2023-07-15T00:01:25.260Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADHD",
+          "indices": [
+            "122",
+            "127"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "0",
+    "id_str": "1679989504646545408",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1679989504646545408",
+    "created_at": "Fri Jul 14 23:01:25 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: I don’t realize how much I miss this group until I’m not there for a few weeks. This shit matters so much…#ADHD",
+    "lang": "en"
+  }
+}

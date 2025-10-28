@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1715510939561140268"
+        ],
+        "editableUntil": "2023-10-21T00:30:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "184",
+            "198"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "200",
+            "211"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Wabastreams - $1 On Patreon!",
+          "screen_name": "wabastreams",
+          "indices": [
+            "213",
+            "225"
+          ],
+          "id_str": "1254795953741205504",
+          "id": "1254795953741205504"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "227",
+            "237"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        },
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "243",
+            "255"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1715510939561140268/photo/1",
+          "indices": [
+            "257",
+            "280"
+          ],
+          "url": "https://t.co/icTSP4p7BO",
+          "media_url": "http://pbs.twimg.com/media/F863weAXIAAkIhH.jpg",
+          "id_str": "1715510551390920704",
+          "id": "1715510551390920704",
+          "media_url_https": "https://pbs.twimg.com/media/F863weAXIAAkIhH.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "369",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1111",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "651",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/icTSP4p7BO"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "39",
+            "56"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "4",
+    "id_str": "1715510939561140268",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1715510939561140268",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 20 23:30:55 +0000 2023",
+    "favorited": false,
+    "full_text": "Loved the discussion we had tonight at #ADHDWithBenefits. We had a chat about Generational Trauma as a result of unrecognized neurodivergence. Look for the recording soon!\n\nFeaturing:\n@MechiMansilla, @LobowSpark, @wabastreams, @bethicalj, and @UntappedKeg! https://t.co/icTSP4p7BO",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1715510939561140268/photo/1",
+          "indices": [
+            "257",
+            "280"
+          ],
+          "url": "https://t.co/icTSP4p7BO",
+          "media_url": "http://pbs.twimg.com/media/F863weAXIAAkIhH.jpg",
+          "id_str": "1715510551390920704",
+          "id": "1715510551390920704",
+          "media_url_https": "https://pbs.twimg.com/media/F863weAXIAAkIhH.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "369",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1111",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "651",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/icTSP4p7BO"
+        }
+      ]
+    }
+  }
+}

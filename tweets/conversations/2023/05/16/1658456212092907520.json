@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1658456212092907520"
+        ],
+        "editableUntil": "2023-05-16T13:25:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        },
+        {
+          "name": "Choose Your Algorithm",
+          "screen_name": "ChooseYourAlgo",
+          "indices": [
+            "17",
+            "32"
+          ],
+          "id_str": "1613997408190402580",
+          "id": "1613997408190402580"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "47"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1658453520440524804",
+    "id_str": "1658456212092907520",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1658456212092907520",
+    "in_reply_to_status_id": "1658453520440524804",
+    "created_at": "Tue May 16 12:55:48 +0000 2023",
+    "favorited": false,
+    "full_text": "@JustinAllingham @ChooseYourAlgo Let's do it. 💪",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

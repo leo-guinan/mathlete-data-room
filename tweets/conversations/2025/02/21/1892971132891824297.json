@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892971132891824297"
+        ],
+        "editableUntil": "2025-02-21T17:14:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Charlie Greenman",
+          "screen_name": "razroo_chief",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2962828127",
+          "id": "2962828127"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1892272031451746788",
+    "id_str": "1892971132891824297",
+    "in_reply_to_user_id": "2962828127",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892971132891824297",
+    "in_reply_to_status_id": "1892272031451746788",
+    "created_at": "Fri Feb 21 16:14:22 +0000 2025",
+    "favorited": false,
+    "full_text": "@razroo_chief I know you do. Nuance unfortunately doesn't get eyeballs, though\n\nBut I see you actually doing the work to solve problems",
+    "lang": "en",
+    "in_reply_to_screen_name": "razroo_chief",
+    "in_reply_to_user_id_str": "2962828127"
+  }
+}

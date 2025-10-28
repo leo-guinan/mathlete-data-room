@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929347177173712955"
+        ],
+        "editableUntil": "2025-06-02T02:19:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rachel (aka “x’s venus”)",
+          "screen_name": "rachelclif",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "936260087294939136",
+          "id": "936260087294939136"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DOzJqL3NWu",
+          "expanded_url": "https://claude.ai/public/artifacts/90479ab9-845e-473e-8745-63bbd48be119",
+          "display_url": "claude.ai/public/artifac…",
+          "indices": [
+            "165",
+            "188"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "188"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1929252209092399377",
+    "id_str": "1929347177173712955",
+    "in_reply_to_user_id": "936260087294939136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929347177173712955",
+    "in_reply_to_status_id": "1929252209092399377",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 02 01:19:47 +0000 2025",
+    "favorited": false,
+    "full_text": "@rachelclif That's an incredibly pithy way of saying what I also expressed about alignment. \n\nit's all about understanding everyone's personal timeline for growth.\n\nhttps://t.co/DOzJqL3NWu",
+    "lang": "en",
+    "in_reply_to_screen_name": "rachelclif",
+    "in_reply_to_user_id_str": "936260087294939136"
+  }
+}

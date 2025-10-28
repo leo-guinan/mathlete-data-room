@@ -1,0 +1,135 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885699845261840451"
+        ],
+        "editableUntil": "2025-02-01T15:40:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Interintellect 🧭",
+          "screen_name": "interintellect_",
+          "indices": [
+            "64",
+            "80"
+          ],
+          "id_str": "1125154247874633735",
+          "id": "1125154247874633735"
+        },
+        {
+          "name": "sublime",
+          "screen_name": "wwwsublimeapp",
+          "indices": [
+            "145",
+            "159"
+          ],
+          "id_str": "1272246961790484480",
+          "id": "1272246961790484480"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1885699845261840451/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/Xk1BlK741z",
+          "media_url": "http://pbs.twimg.com/media/GitZlJKW8AAOsH8.jpg",
+          "id_str": "1885699363634081792",
+          "id": "1885699363634081792",
+          "media_url_https": "https://pbs.twimg.com/media/GitZlJKW8AAOsH8.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "280",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1044",
+              "h": "430",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1044",
+              "h": "430",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Xk1BlK741z"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "299"
+    ],
+    "favorite_count": "6",
+    "id_str": "1885699845261840451",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885699845261840451",
+    "possibly_sensitive": false,
+    "created_at": "Sat Feb 01 14:40:52 +0000 2025",
+    "favorited": false,
+    "full_text": "I kinda want to host an event with an idea tasting menu.\n\nMaybe @interintellect_ would be a great place for it.\n\nI got the idea when reading the @wwwsublimeapp newsletter this morning. \n\nThe idea of \"pair this idea with this collection\" is absolutely brilliant.\n\nThe way I'm… https://t.co/Xk1BlK741z",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1885699845261840451/photo/1",
+          "indices": [
+            "276",
+            "299"
+          ],
+          "url": "https://t.co/Xk1BlK741z",
+          "media_url": "http://pbs.twimg.com/media/GitZlJKW8AAOsH8.jpg",
+          "id_str": "1885699363634081792",
+          "id": "1885699363634081792",
+          "media_url_https": "https://pbs.twimg.com/media/GitZlJKW8AAOsH8.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "280",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1044",
+              "h": "430",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1044",
+              "h": "430",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Xk1BlK741z"
+        }
+      ]
+    }
+  }
+}

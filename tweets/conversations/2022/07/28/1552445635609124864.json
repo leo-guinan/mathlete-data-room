@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1552445635609124864"
+        ],
+        "editableUntil": "2022-07-28T00:37:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Santi Romero",
+          "screen_name": "DigitalToolMar1",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1498740062305071107",
+          "id": "1498740062305071107"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1552338355546996736",
+    "id_str": "1552445635609124864",
+    "in_reply_to_user_id": "1498740062305071107",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1552445635609124864",
+    "in_reply_to_status_id": "1552338355546996736",
+    "created_at": "Thu Jul 28 00:07:37 +0000 2022",
+    "favorited": false,
+    "full_text": "@DigitalToolMar1 That's a good point. It can be tough to lead with your confidence when you're not used to doing so. \n\nAnd it's difficult to be confident in times of uncertainty, so that's another layer of difficulty.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DigitalToolMar1",
+    "in_reply_to_user_id_str": "1498740062305071107"
+  }
+}

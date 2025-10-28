@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1783525843362259206"
+        ],
+        "editableUntil": "2024-04-25T16:57:52.022Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Foster",
+          "screen_name": "0xFoster",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "1250822143597703169",
+          "id": "1250822143597703169"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sPi7b811gD",
+          "expanded_url": "https://lu.ma/public-writing-circle",
+          "display_url": "lu.ma/public-writing…",
+          "indices": [
+            "111",
+            "134"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "id_str": "1783525843362259206",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1783525843362259206",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 25 15:57:52 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @0xFoster: Facts: the best time to join a Foster Writing Circle is when you are *not in the mood to write*\n\nhttps://t.co/sPi7b811gD",
+    "lang": "en"
+  }
+}

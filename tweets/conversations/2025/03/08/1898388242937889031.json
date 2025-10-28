@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898388242937889031"
+        ],
+        "editableUntil": "2025-03-08T16:00:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "32",
+            "46"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jXtnUtoP35",
+          "expanded_url": "https://x.com/reddy2go/status/1898264815388574085",
+          "display_url": "x.com/reddy2go/statu…",
+          "indices": [
+            "73",
+            "96"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "1",
+    "id_str": "1898388242937889031",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898388242937889031",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 15:00:02 +0000 2025",
+    "favorited": false,
+    "full_text": "Want to peek inside the soul of @glitchishuman?\n\nIt's all in the repo... https://t.co/jXtnUtoP35",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1606378847783555086"
+        ],
+        "editableUntil": "2022-12-23T20:28:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Klawsy",
+          "screen_name": "Klawsy",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "490912321",
+          "id": "490912321"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "153"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1606237721017491457",
+    "id_str": "1606378847783555086",
+    "in_reply_to_user_id": "490912321",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1606378847783555086",
+    "in_reply_to_status_id": "1606237721017491457",
+    "created_at": "Fri Dec 23 19:58:57 +0000 2022",
+    "favorited": false,
+    "full_text": "@Klawsy Hmmm, that's interesting that you are hit daily. I think mine tend to go up and down, but never constant. I wonder how they pick their targets...",
+    "lang": "en",
+    "in_reply_to_screen_name": "Klawsy",
+    "in_reply_to_user_id_str": "490912321"
+  }
+}

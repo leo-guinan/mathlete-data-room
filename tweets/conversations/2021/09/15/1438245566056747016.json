@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1438245566056747016"
+        ],
+        "editableUntil": "2021-09-15T21:57:18.915Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "60",
+            "72"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/i5ZH7Awbou",
+          "expanded_url": "https://www.producthunt.com/posts/party-round",
+          "display_url": "producthunt.com/posts/party-ro…",
+          "indices": [
+            "73",
+            "96"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "3",
+    "id_str": "1438245566056747016",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1438245566056747016",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 15 20:57:18 +0000 2021",
+    "favorited": false,
+    "full_text": "I shared my thoughts on Party Round. Join the discussion on @producthunt https://t.co/i5ZH7Awbou",
+    "lang": "en"
+  }
+}

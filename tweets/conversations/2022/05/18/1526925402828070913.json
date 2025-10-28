@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1526925402828070913"
+        ],
+        "editableUntil": "2022-05-18T14:29:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "1",
+    "id_str": "1526925402828070913",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1526925402828070913",
+    "created_at": "Wed May 18 13:59:19 +0000 2022",
+    "favorited": false,
+    "full_text": "Had a call with @LobowSpark last night and we talked about building in public. \n\nWhat does that mean for a creator?\n\nThis is something that's becoming more popular with startups and indiehackers, but why not creators?\n\nThis is the framework I gave him:",
+    "lang": "en"
+  }
+}

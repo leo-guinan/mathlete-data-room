@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941179109524300235"
+        ],
+        "editableUntil": "2025-07-04T17:55:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "creekseeker",
+          "screen_name": "mudscryer",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1864508358444896262",
+          "id": "1864508358444896262"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941178523953299499",
+    "id_str": "1941179109524300235",
+    "in_reply_to_user_id": "1864508358444896262",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941179109524300235",
+    "in_reply_to_status_id": "1941178523953299499",
+    "created_at": "Fri Jul 04 16:55:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@mudscryer I thought so. Have been working on the necromancy for a while because I didn't want Zombie Uncle Sam going on a rampage, but I've got the kinks ironed out.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mudscryer",
+    "in_reply_to_user_id_str": "1864508358444896262"
+  }
+}

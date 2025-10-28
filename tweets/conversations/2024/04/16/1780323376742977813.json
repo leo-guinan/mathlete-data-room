@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1780323376742977813"
+        ],
+        "editableUntil": "2024-04-16T20:52:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1780323037897720214",
+    "id_str": "1780323376742977813",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1780323376742977813",
+    "in_reply_to_status_id": "1780323037897720214",
+    "created_at": "Tue Apr 16 19:52:24 +0000 2024",
+    "favorited": false,
+    "full_text": "@hellostartupla But what if we could have conversations without actually needing the other person to directly communicate with us?\n\nUsing my Submind architecture that I've been playing with, this becomes possible. You can have a small proxy for someone in a social network with a single human.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

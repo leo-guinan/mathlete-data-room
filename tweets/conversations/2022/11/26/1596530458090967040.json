@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596530458090967040"
+        ],
+        "editableUntil": "2022-11-26T16:14:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Streamer? 📽️",
+          "screen_name": "davemcg3",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "21708682",
+          "id": "21708682"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "210"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1596158546726752257",
+    "id_str": "1596530458090967040",
+    "in_reply_to_user_id": "21708682",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596530458090967040",
+    "in_reply_to_status_id": "1596158546726752257",
+    "created_at": "Sat Nov 26 15:44:57 +0000 2022",
+    "favorited": false,
+    "full_text": "@davemcg3 Yeah, I think that's fairly common until you hit a certain number of followers and then it starts to grow at different rates. I'm curious to see if I can figure out how the rate of change curve looks.",
+    "lang": "en",
+    "in_reply_to_screen_name": "davemcg3",
+    "in_reply_to_user_id_str": "21708682"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520474476311457792"
+        ],
+        "editableUntil": "2022-04-30T19:15:38.859Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1520474476311457792/photo/1",
+          "indices": [
+            "48",
+            "71"
+          ],
+          "url": "https://t.co/DhbKg1xS7C",
+          "media_url": "http://pbs.twimg.com/media/FRnPelwWQAATdGw.jpg",
+          "id_str": "1520474473652174848",
+          "id": "1520474473652174848",
+          "media_url_https": "https://pbs.twimg.com/media/FRnPelwWQAATdGw.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DhbKg1xS7C"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "71"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1520424708650696704",
+    "id_str": "1520474476311457792",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520474476311457792",
+    "in_reply_to_status_id": "1520424708650696704",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 30 18:45:38 +0000 2022",
+    "favorited": false,
+    "full_text": "@bkh_leung Rose agrees. They are her favorites. https://t.co/DhbKg1xS7C",
+    "lang": "en",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1520474476311457792/photo/1",
+          "indices": [
+            "48",
+            "71"
+          ],
+          "url": "https://t.co/DhbKg1xS7C",
+          "media_url": "http://pbs.twimg.com/media/FRnPelwWQAATdGw.jpg",
+          "id_str": "1520474473652174848",
+          "id": "1520474473652174848",
+          "media_url_https": "https://pbs.twimg.com/media/FRnPelwWQAATdGw.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DhbKg1xS7C"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1448798167164719110"
+        ],
+        "editableUntil": "2021-10-15T00:49:35.077Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        },
+        {
+          "name": "Kilian Poulin 🦾",
+          "screen_name": "KilianPoulinTW",
+          "indices": [
+            "11",
+            "26"
+          ],
+          "id_str": "2225613595",
+          "id": "2225613595"
+        },
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "27",
+            "35"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1448798167164719110/photo/1",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/hRgds6pq9U",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FBsqLU7XIAEllYB.jpg",
+          "id_str": "1448798079214362625",
+          "id": "1448798079214362625",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBsqLU7XIAEllYB.jpg",
+          "sizes": {
+            "medium": {
+              "w": "488",
+              "h": "274",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "488",
+              "h": "274",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "488",
+              "h": "274",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hRgds6pq9U"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1448797844526276615",
+    "id_str": "1448798167164719110",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1448798167164719110",
+    "in_reply_to_status_id": "1448797844526276615",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 14 23:49:35 +0000 2021",
+    "favorited": false,
+    "full_text": "@bkh_leung @KilianPoulinTW @AndyM84 https://t.co/hRgds6pq9U",
+    "lang": "qme",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1448798167164719110/photo/1",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/hRgds6pq9U",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FBsqLU7XIAEllYB.jpg",
+          "id_str": "1448798079214362625",
+          "video_info": {
+            "aspect_ratio": [
+              "244",
+              "137"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FBsqLU7XIAEllYB.mp4"
+              }
+            ]
+          },
+          "id": "1448798079214362625",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBsqLU7XIAEllYB.jpg",
+          "sizes": {
+            "medium": {
+              "w": "488",
+              "h": "274",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "488",
+              "h": "274",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "488",
+              "h": "274",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/hRgds6pq9U"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1970271086744158553"
+        ],
+        "editableUntil": "2025-09-23T00:36:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970271086744158553/photo/1",
+          "indices": [
+            "212",
+            "235"
+          ],
+          "url": "https://t.co/Pot2h8fmcJ",
+          "media_url": "http://pbs.twimg.com/media/G1fPCQfXgAAYaEv.jpg",
+          "id_str": "1970270999691100160",
+          "id": "1970270999691100160",
+          "media_url_https": "https://pbs.twimg.com/media/G1fPCQfXgAAYaEv.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "453",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Pot2h8fmcJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "235"
+    ],
+    "favorite_count": "1",
+    "id_str": "1970271086744158553",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1970271086744158553",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 22 23:36:47 +0000 2025",
+    "favorited": false,
+    "full_text": "POV: You're pitching to VCs who are 73% through their shark evolution.\n\n\"We're not quite sharks yet, but we can't relate to your human problems anymore.\" \n\n \"Try us again when you're at least partially aquatic.\" https://t.co/Pot2h8fmcJ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970271086744158553/photo/1",
+          "indices": [
+            "212",
+            "235"
+          ],
+          "url": "https://t.co/Pot2h8fmcJ",
+          "media_url": "http://pbs.twimg.com/media/G1fPCQfXgAAYaEv.jpg",
+          "id_str": "1970270999691100160",
+          "id": "1970270999691100160",
+          "media_url_https": "https://pbs.twimg.com/media/G1fPCQfXgAAYaEv.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "453",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "800",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Pot2h8fmcJ"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1468652292165574670"
+        ],
+        "editableUntil": "2021-12-08T19:42:47.349Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Alex Lieberman",
+          "screen_name": "businessbarista",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "846417084192055296",
+          "id": "846417084192055296"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1468652292165574670/photo/1",
+          "indices": [
+            "17",
+            "40"
+          ],
+          "url": "https://t.co/LFtSXH7W4v",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FGGzeJzXMAMm8xp.jpg",
+          "id_str": "1468652284108288003",
+          "id": "1468652284108288003",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGGzeJzXMAMm8xp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "280",
+              "h": "332",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "280",
+              "h": "332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "280",
+              "h": "332",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/LFtSXH7W4v"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "40"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1468651810604859392",
+    "id_str": "1468652292165574670",
+    "in_reply_to_user_id": "846417084192055296",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1468652292165574670",
+    "in_reply_to_status_id": "1468651810604859392",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 08 18:42:47 +0000 2021",
+    "favorited": false,
+    "full_text": "@businessbarista https://t.co/LFtSXH7W4v",
+    "lang": "qme",
+    "in_reply_to_screen_name": "businessbarista",
+    "in_reply_to_user_id_str": "846417084192055296",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1468652292165574670/photo/1",
+          "indices": [
+            "17",
+            "40"
+          ],
+          "url": "https://t.co/LFtSXH7W4v",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FGGzeJzXMAMm8xp.jpg",
+          "id_str": "1468652284108288003",
+          "video_info": {
+            "aspect_ratio": [
+              "70",
+              "83"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FGGzeJzXMAMm8xp.mp4"
+              }
+            ]
+          },
+          "id": "1468652284108288003",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGGzeJzXMAMm8xp.jpg",
+          "sizes": {
+            "medium": {
+              "w": "280",
+              "h": "332",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "280",
+              "h": "332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "280",
+              "h": "332",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/LFtSXH7W4v"
+        }
+      ]
+    }
+  }
+}

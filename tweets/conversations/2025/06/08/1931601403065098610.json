@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931601403065098610"
+        ],
+        "editableUntil": "2025-06-08T07:37:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "J L Friday",
+          "screen_name": "realjfriday",
+          "indices": [
+            "21",
+            "33"
+          ],
+          "id_str": "355276328",
+          "id": "355276328"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TOqBq817g5",
+          "expanded_url": "https://tickets.hitchhikersguidetothefuture.com/future/17",
+          "display_url": "…ckets.hitchhikersguidetothefuture.com/future/17",
+          "indices": [
+            "35",
+            "58"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931601403065098610/photo/1",
+          "indices": [
+            "59",
+            "82"
+          ],
+          "url": "https://t.co/JESsmXIHbq",
+          "media_url": "http://pbs.twimg.com/media/Gs5sKn3XYAAYm4U.jpg",
+          "id_str": "1931600219944214528",
+          "id": "1931600219944214528",
+          "media_url_https": "https://pbs.twimg.com/media/Gs5sKn3XYAAYm4U.jpg",
+          "sizes": {
+            "small": {
+              "w": "568",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1710",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1002",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JESsmXIHbq"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "82"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1931599924283518992",
+    "id_str": "1931601403065098610",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1931601403065098610",
+    "in_reply_to_status_id": "1931599924283518992",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 08 06:37:16 +0000 2025",
+    "favorited": false,
+    "full_text": "Here's the future of @realjfriday \nhttps://t.co/TOqBq817g5 https://t.co/JESsmXIHbq",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931601403065098610/photo/1",
+          "indices": [
+            "59",
+            "82"
+          ],
+          "url": "https://t.co/JESsmXIHbq",
+          "media_url": "http://pbs.twimg.com/media/Gs5sKn3XYAAYm4U.jpg",
+          "id_str": "1931600219944214528",
+          "id": "1931600219944214528",
+          "media_url_https": "https://pbs.twimg.com/media/Gs5sKn3XYAAYm4U.jpg",
+          "sizes": {
+            "small": {
+              "w": "568",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1710",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1002",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JESsmXIHbq"
+        }
+      ]
+    }
+  }
+}

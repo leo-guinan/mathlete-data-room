@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362540574885183490"
+        ],
+        "editableUntil": "2021-02-19T00:12:42.489Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Cats & Guitars",
+          "screen_name": "8stringbandit",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "818595850913988608",
+          "id": "818595850913988608"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1362539256862941188",
+    "id_str": "1362540574885183490",
+    "in_reply_to_user_id": "818595850913988608",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362540574885183490",
+    "in_reply_to_status_id": "1362539256862941188",
+    "created_at": "Thu Feb 18 23:12:42 +0000 2021",
+    "favorited": false,
+    "full_text": "@8stringbandit I have been a software engineer for the last decade. And I have spent most of these first 8 hours realizing that 5 years have passed since I last did serious web development. And things changed a bit in that time. I felt a lot more confident before I started lol.",
+    "lang": "en",
+    "in_reply_to_screen_name": "8stringbandit",
+    "in_reply_to_user_id_str": "818595850913988608"
+  }
+}

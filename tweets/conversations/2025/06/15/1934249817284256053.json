@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1934249817284256053"
+        ],
+        "editableUntil": "2025-06-15T15:01:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "creekseeker",
+          "screen_name": "mudscryer",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1864508358444896262",
+          "id": "1864508358444896262"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "200"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1933934947305508969",
+    "id_str": "1934249817284256053",
+    "in_reply_to_user_id": "1864508358444896262",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1934249817284256053",
+    "in_reply_to_status_id": "1933934947305508969",
+    "created_at": "Sun Jun 15 14:01:07 +0000 2025",
+    "favorited": false,
+    "full_text": "@mudscryer Thanks for sharing this! It's not something I've spent a lot of time thinking about, because I was lucky to not need to. Honestly super cool though, I love seeing where technology is going.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mudscryer",
+    "in_reply_to_user_id_str": "1864508358444896262"
+  }
+}

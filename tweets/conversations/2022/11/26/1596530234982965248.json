@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596530234982965248"
+        ],
+        "editableUntil": "2022-11-26T16:14:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sergey Kornilov",
+          "screen_name": "phprunner",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "44200842",
+          "id": "44200842"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "226"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1596530095832928258",
+    "id_str": "1596530234982965248",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596530234982965248",
+    "in_reply_to_status_id": "1596530095832928258",
+    "created_at": "Sat Nov 26 15:44:04 +0000 2022",
+    "favorited": false,
+    "full_text": "@phprunner 3.  Black Friday, saving money, startups, fear, Twitter, coffee, ideas, data, wine, video editing, quiz.\n4.  ProductHunt\n5.  cancer\n6.  Earning and spending money\n\nLooks like it had trouble on some of the groups lol",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

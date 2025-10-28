@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942645403482017908"
+        ],
+        "editableUntil": "2025-07-08T19:02:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "am",
+          "screen_name": "attentionmech",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1863435997368786944",
+          "id": "1863435997368786944"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942642270836253168",
+    "id_str": "1942645403482017908",
+    "in_reply_to_user_id": "1863435997368786944",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942645403482017908",
+    "in_reply_to_status_id": "1942642270836253168",
+    "created_at": "Tue Jul 08 18:02:11 +0000 2025",
+    "favorited": false,
+    "full_text": "@attentionmech I'm really excited by it, because I'm finally able to see what I've been feeling about how I operate. \n\nI've been looking at slop as \"bad entropy\", basically entropy that doesn't exist within normal human communications.\n\nSo I'm modeling entropy measurements of human…",
+    "lang": "en",
+    "in_reply_to_screen_name": "attentionmech",
+    "in_reply_to_user_id_str": "1863435997368786944"
+  }
+}

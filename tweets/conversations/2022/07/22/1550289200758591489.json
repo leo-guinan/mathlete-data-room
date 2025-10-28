@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1550289200758591489"
+        ],
+        "editableUntil": "2022-07-22T01:48:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "13",
+            "22"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1550288965265154048",
+    "id_str": "1550289200758591489",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1550289200758591489",
+    "in_reply_to_status_id": "1550288965265154048",
+    "created_at": "Fri Jul 22 01:18:43 +0000 2022",
+    "favorited": false,
+    "full_text": "@beyondthe4d @reddy2go So by introducing noise, you can actually unlock patterns of behavior you didn't think about.\n\nIn terms of your personal life, it can simply be doing things without a specific reason. Normally, we do things having a specific goal in mind.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

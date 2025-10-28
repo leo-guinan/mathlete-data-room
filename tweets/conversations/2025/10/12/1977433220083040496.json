@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1977433220083040496"
+        ],
+        "editableUntil": "2025-10-12T18:56:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zack",
+          "screen_name": "HackingBaseball",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "1081866076726743040",
+          "id": "1081866076726743040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1977433218333974644",
+    "id_str": "1977433220083040496",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1977433220083040496",
+    "in_reply_to_status_id": "1977433218333974644",
+    "created_at": "Sun Oct 12 17:56:33 +0000 2025",
+    "favorited": false,
+    "full_text": "So if you want @HackingBaseball to focus on data from your county, just make a bid on how much it is worth to him. He's got food service experience, and he's quite the charming guy, so if you tip him I'm sure he'll give you excellent data-side service.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

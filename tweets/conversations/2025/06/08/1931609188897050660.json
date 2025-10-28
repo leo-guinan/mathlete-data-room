@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931609188897050660"
+        ],
+        "editableUntil": "2025-06-08T08:08:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "bolt.new",
+          "screen_name": "boltdotnew",
+          "indices": [
+            "36",
+            "47"
+          ],
+          "id_str": "2279695508",
+          "id": "2279695508"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931609188897050660/photo/1",
+          "indices": [
+            "59",
+            "82"
+          ],
+          "url": "https://t.co/hgkQUL1voA",
+          "media_url": "http://pbs.twimg.com/media/Gs50Qw_XgAES6zh.jpg",
+          "id_str": "1931609121565933569",
+          "id": "1931609121565933569",
+          "media_url_https": "https://pbs.twimg.com/media/Gs50Qw_XgAES6zh.jpg",
+          "sizes": {
+            "small": {
+              "w": "568",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1710",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1002",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hgkQUL1voA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "82"
+    ],
+    "favorite_count": "1",
+    "id_str": "1931609188897050660",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931609188897050660",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 08 07:08:12 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, now I'm manifesting winning the @boltdotnew hackathon. https://t.co/hgkQUL1voA",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931609188897050660/photo/1",
+          "indices": [
+            "59",
+            "82"
+          ],
+          "url": "https://t.co/hgkQUL1voA",
+          "media_url": "http://pbs.twimg.com/media/Gs50Qw_XgAES6zh.jpg",
+          "id_str": "1931609121565933569",
+          "id": "1931609121565933569",
+          "media_url_https": "https://pbs.twimg.com/media/Gs50Qw_XgAES6zh.jpg",
+          "sizes": {
+            "small": {
+              "w": "568",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1710",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1002",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/hgkQUL1voA"
+        }
+      ]
+    }
+  }
+}

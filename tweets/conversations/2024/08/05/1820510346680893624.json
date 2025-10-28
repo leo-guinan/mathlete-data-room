@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1820510346680893624"
+        ],
+        "editableUntil": "2024-08-05T18:21:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenny Q Ta 達 ",
+          "screen_name": "JennyQTa7",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "719661499",
+          "id": "719661499"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1820510346680893624/photo/1",
+          "indices": [
+            "11",
+            "34"
+          ],
+          "url": "https://t.co/cdTV6ar8m6",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GUPAgkYXsAAzbZd.jpg",
+          "id_str": "1820510340142051328",
+          "id": "1820510340142051328",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GUPAgkYXsAAzbZd.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/cdTV6ar8m6"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "34"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1820492440933187606",
+    "id_str": "1820510346680893624",
+    "in_reply_to_user_id": "719661499",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1820510346680893624",
+    "in_reply_to_status_id": "1820492440933187606",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 05 17:21:04 +0000 2024",
+    "favorited": false,
+    "full_text": "@JennyQTa7 https://t.co/cdTV6ar8m6",
+    "lang": "qme",
+    "in_reply_to_screen_name": "JennyQTa7",
+    "in_reply_to_user_id_str": "719661499",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1820510346680893624/photo/1",
+          "indices": [
+            "11",
+            "34"
+          ],
+          "url": "https://t.co/cdTV6ar8m6",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GUPAgkYXsAAzbZd.jpg",
+          "id_str": "1820510340142051328",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "140"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GUPAgkYXsAAzbZd.mp4"
+              }
+            ]
+          },
+          "id": "1820510340142051328",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GUPAgkYXsAAzbZd.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/cdTV6ar8m6"
+        }
+      ]
+    }
+  }
+}

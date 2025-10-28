@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1876657316495491387"
+        ],
+        "editableUntil": "2025-01-07T16:49:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "269"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1876656858871767132",
+    "id_str": "1876657316495491387",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1876657316495491387",
+    "in_reply_to_status_id": "1876656858871767132",
+    "created_at": "Tue Jan 07 15:49:05 +0000 2025",
+    "favorited": false,
+    "full_text": "Setting it up on GCP because I'm about to leave AWS I think. Still annoyed at their handling of my credit situation and so I figured I could invest a little time in learning GCP.\n\nNow have my GCS in place and I'll be starting to pull in documents, videos, and podcasts.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

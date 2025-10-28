@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1404597569502785537"
+        ],
+        "editableUntil": "2021-06-15T01:32:11.387Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jesse J. Anderson",
+          "screen_name": "jessejanderson",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1569906959150903303",
+          "id": "1569906959150903303"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1404597569502785537",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1404597569502785537",
+    "created_at": "Tue Jun 15 00:32:11 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @jessejanderson: Hey friends!\n\nI just put my Tactical Time Blocker template on Product Hunt. 😱\n\nI would love any help getting the word o…",
+    "lang": "en"
+  }
+}

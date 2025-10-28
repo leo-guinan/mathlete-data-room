@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887237716699447433"
+        ],
+        "editableUntil": "2025-02-05T21:31:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "224"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1887130473106665542",
+    "id_str": "1887237716699447433",
+    "in_reply_to_user_id": "183749519",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887237716699447433",
+    "in_reply_to_status_id": "1887130473106665542",
+    "created_at": "Wed Feb 05 20:31:49 +0000 2025",
+    "favorited": false,
+    "full_text": "@paulg Everyone has strengths and weaknesses. The key is leveraging your strengths and offsetting your weaknesses. \n\nIt’s playing the game in front of you, not the one you wish it was. \n\nOr it’s changing the game completely.",
+    "lang": "en",
+    "in_reply_to_screen_name": "paulg",
+    "in_reply_to_user_id_str": "183749519"
+  }
+}

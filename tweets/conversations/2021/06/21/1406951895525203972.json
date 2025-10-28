@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1406951895525203972"
+        ],
+        "editableUntil": "2021-06-21T13:27:26.452Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "182",
+            "190"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BBBLITsrRF",
+          "expanded_url": "https://youtu.be/D6tHTb2ozIc",
+          "display_url": "youtu.be/D6tHTb2ozIc",
+          "indices": [
+            "154",
+            "177"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "190"
+    ],
+    "favorite_count": "1",
+    "id_str": "1406951895525203972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1406951895525203972",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 21 12:27:26 +0000 2021",
+    "favorited": false,
+    "full_text": "My session from the On Deck Learning Conference is now available on YouTube!\n\nOn Deck Learning Conference: A Crash Course on What It Takes To Build A ... https://t.co/BBBLITsrRF via @YouTube",
+    "lang": "en"
+  }
+}

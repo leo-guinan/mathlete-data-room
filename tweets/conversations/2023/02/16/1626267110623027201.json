@@ -1,0 +1,156 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1626267110623027201"
+        ],
+        "editableUntil": "2023-02-16T17:37:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "80",
+            "94"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1626267110623027201/video/1",
+          "indices": [
+            "109",
+            "132"
+          ],
+          "url": "https://t.co/JQJVOe6p90",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1626267012832845824/img/oklUy_l8Utk-3V5U.jpg",
+          "id_str": "1626267012832845824",
+          "id": "1626267012832845824",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1626267012832845824/img/oklUy_l8Utk-3V5U.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/JQJVOe6p90"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "9",
+    "id_str": "1626267110623027201",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1626267110623027201",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 16 17:07:48 +0000 2023",
+    "favorited": false,
+    "full_text": "New episode of How To Scale Yourself is now live!\n\nScale Your Mindset featuring @MindsetByDave \n\nHighlights: https://t.co/JQJVOe6p90",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1626267110623027201/video/1",
+          "indices": [
+            "109",
+            "132"
+          ],
+          "url": "https://t.co/JQJVOe6p90",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1626267012832845824/img/oklUy_l8Utk-3V5U.jpg",
+          "id_str": "1626267012832845824",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "58160",
+            "variants": [
+              {
+                "bitrate": "288000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1626267012832845824/vid/480x270/5-MeWRzAfBVLCYz2.mp4?tag=14"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1626267012832845824/vid/640x360/xGWwt0T36sCHcE_V.mp4?tag=14"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1626267012832845824/vid/1280x720/McPa0sugLPTx8CLM.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1626267012832845824/pl/7MPuSJnP4A0QmLg8.m3u8?tag=14"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1626267012832845824",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1626267012832845824/img/oklUy_l8Utk-3V5U.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/JQJVOe6p90"
+        }
+      ]
+    }
+  }
+}

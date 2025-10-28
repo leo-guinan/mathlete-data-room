@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890033173347860836"
+        ],
+        "editableUntil": "2025-02-13T14:39:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Goals",
+          "indices": [
+            "0",
+            "6"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/e6AWz8KVcH",
+          "expanded_url": "https://x.com/GillVerd/status/1890021606233395594",
+          "display_url": "x.com/GillVerd/statu…",
+          "indices": [
+            "7",
+            "30"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "30"
+    ],
+    "favorite_count": "0",
+    "id_str": "1890033173347860836",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890033173347860836",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 13 13:39:58 +0000 2025",
+    "favorited": false,
+    "full_text": "#Goals https://t.co/e6AWz8KVcH",
+    "lang": "qht"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1849836119862526025"
+        ],
+        "editableUntil": "2024-10-25T16:31:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Monteleone",
+          "screen_name": "trivenge",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "108926202",
+          "id": "108926202"
+        },
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "10",
+            "23"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1849834857926402181",
+    "id_str": "1849836119862526025",
+    "in_reply_to_user_id": "108926202",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1849836119862526025",
+    "in_reply_to_status_id": "1849834857926402181",
+    "created_at": "Fri Oct 25 15:31:13 +0000 2024",
+    "favorited": false,
+    "full_text": "@trivenge @jessyka_boat I think there's actually going to be a new future of not worrying nearly as much about randomized control trials, because of the nature of AI. We don't actually want to set controls as tightly, because we could end up limiting the potential understanding we achieve.\n\nInstead, I…",
+    "lang": "en",
+    "in_reply_to_screen_name": "trivenge",
+    "in_reply_to_user_id_str": "108926202"
+  }
+}

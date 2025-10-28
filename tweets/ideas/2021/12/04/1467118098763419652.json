@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1467118098763419652"
+        ],
+        "editableUntil": "2021-12-04T14:06:27.138Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vLyz90KjhA",
+          "expanded_url": "https://x.com/BW/status/1467114737037201417",
+          "display_url": "x.com/BW/status/1467…",
+          "indices": [
+            "237",
+            "260"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "2",
+    "id_str": "1467118098763419652",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1467118098763419652",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 04 13:06:27 +0000 2021",
+    "favorited": false,
+    "full_text": "I think this is an interesting article.\n\nThis is why it's really important to think deeply about what metrics we teach users to optimize on.\n\nSocial media is the epitome of \"unintended consequences\". \n\nWhat are your users optimizing on? https://t.co/vLyz90KjhA",
+    "lang": "en"
+  }
+}

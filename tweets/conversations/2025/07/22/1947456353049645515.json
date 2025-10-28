@@ -1,0 +1,129 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1947456353049645515"
+        ],
+        "editableUntil": "2025-07-22T01:39:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/nC63G5jYcO",
+          "expanded_url": "http://leoasaservice.com",
+          "display_url": "leoasaservice.com",
+          "indices": [
+            "17",
+            "40"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1947456353049645515/photo/1",
+          "indices": [
+            "88",
+            "111"
+          ],
+          "url": "https://t.co/TxcKzl8x46",
+          "media_url": "http://pbs.twimg.com/media/Gwa-nZCWYAAxKM0.png",
+          "id_str": "1947453472829235200",
+          "id": "1947453472829235200",
+          "media_url_https": "https://pbs.twimg.com/media/Gwa-nZCWYAAxKM0.png",
+          "sizes": {
+            "large": {
+              "w": "1700",
+              "h": "716",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "286",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "505",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TxcKzl8x46"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1947456350067265981",
+    "id_str": "1947456353049645515",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1947456353049645515",
+    "in_reply_to_status_id": "1947456350067265981",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 22 00:39:11 +0000 2025",
+    "favorited": false,
+    "full_text": "Right now: go to https://t.co/nC63G5jYcO\n\nSign up.\n\nDrop a link to your favorite piece. https://t.co/TxcKzl8x46",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1947456353049645515/photo/1",
+          "indices": [
+            "88",
+            "111"
+          ],
+          "url": "https://t.co/TxcKzl8x46",
+          "media_url": "http://pbs.twimg.com/media/Gwa-nZCWYAAxKM0.png",
+          "id_str": "1947453472829235200",
+          "id": "1947453472829235200",
+          "media_url_https": "https://pbs.twimg.com/media/Gwa-nZCWYAAxKM0.png",
+          "sizes": {
+            "large": {
+              "w": "1700",
+              "h": "716",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "286",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "505",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TxcKzl8x46"
+        }
+      ]
+    }
+  }
+}

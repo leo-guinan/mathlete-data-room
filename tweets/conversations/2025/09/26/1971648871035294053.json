@@ -1,0 +1,160 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1971648871035294053"
+        ],
+        "editableUntil": "2025-09-26T19:51:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Henrik",
+          "screen_name": "ha1331",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "486007364",
+          "id": "486007364"
+        },
+        {
+          "name": "Roy",
+          "screen_name": "roydherbert",
+          "indices": [
+            "8",
+            "20"
+          ],
+          "id_str": "1488749842490871809",
+          "id": "1488749842490871809"
+        },
+        {
+          "name": "Eric Weinstein",
+          "screen_name": "EricRWeinstein",
+          "indices": [
+            "21",
+            "36"
+          ],
+          "id_str": "33152005",
+          "id": "33152005"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4n8bYMcY0m",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/how-to-fix-academic-publishing",
+          "display_url": "hitchhikertothefuture.substack.com/p/how-to-fix-a…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971648871035294053/photo/1",
+          "indices": [
+            "61",
+            "84"
+          ],
+          "url": "https://t.co/H7BxO25U7m",
+          "media_url": "http://pbs.twimg.com/media/G1y0Ms-XYAAZF9R.jpg",
+          "id_str": "1971648867205603328",
+          "id": "1971648867205603328",
+          "media_url_https": "https://pbs.twimg.com/media/G1y0Ms-XYAAZF9R.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/H7BxO25U7m"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1971633993000145312",
+    "id_str": "1971648871035294053",
+    "in_reply_to_user_id": "486007364",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1971648871035294053",
+    "in_reply_to_status_id": "1971633993000145312",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 26 18:51:36 +0000 2025",
+    "favorited": false,
+    "full_text": "@ha1331 @roydherbert @EricRWeinstein https://t.co/4n8bYMcY0m https://t.co/H7BxO25U7m",
+    "lang": "qme",
+    "in_reply_to_screen_name": "ha1331",
+    "in_reply_to_user_id_str": "486007364",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971648871035294053/photo/1",
+          "indices": [
+            "61",
+            "84"
+          ],
+          "url": "https://t.co/H7BxO25U7m",
+          "media_url": "http://pbs.twimg.com/media/G1y0Ms-XYAAZF9R.jpg",
+          "id_str": "1971648867205603328",
+          "id": "1971648867205603328",
+          "media_url_https": "https://pbs.twimg.com/media/G1y0Ms-XYAAZF9R.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/H7BxO25U7m"
+        }
+      ]
+    }
+  }
+}

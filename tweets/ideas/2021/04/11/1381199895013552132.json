@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381199895013552132"
+        ],
+        "editableUntil": "2021-04-11T11:58:11.081Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uckHwLRWHC",
+          "expanded_url": "https://link.medium.com/OPilV4mOmfb",
+          "display_url": "link.medium.com/OPilV4mOmfb",
+          "indices": [
+            "78",
+            "101"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "101"
+    ],
+    "favorite_count": "0",
+    "id_str": "1381199895013552132",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381199895013552132",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 11 10:58:11 +0000 2021",
+    "favorited": false,
+    "full_text": "“Once you take the first step, though, the second step becomes more obvious.” https://t.co/uckHwLRWHC",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1924550028204359953"
+        ],
+        "editableUntil": "2025-05-19T20:37:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1924550028204359953/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/MaD8zs04DQ",
+          "media_url": "http://pbs.twimg.com/media/GrVf8OXWUAA2a2O.jpg",
+          "id_str": "1924549904023572480",
+          "id": "1924549904023572480",
+          "media_url_https": "https://pbs.twimg.com/media/GrVf8OXWUAA2a2O.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "470",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1316",
+              "h": "910",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "830",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MaD8zs04DQ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "1",
+    "id_str": "1924550028204359953",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1924550028204359953",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 19 19:37:37 +0000 2025",
+    "favorited": false,
+    "full_text": "Sometimes, you've just got to try to capture the souls of the people around you.\n\nToday is one of those days. https://t.co/MaD8zs04DQ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1924550028204359953/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/MaD8zs04DQ",
+          "media_url": "http://pbs.twimg.com/media/GrVf8OXWUAA2a2O.jpg",
+          "id_str": "1924549904023572480",
+          "id": "1924549904023572480",
+          "media_url_https": "https://pbs.twimg.com/media/GrVf8OXWUAA2a2O.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "470",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1316",
+              "h": "910",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "830",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MaD8zs04DQ"
+        }
+      ]
+    }
+  }
+}

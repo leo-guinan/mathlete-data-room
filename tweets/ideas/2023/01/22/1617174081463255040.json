@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617174081463255040"
+        ],
+        "editableUntil": "2023-01-22T15:25:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "235"
+    ],
+    "favorite_count": "1",
+    "id_str": "1617174081463255040",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1617174081463255040",
+    "created_at": "Sun Jan 22 14:55:21 +0000 2023",
+    "favorited": false,
+    "full_text": "Spent a few hours yesterday refactoring. It was really quick to break things into smaller bits of functionality, but in doing so, I managed to completely overwhelm my servers.\n\nAnd there were a few edge cases that didn't work properly.",
+    "lang": "en"
+  }
+}

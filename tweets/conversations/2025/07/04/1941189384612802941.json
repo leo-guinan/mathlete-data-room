@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941189384612802941"
+        ],
+        "editableUntil": "2025-07-04T18:36:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "38",
+            "52"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941189384612802941/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/WgasFMw1Tp",
+          "media_url": "http://pbs.twimg.com/media/GvB9cD3XoAA5Bto.jpg",
+          "id_str": "1941189360424034304",
+          "id": "1941189360424034304",
+          "media_url_https": "https://pbs.twimg.com/media/GvB9cD3XoAA5Bto.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/WgasFMw1Tp"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1941189384612802941",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941189384612802941",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 04 17:36:29 +0000 2025",
+    "favorited": false,
+    "full_text": "I want to be the digital lovechild of @iamjasonlevin and Alexander Hamilton\n\nThat's the niche I'm aiming for. https://t.co/WgasFMw1Tp",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941189384612802941/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/WgasFMw1Tp",
+          "media_url": "http://pbs.twimg.com/media/GvB9cD3XoAA5Bto.jpg",
+          "id_str": "1941189360424034304",
+          "id": "1941189360424034304",
+          "media_url_https": "https://pbs.twimg.com/media/GvB9cD3XoAA5Bto.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/WgasFMw1Tp"
+        }
+      ]
+    }
+  }
+}

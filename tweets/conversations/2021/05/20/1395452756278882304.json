@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1395452756278882304"
+        ],
+        "editableUntil": "2021-05-20T19:53:58.012Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "266"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1395451386880434177",
+    "id_str": "1395452756278882304",
+    "in_reply_to_user_id": "1136454673521528832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1395452756278882304",
+    "in_reply_to_status_id": "1395451386880434177",
+    "created_at": "Thu May 20 18:53:58 +0000 2021",
+    "favorited": false,
+    "full_text": "@fernandoparnes That is some awesome feedback! I'm only a little jealous. 😅\n\nDefinitely excited to be building in this space alongside you. Creators are going to disrupt so many industries and we are just starting to see what they can do. Let's build some cool shit!",
+    "lang": "en",
+    "in_reply_to_screen_name": "fernandoparnes",
+    "in_reply_to_user_id_str": "1136454673521528832"
+  }
+}

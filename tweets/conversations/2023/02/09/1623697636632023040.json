@@ -1,0 +1,156 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1623697636632023040"
+        ],
+        "editableUntil": "2023-02-09T15:27:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "83",
+            "93"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1623697636632023040/video/1",
+          "indices": [
+            "124",
+            "147"
+          ],
+          "url": "https://t.co/ZDmnxtiMYI",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623697552087437314/img/srjkzLVpL0djFZsA.jpg",
+          "id_str": "1623697552087437314",
+          "id": "1623697552087437314",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623697552087437314/img/srjkzLVpL0djFZsA.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZDmnxtiMYI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "147"
+    ],
+    "favorite_count": "5",
+    "id_str": "1623697636632023040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1623697636632023040",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 09 14:57:38 +0000 2023",
+    "favorited": false,
+    "full_text": "New Episode of How To Scale Yourself is live!\n\nScale Your Introversion - Featuring @NotechAna \n\nKey Ideas from the episode: https://t.co/ZDmnxtiMYI",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1623697636632023040/video/1",
+          "indices": [
+            "124",
+            "147"
+          ],
+          "url": "https://t.co/ZDmnxtiMYI",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1623697552087437314/img/srjkzLVpL0djFZsA.jpg",
+          "id_str": "1623697552087437314",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "53240",
+            "variants": [
+              {
+                "bitrate": "288000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1623697552087437314/vid/480x270/MOz2YfAqhkcSPZua.mp4?tag=14"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1623697552087437314/vid/1280x720/WUy0tH3F7Qj0gTaj.mp4?tag=14"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1623697552087437314/vid/640x360/mrI4BZ_8V2IysHKl.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1623697552087437314/pl/NxveV7skQFgpEg_P.m3u8?tag=14"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1623697552087437314",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1623697552087437314/img/srjkzLVpL0djFZsA.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/ZDmnxtiMYI"
+        }
+      ]
+    }
+  }
+}

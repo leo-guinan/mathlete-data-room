@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1496288075240165378"
+        ],
+        "editableUntil": "2022-02-23T01:57:31.482Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "startPod",
+          "indices": [
+            "123",
+            "132"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "The Podcast Host 🎙",
+          "screen_name": "thepodcasthost",
+          "indices": [
+            "133",
+            "148"
+          ],
+          "id_str": "611664220",
+          "id": "611664220"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "3",
+    "id_str": "1496288075240165378",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1496288075240165378",
+    "created_at": "Wed Feb 23 00:57:31 +0000 2022",
+    "favorited": false,
+    "full_text": "The problem I'm solving is helping people use technology to scale aspects of their lives in sustainable and healthy ways.\n\n#startPod @thepodcasthost",
+    "lang": "en"
+  }
+}

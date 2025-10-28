@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563705624633950208"
+        ],
+        "editableUntil": "2022-08-28T02:20:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CuchoIsMyHero",
+          "indices": [
+            "0",
+            "14"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ksgwql5Rma",
+          "expanded_url": "https://t.co/Ksgwql5Rma",
+          "display_url": "t.co/Ksgwql5Rma",
+          "indices": [
+            "15",
+            "38"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "0",
+    "id_str": "1563705624633950208",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563705624633950208",
+    "possibly_sensitive": false,
+    "created_at": "Sun Aug 28 01:50:47 +0000 2022",
+    "favorited": false,
+    "full_text": "#CuchoIsMyHero https://t.co/Ksgwql5Rma",
+    "lang": "qht"
+  }
+}

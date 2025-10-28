@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1523038915594452993"
+        ],
+        "editableUntil": "2022-05-07T21:05:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CuInI9aEVX",
+          "expanded_url": "https://x.com/juliafmorgado/status/1522977662574243840",
+          "display_url": "x.com/juliafmorgado/…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "2",
+    "id_str": "1523038915594452993",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1523038915594452993",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 07 20:35:48 +0000 2022",
+    "favorited": false,
+    "full_text": "Great tips from Julia! https://t.co/CuInI9aEVX",
+    "lang": "en"
+  }
+}

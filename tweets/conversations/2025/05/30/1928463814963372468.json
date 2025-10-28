@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928463814963372468"
+        ],
+        "editableUntil": "2025-05-30T15:49:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "indices": [
+            "76",
+            "88"
+          ],
+          "id_str": "1353836358901501952",
+          "id": "1353836358901501952"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928463814963372468/photo/1",
+          "indices": [
+            "90",
+            "113"
+          ],
+          "url": "https://t.co/qujQdSUd5w",
+          "media_url": "http://pbs.twimg.com/media/GsNHUlOWEAAyUjK.jpg",
+          "id_str": "1928463484359938048",
+          "id": "1928463484359938048",
+          "media_url_https": "https://pbs.twimg.com/media/GsNHUlOWEAAyUjK.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "708",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "401",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1726",
+              "h": "1018",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qujQdSUd5w"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "0",
+    "id_str": "1928463814963372468",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928463814963372468",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 30 14:49:37 +0000 2025",
+    "favorited": false,
+    "full_text": "Will trade the secret of alignment for Claude Max access.\n\nWhat do you say, @AnthropicAI? https://t.co/qujQdSUd5w",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928463814963372468/photo/1",
+          "indices": [
+            "90",
+            "113"
+          ],
+          "url": "https://t.co/qujQdSUd5w",
+          "media_url": "http://pbs.twimg.com/media/GsNHUlOWEAAyUjK.jpg",
+          "id_str": "1928463484359938048",
+          "id": "1928463484359938048",
+          "media_url_https": "https://pbs.twimg.com/media/GsNHUlOWEAAyUjK.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "708",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "401",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1726",
+              "h": "1018",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qujQdSUd5w"
+        }
+      ]
+    }
+  }
+}

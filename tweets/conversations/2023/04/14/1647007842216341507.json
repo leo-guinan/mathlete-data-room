@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1647007842216341507"
+        ],
+        "editableUntil": "2023-04-14T23:14:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "67",
+            "79"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1647007842216341507/photo/1",
+          "indices": [
+            "81",
+            "104"
+          ],
+          "url": "https://t.co/6IyVqJKAJM",
+          "media_url": "http://pbs.twimg.com/media/FttY2rjX0AEfrgG.jpg",
+          "id_str": "1647007785161314305",
+          "id": "1647007785161314305",
+          "media_url_https": "https://pbs.twimg.com/media/FttY2rjX0AEfrgG.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6IyVqJKAJM"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1647007839448186884",
+    "id_str": "1647007842216341507",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1647007842216341507",
+    "in_reply_to_status_id": "1647007839448186884",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 14 22:44:04 +0000 2023",
+    "favorited": false,
+    "full_text": "And here's a picture of a Kangaroo Postal Carrier.\n\nIYKYK\n(for you @UntappedKeg) https://t.co/6IyVqJKAJM",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1647007842216341507/photo/1",
+          "indices": [
+            "81",
+            "104"
+          ],
+          "url": "https://t.co/6IyVqJKAJM",
+          "media_url": "http://pbs.twimg.com/media/FttY2rjX0AEfrgG.jpg",
+          "id_str": "1647007785161314305",
+          "id": "1647007785161314305",
+          "media_url_https": "https://pbs.twimg.com/media/FttY2rjX0AEfrgG.jpg",
+          "sizes": {
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6IyVqJKAJM"
+        }
+      ]
+    }
+  }
+}

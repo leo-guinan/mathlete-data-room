@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1530153075180183556"
+        ],
+        "editableUntil": "2022-05-27T12:14:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Libby",
+          "screen_name": "davidlibby",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "7546192",
+          "id": "7546192"
+        },
+        {
+          "name": "Bicycle Coffee Co.",
+          "screen_name": "bicyclecoffeeco",
+          "indices": [
+            "12",
+            "28"
+          ],
+          "id_str": "64848840",
+          "id": "64848840"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "106"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1530048661878517762",
+    "id_str": "1530153075180183556",
+    "in_reply_to_user_id": "7546192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1530153075180183556",
+    "in_reply_to_status_id": "1530048661878517762",
+    "created_at": "Fri May 27 11:44:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@davidlibby @bicyclecoffeeco Will have to check them out! That's a new one I wasn't familiar with! Thanks!",
+    "lang": "en",
+    "in_reply_to_screen_name": "davidlibby",
+    "in_reply_to_user_id_str": "7546192"
+  }
+}

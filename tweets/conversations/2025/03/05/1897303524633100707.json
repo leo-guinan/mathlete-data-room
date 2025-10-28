@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897303524633100707"
+        ],
+        "editableUntil": "2025-03-05T16:09:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "kasra",
+          "screen_name": "kasratweets",
+          "indices": [
+            "17",
+            "29"
+          ],
+          "id_str": "1040051058435874816",
+          "id": "1040051058435874816"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Yy0TLEkGzP",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/grant_proposals/Community%20Cultural%20LLM%20Grant%20Proposal.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "94",
+            "117"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "117"
+    ],
+    "favorite_count": "7",
+    "in_reply_to_status_id_str": "1897300079662522701",
+    "id_str": "1897303524633100707",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897303524633100707",
+    "in_reply_to_status_id": "1897300079662522701",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 05 15:09:45 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @kasratweets Good call! I just added a grant proposal I wrote up to my repo:\nhttps://t.co/Yy0TLEkGzP",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

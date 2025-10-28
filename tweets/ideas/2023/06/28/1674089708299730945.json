@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1674089708299730945"
+        ],
+        "editableUntil": "2023-06-28T17:17:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1674089708299730945/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/VuEbzmBWuv",
+          "media_url": "http://pbs.twimg.com/media/FzuPhrmWYAUnYGh.jpg",
+          "id_str": "1674089495300300805",
+          "id": "1674089495300300805",
+          "media_url_https": "https://pbs.twimg.com/media/FzuPhrmWYAUnYGh.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VuEbzmBWuv"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "id_str": "1674089708299730945",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1674089708299730945",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 28 16:17:44 +0000 2023",
+    "favorited": false,
+    "full_text": "Premiering in 45 minutes:\n\nI'm trying something a bit new. This video is more in-depth into my AI-native Content Flywheel that I'm using for TalkHomey.\n\nTook me a lot longer to edit than my normal videos because it's about twice as long, but I had some fun with it. https://t.co/VuEbzmBWuv",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1674089708299730945/photo/1",
+          "indices": [
+            "266",
+            "289"
+          ],
+          "url": "https://t.co/VuEbzmBWuv",
+          "media_url": "http://pbs.twimg.com/media/FzuPhrmWYAUnYGh.jpg",
+          "id_str": "1674089495300300805",
+          "id": "1674089495300300805",
+          "media_url_https": "https://pbs.twimg.com/media/FzuPhrmWYAUnYGh.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VuEbzmBWuv"
+        }
+      ]
+    }
+  }
+}

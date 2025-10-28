@@ -1,0 +1,75 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1824523326158672107"
+        ],
+        "editableUntil": "2024-08-16T20:07:13.617Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "text": "TBALL",
+          "indices": [
+            "59",
+            "65"
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "$TBALL on $SOL 🏐",
+          "screen_name": "tetherballcoin",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1795945743410483200",
+          "id": "1795945743410483200"
+        },
+        {
+          "name": "DEX Screener",
+          "screen_name": "dexscreener",
+          "indices": [
+            "79",
+            "91"
+          ],
+          "id_str": "1452480311405727751",
+          "id": "1452480311405727751"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oep0BMLKEA",
+          "expanded_url": "https://dexscreener.com/solana/FY5YpKXdBnAvQfzb9cfzyZ2DgB4yGshCpiRrHSYyJQig",
+          "display_url": "dexscreener.com/solana/FY5YpKX…",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1824523326158672107",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1824523326158672107",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 16 19:07:13 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @tetherballcoin: 🌅 GM, Babe!!! Wake up... it’s 3am PST, $TBALL is listed on @dexscreener 😳\n\nhttps://t.co/oep0BMLKEA\n\n🏐In this latest Sub…",
+    "lang": "en"
+  }
+}

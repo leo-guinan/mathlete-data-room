@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1526925427662536710"
+        ],
+        "editableUntil": "2022-05-18T14:29:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1526925425783578625",
+    "id_str": "1526925427662536710",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1526925427662536710",
+    "in_reply_to_status_id": "1526925425783578625",
+    "created_at": "Wed May 18 13:59:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark I've been refining what building in public means to me.\n\nIt's not something that should be limited to startups.\n\nAnyone can build their future in public.\n\nAnd by doing so, they can achieve the future they never thought was possible.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

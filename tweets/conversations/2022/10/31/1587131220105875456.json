@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1587131220105875456"
+        ],
+        "editableUntil": "2022-10-31T17:45:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "110",
+            "126"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/s8U9dbzc9D",
+          "expanded_url": "https://x.com/LobowSpark/status/1586947625877635072",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "129",
+            "152"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "152"
+    ],
+    "favorite_count": "2",
+    "id_str": "1587131220105875456",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1587131220105875456",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 31 17:15:45 +0000 2022",
+    "favorited": false,
+    "full_text": "Another brilliant highlight reel! Love it!\n\nSo great to have you as such an integral member of the community, @BlushingCrafter ! https://t.co/s8U9dbzc9D",
+    "lang": "en"
+  }
+}

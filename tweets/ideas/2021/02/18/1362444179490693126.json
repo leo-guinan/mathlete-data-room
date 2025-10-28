@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362444179490693126"
+        ],
+        "editableUntil": "2021-02-18T17:49:40.036Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/seuaLmE20s",
+          "expanded_url": "https://cash.app/$leoguinan",
+          "display_url": "cash.app/$leoguinan",
+          "indices": [
+            "65",
+            "88"
+          ]
+        },
+        {
+          "url": "https://t.co/IvJHi7pltR",
+          "expanded_url": "https://x.com/leo_guinan/status/1362361363247599618",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "89",
+            "112"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "0",
+    "id_str": "1362444179490693126",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362444179490693126",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 18 16:49:40 +0000 2021",
+    "favorited": false,
+    "full_text": "Also CashApp for those who don't use PayPal and want to support:\nhttps://t.co/seuaLmE20s https://t.co/IvJHi7pltR",
+    "lang": "en"
+  }
+}

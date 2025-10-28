@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1795971789069119619"
+        ],
+        "editableUntil": "2024-05-30T01:13:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "284"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1795969258587107820",
+    "id_str": "1795971789069119619",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1795971789069119619",
+    "in_reply_to_status_id": "1795969258587107820",
+    "created_at": "Thu May 30 00:13:36 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli I think it's the result of inefficient systems. \n\nIf there were more predictable systems based on the way the world actually worked, it would be easier, because you could use salary as a way to estimate value created.\n\nright now though, it's all a crap shoot, so trial+error",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

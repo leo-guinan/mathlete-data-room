@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1912898938274803927"
+        ],
+        "editableUntil": "2025-04-17T17:00:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1912898938274803927/photo/1",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/F5S6MxqIys",
+          "media_url": "http://pbs.twimg.com/media/Gov7Xf7WEAA1Hcu.png",
+          "id_str": "1912898847874879488",
+          "id": "1912898847874879488",
+          "media_url_https": "https://pbs.twimg.com/media/Gov7Xf7WEAA1Hcu.png",
+          "sizes": {
+            "large": {
+              "w": "398",
+              "h": "424",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "398",
+              "h": "424",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "398",
+              "h": "424",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/F5S6MxqIys"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "0",
+    "id_str": "1912898938274803927",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1912898938274803927",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 17 16:00:21 +0000 2025",
+    "favorited": false,
+    "full_text": "A question for you to ponder on this Thursday https://t.co/F5S6MxqIys",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1912898938274803927/photo/1",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/F5S6MxqIys",
+          "media_url": "http://pbs.twimg.com/media/Gov7Xf7WEAA1Hcu.png",
+          "id_str": "1912898847874879488",
+          "id": "1912898847874879488",
+          "media_url_https": "https://pbs.twimg.com/media/Gov7Xf7WEAA1Hcu.png",
+          "sizes": {
+            "large": {
+              "w": "398",
+              "h": "424",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "398",
+              "h": "424",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "398",
+              "h": "424",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/F5S6MxqIys"
+        }
+      ]
+    }
+  }
+}

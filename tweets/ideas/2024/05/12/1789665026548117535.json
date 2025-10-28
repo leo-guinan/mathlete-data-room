@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1789665026548117535"
+        ],
+        "editableUntil": "2024-05-12T15:32:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1DT84q8jMu",
+          "expanded_url": "https://youtu.be/FoAUJs1NIko",
+          "display_url": "youtu.be/FoAUJs1NIko",
+          "indices": [
+            "34",
+            "57"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "261"
+    ],
+    "favorite_count": "0",
+    "id_str": "1789665026548117535",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1789665026548117535",
+    "possibly_sensitive": false,
+    "created_at": "Sun May 12 14:32:47 +0000 2024",
+    "favorited": false,
+    "full_text": "This was an awesome video to get:\nhttps://t.co/1DT84q8jMu\n\nA friend of mine offered to review My AI Cofounder for my YouTube channel, and after watching it, I've gotten a lot of great ideas.\n\nSuper helpful to have friends willing to do things like that for you.",
+    "lang": "en"
+  }
+}

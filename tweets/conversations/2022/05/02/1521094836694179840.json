@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1521094836694179840"
+        ],
+        "editableUntil": "2022-05-02T12:20:44.300Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "13",
+            "22"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1521053799514664961",
+    "id_str": "1521094836694179840",
+    "in_reply_to_user_id": "3556446858",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1521094836694179840",
+    "in_reply_to_status_id": "1521053799514664961",
+    "created_at": "Mon May 02 11:50:44 +0000 2022",
+    "favorited": false,
+    "full_text": "@pablomuralo @reddy2go Happy to walk you through it if you want! I'm going to be updating the onboarding process soon. It's not the clearest at the moment.\n\nSo let me know if you have any questions!",
+    "lang": "en",
+    "in_reply_to_screen_name": "shreyasmakes",
+    "in_reply_to_user_id_str": "3556446858"
+  }
+}

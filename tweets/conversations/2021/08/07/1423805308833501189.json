@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423805308833501189"
+        ],
+        "editableUntil": "2021-08-07T01:36:53.306Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1423786365469315078",
+    "id_str": "1423805308833501189",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423805308833501189",
+    "in_reply_to_status_id": "1423786365469315078",
+    "created_at": "Sat Aug 07 00:36:53 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, now I've got a DAG that has a single operator. That operator takes some parameters and grabs the users following a given twitter id. \n\nThat's a good start for tonight. I've now been working for about 12 hours today, so I'm going to step away for the evening.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

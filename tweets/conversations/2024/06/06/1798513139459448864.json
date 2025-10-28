@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1798513139459448864"
+        ],
+        "editableUntil": "2024-06-06T01:32:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Corderosa Amada Kugla",
+          "screen_name": "HausOfErostribe",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1327026808726855680",
+          "id": "1327026808726855680"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "17",
+            "33"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Christian Keil",
+          "screen_name": "pronounced_kyle",
+          "indices": [
+            "34",
+            "50"
+          ],
+          "id_str": "173768804",
+          "id": "173768804"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7WgLDLwYjR",
+          "expanded_url": "https://x.com/leo_guinan/status/1798512815164289024",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1798506258733187356",
+    "id_str": "1798513139459448864",
+    "in_reply_to_user_id": "1327026808726855680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1798513139459448864",
+    "in_reply_to_status_id": "1798506258733187356",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 06 00:32:01 +0000 2024",
+    "favorited": false,
+    "full_text": "@HausOfErostribe @StroutMotivateU @pronounced_kyle Here's the first result I got, from the video I published today:\nhttps://t.co/7WgLDLwYjR",
+    "lang": "en",
+    "in_reply_to_screen_name": "HausOfErostribe",
+    "in_reply_to_user_id_str": "1327026808726855680"
+  }
+}

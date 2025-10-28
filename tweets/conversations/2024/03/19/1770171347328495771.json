@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1770171347328495771"
+        ],
+        "editableUntil": "2024-03-19T20:31:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kickstarter",
+          "screen_name": "Kickstarter",
+          "indices": [
+            "110",
+            "122"
+          ],
+          "id_str": "16186995",
+          "id": "16186995"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RH5A8wFEGm",
+          "expanded_url": "https://www.kickstarter.com/projects/chrisferrie/quokka-your-personal-quantum-computer?ref=thanks-tweet",
+          "display_url": "kickstarter.com/projects/chris…",
+          "indices": [
+            "123",
+            "146"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "1",
+    "id_str": "1770171347328495771",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1770171347328495771",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 19 19:31:52 +0000 2024",
+    "favorited": false,
+    "full_text": "I couldn't resist. I've got to get one to play with.\n\nI just backed Quokka: Your Personal Quantum Computer on @Kickstarter https://t.co/RH5A8wFEGm",
+    "lang": "en"
+  }
+}

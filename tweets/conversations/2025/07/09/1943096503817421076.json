@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1943096503817421076"
+        ],
+        "editableUntil": "2025-07-10T00:54:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "alcuin ❄️",
+          "screen_name": "scheminglunatic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1836490059417006081",
+          "id": "1836490059417006081"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vJE2vdIudd",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/the-trust-engine-vision-statement",
+          "display_url": "hitchhikertothefuture.substack.com/p/the-trust-en…",
+          "indices": [
+            "31",
+            "54"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1943040720845312027",
+    "id_str": "1943096503817421076",
+    "in_reply_to_user_id": "1836490059417006081",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1943096503817421076",
+    "in_reply_to_status_id": "1943040720845312027",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 09 23:54:42 +0000 2025",
+    "favorited": false,
+    "full_text": "@scheminglunatic Here you go.\n\nhttps://t.co/vJE2vdIudd",
+    "lang": "en",
+    "in_reply_to_screen_name": "scheminglunatic",
+    "in_reply_to_user_id_str": "1836490059417006081"
+  }
+}

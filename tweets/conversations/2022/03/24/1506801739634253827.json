@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1506801739634253827"
+        ],
+        "editableUntil": "2022-03-24T02:15:04.408Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1506636168489844741",
+    "id_str": "1506801739634253827",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1506801739634253827",
+    "in_reply_to_status_id": "1506636168489844741",
+    "created_at": "Thu Mar 24 01:15:04 +0000 2022",
+    "favorited": false,
+    "full_text": "@dagorenouf The biggest key is understanding the data.\n\nIf something isn't working, figure out why.\n\nSometimes, there's something you're missing.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423009447031545867"
+        ],
+        "editableUntil": "2021-08-04T20:54:25.066Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Josh",
+          "screen_name": "JoshuaOgundu",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1599986989",
+          "id": "1599986989"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/JoshuaOgundu/status/1422986684455555072/video/1",
+          "source_status_id": "1422986684455555072",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/N0io41RiTL",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422986615085879297/pu/img/aD0hcw8sO61jgsUw.jpg",
+          "id_str": "1422986615085879297",
+          "source_user_id": "1599986989",
+          "id": "1422986615085879297",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422986615085879297/pu/img/aD0hcw8sO61jgsUw.jpg",
+          "source_user_id_str": "1599986989",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1422986684455555072",
+          "display_url": "pic.x.com/N0io41RiTL"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "0",
+    "id_str": "1423009447031545867",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423009447031545867",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 04 19:54:25 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @JoshuaOgundu: Midwest startup investors vs California startup investors https://t.co/N0io41RiTL",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/JoshuaOgundu/status/1422986684455555072/video/1",
+          "source_status_id": "1422986684455555072",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/N0io41RiTL",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1422986615085879297/pu/img/aD0hcw8sO61jgsUw.jpg",
+          "id_str": "1422986615085879297",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "13833",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1422986615085879297/pu/pl/kpenFT8_AKXP3Wd0.m3u8?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1422986615085879297/pu/vid/720x1280/D54s43DxWbRH95r8.mp4?tag=12"
+              },
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1422986615085879297/pu/vid/480x852/olp6XvHAkGRAvzm9.mp4?tag=12"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1422986615085879297/pu/vid/320x568/rCY4a1I5pWPIySuY.mp4?tag=12"
+              }
+            ]
+          },
+          "source_user_id": "1599986989",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1422986615085879297",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1422986615085879297/pu/img/aD0hcw8sO61jgsUw.jpg",
+          "source_user_id_str": "1599986989",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1422986684455555072",
+          "display_url": "pic.x.com/N0io41RiTL"
+        }
+      ]
+    }
+  }
+}

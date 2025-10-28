@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1907859705722294724"
+        ],
+        "editableUntil": "2025-04-03T19:16:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zeal",
+          "screen_name": "zealcaiden",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "85681500",
+          "id": "85681500"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jVhwQaD4Ve",
+          "expanded_url": "https://x.com/leo_guinan/status/1907482097746370569",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1907842179005108686",
+    "id_str": "1907859705722294724",
+    "in_reply_to_user_id": "85681500",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1907859705722294724",
+    "in_reply_to_status_id": "1907842179005108686",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 03 18:16:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@zealcaiden Man, I only dropped the research yesterday and it's already spreading? I figured it would take longer.\n\nhttps://t.co/jVhwQaD4Ve",
+    "lang": "en",
+    "in_reply_to_screen_name": "zealcaiden",
+    "in_reply_to_user_id_str": "85681500"
+  }
+}

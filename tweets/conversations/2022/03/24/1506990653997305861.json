@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1506990653997305861"
+        ],
+        "editableUntil": "2022-03-24T14:45:45.102Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "FundStory",
+          "screen_name": "FundStoryHQ",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1273247028768899078",
+          "id": "1273247028768899078"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/OdcOhLY3jZ",
+          "expanded_url": "https://www.producthunt.com/posts/fundstory-2-0",
+          "display_url": "producthunt.com/posts/fundstor…",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/FundStoryHQ/status/1506889299538558978/photo/1",
+          "source_status_id": "1506889299538558978",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/7p6V4GIbMc",
+          "media_url": "http://pbs.twimg.com/media/FOlT-CtWYAg_Dsj.jpg",
+          "id_str": "1506827875676217352",
+          "source_user_id": "1273247028768899078",
+          "id": "1506827875676217352",
+          "media_url_https": "https://pbs.twimg.com/media/FOlT-CtWYAg_Dsj.jpg",
+          "source_user_id_str": "1273247028768899078",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "698",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1468",
+              "h": "854",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "396",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1506889299538558978",
+          "display_url": "pic.x.com/7p6V4GIbMc"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "0",
+    "id_str": "1506990653997305861",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1506990653997305861",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 24 13:45:45 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @FundStoryHQ: Launch day 🎉🎉🎉\n\nCheck us out!\nhttps://t.co/OdcOhLY3jZ https://t.co/7p6V4GIbMc",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/FundStoryHQ/status/1506889299538558978/photo/1",
+          "source_status_id": "1506889299538558978",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/7p6V4GIbMc",
+          "media_url": "http://pbs.twimg.com/media/FOlT-CtWYAg_Dsj.jpg",
+          "id_str": "1506827875676217352",
+          "source_user_id": "1273247028768899078",
+          "id": "1506827875676217352",
+          "media_url_https": "https://pbs.twimg.com/media/FOlT-CtWYAg_Dsj.jpg",
+          "source_user_id_str": "1273247028768899078",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "698",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1468",
+              "h": "854",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "396",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1506889299538558978",
+          "display_url": "pic.x.com/7p6V4GIbMc"
+        }
+      ]
+    }
+  }
+}

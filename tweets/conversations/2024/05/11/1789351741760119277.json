@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1789351741760119277"
+        ],
+        "editableUntil": "2024-05-11T18:47:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/G54KuDDknI",
+          "expanded_url": "https://x.com/leo_guinan/status/1789351719714844924",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "10",
+            "33"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "33"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1789351719714844924",
+    "id_str": "1789351741760119277",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1789351741760119277",
+    "in_reply_to_status_id": "1789351719714844924",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 11 17:47:54 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli https://t.co/G54KuDDknI",
+    "lang": "qme",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348441927675506688"
+        ],
+        "editableUntil": "2021-01-11T02:29:43.054Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Browns",
+          "indices": [
+            "36",
+            "43"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sSOmSb2FSZ",
+          "expanded_url": "https://x.com/leo_guinan/status/1348440485531152387",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "44",
+            "67"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348441927675506688",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348441927675506688",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 11 01:29:43 +0000 2021",
+    "favorited": false,
+    "full_text": "Playoff football is REALLY fun!!!!\n\n#Browns https://t.co/sSOmSb2FSZ",
+    "lang": "en"
+  }
+}

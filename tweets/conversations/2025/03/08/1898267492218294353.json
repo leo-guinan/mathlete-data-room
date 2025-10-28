@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898267492218294353"
+        ],
+        "editableUntil": "2025-03-08T08:00:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Guy IS GOING TO NYC!!!",
+          "screen_name": "nosilverv",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1163743742764998658",
+          "id": "1163743742764998658"
+        },
+        {
+          "name": "Nabeel S. Qureshi",
+          "screen_name": "nabeelqu",
+          "indices": [
+            "11",
+            "20"
+          ],
+          "id_str": "221378940",
+          "id": "221378940"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "44",
+            "58"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "141"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898161142544961555",
+    "id_str": "1898267492218294353",
+    "in_reply_to_user_id": "1163743742764998658",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898267492218294353",
+    "in_reply_to_status_id": "1898161142544961555",
+    "created_at": "Sat Mar 08 07:00:12 +0000 2025",
+    "favorited": false,
+    "full_text": "@nosilverv @nabeelqu That’s a type of chaos @glitchishuman appreciates. Although with less stabbing. \n\nGlitch is more of a chaotic good soul.",
+    "lang": "en",
+    "in_reply_to_screen_name": "nosilverv",
+    "in_reply_to_user_id_str": "1163743742764998658"
+  }
+}

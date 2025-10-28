@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553835138798288896"
+        ],
+        "editableUntil": "2022-07-31T20:39:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        },
+        {
+          "name": "Sandeep Todi",
+          "screen_name": "sandeeptodi",
+          "indices": [
+            "16",
+            "28"
+          ],
+          "id_str": "56572234",
+          "id": "56572234"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1553835138798288896/photo/1",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/yzJ6jsWEPS",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZBU0hgXoAcRPdg.jpg",
+          "id_str": "1553835132766887943",
+          "id": "1553835132766887943",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZBU0hgXoAcRPdg.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/yzJ6jsWEPS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1553821068095172608",
+    "id_str": "1553835138798288896",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553835138798288896",
+    "in_reply_to_status_id": "1553821068095172608",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 31 20:09:00 +0000 2022",
+    "favorited": false,
+    "full_text": "@hellostartupla @sandeeptodi https://t.co/yzJ6jsWEPS",
+    "lang": "qme",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1553835138798288896/photo/1",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/yzJ6jsWEPS",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FZBU0hgXoAcRPdg.jpg",
+          "id_str": "1553835132766887943",
+          "video_info": {
+            "aspect_ratio": [
+              "1",
+              "1"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FZBU0hgXoAcRPdg.mp4"
+              }
+            ]
+          },
+          "id": "1553835132766887943",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FZBU0hgXoAcRPdg.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "498",
+              "h": "498",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/yzJ6jsWEPS"
+        }
+      ]
+    }
+  }
+}

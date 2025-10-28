@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482034552038170629"
+        ],
+        "editableUntil": "2022-01-14T17:59:06.733Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "codemash",
+          "screen_name": "codemash",
+          "indices": [
+            "23",
+            "32"
+          ],
+          "id_str": "7469772",
+          "id": "7469772"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "0",
+    "id_str": "1482034552038170629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1482034552038170629",
+    "created_at": "Fri Jan 14 16:59:06 +0000 2022",
+    "favorited": false,
+    "full_text": "Something I love about @codemash : I always end up getting so inspired to go build stuff afterward.",
+    "lang": "en"
+  }
+}

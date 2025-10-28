@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509550695573340169"
+        ],
+        "editableUntil": "2022-03-31T16:18:26.577Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "72",
+            "81"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KwC6SOuK9l",
+          "expanded_url": "https://www.buzzsprout.com/1944068/10353925",
+          "display_url": "buzzsprout.com/1944068/103539…",
+          "indices": [
+            "146",
+            "169"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "6",
+    "id_str": "1509550695573340169",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1509550695573340169",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 31 15:18:26 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally published my latest episode of How To Scale Yourself, featuring @reddy2go!\n\nListening to \"Scale Your Play - With Special Guest Reddy\" at  https://t.co/KwC6SOuK9l",
+    "lang": "en"
+  }
+}

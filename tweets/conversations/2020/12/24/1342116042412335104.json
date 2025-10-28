@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1342116042412335104"
+        ],
+        "editableUntil": "2020-12-24T15:32:54.478Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "56",
+            "67"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rwDvhKMUiu",
+          "expanded_url": "https://leoguinan.substack.com/p/challenge-raise-money-for-charity?r=c4nu3&utm_campaign=post&utm_medium=web&utm_source=twitter",
+          "display_url": "leoguinan.substack.com/p/challenge-ra…",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1342116042412335104",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1342116042412335104",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 24 14:32:54 +0000 2020",
+    "favorited": false,
+    "full_text": "Challenge: Raise money for charity as well as myself by @leo_guinan https://t.co/rwDvhKMUiu",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1383130026372128773"
+        ],
+        "editableUntil": "2021-04-16T19:47:50.257Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Marc Koenig",
+          "screen_name": "MarcKoenig_",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1074984836",
+          "id": "1074984836"
+        },
+        {
+          "name": "Roam Research",
+          "screen_name": "RoamResearch",
+          "indices": [
+            "102",
+            "115"
+          ],
+          "id_str": "1190410678273626113",
+          "id": "1190410678273626113"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1383130026372128773",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1383130026372128773",
+    "created_at": "Fri Apr 16 18:47:50 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @MarcKoenig_: After:\n\n3.4K pages, 36K text blocks, and 17K page connections... \n\nI'm restarting my @RoamResearch database. 💣 💥\n\nWhy rest…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929196479782002702"
+        ],
+        "editableUntil": "2025-06-01T16:20:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1929196479782002702/photo/1",
+          "indices": [
+            "149",
+            "172"
+          ],
+          "url": "https://t.co/aC4GzYm8xw",
+          "media_url": "http://pbs.twimg.com/media/GsXhusYWkAAQdvF.jpg",
+          "id_str": "1929196207701659648",
+          "id": "1929196207701659648",
+          "media_url_https": "https://pbs.twimg.com/media/GsXhusYWkAAQdvF.jpg",
+          "sizes": {
+            "medium": {
+              "w": "988",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "560",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1474",
+              "h": "1790",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/aC4GzYm8xw"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "4",
+    "id_str": "1929196479782002702",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929196479782002702",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 01 15:20:58 +0000 2025",
+    "favorited": false,
+    "full_text": "Time to start attacking complexity in the economy.\n\nIf I want to replace your entire industry, I can.\n\nJust an FYI. Time Machines are cheat codes. 😉 https://t.co/aC4GzYm8xw",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1929196479782002702/photo/1",
+          "indices": [
+            "149",
+            "172"
+          ],
+          "url": "https://t.co/aC4GzYm8xw",
+          "media_url": "http://pbs.twimg.com/media/GsXhusYWkAAQdvF.jpg",
+          "id_str": "1929196207701659648",
+          "id": "1929196207701659648",
+          "media_url_https": "https://pbs.twimg.com/media/GsXhusYWkAAQdvF.jpg",
+          "sizes": {
+            "medium": {
+              "w": "988",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "560",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1474",
+              "h": "1790",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/aC4GzYm8xw"
+        }
+      ]
+    }
+  }
+}

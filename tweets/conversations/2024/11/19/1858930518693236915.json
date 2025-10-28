@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1858930518693236915"
+        ],
+        "editableUntil": "2024-11-19T18:49:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/reDGGmkzbN",
+          "expanded_url": "https://reinvent.think-boundless.com/the-art-tactics-of-freelance-consulting?coupon=FREELANCE",
+          "display_url": "reinvent.think-boundless.com/the-art-tactic…",
+          "indices": [
+            "42",
+            "65"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1858919630527406215",
+    "id_str": "1858930518693236915",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1858930518693236915",
+    "in_reply_to_status_id": "1858919630527406215",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 19 17:49:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd Heads up, this link is broken: https://t.co/reDGGmkzbN\n\nLove this look back on the thought process earlier in the journey.",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

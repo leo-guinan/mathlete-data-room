@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1506760839327485954"
+        ],
+        "editableUntil": "2022-03-23T23:32:33.015Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Tibo",
+          "screen_name": "tibo_maker",
+          "indices": [
+            "28",
+            "39"
+          ],
+          "id_str": "470129898",
+          "id": "470129898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1506760839327485954",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1506760839327485954",
+    "created_at": "Wed Mar 23 22:32:33 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: @leo_guinan @tibo_maker The audience might seem tiny but it isn’t. Because each person tuning in truly cares about what you…",
+    "lang": "en"
+  }
+}

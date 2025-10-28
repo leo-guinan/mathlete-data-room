@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359940352183046156"
+        ],
+        "editableUntil": "2021-02-11T20:00:21.087Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CENT",
+          "screen_name": "Cent",
+          "indices": [
+            "32",
+            "37"
+          ],
+          "id_str": "883094385063116800",
+          "id": "883094385063116800"
+        },
+        {
+          "name": "Valuables",
+          "screen_name": "Valuables",
+          "indices": [
+            "42",
+            "52"
+          ],
+          "id_str": "1141850726114779141",
+          "id": "1141850726114779141"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/55R1pDjVBs",
+          "expanded_url": "https://definet.dev/experiment-selling-tweets-to-pay-my-rent/",
+          "display_url": "definet.dev/experiment-sel…",
+          "indices": [
+            "173",
+            "196"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "196"
+    ],
+    "favorite_count": "8",
+    "id_str": "1359940352183046156",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1359940352183046156",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 11 19:00:21 +0000 2021",
+    "favorited": false,
+    "full_text": "Currently selling my tweets via @Cent and @Valuables. Make me an offer!\n\nWill also print off copies of any purchased tweets, sign them, and mail them to you!\n\nDetails here: https://t.co/55R1pDjVBs",
+    "lang": "en"
+  }
+}

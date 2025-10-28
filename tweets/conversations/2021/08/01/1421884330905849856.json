@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1421884330905849856"
+        ],
+        "editableUntil": "2021-08-01T18:23:36.478Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ashish Jain",
+          "screen_name": "In_Sane_Saint",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1355401501707886593",
+          "id": "1355401501707886593"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "28"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1421833598441705473",
+    "id_str": "1421884330905849856",
+    "in_reply_to_user_id": "1355401501707886593",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1421884330905849856",
+    "in_reply_to_status_id": "1421833598441705473",
+    "created_at": "Sun Aug 01 17:23:36 +0000 2021",
+    "favorited": false,
+    "full_text": "@In_Sane_Saint Mind control.",
+    "lang": "en",
+    "in_reply_to_screen_name": "In_Sane_Saint",
+    "in_reply_to_user_id_str": "1355401501707886593"
+  }
+}

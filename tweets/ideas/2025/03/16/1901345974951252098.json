@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901345974951252098"
+        ],
+        "editableUntil": "2025-03-16T19:53:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/28ZQgPv26l",
+          "expanded_url": "https://x.com/leo_guinan/status/1901273248010051782",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "75",
+            "98"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "1",
+    "id_str": "1901345974951252098",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901345974951252098",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 16 18:53:00 +0000 2025",
+    "favorited": false,
+    "full_text": "Wonder if this will break down to approximately the explore/exploit ratio? https://t.co/28ZQgPv26l",
+    "lang": "en"
+  }
+}

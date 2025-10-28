@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1660346746155720704"
+        ],
+        "editableUntil": "2023-05-21T18:38:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "10",
+            "22"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "Farza 🇵🇰🇺🇸",
+          "screen_name": "FarzaTV",
+          "indices": [
+            "64",
+            "72"
+          ],
+          "id_str": "327403216",
+          "id": "327403216"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oHukbs3yvK",
+          "expanded_url": "https://www.twitch.tv/buildspace",
+          "display_url": "twitch.tv/buildspace",
+          "indices": [
+            "138",
+            "161"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1660346746155720704/photo/1",
+          "indices": [
+            "162",
+            "185"
+          ],
+          "url": "https://t.co/6v66Da5uCY",
+          "media_url": "http://pbs.twimg.com/media/Fwq8d7MWYAET4C2.jpg",
+          "id_str": "1660346634931167233",
+          "id": "1660346634931167233",
+          "media_url_https": "https://pbs.twimg.com/media/Fwq8d7MWYAET4C2.jpg",
+          "sizes": {
+            "large": {
+              "w": "986",
+              "h": "658",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "986",
+              "h": "658",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "454",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6v66Da5uCY"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "185"
+    ],
+    "favorite_count": "1",
+    "id_str": "1660346746155720704",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1660346746155720704",
+    "possibly_sensitive": false,
+    "created_at": "Sun May 21 18:08:06 +0000 2023",
+    "favorited": false,
+    "full_text": "Check out @_buildspace's final 32 stream!\n\n(I respect the shill @FarzaTV! Although I was too slow to get the thumbs up 😂)\n\nCheck it here: https://t.co/oHukbs3yvK https://t.co/6v66Da5uCY",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1660346746155720704/photo/1",
+          "indices": [
+            "162",
+            "185"
+          ],
+          "url": "https://t.co/6v66Da5uCY",
+          "media_url": "http://pbs.twimg.com/media/Fwq8d7MWYAET4C2.jpg",
+          "id_str": "1660346634931167233",
+          "id": "1660346634931167233",
+          "media_url_https": "https://pbs.twimg.com/media/Fwq8d7MWYAET4C2.jpg",
+          "sizes": {
+            "large": {
+              "w": "986",
+              "h": "658",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "986",
+              "h": "658",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "454",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6v66Da5uCY"
+        }
+      ]
+    }
+  }
+}

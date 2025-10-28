@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340741721097945089"
+        ],
+        "editableUntil": "2020-12-20T20:31:50.743Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mzjZFucA0r",
+          "expanded_url": "https://link.medium.com/nkeFyXutncb",
+          "display_url": "link.medium.com/nkeFyXutncb",
+          "indices": [
+            "198",
+            "221"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "221"
+    ],
+    "favorite_count": "0",
+    "id_str": "1340741721097945089",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340741721097945089",
+    "possibly_sensitive": false,
+    "created_at": "Sun Dec 20 19:31:50 +0000 2020",
+    "favorited": false,
+    "full_text": "When trying to launch a startup, you might have a super clear idea in your head of what that will look like. But how do you know that you explained it clearly? This is how I figured out I didn't. \n\nhttps://t.co/mzjZFucA0r",
+    "lang": "en"
+  }
+}

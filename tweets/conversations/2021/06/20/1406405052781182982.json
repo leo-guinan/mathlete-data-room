@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1406405052781182982"
+        ],
+        "editableUntil": "2021-06-20T01:14:28.982Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "The Crew",
+          "screen_name": "ColumbusCrew",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "16960789",
+          "id": "16960789"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrew/status/1406404960774987779/photo/1",
+          "source_status_id": "1406404960774987779",
+          "indices": [
+            "53",
+            "76"
+          ],
+          "url": "https://t.co/Tybf2hIHho",
+          "media_url": "http://pbs.twimg.com/media/E4SNnxwWUAQ0SJB.jpg",
+          "id_str": "1406404698156978180",
+          "source_user_id": "16960789",
+          "id": "1406404698156978180",
+          "media_url_https": "https://pbs.twimg.com/media/E4SNnxwWUAQ0SJB.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1406404960774987779",
+          "display_url": "pic.x.com/Tybf2hIHho"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "0",
+    "id_str": "1406405052781182982",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1406405052781182982",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 20 00:14:28 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ColumbusCrew: GYASI. AGAIN.\n\n2-0 COLUMBUS!!!!!!! https://t.co/Tybf2hIHho",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrew/status/1406404960774987779/photo/1",
+          "source_status_id": "1406404960774987779",
+          "indices": [
+            "53",
+            "76"
+          ],
+          "url": "https://t.co/Tybf2hIHho",
+          "media_url": "http://pbs.twimg.com/media/E4SNnxwWUAQ0SJB.jpg",
+          "id_str": "1406404698156978180",
+          "source_user_id": "16960789",
+          "id": "1406404698156978180",
+          "media_url_https": "https://pbs.twimg.com/media/E4SNnxwWUAQ0SJB.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1406404960774987779",
+          "display_url": "pic.x.com/Tybf2hIHho"
+        }
+      ]
+    }
+  }
+}

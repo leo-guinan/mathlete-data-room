@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938653824828248220"
+        ],
+        "editableUntil": "2025-06-27T18:41:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lxVoqIZiDL",
+          "expanded_url": "https://x.com/leo_guinan/status/1938632231557443831",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "206",
+            "229"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1938611214457974809",
+    "id_str": "1938653824828248220",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938653824828248220",
+    "in_reply_to_status_id": "1938611214457974809",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 27 17:41:04 +0000 2025",
+    "favorited": false,
+    "full_text": "@arvidkahl It's about to get a lot easier. We need a framework for the Internet and the economy that understands people, and I'm in the process of building it. But in the meantime, here's the architecture:\nhttps://t.co/lxVoqIZiDL",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

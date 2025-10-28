@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930864537420415099"
+        ],
+        "editableUntil": "2025-06-06T06:49:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Snub",
+          "screen_name": "1stSnub",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1924061287790821376",
+          "id": "1924061287790821376"
+        },
+        {
+          "name": "Champion 0f The Goddess",
+          "screen_name": "Seraph_Notitia",
+          "indices": [
+            "9",
+            "24"
+          ],
+          "id_str": "1716575515476439040",
+          "id": "1716575515476439040"
+        },
+        {
+          "name": "sanje horah in dc",
+          "screen_name": "sanjehorah",
+          "indices": [
+            "25",
+            "36"
+          ],
+          "id_str": "1543863542017040384",
+          "id": "1543863542017040384"
+        },
+        {
+          "name": "Sean Bovell",
+          "screen_name": "CollatzConject",
+          "indices": [
+            "37",
+            "52"
+          ],
+          "id_str": "1148669319192043520",
+          "id": "1148669319192043520"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1930864069025857962",
+    "id_str": "1930864537420415099",
+    "in_reply_to_user_id": "1924061287790821376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930864537420415099",
+    "in_reply_to_status_id": "1930864069025857962",
+    "created_at": "Fri Jun 06 05:49:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@1stSnub @Seraph_Notitia @sanjehorah @CollatzConject I think you’re gonna like it ;)",
+    "lang": "en",
+    "in_reply_to_screen_name": "1stSnub",
+    "in_reply_to_user_id_str": "1924061287790821376"
+  }
+}

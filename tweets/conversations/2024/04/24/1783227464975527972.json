@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1783227464975527972"
+        ],
+        "editableUntil": "2024-04-24T21:12:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arthur L. Burris, Jr",
+          "screen_name": "ArthurLBurrisJr",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1047306099311796226",
+          "id": "1047306099311796226"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1783213253772107967",
+    "id_str": "1783227464975527972",
+    "in_reply_to_user_id": "1047306099311796226",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1783227464975527972",
+    "in_reply_to_status_id": "1783213253772107967",
+    "created_at": "Wed Apr 24 20:12:13 +0000 2024",
+    "favorited": false,
+    "full_text": "@ArthurLBurrisJr Sunday is totally fine! Just send me a DM with the decks you want me to analyze when they are ready",
+    "lang": "en",
+    "in_reply_to_screen_name": "ArthurLBurrisJr",
+    "in_reply_to_user_id_str": "1047306099311796226"
+  }
+}

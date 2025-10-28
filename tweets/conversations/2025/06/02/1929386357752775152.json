@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929386357752775152"
+        ],
+        "editableUntil": "2025-06-02T04:55:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Champion 0f The Goddess",
+          "screen_name": "Seraph_Notitia",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1716575515476439040",
+          "id": "1716575515476439040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1929382306298601622",
+    "id_str": "1929386357752775152",
+    "in_reply_to_user_id": "1716575515476439040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929386357752775152",
+    "in_reply_to_status_id": "1929382306298601622",
+    "created_at": "Mon Jun 02 03:55:28 +0000 2025",
+    "favorited": false,
+    "full_text": "@Seraph_Notitia My problem is that I don't work alone, I work ahead. Which is functionally the same, except I'm really trying hard to back propagate. I've got the infrastructure in place, I'm starting to help people who need it, and I've got the research in place and the lab starting to form.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Seraph_Notitia",
+    "in_reply_to_user_id_str": "1716575515476439040"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821258745441313024"
+        ],
+        "editableUntil": "2024-08-07T19:54:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1821258745441313024/photo/1",
+          "indices": [
+            "242",
+            "265"
+          ],
+          "url": "https://t.co/vLpCisgs8H",
+          "media_url": "http://pbs.twimg.com/media/GUZo48AWQAAdYfn.jpg",
+          "id_str": "1821258426707492864",
+          "id": "1821258426707492864",
+          "media_url_https": "https://pbs.twimg.com/media/GUZo48AWQAAdYfn.jpg",
+          "sizes": {
+            "large": {
+              "w": "1204",
+              "h": "492",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "278",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "490",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vLpCisgs8H"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "2",
+    "id_str": "1821258745441313024",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821258745441313024",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 07 18:54:56 +0000 2024",
+    "favorited": false,
+    "full_text": "I saw these tweets together and in my head thought \"Well, I don't know that I would call jeans a 'place of suffering and pain', but they definitely aren't the most comfortable\".\n\nHad to double check and realized I totally conflated the two 😂 https://t.co/vLpCisgs8H",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1821258745441313024/photo/1",
+          "indices": [
+            "242",
+            "265"
+          ],
+          "url": "https://t.co/vLpCisgs8H",
+          "media_url": "http://pbs.twimg.com/media/GUZo48AWQAAdYfn.jpg",
+          "id_str": "1821258426707492864",
+          "id": "1821258426707492864",
+          "media_url_https": "https://pbs.twimg.com/media/GUZo48AWQAAdYfn.jpg",
+          "sizes": {
+            "large": {
+              "w": "1204",
+              "h": "492",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "278",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "490",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vLpCisgs8H"
+        }
+      ]
+    }
+  }
+}

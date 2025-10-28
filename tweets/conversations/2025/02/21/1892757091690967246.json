@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892757091690967246"
+        ],
+        "editableUntil": "2025-02-21T03:03:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michelle Crawford",
+          "screen_name": "mcrawford_trep",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1146636270",
+          "id": "1146636270"
+        },
+        {
+          "name": "Suhail",
+          "screen_name": "Suhail",
+          "indices": [
+            "16",
+            "23"
+          ],
+          "id_str": "793023",
+          "id": "793023"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1892749627771818005",
+    "id_str": "1892757091690967246",
+    "in_reply_to_user_id": "1146636270",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892757091690967246",
+    "in_reply_to_status_id": "1892749627771818005",
+    "created_at": "Fri Feb 21 02:03:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@mcrawford_trep @Suhail It's a new model that focuses on human networks as valuable assets, separate from the tech.\n\nSo I'm building a network of creators as the backbone of a distribution channel that can then be moved much more easily between products.\n\nI reimagined economics from first principles,…",
+    "lang": "en",
+    "in_reply_to_screen_name": "mcrawford_trep",
+    "in_reply_to_user_id_str": "1146636270"
+  }
+}

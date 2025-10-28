@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486982908883742721"
+        ],
+        "editableUntil": "2022-01-28T09:42:06.941Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Ben Putano 📚",
+          "screen_name": "BenjaminPutano",
+          "indices": [
+            "98",
+            "113"
+          ],
+          "id_str": "228834325",
+          "id": "228834325"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gFKzar5xuy",
+          "expanded_url": "https://damngrav.substack.com/p/writing-in-public-5-steps?utm_campaign=post&utm_medium=email",
+          "display_url": "damngrav.substack.com/p/writing-in-p…",
+          "indices": [
+            "114",
+            "137"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "137"
+    ],
+    "favorite_count": "0",
+    "id_str": "1486982908883742721",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1486982908883742721",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 28 08:42:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: This was such a great issue by Ben. Check it out!\n\nWriting in Public: 5 Steps, by @BenjaminPutano https://t.co/gFKzar5xuy",
+    "lang": "en"
+  }
+}

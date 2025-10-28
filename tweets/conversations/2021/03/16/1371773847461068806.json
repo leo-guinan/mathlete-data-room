@@ -1,0 +1,167 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371773847461068806"
+        ],
+        "editableUntil": "2021-03-16T11:42:26.217Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Alexis Gay",
+          "screen_name": "yayalexisgay",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "22785963",
+          "id": "22785963"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/yayalexisgay/status/1369346460911734784/video/1",
+          "source_status_id": "1369346460911734784",
+          "indices": [
+            "58",
+            "81"
+          ],
+          "url": "https://t.co/fApsQ674YD",
+          "media_url": "http://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+          "id_str": "1369341235257700355",
+          "source_user_id": "22785963",
+          "id": "1369341235257700355",
+          "media_url_https": "https://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+          "source_user_id_str": "22785963",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "677",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1196",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1614",
+              "h": "1608",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1369346460911734784",
+          "display_url": "pic.x.com/fApsQ674YD"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "0",
+    "id_str": "1371773847461068806",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371773847461068806",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 16 10:42:26 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @yayalexisgay: every single park hang in San Francisco https://t.co/fApsQ674YD",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/yayalexisgay/status/1369346460911734784/video/1",
+          "source_status_id": "1369346460911734784",
+          "indices": [
+            "58",
+            "81"
+          ],
+          "url": "https://t.co/fApsQ674YD",
+          "media_url": "http://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+          "id_str": "1369341235257700355",
+          "video_info": {
+            "aspect_ratio": [
+              "1",
+              "1"
+            ],
+            "duration_millis": "59760",
+            "variants": [
+              {
+                "bitrate": "432000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1369341235257700355/vid/320x320/C0Cig2bIzhjKbH0n.mp4?tag=14"
+              },
+              {
+                "bitrate": "1280000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1369341235257700355/vid/720x720/t2Wd3SI8UVxGEQPE.mp4?tag=14"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1369341235257700355/pl/2l6Zmt25jAUNzL-P.m3u8?tag=14&v=8cf"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1369341235257700355/vid/540x540/cVCZ-KIOZx_-Oleo.mp4?tag=14"
+              }
+            ]
+          },
+          "source_user_id": "22785963",
+          "additional_media_info": {
+            "title": "",
+            "description": "",
+            "embeddable": true,
+            "monetizable": false
+          },
+          "id": "1369341235257700355",
+          "media_url_https": "https://pbs.twimg.com/media/EwDjIBKU8AAMXvy.jpg",
+          "source_user_id_str": "22785963",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "677",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1196",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1614",
+              "h": "1608",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1369346460911734784",
+          "display_url": "pic.x.com/fApsQ674YD"
+        }
+      ]
+    }
+  }
+}

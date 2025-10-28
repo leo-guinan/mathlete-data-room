@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1673695234394411008"
+        ],
+        "editableUntil": "2023-06-27T15:10:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Senra",
+          "screen_name": "FoundersPodcast",
+          "indices": [
+            "16",
+            "32"
+          ],
+          "id_str": "4777305755",
+          "id": "4777305755"
+        },
+        {
+          "name": "Danny Miranda",
+          "screen_name": "heydannymiranda",
+          "indices": [
+            "46",
+            "62"
+          ],
+          "id_str": "1007896831186087938",
+          "id": "1007896831186087938"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hzJ6GJmZwl",
+          "expanded_url": "https://podcasts.apple.com/us/podcast/371-david-senra-differentiate-yourself-with-obsession/id1532160275?i=1000617851080",
+          "display_url": "podcasts.apple.com/us/podcast/371…",
+          "indices": [
+            "194",
+            "217"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1673694734538113025",
+    "id_str": "1673695234394411008",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1673695234394411008",
+    "in_reply_to_status_id": "1673694734538113025",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 27 14:10:14 +0000 2023",
+    "favorited": false,
+    "full_text": "Next up, it was @FoundersPodcast talking with @heydannymiranda.\n\nThis was another great conversation and it had a ton of wisdom sprinkled throughout. \n\nEveryone needs to listen to this one too:\nhttps://t.co/hzJ6GJmZwl",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

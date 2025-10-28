@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887176681963536673"
+        ],
+        "editableUntil": "2025-02-05T17:29:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wCHdbnYOPT",
+          "expanded_url": "https://x.com/michael_kove/status/1887135338784833952",
+          "display_url": "x.com/michael_kove/s…",
+          "indices": [
+            "278",
+            "301"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "0",
+    "id_str": "1887176681963536673",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887176681963536673",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 05 16:29:17 +0000 2025",
+    "favorited": false,
+    "full_text": "This is why I hate the model where I get paid for the information I'm giving, and I'm building a new model that allows me to get paid based on the quality of the predictions I'm making.\n\nGranted, makes things a lot harder now, but it's gonna get a lot easier in the near future https://t.co/wCHdbnYOPT",
+    "lang": "en"
+  }
+}

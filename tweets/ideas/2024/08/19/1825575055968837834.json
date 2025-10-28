@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1825575055968837834"
+        ],
+        "editableUntil": "2024-08-19T17:46:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "251"
+    ],
+    "favorite_count": "3",
+    "id_str": "1825575055968837834",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1825575055968837834",
+    "created_at": "Mon Aug 19 16:46:25 +0000 2024",
+    "favorited": false,
+    "full_text": "Dusting off some ML skills. Looks like I'll potentially be helping someone build a model based on what they've already created manually.\n\nThey are spending a ton of time running manual processes, so I'm hopeful I'll be able to save them a ton of time.",
+    "lang": "en"
+  }
+}

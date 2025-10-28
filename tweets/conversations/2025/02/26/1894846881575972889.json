@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1894846881575972889"
+        ],
+        "editableUntil": "2025-02-26T21:27:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "lux 𓅪怪鹰",
+          "screen_name": "lux",
+          "indices": [
+            "0",
+            "4"
+          ],
+          "id_str": "3221",
+          "id": "3221"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "5",
+            "21"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "295"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1894796438959464854",
+    "id_str": "1894846881575972889",
+    "in_reply_to_user_id": "3221",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1894846881575972889",
+    "in_reply_to_status_id": "1894796438959464854",
+    "created_at": "Wed Feb 26 20:27:55 +0000 2025",
+    "favorited": false,
+    "full_text": "@lux @DefenderOfBasic tldr; answer: \n\ndF'/dt = α∑[Ii·Bi·Qi·Mi] + β∑∑[Cij·Dij·Oij·Fij] + γ·S + δ·V + ε·N(G)\n\nNow for the details of the process:\n\nThis is a fantastic question, and one that I wish I had thought to ask myself.\n\nSo let's try to work it out together! \n\nLet's start with defining the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "lux",
+    "in_reply_to_user_id_str": "3221"
+  }
+}

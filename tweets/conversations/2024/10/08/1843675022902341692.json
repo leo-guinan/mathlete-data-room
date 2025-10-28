@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1843675022902341692"
+        ],
+        "editableUntil": "2024-10-08T16:29:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "thermosyphon",
+          "screen_name": "zazstrugi",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "1784686024108445696",
+          "id": "1784686024108445696"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1843674660594168233",
+    "id_str": "1843675022902341692",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1843675022902341692",
+    "in_reply_to_status_id": "1843674660594168233",
+    "created_at": "Tue Oct 08 15:29:13 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @zazstrugi @lemonaut1 @getnormality I did in the first long message, but not the second. That may have answered my question... :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

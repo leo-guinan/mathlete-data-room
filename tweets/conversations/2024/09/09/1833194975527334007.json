@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1833194975527334007"
+        ],
+        "editableUntil": "2024-09-09T18:25:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sahil Lavingia",
+          "screen_name": "shl",
+          "indices": [
+            "0",
+            "4"
+          ],
+          "id_str": "16347964",
+          "id": "16347964"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "78"
+    ],
+    "favorite_count": "32",
+    "in_reply_to_status_id_str": "1833194647654453713",
+    "id_str": "1833194975527334007",
+    "in_reply_to_user_id": "16347964",
+    "truncated": false,
+    "retweet_count": "3",
+    "id": "1833194975527334007",
+    "in_reply_to_status_id": "1833194647654453713",
+    "created_at": "Mon Sep 09 17:25:15 +0000 2024",
+    "favorited": false,
+    "full_text": "@shl Turn an identity issue into a skill issue.\n\nAmazing how powerful that is.",
+    "lang": "en",
+    "in_reply_to_screen_name": "shl",
+    "in_reply_to_user_id_str": "16347964"
+  }
+}

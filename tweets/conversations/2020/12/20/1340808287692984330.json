@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340808287692984330"
+        ],
+        "editableUntil": "2020-12-21T00:56:21.456Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tweets from Zach Weinberg",
+          "screen_name": "zachweinberg",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23504313",
+          "id": "23504313"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "154"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1340807268095410183",
+    "id_str": "1340808287692984330",
+    "in_reply_to_user_id": "23504313",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340808287692984330",
+    "in_reply_to_status_id": "1340807268095410183",
+    "created_at": "Sun Dec 20 23:56:21 +0000 2020",
+    "favorited": false,
+    "full_text": "@zachweinberg I think you are absolutely right.\n\nAnd as someone working on a new one, I hope that I can learn from the ones that fail so mine can succeed.",
+    "lang": "en",
+    "in_reply_to_screen_name": "zachweinberg",
+    "in_reply_to_user_id_str": "23504313"
+  }
+}

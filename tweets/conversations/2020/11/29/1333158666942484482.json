@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333158666942484482"
+        ],
+        "editableUntil": "2020-11-29T22:19:29.746Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SaveTheCrew",
+          "indices": [
+            "23",
+            "35"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pursuit",
+          "screen_name": "pursuityourself",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "281145921",
+          "id": "281145921"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "123"
+    ],
+    "favorite_count": "0",
+    "id_str": "1333158666942484482",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333158666942484482",
+    "created_at": "Sun Nov 29 21:19:29 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @pursuityourself: A #SaveTheCrew thread on the anniversary of a memorable bus trip and the eve of key playoff matchup...",
+    "lang": "en"
+  }
+}

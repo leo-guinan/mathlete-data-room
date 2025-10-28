@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1608145309623779331"
+        ],
+        "editableUntil": "2022-12-28T17:28:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "112",
+            "124"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JKd2ANE2ok",
+          "expanded_url": "https://www.loom.com/share/a0db57d070cb42819e35aa7cefbe450b",
+          "display_url": "loom.com/share/a0db57d0…",
+          "indices": [
+            "43",
+            "66"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "3",
+    "id_str": "1608145309623779331",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1608145309623779331",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 28 16:58:14 +0000 2022",
+    "favorited": false,
+    "full_text": "N&amp;W Season 2 Weekly update 1: The Demo\nhttps://t.co/JKd2ANE2ok\n\n5 Minute Show Notes is up and running.\n\nCC: @_buildspace",
+    "lang": "en"
+  }
+}

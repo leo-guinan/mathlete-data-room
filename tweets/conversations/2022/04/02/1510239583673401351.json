@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1510239583673401351"
+        ],
+        "editableUntil": "2022-04-02T13:55:50.299Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "0",
+    "id_str": "1510239583673401351",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1510239583673401351",
+    "created_at": "Sat Apr 02 12:55:50 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @Bazzaruto: Everyone has an online course in them.\n\nHere's why this matters at work \n\n(and for you as a creator):",
+    "lang": "en"
+  }
+}

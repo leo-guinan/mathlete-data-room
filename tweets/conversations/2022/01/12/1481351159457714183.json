@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1481351159457714183"
+        ],
+        "editableUntil": "2022-01-12T20:43:33.245Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amy's Vue on this",
+          "screen_name": "detwiler_amy",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "4683397465",
+          "id": "4683397465"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1481349155494809611",
+    "id_str": "1481351159457714183",
+    "in_reply_to_user_id": "4683397465",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1481351159457714183",
+    "in_reply_to_status_id": "1481349155494809611",
+    "created_at": "Wed Jan 12 19:43:33 +0000 2022",
+    "favorited": false,
+    "full_text": "@detwiler_amy @feathercrm That's super helpful, thanks!",
+    "lang": "en",
+    "in_reply_to_screen_name": "detwiler_amy",
+    "in_reply_to_user_id_str": "4683397465"
+  }
+}

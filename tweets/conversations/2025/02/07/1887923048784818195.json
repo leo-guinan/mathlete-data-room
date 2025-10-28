@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887923048784818195"
+        ],
+        "editableUntil": "2025-02-07T18:55:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Spooky Piq 🎃👻🐈‍⬛",
+          "screen_name": "PiquantParvenu",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1447306061518557184",
+          "id": "1447306061518557184"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1887908089409736943",
+    "id_str": "1887923048784818195",
+    "in_reply_to_user_id": "1447306061518557184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887923048784818195",
+    "in_reply_to_status_id": "1887908089409736943",
+    "created_at": "Fri Feb 07 17:55:05 +0000 2025",
+    "favorited": false,
+    "full_text": "@PiquantParvenu I'm fixing that, because that's a bad system.\n\nIt ends up getting used in bad ways.\n\nGood thing there's math that can give you both.",
+    "lang": "en",
+    "in_reply_to_screen_name": "PiquantParvenu",
+    "in_reply_to_user_id_str": "1447306061518557184"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1580190166404464641"
+        ],
+        "editableUntil": "2022-10-12T14:04:28.841Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Junod",
+          "screen_name": "JennJunod",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1343768871078006785",
+          "id": "1343768871078006785"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KR4iLH61po",
+          "expanded_url": "https://x.com/i/spaces/1yoKMZdrmEeGQ",
+          "display_url": "x.com/i/spaces/1yoKM…",
+          "indices": [
+            "88",
+            "111"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "0",
+    "id_str": "1580190166404464641",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1580190166404464641",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 12 13:34:28 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @JennJunod: ✨Hello beautiful humans!!✨\n\nLooking forward to todays Twitter space! 💗\n\n https://t.co/KR4iLH61po",
+    "lang": "en"
+  }
+}

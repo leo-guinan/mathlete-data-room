@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1787930686277431500"
+        ],
+        "editableUntil": "2024-05-07T20:41:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lyle McKeany",
+          "screen_name": "lylemckeany",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "121707674",
+          "id": "121707674"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "23"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1787914691546857573",
+    "id_str": "1787930686277431500",
+    "in_reply_to_user_id": "121707674",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1787930686277431500",
+    "in_reply_to_status_id": "1787914691546857573",
+    "created_at": "Tue May 07 19:41:08 +0000 2024",
+    "favorited": false,
+    "full_text": "@lylemckeany Anytime ❤️",
+    "lang": "en",
+    "in_reply_to_screen_name": "lylemckeany",
+    "in_reply_to_user_id_str": "121707674"
+  }
+}

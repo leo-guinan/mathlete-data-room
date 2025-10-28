@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940108570285981945"
+        ],
+        "editableUntil": "2025-07-01T19:01:43.287Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tym🔸️",
+          "screen_name": "Tymtweet",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "1460755324072247296",
+          "id": "1460755324072247296"
+        },
+        {
+          "name": "Fred",
+          "screen_name": "FriedKielbasa",
+          "indices": [
+            "14",
+            "28"
+          ],
+          "id_str": "1133288553859887106",
+          "id": "1133288553859887106"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "0",
+    "id_str": "1940108570285981945",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940108570285981945",
+    "created_at": "Tue Jul 01 18:01:43 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @Tymtweet: @FriedKielbasa There are levers everywhere for those with the eye to see",
+    "lang": "en"
+  }
+}

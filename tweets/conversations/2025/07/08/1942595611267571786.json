@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942595611267571786"
+        ],
+        "editableUntil": "2025-07-08T15:44:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Creator Insurance Agency",
+          "screen_name": "insure_creators",
+          "indices": [
+            "29",
+            "45"
+          ],
+          "id_str": "1338107290256367616",
+          "id": "1338107290256367616"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942595611267571786/photo/1",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/sLkDlBuyQx",
+          "media_url": "http://pbs.twimg.com/media/GvV7ievW8AArdlK.jpg",
+          "id_str": "1942594646577704960",
+          "id": "1942594646577704960",
+          "media_url_https": "https://pbs.twimg.com/media/GvV7ievW8AArdlK.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "332",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "587",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1800",
+              "h": "880",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/sLkDlBuyQx"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942595607983710708",
+    "id_str": "1942595611267571786",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942595611267571786",
+    "in_reply_to_status_id": "1942595607983710708",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 08 14:44:20 +0000 2025",
+    "favorited": false,
+    "full_text": "If you know me, and you know @insure_creators, intel is king.\n\nTune out the noise, tune into the signal https://t.co/sLkDlBuyQx",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942595611267571786/photo/1",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/sLkDlBuyQx",
+          "media_url": "http://pbs.twimg.com/media/GvV7ievW8AArdlK.jpg",
+          "id_str": "1942594646577704960",
+          "id": "1942594646577704960",
+          "media_url_https": "https://pbs.twimg.com/media/GvV7ievW8AArdlK.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "332",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "587",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1800",
+              "h": "880",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/sLkDlBuyQx"
+        }
+      ]
+    }
+  }
+}

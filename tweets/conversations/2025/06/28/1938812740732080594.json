@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938812740732080594"
+        ],
+        "editableUntil": "2025-06-28T05:12:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Del Johnson",
+          "screen_name": "DelJohnsonVC",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "815847044",
+          "id": "815847044"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9wreFoTuQE",
+          "expanded_url": "https://x.com/leo_guinan/status/1938675285399937234",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "146",
+            "169"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1938812585903595955",
+    "id_str": "1938812740732080594",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938812740732080594",
+    "in_reply_to_status_id": "1938812585903595955",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 28 04:12:33 +0000 2025",
+    "favorited": false,
+    "full_text": "@DelJohnsonVC Here's how we build an internet (and economy) that lives outside of the broken incentive structures that Silicon Valley pioneered.\n\nhttps://t.co/9wreFoTuQE",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

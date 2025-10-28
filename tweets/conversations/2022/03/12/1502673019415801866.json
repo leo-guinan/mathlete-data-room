@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1502673019415801866"
+        ],
+        "editableUntil": "2022-03-12T16:49:00.800Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Phillip Bertke",
+          "screen_name": "PhillipBertke",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "248458952",
+          "id": "248458952"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1502672808626823169",
+    "id_str": "1502673019415801866",
+    "in_reply_to_user_id": "248458952",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1502673019415801866",
+    "in_reply_to_status_id": "1502672808626823169",
+    "created_at": "Sat Mar 12 15:49:00 +0000 2022",
+    "favorited": false,
+    "full_text": "@PhillipBertke @mls_amy Awesome! Thank you so much!",
+    "lang": "en",
+    "in_reply_to_screen_name": "PhillipBertke",
+    "in_reply_to_user_id_str": "248458952"
+  }
+}

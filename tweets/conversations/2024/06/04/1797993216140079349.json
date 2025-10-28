@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1797993216140079349"
+        ],
+        "editableUntil": "2024-06-04T15:06:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sam Parr",
+          "screen_name": "thesamparr",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "625733783",
+          "id": "625733783"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1797990317188411850",
+    "id_str": "1797993216140079349",
+    "in_reply_to_user_id": "625733783",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1797993216140079349",
+    "in_reply_to_status_id": "1797990317188411850",
+    "created_at": "Tue Jun 04 14:06:02 +0000 2024",
+    "favorited": false,
+    "full_text": "@thesamparr It's the end result of any platform with a single algorithm. The way algorithms work, they are going to end up maximizing the reach of a few and minimizing the reach of the majority. At that point, it becomes better for the majority to leave for greener pastures.\n\nIt's why the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "thesamparr",
+    "in_reply_to_user_id_str": "625733783"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1674891332551073793"
+        ],
+        "editableUntil": "2023-06-30T22:23:06.313Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Rosie Sherry",
+          "screen_name": "rosiesherry",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "2204961",
+          "id": "2204961"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/rosiesherry/status/1674885048263163905/photo/1",
+          "source_status_id": "1674885048263163905",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/rV9kW2blX5",
+          "media_url": "http://pbs.twimg.com/media/Fz5jErpXgAAC-Q2.jpg",
+          "id_str": "1674885043515260928",
+          "source_user_id": "2204961",
+          "id": "1674885043515260928",
+          "media_url_https": "https://pbs.twimg.com/media/Fz5jErpXgAAC-Q2.jpg",
+          "source_user_id_str": "2204961",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "1323",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "555",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "980",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1674885048263163905",
+          "display_url": "pic.x.com/rV9kW2blX5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "id_str": "1674891332551073793",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1674891332551073793",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 30 21:23:06 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @rosiesherry: Find your people. https://t.co/rV9kW2blX5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/rosiesherry/status/1674885048263163905/photo/1",
+          "source_status_id": "1674885048263163905",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/rV9kW2blX5",
+          "media_url": "http://pbs.twimg.com/media/Fz5jErpXgAAC-Q2.jpg",
+          "id_str": "1674885043515260928",
+          "source_user_id": "2204961",
+          "id": "1674885043515260928",
+          "media_url_https": "https://pbs.twimg.com/media/Fz5jErpXgAAC-Q2.jpg",
+          "source_user_id_str": "2204961",
+          "sizes": {
+            "large": {
+              "w": "1080",
+              "h": "1323",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "555",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "980",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1674885048263163905",
+          "display_url": "pic.x.com/rV9kW2blX5"
+        }
+      ]
+    }
+  }
+}

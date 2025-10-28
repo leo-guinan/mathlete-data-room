@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1383022720888233986"
+        ],
+        "editableUntil": "2021-04-16T12:41:26.636Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Revue",
+          "screen_name": "Revue",
+          "indices": [
+            "69",
+            "75"
+          ],
+          "id_str": "1539642572729196544",
+          "id": "1539642572729196544"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/XhqiniIxvZ",
+          "expanded_url": "https://www.getrevue.co/profile/buildinpublic",
+          "display_url": "getrevue.co/profile/buildi…",
+          "indices": [
+            "41",
+            "64"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "1",
+    "id_str": "1383022720888233986",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1383022720888233986",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 16 11:41:26 +0000 2021",
+    "favorited": false,
+    "full_text": "Join me in following this newsletter? 👀  https://t.co/XhqiniIxvZ via @revue",
+    "lang": "en"
+  }
+}

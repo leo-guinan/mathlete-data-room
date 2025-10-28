@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1549113418803724289"
+        ],
+        "editableUntil": "2022-07-18T19:56:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "6",
+            "14"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "101"
+    ],
+    "favorite_count": "2",
+    "id_str": "1549113418803724289",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1549113418803724289",
+    "created_at": "Mon Jul 18 19:26:34 +0000 2022",
+    "favorited": false,
+    "full_text": "Using @copy_ai to generate a spell book, nbd.\n\nHaving some fun with the prompts as I test things out.",
+    "lang": "en"
+  }
+}

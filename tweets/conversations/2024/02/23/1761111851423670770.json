@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761111851423670770"
+        ],
+        "editableUntil": "2024-02-23T20:32:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "South Park Commons",
+          "screen_name": "southpkcommons",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "773272622133944321",
+          "id": "773272622133944321"
+        },
+        {
+          "name": "OpenAI",
+          "screen_name": "OpenAI",
+          "indices": [
+            "16",
+            "23"
+          ],
+          "id_str": "4398626122",
+          "id": "4398626122"
+        },
+        {
+          "name": "Sam Altman",
+          "screen_name": "sama",
+          "indices": [
+            "24",
+            "29"
+          ],
+          "id_str": "1605",
+          "id": "1605"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "230"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1761108688574583067",
+    "id_str": "1761111851423670770",
+    "in_reply_to_user_id": "773272622133944321",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761111851423670770",
+    "in_reply_to_status_id": "1761108688574583067",
+    "created_at": "Fri Feb 23 19:32:39 +0000 2024",
+    "favorited": false,
+    "full_text": "@southpkcommons @OpenAI @sama Question: is it possible to participate partially in person, and partially remote? I'll be in SF Friday and part of Saturday, and then leaving Sat afternoon. The rest of my team would be fully remote.",
+    "lang": "en",
+    "in_reply_to_screen_name": "southpkcommons",
+    "in_reply_to_user_id_str": "773272622133944321"
+  }
+}

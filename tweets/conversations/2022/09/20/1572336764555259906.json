@@ -1,0 +1,75 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1572336764555259906"
+        ],
+        "editableUntil": "2022-09-20T21:57:51.931Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "mentalhealth",
+          "indices": [
+            "55",
+            "68"
+          ]
+        },
+        {
+          "text": "Neurodiversity",
+          "indices": [
+            "75",
+            "90"
+          ]
+        },
+        {
+          "text": "techtwitter",
+          "indices": [
+            "94",
+            "106"
+          ]
+        },
+        {
+          "text": "rejection",
+          "indices": [
+            "131",
+            "141"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Junod",
+          "screen_name": "JennJunod",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1343768871078006785",
+          "id": "1343768871078006785"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1572336764555259906",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1572336764555259906",
+    "created_at": "Tue Sep 20 21:27:51 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @JennJunod: Y’all, click set reminder for tomorrows #mentalhealth &amp; #Neurodiversity in #techtwitter this week well focus on #rejection #…",
+    "lang": "en"
+  }
+}

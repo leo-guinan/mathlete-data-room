@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1891993608858865929"
+        ],
+        "editableUntil": "2025-02-19T00:30:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Spooky Piq 🎃👻🐈‍⬛",
+          "screen_name": "PiquantParvenu",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1447306061518557184",
+          "id": "1447306061518557184"
+        },
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "16",
+            "22"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1891992882015277089",
+    "id_str": "1891993608858865929",
+    "in_reply_to_user_id": "1447306061518557184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1891993608858865929",
+    "in_reply_to_status_id": "1891992882015277089",
+    "created_at": "Tue Feb 18 23:30:02 +0000 2025",
+    "favorited": false,
+    "full_text": "@PiquantParvenu @paulg It's going to be. I'm making sure of it.\n\nIt's all about getting the best ideas to the builders who want to prove themselves.",
+    "lang": "en",
+    "in_reply_to_screen_name": "PiquantParvenu",
+    "in_reply_to_user_id_str": "1447306061518557184"
+  }
+}

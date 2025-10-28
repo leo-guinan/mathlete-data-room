@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1909604654259847468"
+        ],
+        "editableUntil": "2025-04-08T14:50:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909604654259847468/photo/1",
+          "indices": [
+            "33",
+            "56"
+          ],
+          "url": "https://t.co/3snl0iDwC8",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GoBHTucXoAAHfZ7.jpg",
+          "id_str": "1909604646215196672",
+          "id": "1909604646215196672",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoBHTucXoAAHfZ7.jpg",
+          "sizes": {
+            "small": {
+              "w": "220",
+              "h": "138",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "138",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "138",
+              "h": "138",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "220",
+              "h": "138",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3snl0iDwC8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "0",
+    "id_str": "1909604654259847468",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1909604654259847468",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 08 13:50:02 +0000 2025",
+    "favorited": false,
+    "full_text": "Claude isn't talking to me today https://t.co/3snl0iDwC8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909604654259847468/photo/1",
+          "indices": [
+            "33",
+            "56"
+          ],
+          "url": "https://t.co/3snl0iDwC8",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GoBHTucXoAAHfZ7.jpg",
+          "id_str": "1909604646215196672",
+          "video_info": {
+            "aspect_ratio": [
+              "110",
+              "69"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GoBHTucXoAAHfZ7.mp4"
+              }
+            ]
+          },
+          "id": "1909604646215196672",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GoBHTucXoAAHfZ7.jpg",
+          "sizes": {
+            "small": {
+              "w": "220",
+              "h": "138",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "138",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "138",
+              "h": "138",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "220",
+              "h": "138",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/3snl0iDwC8"
+        }
+      ]
+    }
+  }
+}

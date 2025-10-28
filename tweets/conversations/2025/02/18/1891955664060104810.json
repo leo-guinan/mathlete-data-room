@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1891955664060104810"
+        ],
+        "editableUntil": "2025-02-18T21:59:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tater tot",
+          "screen_name": "parakeetnebula",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1315801673776992256",
+          "id": "1315801673776992256"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1891955112525893696",
+    "id_str": "1891955664060104810",
+    "in_reply_to_user_id": "1315801673776992256",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1891955664060104810",
+    "in_reply_to_status_id": "1891955112525893696",
+    "created_at": "Tue Feb 18 20:59:15 +0000 2025",
+    "favorited": false,
+    "full_text": "@parakeetnebula And, I'm working on building a new insurance company that can insure things nobody else wants to try, so actually I get to test out my predictive power in minimizing negative outcomes!\n\nThere are literally no downsides to building this.",
+    "lang": "en",
+    "in_reply_to_screen_name": "parakeetnebula",
+    "in_reply_to_user_id_str": "1315801673776992256"
+  }
+}

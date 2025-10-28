@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1349744629357424642"
+        ],
+        "editableUntil": "2021-01-14T16:46:11.338Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sarah Drinkwater 🔮",
+          "screen_name": "sarahdrinkwater",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "19285503",
+          "id": "19285503"
+        },
+        {
+          "name": "jack",
+          "screen_name": "jack",
+          "indices": [
+            "17",
+            "22"
+          ],
+          "id_str": "12",
+          "id": "12"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1349739039788818434",
+    "id_str": "1349744629357424642",
+    "in_reply_to_user_id": "19285503",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1349744629357424642",
+    "in_reply_to_status_id": "1349739039788818434",
+    "created_at": "Thu Jan 14 15:46:11 +0000 2021",
+    "favorited": false,
+    "full_text": "@sarahdrinkwater @jack I fully agree. I think the biggest problem with blockchain implementations right now is that blockchain is the biggest seller as a buzzword. Using something like Bitcoin as a store of value is interesting, but leads to problems. I am personally more interested in blockchain as",
+    "lang": "en",
+    "in_reply_to_screen_name": "sarahdrinkwater",
+    "in_reply_to_user_id_str": "19285503"
+  }
+}

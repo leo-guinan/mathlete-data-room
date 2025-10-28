@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347627227358384130"
+        ],
+        "editableUntil": "2021-01-08T20:32:23.362Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Julius Kim",
+          "screen_name": "Julius_Kim",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "26138685",
+          "id": "26138685"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1347626436618838020",
+    "id_str": "1347627227358384130",
+    "in_reply_to_user_id": "26138685",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347627227358384130",
+    "in_reply_to_status_id": "1347626436618838020",
+    "created_at": "Fri Jan 08 19:32:23 +0000 2021",
+    "favorited": false,
+    "full_text": "@Julius_Kim I agree with all of it except the wall part. His wall didn't really keep anyone out. Still more dangerous though.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Julius_Kim",
+    "in_reply_to_user_id_str": "26138685"
+  }
+}

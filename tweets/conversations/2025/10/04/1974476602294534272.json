@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1974476602294534272"
+        ],
+        "editableUntil": "2025-10-04T15:08:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Manifold",
+          "screen_name": "ManifoldMarkets",
+          "indices": [
+            "4",
+            "20"
+          ],
+          "id_str": "1466559813752606725",
+          "id": "1466559813752606725"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1974476602294534272/photo/1",
+          "indices": [
+            "21",
+            "44"
+          ],
+          "url": "https://t.co/ZoaasywP2n",
+          "media_url": "http://pbs.twimg.com/media/G2a_5o-WYAAYtKA.jpg",
+          "id_str": "1974476483620921344",
+          "id": "1974476483620921344",
+          "media_url_https": "https://pbs.twimg.com/media/G2a_5o-WYAAYtKA.jpg",
+          "sizes": {
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZoaasywP2n"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "2",
+    "id_str": "1974476602294534272",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1974476602294534272",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 04 14:08:00 +0000 2025",
+    "favorited": false,
+    "full_text": "Cc: @ManifoldMarkets https://t.co/ZoaasywP2n",
+    "lang": "und",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1974476602294534272/photo/1",
+          "indices": [
+            "21",
+            "44"
+          ],
+          "url": "https://t.co/ZoaasywP2n",
+          "media_url": "http://pbs.twimg.com/media/G2a_5o-WYAAYtKA.jpg",
+          "id_str": "1974476483620921344",
+          "id": "1974476483620921344",
+          "media_url_https": "https://pbs.twimg.com/media/G2a_5o-WYAAYtKA.jpg",
+          "sizes": {
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ZoaasywP2n"
+        }
+      ]
+    }
+  }
+}

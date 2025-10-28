@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509663990535888897"
+        ],
+        "editableUntil": "2022-03-31T23:48:38.201Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brené Brown",
+          "screen_name": "BreneBrown",
+          "indices": [
+            "34",
+            "45"
+          ],
+          "id_str": "14717311",
+          "id": "14717311"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D2bTTwxekW",
+          "expanded_url": "https://x.com/TheEllenShow/status/1509658574183493634",
+          "display_url": "x.com/TheEllenShow/s…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "2",
+    "id_str": "1509663990535888897",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1509663990535888897",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 31 22:48:38 +0000 2022",
+    "favorited": false,
+    "full_text": "And as usual, it's great advice.\n\n@BreneBrown is phenomenal. https://t.co/D2bTTwxekW",
+    "lang": "en"
+  }
+}

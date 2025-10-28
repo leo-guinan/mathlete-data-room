@@ -1,0 +1,148 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1373449477147746304"
+        ],
+        "editableUntil": "2021-03-21T02:40:47.466Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ohio University",
+          "screen_name": "ohiou",
+          "indices": [
+            "3",
+            "9"
+          ],
+          "id_str": "16712361",
+          "id": "16712361"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ohiou/status/1373447490561830912/photo/1",
+          "source_status_id": "1373447490561830912",
+          "indices": [
+            "69",
+            "92"
+          ],
+          "url": "https://t.co/bkhIvtZDYZ",
+          "media_url": "http://pbs.twimg.com/media/Ew92-iXXAAIqRyo.jpg",
+          "id_str": "1373447228120039426",
+          "source_user_id": "16712361",
+          "id": "1373447228120039426",
+          "media_url_https": "https://pbs.twimg.com/media/Ew92-iXXAAIqRyo.jpg",
+          "source_user_id_str": "16712361",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1373447490561830912",
+          "display_url": "pic.x.com/bkhIvtZDYZ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "OUohyeah",
+          "indices": [
+            "43",
+            "52"
+          ]
+        },
+        {
+          "text": "MarchMadness",
+          "indices": [
+            "55",
+            "68"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "92"
+    ],
+    "favorite_count": "0",
+    "id_str": "1373449477147746304",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1373449477147746304",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 21 01:40:47 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ohiou: 'Hoos going home? \n\nNot OHIO 😼\n\n#OUohyeah | #MarchMadness https://t.co/bkhIvtZDYZ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ohiou/status/1373447490561830912/photo/1",
+          "source_status_id": "1373447490561830912",
+          "indices": [
+            "69",
+            "92"
+          ],
+          "url": "https://t.co/bkhIvtZDYZ",
+          "media_url": "http://pbs.twimg.com/media/Ew92-iXXAAIqRyo.jpg",
+          "id_str": "1373447228120039426",
+          "source_user_id": "16712361",
+          "id": "1373447228120039426",
+          "media_url_https": "https://pbs.twimg.com/media/Ew92-iXXAAIqRyo.jpg",
+          "source_user_id_str": "16712361",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1080",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1373447490561830912",
+          "display_url": "pic.x.com/bkhIvtZDYZ"
+        }
+      ]
+    }
+  }
+}

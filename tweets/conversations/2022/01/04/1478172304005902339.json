@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1478172304005902339"
+        ],
+        "editableUntil": "2022-01-04T02:11:55.045Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1478172304005902339/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/vJ8iC6lUgB",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FIOF34xWQAEF5Jw.jpg",
+          "id_str": "1478172297886318593",
+          "id": "1478172297886318593",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIOF34xWQAEF5Jw.jpg",
+          "sizes": {
+            "large": {
+              "w": "220",
+              "h": "202",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "220",
+              "h": "202",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "202",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vJ8iC6lUgB"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1478002509142708224",
+    "id_str": "1478172304005902339",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1478172304005902339",
+    "in_reply_to_status_id": "1478002509142708224",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 04 01:11:55 +0000 2022",
+    "favorited": false,
+    "full_text": "@bkh_leung I don't know. Sounds pretty legit to me... https://t.co/vJ8iC6lUgB",
+    "lang": "en",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1478172304005902339/photo/1",
+          "indices": [
+            "54",
+            "77"
+          ],
+          "url": "https://t.co/vJ8iC6lUgB",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FIOF34xWQAEF5Jw.jpg",
+          "id_str": "1478172297886318593",
+          "video_info": {
+            "aspect_ratio": [
+              "110",
+              "101"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FIOF34xWQAEF5Jw.mp4"
+              }
+            ]
+          },
+          "id": "1478172297886318593",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIOF34xWQAEF5Jw.jpg",
+          "sizes": {
+            "large": {
+              "w": "220",
+              "h": "202",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "220",
+              "h": "202",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "202",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/vJ8iC6lUgB"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1338667400036823042"
+        ],
+        "editableUntil": "2020-12-15T03:09:14.063Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Annie Agar",
+          "screen_name": "AnnieAgar",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "940389631",
+          "id": "940389631"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/AnnieAgar/status/1338581006677372931/video/1",
+          "source_status_id": "1338581006677372931",
+          "indices": [
+            "50",
+            "73"
+          ],
+          "url": "https://t.co/Vsjlb3v04d",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338580881720692739/pu/img/r6j0WhW96M1xL6kv.jpg",
+          "id_str": "1338580881720692739",
+          "source_user_id": "940389631",
+          "id": "1338580881720692739",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338580881720692739/pu/img/r6j0WhW96M1xL6kv.jpg",
+          "source_user_id_str": "940389631",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1338581006677372931",
+          "display_url": "pic.x.com/Vsjlb3v04d"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CFBPlayoff",
+          "indices": [
+            "22",
+            "33"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "0",
+    "id_str": "1338667400036823042",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1338667400036823042",
+    "possibly_sensitive": false,
+    "created_at": "Tue Dec 15 02:09:14 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @AnnieAgar: If the #CFBPlayoff had a zoom call https://t.co/Vsjlb3v04d",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/AnnieAgar/status/1338581006677372931/video/1",
+          "source_status_id": "1338581006677372931",
+          "indices": [
+            "50",
+            "73"
+          ],
+          "url": "https://t.co/Vsjlb3v04d",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1338580881720692739/pu/img/r6j0WhW96M1xL6kv.jpg",
+          "id_str": "1338580881720692739",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "53448",
+            "variants": [
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1338580881720692739/pu/vid/360x640/NNVx2upScfth11Wv.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1338580881720692739/pu/pl/0Hmcee1yV13smhuJ.m3u8?tag=10&v=fe4"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1338580881720692739/pu/vid/320x568/DX1ihUlBKaiOLPlR.mp4?tag=10"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1338580881720692739/pu/vid/720x1280/nV3SaShIztWzEsXx.mp4?tag=10"
+              }
+            ]
+          },
+          "source_user_id": "940389631",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1338580881720692739",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1338580881720692739/pu/img/r6j0WhW96M1xL6kv.jpg",
+          "source_user_id_str": "940389631",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1338581006677372931",
+          "display_url": "pic.x.com/Vsjlb3v04d"
+        }
+      ]
+    }
+  }
+}

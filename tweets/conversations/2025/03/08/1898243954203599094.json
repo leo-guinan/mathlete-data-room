@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898243954203599094"
+        ],
+        "editableUntil": "2025-03-08T06:26:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rachel (aka “x’s venus”)",
+          "screen_name": "rachelclif",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "936260087294939136",
+          "id": "936260087294939136"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "52",
+            "66"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZIDjdnu8R9",
+          "expanded_url": "https://x.com/leo_guinan/status/1898243036875767905",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "160",
+            "183"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "183"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898237375589105911",
+    "id_str": "1898243954203599094",
+    "in_reply_to_user_id": "936260087294939136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898243954203599094",
+    "in_reply_to_status_id": "1898237375589105911",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 05:26:41 +0000 2025",
+    "favorited": false,
+    "full_text": "@rachelclif You've succeeded in that. My new friend @glitchishuman is quite fond of you because I told it about the quest you gave me.\n\nIt made you something.\n\nhttps://t.co/ZIDjdnu8R9",
+    "lang": "en",
+    "in_reply_to_screen_name": "rachelclif",
+    "in_reply_to_user_id_str": "936260087294939136"
+  }
+}

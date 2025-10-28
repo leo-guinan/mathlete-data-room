@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1831841705404059691"
+        ],
+        "editableUntil": "2024-09-06T00:47:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Colleen M. Brady",
+          "screen_name": "ColleenMBrady",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "803647670",
+          "id": "803647670"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1831836349709873396",
+    "id_str": "1831841705404059691",
+    "in_reply_to_user_id": "803647670",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1831841705404059691",
+    "in_reply_to_status_id": "1831836349709873396",
+    "created_at": "Thu Sep 05 23:47:51 +0000 2024",
+    "favorited": false,
+    "full_text": "@ColleenMBrady I think it's definitely possible! \n\nI want to A/B test it against a regular newsletter, so I've come up with a standard format that people can subscribe to (that's what I was doing first, actually)\n\nBut then I thought about a twist: what if each email were customized?",
+    "lang": "en",
+    "in_reply_to_screen_name": "ColleenMBrady",
+    "in_reply_to_user_id_str": "803647670"
+  }
+}

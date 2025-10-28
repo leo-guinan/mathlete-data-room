@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1909628684039766060"
+        ],
+        "editableUntil": "2025-04-08T16:25:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/cbmR7eQFfP",
+          "expanded_url": "https://www.buildinpublicuniversity.com/the-memetic-foundation-of-human-value-a-new-economic-paradigm/",
+          "display_url": "buildinpublicuniversity.com/the-memetic-fo…",
+          "indices": [
+            "88",
+            "111"
+          ]
+        },
+        {
+          "url": "https://t.co/7AhjKShYpA",
+          "expanded_url": "https://x.com/leo_guinan/status/1881796938925748689",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "112",
+            "135"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909628684039766060/photo/1",
+          "indices": [
+            "136",
+            "159"
+          ],
+          "url": "https://t.co/uYaQcqDvEd",
+          "media_url": "http://pbs.twimg.com/media/GoBdILcWoAAqpNI.jpg",
+          "id_str": "1909628637097140224",
+          "id": "1909628637097140224",
+          "media_url_https": "https://pbs.twimg.com/media/GoBdILcWoAAqpNI.jpg",
+          "sizes": {
+            "large": {
+              "w": "1586",
+              "h": "1248",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "944",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "535",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uYaQcqDvEd"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "12",
+    "id_str": "1909628684039766060",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1909628684039766060",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 08 15:25:32 +0000 2025",
+    "favorited": false,
+    "full_text": "New Pinned Tweet: Don't pay attention to me, instead, look at my research. \n\nIt's here:\nhttps://t.co/cbmR7eQFfP https://t.co/7AhjKShYpA https://t.co/uYaQcqDvEd",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909628684039766060/photo/1",
+          "indices": [
+            "136",
+            "159"
+          ],
+          "url": "https://t.co/uYaQcqDvEd",
+          "media_url": "http://pbs.twimg.com/media/GoBdILcWoAAqpNI.jpg",
+          "id_str": "1909628637097140224",
+          "id": "1909628637097140224",
+          "media_url_https": "https://pbs.twimg.com/media/GoBdILcWoAAqpNI.jpg",
+          "sizes": {
+            "large": {
+              "w": "1586",
+              "h": "1248",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "944",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "535",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uYaQcqDvEd"
+        }
+      ]
+    }
+  }
+}

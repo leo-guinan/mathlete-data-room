@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1551734996431474693"
+        ],
+        "editableUntil": "2022-07-26T01:33:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sara Ledterman",
+          "screen_name": "saraledterman",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1842466453",
+          "id": "1842466453"
+        },
+        {
+          "name": "Robert Scoble",
+          "screen_name": "Scobleizer",
+          "indices": [
+            "15",
+            "26"
+          ],
+          "id_str": "13348",
+          "id": "13348"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "130"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1551634487582138370",
+    "id_str": "1551734996431474693",
+    "in_reply_to_user_id": "1842466453",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1551734996431474693",
+    "in_reply_to_status_id": "1551634487582138370",
+    "created_at": "Tue Jul 26 01:03:47 +0000 2022",
+    "favorited": false,
+    "full_text": "@saraledterman @Scobleizer I'll let you know in the next 3-6 months. That should give me a chance to see how a few things turn out",
+    "lang": "en",
+    "in_reply_to_screen_name": "saraledterman",
+    "in_reply_to_user_id_str": "1842466453"
+  }
+}

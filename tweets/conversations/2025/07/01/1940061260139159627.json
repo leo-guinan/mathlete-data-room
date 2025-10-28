@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940061260139159627"
+        ],
+        "editableUntil": "2025-07-01T15:53:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940061260139159627/photo/1",
+          "indices": [
+            "106",
+            "129"
+          ],
+          "url": "https://t.co/p4WbxMVko4",
+          "media_url": "http://pbs.twimg.com/media/Gux6UKhXsAAIeBg.jpg",
+          "id_str": "1940060026330132480",
+          "id": "1940060026330132480",
+          "media_url_https": "https://pbs.twimg.com/media/Gux6UKhXsAAIeBg.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "236",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "134",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1660",
+              "h": "326",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/p4WbxMVko4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "129"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1940061257953870184",
+    "id_str": "1940061260139159627",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940061260139159627",
+    "in_reply_to_status_id": "1940061257953870184",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 14:53:43 +0000 2025",
+    "favorited": false,
+    "full_text": "Ideas spread much more slowly than you think they will. Even (especially?) when they need to move faster. https://t.co/p4WbxMVko4",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940061260139159627/photo/1",
+          "indices": [
+            "106",
+            "129"
+          ],
+          "url": "https://t.co/p4WbxMVko4",
+          "media_url": "http://pbs.twimg.com/media/Gux6UKhXsAAIeBg.jpg",
+          "id_str": "1940060026330132480",
+          "id": "1940060026330132480",
+          "media_url_https": "https://pbs.twimg.com/media/Gux6UKhXsAAIeBg.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "236",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "134",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1660",
+              "h": "326",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/p4WbxMVko4"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334109990576140288"
+        ],
+        "editableUntil": "2020-12-02T13:19:42.975Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Indie Hackers",
+          "screen_name": "IndieHackers",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "756326958946922496",
+          "id": "756326958946922496"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1334109990576140288",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334109990576140288",
+    "created_at": "Wed Dec 02 12:19:42 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @IndieHackers: \"Developers have feelings too.\n\nIt can often be easy for business people working in a product environment to get frustrat…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1552759507520045056"
+        ],
+        "editableUntil": "2022-07-28T21:24:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1552758954639466497",
+    "id_str": "1552759507520045056",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1552759507520045056",
+    "in_reply_to_status_id": "1552758954639466497",
+    "created_at": "Thu Jul 28 20:54:50 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU But I had assumed that there would be a government that would be recognizable to people, and I'm not sure that will be the case.\n\nThe book is \"The Sovereign Individual\" and it's got me thinking about what that would mean in terms of how the world would function.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

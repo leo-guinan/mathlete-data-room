@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1645062842255659008"
+        ],
+        "editableUntil": "2023-04-09T14:25:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1645062842255659008/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/VG3CTEcgKS",
+          "media_url": "http://pbs.twimg.com/media/FtRv7eqXgAAGod8.jpg",
+          "id_str": "1645062831530803200",
+          "id": "1645062831530803200",
+          "media_url_https": "https://pbs.twimg.com/media/FtRv7eqXgAAGod8.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VG3CTEcgKS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "1",
+    "id_str": "1645062842255659008",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1645062842255659008",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 09 13:55:20 +0000 2023",
+    "favorited": false,
+    "full_text": "My wide showed me the Easter bunny that was going to be at a place near us and it was a wee bit scary. She asked me why they never looked cute.\n\nSo I generated some cute Easter bunnies. Enjoy! https://t.co/VG3CTEcgKS",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1645062842255659008/photo/1",
+          "indices": [
+            "193",
+            "216"
+          ],
+          "url": "https://t.co/VG3CTEcgKS",
+          "media_url": "http://pbs.twimg.com/media/FtRv7eqXgAAGod8.jpg",
+          "id_str": "1645062831530803200",
+          "id": "1645062831530803200",
+          "media_url_https": "https://pbs.twimg.com/media/FtRv7eqXgAAGod8.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/VG3CTEcgKS"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1937993578426310701"
+        ],
+        "editableUntil": "2025-06-25T22:57:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "David Shapiro ⏩",
+          "screen_name": "DaveShapi",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1795781228399869952",
+          "id": "1795781228399869952"
+        },
+        {
+          "name": "Beff – e/acc",
+          "screen_name": "BasedBeffJezos",
+          "indices": [
+            "11",
+            "26"
+          ],
+          "id_str": "1556550048862928898",
+          "id": "1556550048862928898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1937992024419930115",
+    "id_str": "1937993578426310701",
+    "in_reply_to_user_id": "1795781228399869952",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1937993578426310701",
+    "in_reply_to_status_id": "1937992024419930115",
+    "created_at": "Wed Jun 25 21:57:29 +0000 2025",
+    "favorited": false,
+    "full_text": "@DaveShapi @BasedBeffJezos Maybe we should try something different? 🤷‍♂️\n\nInternet 2.0 is here 😉",
+    "lang": "en",
+    "in_reply_to_screen_name": "DaveShapi",
+    "in_reply_to_user_id_str": "1795781228399869952"
+  }
+}

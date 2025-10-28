@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1530145601526054914"
+        ],
+        "editableUntil": "2022-05-27T11:45:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Melchor",
+          "screen_name": "Melchor_Eric",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "186882088",
+          "id": "186882088"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "49"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1530129455326306307",
+    "id_str": "1530145601526054914",
+    "in_reply_to_user_id": "186882088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1530145601526054914",
+    "in_reply_to_status_id": "1530129455326306307",
+    "created_at": "Fri May 27 11:15:14 +0000 2022",
+    "favorited": false,
+    "full_text": "@Melchor_Eric No sugar! Just pure coffee for me 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "Melchor_Eric",
+    "in_reply_to_user_id_str": "186882088"
+  }
+}

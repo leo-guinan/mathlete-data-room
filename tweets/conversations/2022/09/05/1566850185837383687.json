@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566850185837383687"
+        ],
+        "editableUntil": "2022-09-05T18:36:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Who Should I Unfollow?",
+          "screen_name": "should_unfollow",
+          "indices": [
+            "41",
+            "57"
+          ],
+          "id_str": "1544441682741043203",
+          "id": "1544441682741043203"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "4",
+    "id_str": "1566850185837383687",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566850185837383687",
+    "created_at": "Mon Sep 05 18:06:09 +0000 2022",
+    "favorited": false,
+    "full_text": "Notifications just about finished up for @should_unfollow .\n\nGot the preferences set up on the frontend, now just need to wire the backend up to actually send notifications when things have been completed. It's got the ability to use tweet, email, or DM, just need to trigger it",
+    "lang": "en"
+  }
+}

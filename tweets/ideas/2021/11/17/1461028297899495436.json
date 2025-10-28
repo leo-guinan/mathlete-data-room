@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1461028297899495436"
+        ],
+        "editableUntil": "2021-11-17T18:47:45.469Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "text": "LOCAL",
+          "indices": [
+            "68",
+            "74"
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ou41mR1eW2",
+          "expanded_url": "https://pass.superlocal.com/?ref=5peo38RNR",
+          "display_url": "pass.superlocal.com/?ref=5peo38RNR",
+          "indices": [
+            "90",
+            "113"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "3",
+    "id_str": "1461028297899495436",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1461028297899495436",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 17 17:47:45 +0000 2021",
+    "favorited": false,
+    "full_text": "I'm on the waitlist for Superlocal Pass! Use my link to help me get $LOCAL crypto tokens. https://t.co/Ou41mR1eW2",
+    "lang": "en"
+  }
+}

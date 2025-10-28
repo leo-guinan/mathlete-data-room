@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527293489314410496"
+        ],
+        "editableUntil": "2022-05-19T14:51:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lWSId0eGvs",
+          "expanded_url": "https://x.com/ProductHunt/status/1527291883977777152",
+          "display_url": "x.com/ProductHunt/st…",
+          "indices": [
+            "50",
+            "73"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "9",
+    "id_str": "1527293489314410496",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527293489314410496",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 19 14:21:58 +0000 2022",
+    "favorited": false,
+    "full_text": "Well, I now see slack in a much different way...😂 https://t.co/lWSId0eGvs",
+    "lang": "en"
+  }
+}

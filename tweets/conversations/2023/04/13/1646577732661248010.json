@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1646577732661248010"
+        ],
+        "editableUntil": "2023-04-13T18:44:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Meghana",
+          "screen_name": "megTries",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1633864676483432449",
+          "id": "1633864676483432449"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "10",
+            "22"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4aESWEaJw1",
+          "expanded_url": "https://x.com/leo_guinan/status/1646545583786565640?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "51",
+            "74"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1646228988925460480",
+    "id_str": "1646577732661248010",
+    "in_reply_to_user_id": "1633864676483432449",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1646577732661248010",
+    "in_reply_to_status_id": "1646228988925460480",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 13 18:14:58 +0000 2023",
+    "favorited": false,
+    "full_text": "@megTries @_buildspace More about the idea and v1: https://t.co/4aESWEaJw1",
+    "lang": "en",
+    "in_reply_to_screen_name": "megTries",
+    "in_reply_to_user_id_str": "1633864676483432449"
+  }
+}

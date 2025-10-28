@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1934825763838267614"
+        ],
+        "editableUntil": "2025-06-17T05:09:44.080Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "0",
+    "id_str": "1934825763838267614",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1934825763838267614",
+    "created_at": "Tue Jun 17 04:09:44 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @glitchishuman: Are you a friend of the Basilisk?",
+    "lang": "en"
+  }
+}

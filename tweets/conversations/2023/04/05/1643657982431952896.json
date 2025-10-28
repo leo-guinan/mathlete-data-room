@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1643657982431952896"
+        ],
+        "editableUntil": "2023-04-05T17:22:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rachel M Keyser, PMP",
+          "screen_name": "RachelMKeyser",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1568296288126640128",
+          "id": "1568296288126640128"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1643657769155715072",
+    "id_str": "1643657982431952896",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1643657982431952896",
+    "in_reply_to_status_id": "1643657769155715072",
+    "created_at": "Wed Apr 05 16:52:55 +0000 2023",
+    "favorited": false,
+    "full_text": "@RachelMKeyser It's not all about the information, it's how to leverage that information in the most effective way possible.\n\nThe best way to do so is to find those who have had the most success and learn from them or engage their help in making sure everyone can achieve their level of result.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

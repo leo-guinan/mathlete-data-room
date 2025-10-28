@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1501564337361727499"
+        ],
+        "editableUntil": "2022-03-09T15:23:30.400Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "179"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1501564021157535748",
+    "id_str": "1501564337361727499",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1501564337361727499",
+    "in_reply_to_status_id": "1501564021157535748",
+    "created_at": "Wed Mar 09 14:23:30 +0000 2022",
+    "favorited": false,
+    "full_text": "@reddy2go It was easy to stay up! It was such a fun conversation!\n\nGoing to bed after, even late, was much harder 😴 \n\nDangerous to generate that much energy so close to bedtime! 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972"
+  }
+}

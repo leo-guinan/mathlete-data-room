@@ -1,0 +1,92 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1591325064158449664"
+        ],
+        "editableUntil": "2022-11-12T07:30:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "29",
+            "41"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "42",
+            "56"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "67",
+            "81"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W2NvbHiP0c",
+          "expanded_url": "https://saasfactory.substack.com/",
+          "display_url": "saasfactory.substack.com",
+          "indices": [
+            "178",
+            "201"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "201"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1591220463862439936",
+    "id_str": "1591325064158449664",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1591325064158449664",
+    "in_reply_to_status_id": "1591220463862439936",
+    "possibly_sensitive": false,
+    "created_at": "Sat Nov 12 07:00:35 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark @Up4thechalleng2 @UntappedKeg @tshubillabong @DorseyMc @TheKookamonga Want to join my on my journey to launch a new microsaas each week? Check out The SaaS Factory!\n\nhttps://t.co/W2NvbHiP0c",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

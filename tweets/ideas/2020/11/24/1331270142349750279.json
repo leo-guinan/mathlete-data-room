@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1331270142349750279"
+        ],
+        "editableUntil": "2020-11-24T17:15:10.396Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/TqH5gZOVXR",
+          "expanded_url": "https://x.com/ChuckWendig/status/1331262285441077250",
+          "display_url": "x.com/ChuckWendig/st…",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1331270142349750279",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1331270142349750279",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 24 16:15:10 +0000 2020",
+    "favorited": false,
+    "full_text": "Buy this book for yourself. And everyone you know. It is brilliant. https://t.co/TqH5gZOVXR",
+    "lang": "en"
+  }
+}

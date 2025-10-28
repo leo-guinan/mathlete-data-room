@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1687790975593160704"
+        ],
+        "editableUntil": "2023-08-05T12:41:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "12",
+            "20"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "59",
+            "75"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1687737739385470976",
+    "id_str": "1687790975593160704",
+    "in_reply_to_user_id": "922232585371176960",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1687790975593160704",
+    "in_reply_to_status_id": "1687737739385470976",
+    "created_at": "Sat Aug 05 11:41:40 +0000 2023",
+    "favorited": false,
+    "full_text": "@KrysChromo @YouTube Agree! That's such a great quote from @JustinAllingham.",
+    "lang": "en",
+    "in_reply_to_screen_name": "KrysXC",
+    "in_reply_to_user_id_str": "922232585371176960"
+  }
+}

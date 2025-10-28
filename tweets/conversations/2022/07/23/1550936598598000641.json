@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1550936598598000641"
+        ],
+        "editableUntil": "2022-07-23T20:41:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1550936597121605632",
+    "id_str": "1550936598598000641",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1550936598598000641",
+    "in_reply_to_status_id": "1550936597121605632",
+    "created_at": "Sat Jul 23 20:11:14 +0000 2022",
+    "favorited": false,
+    "full_text": "Still have to solve the bug I'm facing, but this should make it easier to retry things different ways, as needed. And it will make my life way easier in the future.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

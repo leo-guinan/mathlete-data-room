@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1625246413121548290"
+        ],
+        "editableUntil": "2023-02-13T22:01:55.163Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "The Crew",
+          "screen_name": "ColumbusCrew",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "16960789",
+          "id": "16960789"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1625246413121548290",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1625246413121548290",
+    "created_at": "Mon Feb 13 21:31:55 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @ColumbusCrew: Your Energy. Your Passion. \n\nThat's why we are giving our supporters a chance to win the new Crew jersey. Retweet this po…",
+    "lang": "en"
+  }
+}

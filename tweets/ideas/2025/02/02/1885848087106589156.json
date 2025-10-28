@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885848087106589156"
+        ],
+        "editableUntil": "2025-02-02T01:29:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1885848087106589156/photo/1",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/xQJ5yZZMLv",
+          "media_url": "http://pbs.twimg.com/media/GivgrScXgAAHQVa.jpg",
+          "id_str": "1885847903274500096",
+          "id": "1885847903274500096",
+          "media_url_https": "https://pbs.twimg.com/media/GivgrScXgAAHQVa.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "437",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1202",
+              "h": "772",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "771",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xQJ5yZZMLv"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "0",
+    "id_str": "1885848087106589156",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885848087106589156",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 02 00:29:55 +0000 2025",
+    "favorited": false,
+    "full_text": "this quant escaped the finance trap https://t.co/xQJ5yZZMLv",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1885848087106589156/photo/1",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/xQJ5yZZMLv",
+          "media_url": "http://pbs.twimg.com/media/GivgrScXgAAHQVa.jpg",
+          "id_str": "1885847903274500096",
+          "id": "1885847903274500096",
+          "media_url_https": "https://pbs.twimg.com/media/GivgrScXgAAHQVa.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "437",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1202",
+              "h": "772",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "771",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xQJ5yZZMLv"
+        }
+      ]
+    }
+  }
+}

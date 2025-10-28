@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1530266368448155648"
+        ],
+        "editableUntil": "2022-05-27T19:45:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brandon Brooks",
+          "screen_name": "OfficialBBrooks",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "929464603439923201",
+          "id": "929464603439923201"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "269"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1530263817208348672",
+    "id_str": "1530266368448155648",
+    "in_reply_to_user_id": "929464603439923201",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1530266368448155648",
+    "in_reply_to_status_id": "1530263817208348672",
+    "created_at": "Fri May 27 19:15:07 +0000 2022",
+    "favorited": false,
+    "full_text": "@OfficialBBrooks Also, looking at the replies, realize this could be read as they can't understand them or notice them.\n\nBased on context and personal experience, believe you meant more along the lines of not being able to tolerate them because you see them everywhere.",
+    "lang": "en",
+    "in_reply_to_screen_name": "OfficialBBrooks",
+    "in_reply_to_user_id_str": "929464603439923201"
+  }
+}

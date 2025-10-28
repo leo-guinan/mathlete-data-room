@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1447575027726045184"
+        ],
+        "editableUntil": "2021-10-11T15:49:15.910Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UkwU9J5NwF",
+          "expanded_url": "https://x.com/leo_guinan/status/1447561431952596993",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "56",
+            "79"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "2",
+    "id_str": "1447575027726045184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1447575027726045184",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 11 14:49:15 +0000 2021",
+    "favorited": false,
+    "full_text": "I got a request to explain this.\n\nHere's what I've got: https://t.co/UkwU9J5NwF",
+    "lang": "en"
+  }
+}

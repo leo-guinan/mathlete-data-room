@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808869055433945449"
+        ],
+        "editableUntil": "2024-07-04T15:22:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808869055433945449/photo/1",
+          "indices": [
+            "63",
+            "86"
+          ],
+          "url": "https://t.co/sFa64MEa2f",
+          "media_url": "http://pbs.twimg.com/media/GRpjBbMWEAEeELW.png",
+          "id_str": "1808867076473229313",
+          "id": "1808867076473229313",
+          "media_url_https": "https://pbs.twimg.com/media/GRpjBbMWEAEeELW.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "246",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "896",
+              "h": "324",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "896",
+              "h": "324",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/sFa64MEa2f"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1808869052858691833",
+    "id_str": "1808869055433945449",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808869055433945449",
+    "in_reply_to_status_id": "1808869052858691833",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 04 14:22:44 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, so what would the top investor objection be?\n\nThat tracks. https://t.co/sFa64MEa2f",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808869055433945449/photo/1",
+          "indices": [
+            "63",
+            "86"
+          ],
+          "url": "https://t.co/sFa64MEa2f",
+          "media_url": "http://pbs.twimg.com/media/GRpjBbMWEAEeELW.png",
+          "id_str": "1808867076473229313",
+          "id": "1808867076473229313",
+          "media_url_https": "https://pbs.twimg.com/media/GRpjBbMWEAEeELW.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "246",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "896",
+              "h": "324",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "896",
+              "h": "324",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/sFa64MEa2f"
+        }
+      ]
+    }
+  }
+}

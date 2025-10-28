@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1426636130540212228"
+        ],
+        "editableUntil": "2021-08-14T21:05:33.795Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "squishidoodles",
+          "screen_name": "squishidoodles",
+          "indices": [
+            "16",
+            "31"
+          ],
+          "id_str": "1387455002763952128",
+          "id": "1387455002763952128"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1426635565437530114",
+    "id_str": "1426636130540212228",
+    "in_reply_to_user_id": "1311615897698627585",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1426636130540212228",
+    "in_reply_to_status_id": "1426635565437530114",
+    "created_at": "Sat Aug 14 20:05:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@squishthoughts @squishidoodles Happens for me too. I can see it until I click on it. Then it disappears.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1311615897698627585"
+  }
+}

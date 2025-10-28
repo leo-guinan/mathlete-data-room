@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1377623358515347463"
+        ],
+        "editableUntil": "2021-04-01T15:06:18.331Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ben Putano 📚",
+          "screen_name": "BenjaminPutano",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "228834325",
+          "id": "228834325"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2T05diijOC",
+          "expanded_url": "https://x.com/leo_guinan/status/1377623263950561295?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "16",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1377423890096353280",
+    "id_str": "1377623358515347463",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1377623358515347463",
+    "in_reply_to_status_id": "1377423890096353280",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 01 14:06:18 +0000 2021",
+    "favorited": false,
+    "full_text": "@BenjaminPutano https://t.co/2T05diijOC",
+    "lang": "qme",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

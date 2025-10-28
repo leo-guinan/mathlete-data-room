@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1767223024569242089"
+        ],
+        "editableUntil": "2024-03-11T17:16:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/RUoEoE9azW",
+          "expanded_url": "https://x.com/garrytan/status/1767196845263229439",
+          "display_url": "x.com/garrytan/statu…",
+          "indices": [
+            "277",
+            "300"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "0",
+    "id_str": "1767223024569242089",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1767223024569242089",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 11 16:16:17 +0000 2024",
+    "favorited": false,
+    "full_text": "Hmmm, really interested by these chips.\n\nListened to this and realized something: this is the hardware version of my Nexus architecture, but instead of relying on physical devices for generating random samples, I'm using peoples' thoughts.\n\nThe key for me was how they talked… https://t.co/RUoEoE9azW",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1375126373421973506"
+        ],
+        "editableUntil": "2021-03-25T17:44:10.693Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benedict Evans",
+          "screen_name": "benedictevans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1236101",
+          "id": "1236101"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "284"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1375125210538606594",
+    "id_str": "1375126373421973506",
+    "in_reply_to_user_id": "1236101",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1375126373421973506",
+    "in_reply_to_status_id": "1375125210538606594",
+    "created_at": "Thu Mar 25 16:44:10 +0000 2021",
+    "favorited": false,
+    "full_text": "@benedictevans I think that's the wrong way to look at it. The like actually belongs to the platform because it cannot exist outside of the platform. The photo is the data in question. And that has clear ownership. We should own our own data and platforms should be able to use theirs",
+    "lang": "en",
+    "in_reply_to_screen_name": "benedictevans",
+    "in_reply_to_user_id_str": "1236101"
+  }
+}

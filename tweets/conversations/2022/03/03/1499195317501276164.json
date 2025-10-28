@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499195317501276164"
+        ],
+        "editableUntil": "2022-03-03T02:29:52.051Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "120",
+            "128"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T1Ninvel0i",
+          "expanded_url": "https://jobs.lever.co/CopyAI",
+          "display_url": "jobs.lever.co/CopyAI",
+          "indices": [
+            "132",
+            "155"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "235"
+    ],
+    "favorite_count": "0",
+    "id_str": "1499195317501276164",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1499195317501276164",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 03 01:29:52 +0000 2022",
+    "favorited": false,
+    "full_text": "Have you ever wanted to work at an awesome startup with an incredible team?\n\nEver wanted to work with me?\n\nWe're hiring @copy_ai !\n\nhttps://t.co/T1Ninvel0i\n\nMy DMs are open if you have any questions!\n\nTop team, fun tech, great mission!",
+    "lang": "en"
+  }
+}

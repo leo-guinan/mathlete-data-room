@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1682813073050959873"
+        ],
+        "editableUntil": "2023-07-22T19:01:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Y96Nfwaf9v",
+          "expanded_url": "https://x.com/leo_guinan/status/1682784131233509376",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "271",
+            "294"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "id_str": "1682813073050959873",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1682813073050959873",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 22 18:01:16 +0000 2023",
+    "favorited": false,
+    "full_text": "Decided to go with Mongo for the conversation history.\n\nNow I've got a set of questions that I can ask first when users first sign in and start chatting, and then after that, it passes things off to the AI model.\n\nNow I've got to plug in my prompt + populate the answers https://t.co/Y96Nfwaf9v",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1793650729242239271"
+        ],
+        "editableUntil": "2024-05-23T15:30:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "129",
+            "140"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/IEo937UfB8",
+          "expanded_url": "https://open.substack.com/pub/internetfactory/p/introduction-to-abundant-systems?r=evblp&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+          "display_url": "open.substack.com/pub/internetfa…",
+          "indices": [
+            "141",
+            "164"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "3",
+    "id_str": "1793650729242239271",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1793650729242239271",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 23 14:30:32 +0000 2024",
+    "favorited": false,
+    "full_text": "New post! Finally published a piece I've been working on for 3 weeks. (v1 was 3x longer 😂)\n\nIntroduction to Abundant Systems, by @leo_guinan https://t.co/IEo937UfB8",
+    "lang": "en"
+  }
+}

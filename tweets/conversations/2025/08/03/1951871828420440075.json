@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1951871828420440075"
+        ],
+        "editableUntil": "2025-08-03T06:04:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "prismaura",
+          "screen_name": "alchemicAV",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "862488191638671360",
+          "id": "862488191638671360"
+        },
+        {
+          "name": "noth",
+          "screen_name": "noaonknows",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "1469811976146616320",
+          "id": "1469811976146616320"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1951865882839318827",
+    "id_str": "1951871828420440075",
+    "in_reply_to_user_id": "862488191638671360",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1951871828420440075",
+    "in_reply_to_status_id": "1951865882839318827",
+    "created_at": "Sun Aug 03 05:04:42 +0000 2025",
+    "favorited": false,
+    "full_text": "@alchemicAV @noaonknows The problem is that the idea of one shotting isn’t properly constrained. \n\nThe reality is that for a given system, there exists an app of a certain maximum complexity that can be generated reliably given precise instructions. \n\nEnds up depending more on the prompter than the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "alchemicAV",
+    "in_reply_to_user_id_str": "862488191638671360"
+  }
+}

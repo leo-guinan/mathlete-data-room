@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1863672774239101139"
+        ],
+        "editableUntil": "2024-12-02T20:53:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Tolstenko",
+          "screen_name": "_cheralisa",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1541828576160481282",
+          "id": "1541828576160481282"
+        },
+        {
+          "name": "Threadapalooza!",
+          "screen_name": "threadapalooza",
+          "indices": [
+            "12",
+            "27"
+          ],
+          "id_str": "1309813782835650560",
+          "id": "1309813782835650560"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "304"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1863669998884970706",
+    "id_str": "1863672774239101139",
+    "in_reply_to_user_id": "1541828576160481282",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1863672774239101139",
+    "in_reply_to_status_id": "1863669998884970706",
+    "created_at": "Mon Dec 02 19:53:09 +0000 2024",
+    "favorited": false,
+    "full_text": "@_cheralisa @threadapalooza Thanks! Please let me know if anything is unclear, confusing, or doesn't connect.\n\nThe hardest part of all of this is making my ideas legible to others. I've been working on it for about 4 years now, so anything that you have questions about, please please please ask haha. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "_cheralisa",
+    "in_reply_to_user_id_str": "1541828576160481282"
+  }
+}

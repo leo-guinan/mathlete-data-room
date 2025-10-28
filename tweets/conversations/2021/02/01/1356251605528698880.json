@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1356251605528698880"
+        ],
+        "editableUntil": "2021-02-01T15:42:35.351Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Elad Gil",
+          "screen_name": "eladgil",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "6535212",
+          "id": "6535212"
+        },
+        {
+          "name": "Ghost",
+          "screen_name": "Ghost",
+          "indices": [
+            "269",
+            "275"
+          ],
+          "id_str": "767545134",
+          "id": "767545134"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1356249784135208963",
+    "id_str": "1356251605528698880",
+    "in_reply_to_user_id": "6535212",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1356251605528698880",
+    "in_reply_to_status_id": "1356249784135208963",
+    "created_at": "Mon Feb 01 14:42:35 +0000 2021",
+    "favorited": false,
+    "full_text": "@eladgil What are your goals for your blog? I just launched a startup that is looking at helping creators monetize their content and blogging is a big focus of mine. Let me know if you want to chat. Would love to see if I could help you. \n\nBut if not, I am building on @Ghost. It's 👍",
+    "lang": "en",
+    "in_reply_to_screen_name": "eladgil",
+    "in_reply_to_user_id_str": "6535212"
+  }
+}

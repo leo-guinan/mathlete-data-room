@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1436021796327788549"
+        ],
+        "editableUntil": "2021-09-09T18:40:50.896Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Brooklin Nash",
+          "screen_name": "realBrookNash",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "3027540500",
+          "id": "3027540500"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/realBrookNash/status/1436019944165150726/photo/1",
+          "source_status_id": "1436019944165150726",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/IfxOcRVoAz",
+          "media_url": "http://pbs.twimg.com/media/E-3EhuZWUAg3KWr.jpg",
+          "id_str": "1436019939870134280",
+          "source_user_id": "3027540500",
+          "id": "1436019939870134280",
+          "media_url_https": "https://pbs.twimg.com/media/E-3EhuZWUAg3KWr.jpg",
+          "source_user_id_str": "3027540500",
+          "sizes": {
+            "large": {
+              "w": "691",
+              "h": "691",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "691",
+              "h": "691",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1436019944165150726",
+          "display_url": "pic.x.com/IfxOcRVoAz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "0",
+    "id_str": "1436021796327788549",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1436021796327788549",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 09 17:40:50 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @realBrookNash: Accurate? https://t.co/IfxOcRVoAz",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/realBrookNash/status/1436019944165150726/photo/1",
+          "source_status_id": "1436019944165150726",
+          "indices": [
+            "29",
+            "52"
+          ],
+          "url": "https://t.co/IfxOcRVoAz",
+          "media_url": "http://pbs.twimg.com/media/E-3EhuZWUAg3KWr.jpg",
+          "id_str": "1436019939870134280",
+          "source_user_id": "3027540500",
+          "id": "1436019939870134280",
+          "media_url_https": "https://pbs.twimg.com/media/E-3EhuZWUAg3KWr.jpg",
+          "source_user_id_str": "3027540500",
+          "sizes": {
+            "large": {
+              "w": "691",
+              "h": "691",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "691",
+              "h": "691",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1436019944165150726",
+          "display_url": "pic.x.com/IfxOcRVoAz"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1865473458542391433"
+        ],
+        "editableUntil": "2024-12-07T20:08:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hunter Glenn",
+          "screen_name": "HunterGlenn",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "45068743",
+          "id": "45068743"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "13",
+            "28"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/58DMkb3CVV",
+          "expanded_url": "https://x.com/leo_guinan/status/1865450941987643397?t=385Vg5IWKAuBvyjuCbFr7A&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "81",
+            "104"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1865473187863208105",
+    "id_str": "1865473458542391433",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1865473458542391433",
+    "in_reply_to_status_id": "1865473187863208105",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 07 19:08:25 +0000 2024",
+    "favorited": false,
+    "full_text": "@HunterGlenn @BuildInPublicU The super deep dive of what I'm aiming for is here: https://t.co/58DMkb3CVV",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1477635675252006921"
+        ],
+        "editableUntil": "2022-01-02T14:39:32.780Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "210"
+    ],
+    "favorite_count": "3",
+    "id_str": "1477635675252006921",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1477635675252006921",
+    "created_at": "Sun Jan 02 13:39:32 +0000 2022",
+    "favorited": false,
+    "full_text": "Hunting bugs this morning on @feathercrm.\n\nLast night,  noticed that the weekly emails were sent out with mixed up tweets.\n\nI've got an idea of where the mistake lies, but gotta see if that's actually the case.",
+    "lang": "en"
+  }
+}

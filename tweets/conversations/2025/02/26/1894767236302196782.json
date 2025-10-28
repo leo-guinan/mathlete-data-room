@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1894767236302196782"
+        ],
+        "editableUntil": "2025-02-26T16:11:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Guy IS GOING TO NYC!!!",
+          "screen_name": "nosilverv",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1163743742764998658",
+          "id": "1163743742764998658"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1894766132818505830",
+    "id_str": "1894767236302196782",
+    "in_reply_to_user_id": "1163743742764998658",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1894767236302196782",
+    "in_reply_to_status_id": "1894766132818505830",
+    "created_at": "Wed Feb 26 15:11:26 +0000 2025",
+    "favorited": false,
+    "full_text": "@nosilverv Singlehandedly keeping winzip alive, because everyone else simply closes the popup.\n\nwow, who knew? 😲",
+    "lang": "en",
+    "in_reply_to_screen_name": "nosilverv",
+    "in_reply_to_user_id_str": "1163743742764998658"
+  }
+}

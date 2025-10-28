@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1541206761507528705"
+        ],
+        "editableUntil": "2022-06-27T00:18:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Miguel Espinoza",
+          "screen_name": "howdy_miguel",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "879441620348940288",
+          "id": "879441620348940288"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N9hEVW0kCE",
+          "expanded_url": "https://buildinpublictoolkit.com/",
+          "display_url": "buildinpublictoolkit.com",
+          "indices": [
+            "73",
+            "96"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1540399152533749760",
+    "id_str": "1541206761507528705",
+    "in_reply_to_user_id": "879441620348940288",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1541206761507528705",
+    "in_reply_to_status_id": "1540399152533749760",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 26 23:48:20 +0000 2022",
+    "favorited": false,
+    "full_text": "@howdy_miguel Here's a link to what I put together if you're interested: https://t.co/N9hEVW0kCE\n\nYou'll get 4 prompts, each a week apart. I'm working on some tools to go alongside things too, but the prompts are helpful.\n\nI answered them myself and ended up coming up with pretty good things.",
+    "lang": "en",
+    "in_reply_to_screen_name": "howdy_miguel",
+    "in_reply_to_user_id_str": "879441620348940288"
+  }
+}

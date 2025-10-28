@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1524437496452771840"
+        ],
+        "editableUntil": "2022-05-11T18:13:16.490Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jamie Howard",
+          "screen_name": "JamieHoward",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "14348689",
+          "id": "14348689"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1524437496452771840",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1524437496452771840",
+    "created_at": "Wed May 11 17:13:16 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @JamieHoward: If you struggle with focus this is for you:\n\nIn 2020, I finally learned how to focus after 33 years of crazy struggle.\n\nIt…",
+    "lang": "en"
+  }
+}

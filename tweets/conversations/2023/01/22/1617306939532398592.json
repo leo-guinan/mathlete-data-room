@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617306939532398592"
+        ],
+        "editableUntil": "2023-01-23T00:13:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "227"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1617252835258687489",
+    "id_str": "1617306939532398592",
+    "in_reply_to_user_id": "112397978",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617306939532398592",
+    "in_reply_to_status_id": "1617252835258687489",
+    "created_at": "Sun Jan 22 23:43:17 +0000 2023",
+    "favorited": false,
+    "full_text": "@MindsetByDave Hmm, that's interesting. How do your views correlate with your subscriber count? \n\nSomething to think about too: maybe start an email list? That's a way you could get people to view things on a more regular basis",
+    "lang": "en",
+    "in_reply_to_screen_name": "MindsetByDave",
+    "in_reply_to_user_id_str": "112397978"
+  }
+}

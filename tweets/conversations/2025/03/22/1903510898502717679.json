@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1903510898502717679"
+        ],
+        "editableUntil": "2025-03-22T19:15:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alaka Halder",
+          "screen_name": "HalderAlaka",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1377036700887699457",
+          "id": "1377036700887699457"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jdtPP8All8",
+          "expanded_url": "https://www.buildinpublicuniversity.com/chaos-networks-vs-traditional-social-media-a-new-paradigm-for-authentic-connection/",
+          "display_url": "buildinpublicuniversity.com/chaos-networks…",
+          "indices": [
+            "27",
+            "50"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "116"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1903501263620161550",
+    "id_str": "1903510898502717679",
+    "in_reply_to_user_id": "1377036700887699457",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1903510898502717679",
+    "in_reply_to_status_id": "1903501263620161550",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 22 18:15:38 +0000 2025",
+    "favorited": false,
+    "full_text": "@HalderAlaka Here you go! \nhttps://t.co/jdtPP8All8\n\nPlease let me know if there are parts that need filled out more.",
+    "lang": "en",
+    "in_reply_to_screen_name": "HalderAlaka",
+    "in_reply_to_user_id_str": "1377036700887699457"
+  }
+}

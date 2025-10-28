@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545450007683276801"
+        ],
+        "editableUntil": "2022-07-08T17:19:29.561Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "0",
+    "id_str": "1545450007683276801",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545450007683276801",
+    "created_at": "Fri Jul 08 16:49:29 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: This one indeed was a great discussion! If you have ADHD, it is most definitely worth watching!",
+    "lang": "en"
+  }
+}

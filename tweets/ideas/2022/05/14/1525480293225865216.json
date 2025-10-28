@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1525480293225865216"
+        ],
+        "editableUntil": "2022-05-14T14:46:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Zsu6YusWK7",
+          "expanded_url": "https://saasfactory.substack.com/p/updating-my-approach-to-authentication?utm_source=twitter&sd=fs",
+          "display_url": "saasfactory.substack.com/p/updating-my-…",
+          "indices": [
+            "145",
+            "168"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "168"
+    ],
+    "favorite_count": "1",
+    "id_str": "1525480293225865216",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1525480293225865216",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 14 14:16:58 +0000 2022",
+    "favorited": false,
+    "full_text": "Some more updates from the SaaS factory! Making more progress around my travel schedule. Not as fast as I want, but a little progress each day!\n\nhttps://t.co/Zsu6YusWK7",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1801382799003267517"
+        ],
+        "editableUntil": "2024-06-13T23:35:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Bateman",
+          "screen_name": "mbateman",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3467611",
+          "id": "3467611"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N3KVejQk0B",
+          "expanded_url": "https://x.com/leo_guinan/status/1801382606484693187?t=juKMhLdp25Vt9b_kRox94Q&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "21",
+            "44"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "44"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1801381923752640934",
+    "id_str": "1801382799003267517",
+    "in_reply_to_user_id": "3467611",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1801382799003267517",
+    "in_reply_to_status_id": "1801381923752640934",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 13 22:35:02 +0000 2024",
+    "favorited": false,
+    "full_text": "@mbateman My theory:\nhttps://t.co/N3KVejQk0B",
+    "lang": "en",
+    "in_reply_to_screen_name": "mbateman",
+    "in_reply_to_user_id_str": "3467611"
+  }
+}

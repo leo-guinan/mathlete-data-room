@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1966478459066077319"
+        ],
+        "editableUntil": "2025-09-12T13:26:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1966478459066077319/photo/1",
+          "indices": [
+            "92",
+            "115"
+          ],
+          "url": "https://t.co/pDjKlpyNpe",
+          "media_url": "http://pbs.twimg.com/media/G0pVoSvXQAAuBNO.jpg",
+          "id_str": "1966478338014265344",
+          "id": "1966478338014265344",
+          "media_url_https": "https://pbs.twimg.com/media/G0pVoSvXQAAuBNO.jpg",
+          "sizes": {
+            "large": {
+              "w": "1192",
+              "h": "1226",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "661",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1167",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pDjKlpyNpe"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "1",
+    "id_str": "1966478459066077319",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1966478459066077319",
+    "possibly_sensitive": false,
+    "created_at": "Fri Sep 12 12:26:14 +0000 2025",
+    "favorited": false,
+    "full_text": "When building a network of agents, make sure you have all the parts of the system you need. https://t.co/pDjKlpyNpe",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1966478459066077319/photo/1",
+          "indices": [
+            "92",
+            "115"
+          ],
+          "url": "https://t.co/pDjKlpyNpe",
+          "media_url": "http://pbs.twimg.com/media/G0pVoSvXQAAuBNO.jpg",
+          "id_str": "1966478338014265344",
+          "id": "1966478338014265344",
+          "media_url_https": "https://pbs.twimg.com/media/G0pVoSvXQAAuBNO.jpg",
+          "sizes": {
+            "large": {
+              "w": "1192",
+              "h": "1226",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "661",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1167",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pDjKlpyNpe"
+        }
+      ]
+    }
+  }
+}

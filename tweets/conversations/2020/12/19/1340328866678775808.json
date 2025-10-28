@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340328866678775808"
+        ],
+        "editableUntil": "2020-12-19T17:11:18.579Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tweets from Zach Weinberg",
+          "screen_name": "zachweinberg",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23504313",
+          "id": "23504313"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1340315497066315779",
+    "id_str": "1340328866678775808",
+    "in_reply_to_user_id": "23504313",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340328866678775808",
+    "in_reply_to_status_id": "1340315497066315779",
+    "created_at": "Sat Dec 19 16:11:18 +0000 2020",
+    "favorited": false,
+    "full_text": "@zachweinberg That's interesting. I may have to borrow this idea. I am working on a new social media platform and I really like this idea.",
+    "lang": "en",
+    "in_reply_to_screen_name": "zachweinberg",
+    "in_reply_to_user_id_str": "23504313"
+  }
+}

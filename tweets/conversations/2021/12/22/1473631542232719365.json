@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1473631542232719365"
+        ],
+        "editableUntil": "2021-12-22T13:28:33.075Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Web3",
+          "indices": [
+            "49",
+            "54"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "gregariously.eth/.sol./lens/.⌐◨-◨",
+          "screen_name": "gregarious",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "11684",
+          "id": "11684"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1473631542232719365",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1473631542232719365",
+    "created_at": "Wed Dec 22 12:28:33 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @gregarious: One challenge folks peering into #Web3 express is a notion that it is all a scam of some sort.  \n\nI think it is the same so…",
+    "lang": "en"
+  }
+}

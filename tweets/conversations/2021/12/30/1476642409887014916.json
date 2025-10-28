@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1476642409887014916"
+        ],
+        "editableUntil": "2021-12-30T20:52:39.863Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Male | The Web3/Metaverse Curmudgeon",
+          "screen_name": "AndyM84",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "45603991",
+          "id": "45603991"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "239"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1476641762529751047",
+    "id_str": "1476642409887014916",
+    "in_reply_to_user_id": "45603991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1476642409887014916",
+    "in_reply_to_status_id": "1476641762529751047",
+    "created_at": "Thu Dec 30 19:52:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@AndyM84 In one of my jobs, I made a comment that it didn't really matter who covered the weekend ops rotation because \"nothing bad happens on the weekend\".\n\nThis was on Friday. \n\nGuess who was on call when production blew up the next day?",
+    "lang": "en",
+    "in_reply_to_screen_name": "AndyM84",
+    "in_reply_to_user_id_str": "45603991"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1465029819020845056"
+        ],
+        "editableUntil": "2021-11-28T19:48:22.449Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RETWEET",
+          "indices": [
+            "131",
+            "139"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Cleveland Sports Talk",
+          "screen_name": "CLEsportsTalk",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "2506131920",
+          "id": "2506131920"
+        },
+        {
+          "name": "Cleveland Sports Talk",
+          "screen_name": "CLEsportsTalk",
+          "indices": [
+            "107",
+            "121"
+          ],
+          "id_str": "2506131920",
+          "id": "2506131920"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1465029819020845056",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1465029819020845056",
+    "created_at": "Sun Nov 28 18:48:22 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @CLEsportsTalk: HUGE BROWNS GAME TONIGHT!!! \nGiving away a RB Nick Chubb jersey!!! \n\n*Must be FOLLOWING @CLEsportsTalk!!!\n*Must #RETWEET…",
+    "lang": "en"
+  }
+}

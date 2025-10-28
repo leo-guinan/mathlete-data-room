@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932995283777896625"
+        ],
+        "editableUntil": "2025-06-12T03:56:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FsD6m0x7YM",
+          "expanded_url": "https://www.buildinpublicuniversity.com/temporal-p-np-theory-mathematical-formalization/",
+          "display_url": "buildinpublicuniversity.com/temporal-p-np-…",
+          "indices": [
+            "39",
+            "62"
+          ]
+        },
+        {
+          "url": "https://t.co/4RjcsWFVqg",
+          "expanded_url": "https://x.com/elocinationn/status/1932974501144535131",
+          "display_url": "x.com/elocinationn/s…",
+          "indices": [
+            "63",
+            "86"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932995283777896625/photo/1",
+          "indices": [
+            "87",
+            "110"
+          ],
+          "url": "https://t.co/jQw9USux6o",
+          "media_url": "http://pbs.twimg.com/media/GtNgvqFXsAAl0h9.jpg",
+          "id_str": "1932995036939005952",
+          "id": "1932995036939005952",
+          "media_url_https": "https://pbs.twimg.com/media/GtNgvqFXsAAl0h9.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "777",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "440",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1578",
+              "h": "1022",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jQw9USux6o"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "1",
+    "id_str": "1932995283777896625",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932995283777896625",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 12 02:56:03 +0000 2025",
+    "favorited": false,
+    "full_text": "The key to innovation being valuable.\n\nhttps://t.co/FsD6m0x7YM https://t.co/4RjcsWFVqg https://t.co/jQw9USux6o",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1932995283777896625/photo/1",
+          "indices": [
+            "87",
+            "110"
+          ],
+          "url": "https://t.co/jQw9USux6o",
+          "media_url": "http://pbs.twimg.com/media/GtNgvqFXsAAl0h9.jpg",
+          "id_str": "1932995036939005952",
+          "id": "1932995036939005952",
+          "media_url_https": "https://pbs.twimg.com/media/GtNgvqFXsAAl0h9.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "777",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "440",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1578",
+              "h": "1022",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jQw9USux6o"
+        }
+      ]
+    }
+  }
+}

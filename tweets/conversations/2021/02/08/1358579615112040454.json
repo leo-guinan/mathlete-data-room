@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1358579615112040454"
+        ],
+        "editableUntil": "2021-02-08T01:53:16.088Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Buffalo Wild Wings",
+          "screen_name": "BWWings",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "314662792",
+          "id": "314662792"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "0",
+    "id_str": "1358579615112040454",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1358579615112040454",
+    "created_at": "Mon Feb 08 00:53:16 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @BWWings: Everyone who retweets this gets free wings if the game goes to overtime.",
+    "lang": "en"
+  }
+}

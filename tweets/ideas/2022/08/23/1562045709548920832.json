@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562045709548920832"
+        ],
+        "editableUntil": "2022-08-23T12:24:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "30",
+            "37"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BefA89V5RL",
+          "expanded_url": "https://www.tiktok.com/t/ZTRfUAcrn/",
+          "display_url": "tiktok.com/t/ZTRfUAcrn/",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1562045709548920832",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562045709548920832",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 23 11:54:53 +0000 2022",
+    "favorited": false,
+    "full_text": "Check out LobowSPARK's video! #TikTok https://t.co/BefA89V5RL",
+    "lang": "en"
+  }
+}

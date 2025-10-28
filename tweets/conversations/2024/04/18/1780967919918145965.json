@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1780967919918145965"
+        ],
+        "editableUntil": "2024-04-18T15:33:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "@SIL",
+          "screen_name": "UrDeliveryMan1",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "2207374660",
+          "id": "2207374660"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "160"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1780967619220132186",
+    "id_str": "1780967919918145965",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1780967919918145965",
+    "in_reply_to_status_id": "1780967619220132186",
+    "created_at": "Thu Apr 18 14:33:35 +0000 2024",
+    "favorited": false,
+    "full_text": "@UrDeliveryMan1 So the human is humane or not.\n\nThat's why I like the idea of \"submind\" vs AI. It shows the correct relationship between the human and the tool.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

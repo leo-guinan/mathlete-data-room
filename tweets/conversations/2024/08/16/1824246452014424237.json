@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1824246452014424237"
+        ],
+        "editableUntil": "2024-08-16T01:47:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jack Altman",
+          "screen_name": "jaltma",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "423094645",
+          "id": "423094645"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "18",
+    "in_reply_to_status_id_str": "1824244831092420959",
+    "id_str": "1824246452014424237",
+    "in_reply_to_user_id": "423094645",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1824246452014424237",
+    "in_reply_to_status_id": "1824244831092420959",
+    "created_at": "Fri Aug 16 00:47:01 +0000 2024",
+    "favorited": false,
+    "full_text": "@jaltma They are and they aren't.\n\nThey've got goals and they take actions that are aligned with those goals, and while they might not know what to do in a given situation specifically, their goals and values guide them to action.\n\nIn other words, it's not random.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jaltma",
+    "in_reply_to_user_id_str": "423094645"
+  }
+}

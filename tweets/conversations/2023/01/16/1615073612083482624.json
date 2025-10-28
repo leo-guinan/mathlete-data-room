@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1615073612083482624"
+        ],
+        "editableUntil": "2023-01-16T20:18:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dan Martell",
+          "screen_name": "danmartell",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "10638782",
+          "id": "10638782"
+        },
+        {
+          "name": "Jay Clouse",
+          "screen_name": "jayclouse",
+          "indices": [
+            "12",
+            "22"
+          ],
+          "id_str": "45851500",
+          "id": "45851500"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1614807987625000961",
+    "id_str": "1615073612083482624",
+    "in_reply_to_user_id": "10638782",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1615073612083482624",
+    "in_reply_to_status_id": "1614807987625000961",
+    "created_at": "Mon Jan 16 19:48:50 +0000 2023",
+    "favorited": false,
+    "full_text": "@danmartell @jayclouse You made a good choice. Jay is awesome!",
+    "lang": "en",
+    "in_reply_to_screen_name": "danmartell",
+    "in_reply_to_user_id_str": "10638782"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1534293806639718402"
+        ],
+        "editableUntil": "2022-06-07T22:28:43.960Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1534293806639718402",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1534293806639718402",
+    "created_at": "Tue Jun 07 21:58:43 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @NotechAna: A book is a product. And every product needs an idea validation\n\nMy validation process: \n1. Create Become a beta Reader and…",
+    "lang": "en"
+  }
+}

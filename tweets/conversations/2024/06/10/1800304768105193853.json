@@ -1,0 +1,161 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1800304768105193853"
+        ],
+        "editableUntil": "2024-06-11T00:11:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "90",
+            "102"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1800304768105193853/photo/1",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/nVdBAmzvvn",
+          "media_url": "http://pbs.twimg.com/media/GPv3gl8WIAA4MDv.jpg",
+          "id_str": "1800304615377739776",
+          "id": "1800304615377739776",
+          "media_url_https": "https://pbs.twimg.com/media/GPv3gl8WIAA4MDv.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "491",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1498",
+              "h": "1082",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "867",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nVdBAmzvvn"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "127"
+    ],
+    "favorite_count": "13",
+    "id_str": "1800304768105193853",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1800304768105193853",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 10 23:11:19 +0000 2024",
+    "favorited": false,
+    "full_text": "Good news, everyone!\n\nHenry and I will both be representing the Guinan household in S5 of @_buildspace! https://t.co/nVdBAmzvvn",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1800304768105193853/photo/1",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/nVdBAmzvvn",
+          "media_url": "http://pbs.twimg.com/media/GPv3gl8WIAA4MDv.jpg",
+          "id_str": "1800304615377739776",
+          "id": "1800304615377739776",
+          "media_url_https": "https://pbs.twimg.com/media/GPv3gl8WIAA4MDv.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "491",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1498",
+              "h": "1082",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "867",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nVdBAmzvvn"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1800304768105193853/photo/1",
+          "indices": [
+            "104",
+            "127"
+          ],
+          "url": "https://t.co/nVdBAmzvvn",
+          "media_url": "http://pbs.twimg.com/media/GPv3gl9XwAAN1w0.jpg",
+          "id_str": "1800304615382040576",
+          "id": "1800304615382040576",
+          "media_url_https": "https://pbs.twimg.com/media/GPv3gl9XwAAN1w0.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "491",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1498",
+              "h": "1082",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "867",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nVdBAmzvvn"
+        }
+      ]
+    }
+  }
+}

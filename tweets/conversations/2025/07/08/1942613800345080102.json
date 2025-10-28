@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942613800345080102"
+        ],
+        "editableUntil": "2025-07-08T16:56:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942613800345080102/photo/1",
+          "indices": [
+            "285",
+            "308"
+          ],
+          "url": "https://t.co/jgHVUsIYz4",
+          "media_url": "http://pbs.twimg.com/media/GvWM9JDXQAA1Cl8.jpg",
+          "id_str": "1942613796310171648",
+          "id": "1942613796310171648",
+          "media_url_https": "https://pbs.twimg.com/media/GvWM9JDXQAA1Cl8.jpg",
+          "sizes": {
+            "small": {
+              "w": "678",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1323",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1197",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jgHVUsIYz4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "308"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942613302494068844",
+    "id_str": "1942613800345080102",
+    "in_reply_to_user_id": "1170701109629018117",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942613800345080102",
+    "in_reply_to_status_id": "1942613302494068844",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 08 15:56:36 +0000 2025",
+    "favorited": false,
+    "full_text": "@ChrisChipMonk It’s because the market is schizophrenic and has no idea what value is. \n\nPeople don’t get markets because for most people, the markets make absolutely no sense because they reward the extractors of a system more than the value creators. \n\nWe need a new nervous system. https://t.co/jgHVUsIYz4",
+    "lang": "en",
+    "in_reply_to_screen_name": "ChrischipMonk",
+    "in_reply_to_user_id_str": "1170701109629018117",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942613800345080102/photo/1",
+          "indices": [
+            "285",
+            "308"
+          ],
+          "url": "https://t.co/jgHVUsIYz4",
+          "media_url": "http://pbs.twimg.com/media/GvWM9JDXQAA1Cl8.jpg",
+          "id_str": "1942613796310171648",
+          "id": "1942613796310171648",
+          "media_url_https": "https://pbs.twimg.com/media/GvWM9JDXQAA1Cl8.jpg",
+          "sizes": {
+            "small": {
+              "w": "678",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1323",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1197",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jgHVUsIYz4"
+        }
+      ]
+    }
+  }
+}

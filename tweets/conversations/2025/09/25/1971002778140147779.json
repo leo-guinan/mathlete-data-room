@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1971002778140147779"
+        ],
+        "editableUntil": "2025-09-25T01:04:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jane Street",
+          "screen_name": "JaneStreetGroup",
+          "indices": [
+            "37",
+            "53"
+          ],
+          "id_str": "1005108749491752960",
+          "id": "1005108749491752960"
+        },
+        {
+          "name": "Emmett Shear",
+          "screen_name": "eshear",
+          "indices": [
+            "58",
+            "65"
+          ],
+          "id_str": "905201",
+          "id": "905201"
+        },
+        {
+          "name": "Liv Boeree",
+          "screen_name": "Liv_Boeree",
+          "indices": [
+            "84",
+            "95"
+          ],
+          "id_str": "25422302",
+          "id": "25422302"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NGpMMWmucE",
+          "expanded_url": "https://x.com/leo_guinan/status/1970917475199090812",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "108",
+            "131"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971002778140147779/photo/1",
+          "indices": [
+            "132",
+            "155"
+          ],
+          "url": "https://t.co/m6g9eAp2Ol",
+          "media_url": "http://pbs.twimg.com/media/G1poLdVW4AEk_lP.jpg",
+          "id_str": "1971002332990070785",
+          "id": "1971002332990070785",
+          "media_url_https": "https://pbs.twimg.com/media/G1poLdVW4AEk_lP.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "710",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "402",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1914",
+              "h": "1132",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/m6g9eAp2Ol"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "155"
+    ],
+    "favorite_count": "3",
+    "id_str": "1971002778140147779",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1971002778140147779",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 25 00:04:16 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey, the quants are catching on too! @JaneStreetGroup and @eshear have a link. Does @Liv_Boeree see it too? https://t.co/NGpMMWmucE https://t.co/m6g9eAp2Ol",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971002778140147779/photo/1",
+          "indices": [
+            "132",
+            "155"
+          ],
+          "url": "https://t.co/m6g9eAp2Ol",
+          "media_url": "http://pbs.twimg.com/media/G1poLdVW4AEk_lP.jpg",
+          "id_str": "1971002332990070785",
+          "id": "1971002332990070785",
+          "media_url_https": "https://pbs.twimg.com/media/G1poLdVW4AEk_lP.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "710",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "402",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1914",
+              "h": "1132",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/m6g9eAp2Ol"
+        }
+      ]
+    }
+  }
+}

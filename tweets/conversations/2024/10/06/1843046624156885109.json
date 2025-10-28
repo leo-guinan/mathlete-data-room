@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1843046624156885109"
+        ],
+        "editableUntil": "2024-10-06T22:52:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "202"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1842934893619433544",
+    "id_str": "1843046624156885109",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1843046624156885109",
+    "in_reply_to_status_id": "1842934893619433544",
+    "created_at": "Sun Oct 06 21:52:12 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd I imagine it's something like thinking something off the rack fits well until you try on something tailored specifically for you. \n\n(I wouldn't know; I've never owned anything tailored haha).",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

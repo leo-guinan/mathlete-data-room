@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348275612063043584"
+        ],
+        "editableUntil": "2021-01-10T15:28:50.322Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ulrike Kleemaier",
+          "screen_name": "kleemaier",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1502891674791464961",
+          "id": "1502891674791464961"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1348273924472250369",
+    "id_str": "1348275612063043584",
+    "in_reply_to_user_id": "226762096",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348275612063043584",
+    "in_reply_to_status_id": "1348273924472250369",
+    "created_at": "Sun Jan 10 14:28:50 +0000 2021",
+    "favorited": false,
+    "full_text": "@kleemaier I thought all of this might have been avoided had there been a public announcement of a pardon when Biden initially won. I wrote that it had to be made in exchange for a complete accounting of everything he had done so the incoming administration knew what they were dealing with.",
+    "lang": "en",
+    "in_reply_to_user_id_str": "226762096"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1925764192348299286"
+        ],
+        "editableUntil": "2025-05-23T05:02:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Data 💾",
+          "screen_name": "DataDeLaurier",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1720067960687960065",
+          "id": "1720067960687960065"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "126"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1925761900542857245",
+    "id_str": "1925764192348299286",
+    "in_reply_to_user_id": "1720067960687960065",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1925764192348299286",
+    "in_reply_to_status_id": "1925761900542857245",
+    "created_at": "Fri May 23 04:02:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@DataDeLaurier Anytime! Please hit me with questions. I want it to be accessible, so anything that isn't clear, I want to fix.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DataDeLaurier",
+    "in_reply_to_user_id_str": "1720067960687960065"
+  }
+}

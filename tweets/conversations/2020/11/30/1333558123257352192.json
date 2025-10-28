@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333558123257352192"
+        ],
+        "editableUntil": "2020-12-01T00:46:47.553Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Carlton Galbreath",
+          "screen_name": "Carlton__G",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "414589951",
+          "id": "414589951"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "id_str": "1333558123257352192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333558123257352192",
+    "created_at": "Mon Nov 30 23:46:47 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @Carlton__G: https://t.co/ccliunSjZq",
+    "lang": "zxx"
+  }
+}

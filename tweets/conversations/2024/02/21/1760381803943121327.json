@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1760381803943121327"
+        ],
+        "editableUntil": "2024-02-21T20:11:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1760381280233943178",
+    "id_str": "1760381803943121327",
+    "in_reply_to_user_id": "2518563752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1760381803943121327",
+    "in_reply_to_status_id": "1760381280233943178",
+    "created_at": "Wed Feb 21 19:11:43 +0000 2024",
+    "favorited": false,
+    "full_text": "@anuatluru It's an internal thing. I don't know how much of a time you can put on it. For me, it ended up being about 6 months and I didn't realize how bad it was until I put my fist through a door in anger and frustration. \n\nAs soon as that happened, I realized it, and started the shutdown",
+    "lang": "en",
+    "in_reply_to_screen_name": "anuatluru",
+    "in_reply_to_user_id_str": "2518563752"
+  }
+}

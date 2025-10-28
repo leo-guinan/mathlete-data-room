@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1883903368625795087"
+        ],
+        "editableUntil": "2025-01-27T16:42:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "17",
+            "24"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JFszoaimDj",
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1883543159508214260",
+          "display_url": "x.com/DefenderOfBasi…",
+          "indices": [
+            "64",
+            "87"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "87"
+    ],
+    "favorite_count": "5",
+    "id_str": "1883903368625795087",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1883903368625795087",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 27 15:42:18 +0000 2025",
+    "favorited": false,
+    "full_text": "Be cool. Be like @mykola     \n\nUpload to the community archive. https://t.co/JFszoaimDj",
+    "lang": "en"
+  }
+}

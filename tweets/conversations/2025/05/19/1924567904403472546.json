@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1924567904403472546"
+        ],
+        "editableUntil": "2025-05-19T21:48:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Google",
+          "screen_name": "Google",
+          "indices": [
+            "57",
+            "64"
+          ],
+          "id_str": "20536157",
+          "id": "20536157"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "0",
+    "id_str": "1924567904403472546",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1924567904403472546",
+    "created_at": "Mon May 19 20:48:39 +0000 2025",
+    "favorited": false,
+    "full_text": "Time for a quick thread on complexity inflation, and how @Google trying to solve a problem for me introduces more risk than not changing things.\n\nI'm at the early stages of business, where I don't systems that are robust and fault tolerant.\n\nSo I depend on things like Google.",
+    "lang": "en"
+  }
+}

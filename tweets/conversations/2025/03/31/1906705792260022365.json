@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1906705792260022365"
+        ],
+        "editableUntil": "2025-03-31T14:51:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anastasia Marchenkova",
+          "screen_name": "amarchenkova",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "28941291",
+          "id": "28941291"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "14",
+            "29"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "311"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1906703884329845159",
+    "id_str": "1906705792260022365",
+    "in_reply_to_user_id": "28941291",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1906705792260022365",
+    "in_reply_to_status_id": "1906703884329845159",
+    "created_at": "Mon Mar 31 13:51:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@amarchenkova @BuildInPublicU All information is conflicting, so that's not a concern.  Once information is captured about the environment, it is no longer alive and may or may not be valuable as an accurate current representation. Instead, it builds models that are constantly being tested against reality via…",
+    "lang": "en",
+    "in_reply_to_screen_name": "amarchenkova",
+    "in_reply_to_user_id_str": "28941291"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1587122973844160514"
+        ],
+        "editableUntil": "2022-10-31T17:12:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "RossiniB",
+          "screen_name": "randomshenans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "121729403",
+          "id": "121729403"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "87"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1586804773818359810",
+    "id_str": "1587122973844160514",
+    "in_reply_to_user_id": "121729403",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1587122973844160514",
+    "in_reply_to_status_id": "1586804773818359810",
+    "created_at": "Mon Oct 31 16:42:58 +0000 2022",
+    "favorited": false,
+    "full_text": "@randomshenans Sent you a calendar! Gotta put it on the calendar or it doesn't exist! 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "randomshenans",
+    "in_reply_to_user_id_str": "121729403"
+  }
+}

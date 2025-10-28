@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1954904003902345595"
+        ],
+        "editableUntil": "2025-08-11T14:53:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Subspace Institute",
+          "screen_name": "subspacerace",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1815049391155163136",
+          "id": "1815049391155163136"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1954898537516261478",
+    "id_str": "1954904003902345595",
+    "in_reply_to_user_id": "1815049391155163136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1954904003902345595",
+    "in_reply_to_status_id": "1954898537516261478",
+    "created_at": "Mon Aug 11 13:53:29 +0000 2025",
+    "favorited": false,
+    "full_text": "@subspacerace Haha, that’s my number one motto because I come up with experiments faster than I can explain them. \n\nBut in this case, I’m seeing if an explanation I’ve got actually connects with people who have a working knowledge of game theory vs an extreme understanding of everything.",
+    "lang": "en",
+    "in_reply_to_screen_name": "subspacerace",
+    "in_reply_to_user_id_str": "1815049391155163136"
+  }
+}

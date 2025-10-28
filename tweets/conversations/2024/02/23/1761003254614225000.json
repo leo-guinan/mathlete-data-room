@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761003254614225000"
+        ],
+        "editableUntil": "2024-02-23T13:21:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "NigelG",
+          "screen_name": "NigelGodfrey",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "14159027",
+          "id": "14159027"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5Nh0J53ZnF",
+          "expanded_url": "http://Respell.ai",
+          "display_url": "Respell.ai",
+          "indices": [
+            "24",
+            "47"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1760988361630585244",
+    "id_str": "1761003254614225000",
+    "in_reply_to_user_id": "14159027",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761003254614225000",
+    "in_reply_to_status_id": "1760988361630585244",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 23 12:21:08 +0000 2024",
+    "favorited": false,
+    "full_text": "@NigelGodfrey Check out https://t.co/5Nh0J53ZnF.\n\nStarted playing around with them a bit the other day.\n\nMuch nicer to use than Zapier.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NigelGodfrey",
+    "in_reply_to_user_id_str": "14159027"
+  }
+}

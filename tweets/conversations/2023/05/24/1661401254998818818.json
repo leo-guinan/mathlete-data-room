@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1661401254998818818"
+        ],
+        "editableUntil": "2023-05-24T16:28:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/84w3j0eR4P",
+          "expanded_url": "https://youtu.be/cTmgIAMsQNM",
+          "display_url": "youtu.be/cTmgIAMsQNM",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1661401252104749058",
+    "id_str": "1661401254998818818",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1661401254998818818",
+    "in_reply_to_status_id": "1661401252104749058",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 24 15:58:21 +0000 2023",
+    "favorited": false,
+    "full_text": "Link to the premiere:\n\nhttps://t.co/84w3j0eR4P",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

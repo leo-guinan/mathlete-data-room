@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1480987872425615363"
+        ],
+        "editableUntil": "2022-01-11T20:39:58.867Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "36",
+            "44"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "0",
+    "id_str": "1480987872425615363",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1480987872425615363",
+    "created_at": "Tue Jan 11 19:39:58 +0000 2022",
+    "favorited": false,
+    "full_text": "During a break, playing around with @copy_ai and generating some copy for @feathercrm.\n\nGot this as a headline: \"Tap into Twitter's Promise\"\n\nI love it. Don't know that I can really use it yet, but I think it cuts really deep into what I want to build.",
+    "lang": "en"
+  }
+}

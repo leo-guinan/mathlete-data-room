@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359938780615041031"
+        ],
+        "editableUntil": "2021-02-11T19:54:06.396Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Neeraj K. Agrawal",
+          "screen_name": "NeerajKA",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "14710235",
+          "id": "14710235"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/55R1pDjVBs",
+          "expanded_url": "https://definet.dev/experiment-selling-tweets-to-pay-my-rent/",
+          "display_url": "definet.dev/experiment-sel…",
+          "indices": [
+            "48",
+            "71"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "71"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1359924335327260673",
+    "id_str": "1359938780615041031",
+    "in_reply_to_user_id": "14710235",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359938780615041031",
+    "in_reply_to_status_id": "1359924335327260673",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 11 18:54:06 +0000 2021",
+    "favorited": false,
+    "full_text": "@NeerajKA Ok, you inspired me to try something: https://t.co/55R1pDjVBs",
+    "lang": "en",
+    "in_reply_to_screen_name": "NeerajKA",
+    "in_reply_to_user_id_str": "14710235"
+  }
+}

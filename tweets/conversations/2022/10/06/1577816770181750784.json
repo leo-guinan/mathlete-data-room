@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1577816770181750784"
+        ],
+        "editableUntil": "2022-10-06T00:53:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "101"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1577816339414228994",
+    "id_str": "1577816770181750784",
+    "in_reply_to_user_id": "280523147",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1577816770181750784",
+    "in_reply_to_status_id": "1577816339414228994",
+    "created_at": "Thu Oct 06 00:23:27 +0000 2022",
+    "favorited": false,
+    "full_text": "@tshubillabong Exactly! I tried listening to the commentary for a bit but that became distracting lol",
+    "lang": "en",
+    "in_reply_to_screen_name": "tshubillabong",
+    "in_reply_to_user_id_str": "280523147"
+  }
+}

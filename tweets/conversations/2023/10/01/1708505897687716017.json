@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1708505897687716017"
+        ],
+        "editableUntil": "2023-10-01T16:35:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "juri/acc",
+          "screen_name": "jurijsks",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "65642991",
+          "id": "65642991"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "197"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1708479556573647299",
+    "id_str": "1708505897687716017",
+    "in_reply_to_user_id": "65642991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1708505897687716017",
+    "in_reply_to_status_id": "1708479556573647299",
+    "created_at": "Sun Oct 01 15:35:23 +0000 2023",
+    "favorited": false,
+    "full_text": "@jurijsks Honestly, anything I just don't feel like dealing with in the moment. I used to have a bunch of unhealthy coping mechanisms and I've replaced those with building stuff.\n\nWorks wonders imo",
+    "lang": "en",
+    "in_reply_to_screen_name": "jurijsks",
+    "in_reply_to_user_id_str": "65642991"
+  }
+}

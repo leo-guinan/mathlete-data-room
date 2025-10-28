@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1881210925849743809"
+        ],
+        "editableUntil": "2025-01-20T06:23:30.588Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bob DePasquale, CFP®, CAP® - The Generosity Guy 😃",
+          "screen_name": "BDePa",
+          "indices": [
+            "3",
+            "9"
+          ],
+          "id_str": "62550731",
+          "id": "62550731"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "36"
+    ],
+    "favorite_count": "0",
+    "id_str": "1881210925849743809",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1881210925849743809",
+    "created_at": "Mon Jan 20 05:23:30 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @BDePa: Kindness is table stakes.",
+    "lang": "en"
+  }
+}

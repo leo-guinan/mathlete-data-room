@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931915700332867979"
+        ],
+        "editableUntil": "2025-06-09T04:26:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Antonio García Martínez (agm.eth)",
+          "screen_name": "antoniogm",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "11582012",
+          "id": "11582012"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "157",
+            "172"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1931726431245213878",
+    "id_str": "1931915700332867979",
+    "in_reply_to_user_id": "11582012",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931915700332867979",
+    "in_reply_to_status_id": "1931726431245213878",
+    "created_at": "Mon Jun 09 03:26:10 +0000 2025",
+    "favorited": false,
+    "full_text": "@antoniogm I’d actually say you shouldn’t, because you’ll end up perpetuating bad memes that will lead you to the wrong future. \n\nYou should instead join me @BuildInPublicU",
+    "lang": "en",
+    "in_reply_to_screen_name": "antoniogm",
+    "in_reply_to_user_id_str": "11582012"
+  }
+}

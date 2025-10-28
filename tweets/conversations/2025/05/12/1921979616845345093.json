@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1921979616845345093"
+        ],
+        "editableUntil": "2025-05-12T18:23:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Charlie Greenman",
+          "screen_name": "razroo_chief",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "2962828127",
+          "id": "2962828127"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1921972910232687076",
+    "id_str": "1921979616845345093",
+    "in_reply_to_user_id": "2962828127",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1921979616845345093",
+    "in_reply_to_status_id": "1921972910232687076",
+    "created_at": "Mon May 12 17:23:43 +0000 2025",
+    "favorited": false,
+    "full_text": "@razroo_chief Exactly.  In a world of instant improvement, the speed isn't the improvement being made; it's the speed of the validation to determine whether or not there's an actual improvement, and if there is, deploy it to the edges.\n\nAnd production is all relative, so in an infinite amount…",
+    "lang": "en",
+    "in_reply_to_screen_name": "razroo_chief",
+    "in_reply_to_user_id_str": "2962828127"
+  }
+}

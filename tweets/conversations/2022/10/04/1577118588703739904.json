@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1577118588703739904"
+        ],
+        "editableUntil": "2022-10-04T02:39:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1577117124753256448",
+    "id_str": "1577118588703739904",
+    "in_reply_to_user_id": "1307769479867363328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1577118588703739904",
+    "in_reply_to_status_id": "1577117124753256448",
+    "created_at": "Tue Oct 04 02:09:07 +0000 2022",
+    "favorited": false,
+    "full_text": "@eggs_mayhem This is also true! 😂\n\nActually, there really is something to that. Sometimes I think the only reason I do so much is to always have something productive to work on while procrastinating... 🤔🤔🤔",
+    "lang": "en",
+    "in_reply_to_screen_name": "eggs_mayhem",
+    "in_reply_to_user_id_str": "1307769479867363328"
+  }
+}

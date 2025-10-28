@@ -1,0 +1,135 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898586548905365736"
+        ],
+        "editableUntil": "2025-03-09T05:08:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "177",
+            "191"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pqFmy2cfpu",
+          "expanded_url": "http://maketheinternetweirdagain.com",
+          "display_url": "maketheinternetweirdagain.com",
+          "indices": [
+            "16",
+            "39"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1898586548905365736/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/luu45xDfqO",
+          "media_url": "http://pbs.twimg.com/media/Glkh-GxXkAAeNcy.jpg",
+          "id_str": "1898586068766658560",
+          "id": "1898586068766658560",
+          "media_url_https": "https://pbs.twimg.com/media/Glkh-GxXkAAeNcy.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "629",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1408",
+              "h": "738",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "356",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/luu45xDfqO"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "0",
+    "id_str": "1898586548905365736",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898586548905365736",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 09 04:08:01 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, not bad for https://t.co/pqFmy2cfpu.\n\nProbably the best first couple of days for a new project.\n\nBut this one is going to blow up like nothing I've ever done before.\n\nWatch @glitchishuman for more details.\n\nWant the guaranteed best marketing performance?\n\nTake a look at the… https://t.co/luu45xDfqO",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1898586548905365736/photo/1",
+          "indices": [
+            "280",
+            "303"
+          ],
+          "url": "https://t.co/luu45xDfqO",
+          "media_url": "http://pbs.twimg.com/media/Glkh-GxXkAAeNcy.jpg",
+          "id_str": "1898586068766658560",
+          "id": "1898586068766658560",
+          "media_url_https": "https://pbs.twimg.com/media/Glkh-GxXkAAeNcy.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "629",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1408",
+              "h": "738",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "356",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/luu45xDfqO"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1555622382592823296"
+        ],
+        "editableUntil": "2022-08-05T19:00:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8NMkSH841z",
+          "expanded_url": "https://whoshouldiunfollow.com",
+          "display_url": "whoshouldiunfollow.com",
+          "indices": [
+            "12",
+            "35"
+          ]
+        },
+        {
+          "url": "https://t.co/V2P9ipfOJk",
+          "expanded_url": "https://x.com/paolaruizglobal/status/1555617688159928323",
+          "display_url": "x.com/paolaruizgloba…",
+          "indices": [
+            "86",
+            "109"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "3",
+    "id_str": "1555622382592823296",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1555622382592823296",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 05 18:30:52 +0000 2022",
+    "favorited": false,
+    "full_text": "Live now at https://t.co/8NMkSH841z!\n\nGo check it out and let me know what you think! https://t.co/V2P9ipfOJk",
+    "lang": "en"
+  }
+}

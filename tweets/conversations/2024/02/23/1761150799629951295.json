@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761150799629951295"
+        ],
+        "editableUntil": "2024-02-23T23:07:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "John Manoochehri",
+          "screen_name": "jmanooch",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "21631727",
+          "id": "21631727"
+        },
+        {
+          "name": "anton 🇺🇸",
+          "screen_name": "atroyn",
+          "indices": [
+            "10",
+            "17"
+          ],
+          "id_str": "889394994607529984",
+          "id": "889394994607529984"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hucKYf0Pfu",
+          "expanded_url": "https://x.com/leo_guinan/status/1761149855492149316?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1761133840716927097",
+    "id_str": "1761150799629951295",
+    "in_reply_to_user_id": "21631727",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761150799629951295",
+    "in_reply_to_status_id": "1761133840716927097",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 23 22:07:25 +0000 2024",
+    "favorited": false,
+    "full_text": "@jmanooch @atroyn Here's a pretty detailed outline of my thinking:\n\nhttps://t.co/hucKYf0Pfu",
+    "lang": "en",
+    "in_reply_to_screen_name": "jmanooch",
+    "in_reply_to_user_id_str": "21631727"
+  }
+}

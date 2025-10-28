@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819409537788412285"
+        ],
+        "editableUntil": "2024-08-02T17:26:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "Noah Kagan",
+          "screen_name": "noahkagan",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "13737",
+          "id": "13737"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1819409537788412285/photo/1",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/nn7KCNZF1U",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GT_XVF5WAAk5zGi.jpg",
+          "id_str": "1819409531840888841",
+          "id": "1819409531840888841",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GT_XVF5WAAk5zGi.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "368",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "368",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "368",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nn7KCNZF1U"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1819407934167585116",
+    "id_str": "1819409537788412285",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1819409537788412285",
+    "in_reply_to_status_id": "1819407934167585116",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 02 16:26:51 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli @noahkagan 100%. https://t.co/nn7KCNZF1U",
+    "lang": "und",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1819409537788412285/photo/1",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/nn7KCNZF1U",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GT_XVF5WAAk5zGi.jpg",
+          "id_str": "1819409531840888841",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "184"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GT_XVF5WAAk5zGi.mp4"
+              }
+            ]
+          },
+          "id": "1819409531840888841",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GT_XVF5WAAk5zGi.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "368",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "368",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "368",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/nn7KCNZF1U"
+        }
+      ]
+    }
+  }
+}

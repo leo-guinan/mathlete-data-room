@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897813064231125093"
+        ],
+        "editableUntil": "2025-03-07T01:54:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter Zakin",
+          "screen_name": "pzakin",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "23171244",
+          "id": "23171244"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1897701720374800756",
+    "id_str": "1897813064231125093",
+    "in_reply_to_user_id": "23171244",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897813064231125093",
+    "in_reply_to_status_id": "1897701720374800756",
+    "created_at": "Fri Mar 07 00:54:28 +0000 2025",
+    "favorited": false,
+    "full_text": "@pzakin haha, I had a similar idea, but with a focus on making it a high touch share. Something that you wanted to make personal and have it stand out. Was thinking high quality paper for blogs and maybe something like custom flash drives for videos/podcasts",
+    "lang": "en",
+    "in_reply_to_screen_name": "pzakin",
+    "in_reply_to_user_id_str": "23171244"
+  }
+}

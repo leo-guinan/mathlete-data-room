@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1655967523966263299"
+        ],
+        "editableUntil": "2023-05-09T16:36:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/A6BGKft492",
+          "expanded_url": "https://youtu.be/V5GVrg3L4CY",
+          "display_url": "youtu.be/V5GVrg3L4CY",
+          "indices": [
+            "87",
+            "110"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1655966931155841027",
+    "id_str": "1655967523966263299",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1655967523966263299",
+    "in_reply_to_status_id": "1655966931155841027",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 09 16:06:38 +0000 2023",
+    "favorited": false,
+    "full_text": "Also, here's my latest video if you want to check it out. Mad editing skillz at play.\n\nhttps://t.co/A6BGKft492",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

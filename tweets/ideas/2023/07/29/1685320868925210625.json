@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1685320868925210625"
+        ],
+        "editableUntil": "2023-07-29T17:06:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjoF1",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "76",
+            "99"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "248"
+    ],
+    "favorite_count": "2",
+    "id_str": "1685320868925210625",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1685320868925210625",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 29 16:06:21 +0000 2023",
+    "favorited": false,
+    "full_text": "Recorded one of my videos for next week so far.\n\nAlso continuing to work on https://t.co/KphsBfjoF1.\n\nTweaking the UI a little more today, and then want to get people trying it out.\n\nAnyone interested in playing with it and giving me some feedback?",
+    "lang": "en"
+  }
+}

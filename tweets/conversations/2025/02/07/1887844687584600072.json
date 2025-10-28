@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887844687584600072"
+        ],
+        "editableUntil": "2025-02-07T13:43:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shounak",
+          "screen_name": "heyshounak",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "759133077218074624",
+          "id": "759133077218074624"
+        },
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "12",
+            "18"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1887808019758821395",
+    "id_str": "1887844687584600072",
+    "in_reply_to_user_id": "759133077218074624",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887844687584600072",
+    "in_reply_to_status_id": "1887808019758821395",
+    "created_at": "Fri Feb 07 12:43:42 +0000 2025",
+    "favorited": false,
+    "full_text": "@heyshounak @paulg Human insurance means that this type of bullshit won’t be able to fly. \n\nTime to balance that power dynamic because it sucks.",
+    "lang": "en",
+    "in_reply_to_screen_name": "heyshounak",
+    "in_reply_to_user_id_str": "759133077218074624"
+  }
+}

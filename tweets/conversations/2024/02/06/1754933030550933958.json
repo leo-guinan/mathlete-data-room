@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1754933030550933958"
+        ],
+        "editableUntil": "2024-02-06T19:20:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bob",
+          "screen_name": "BobTells",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1670684111302717441",
+          "id": "1670684111302717441"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1754500005388259565",
+    "id_str": "1754933030550933958",
+    "in_reply_to_user_id": "1670684111302717441",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1754933030550933958",
+    "in_reply_to_status_id": "1754500005388259565",
+    "created_at": "Tue Feb 06 18:20:14 +0000 2024",
+    "favorited": false,
+    "full_text": "@BobTells It's great when you can be unaware. In fact, I recommend that most people try to become less aware, because they only get a shallow understanding and develop deep feelings around that understanding.\n\nBut basically, we are constantly shoving things in front of people",
+    "lang": "en",
+    "in_reply_to_screen_name": "BobTells",
+    "in_reply_to_user_id_str": "1670684111302717441"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423284708134297601"
+        ],
+        "editableUntil": "2021-08-05T15:08:12.427Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pony Express Studio",
+          "screen_name": "PonyExpressss",
+          "indices": [
+            "50",
+            "64"
+          ],
+          "id_str": "1385549809386463234",
+          "id": "1385549809386463234"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cvzAhPBau7",
+          "expanded_url": "https://x.com/tibo_maker/status/1423281398333415427",
+          "display_url": "x.com/tibo_maker/sta…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "3",
+    "id_str": "1423284708134297601",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423284708134297601",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 05 14:08:12 +0000 2021",
+    "favorited": false,
+    "full_text": "Absolutely love this! \n\nCan't wait to see how big @PonyExpressss gets!\n\nCongrats on turning it down! https://t.co/cvzAhPBau7",
+    "lang": "en"
+  }
+}

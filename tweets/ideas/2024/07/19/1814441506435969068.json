@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1814441506435969068"
+        ],
+        "editableUntil": "2024-07-20T00:25:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/p2o8l6T5WU",
+          "expanded_url": "https://x.com/JustinNolan_JKL/status/1814436745506664770",
+          "display_url": "x.com/JustinNolan_JK…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1814441506435969068/photo/1",
+          "indices": [
+            "47",
+            "70"
+          ],
+          "url": "https://t.co/fTtGbJzjxS",
+          "media_url": "http://pbs.twimg.com/media/GS4w7R-W0AAh-xV.png",
+          "id_str": "1814441494872248320",
+          "id": "1814441494872248320",
+          "media_url_https": "https://pbs.twimg.com/media/GS4w7R-W0AAh-xV.png",
+          "sizes": {
+            "small": {
+              "w": "500",
+              "h": "500",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "500",
+              "h": "500",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "500",
+              "h": "500",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fTtGbJzjxS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "70"
+    ],
+    "favorite_count": "1",
+    "id_str": "1814441506435969068",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1814441506435969068",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 19 23:25:40 +0000 2024",
+    "favorited": false,
+    "full_text": "Which way, modern man? https://t.co/p2o8l6T5WU https://t.co/fTtGbJzjxS",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1814441506435969068/photo/1",
+          "indices": [
+            "47",
+            "70"
+          ],
+          "url": "https://t.co/fTtGbJzjxS",
+          "media_url": "http://pbs.twimg.com/media/GS4w7R-W0AAh-xV.png",
+          "id_str": "1814441494872248320",
+          "id": "1814441494872248320",
+          "media_url_https": "https://pbs.twimg.com/media/GS4w7R-W0AAh-xV.png",
+          "sizes": {
+            "small": {
+              "w": "500",
+              "h": "500",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "500",
+              "h": "500",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "500",
+              "h": "500",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fTtGbJzjxS"
+        }
+      ]
+    }
+  }
+}

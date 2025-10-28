@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1952150202523271485"
+        ],
+        "editableUntil": "2025-08-04T00:30:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/VaAXSgLxyU",
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1952136941979193596",
+          "display_url": "x.com/DefenderOfBasi…",
+          "indices": [
+            "17",
+            "40"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1952150202523271485/photo/1",
+          "indices": [
+            "41",
+            "64"
+          ],
+          "url": "https://t.co/IZULMjYDvT",
+          "media_url": "http://pbs.twimg.com/media/GxduOcEW8AAnmao.jpg",
+          "id_str": "1952150157820096512",
+          "id": "1952150157820096512",
+          "media_url_https": "https://pbs.twimg.com/media/GxduOcEW8AAnmao.jpg",
+          "sizes": {
+            "large": {
+              "w": "1244",
+              "h": "1242",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "679",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1198",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IZULMjYDvT"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "64"
+    ],
+    "favorite_count": "1",
+    "id_str": "1952150202523271485",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1952150202523271485",
+    "possibly_sensitive": false,
+    "created_at": "Sun Aug 03 23:30:52 +0000 2025",
+    "favorited": false,
+    "full_text": "Which way, anon? https://t.co/VaAXSgLxyU https://t.co/IZULMjYDvT",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1952150202523271485/photo/1",
+          "indices": [
+            "41",
+            "64"
+          ],
+          "url": "https://t.co/IZULMjYDvT",
+          "media_url": "http://pbs.twimg.com/media/GxduOcEW8AAnmao.jpg",
+          "id_str": "1952150157820096512",
+          "id": "1952150157820096512",
+          "media_url_https": "https://pbs.twimg.com/media/GxduOcEW8AAnmao.jpg",
+          "sizes": {
+            "large": {
+              "w": "1244",
+              "h": "1242",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "679",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1198",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/IZULMjYDvT"
+        }
+      ]
+    }
+  }
+}

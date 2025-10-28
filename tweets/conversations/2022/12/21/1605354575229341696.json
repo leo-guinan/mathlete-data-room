@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1605354575229341696"
+        ],
+        "editableUntil": "2022-12-21T00:38:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aly Khairy",
+          "screen_name": "alykhairy",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "47194492",
+          "id": "47194492"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "11",
+            "23"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "240"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1605351025665253381",
+    "id_str": "1605354575229341696",
+    "in_reply_to_user_id": "47194492",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1605354575229341696",
+    "in_reply_to_status_id": "1605351025665253381",
+    "created_at": "Wed Dec 21 00:08:51 +0000 2022",
+    "favorited": false,
+    "full_text": "@alykhairy @_buildspace That was a bit surprising to me honestly. I'm used to shows that have fairly detailed show notes, but as I started investigating, I realized there are a lot of shows that just do transcripts or bare-bones type notes.",
+    "lang": "en",
+    "in_reply_to_screen_name": "alykhairy",
+    "in_reply_to_user_id_str": "47194492"
+  }
+}

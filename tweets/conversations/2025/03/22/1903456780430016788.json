@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1903456780430016788"
+        ],
+        "editableUntil": "2025-03-22T15:40:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "43",
+            "59"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Vnr2gD1wJ7",
+          "expanded_url": "https://x.com/BuildInPublicU/status/1903455364932128782",
+          "display_url": "x.com/BuildInPublicU…",
+          "indices": [
+            "80",
+            "103"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "103"
+    ],
+    "favorite_count": "0",
+    "id_str": "1903456780430016788",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1903456780430016788",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 22 14:40:35 +0000 2025",
+    "favorited": false,
+    "full_text": "Marketing is the application of memetics.\n\n@DefenderOfBasic that one's for you. https://t.co/Vnr2gD1wJ7",
+    "lang": "en"
+  }
+}

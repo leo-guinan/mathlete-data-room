@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1907067121810407610"
+        ],
+        "editableUntil": "2025-04-01T14:46:48.090Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "alegator",
+          "screen_name": "alegator_cs",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1675589499223506944",
+          "id": "1675589499223506944"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1907067121810407610",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1907067121810407610",
+    "created_at": "Tue Apr 01 13:46:48 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @alegator_cs: My attempt to prove the Collatz conjecture by showing computability contradictions for divergent trajectories and addition…",
+    "lang": "en"
+  }
+}

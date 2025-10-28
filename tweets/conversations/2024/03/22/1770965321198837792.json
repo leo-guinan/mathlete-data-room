@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1770965321198837792"
+        ],
+        "editableUntil": "2024-03-22T01:06:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1770958631892078885",
+    "id_str": "1770965321198837792",
+    "in_reply_to_user_id": "1307769479867363328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1770965321198837792",
+    "in_reply_to_status_id": "1770958631892078885",
+    "created_at": "Fri Mar 22 00:06:50 +0000 2024",
+    "favorited": false,
+    "full_text": "@eggs_mayhem Damn, that's brutal. Mine usually just get thrown away when I forget to retrieve the ones I have left in the fridge lol",
+    "lang": "en",
+    "in_reply_to_screen_name": "eggs_mayhem",
+    "in_reply_to_user_id_str": "1307769479867363328"
+  }
+}

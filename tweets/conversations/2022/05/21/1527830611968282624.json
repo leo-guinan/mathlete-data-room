@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527830611968282624"
+        ],
+        "editableUntil": "2022-05-21T02:26:18.270Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Jesse Anders",
+          "screen_name": "JesseAnders89",
+          "indices": [
+            "38",
+            "52"
+          ],
+          "id_str": "1527783990958116864",
+          "id": "1527783990958116864"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1527830611968282624",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527830611968282624",
+    "created_at": "Sat May 21 01:56:18 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: I am also so proud of @JesseAnders89 as he was on the podcast last night and then rejoined today for a group discussion. He…",
+    "lang": "en"
+  }
+}

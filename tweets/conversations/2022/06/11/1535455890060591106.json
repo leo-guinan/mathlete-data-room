@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1535455890060591106"
+        ],
+        "editableUntil": "2022-06-11T03:26:26.238Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        },
+        {
+          "name": "JD",
+          "screen_name": "JDdotST",
+          "indices": [
+            "85",
+            "93"
+          ],
+          "id_str": "1271838378154176515",
+          "id": "1271838378154176515"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1535455890060591106",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1535455890060591106",
+    "created_at": "Sat Jun 11 02:56:26 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @MindsetByDave: Guest 19 of the Mental Health ULTRAMarathon is now live!\n\nJDdotST @JDdotST joins Dave to talk about Cultivating Positivi…",
+    "lang": "en"
+  }
+}

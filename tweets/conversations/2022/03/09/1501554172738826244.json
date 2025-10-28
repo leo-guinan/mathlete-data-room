@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1501554172738826244"
+        ],
+        "editableUntil": "2022-03-09T14:43:06.965Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1501282509065269248/photo/1",
+          "source_status_id": "1501282509065269248",
+          "indices": [
+            "49",
+            "72"
+          ],
+          "url": "https://t.co/31SPfSklXv",
+          "media_url": "http://pbs.twimg.com/media/FNWgfC6XwAIkuKb.jpg",
+          "id_str": "1501282506016014338",
+          "source_user_id": "1325102346792218629",
+          "id": "1501282506016014338",
+          "media_url_https": "https://pbs.twimg.com/media/FNWgfC6XwAIkuKb.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1501282509065269248",
+          "display_url": "pic.x.com/31SPfSklXv"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "72"
+    ],
+    "favorite_count": "0",
+    "id_str": "1501554172738826244",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1501554172738826244",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 09 13:43:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Someone found the little sunbeam https://t.co/31SPfSklXv",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1501282509065269248/photo/1",
+          "source_status_id": "1501282509065269248",
+          "indices": [
+            "49",
+            "72"
+          ],
+          "url": "https://t.co/31SPfSklXv",
+          "media_url": "http://pbs.twimg.com/media/FNWgfC6XwAIkuKb.jpg",
+          "id_str": "1501282506016014338",
+          "source_user_id": "1325102346792218629",
+          "id": "1501282506016014338",
+          "media_url_https": "https://pbs.twimg.com/media/FNWgfC6XwAIkuKb.jpg",
+          "source_user_id_str": "1325102346792218629",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1501282509065269248",
+          "display_url": "pic.x.com/31SPfSklXv"
+        }
+      ]
+    }
+  }
+}

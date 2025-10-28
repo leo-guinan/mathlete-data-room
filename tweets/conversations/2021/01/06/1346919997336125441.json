@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346919997336125441"
+        ],
+        "editableUntil": "2021-01-06T21:42:06.585Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Congresswoman Cori Bush (Archived)",
+          "screen_name": "RepCori",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "1002630999052865536",
+          "id": "1002630999052865536"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346919997336125441",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346919997336125441",
+    "created_at": "Wed Jan 06 20:42:06 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @RepCori: I want a public response from each and every one of my Republican colleagues: do you think this is ok?",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1915585753330966861"
+        ],
+        "editableUntil": "2025-04-25T02:56:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "creekseeker",
+          "screen_name": "mudscryer",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "1864508358444896262",
+          "id": "1864508358444896262"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1915585753330966861/photo/1",
+          "indices": [
+            "307",
+            "330"
+          ],
+          "url": "https://t.co/QaP7CKpGK1",
+          "media_url": "http://pbs.twimg.com/media/GpWG7HeWsAAcV7-.jpg",
+          "id_str": "1915585566692782080",
+          "id": "1915585566692782080",
+          "media_url_https": "https://pbs.twimg.com/media/GpWG7HeWsAAcV7-.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/QaP7CKpGK1"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "330"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1915579893108310138",
+    "id_str": "1915585753330966861",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1915585753330966861",
+    "in_reply_to_status_id": "1915579893108310138",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 25 01:56:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @mudscryer It's funny how much this aligns with what I've been thinking about today.\n\nI just took my new kitten to the vet for the first time. Also, my vet is my dad, so I grew up learning a lot about animals.\n\nBut the kitten is a bottle fed kitten, which have reputations for being wild,… https://t.co/QaP7CKpGK1",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1915585753330966861/photo/1",
+          "indices": [
+            "307",
+            "330"
+          ],
+          "url": "https://t.co/QaP7CKpGK1",
+          "media_url": "http://pbs.twimg.com/media/GpWG7HeWsAAcV7-.jpg",
+          "id_str": "1915585566692782080",
+          "id": "1915585566692782080",
+          "media_url_https": "https://pbs.twimg.com/media/GpWG7HeWsAAcV7-.jpg",
+          "sizes": {
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "768",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/QaP7CKpGK1"
+        }
+      ]
+    }
+  }
+}

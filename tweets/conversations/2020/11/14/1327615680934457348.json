@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327615680934457348"
+        ],
+        "editableUntil": "2020-11-14T15:13:38.898Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Young",
+          "screen_name": "youngbitness",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1058105004957941760",
+          "id": "1058105004957941760"
+        },
+        {
+          "name": "五里松千代(ゴリマッチョ)",
+          "screen_name": "Jack_Russell_UK",
+          "indices": [
+            "14",
+            "30"
+          ],
+          "id_str": "1683200438131384320",
+          "id": "1683200438131384320"
+        },
+        {
+          "name": "gloria",
+          "screen_name": "glozow",
+          "indices": [
+            "31",
+            "38"
+          ],
+          "id_str": "1133904614179233793",
+          "id": "1133904614179233793"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/kdoZagyf2l",
+          "expanded_url": "https://amp.reddit.com/r/Bitcoin/comments/cx11cg/whats_the_story_behind_615_btc/",
+          "display_url": "amp.reddit.com/r/Bitcoin/comm…",
+          "indices": [
+            "60",
+            "83"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "17",
+    "in_reply_to_status_id_str": "1327501568929718273",
+    "id_str": "1327615680934457348",
+    "in_reply_to_user_id": "1058105004957941760",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327615680934457348",
+    "in_reply_to_status_id": "1327501568929718273",
+    "possibly_sensitive": false,
+    "created_at": "Sat Nov 14 14:13:38 +0000 2020",
+    "favorited": false,
+    "full_text": "@youngbitness @Jack_Russell_UK @glozow I had to look it up: https://t.co/kdoZagyf2l",
+    "lang": "en",
+    "in_reply_to_screen_name": "youngbitness",
+    "in_reply_to_user_id_str": "1058105004957941760"
+  }
+}

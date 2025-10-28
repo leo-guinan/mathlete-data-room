@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1948483609096036832"
+        ],
+        "editableUntil": "2025-07-24T21:41:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "⿻ Andrew Trask",
+          "screen_name": "iamtrask",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "929211084",
+          "id": "929211084"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1948482207963578393",
+    "id_str": "1948483609096036832",
+    "in_reply_to_user_id": "929211084",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1948483609096036832",
+    "in_reply_to_status_id": "1948482207963578393",
+    "created_at": "Thu Jul 24 20:41:08 +0000 2025",
+    "favorited": false,
+    "full_text": "@iamtrask Nah, infinite supply means infinite search costs scaling. \n\nIt becomes a needle in a haystack problem, which becomes easily solvable via decentralized networks. \n\nSo we need incentive structures for decentralized networks that actually work. \n\nI’m building it all now and will be…",
+    "lang": "en",
+    "in_reply_to_screen_name": "iamtrask",
+    "in_reply_to_user_id_str": "929211084"
+  }
+}

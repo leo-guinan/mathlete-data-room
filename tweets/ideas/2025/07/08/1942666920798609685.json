@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942666920798609685"
+        ],
+        "editableUntil": "2025-07-08T20:27:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942666920798609685/photo/1",
+          "indices": [
+            "136",
+            "159"
+          ],
+          "url": "https://t.co/huvdWA35fS",
+          "media_url": "http://pbs.twimg.com/media/GvW9GOpWIAAHygr.png",
+          "id_str": "1942666728988614656",
+          "id": "1942666728988614656",
+          "media_url_https": "https://pbs.twimg.com/media/GvW9GOpWIAAHygr.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "307",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "541",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1800",
+              "h": "812",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/huvdWA35fS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "1",
+    "id_str": "1942666920798609685",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942666920798609685",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 08 19:27:41 +0000 2025",
+    "favorited": false,
+    "full_text": "What systems can you see yourself inside?\n\nCan you expand that awareness to include anything else?\n\nGive it a try and see what happens. https://t.co/huvdWA35fS",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942666920798609685/photo/1",
+          "indices": [
+            "136",
+            "159"
+          ],
+          "url": "https://t.co/huvdWA35fS",
+          "media_url": "http://pbs.twimg.com/media/GvW9GOpWIAAHygr.png",
+          "id_str": "1942666728988614656",
+          "id": "1942666728988614656",
+          "media_url_https": "https://pbs.twimg.com/media/GvW9GOpWIAAHygr.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "307",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "541",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1800",
+              "h": "812",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/huvdWA35fS"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1525156531603382275"
+        ],
+        "editableUntil": "2022-05-13T17:20:27.829Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Douglas Adams Bot",
+          "screen_name": "DirkGently_Bot",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2355096816",
+          "id": "2355096816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1525156531603382275",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1525156531603382275",
+    "created_at": "Fri May 13 16:50:27 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @DirkGently_Bot: \"Human beings have the ability to learn from the experience of others, are remarkable for their apparent disinclination…",
+    "lang": "en"
+  }
+}

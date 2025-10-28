@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509168349267304452"
+        ],
+        "editableUntil": "2022-03-30T14:59:08.114Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "152",
+            "162"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Yehuda Zahler",
+          "screen_name": "YehudaZahler",
+          "indices": [
+            "163",
+            "176"
+          ],
+          "id_str": "1404647252900057089",
+          "id": "1404647252900057089"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "7",
+    "id_str": "1509168349267304452",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1509168349267304452",
+    "created_at": "Wed Mar 30 13:59:08 +0000 2022",
+    "favorited": false,
+    "full_text": "How much time did you spend prepping for your launch on Product Hunt?\n\nHow many people did you contact beforehand?\n\nHow many do you regularly talk to?\n\n@NotechAna @YehudaZahler anybody else who recently launched?",
+    "lang": "en"
+  }
+}

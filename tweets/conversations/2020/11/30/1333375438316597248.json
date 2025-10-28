@@ -1,0 +1,253 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333375438316597248"
+        ],
+        "editableUntil": "2020-11-30T12:40:52.069Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "CCSC",
+          "screen_name": "columbuscrewsc",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2792544626",
+          "id": "2792544626"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrewSC/status/1333257986203127809/photo/1",
+          "source_status_id": "1333257986203127809",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/szpUrAwsME",
+          "media_url": "http://pbs.twimg.com/media/EoCuc9lXcAIn6wS.jpg",
+          "id_str": "1333257302292525058",
+          "source_user_id": "16960789",
+          "id": "1333257302292525058",
+          "media_url_https": "https://pbs.twimg.com/media/EoCuc9lXcAIn6wS.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1333257986203127809",
+          "display_url": "pic.x.com/szpUrAwsME"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "id_str": "1333375438316597248",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333375438316597248",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 30 11:40:52 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @ColumbusCrewSC: Built different. https://t.co/szpUrAwsME",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusCrewSC/status/1333257986203127809/photo/1",
+          "source_status_id": "1333257986203127809",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/szpUrAwsME",
+          "media_url": "http://pbs.twimg.com/media/EoCuc9lXcAIn6wS.jpg",
+          "id_str": "1333257302292525058",
+          "source_user_id": "16960789",
+          "id": "1333257302292525058",
+          "media_url_https": "https://pbs.twimg.com/media/EoCuc9lXcAIn6wS.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1333257986203127809",
+          "display_url": "pic.x.com/szpUrAwsME"
+        },
+        {
+          "expanded_url": "https://x.com/ColumbusCrewSC/status/1333257986203127809/photo/1",
+          "source_status_id": "1333257986203127809",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/szpUrAwsME",
+          "media_url": "http://pbs.twimg.com/media/EoCuiSoXUAEaiFs.jpg",
+          "id_str": "1333257393841590273",
+          "source_user_id": "16960789",
+          "id": "1333257393841590273",
+          "media_url_https": "https://pbs.twimg.com/media/EoCuiSoXUAEaiFs.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1333257986203127809",
+          "display_url": "pic.x.com/szpUrAwsME"
+        },
+        {
+          "expanded_url": "https://x.com/ColumbusCrewSC/status/1333257986203127809/photo/1",
+          "source_status_id": "1333257986203127809",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/szpUrAwsME",
+          "media_url": "http://pbs.twimg.com/media/EoCu1JwXIAAfd87.jpg",
+          "id_str": "1333257717876727808",
+          "source_user_id": "16960789",
+          "id": "1333257717876727808",
+          "media_url_https": "https://pbs.twimg.com/media/EoCu1JwXIAAfd87.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1333257986203127809",
+          "display_url": "pic.x.com/szpUrAwsME"
+        },
+        {
+          "expanded_url": "https://x.com/ColumbusCrewSC/status/1333257986203127809/photo/1",
+          "source_status_id": "1333257986203127809",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/szpUrAwsME",
+          "media_url": "http://pbs.twimg.com/media/EoCu3CpXYAAdcS3.jpg",
+          "id_str": "1333257750328074240",
+          "source_user_id": "16960789",
+          "id": "1333257750328074240",
+          "media_url_https": "https://pbs.twimg.com/media/EoCu3CpXYAAdcS3.jpg",
+          "source_user_id_str": "16960789",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1333257986203127809",
+          "display_url": "pic.x.com/szpUrAwsME"
+        }
+      ]
+    }
+  }
+}

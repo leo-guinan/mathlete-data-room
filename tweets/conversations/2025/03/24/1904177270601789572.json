@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1904177270601789572"
+        ],
+        "editableUntil": "2025-03-24T15:23:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "RossiniB",
+          "screen_name": "randomshenans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "121729403",
+          "id": "121729403"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "200"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1904176757231489224",
+    "id_str": "1904177270601789572",
+    "in_reply_to_user_id": "121729403",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1904177270601789572",
+    "in_reply_to_status_id": "1904176757231489224",
+    "created_at": "Mon Mar 24 14:23:33 +0000 2025",
+    "favorited": false,
+    "full_text": "@randomshenans I think there needs to be a burden of predictability that needs to be assessed on companies who try to force people into things that aren't possible.\n\nThat might be a way to do that...🤔",
+    "lang": "en",
+    "in_reply_to_screen_name": "randomshenans",
+    "in_reply_to_user_id_str": "121729403"
+  }
+}

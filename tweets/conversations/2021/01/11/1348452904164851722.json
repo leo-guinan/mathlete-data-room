@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348452904164851722"
+        ],
+        "editableUntil": "2021-01-11T03:13:20.053Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Richard Chizmar",
+          "screen_name": "RichardChizmar",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2233909135",
+          "id": "2233909135"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348452904164851722",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348452904164851722",
+    "created_at": "Mon Jan 11 02:13:20 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @RichardChizmar: I have an extra $200 Amazon gift card, so I’ll be giving it away to one lucky winner next week. Just Follow and RT to b…",
+    "lang": "en"
+  }
+}

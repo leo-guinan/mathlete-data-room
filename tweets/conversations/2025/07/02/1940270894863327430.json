@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940270894863327430"
+        ],
+        "editableUntil": "2025-07-02T05:46:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jaivin 🝞☉",
+          "screen_name": "jaivinwylde",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1165044870362189824",
+          "id": "1165044870362189824"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940270894863327430/photo/1",
+          "indices": [
+            "218",
+            "241"
+          ],
+          "url": "https://t.co/wWCw1lPCbP",
+          "media_url": "http://pbs.twimg.com/media/Gu06GECXoAAXcO0.jpg",
+          "id_str": "1940270890303856640",
+          "id": "1940270890303856640",
+          "media_url_https": "https://pbs.twimg.com/media/Gu06GECXoAAXcO0.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wWCw1lPCbP"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "241"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1940269551297692152",
+    "id_str": "1940270894863327430",
+    "in_reply_to_user_id": "1165044870362189824",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940270894863327430",
+    "in_reply_to_status_id": "1940269551297692152",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 02 04:46:44 +0000 2025",
+    "favorited": false,
+    "full_text": "@jaivinwylde Son of a bitch, really? I thought for sure solving p vs np would be the move. \n\nHasn’t paid out yet though, so maybe I should quit weed. 🤔\n\nBut even with weed I’m too fast for people to keep up with. 🤷‍♂️ https://t.co/wWCw1lPCbP",
+    "lang": "en",
+    "in_reply_to_screen_name": "jaivinwylde",
+    "in_reply_to_user_id_str": "1165044870362189824",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940270894863327430/photo/1",
+          "indices": [
+            "218",
+            "241"
+          ],
+          "url": "https://t.co/wWCw1lPCbP",
+          "media_url": "http://pbs.twimg.com/media/Gu06GECXoAAXcO0.jpg",
+          "id_str": "1940270890303856640",
+          "id": "1940270890303856640",
+          "media_url_https": "https://pbs.twimg.com/media/Gu06GECXoAAXcO0.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wWCw1lPCbP"
+        }
+      ]
+    }
+  }
+}

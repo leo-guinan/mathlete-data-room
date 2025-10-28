@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932830802980507695"
+        ],
+        "editableUntil": "2025-06-11T17:02:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Snub",
+          "screen_name": "1stSnub",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1924061287790821376",
+          "id": "1924061287790821376"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "150"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1932826818010378282",
+    "id_str": "1932830802980507695",
+    "in_reply_to_user_id": "1924061287790821376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932830802980507695",
+    "in_reply_to_status_id": "1932826818010378282",
+    "created_at": "Wed Jun 11 16:02:28 +0000 2025",
+    "favorited": false,
+    "full_text": "@1stSnub Yes. Everything, as it turns out.  Did a live stream earlier that I'm editing down into a video that will show you how exactly right you are.",
+    "lang": "en",
+    "in_reply_to_screen_name": "1stSnub",
+    "in_reply_to_user_id_str": "1924061287790821376"
+  }
+}

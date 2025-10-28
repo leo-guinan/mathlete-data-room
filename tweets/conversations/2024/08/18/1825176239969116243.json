@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1825176239969116243"
+        ],
+        "editableUntil": "2024-08-18T15:21:40.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1825167088706605178",
+    "id_str": "1825176239969116243",
+    "in_reply_to_user_id": "1821721928098328576",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1825176239969116243",
+    "in_reply_to_status_id": "1825167088706605178",
+    "created_at": "Sun Aug 18 14:21:40 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli Let's say you get to the end of the day and want to recap what you did. Is that something that happens before you go to sleep? Or should it be something you'd prefer when you wake up?\n\nAnd let's say your copilot records what you've talked about and gets a bit more from you that…",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1821721928098328576"
+  }
+}

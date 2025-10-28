@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1820456087675412948"
+        ],
+        "editableUntil": "2024-08-05T14:45:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lukas Tassanyi",
+          "screen_name": "vuapo_ai",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1706499553632100352",
+          "id": "1706499553632100352"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1820455421162704938",
+    "id_str": "1820456087675412948",
+    "in_reply_to_user_id": "1706499553632100352",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1820456087675412948",
+    "in_reply_to_status_id": "1820455421162704938",
+    "created_at": "Mon Aug 05 13:45:28 +0000 2024",
+    "favorited": false,
+    "full_text": "@vuapo_ai It definitely does matter, but I think the intensity of voices who spend more time in the space end up influencing each other too. \n\nSo if there is verified data about the middle, it can also work to stop the polarization of the extremes because of the lack of visibility.",
+    "lang": "en",
+    "in_reply_to_screen_name": "vuapo_ai",
+    "in_reply_to_user_id_str": "1706499553632100352"
+  }
+}

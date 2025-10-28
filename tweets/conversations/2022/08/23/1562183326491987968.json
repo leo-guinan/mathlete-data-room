@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562183326491987968"
+        ],
+        "editableUntil": "2022-08-23T21:31:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/2Clz4jYo8J",
+          "expanded_url": "https://www.newyorker.com/culture/culture-desk/mapping-climate-grief-one-pixel-at-a-time",
+          "display_url": "newyorker.com/culture/cultur…",
+          "indices": [
+            "97",
+            "120"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1562183323098656768",
+    "id_str": "1562183326491987968",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562183326491987968",
+    "in_reply_to_status_id": "1562183323098656768",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 23 21:01:43 +0000 2022",
+    "favorited": false,
+    "full_text": "@eggs_mayhem Next, I discovered a game called Norco. \n\nRecommend you read through the backstory: https://t.co/2Clz4jYo8J\n\nBut I'm actually a big fan of point and click adventures and that really did trigger a bit of nostalgia, especially when combined with reminders of DOS games earlier today",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

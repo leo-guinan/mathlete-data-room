@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1673694734538113025"
+        ],
+        "editableUntil": "2023-06-27T15:08:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        },
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "35",
+            "45"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fUx8SOYAZB",
+          "expanded_url": "https://tbf.fm/episodes/226-paul-millerd-walking-the-pathless-path",
+          "display_url": "tbf.fm/episodes/226-p…",
+          "indices": [
+            "173",
+            "196"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "196"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1673694233700577280",
+    "id_str": "1673694734538113025",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1673694734538113025",
+    "in_reply_to_status_id": "1673694233700577280",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 27 14:08:15 +0000 2023",
+    "favorited": false,
+    "full_text": "First up, it was @arvidkahl having @p_millerd as a guest on the Bootstrapped Founder.\n\nThat was a fantastic conversation and I highly recommend that everyone listens to it:\nhttps://t.co/fUx8SOYAZB",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

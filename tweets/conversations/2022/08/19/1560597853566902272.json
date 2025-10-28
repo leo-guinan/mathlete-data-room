@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1560597853566902272"
+        ],
+        "editableUntil": "2022-08-19T12:31:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1560299193306329088",
+    "id_str": "1560597853566902272",
+    "in_reply_to_user_id": "115456939",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1560597853566902272",
+    "in_reply_to_status_id": "1560299193306329088",
+    "created_at": "Fri Aug 19 12:01:37 +0000 2022",
+    "favorited": false,
+    "full_text": "@markyerkes1734 We all need reminders from time to time 😀\n\nI've definitely done the programming equivalent....😂😂😂\n\nI tend to use extra caution around hammers because I have experienced that pain. Sometimes, we get too comfortable when we are doing things regularly.",
+    "lang": "en",
+    "in_reply_to_screen_name": "markyerkes1734",
+    "in_reply_to_user_id_str": "115456939"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1397260053179244546"
+        ],
+        "editableUntil": "2021-05-25T19:35:31.171Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1JeZuYJe94",
+          "expanded_url": "https://x.com/AmandaMGoetz/status/1397177501496000514",
+          "display_url": "x.com/AmandaMGoetz/s…",
+          "indices": [
+            "42",
+            "65"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "65"
+    ],
+    "favorite_count": "2",
+    "id_str": "1397260053179244546",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1397260053179244546",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 25 18:35:31 +0000 2021",
+    "favorited": false,
+    "full_text": "Love these ideas for minimizing meetings. https://t.co/1JeZuYJe94",
+    "lang": "en"
+  }
+}

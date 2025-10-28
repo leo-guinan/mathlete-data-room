@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1394117335909343234"
+        ],
+        "editableUntil": "2021-05-17T03:27:28.985Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Kak9afgx2t",
+          "expanded_url": "https://frontier.pioneer.app/posts/501748d8-definet-progress-update-may-16th-2021",
+          "display_url": "frontier.pioneer.app/posts/501748d8…",
+          "indices": [
+            "249",
+            "272"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "2",
+    "id_str": "1394117335909343234",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1394117335909343234",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 17 02:27:28 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nUsed the lessons from the preaccelerator to better define our target user group and started restructuring the community around that. Preliminary data shows a positive reaction to…\n\nRead the rest here:\n\n https://t.co/Kak9afgx2t",
+    "lang": "en"
+  }
+}

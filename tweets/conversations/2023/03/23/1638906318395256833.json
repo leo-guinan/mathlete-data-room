@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1638906318395256833"
+        ],
+        "editableUntil": "2023-03-23T14:41:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Yagudaev 🧑🏻‍💻🇨🇦",
+          "screen_name": "yagudaev",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "238023498",
+          "id": "238023498"
+        },
+        {
+          "name": "Andrew Warner",
+          "screen_name": "AndrewWarner",
+          "indices": [
+            "10",
+            "23"
+          ],
+          "id_str": "1020961",
+          "id": "1020961"
+        },
+        {
+          "name": "Andrew Warner & Team",
+          "screen_name": "Mixergy",
+          "indices": [
+            "24",
+            "32"
+          ],
+          "id_str": "5571602",
+          "id": "5571602"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1638775386346758145",
+    "id_str": "1638906318395256833",
+    "in_reply_to_user_id": "238023498",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1638906318395256833",
+    "in_reply_to_status_id": "1638775386346758145",
+    "created_at": "Thu Mar 23 14:11:30 +0000 2023",
+    "favorited": false,
+    "full_text": "@yagudaev @AndrewWarner @Mixergy I'll check that out, thanks! \n\nI'm always interested in seeing different ways to do things.",
+    "lang": "en",
+    "in_reply_to_screen_name": "yagudaev",
+    "in_reply_to_user_id_str": "238023498"
+  }
+}

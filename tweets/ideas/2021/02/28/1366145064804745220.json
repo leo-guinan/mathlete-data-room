@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1366145064804745220"
+        ],
+        "editableUntil": "2021-02-28T22:55:39.854Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hKhvua2uus",
+          "expanded_url": "https://x.com/nikitabier/status/1366103007536979971",
+          "display_url": "x.com/nikitabier/sta…",
+          "indices": [
+            "32",
+            "55"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "0",
+    "id_str": "1366145064804745220",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1366145064804745220",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 28 21:55:39 +0000 2021",
+    "favorited": false,
+    "full_text": "Now I know my unfair advantage! https://t.co/hKhvua2uus",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1524113334383038470"
+        ],
+        "editableUntil": "2022-05-10T20:15:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "3",
+    "id_str": "1524113334383038470",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1524113334383038470",
+    "created_at": "Tue May 10 19:45:10 +0000 2022",
+    "favorited": false,
+    "full_text": "Finally get everything working the way I want it using Twitter OAuth 1 login.\n\nHit my api endpoint. \n\nDiscover I need Twitter Oauth2 for that endpoint. \n\nCry.\n\nStart refactoring everything. \n\nGot the front-end working with OAuth2 login.\n\nStill gotta get the backend fixed.",
+    "lang": "en"
+  }
+}

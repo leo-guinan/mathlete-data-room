@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1634979648210870277"
+        ],
+        "editableUntil": "2023-03-12T18:38:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Mv72n6aYBN",
+          "expanded_url": "http://leoguinan.ai",
+          "display_url": "leoguinan.ai",
+          "indices": [
+            "40",
+            "63"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "263"
+    ],
+    "favorite_count": "2",
+    "id_str": "1634979648210870277",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1634979648210870277",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 12 18:08:19 +0000 2023",
+    "favorited": false,
+    "full_text": "Ok, I've got the first tool working for https://t.co/Mv72n6aYBN.\n\nAs soon as the deploy goes live, you'll be able to ask questions and it will answer them if there's an answer on one of my blogs.\n\nNext up, I need to set up a fallback if it doesn't have an answer.",
+    "lang": "en"
+  }
+}

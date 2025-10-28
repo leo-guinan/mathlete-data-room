@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1571921604183195648"
+        ],
+        "editableUntil": "2022-09-19T18:28:09.985Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ima Fox ∞/21M",
+          "screen_name": "21mFox",
+          "indices": [
+            "3",
+            "10"
+          ],
+          "id_str": "1355082380357332992",
+          "id": "1355082380357332992"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HlOxHwhnRP",
+          "expanded_url": "https://x.com/Gabriele_Corno/status/1571405828313456640/video/1",
+          "display_url": "x.com/Gabriele_Corno…",
+          "indices": [
+            "28",
+            "51"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "0",
+    "id_str": "1571921604183195648",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1571921604183195648",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 19 17:58:09 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @21mFox: Be Ungovernable https://t.co/HlOxHwhnRP",
+    "lang": "en"
+  }
+}

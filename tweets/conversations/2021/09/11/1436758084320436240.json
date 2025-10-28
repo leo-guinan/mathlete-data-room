@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1436758084320436240"
+        ],
+        "editableUntil": "2021-09-11T19:26:35.633Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jamie Maguire | MVP in AI",
+          "screen_name": "jamie_maguire1",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "38906681",
+          "id": "38906681"
+        },
+        {
+          "name": "SocialOpinion",
+          "screen_name": "SocialOpinions",
+          "indices": [
+            "16",
+            "31"
+          ],
+          "id_str": "958676983",
+          "id": "958676983"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0MlTUjALmZ",
+          "expanded_url": "http://Feathercrm.io",
+          "display_url": "Feathercrm.io",
+          "indices": [
+            "32",
+            "55"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1436710792355790848",
+    "id_str": "1436758084320436240",
+    "in_reply_to_user_id": "38906681",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1436758084320436240",
+    "in_reply_to_status_id": "1436710792355790848",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 11 18:26:35 +0000 2021",
+    "favorited": false,
+    "full_text": "@jamie_maguire1 @SocialOpinions https://t.co/0MlTUjALmZ\n\nThe CRM for Twitter you've been missing",
+    "lang": "en",
+    "in_reply_to_screen_name": "jamie_maguire1",
+    "in_reply_to_user_id_str": "38906681"
+  }
+}

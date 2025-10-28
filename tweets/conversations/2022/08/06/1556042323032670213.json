@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1556042323032670213"
+        ],
+        "editableUntil": "2022-08-06T22:49:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1556037459363844096",
+    "id_str": "1556042323032670213",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1556042323032670213",
+    "in_reply_to_status_id": "1556037459363844096",
+    "created_at": "Sat Aug 06 22:19:34 +0000 2022",
+    "favorited": false,
+    "full_text": "@hellostartupla Appreciate it Ed! \n\nThe Joe Rogan thing is totally iffy. But was a reason I started.\n\njust not the reason I continue. The reason I continue is because I genuinely enjoy the conversations and I do think others find them helpful.\n\nThe rest of it doesn't matter. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1558844428290252800"
+        ],
+        "editableUntil": "2022-08-14T16:24:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "2",
+    "id_str": "1558844428290252800",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1558844428290252800",
+    "created_at": "Sun Aug 14 15:54:08 +0000 2022",
+    "favorited": false,
+    "full_text": "Me: adds logging statements to get better insight on errors occurring\n\nApp: decides not to throw an error for the first time in days\n\nMe: ....\n\nApp: ....\n\nMe: Realizes I also included code that wasn't ready and just bypassed erroring code completely.\n\nApp: ...\n\nMe: *cries*",
+    "lang": "en"
+  }
+}

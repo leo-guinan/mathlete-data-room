@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340750707448815617"
+        ],
+        "editableUntil": "2020-12-20T21:07:33.256Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "PASTOR WARHOL",
+          "screen_name": "DukeHomer",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "512672870",
+          "id": "512672870"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1340750707448815617/photo/1",
+          "indices": [
+            "11",
+            "34"
+          ],
+          "url": "https://t.co/70DOym7DAR",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EptNpsSXcAI8p3b.jpg",
+          "id_str": "1340750692731023362",
+          "id": "1340750692731023362",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EptNpsSXcAI8p3b.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "246",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "500",
+              "h": "246",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "246",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/70DOym7DAR"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "34"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1340662386878017538",
+    "id_str": "1340750707448815617",
+    "in_reply_to_user_id": "512672870",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340750707448815617",
+    "in_reply_to_status_id": "1340662386878017538",
+    "possibly_sensitive": false,
+    "created_at": "Sun Dec 20 20:07:33 +0000 2020",
+    "favorited": false,
+    "full_text": "@DukeHomer https://t.co/70DOym7DAR",
+    "lang": "qme",
+    "in_reply_to_screen_name": "DukeHomer",
+    "in_reply_to_user_id_str": "512672870",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1340750707448815617/photo/1",
+          "indices": [
+            "11",
+            "34"
+          ],
+          "url": "https://t.co/70DOym7DAR",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EptNpsSXcAI8p3b.jpg",
+          "id_str": "1340750692731023362",
+          "video_info": {
+            "aspect_ratio": [
+              "250",
+              "123"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EptNpsSXcAI8p3b.mp4"
+              }
+            ]
+          },
+          "id": "1340750692731023362",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EptNpsSXcAI8p3b.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "246",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "500",
+              "h": "246",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "246",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/70DOym7DAR"
+        }
+      ]
+    }
+  }
+}

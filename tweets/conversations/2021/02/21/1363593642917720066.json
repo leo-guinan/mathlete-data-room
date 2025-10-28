@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363593642917720066"
+        ],
+        "editableUntil": "2021-02-21T21:57:13.473Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "jack",
+          "screen_name": "jackbutcher",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "52188203",
+          "id": "52188203"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1363593642917720066",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363593642917720066",
+    "created_at": "Sun Feb 21 20:57:13 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @jackbutcher: Giveaway:\n\n3 copies of Build Once, Sell Twice\n\nThe variety in student disciplines &amp; execution has been magnificent:\n\nBaske…",
+    "lang": "en"
+  }
+}

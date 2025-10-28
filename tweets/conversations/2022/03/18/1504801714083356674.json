@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1504801714083356674"
+        ],
+        "editableUntil": "2022-03-18T13:47:41.158Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sanchita Shahi",
+          "screen_name": "saancshaa",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "58694341",
+          "id": "58694341"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L9BX6meB2v",
+          "expanded_url": "https://x.com/leo_guinan/status/1504799794786615299?s=20&t=jI2-mCkLIMLwyU7Qt3eLww",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "181",
+            "204"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "250"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1504631660683272193",
+    "id_str": "1504801714083356674",
+    "in_reply_to_user_id": "58694341",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1504801714083356674",
+    "in_reply_to_status_id": "1504631660683272193",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 18 12:47:41 +0000 2022",
+    "favorited": false,
+    "full_text": "@saancshaa @NotechAna That sounds awesome Sanchita! Would love to chat with you!\n\nI'm trying to keep track of everyone interested. If you don't mind, please checkout the link here: https://t.co/L9BX6meB2v\n\nFill out the form and I'll be in touch soon!",
+    "lang": "en",
+    "in_reply_to_screen_name": "saancshaa",
+    "in_reply_to_user_id_str": "58694341"
+  }
+}

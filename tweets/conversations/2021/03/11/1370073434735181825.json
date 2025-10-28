@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1370073434735181825"
+        ],
+        "editableUntil": "2021-03-11T19:05:36.231Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CentiPenny | Tip Me 🪙",
+          "screen_name": "CentiPenny",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1306424021630812161",
+          "id": "1306424021630812161"
+        },
+        {
+          "name": "Peter Yang",
+          "screen_name": "petergyang",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "84490044",
+          "id": "84490044"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "158"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1370072387736248320",
+    "id_str": "1370073434735181825",
+    "in_reply_to_user_id": "1306424021630812161",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1370073434735181825",
+    "in_reply_to_status_id": "1370072387736248320",
+    "created_at": "Thu Mar 11 18:05:36 +0000 2021",
+    "favorited": false,
+    "full_text": "@CentiPenny @petergyang The trick is monetizing content curation. If you monetize the discovery of content, there is more money in the ecosystem for creators.",
+    "lang": "en",
+    "in_reply_to_screen_name": "CentiPenny",
+    "in_reply_to_user_id_str": "1306424021630812161"
+  }
+}

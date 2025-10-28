@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1919808912296952274"
+        ],
+        "editableUntil": "2025-05-06T18:38:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Liv Boeree",
+          "screen_name": "Liv_Boeree",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "25422302",
+          "id": "25422302"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "176"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1919808281100300751",
+    "id_str": "1919808912296952274",
+    "in_reply_to_user_id": "25422302",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1919808912296952274",
+    "in_reply_to_status_id": "1919808281100300751",
+    "created_at": "Tue May 06 17:38:07 +0000 2025",
+    "favorited": false,
+    "full_text": "@Liv_Boeree I was just thinking this morning about wanting to try some standup at some point soon.\n\nI'm going to take your post as a sign I should start putting together a set.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Liv_Boeree",
+    "in_reply_to_user_id_str": "25422302"
+  }
+}

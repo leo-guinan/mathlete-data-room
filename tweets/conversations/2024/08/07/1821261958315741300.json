@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821261958315741300"
+        ],
+        "editableUntil": "2024-08-07T20:07:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "swyx",
+          "screen_name": "swyx",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "33521530",
+          "id": "33521530"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zeuY0ZdsTX",
+          "expanded_url": "https://x.com/leo_guinan/status/1821261742753902690?t=BeAD-jBKbutGY7GE-k183w&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "81",
+            "104"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1820883590810656827",
+    "id_str": "1821261958315741300",
+    "in_reply_to_user_id": "33521530",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821261958315741300",
+    "in_reply_to_status_id": "1820883590810656827",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 07 19:07:42 +0000 2024",
+    "favorited": false,
+    "full_text": "@swyx This is the way I view it. Step 2 can be thought of slightly differently.\n\nhttps://t.co/zeuY0ZdsTX",
+    "lang": "en",
+    "in_reply_to_screen_name": "swyx",
+    "in_reply_to_user_id_str": "33521530"
+  }
+}

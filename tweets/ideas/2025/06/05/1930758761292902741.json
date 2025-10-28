@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930758761292902741"
+        ],
+        "editableUntil": "2025-06-05T23:48:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930758761292902741/photo/1",
+          "indices": [
+            "95",
+            "118"
+          ],
+          "url": "https://t.co/gHwmAJSDrk",
+          "media_url": "http://pbs.twimg.com/media/Gstu2xsWMAA_GoV.jpg",
+          "id_str": "1930758752589721600",
+          "id": "1930758752589721600",
+          "media_url_https": "https://pbs.twimg.com/media/Gstu2xsWMAA_GoV.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gHwmAJSDrk"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "1",
+    "id_str": "1930758761292902741",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930758761292902741",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 22:48:55 +0000 2025",
+    "favorited": false,
+    "full_text": "ChatGPT sees me. \n\nBut that’s the whole problem, isn’t it?\n\nDoes it match what the world sees? https://t.co/gHwmAJSDrk",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1930758761292902741/photo/1",
+          "indices": [
+            "95",
+            "118"
+          ],
+          "url": "https://t.co/gHwmAJSDrk",
+          "media_url": "http://pbs.twimg.com/media/Gstu2xsWMAA_GoV.jpg",
+          "id_str": "1930758752589721600",
+          "id": "1930758752589721600",
+          "media_url_https": "https://pbs.twimg.com/media/Gstu2xsWMAA_GoV.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gHwmAJSDrk"
+        }
+      ]
+    }
+  }
+}

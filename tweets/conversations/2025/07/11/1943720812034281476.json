@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1943720812034281476"
+        ],
+        "editableUntil": "2025-07-11T18:15:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "41",
+            "57"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1943720812034281476/photo/1",
+          "indices": [
+            "91",
+            "114"
+          ],
+          "url": "https://t.co/WFhoru8Evz",
+          "media_url": "http://pbs.twimg.com/media/Gvl7odfW0AAuBN7.jpg",
+          "id_str": "1943720649228210176",
+          "id": "1943720649228210176",
+          "media_url_https": "https://pbs.twimg.com/media/Gvl7odfW0AAuBN7.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "580",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1395",
+              "h": "1190",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/WFhoru8Evz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "2",
+    "id_str": "1943720812034281476",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1943720812034281476",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 11 17:15:28 +0000 2025",
+    "favorited": false,
+    "full_text": "Oh, now this is interesting.\n\nHere's how @StroutMotivateU and I have interacted over time. https://t.co/WFhoru8Evz",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1943720812034281476/photo/1",
+          "indices": [
+            "91",
+            "114"
+          ],
+          "url": "https://t.co/WFhoru8Evz",
+          "media_url": "http://pbs.twimg.com/media/Gvl7odfW0AAuBN7.jpg",
+          "id_str": "1943720649228210176",
+          "id": "1943720649228210176",
+          "media_url_https": "https://pbs.twimg.com/media/Gvl7odfW0AAuBN7.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "580",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1395",
+              "h": "1190",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/WFhoru8Evz"
+        }
+      ]
+    }
+  }
+}

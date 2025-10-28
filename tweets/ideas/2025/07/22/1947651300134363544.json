@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1947651300134363544"
+        ],
+        "editableUntil": "2025-07-22T14:33:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1947651300134363544/photo/1",
+          "indices": [
+            "176",
+            "199"
+          ],
+          "url": "https://t.co/jMLZkAcxuz",
+          "media_url": "http://pbs.twimg.com/media/GwdyWjZXEAAbF4F.png",
+          "id_str": "1947651095645327360",
+          "id": "1947651095645327360",
+          "media_url_https": "https://pbs.twimg.com/media/GwdyWjZXEAAbF4F.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "544",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1704",
+              "h": "772",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "308",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jMLZkAcxuz"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "199"
+    ],
+    "favorite_count": "1",
+    "id_str": "1947651300134363544",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1947651300134363544",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 22 13:33:50 +0000 2025",
+    "favorited": false,
+    "full_text": "Getting some stream of consciousness writing tips from o3 right now.\n\nNotice that you should use em-dash breaks to signal shifts so the flow feels intentional--not accidental. https://t.co/jMLZkAcxuz",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1947651300134363544/photo/1",
+          "indices": [
+            "176",
+            "199"
+          ],
+          "url": "https://t.co/jMLZkAcxuz",
+          "media_url": "http://pbs.twimg.com/media/GwdyWjZXEAAbF4F.png",
+          "id_str": "1947651095645327360",
+          "id": "1947651095645327360",
+          "media_url_https": "https://pbs.twimg.com/media/GwdyWjZXEAAbF4F.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "544",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1704",
+              "h": "772",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "308",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jMLZkAcxuz"
+        }
+      ]
+    }
+  }
+}

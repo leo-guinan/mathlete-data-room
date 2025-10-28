@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1883668406362411289"
+        ],
+        "editableUntil": "2025-01-27T01:08:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "Ronen▼",
+          "screen_name": "RonenV",
+          "indices": [
+            "17",
+            "24"
+          ],
+          "id_str": "1206581",
+          "id": "1206581"
+        },
+        {
+          "name": "Michael Smith",
+          "screen_name": "Morphenius",
+          "indices": [
+            "25",
+            "36"
+          ],
+          "id_str": "942914502",
+          "id": "942914502"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1883666694918504884",
+    "id_str": "1883668406362411289",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1883668406362411289",
+    "in_reply_to_status_id": "1883666694918504884",
+    "created_at": "Mon Jan 27 00:08:39 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @RonenV @Morphenius 100%.\n\nHas taken me a ton of work to do the bit I can, and I hate the fact that I know there's other stuff in there I can't access yet.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

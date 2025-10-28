@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1514966105877528583"
+        ],
+        "editableUntil": "2022-04-15T14:27:21.007Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "228",
+            "239"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1514966098608898056",
+    "id_str": "1514966105877528583",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1514966105877528583",
+    "in_reply_to_status_id": "1514966098608898056",
+    "created_at": "Fri Apr 15 13:57:21 +0000 2022",
+    "favorited": false,
+    "full_text": "Monday through Thursday, there will be three things each day.\n\nI've recorded 4 episodes of How To Scale Yourself this week. I'm going to publish 1 each day, Monday through Thursday.\n\nIn addition, I'll be featuring an episode of @LobowSpark.\n\nAnd finally, I'll feature a friend.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

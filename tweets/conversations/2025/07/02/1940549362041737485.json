@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940549362041737485"
+        ],
+        "editableUntil": "2025-07-03T00:13:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adam",
+          "screen_name": "adamc0dez",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1500427684484112384",
+          "id": "1500427684484112384"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1940549066615935432",
+    "id_str": "1940549362041737485",
+    "in_reply_to_user_id": "1500427684484112384",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940549362041737485",
+    "in_reply_to_status_id": "1940549066615935432",
+    "created_at": "Wed Jul 02 23:13:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@adamc0dez there's not much support for how to be a high performer. If you want to be a real high performer, you have to know how a high performer performs.\n\nIf you aren't around them or seeing what they do, you can think you're a high performer without ever actually being close.",
+    "lang": "en",
+    "in_reply_to_screen_name": "adamc0dez",
+    "in_reply_to_user_id_str": "1500427684484112384"
+  }
+}

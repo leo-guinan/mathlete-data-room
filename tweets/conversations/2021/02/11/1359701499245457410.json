@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359701499245457410"
+        ],
+        "editableUntil": "2021-02-11T04:11:14.109Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dr Aniruddha Malpani, MD",
+          "screen_name": "malpani",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "58417042",
+          "id": "58417042"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "101"
+    ],
+    "favorite_count": "0",
+    "id_str": "1359701499245457410",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359701499245457410",
+    "created_at": "Thu Feb 11 03:11:14 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @malpani: The best way to ensure your services will always remain in demand is to become a creator",
+    "lang": "en"
+  }
+}

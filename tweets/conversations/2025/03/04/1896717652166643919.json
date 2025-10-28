@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1896717652166643919"
+        ],
+        "editableUntil": "2025-03-04T01:21:42.243Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nathan Shearer",
+          "screen_name": "lifeonautosite",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "2309490432",
+          "id": "2309490432"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "0",
+    "id_str": "1896717652166643919",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1896717652166643919",
+    "created_at": "Tue Mar 04 00:21:42 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @lifeonautosite: \"Build around networks of people and information exchange\" 🤌",
+    "lang": "en"
+  }
+}

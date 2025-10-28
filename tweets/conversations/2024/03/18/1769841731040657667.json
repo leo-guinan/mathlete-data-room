@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1769841731040657667"
+        ],
+        "editableUntil": "2024-03-18T22:42:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "54",
+            "65"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lrA101ogzi",
+          "expanded_url": "https://youtu.be/Dh3guYmHOak",
+          "display_url": "youtu.be/Dh3guYmHOak",
+          "indices": [
+            "106",
+            "129"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "129"
+    ],
+    "favorite_count": "0",
+    "id_str": "1769841731040657667",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1769841731040657667",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 18 21:42:05 +0000 2024",
+    "favorited": false,
+    "full_text": "New video dropped today!\n\nCheck out my interview with @LobowSpark, and see what it means to be a leader:\n\nhttps://t.co/lrA101ogzi",
+    "lang": "en"
+  }
+}

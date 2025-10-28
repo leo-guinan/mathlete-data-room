@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1679116223445975040"
+        ],
+        "editableUntil": "2023-07-12T14:11:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Yong-Soo Chung",
+          "screen_name": "YongSooChung",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "20415533",
+          "id": "20415533"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "183"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1678871808832077824",
+    "id_str": "1679116223445975040",
+    "in_reply_to_user_id": "20415533",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1679116223445975040",
+    "in_reply_to_status_id": "1678871808832077824",
+    "created_at": "Wed Jul 12 13:11:18 +0000 2023",
+    "favorited": false,
+    "full_text": "@YongSooChung It's never been easier to acquire, but it's never been harder to filter. \n\nIf you figure out where and who to learn from, you stand a much much better chance of success.",
+    "lang": "en",
+    "in_reply_to_screen_name": "YongSooChung",
+    "in_reply_to_user_id_str": "20415533"
+  }
+}

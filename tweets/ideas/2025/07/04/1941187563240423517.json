@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941187563240423517"
+        ],
+        "editableUntil": "2025-07-04T18:29:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/CNVk3EyUwb",
+          "expanded_url": "https://x.com/regencrypto/status/1941186896664854573",
+          "display_url": "x.com/regencrypto/st…",
+          "indices": [
+            "177",
+            "200"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941187563240423517/photo/1",
+          "indices": [
+            "201",
+            "224"
+          ],
+          "url": "https://t.co/MX9RxJFuAA",
+          "media_url": "http://pbs.twimg.com/media/GvB7yEqWEAAyBCO.jpg",
+          "id_str": "1941187539571707904",
+          "id": "1941187539571707904",
+          "media_url_https": "https://pbs.twimg.com/media/GvB7yEqWEAAyBCO.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MX9RxJFuAA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "224"
+    ],
+    "favorite_count": "2",
+    "id_str": "1941187563240423517",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941187563240423517",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 04 17:29:15 +0000 2025",
+    "favorited": false,
+    "full_text": "Are you ready for the revolution?\n\nThis one's more fun, because it's online and has better memes.\n\nWho wants to remove the power structures that suck so we can all get smarter? https://t.co/CNVk3EyUwb https://t.co/MX9RxJFuAA",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941187563240423517/photo/1",
+          "indices": [
+            "201",
+            "224"
+          ],
+          "url": "https://t.co/MX9RxJFuAA",
+          "media_url": "http://pbs.twimg.com/media/GvB7yEqWEAAyBCO.jpg",
+          "id_str": "1941187539571707904",
+          "id": "1941187539571707904",
+          "media_url_https": "https://pbs.twimg.com/media/GvB7yEqWEAAyBCO.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MX9RxJFuAA"
+        }
+      ]
+    }
+  }
+}

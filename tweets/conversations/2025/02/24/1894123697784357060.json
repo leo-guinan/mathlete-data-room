@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1894123697784357060"
+        ],
+        "editableUntil": "2025-02-24T21:34:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Every 📧",
+          "screen_name": "every",
+          "indices": [
+            "7",
+            "13"
+          ],
+          "id_str": "809565356",
+          "id": "809565356"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1894123697784357060/photo/1",
+          "indices": [
+            "169",
+            "192"
+          ],
+          "url": "https://t.co/u9hP8RIP82",
+          "media_url": "http://pbs.twimg.com/media/GklHPd2XwAA2oeQ.jpg",
+          "id_str": "1894123449322291200",
+          "id": "1894123449322291200",
+          "media_url_https": "https://pbs.twimg.com/media/GklHPd2XwAA2oeQ.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "554",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "977",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1210",
+              "h": "1486",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/u9hP8RIP82"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "192"
+    ],
+    "favorite_count": "0",
+    "id_str": "1894123697784357060",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1894123697784357060",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 24 20:34:15 +0000 2025",
+    "favorited": false,
+    "full_text": "Uh, ok @every team. Now I think you are just showing off.\n\n\"While I was away\" is a period of, what, 5 hours since the model was even announced?\n\n🫡👏\n\nI respect the game. https://t.co/u9hP8RIP82",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1894123697784357060/photo/1",
+          "indices": [
+            "169",
+            "192"
+          ],
+          "url": "https://t.co/u9hP8RIP82",
+          "media_url": "http://pbs.twimg.com/media/GklHPd2XwAA2oeQ.jpg",
+          "id_str": "1894123449322291200",
+          "id": "1894123449322291200",
+          "media_url_https": "https://pbs.twimg.com/media/GklHPd2XwAA2oeQ.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "554",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "977",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1210",
+              "h": "1486",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/u9hP8RIP82"
+        }
+      ]
+    }
+  }
+}

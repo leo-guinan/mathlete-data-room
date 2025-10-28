@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536409611732926467"
+        ],
+        "editableUntil": "2022-06-13T18:36:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "12",
+            "26"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "43",
+            "54"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "295"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1536409609484832769",
+    "id_str": "1536409611732926467",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536409611732926467",
+    "in_reply_to_status_id": "1536409609484832769",
+    "created_at": "Mon Jun 13 18:06:11 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark @MindsetByDave Also, check out @LobowSpark during hour 18 to hear the difference there. The improvement is so obvious.\n\nThere's a lot of focus on doing things in certain ways. Everybody's got their advice on how.\n\nBut it's really simple. Do the stuff you enjoy and you'll get better.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

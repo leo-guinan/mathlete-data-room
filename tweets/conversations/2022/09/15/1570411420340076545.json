@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1570411420340076545"
+        ],
+        "editableUntil": "2022-09-15T14:27:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "58",
+            "69"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/82troPMJII",
+          "expanded_url": "https://x.com/leo_guinan/status/1570411404900925440",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "150",
+            "173"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "173"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1570411417802780673",
+    "id_str": "1570411420340076545",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1570411420340076545",
+    "in_reply_to_status_id": "1570411417802780673",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 15 13:57:14 +0000 2022",
+    "favorited": false,
+    "full_text": "That's a wrap!\n\nIf you enjoyed this thread:\n\n1. Follow me @leo_guinan for more of these\n2. RT the tweet below to share this thread with your audience https://t.co/82troPMJII",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

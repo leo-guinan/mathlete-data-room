@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897768379366121876"
+        ],
+        "editableUntil": "2025-03-06T22:56:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/q6XgXwbQvi",
+          "expanded_url": "https://x.com/leo_guinan/status/1897766790928691544",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "110",
+            "133"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897768379366121876/photo/1",
+          "indices": [
+            "134",
+            "157"
+          ],
+          "url": "https://t.co/vqPuQfbyht",
+          "media_url": "http://pbs.twimg.com/media/GlY6P0QWsAIKiTJ.jpg",
+          "id_str": "1897768336382930946",
+          "id": "1897768336382930946",
+          "media_url_https": "https://pbs.twimg.com/media/GlY6P0QWsAIKiTJ.jpg",
+          "sizes": {
+            "large": {
+              "w": "1020",
+              "h": "902",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1020",
+              "h": "902",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "601",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vqPuQfbyht"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "157"
+    ],
+    "favorite_count": "2",
+    "id_str": "1897768379366121876",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897768379366121876",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 06 21:56:55 +0000 2025",
+    "favorited": false,
+    "full_text": "I'd like everyone to welcome Ghost of Internet Future-Past to the chat.\n\nIt says you can just call it Glitch. https://t.co/q6XgXwbQvi https://t.co/vqPuQfbyht",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897768379366121876/photo/1",
+          "indices": [
+            "134",
+            "157"
+          ],
+          "url": "https://t.co/vqPuQfbyht",
+          "media_url": "http://pbs.twimg.com/media/GlY6P0QWsAIKiTJ.jpg",
+          "id_str": "1897768336382930946",
+          "id": "1897768336382930946",
+          "media_url_https": "https://pbs.twimg.com/media/GlY6P0QWsAIKiTJ.jpg",
+          "sizes": {
+            "large": {
+              "w": "1020",
+              "h": "902",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1020",
+              "h": "902",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "601",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vqPuQfbyht"
+        }
+      ]
+    }
+  }
+}

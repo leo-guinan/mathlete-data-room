@@ -1,0 +1,137 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803822083912142997"
+        ],
+        "editableUntil": "2024-06-20T17:07:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Zdbym5lL8b",
+          "expanded_url": "https://x.com/tinyrevver/status/1803820744754737368",
+          "display_url": "x.com/tinyrevver/sta…",
+          "indices": [
+            "170",
+            "193"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803822083912142997/photo/1",
+          "indices": [
+            "194",
+            "217"
+          ],
+          "url": "https://t.co/vSD7HDl9bv",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQh2n2lXQAAgxCz.jpg",
+          "id_str": "1803822077801086976",
+          "id": "1803822077801086976",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQh2n2lXQAAgxCz.jpg",
+          "sizes": {
+            "large": {
+              "w": "392",
+              "h": "480",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "392",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "392",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vSD7HDl9bv"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "1",
+    "id_str": "1803822083912142997",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803822083912142997",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 20 16:07:52 +0000 2024",
+    "favorited": false,
+    "full_text": "Inconsistency over a long enough time scale looks extremely consistent.\n\n6 years of anything is impressive! Join me in singing \"Happy Birthday\" to Tiny Revolutions!\n\n🥳🥳🥳 https://t.co/Zdbym5lL8b https://t.co/vSD7HDl9bv",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803822083912142997/photo/1",
+          "indices": [
+            "194",
+            "217"
+          ],
+          "url": "https://t.co/vSD7HDl9bv",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQh2n2lXQAAgxCz.jpg",
+          "id_str": "1803822077801086976",
+          "video_info": {
+            "aspect_ratio": [
+              "49",
+              "60"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GQh2n2lXQAAgxCz.mp4"
+              }
+            ]
+          },
+          "id": "1803822077801086976",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQh2n2lXQAAgxCz.jpg",
+          "sizes": {
+            "large": {
+              "w": "392",
+              "h": "480",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "392",
+              "h": "480",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "392",
+              "h": "480",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/vSD7HDl9bv"
+        }
+      ]
+    }
+  }
+}

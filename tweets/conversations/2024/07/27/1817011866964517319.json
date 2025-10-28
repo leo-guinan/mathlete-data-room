@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1817011866964517319"
+        ],
+        "editableUntil": "2024-07-27T02:39:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1817011578404843730",
+    "id_str": "1817011866964517319",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1817011866964517319",
+    "in_reply_to_status_id": "1817011578404843730",
+    "created_at": "Sat Jul 27 01:39:22 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli There's a lot of talk about \"magic\" and \"secrets\" in marketing, which you captured well.\n\nThat does make it feel like there's a magic that can't be learned; you have it or you don't. \n\nBut it is 100% a learnable skill, and you've spent the time learning it so we don't have to.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

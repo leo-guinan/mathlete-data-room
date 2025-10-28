@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1417974802644672515"
+        ],
+        "editableUntil": "2021-07-21T23:28:32.305Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Samuel Thompson 🥽",
+          "screen_name": "ImSamThompson",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "2737939991",
+          "id": "2737939991"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vDt9h7uyTD",
+          "expanded_url": "https://x.com/fernandoparnes?s=09",
+          "display_url": "x.com/fernandoparnes…",
+          "indices": [
+            "15",
+            "38"
+          ]
+        },
+        {
+          "url": "https://t.co/nN310BWFVO",
+          "expanded_url": "https://x.com/StroutMotivateU?s=09",
+          "display_url": "x.com/StroutMotivate…",
+          "indices": [
+            "43",
+            "66"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1417848631718301700",
+    "id_str": "1417974802644672515",
+    "in_reply_to_user_id": "2737939991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1417974802644672515",
+    "in_reply_to_status_id": "1417848631718301700",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 21 22:28:32 +0000 2021",
+    "favorited": false,
+    "full_text": "@ImSamThompson https://t.co/vDt9h7uyTD\nAnd\nhttps://t.co/nN310BWFVO",
+    "lang": "und",
+    "in_reply_to_screen_name": "ImSamThompson",
+    "in_reply_to_user_id_str": "2737939991"
+  }
+}

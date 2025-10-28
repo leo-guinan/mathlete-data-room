@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1657194840755511296"
+        ],
+        "editableUntil": "2023-05-13T01:53:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "56",
+            "72"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "74",
+            "85"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "91",
+            "105"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "107",
+            "117"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        },
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "140",
+            "156"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1657194840755511296/photo/1",
+          "indices": [
+            "232",
+            "255"
+          ],
+          "url": "https://t.co/Et3G3OtuG6",
+          "media_url": "http://pbs.twimg.com/media/Fv-JnezX0AAo8hk.jpg",
+          "id_str": "1657194499272069120",
+          "id": "1657194499272069120",
+          "media_url_https": "https://pbs.twimg.com/media/Fv-JnezX0AAo8hk.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1395",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "817",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "463",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Et3G3OtuG6"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "18",
+            "35"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "255"
+    ],
+    "favorite_count": "6",
+    "id_str": "1657194840755511296",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1657194840755511296",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 13 01:23:33 +0000 2023",
+    "favorited": false,
+    "full_text": "Late, but a great #ADHDWithBenefits tonight!\n\nFeaturing @BlushingCrafter, @LobowSpark, Up, @tshubillabong, @bethicalj, and @DorseyMc!\n\nAlso @BlushingCrafter, you should totally share the awesome desk you built! That was incredible. https://t.co/Et3G3OtuG6",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1657194840755511296/photo/1",
+          "indices": [
+            "232",
+            "255"
+          ],
+          "url": "https://t.co/Et3G3OtuG6",
+          "media_url": "http://pbs.twimg.com/media/Fv-JnezX0AAo8hk.jpg",
+          "id_str": "1657194499272069120",
+          "id": "1657194499272069120",
+          "media_url_https": "https://pbs.twimg.com/media/Fv-JnezX0AAo8hk.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1395",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "817",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "463",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Et3G3OtuG6"
+        }
+      ]
+    }
+  }
+}

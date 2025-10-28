@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499827789062721538"
+        ],
+        "editableUntil": "2022-03-04T20:23:05.022Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Chad Underwood",
+          "screen_name": "chadunderwood",
+          "indices": [
+            "71",
+            "85"
+          ],
+          "id_str": "776409571",
+          "id": "776409571"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xUoZfMiBvU",
+          "expanded_url": "https://eli5tech.substack.com/p/explaining-bulletin-board-systems?r=evblp&s=r&utm_campaign=post&utm_medium=email",
+          "display_url": "eli5tech.substack.com/p/explaining-b…",
+          "indices": [
+            "86",
+            "109"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "0",
+    "id_str": "1499827789062721538",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499827789062721538",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 04 19:23:05 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Takes me back...\n\nThe origins of the Internet: BBS, by @chadunderwood https://t.co/xUoZfMiBvU",
+    "lang": "en"
+  }
+}

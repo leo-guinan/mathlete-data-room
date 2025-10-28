@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516886285008490498"
+        ],
+        "editableUntil": "2022-04-20T21:37:27.387Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TikTok",
+          "indices": [
+            "90",
+            "97"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "69",
+            "80"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6FBN7thBIc",
+          "expanded_url": "https://vm.tiktok.com/ZTdXyQUty/",
+          "display_url": "vm.tiktok.com/ZTdXyQUty/",
+          "indices": [
+            "98",
+            "121"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "0",
+    "id_str": "1516886285008490498",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1516886285008490498",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 20 21:07:27 +0000 2022",
+    "favorited": false,
+    "full_text": "What if cops were able to take Venmo on traffic stops? 🤔 \n\nCheck out @LobowSPARK's video! #TikTok https://t.co/6FBN7thBIc",
+    "lang": "en"
+  }
+}

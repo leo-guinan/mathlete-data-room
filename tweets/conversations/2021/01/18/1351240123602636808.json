@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1351240123602636808"
+        ],
+        "editableUntil": "2021-01-18T19:48:44.951Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Sriram Ramakrishnan",
+          "screen_name": "Sreezy3000",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "878780868352851968",
+          "id": "878780868352851968"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/Sreezy3000/status/1351235354653810693/photo/1",
+          "source_status_id": "1351235354653810693",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/8DtdhjaloG",
+          "media_url": "http://pbs.twimg.com/media/EsCNC5pXYAYNnLj.png",
+          "id_str": "1351234969184722950",
+          "source_user_id": "878780868352851968",
+          "id": "1351234969184722950",
+          "media_url_https": "https://pbs.twimg.com/media/EsCNC5pXYAYNnLj.png",
+          "source_user_id_str": "878780868352851968",
+          "sizes": {
+            "small": {
+              "w": "627",
+              "h": "353",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "627",
+              "h": "353",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "627",
+              "h": "353",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1351235354653810693",
+          "display_url": "pic.x.com/8DtdhjaloG"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "0",
+    "id_str": "1351240123602636808",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1351240123602636808",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 18 18:48:44 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Sreezy3000: This is a glaring problem. https://t.co/8DtdhjaloG",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/Sreezy3000/status/1351235354653810693/photo/1",
+          "source_status_id": "1351235354653810693",
+          "indices": [
+            "43",
+            "66"
+          ],
+          "url": "https://t.co/8DtdhjaloG",
+          "media_url": "http://pbs.twimg.com/media/EsCNC5pXYAYNnLj.png",
+          "id_str": "1351234969184722950",
+          "source_user_id": "878780868352851968",
+          "id": "1351234969184722950",
+          "media_url_https": "https://pbs.twimg.com/media/EsCNC5pXYAYNnLj.png",
+          "source_user_id_str": "878780868352851968",
+          "sizes": {
+            "small": {
+              "w": "627",
+              "h": "353",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "627",
+              "h": "353",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "627",
+              "h": "353",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1351235354653810693",
+          "display_url": "pic.x.com/8DtdhjaloG"
+        }
+      ]
+    }
+  }
+}

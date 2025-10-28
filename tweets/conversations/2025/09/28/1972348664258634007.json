@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1972348664258634007"
+        ],
+        "editableUntil": "2025-09-28T18:12:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972348664258634007/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/DZqU9M7RSF",
+          "media_url": "http://pbs.twimg.com/media/G18vi7UW0AAhCk4.jpg",
+          "id_str": "1972347438896697344",
+          "id": "1972347438896697344",
+          "media_url_https": "https://pbs.twimg.com/media/G18vi7UW0AAhCk4.jpg",
+          "sizes": {
+            "large": {
+              "w": "1238",
+              "h": "382",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "210",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "370",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DZqU9M7RSF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1972348661305917890",
+    "id_str": "1972348664258634007",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1972348664258634007",
+    "in_reply_to_status_id": "1972348661305917890",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 28 17:12:20 +0000 2025",
+    "favorited": false,
+    "full_text": "Maybe I simply hit the breakeven zone because it's accurately priced. https://t.co/DZqU9M7RSF",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972348664258634007/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/DZqU9M7RSF",
+          "media_url": "http://pbs.twimg.com/media/G18vi7UW0AAhCk4.jpg",
+          "id_str": "1972347438896697344",
+          "id": "1972347438896697344",
+          "media_url_https": "https://pbs.twimg.com/media/G18vi7UW0AAhCk4.jpg",
+          "sizes": {
+            "large": {
+              "w": "1238",
+              "h": "382",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "210",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "370",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DZqU9M7RSF"
+        }
+      ]
+    }
+  }
+}

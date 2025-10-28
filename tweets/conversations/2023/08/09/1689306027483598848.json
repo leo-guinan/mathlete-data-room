@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1689306027483598848"
+        ],
+        "editableUntil": "2023-08-09T17:01:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "63",
+            "73"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ByVgNDglk9",
+          "expanded_url": "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2J1aWxkLWluLXB1YmxpYy1wb2RjYXN0/episode/MTMzMmMwNTQtZDMyNS00ZWFmLTgwZWQtMWQxZGE2NDI5MGE3?ep=14",
+          "display_url": "podcasts.google.com/feed/aHR0cHM6L…",
+          "indices": [
+            "76",
+            "99"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1689203541217308673",
+    "id_str": "1689306027483598848",
+    "in_reply_to_user_id": "898433366441181184",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1689306027483598848",
+    "in_reply_to_status_id": "1689203541217308673",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 09 16:01:57 +0000 2023",
+    "favorited": false,
+    "full_text": "@hello_matthias Really enjoyed the latest podcast episode from @thisiskp_!\n\nhttps://t.co/ByVgNDglk9",
+    "lang": "en",
+    "in_reply_to_user_id_str": "898433366441181184"
+  }
+}

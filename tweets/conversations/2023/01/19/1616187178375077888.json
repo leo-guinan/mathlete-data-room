@@ -1,0 +1,87 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1616187178375077888"
+        ],
+        "editableUntil": "2023-01-19T22:03:45.287Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Wadim Grasza",
+          "screen_name": "wadimgrasza",
+          "indices": [
+            "15",
+            "27"
+          ],
+          "id_str": "30511626",
+          "id": "30511626"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "28",
+            "39"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "40",
+            "49"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rZIG466fqv",
+          "expanded_url": "https://x.com/p_millerd/status/1615759686074269697",
+          "display_url": "x.com/p_millerd/stat…",
+          "indices": [
+            "50",
+            "73"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "73"
+    ],
+    "favorite_count": "0",
+    "id_str": "1616187178375077888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1616187178375077888",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 19 21:33:45 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @p_millerd: @wadimgrasza @leo_guinan @visakanv https://t.co/rZIG466fqv",
+    "lang": "qme"
+  }
+}

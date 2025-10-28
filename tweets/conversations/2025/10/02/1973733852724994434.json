@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973733852724994434"
+        ],
+        "editableUntil": "2025-10-02T13:56:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973733852724994434/photo/1",
+          "indices": [
+            "285",
+            "308"
+          ],
+          "url": "https://t.co/gAbK5Oee3N",
+          "media_url": "http://pbs.twimg.com/media/G2QcSKeXAAA7dv9.jpg",
+          "id_str": "1973733635070033920",
+          "id": "1973733635070033920",
+          "media_url_https": "https://pbs.twimg.com/media/G2QcSKeXAAA7dv9.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "828",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1458",
+              "h": "1006",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "469",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gAbK5Oee3N"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "308"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1973655317872287999",
+    "id_str": "1973733852724994434",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973733852724994434",
+    "in_reply_to_status_id": "1973655317872287999",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 02 12:56:35 +0000 2025",
+    "favorited": false,
+    "full_text": "@finereli From what I've found, true enlightenment is the realization that it's the same as no enlightenment because no matter how much you know, you basically know nothing.\n\nThe more you learn, the less you know.\n\nEvery door I open shows me a completely new world to explore, and an… https://t.co/gAbK5Oee3N",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973733852724994434/photo/1",
+          "indices": [
+            "285",
+            "308"
+          ],
+          "url": "https://t.co/gAbK5Oee3N",
+          "media_url": "http://pbs.twimg.com/media/G2QcSKeXAAA7dv9.jpg",
+          "id_str": "1973733635070033920",
+          "id": "1973733635070033920",
+          "media_url_https": "https://pbs.twimg.com/media/G2QcSKeXAAA7dv9.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "828",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1458",
+              "h": "1006",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "469",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gAbK5Oee3N"
+        }
+      ]
+    }
+  }
+}

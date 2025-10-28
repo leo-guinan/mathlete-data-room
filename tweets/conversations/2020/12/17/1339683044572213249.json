@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339683044572213249"
+        ],
+        "editableUntil": "2020-12-17T22:25:02.590Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "BlueJay",
+          "screen_name": "I_amBlueJay",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1258660774089801728",
+          "id": "1258660774089801728"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/I_amBlueJay/status/1339582390713294850/photo/1",
+          "source_status_id": "1339582390713294850",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/Y1DJSduNTW",
+          "media_url": "http://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+          "id_str": "1339582387269857280",
+          "source_user_id": "1258660774089801728",
+          "id": "1339582387269857280",
+          "media_url_https": "https://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+          "source_user_id_str": "1258660774089801728",
+          "sizes": {
+            "large": {
+              "w": "585",
+              "h": "392",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "585",
+              "h": "392",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "585",
+              "h": "392",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1339582390713294850",
+          "display_url": "pic.x.com/Y1DJSduNTW"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "0",
+    "id_str": "1339683044572213249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339683044572213249",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 17 21:25:02 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @I_amBlueJay: Behold the fuckers!! https://t.co/Y1DJSduNTW",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/I_amBlueJay/status/1339582390713294850/photo/1",
+          "source_status_id": "1339582390713294850",
+          "indices": [
+            "38",
+            "61"
+          ],
+          "url": "https://t.co/Y1DJSduNTW",
+          "media_url": "http://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+          "id_str": "1339582387269857280",
+          "source_user_id": "1258660774089801728",
+          "id": "1339582387269857280",
+          "media_url_https": "https://pbs.twimg.com/media/EpcnFXSW8AAYuuy.jpg",
+          "source_user_id_str": "1258660774089801728",
+          "sizes": {
+            "large": {
+              "w": "585",
+              "h": "392",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "585",
+              "h": "392",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "585",
+              "h": "392",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1339582390713294850",
+          "display_url": "pic.x.com/Y1DJSduNTW"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491429491360473094"
+        ],
+        "editableUntil": "2022-02-09T16:11:14.817Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Goutham Jay ⚡",
+          "screen_name": "gouthamjay8",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "815894131452956672",
+          "id": "815894131452956672"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "196"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1491414037334487043",
+    "id_str": "1491429491360473094",
+    "in_reply_to_user_id": "815894131452956672",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1491429491360473094",
+    "in_reply_to_status_id": "1491414037334487043",
+    "created_at": "Wed Feb 09 15:11:14 +0000 2022",
+    "favorited": false,
+    "full_text": "@gouthamjay8 It's an attitude I've worked hard to cultivate.\n\nEvery failure teaches me a ton. And usually long after I failed. Because I can see what I did last time and make adjustments the next.",
+    "lang": "en",
+    "in_reply_to_screen_name": "gouthamjay8",
+    "in_reply_to_user_id_str": "815894131452956672"
+  }
+}

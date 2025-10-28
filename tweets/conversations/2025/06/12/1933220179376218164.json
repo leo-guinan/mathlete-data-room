@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1933220179376218164"
+        ],
+        "editableUntil": "2025-06-12T18:49:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "OMKAR  KADAM",
+          "screen_name": "omkarokkadam",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1351221828",
+          "id": "1351221828"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "220"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1933219921715990585",
+    "id_str": "1933220179376218164",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1933220179376218164",
+    "in_reply_to_status_id": "1933219921715990585",
+    "created_at": "Thu Jun 12 17:49:42 +0000 2025",
+    "favorited": false,
+    "full_text": "@omkarokkadam But I also think you are right, but with a specific addition: you need to be creating content that reduces entropy. You want to help people behind you understand, not pollute the knowledge pond with litter.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

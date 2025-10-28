@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1603772397668163586"
+        ],
+        "editableUntil": "2022-12-16T15:51:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "22",
+            "34"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1603772397668163586/photo/1",
+          "indices": [
+            "73",
+            "96"
+          ],
+          "url": "https://t.co/eu4Q5iVndX",
+          "media_url": "http://pbs.twimg.com/media/FkG-c7kWQAISOg6.jpg",
+          "id_str": "1603772346556366850",
+          "id": "1603772346556366850",
+          "media_url_https": "https://pbs.twimg.com/media/FkG-c7kWQAISOg6.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "424",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "749",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1278",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eu4Q5iVndX"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ShipAndWin",
+          "indices": [
+            "61",
+            "72"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "0",
+    "id_str": "1603772397668163586",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1603772397668163586",
+    "possibly_sensitive": false,
+    "created_at": "Fri Dec 16 15:21:50 +0000 2022",
+    "favorited": false,
+    "full_text": "Biggest takeaway from @_buildspace N&amp;W kickoff session.\n\n#ShipAndWin https://t.co/eu4Q5iVndX",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1603772397668163586/photo/1",
+          "indices": [
+            "73",
+            "96"
+          ],
+          "url": "https://t.co/eu4Q5iVndX",
+          "media_url": "http://pbs.twimg.com/media/FkG-c7kWQAISOg6.jpg",
+          "id_str": "1603772346556366850",
+          "id": "1603772346556366850",
+          "media_url_https": "https://pbs.twimg.com/media/FkG-c7kWQAISOg6.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "424",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "749",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1278",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/eu4Q5iVndX"
+        }
+      ]
+    }
+  }
+}

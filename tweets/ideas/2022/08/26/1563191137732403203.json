@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563191137732403203"
+        ],
+        "editableUntil": "2022-08-26T16:16:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/XM8djKzL6z",
+          "expanded_url": "https://x.com/visakanv/status/1563190583761350659",
+          "display_url": "x.com/visakanv/statu…",
+          "indices": [
+            "92",
+            "115"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "2",
+    "id_str": "1563191137732403203",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563191137732403203",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 26 15:46:24 +0000 2022",
+    "favorited": false,
+    "full_text": "This is 100% me.\n\nIf I'm gonna do it, I gotta do it now.\n\nBias for action out of necessity. https://t.co/XM8djKzL6z",
+    "lang": "en"
+  }
+}

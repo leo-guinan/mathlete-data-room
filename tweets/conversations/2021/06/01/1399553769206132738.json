@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1399553769206132738"
+        ],
+        "editableUntil": "2021-06-01T03:29:55.687Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jen",
+          "screen_name": "BackseatVC",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "944267408235098112",
+          "id": "944267408235098112"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1399552628783190017",
+    "id_str": "1399553769206132738",
+    "in_reply_to_user_id": "944267408235098112",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1399553769206132738",
+    "in_reply_to_status_id": "1399552628783190017",
+    "created_at": "Tue Jun 01 02:29:55 +0000 2021",
+    "favorited": false,
+    "full_text": "@BackseatVC I don't think that ads do a great job of connecting with people. Top conversion rates are still pretty bad. This leads to oversaturation and an audience that is guarded. But what if we could focus content (and ads) at a much better rate? Benefits would be huge.",
+    "lang": "en",
+    "in_reply_to_screen_name": "BackseatVC",
+    "in_reply_to_user_id_str": "944267408235098112"
+  }
+}

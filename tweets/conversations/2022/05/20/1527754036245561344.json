@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527754036245561344"
+        ],
+        "editableUntil": "2022-05-20T21:22:01.195Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "0",
+    "id_str": "1527754036245561344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527754036245561344",
+    "created_at": "Fri May 20 20:52:01 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: About to record the first episode of season 8…this is a group episode on the topic of “ADHD &amp; Finances”….",
+    "lang": "en"
+  }
+}

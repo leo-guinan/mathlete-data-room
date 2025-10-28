@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1894019072758624552"
+        ],
+        "editableUntil": "2025-02-24T14:38:30.775Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael P Gibson",
+          "screen_name": "William_Blake",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "14379530",
+          "id": "14379530"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "29"
+    ],
+    "favorite_count": "0",
+    "id_str": "1894019072758624552",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1894019072758624552",
+    "created_at": "Mon Feb 24 13:38:30 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @William_Blake: Get it kid",
+    "lang": "en"
+  }
+}

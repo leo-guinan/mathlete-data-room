@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1773062556241809784"
+        ],
+        "editableUntil": "2024-03-27T20:00:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Bateman",
+          "screen_name": "mbateman",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3467611",
+          "id": "3467611"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "236"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1773022442987852266",
+    "id_str": "1773062556241809784",
+    "in_reply_to_user_id": "3467611",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1773062556241809784",
+    "in_reply_to_status_id": "1773022442987852266",
+    "created_at": "Wed Mar 27 19:00:29 +0000 2024",
+    "favorited": false,
+    "full_text": "@mbateman Personally, I'm showing them by example what the internet can be used for: connection, friendship, business, creation, knowledge\n\nAnd then I push them to explore bits and pieces as they take in the normal internet experiences.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mbateman",
+    "in_reply_to_user_id_str": "3467611"
+  }
+}

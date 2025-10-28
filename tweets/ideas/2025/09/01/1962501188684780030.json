@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1962501188684780030"
+        ],
+        "editableUntil": "2025-09-01T14:01:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "3",
+    "id_str": "1962501188684780030",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1962501188684780030",
+    "created_at": "Mon Sep 01 13:01:59 +0000 2025",
+    "favorited": false,
+    "full_text": "Currently fine-tuning multiple openai models. I want to compare how well fine-tunes behave depending on the base model.\n\nFirst model I trained yesterday? Based on GPT-3.5\n\nToday: working on ones based on gpt-4o-mini and gpt-4.1-nano",
+    "lang": "en"
+  }
+}

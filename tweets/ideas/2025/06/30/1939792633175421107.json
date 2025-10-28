@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939792633175421107"
+        ],
+        "editableUntil": "2025-06-30T22:06:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939792633175421107/photo/1",
+          "indices": [
+            "189",
+            "212"
+          ],
+          "url": "https://t.co/H55DRHchWY",
+          "media_url": "http://pbs.twimg.com/media/GuuG1i-XwAAoJ4o.jpg",
+          "id_str": "1939792318992728064",
+          "id": "1939792318992728064",
+          "media_url_https": "https://pbs.twimg.com/media/GuuG1i-XwAAoJ4o.jpg",
+          "sizes": {
+            "large": {
+              "w": "1380",
+              "h": "1022",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "504",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "889",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/H55DRHchWY"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "2",
+    "id_str": "1939792633175421107",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939792633175421107",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 30 21:06:18 +0000 2025",
+    "favorited": false,
+    "full_text": "I totally didn't almost miss the deadline because trying to submit at the last second is apparently a thing lots of people do and the site started to go down... hope the last edits took. 😂 https://t.co/H55DRHchWY",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939792633175421107/photo/1",
+          "indices": [
+            "189",
+            "212"
+          ],
+          "url": "https://t.co/H55DRHchWY",
+          "media_url": "http://pbs.twimg.com/media/GuuG1i-XwAAoJ4o.jpg",
+          "id_str": "1939792318992728064",
+          "id": "1939792318992728064",
+          "media_url_https": "https://pbs.twimg.com/media/GuuG1i-XwAAoJ4o.jpg",
+          "sizes": {
+            "large": {
+              "w": "1380",
+              "h": "1022",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "504",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "889",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/H55DRHchWY"
+        }
+      ]
+    }
+  }
+}

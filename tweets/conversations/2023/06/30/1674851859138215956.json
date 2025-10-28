@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1674851859138215956"
+        ],
+        "editableUntil": "2023-06-30T19:46:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xPUTj7JAwo",
+          "expanded_url": "https://app.copy.ai/workflows/PKGW-99b61686-0568-43c9-81bd-97b918548422/form",
+          "display_url": "app.copy.ai/workflows/PKGW…",
+          "indices": [
+            "18",
+            "41"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1674851405239025689",
+    "id_str": "1674851859138215956",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1674851859138215956",
+    "in_reply_to_status_id": "1674851405239025689",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 30 18:46:15 +0000 2023",
+    "favorited": false,
+    "full_text": "Try it out here:\n\nhttps://t.co/xPUTj7JAwo",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1628474094155857921"
+        ],
+        "editableUntil": "2023-02-22T19:47:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kevon Cheung 🥦",
+          "screen_name": "MeetKevon",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "51882249",
+          "id": "51882249"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1628382168992063490",
+    "id_str": "1628474094155857921",
+    "in_reply_to_user_id": "51882249",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1628474094155857921",
+    "in_reply_to_status_id": "1628382168992063490",
+    "created_at": "Wed Feb 22 19:17:34 +0000 2023",
+    "favorited": false,
+    "full_text": "@MeetKevon So cute!!! Congrats on the new addition!!! 👶",
+    "lang": "en",
+    "in_reply_to_screen_name": "MeetKevon",
+    "in_reply_to_user_id_str": "51882249"
+  }
+}

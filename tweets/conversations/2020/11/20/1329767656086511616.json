@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1329767656086511616"
+        ],
+        "editableUntil": "2020-11-20T13:44:49.756Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ashish K. Jha",
+          "screen_name": "ashishkjha",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "39416218",
+          "id": "39416218"
+        },
+        {
+          "name": "Senate Homeland Committee",
+          "screen_name": "SenateHomeland",
+          "indices": [
+            "67",
+            "82"
+          ],
+          "id_str": "1319124318891266049",
+          "id": "1319124318891266049"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1329767656086511616",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1329767656086511616",
+    "created_at": "Fri Nov 20 12:44:49 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @ashishkjha: Today was a very, very odd day\n\nI testified before @senatehomeland\n\nThey held a hearing on hydroxychloroquine.\n\nYup, HCQ\n\nI…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420716189249060871"
+        ],
+        "editableUntil": "2021-07-29T13:01:49.804Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Good and Prosper Ltd.",
+          "screen_name": "goodandprosper",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1253711203051986948",
+          "id": "1253711203051986948"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1420712646433722370",
+    "id_str": "1420716189249060871",
+    "in_reply_to_user_id": "1253711203051986948",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420716189249060871",
+    "in_reply_to_status_id": "1420712646433722370",
+    "created_at": "Thu Jul 29 12:01:49 +0000 2021",
+    "favorited": false,
+    "full_text": "@goodandprosper It wasn't there.\n\nBut I feel like it might have been implied.\n\nAmazingly powerful statement either way. 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "goodandprosper",
+    "in_reply_to_user_id_str": "1253711203051986948"
+  }
+}

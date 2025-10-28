@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1782822717995049249"
+        ],
+        "editableUntil": "2024-04-23T18:23:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sam",
+          "screen_name": "sbworld",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "24454458",
+          "id": "24454458"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1782822513652682787",
+    "id_str": "1782822717995049249",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1782822717995049249",
+    "in_reply_to_status_id": "1782822513652682787",
+    "created_at": "Tue Apr 23 17:23:53 +0000 2024",
+    "favorited": false,
+    "full_text": "@sbworld We typically associate money with that, because we get more people in that are focused on a problem, and we get more information in that way. \n\nThe part that's misunderstood is the amount of data being transmitted between people. we are actually horribly inefficient there.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

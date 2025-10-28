@@ -1,0 +1,69 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1500974146808954889"
+        ],
+        "editableUntil": "2022-03-08T00:18:18.007Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Goals",
+          "indices": [
+            "215",
+            "221"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sahil Bloom",
+          "screen_name": "SahilBloom",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "312681953",
+          "id": "312681953"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "20",
+            "33"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "257"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1500897825147834370",
+    "id_str": "1500974146808954889",
+    "in_reply_to_user_id": "312681953",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1500974146808954889",
+    "in_reply_to_status_id": "1500897825147834370",
+    "created_at": "Mon Mar 07 23:18:18 +0000 2022",
+    "favorited": false,
+    "full_text": "@SahilBloom @_trwih @gregisenberg Absolutely! You've had quite a collection of guests so far. I love that you're bringing a range of people in to chat with.\n\nAnd I hope to be featured in an episode at some point. 😎 #Goals\n\nThat's when I'll know I made it. 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "SahilBloom",
+    "in_reply_to_user_id_str": "312681953"
+  }
+}

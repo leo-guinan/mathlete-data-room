@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1532476444407914505"
+        ],
+        "editableUntil": "2022-06-02T22:07:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mohamad Bo Hamad",
+          "screen_name": "mohjb",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "586367880",
+          "id": "586367880"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "257"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1532033165853859842",
+    "id_str": "1532476444407914505",
+    "in_reply_to_user_id": "586367880",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1532476444407914505",
+    "in_reply_to_status_id": "1532033165853859842",
+    "created_at": "Thu Jun 02 21:37:11 +0000 2022",
+    "favorited": false,
+    "full_text": "@mohjb Interesting... I'd agree that years of experience are a really bad metric to use. Networking is mostly done badly. And form is definitely needed alongside functionality, although I haven't figured out the exact relative values. Things to think about!",
+    "lang": "en",
+    "in_reply_to_screen_name": "mohjb",
+    "in_reply_to_user_id_str": "586367880"
+  }
+}

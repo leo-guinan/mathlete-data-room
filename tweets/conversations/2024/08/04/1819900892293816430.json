@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1819900892293816430"
+        ],
+        "editableUntil": "2024-08-04T01:59:19.503Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1819900892293816430",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1819900892293816430",
+    "created_at": "Sun Aug 04 00:59:19 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @finereli: When you're starting out with your app or SaaS, you typically don't know what you're selling, who you're selling to, and what…",
+    "lang": "en"
+  }
+}

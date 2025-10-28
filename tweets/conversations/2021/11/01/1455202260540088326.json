@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1455202260540088326"
+        ],
+        "editableUntil": "2021-11-01T16:57:09.920Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DidBMSegYT",
+          "expanded_url": "https://x.com/leo_guinan/status/1452418078306881536",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "199",
+            "222"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "222"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1455202254097629186",
+    "id_str": "1455202260540088326",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1455202260540088326",
+    "in_reply_to_status_id": "1455202254097629186",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 01 15:57:09 +0000 2021",
+    "favorited": false,
+    "full_text": "In the early hours of the day, I've spent a little bit of time working on the next feature set for @feathercrm .\n\nI put out a tweet that got a good bit of attention, for one of my tweets, anyway :)\n\nhttps://t.co/DidBMSegYT",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

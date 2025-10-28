@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1329201122058309636"
+        ],
+        "editableUntil": "2020-11-19T00:13:37.518Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tobi lutke",
+          "screen_name": "tobi",
+          "indices": [
+            "3",
+            "8"
+          ],
+          "id_str": "676573",
+          "id": "676573"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1329201122058309636",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1329201122058309636",
+    "created_at": "Wed Nov 18 23:13:37 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @tobi: Hey Video game industry - we need to talk. I know it's hard to break with orthodoxy but you are playing a new role now in the wor…",
+    "lang": "en"
+  }
+}

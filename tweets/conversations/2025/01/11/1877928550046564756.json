@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1877928550046564756"
+        ],
+        "editableUntil": "2025-01-11T05:00:31.213Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fake Urban Meyer (parody)",
+          "screen_name": "FakeUrban",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "983774510",
+          "id": "983774510"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "id_str": "1877928550046564756",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1877928550046564756",
+    "created_at": "Sat Jan 11 04:00:31 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @FakeUrban: Retweet if you’re happy.",
+    "lang": "en"
+  }
+}

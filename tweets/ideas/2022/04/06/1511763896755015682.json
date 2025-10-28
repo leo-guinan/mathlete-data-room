@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1511763896755015682"
+        ],
+        "editableUntil": "2022-04-06T18:52:54.858Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lkQRaKo4d4",
+          "expanded_url": "https://www.howtoscaleyourself.com/evaluating-a-network-internal-vs-external/",
+          "display_url": "howtoscaleyourself.com/evaluating-a-n…",
+          "indices": [
+            "15",
+            "38"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "1",
+    "id_str": "1511763896755015682",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1511763896755015682",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 06 17:52:54 +0000 2022",
+    "favorited": false,
+    "full_text": "New Blog Post: https://t.co/lkQRaKo4d4",
+    "lang": "en"
+  }
+}

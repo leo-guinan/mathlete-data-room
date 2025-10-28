@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1481706397666586625"
+        ],
+        "editableUntil": "2022-01-13T20:15:08.634Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benedict Evans",
+          "screen_name": "benedictevans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1236101",
+          "id": "1236101"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1481661610926219264",
+    "id_str": "1481706397666586625",
+    "in_reply_to_user_id": "1236101",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1481706397666586625",
+    "in_reply_to_status_id": "1481661610926219264",
+    "created_at": "Thu Jan 13 19:15:08 +0000 2022",
+    "favorited": false,
+    "full_text": "@benedictevans I've got a lot of thoughts on this because I've studied it pretty extensively.\n\nBut for me, it all boils down to one thing: I should be able to have multiple algorithms able to discover my content.\n\nIf I have control over the data, I can control what algorithms can discover it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "benedictevans",
+    "in_reply_to_user_id_str": "1236101"
+  }
+}

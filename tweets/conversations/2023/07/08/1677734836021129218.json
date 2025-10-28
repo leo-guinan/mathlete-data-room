@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1677734836021129218"
+        ],
+        "editableUntil": "2023-07-08T18:42:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Andreuzza",
+          "screen_name": "Mike_Andreuzza",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "953420111305760769",
+          "id": "953420111305760769"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "214"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1677732826748186624",
+    "id_str": "1677734836021129218",
+    "in_reply_to_user_id": "953420111305760769",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1677734836021129218",
+    "in_reply_to_status_id": "1677732826748186624",
+    "created_at": "Sat Jul 08 17:42:10 +0000 2023",
+    "favorited": false,
+    "full_text": "@Mike_Andreuzza Oh, that looks great!\n\nI'm always amazed by people building themes. I always have a hard enough time making things look decent when using a theme.\n\nComing up with one looks a bit like sorcery to me😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "Mike_Andreuzza",
+    "in_reply_to_user_id_str": "953420111305760769"
+  }
+}

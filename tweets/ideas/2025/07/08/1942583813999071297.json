@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942583813999071297"
+        ],
+        "editableUntil": "2025-07-08T14:57:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/6HGMuNjXCE",
+          "expanded_url": "https://x.com/p_millerd/status/1942575186315993270",
+          "display_url": "x.com/p_millerd/stat…",
+          "indices": [
+            "175",
+            "198"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942583813999071297/photo/1",
+          "indices": [
+            "199",
+            "222"
+          ],
+          "url": "https://t.co/j91jEKAmgm",
+          "media_url": "http://pbs.twimg.com/media/GvVxrppWYAAVjzv.jpg",
+          "id_str": "1942583809007837184",
+          "id": "1942583809007837184",
+          "media_url_https": "https://pbs.twimg.com/media/GvVxrppWYAAVjzv.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1073",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1476",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "608",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/j91jEKAmgm"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "222"
+    ],
+    "favorite_count": "1",
+    "id_str": "1942583813999071297",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942583813999071297",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 08 13:57:27 +0000 2025",
+    "favorited": false,
+    "full_text": "I was insane enough to keep doing it even when it refused to work. \n\nBecause I know how it should work. \n\nExperiment is kicking up to prove a new model for anyone interested. https://t.co/6HGMuNjXCE https://t.co/j91jEKAmgm",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942583813999071297/photo/1",
+          "indices": [
+            "199",
+            "222"
+          ],
+          "url": "https://t.co/j91jEKAmgm",
+          "media_url": "http://pbs.twimg.com/media/GvVxrppWYAAVjzv.jpg",
+          "id_str": "1942583809007837184",
+          "id": "1942583809007837184",
+          "media_url_https": "https://pbs.twimg.com/media/GvVxrppWYAAVjzv.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1073",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1476",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "608",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/j91jEKAmgm"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1614791105916317696"
+        ],
+        "editableUntil": "2023-01-16T01:36:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jessie van Breugel 🟣",
+          "screen_name": "jessievbreugel",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "416546307",
+          "id": "416546307"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1614791105916317696/photo/1",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/7CMlYaBQAw",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fmjj8wXWQAADQPM.jpg",
+          "id_str": "1614791099326808064",
+          "id": "1614791099326808064",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fmjj8wXWQAADQPM.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "210",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "210",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "210",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7CMlYaBQAw"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1614729894230999047",
+    "id_str": "1614791105916317696",
+    "in_reply_to_user_id": "416546307",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1614791105916317696",
+    "in_reply_to_status_id": "1614729894230999047",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 16 01:06:15 +0000 2023",
+    "favorited": false,
+    "full_text": "@jessievbreugel https://t.co/7CMlYaBQAw",
+    "lang": "qme",
+    "in_reply_to_screen_name": "jessievbreugel",
+    "in_reply_to_user_id_str": "416546307",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1614791105916317696/photo/1",
+          "indices": [
+            "16",
+            "39"
+          ],
+          "url": "https://t.co/7CMlYaBQAw",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fmjj8wXWQAADQPM.jpg",
+          "id_str": "1614791099326808064",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "35"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Fmjj8wXWQAADQPM.mp4"
+              }
+            ]
+          },
+          "id": "1614791099326808064",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fmjj8wXWQAADQPM.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "210",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "210",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "210",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/7CMlYaBQAw"
+        }
+      ]
+    }
+  }
+}

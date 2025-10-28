@@ -1,0 +1,173 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1609001148056326144"
+        ],
+        "editableUntil": "2022-12-31T02:09:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Blushing Crafter (she/her)",
+          "screen_name": "BlushingCrafter",
+          "indices": [
+            "99",
+            "115"
+          ],
+          "id_str": "4142033243",
+          "id": "4142033243"
+        },
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "117",
+            "131"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "133",
+            "144"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "164",
+            "178"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "180",
+            "192"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1609001148056326144/photo/1",
+          "indices": [
+            "209",
+            "232"
+          ],
+          "url": "https://t.co/49hE8CeUWi",
+          "media_url": "http://pbs.twimg.com/media/FlRRvPoWIAAmG-b.jpg",
+          "id_str": "1609000838969565184",
+          "id": "1609000838969565184",
+          "media_url_https": "https://pbs.twimg.com/media/FlRRvPoWIAAmG-b.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "423",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "747",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1274",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/49hE8CeUWi"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "35",
+            "52"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "8",
+    "id_str": "1609001148056326144",
+    "truncated": false,
+    "retweet_count": "5",
+    "id": "1609001148056326144",
+    "possibly_sensitive": false,
+    "created_at": "Sat Dec 31 01:39:02 +0000 2022",
+    "favorited": false,
+    "full_text": "Ended the year on a high note with #ADHDWithBenefits!\n\nRecording dropping this weekend!\n\nFeaturing @BlushingCrafter, @MechiMansilla, @LobowSpark, @Up4thechalleng2, @tshubillabong, @UntappedKeg, and @DorseyMc! https://t.co/49hE8CeUWi",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1609001148056326144/photo/1",
+          "indices": [
+            "209",
+            "232"
+          ],
+          "url": "https://t.co/49hE8CeUWi",
+          "media_url": "http://pbs.twimg.com/media/FlRRvPoWIAAmG-b.jpg",
+          "id_str": "1609000838969565184",
+          "id": "1609000838969565184",
+          "media_url_https": "https://pbs.twimg.com/media/FlRRvPoWIAAmG-b.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "423",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "747",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1274",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/49hE8CeUWi"
+        }
+      ]
+    }
+  }
+}

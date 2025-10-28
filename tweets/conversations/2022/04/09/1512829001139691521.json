@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1512829001139691521"
+        ],
+        "editableUntil": "2022-04-09T17:25:15.532Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uXgl2fCZLZ",
+          "expanded_url": "https://www.clubhouse.com/room/PrWyw126?utm_medium=ch_room_terc&utm_campaign=gA-sNlLrkRbAB-JSfmjeAQ-140524",
+          "display_url": "clubhouse.com/room/PrWyw126?…",
+          "indices": [
+            "16",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "id_str": "1512829001139691521",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1512829001139691521",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 09 16:25:15 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: https://t.co/uXgl2fCZLZ",
+    "lang": "zxx"
+  }
+}

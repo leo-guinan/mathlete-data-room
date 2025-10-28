@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1546523496217542659"
+        ],
+        "editableUntil": "2022-07-11T16:25:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "151"
+    ],
+    "favorite_count": "1",
+    "id_str": "1546523496217542659",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1546523496217542659",
+    "created_at": "Mon Jul 11 15:55:09 +0000 2022",
+    "favorited": false,
+    "full_text": "It's amazing how far reaching changes can go when you've got to upgrade your database ORM. \n\nWorking on the typeorm upgrade and damn, it's extensive...",
+    "lang": "en"
+  }
+}

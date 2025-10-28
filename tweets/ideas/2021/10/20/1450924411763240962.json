@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1450924411763240962"
+        ],
+        "editableUntil": "2021-10-20T21:38:31.293Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "2",
+    "id_str": "1450924411763240962",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1450924411763240962",
+    "created_at": "Wed Oct 20 20:38:31 +0000 2021",
+    "favorited": false,
+    "full_text": "Next thing to explore: given a page on Notion, can I programmatically create a database and start pushing data?\n\nIf so, @feathercrm will be able to handle more of the lifting than I had planned initially. And it will make the model more robust.",
+    "lang": "en"
+  }
+}

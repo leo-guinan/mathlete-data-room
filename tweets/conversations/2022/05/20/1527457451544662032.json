@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527457451544662032"
+        ],
+        "editableUntil": "2022-05-20T01:43:29.892Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Fx8TAIFCit",
+          "expanded_url": "https://www.patreon.com/LobowSpark",
+          "display_url": "patreon.com/LobowSpark",
+          "indices": [
+            "19",
+            "42"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "42"
+    ],
+    "favorite_count": "0",
+    "id_str": "1527457451544662032",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527457451544662032",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 20 01:13:29 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @tshubillabong: https://t.co/Fx8TAIFCit",
+    "lang": "zxx"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1467964716609847308"
+        ],
+        "editableUntil": "2021-12-06T22:10:36.562Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1467959243563278345",
+    "id_str": "1467964716609847308",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1467964716609847308",
+    "in_reply_to_status_id": "1467959243563278345",
+    "created_at": "Mon Dec 06 21:10:36 +0000 2021",
+    "favorited": false,
+    "full_text": "@benjamingreeley Basically, the one main benefit of quantum computers is that they can keep track of things in multiple states at once. \n\nThink about the early days of a startup. You'd need a team of really smart people to band together around an idea and really do some incredible things.",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

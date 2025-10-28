@@ -1,0 +1,151 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1785890298205286503"
+        ],
+        "editableUntil": "2024-05-02T05:33:21.986Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ohio vs. The World",
+          "screen_name": "OhioVTW",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "1425784737361276931",
+          "id": "1425784737361276931"
+        },
+        {
+          "name": "The Crew",
+          "screen_name": "ColumbusCrew",
+          "indices": [
+            "18",
+            "31"
+          ],
+          "id_str": "16960789",
+          "id": "16960789"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/OhioVTW/status/1785889342021337191/photo/1",
+          "source_status_id": "1785889342021337191",
+          "indices": [
+            "102",
+            "125"
+          ],
+          "url": "https://t.co/sqyvPeLgN2",
+          "media_url": "http://pbs.twimg.com/media/GMjA5ChWcAASpcZ.jpg",
+          "id_str": "1785889338414231552",
+          "source_user_id": "1425784737361276931",
+          "id": "1785889338414231552",
+          "media_url_https": "https://pbs.twimg.com/media/GMjA5ChWcAASpcZ.jpg",
+          "source_user_id_str": "1425784737361276931",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1785889342021337191",
+          "display_url": "pic.x.com/sqyvPeLgN2"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Crew96",
+          "indices": [
+            "94",
+            "101"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "0",
+    "id_str": "1785890298205286503",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1785890298205286503",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 02 04:33:21 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @OhioVTW: Your @ColumbusCrew are moving on to the Champions Cup finale! Glory to Columbus! #Crew96 https://t.co/sqyvPeLgN2",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/OhioVTW/status/1785889342021337191/photo/1",
+          "source_status_id": "1785889342021337191",
+          "indices": [
+            "102",
+            "125"
+          ],
+          "url": "https://t.co/sqyvPeLgN2",
+          "media_url": "http://pbs.twimg.com/media/GMjA5ChWcAASpcZ.jpg",
+          "id_str": "1785889338414231552",
+          "source_user_id": "1425784737361276931",
+          "id": "1785889338414231552",
+          "media_url_https": "https://pbs.twimg.com/media/GMjA5ChWcAASpcZ.jpg",
+          "source_user_id_str": "1425784737361276931",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1200",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1785889342021337191",
+          "display_url": "pic.x.com/sqyvPeLgN2"
+        }
+      ]
+    }
+  }
+}

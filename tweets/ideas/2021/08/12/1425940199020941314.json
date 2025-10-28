@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425940199020941314"
+        ],
+        "editableUntil": "2021-08-12T23:00:10.791Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Rj5oBHEN4Z",
+          "expanded_url": "https://x.com/tibo_maker/status/1425816602881126407",
+          "display_url": "x.com/tibo_maker/sta…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "id_str": "1425940199020941314",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425940199020941314",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 12 22:00:10 +0000 2021",
+    "favorited": false,
+    "full_text": "Great resources for anyone building. https://t.co/Rj5oBHEN4Z",
+    "lang": "en"
+  }
+}

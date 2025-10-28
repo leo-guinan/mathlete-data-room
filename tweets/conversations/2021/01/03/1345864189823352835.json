@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345864189823352835"
+        ],
+        "editableUntil": "2021-01-03T23:46:42.458Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ohio State Football",
+          "screen_name": "OhioStateFB",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "723239605823107072",
+          "id": "723239605823107072"
+        },
+        {
+          "name": "Cleveland Browns",
+          "screen_name": "Browns",
+          "indices": [
+            "57",
+            "64"
+          ],
+          "id_str": "40358743",
+          "id": "40358743"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "97"
+    ],
+    "favorite_count": "0",
+    "id_str": "1345864189823352835",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345864189823352835",
+    "created_at": "Sun Jan 03 22:46:42 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @OhioStateFB: Buckeyes                                @Browns\n                              🤝…",
+    "lang": "en"
+  }
+}

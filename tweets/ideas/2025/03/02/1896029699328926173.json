@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1896029699328926173"
+        ],
+        "editableUntil": "2025-03-02T03:48:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1896029699328926173/video/1",
+          "indices": [
+            "147",
+            "170"
+          ],
+          "url": "https://t.co/EJwRPZs6m5",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1896029682882981888/pu/img/ttCUEuJiYZcRZdyk.jpg",
+          "id_str": "1896029682882981888",
+          "id": "1896029682882981888",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1896029682882981888/pu/img/ttCUEuJiYZcRZdyk.jpg",
+          "sizes": {
+            "medium": {
+              "w": "392",
+              "h": "852",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "392",
+              "h": "852",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EJwRPZs6m5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "170"
+    ],
+    "favorite_count": "0",
+    "id_str": "1896029699328926173",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1896029699328926173",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 02 02:48:01 +0000 2025",
+    "favorited": false,
+    "full_text": "People being dishonest with each other is a sign of a collapse. \n\nDoes make you wonder about a post-truth world that we seem to currently inhabit. https://t.co/EJwRPZs6m5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1896029699328926173/video/1",
+          "indices": [
+            "147",
+            "170"
+          ],
+          "url": "https://t.co/EJwRPZs6m5",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1896029682882981888/pu/img/ttCUEuJiYZcRZdyk.jpg",
+          "id_str": "1896029682882981888",
+          "video_info": {
+            "aspect_ratio": [
+              "98",
+              "213"
+            ],
+            "duration_millis": "39976",
+            "variants": [
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1896029682882981888/pu/vid/avc1/392x852/AWl8He-w78wrjeb2.mp4?tag=12"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1896029682882981888/pu/vid/avc1/320x694/8gvLmFL0pRLnkqqy.mp4?tag=12"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1896029682882981888/pu/pl/mlBEVB29MY3zUeXe.m3u8?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1896029682882981888",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1896029682882981888/pu/img/ttCUEuJiYZcRZdyk.jpg",
+          "sizes": {
+            "medium": {
+              "w": "392",
+              "h": "852",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "392",
+              "h": "852",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/EJwRPZs6m5"
+        }
+      ]
+    }
+  }
+}

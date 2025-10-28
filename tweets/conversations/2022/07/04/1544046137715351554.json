@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1544046137715351554"
+        ],
+        "editableUntil": "2022-07-04T20:21:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Carl Poppa 🛸",
+          "screen_name": "poppacalypse",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "77188968",
+          "id": "77188968"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zLDpOyGIWA",
+          "expanded_url": "https://buildinpublicuniversity.com",
+          "display_url": "buildinpublicuniversity.com",
+          "indices": [
+            "113",
+            "136"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1543998589734899712",
+    "id_str": "1544046137715351554",
+    "in_reply_to_user_id": "77188968",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1544046137715351554",
+    "in_reply_to_status_id": "1543998589734899712",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 04 19:51:00 +0000 2022",
+    "favorited": false,
+    "full_text": "@poppacalypse Well, might be a bit until I get to that course level, but decided to launch an entire university: https://t.co/zLDpOyGIWA\n\nI started by planning on launching a single course but then the idea kept growing...😬\n\nSo this will be the system I build to tie everything together!",
+    "lang": "en",
+    "in_reply_to_screen_name": "poppacalypse",
+    "in_reply_to_user_id_str": "77188968"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1856414617435517439"
+        ],
+        "editableUntil": "2024-11-12T20:11:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "197"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1856412225654980919",
+    "id_str": "1856414617435517439",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1856414617435517439",
+    "in_reply_to_status_id": "1856412225654980919",
+    "created_at": "Tue Nov 12 19:11:49 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic Oh, I like that.\n\nAnd I had another thought that would be cool:\n\nGhost mode. Show up as an anonymous account with any given idea.  See if an idea is what spreads or who spreads it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

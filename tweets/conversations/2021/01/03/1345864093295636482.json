@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345864093295636482"
+        ],
+        "editableUntil": "2021-01-03T23:46:19.444Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Moriah Maney",
+          "screen_name": "moriahmaney",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1774295388192710656",
+          "id": "1774295388192710656"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1345863223887720448",
+    "id_str": "1345864093295636482",
+    "in_reply_to_user_id": "928949262",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345864093295636482",
+    "in_reply_to_status_id": "1345863223887720448",
+    "created_at": "Sun Jan 03 22:46:19 +0000 2021",
+    "favorited": false,
+    "full_text": "@moriahmaney If we want people to do what they love, make other professions pay better. You shouldn't have to choose making enough money to live vs doing what you love. But for now, make that money!",
+    "lang": "en",
+    "in_reply_to_user_id_str": "928949262"
+  }
+}

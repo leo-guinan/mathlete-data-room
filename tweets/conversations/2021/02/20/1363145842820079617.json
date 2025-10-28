@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363145842820079617"
+        ],
+        "editableUntil": "2021-02-20T16:17:49.610Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "alliejanoch",
+          "screen_name": "alliejanoch",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1120572906",
+          "id": "1120572906"
+        },
+        {
+          "name": "Gokul Rajaram",
+          "screen_name": "gokulr",
+          "indices": [
+            "24",
+            "31"
+          ],
+          "id_str": "19418583",
+          "id": "19418583"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "275"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1363145107495653377",
+    "id_str": "1363145842820079617",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363145842820079617",
+    "in_reply_to_status_id": "1363145107495653377",
+    "created_at": "Sat Feb 20 15:17:49 +0000 2021",
+    "favorited": false,
+    "full_text": "@alliejanoch @zsilvs303 @gokulr networks. They don't take the time to  understand the team like they need to. They just filter for things they are familiar with. This trend is changing though and soon investors will start to see that. The ones that don't will be left behind.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

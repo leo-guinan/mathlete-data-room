@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1385216876725350405"
+        ],
+        "editableUntil": "2021-04-22T14:00:14.153Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "René Brooks | Black Girl, Lost Keys",
+          "screen_name": "blkgirllostkeys",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "74353840",
+          "id": "74353840"
+        },
+        {
+          "name": "🎗️ ThinckFinck (Jeremy) | ∞ADHD∞",
+          "screen_name": "ThinckFinck",
+          "indices": [
+            "17",
+            "29"
+          ],
+          "id_str": "1249559490061574145",
+          "id": "1249559490061574145"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "48"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1385022126353223684",
+    "id_str": "1385216876725350405",
+    "in_reply_to_user_id": "74353840",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1385216876725350405",
+    "in_reply_to_status_id": "1385022126353223684",
+    "created_at": "Thu Apr 22 13:00:14 +0000 2021",
+    "favorited": false,
+    "full_text": "@blkgirllostkeys @ThinckFinck awesome! congrats!",
+    "lang": "en",
+    "in_reply_to_screen_name": "blkgirllostkeys",
+    "in_reply_to_user_id_str": "74353840"
+  }
+}

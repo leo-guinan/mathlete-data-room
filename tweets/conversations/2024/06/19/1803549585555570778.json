@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803549585555570778"
+        ],
+        "editableUntil": "2024-06-19T23:05:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Magán",
+          "screen_name": "mrmagan_",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "964210921001377792",
+          "id": "964210921001377792"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yowzDEyuxY",
+          "expanded_url": "https://x.com/leo_guinan/status/1803513638457573836?t=rUkm41TgdNbxP1Od7L1_WQ&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1803132795478524055",
+    "id_str": "1803549585555570778",
+    "in_reply_to_user_id": "964210921001377792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803549585555570778",
+    "in_reply_to_status_id": "1803132795478524055",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 19 22:05:04 +0000 2024",
+    "favorited": false,
+    "full_text": "@mrmagan_ Would love your feedback!\n\nhttps://t.co/yowzDEyuxY",
+    "lang": "en",
+    "in_reply_to_screen_name": "mrmagan_",
+    "in_reply_to_user_id_str": "964210921001377792"
+  }
+}

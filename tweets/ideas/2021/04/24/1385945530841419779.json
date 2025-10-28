@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1385945530841419779"
+        ],
+        "editableUntil": "2021-04-24T14:15:38.832Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "BuildInPublicTherapySession",
+          "indices": [
+            "17",
+            "45"
+          ]
+        },
+        {
+          "text": "ADHD",
+          "indices": [
+            "161",
+            "166"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "189"
+    ],
+    "favorite_count": "4",
+    "id_str": "1385945530841419779",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1385945530841419779",
+    "created_at": "Sat Apr 24 13:15:38 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, let's have a #BuildInPublicTherapySession. I said it off the cuff yesterday, but I like it and I think I'm going to make it a thing. \n\nI have to confront my #ADHD head-on at this point.",
+    "lang": "en"
+  }
+}

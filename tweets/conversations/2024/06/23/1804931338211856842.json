@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1804931338211856842"
+        ],
+        "editableUntil": "2024-06-23T18:35:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rob hardy",
+          "screen_name": "ungatedlife",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "532970397",
+          "id": "532970397"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1804931081004527817",
+    "id_str": "1804931338211856842",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1804931338211856842",
+    "in_reply_to_status_id": "1804931081004527817",
+    "created_at": "Sun Jun 23 17:35:39 +0000 2024",
+    "favorited": false,
+    "full_text": "@ungatedlife If you can figure out how some ideas are spreading, you can learn how to spread counter ideas that protect against them. \n\nIdeas and information are weird haha",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

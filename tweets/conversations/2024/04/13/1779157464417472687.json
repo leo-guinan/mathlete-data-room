@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1779157464417472687"
+        ],
+        "editableUntil": "2024-04-13T15:39:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Graham",
+          "screen_name": "paulg",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "183749519",
+          "id": "183749519"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tGM1UNEXSI",
+          "expanded_url": "https://x.com/TheAnnaGat/status/1778914367473336503",
+          "display_url": "x.com/TheAnnaGat/sta…",
+          "indices": [
+            "115",
+            "138"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1778889543871000760",
+    "id_str": "1779157464417472687",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1779157464417472687",
+    "in_reply_to_status_id": "1778889543871000760",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 13 14:39:29 +0000 2024",
+    "favorited": false,
+    "full_text": "@paulg And to push back a little on my push back, Anna said almost exactly what I said, but much more compressed.\n\nhttps://t.co/tGM1UNEXSI",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

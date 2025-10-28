@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1663920477427884035"
+        ],
+        "editableUntil": "2023-05-31T15:18:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Calvin Rosser",
+          "screen_name": "calvin_rosser",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1186439516975820800",
+          "id": "1186439516975820800"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "243"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1663909327013392390",
+    "id_str": "1663920477427884035",
+    "in_reply_to_user_id": "1186439516975820800",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1663920477427884035",
+    "in_reply_to_status_id": "1663909327013392390",
+    "created_at": "Wed May 31 14:48:50 +0000 2023",
+    "favorited": false,
+    "full_text": "@calvin_rosser It is funny how different surface level knowledge is from deep knowledge.\n\nEspecially when that surface level knowledge affects people at the deeper level where their expertise lies.\n\nDefinitely feels backward in a lot of cases.",
+    "lang": "en",
+    "in_reply_to_screen_name": "calvin_rosser",
+    "in_reply_to_user_id_str": "1186439516975820800"
+  }
+}

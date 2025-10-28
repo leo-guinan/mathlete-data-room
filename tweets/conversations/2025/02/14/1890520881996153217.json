@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1890520881996153217"
+        ],
+        "editableUntil": "2025-02-14T22:57:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nathan Baschez",
+          "screen_name": "nbashaw",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "17424947",
+          "id": "17424947"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1890520026060316708",
+    "id_str": "1890520881996153217",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1890520881996153217",
+    "in_reply_to_status_id": "1890520026060316708",
+    "created_at": "Fri Feb 14 21:57:57 +0000 2025",
+    "favorited": false,
+    "full_text": "@nbashaw the cultural evolution happens as a counter balance to the economy, which allows it to minimize information asymmetries by ideally punishing bad actors in the future, but we've sped up communication so much that cultural boundaries shattered and cultural memes didn't exist for…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1557172457882140673"
+        ],
+        "editableUntil": "2022-08-10T01:40:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1557172457882140673/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/fmfzN61Po5",
+          "media_url": "http://pbs.twimg.com/media/FZwwGSJX0AAXpJc.jpg",
+          "id_str": "1557172455671844864",
+          "id": "1557172455671844864",
+          "media_url_https": "https://pbs.twimg.com/media/FZwwGSJX0AAXpJc.jpg",
+          "sizes": {
+            "large": {
+              "w": "1200",
+              "h": "1600",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fmfzN61Po5"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "13",
+    "id_str": "1557172457882140673",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1557172457882140673",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 10 01:10:19 +0000 2022",
+    "favorited": false,
+    "full_text": "Tiny is trying to set a good example of how I should be resting. https://t.co/fmfzN61Po5",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1557172457882140673/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/fmfzN61Po5",
+          "media_url": "http://pbs.twimg.com/media/FZwwGSJX0AAXpJc.jpg",
+          "id_str": "1557172455671844864",
+          "id": "1557172455671844864",
+          "media_url_https": "https://pbs.twimg.com/media/FZwwGSJX0AAXpJc.jpg",
+          "sizes": {
+            "large": {
+              "w": "1200",
+              "h": "1600",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fmfzN61Po5"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1904370078994325929"
+        ],
+        "editableUntil": "2025-03-25T04:09:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/IhYqzNWaBk",
+          "expanded_url": "https://x.com/janwilmake/status/1904234442937536644",
+          "display_url": "x.com/janwilmake/sta…",
+          "indices": [
+            "168",
+            "191"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "191"
+    ],
+    "favorite_count": "5",
+    "id_str": "1904370078994325929",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1904370078994325929",
+    "possibly_sensitive": false,
+    "created_at": "Tue Mar 25 03:09:42 +0000 2025",
+    "favorited": false,
+    "full_text": "I'm really excited to play around with this. Current working idea: using community-archive to find tweets I've written and pull in the more detailed threads with this. https://t.co/IhYqzNWaBk",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1954904640979599604"
+        ],
+        "editableUntil": "2025-08-11T14:56:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "JohnnyTwoFingers",
+          "screen_name": "Johnny2Fingersz",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1266440523226595328",
+          "id": "1266440523226595328"
+        },
+        {
+          "name": "eval laden",
+          "screen_name": "evalladen",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "1521528464154808323",
+          "id": "1521528464154808323"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "309"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1954899894382280782",
+    "id_str": "1954904640979599604",
+    "in_reply_to_user_id": "1266440523226595328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1954904640979599604",
+    "in_reply_to_status_id": "1954899894382280782",
+    "created_at": "Mon Aug 11 13:56:01 +0000 2025",
+    "favorited": false,
+    "full_text": "@Johnny2Fingersz @evalladen That’s a different problem, because the systems aren’t good at connecting the dots. \n\nWhen you are building something new, as you map the plans out, it becomes pretty obvious where the likeliest points of failure are, so you figure out how to derisk that, and then you are good to…",
+    "lang": "en",
+    "in_reply_to_screen_name": "Johnny2Fingersz",
+    "in_reply_to_user_id_str": "1266440523226595328"
+  }
+}

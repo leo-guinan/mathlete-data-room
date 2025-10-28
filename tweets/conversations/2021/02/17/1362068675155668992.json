@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362068675155668992"
+        ],
+        "editableUntil": "2021-02-17T16:57:32.826Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "your idiot friend",
+          "screen_name": "dcousineau",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "14738275",
+          "id": "14738275"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1362068126221926404",
+    "id_str": "1362068675155668992",
+    "in_reply_to_user_id": "14738275",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362068675155668992",
+    "in_reply_to_status_id": "1362068126221926404",
+    "created_at": "Wed Feb 17 15:57:32 +0000 2021",
+    "favorited": false,
+    "full_text": "@dcousineau @torturecrush Nope, that was totally me at several points in my career.😂\n\nI finally figured it out. For the most part. But I still have to check myself at times. That's why I know so much about it! 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "dcousineau",
+    "in_reply_to_user_id_str": "14738275"
+  }
+}

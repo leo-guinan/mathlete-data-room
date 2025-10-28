@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1856769869724668231"
+        ],
+        "editableUntil": "2024-11-13T19:43:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Christina Fedor",
+          "screen_name": "christinasatory",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "420744611",
+          "id": "420744611"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "54"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1856551298335698976",
+    "id_str": "1856769869724668231",
+    "in_reply_to_user_id": "420744611",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1856769869724668231",
+    "in_reply_to_status_id": "1856551298335698976",
+    "created_at": "Wed Nov 13 18:43:28 +0000 2024",
+    "favorited": false,
+    "full_text": "@christinasatory It doesn't have to. It can be better.",
+    "lang": "en",
+    "in_reply_to_screen_name": "christinasatory",
+    "in_reply_to_user_id_str": "420744611"
+  }
+}

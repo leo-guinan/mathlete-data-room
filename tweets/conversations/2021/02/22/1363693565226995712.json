@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363693565226995712"
+        ],
+        "editableUntil": "2021-02-22T04:34:16.808Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5cE1yJB2Uh",
+          "expanded_url": "https://frontier.pioneer.app/posts/d8123dd8-definet-progress-update-february-21st-2021",
+          "display_url": "frontier.pioneer.app/posts/d8123dd8…",
+          "indices": [
+            "249",
+            "272"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "id_str": "1363693565226995712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363693565226995712",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 22 03:34:16 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nEnded up being an eventful week. After talking with customers and doing some research, we decided to start on a SaaS platform in addition to fintech services. We weren't quite ab…\n\nRead the rest here:\n\n https://t.co/5cE1yJB2Uh",
+    "lang": "en"
+  }
+}

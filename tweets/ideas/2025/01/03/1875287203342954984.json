@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1875287203342954984"
+        ],
+        "editableUntil": "2025-01-03T22:04:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LB7q8Zpa3q",
+          "expanded_url": "http://copy.ai",
+          "display_url": "copy.ai",
+          "indices": [
+            "204",
+            "227"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "7",
+    "id_str": "1875287203342954984",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1875287203342954984",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 03 21:04:45 +0000 2025",
+    "favorited": false,
+    "full_text": "Started working on my application for an O'Shaughnessy Fellowship, and had a lightbulb moment when asked about 3 of my most exceptional achievements.\n\nOne of the things I wrote about was getting a job at https://t.co/LB7q8Zpa3q. They were the startup I fell in love with when I…",
+    "lang": "en"
+  }
+}

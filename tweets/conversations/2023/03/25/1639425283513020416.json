@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1639425283513020416"
+        ],
+        "editableUntil": "2023-03-25T01:03:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Kirk Hofstrom",
+          "screen_name": "TheKookamonga",
+          "indices": [
+            "7",
+            "21"
+          ],
+          "id_str": "544573464",
+          "id": "544573464"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1639425283513020416/photo/1",
+          "indices": [
+            "22",
+            "45"
+          ],
+          "url": "https://t.co/scvUBBXyGa",
+          "media_url": "http://pbs.twimg.com/media/FsBmLNvXwAAIkvX.jpg",
+          "id_str": "1639422607215804416",
+          "id": "1639422607215804416",
+          "media_url_https": "https://pbs.twimg.com/media/FsBmLNvXwAAIkvX.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/scvUBBXyGa"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "45"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1639425281646632960",
+    "id_str": "1639425283513020416",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1639425283513020416",
+    "in_reply_to_status_id": "1639425281646632960",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 25 00:33:41 +0000 2023",
+    "favorited": false,
+    "full_text": "Here's @TheKookamonga https://t.co/scvUBBXyGa",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1639425283513020416/photo/1",
+          "indices": [
+            "22",
+            "45"
+          ],
+          "url": "https://t.co/scvUBBXyGa",
+          "media_url": "http://pbs.twimg.com/media/FsBmLNvXwAAIkvX.jpg",
+          "id_str": "1639422607215804416",
+          "id": "1639422607215804416",
+          "media_url_https": "https://pbs.twimg.com/media/FsBmLNvXwAAIkvX.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/scvUBBXyGa"
+        }
+      ]
+    }
+  }
+}

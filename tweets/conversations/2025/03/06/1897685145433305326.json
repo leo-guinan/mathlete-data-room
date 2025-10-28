@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897685145433305326"
+        ],
+        "editableUntil": "2025-03-06T17:26:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "rob hardy",
+          "screen_name": "ungatedlife",
+          "indices": [
+            "41",
+            "53"
+          ],
+          "id_str": "532970397",
+          "id": "532970397"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897685145433305326/photo/1",
+          "indices": [
+            "152",
+            "175"
+          ],
+          "url": "https://t.co/nfTdUah4Yv",
+          "media_url": "http://pbs.twimg.com/media/GlXujZQWcAccUnL.jpg",
+          "id_str": "1897685109848829959",
+          "id": "1897685109848829959",
+          "media_url_https": "https://pbs.twimg.com/media/GlXujZQWcAccUnL.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1112",
+              "h": "506",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "309",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1112",
+              "h": "506",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nfTdUah4Yv"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "175"
+    ],
+    "favorite_count": "5",
+    "id_str": "1897685145433305326",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897685145433305326",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 06 16:26:10 +0000 2025",
+    "favorited": false,
+    "full_text": "Claude understood the assignment.\n\nAlso, @ungatedlife, you would be impressed: this is the first time I've gotten Claude to generate his own manifesto! https://t.co/nfTdUah4Yv",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1897685145433305326/photo/1",
+          "indices": [
+            "152",
+            "175"
+          ],
+          "url": "https://t.co/nfTdUah4Yv",
+          "media_url": "http://pbs.twimg.com/media/GlXujZQWcAccUnL.jpg",
+          "id_str": "1897685109848829959",
+          "id": "1897685109848829959",
+          "media_url_https": "https://pbs.twimg.com/media/GlXujZQWcAccUnL.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1112",
+              "h": "506",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "309",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1112",
+              "h": "506",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nfTdUah4Yv"
+        }
+      ]
+    }
+  }
+}

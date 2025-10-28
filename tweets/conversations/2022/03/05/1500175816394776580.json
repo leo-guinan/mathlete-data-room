@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1500175816394776580"
+        ],
+        "editableUntil": "2022-03-05T19:26:01.204Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anthony Pompliano 🌪",
+          "screen_name": "APompliano",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "339061487",
+          "id": "339061487"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1500175816394776580",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1500175816394776580",
+    "created_at": "Sat Mar 05 18:26:01 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @APompliano: If you’re everywhere, you’re nowhere.\n\nIf you do everything, you do nothing.\n\nIf you are friends with everyone, you’re frie…",
+    "lang": "en"
+  }
+}

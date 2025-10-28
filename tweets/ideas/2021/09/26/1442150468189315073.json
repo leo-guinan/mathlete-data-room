@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1442150468189315073"
+        ],
+        "editableUntil": "2021-09-26T16:34:00.133Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "253"
+    ],
+    "favorite_count": "1",
+    "id_str": "1442150468189315073",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1442150468189315073",
+    "created_at": "Sun Sep 26 15:34:00 +0000 2021",
+    "favorited": false,
+    "full_text": "Experimenting with the Twitter account activity api this morning.\n\nDoing so in preparation for the next wave of @feathercrm features, which will listen for account activity and log them. Then I can use those logs to set up reminders for follow ups, etc.",
+    "lang": "en"
+  }
+}

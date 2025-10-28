@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821283784433791482"
+        ],
+        "editableUntil": "2024-08-07T21:34:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Loops.so",
+          "screen_name": "loops",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "1484715735482044419",
+          "id": "1484715735482044419"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "30"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1821278096571691069",
+    "id_str": "1821283784433791482",
+    "in_reply_to_user_id": "1484715735482044419",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821283784433791482",
+    "in_reply_to_status_id": "1821278096571691069",
+    "created_at": "Wed Aug 07 20:34:26 +0000 2024",
+    "favorited": false,
+    "full_text": "@loops Looks good now, thanks!",
+    "lang": "en",
+    "in_reply_to_screen_name": "loops",
+    "in_reply_to_user_id_str": "1484715735482044419"
+  }
+}

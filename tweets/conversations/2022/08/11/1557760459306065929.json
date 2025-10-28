@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1557760459306065929"
+        ],
+        "editableUntil": "2022-08-11T16:36:49.945Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZZirjexjOZ",
+          "expanded_url": "https://youtu.be/kMH2oYsSbuo",
+          "display_url": "youtu.be/kMH2oYsSbuo",
+          "indices": [
+            "72",
+            "95"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "0",
+    "id_str": "1557760459306065929",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1557760459306065929",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 11 16:06:49 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: @leo_guinan I love this so much! And yes we can see it! https://t.co/ZZirjexjOZ lol",
+    "lang": "en"
+  }
+}

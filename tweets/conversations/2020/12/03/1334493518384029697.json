@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334493518384029697"
+        ],
+        "editableUntil": "2020-12-03T14:43:43.130Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Peace via paws 🐾 & occasional f-bomb 😬",
+          "screen_name": "WokeAnimal",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1196323530062934016",
+          "id": "1196323530062934016"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/WokeAnimal/status/1334492960751235072/photo/1",
+          "source_status_id": "1334492960751235072",
+          "indices": [
+            "48",
+            "71"
+          ],
+          "url": "https://t.co/tyO0NLtFY4",
+          "media_url": "http://pbs.twimg.com/media/EoUSQcCW4AMaoFo.jpg",
+          "id_str": "1334492938198507523",
+          "source_user_id": "1196323530062934016",
+          "id": "1334492938198507523",
+          "media_url_https": "https://pbs.twimg.com/media/EoUSQcCW4AMaoFo.jpg",
+          "source_user_id_str": "1196323530062934016",
+          "sizes": {
+            "small": {
+              "w": "500",
+              "h": "666",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "666",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "500",
+              "h": "666",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1334492960751235072",
+          "display_url": "pic.x.com/tyO0NLtFY4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "71"
+    ],
+    "favorite_count": "0",
+    "id_str": "1334493518384029697",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334493518384029697",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 03 13:43:43 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @WokeAnimal: Good morning good folks ☀☕🐱❤🐾✌🏼 https://t.co/tyO0NLtFY4",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/WokeAnimal/status/1334492960751235072/photo/1",
+          "source_status_id": "1334492960751235072",
+          "indices": [
+            "48",
+            "71"
+          ],
+          "url": "https://t.co/tyO0NLtFY4",
+          "media_url": "http://pbs.twimg.com/media/EoUSQcCW4AMaoFo.jpg",
+          "id_str": "1334492938198507523",
+          "source_user_id": "1196323530062934016",
+          "id": "1334492938198507523",
+          "media_url_https": "https://pbs.twimg.com/media/EoUSQcCW4AMaoFo.jpg",
+          "source_user_id_str": "1196323530062934016",
+          "sizes": {
+            "small": {
+              "w": "500",
+              "h": "666",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "500",
+              "h": "666",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "500",
+              "h": "666",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1334492960751235072",
+          "display_url": "pic.x.com/tyO0NLtFY4"
+        }
+      ]
+    }
+  }
+}

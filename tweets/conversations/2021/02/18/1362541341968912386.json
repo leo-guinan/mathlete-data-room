@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362541341968912386"
+        ],
+        "editableUntil": "2021-02-19T00:15:45.376Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Alex Cohen",
+          "screen_name": "anothercohen",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "557440724",
+          "id": "557440724"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1362541341968912386/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/dvn4kgzIYB",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eui4IEBXAAE0yMq.jpg",
+          "id_str": "1362541335937482753",
+          "id": "1362541335937482753",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eui4IEBXAAE0yMq.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/dvn4kgzIYB"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1362460708114374656",
+    "id_str": "1362541341968912386",
+    "in_reply_to_user_id": "557440724",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362541341968912386",
+    "in_reply_to_status_id": "1362460708114374656",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 18 23:15:45 +0000 2021",
+    "favorited": false,
+    "full_text": "@anothercohen This is me. Also on that hill. https://t.co/dvn4kgzIYB",
+    "lang": "en",
+    "in_reply_to_screen_name": "anothercohen",
+    "in_reply_to_user_id_str": "557440724",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1362541341968912386/photo/1",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/dvn4kgzIYB",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eui4IEBXAAE0yMq.jpg",
+          "id_str": "1362541335937482753",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "154"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Eui4IEBXAAE0yMq.mp4"
+              }
+            ]
+          },
+          "id": "1362541335937482753",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eui4IEBXAAE0yMq.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/dvn4kgzIYB"
+        }
+      ]
+    }
+  }
+}

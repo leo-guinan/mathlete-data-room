@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808126721612296412"
+        ],
+        "editableUntil": "2024-07-02T14:12:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ameya K",
+          "screen_name": "DrAmeyaKale",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "499807176",
+          "id": "499807176"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808126721612296412/photo/1",
+          "indices": [
+            "57",
+            "80"
+          ],
+          "url": "https://t.co/QBuG721mSe",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GRfBqvbXIAEns-k.jpg",
+          "id_str": "1808126715442438145",
+          "id": "1808126715442438145",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GRfBqvbXIAEns-k.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "248",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "248",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "248",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/QBuG721mSe"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1808001783630840166",
+    "id_str": "1808126721612296412",
+    "in_reply_to_user_id": "499807176",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808126721612296412",
+    "in_reply_to_status_id": "1808001783630840166",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 02 13:12:58 +0000 2024",
+    "favorited": false,
+    "full_text": "@DrAmeyaKale I embody chaos. I am Chaos and Chaos is me. https://t.co/QBuG721mSe",
+    "lang": "en",
+    "in_reply_to_screen_name": "DrAmeyaKale",
+    "in_reply_to_user_id_str": "499807176",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808126721612296412/photo/1",
+          "indices": [
+            "57",
+            "80"
+          ],
+          "url": "https://t.co/QBuG721mSe",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GRfBqvbXIAEns-k.jpg",
+          "id_str": "1808126715442438145",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "124"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GRfBqvbXIAEns-k.mp4"
+              }
+            ]
+          },
+          "id": "1808126715442438145",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GRfBqvbXIAEns-k.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "248",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "248",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "248",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/QBuG721mSe"
+        }
+      ]
+    }
+  }
+}

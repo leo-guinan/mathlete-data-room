@@ -1,0 +1,116 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545880178613682177"
+        ],
+        "editableUntil": "2022-07-09T21:48:50.303Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Yagudaev 🧑🏻‍💻🇨🇦",
+          "screen_name": "yagudaev",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "238023498",
+          "id": "238023498"
+        },
+        {
+          "name": "Daniel Sage",
+          "screen_name": "dan_copy",
+          "indices": [
+            "14",
+            "23"
+          ],
+          "id_str": "1277192524197703680",
+          "id": "1277192524197703680"
+        },
+        {
+          "name": "Jeremy Moser",
+          "screen_name": "jmoserr",
+          "indices": [
+            "24",
+            "32"
+          ],
+          "id_str": "905145041374535681",
+          "id": "905145041374535681"
+        },
+        {
+          "name": "wbepodcast",
+          "screen_name": "wbepodcast",
+          "indices": [
+            "33",
+            "44"
+          ],
+          "id_str": "1577589649052147712",
+          "id": "1577589649052147712"
+        },
+        {
+          "name": "Andrew Warner & Team",
+          "screen_name": "Mixergy",
+          "indices": [
+            "73",
+            "81"
+          ],
+          "id_str": "5571602",
+          "id": "5571602"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "82",
+            "93"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Anthony Castrio",
+          "screen_name": "AnthonyCastrio",
+          "indices": [
+            "95",
+            "110"
+          ],
+          "id_str": "1309141400",
+          "id": "1309141400"
+        },
+        {
+          "name": "Indie Hackers",
+          "screen_name": "IndieHackers",
+          "indices": [
+            "112",
+            "125"
+          ],
+          "id_str": "756326958946922496",
+          "id": "756326958946922496"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "0",
+    "id_str": "1545880178613682177",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545880178613682177",
+    "created_at": "Sat Jul 09 21:18:50 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @yagudaev: @dan_copy @jmoserr @wbepodcast Couple of my fav podcasts:\n\n@Mixergy\n@leo_guinan \n@AnthonyCastrio \n@IndieHackers",
+    "lang": "en"
+  }
+}

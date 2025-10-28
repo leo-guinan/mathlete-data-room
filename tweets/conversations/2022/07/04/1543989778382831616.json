@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1543989778382831616"
+        ],
+        "editableUntil": "2022-07-04T16:37:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jamie",
+          "screen_name": "JamieTheMashMan",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1411735990293643269",
+          "id": "1411735990293643269"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DQHZNnekIi",
+          "expanded_url": "https://x.com/leo_guinan/status/1543941455550578688?t=j8UOsaIQn-IHFS5siLo3zQ&s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "48",
+            "71"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1543989237866971137",
+    "id_str": "1543989778382831616",
+    "in_reply_to_user_id": "1411735990293643269",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1543989778382831616",
+    "in_reply_to_status_id": "1543989237866971137",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 04 16:07:03 +0000 2022",
+    "favorited": false,
+    "full_text": "@JamieTheMashMan Yes, just reply to this tweet: https://t.co/DQHZNnekIi\n\nI've got a process watching that tweet that will kick off the analysis and tweet the result to you.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JamieTheMashMan",
+    "in_reply_to_user_id_str": "1411735990293643269"
+  }
+}

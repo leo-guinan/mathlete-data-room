@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1642196673555210241"
+        ],
+        "editableUntil": "2023-04-01T16:36:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "245"
+    ],
+    "favorite_count": "1",
+    "id_str": "1642196673555210241",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1642196673555210241",
+    "created_at": "Sat Apr 01 16:06:12 +0000 2023",
+    "favorited": false,
+    "full_text": "Downloaded an archive of my Twitter data and I'm going to convert them all into embeddings and put them into a vectordb so I can pull out things when I need to. \n\nThought: I want to surface tweets that I can add into my writing when appropriate.",
+    "lang": "en"
+  }
+}

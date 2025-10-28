@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1560785556581367808"
+        ],
+        "editableUntil": "2022-08-20T00:57:29.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Terri Shubilla She/her",
+          "screen_name": "tshubillabong",
+          "indices": [
+            "94",
+            "108"
+          ],
+          "id_str": "280523147",
+          "id": "280523147"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "110",
+            "121"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "128",
+            "144"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1560785556581367808/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/wvf6vUoqMo",
+          "media_url": "http://pbs.twimg.com/media/FakGAgAXkAEP8Zd.jpg",
+          "id_str": "1560785351521832961",
+          "id": "1560785351521832961",
+          "media_url_https": "https://pbs.twimg.com/media/FakGAgAXkAEP8Zd.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "605",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1032",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "343",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wvf6vUoqMo"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "22",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "169"
+    ],
+    "favorite_count": "2",
+    "id_str": "1560785556581367808",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1560785556581367808",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 20 00:27:29 +0000 2022",
+    "favorited": false,
+    "full_text": "Yet another fantastic #ADHDWithBenefits tonight! Needed it this week. \n\nFeaturing @DorseyMc , @tshubillabong, @LobowSpark , and @JustinAllingham! https://t.co/wvf6vUoqMo",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1560785556581367808/photo/1",
+          "indices": [
+            "146",
+            "169"
+          ],
+          "url": "https://t.co/wvf6vUoqMo",
+          "media_url": "http://pbs.twimg.com/media/FakGAgAXkAEP8Zd.jpg",
+          "id_str": "1560785351521832961",
+          "id": "1560785351521832961",
+          "media_url_https": "https://pbs.twimg.com/media/FakGAgAXkAEP8Zd.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "605",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1032",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "343",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/wvf6vUoqMo"
+        }
+      ]
+    }
+  }
+}

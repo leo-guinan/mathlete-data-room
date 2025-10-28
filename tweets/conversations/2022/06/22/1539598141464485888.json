@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1539598141464485888"
+        ],
+        "editableUntil": "2022-06-22T13:46:15.932Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "id_str": "1539598141464485888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1539598141464485888",
+    "created_at": "Wed Jun 22 13:16:15 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: This is an AMAZING conversation and you should be definitely check it out!!",
+    "lang": "en"
+  }
+}

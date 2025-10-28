@@ -1,0 +1,171 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973842971305861166"
+        ],
+        "editableUntil": "2025-10-02T21:10:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "indices": [
+            "59",
+            "71"
+          ],
+          "id_str": "1353836358901501952",
+          "id": "1353836358901501952"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/T1wxOND0KV",
+          "expanded_url": "https://x.com/leo_guinan/status/1970288440475566181",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "274",
+            "297"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973842971305861166/photo/1",
+          "indices": [
+            "298",
+            "321"
+          ],
+          "url": "https://t.co/gf2wzsBfyV",
+          "media_url": "http://pbs.twimg.com/media/G2R8WOiXEAE8jZS.png",
+          "id_str": "1973839257996300289",
+          "id": "1973839257996300289",
+          "media_url_https": "https://pbs.twimg.com/media/G2R8WOiXEAE8jZS.png",
+          "sizes": {
+            "large": {
+              "w": "1666",
+              "h": "1000",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "408",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gf2wzsBfyV"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "321"
+    ],
+    "favorite_count": "1",
+    "id_str": "1973842971305861166",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973842971305861166",
+    "possibly_sensitive": false,
+    "created_at": "Thu Oct 02 20:10:11 +0000 2025",
+    "favorited": false,
+    "full_text": "😂 Perfect example of time violence that is demonstrated by @AnthropicAI. \n\nAt the beginning of the week, I made a video on my youtube channel that was about speedrunning the economy by christmas, because I'm broke, in debt, and completely overlooked by the economy. So I'm… https://t.co/T1wxOND0KV https://t.co/gf2wzsBfyV",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973842971305861166/photo/1",
+          "indices": [
+            "298",
+            "321"
+          ],
+          "url": "https://t.co/gf2wzsBfyV",
+          "media_url": "http://pbs.twimg.com/media/G2R8WOiXEAE8jZS.png",
+          "id_str": "1973839257996300289",
+          "id": "1973839257996300289",
+          "media_url_https": "https://pbs.twimg.com/media/G2R8WOiXEAE8jZS.png",
+          "sizes": {
+            "large": {
+              "w": "1666",
+              "h": "1000",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "408",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gf2wzsBfyV"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1973842971305861166/photo/1",
+          "indices": [
+            "298",
+            "321"
+          ],
+          "url": "https://t.co/gf2wzsBfyV",
+          "media_url": "http://pbs.twimg.com/media/G2R_LDHXkAA6w6H.jpg",
+          "id_str": "1973842364486619136",
+          "id": "1973842364486619136",
+          "media_url_https": "https://pbs.twimg.com/media/G2R_LDHXkAA6w6H.jpg",
+          "sizes": {
+            "large": {
+              "w": "1666",
+              "h": "794",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "572",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "324",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gf2wzsBfyV"
+        }
+      ]
+    }
+  }
+}

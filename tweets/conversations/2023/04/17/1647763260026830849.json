@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1647763260026830849"
+        ],
+        "editableUntil": "2023-04-17T01:15:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "cresencio",
+          "screen_name": "Cresencio",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "26807627",
+          "id": "26807627"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "11",
+            "27"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "28",
+            "40"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1647731290970509314",
+    "id_str": "1647763260026830849",
+    "in_reply_to_user_id": "26807627",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1647763260026830849",
+    "in_reply_to_status_id": "1647731290970509314",
+    "created_at": "Mon Apr 17 00:45:49 +0000 2023",
+    "favorited": false,
+    "full_text": "@Cresencio @_nightsweekends @_buildspace I really like this idea! I have a hard time remembering my plants when I don't see them constantly. Will this be like a monitoring system that sends alerts when needed? Or would I need to actively measure with the device for it to work?",
+    "lang": "en",
+    "in_reply_to_screen_name": "Cresencio",
+    "in_reply_to_user_id_str": "26807627"
+  }
+}

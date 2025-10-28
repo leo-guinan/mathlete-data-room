@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1417991073251659781"
+        ],
+        "editableUntil": "2021-07-22T00:33:11.520Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aryan Kochhar",
+          "screen_name": "aryan_kochhar",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "2547534746",
+          "id": "2547534746"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1417991073251659781",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1417991073251659781",
+    "created_at": "Wed Jul 21 23:33:11 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @aryan_kochhar: Millennial founders with an orthodox mindset about education and hiring might take the Startup ecosystem backward.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1384985080515411969"
+        ],
+        "editableUntil": "2021-04-21T22:39:09.630Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Gwyn Wansbrough",
+          "screen_name": "gwynwans",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "236440512",
+          "id": "236440512"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "0",
+    "id_str": "1384985080515411969",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1384985080515411969",
+    "created_at": "Wed Apr 21 21:39:09 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @gwynwans: “I don’t teach. I create the conditions for learning.” Albert Einstein",
+    "lang": "en"
+  }
+}

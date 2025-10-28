@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1753528211617570915"
+        ],
+        "editableUntil": "2024-02-02T22:17:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ia21BuiMD3",
+          "expanded_url": "https://x.com/leo_guinan/status/1753513566471442893",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "152",
+            "175"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "175"
+    ],
+    "favorite_count": "1",
+    "id_str": "1753528211617570915",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1753528211617570915",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 02 21:17:59 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, now I have two agents that are talking to each other. \n\nI just need some data to test with. \n\nHit me with some blog posts on weird, obscure topics. https://t.co/ia21BuiMD3",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1373374188036239363"
+        ],
+        "editableUntil": "2021-03-20T21:41:37.143Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Larry Cornett",
+          "screen_name": "cornett",
+          "indices": [
+            "169",
+            "177"
+          ],
+          "id_str": "1904771",
+          "id": "1904771"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BWA8kk9pfO",
+          "expanded_url": "https://link.medium.com/TasGm6aYMeb",
+          "display_url": "link.medium.com/TasGm6aYMeb",
+          "indices": [
+            "178",
+            "201"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "201"
+    ],
+    "favorite_count": "0",
+    "id_str": "1373374188036239363",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1373374188036239363",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 20 20:41:37 +0000 2021",
+    "favorited": false,
+    "full_text": "“You will never get rich in the gig economy. But, the passion economy has the potential to make you wealthy if you are damn good at what you do and your fans love you.” @cornett https://t.co/BWA8kk9pfO",
+    "lang": "en"
+  }
+}

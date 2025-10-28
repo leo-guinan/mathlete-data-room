@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939904778324017285"
+        ],
+        "editableUntil": "2025-07-01T05:31:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/P7kcrt09BM",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/the-future-of-politics-as-a-function",
+          "display_url": "hitchhikertothefuture.substack.com/p/the-future-o…",
+          "indices": [
+            "74",
+            "97"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939904778324017285/photo/1",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/NkY9uSjLRp",
+          "media_url": "http://pbs.twimg.com/media/GuvtCZsXcAAgkCg.png",
+          "id_str": "1939904690025623552",
+          "id": "1939904690025623552",
+          "media_url_https": "https://pbs.twimg.com/media/GuvtCZsXcAAgkCg.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1015",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1912",
+              "h": "1618",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "575",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NkY9uSjLRp"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1939900498892792236",
+    "id_str": "1939904778324017285",
+    "in_reply_to_user_id": "44196397",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939904778324017285",
+    "in_reply_to_status_id": "1939900498892792236",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 04:31:55 +0000 2025",
+    "favorited": false,
+    "full_text": "@elonmusk Here's a plan to implement it if you want to make sure it wins:\nhttps://t.co/P7kcrt09BM https://t.co/NkY9uSjLRp",
+    "lang": "en",
+    "in_reply_to_screen_name": "elonmusk",
+    "in_reply_to_user_id_str": "44196397",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939904778324017285/photo/1",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/NkY9uSjLRp",
+          "media_url": "http://pbs.twimg.com/media/GuvtCZsXcAAgkCg.png",
+          "id_str": "1939904690025623552",
+          "id": "1939904690025623552",
+          "media_url_https": "https://pbs.twimg.com/media/GuvtCZsXcAAgkCg.png",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "1015",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1912",
+              "h": "1618",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "575",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NkY9uSjLRp"
+        }
+      ]
+    }
+  }
+}

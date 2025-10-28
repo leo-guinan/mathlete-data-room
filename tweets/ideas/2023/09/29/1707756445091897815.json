@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1707756445091897815"
+        ],
+        "editableUntil": "2023-09-29T14:57:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "240"
+    ],
+    "favorite_count": "0",
+    "id_str": "1707756445091897815",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1707756445091897815",
+    "created_at": "Fri Sep 29 13:57:19 +0000 2023",
+    "favorited": false,
+    "full_text": "So I played around a bit last night, and in about 2 hours, I had a podcast player working on my phone that could send a request to my backend server with an episode id and a timestamp.\n\nThat doesn't sound like much, but something I learned:",
+    "lang": "en"
+  }
+}

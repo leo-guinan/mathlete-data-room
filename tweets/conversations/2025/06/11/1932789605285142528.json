@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932789605285142528"
+        ],
+        "editableUntil": "2025-06-11T14:18:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lisan al Gaib",
+          "screen_name": "scaling01",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1825243643529027584",
+          "id": "1825243643529027584"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/FsD6m0x7YM",
+          "expanded_url": "https://www.buildinpublicuniversity.com/temporal-p-np-theory-mathematical-formalization/",
+          "display_url": "buildinpublicuniversity.com/temporal-p-np-…",
+          "indices": [
+            "83",
+            "106"
+          ]
+        },
+        {
+          "url": "https://t.co/ThjCiVYYP8",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/papers/Network%20Relativity/Network%20Relativity%20Theory.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "108",
+            "131"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1932787626865549506",
+    "id_str": "1932789605285142528",
+    "in_reply_to_user_id": "1825243643529027584",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932789605285142528",
+    "in_reply_to_status_id": "1932787626865549506",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 11 13:18:46 +0000 2025",
+    "favorited": false,
+    "full_text": "@scaling01 If you want to assuage their fears, we have the math to explain it now.\nhttps://t.co/FsD6m0x7YM\n\nhttps://t.co/ThjCiVYYP8",
+    "lang": "en",
+    "in_reply_to_screen_name": "scaling01",
+    "in_reply_to_user_id_str": "1825243643529027584"
+  }
+}

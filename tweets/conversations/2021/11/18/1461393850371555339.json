@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1461393850371555339"
+        ],
+        "editableUntil": "2021-11-18T19:00:19.970Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "165"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1461387060065886218",
+    "id_str": "1461393850371555339",
+    "in_reply_to_user_id": "15659972",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1461393850371555339",
+    "in_reply_to_status_id": "1461387060065886218",
+    "created_at": "Thu Nov 18 18:00:19 +0000 2021",
+    "favorited": false,
+    "full_text": "@reddy2go @racket100 2.5ish 🤠\n\nI don't think there is a good migration path from 2 -&gt; 3 yet. \n\n99.99% of people won't make it to web3 until something big changes.",
+    "lang": "en",
+    "in_reply_to_screen_name": "reddy2go",
+    "in_reply_to_user_id_str": "15659972"
+  }
+}

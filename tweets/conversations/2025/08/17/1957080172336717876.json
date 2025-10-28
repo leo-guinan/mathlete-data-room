@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1957080172336717876"
+        ],
+        "editableUntil": "2025-08-17T15:00:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "176"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1957018709186507167",
+    "id_str": "1957080172336717876",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1957080172336717876",
+    "in_reply_to_status_id": "1957018709186507167",
+    "created_at": "Sun Aug 17 14:00:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@JustinAllingham appreciate you. I'm good though, just had to call myself out on my bullshit when someone touched a nerve with me in the house. \n\nIt wasn't them, it was ALL me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

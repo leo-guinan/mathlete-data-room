@@ -1,0 +1,161 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1785885305670660218"
+        ],
+        "editableUntil": "2024-05-02T05:13:31.673Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Columbus Sports Commission",
+          "screen_name": "ColumbusSports",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "17490181",
+          "id": "17490181"
+        },
+        {
+          "name": "The Crew",
+          "screen_name": "ColumbusCrew",
+          "indices": [
+            "24",
+            "37"
+          ],
+          "id_str": "16960789",
+          "id": "16960789"
+        },
+        {
+          "name": "Concacaf Champions Cup",
+          "screen_name": "TheChampions",
+          "indices": [
+            "47",
+            "60"
+          ],
+          "id_str": "33307787",
+          "id": "33307787"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusSports/status/1785885161122328678/photo/1",
+          "source_status_id": "1785885161122328678",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/OkRltEGUg3",
+          "media_url": "http://pbs.twimg.com/media/GMi9FyXXMAAftDW.jpg",
+          "id_str": "1785885159369158656",
+          "source_user_id": "17490181",
+          "id": "1785885159369158656",
+          "media_url_https": "https://pbs.twimg.com/media/GMi9FyXXMAAftDW.jpg",
+          "source_user_id_str": "17490181",
+          "sizes": {
+            "medium": {
+              "w": "618",
+              "h": "500",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "618",
+              "h": "500",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "618",
+              "h": "500",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1785885161122328678",
+          "display_url": "pic.x.com/OkRltEGUg3"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "crew96",
+          "indices": [
+            "68",
+            "75"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "0",
+    "id_str": "1785885305670660218",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1785885305670660218",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 02 04:13:31 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @ColumbusSports: The @ColumbusCrew are onto @TheChampions Final! #crew96 https://t.co/OkRltEGUg3",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/ColumbusSports/status/1785885161122328678/photo/1",
+          "source_status_id": "1785885161122328678",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/OkRltEGUg3",
+          "media_url": "http://pbs.twimg.com/media/GMi9FyXXMAAftDW.jpg",
+          "id_str": "1785885159369158656",
+          "source_user_id": "17490181",
+          "id": "1785885159369158656",
+          "media_url_https": "https://pbs.twimg.com/media/GMi9FyXXMAAftDW.jpg",
+          "source_user_id_str": "17490181",
+          "sizes": {
+            "medium": {
+              "w": "618",
+              "h": "500",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "618",
+              "h": "500",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "618",
+              "h": "500",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1785885161122328678",
+          "display_url": "pic.x.com/OkRltEGUg3"
+        }
+      ]
+    }
+  }
+}

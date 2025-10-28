@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1490795746177830913"
+        ],
+        "editableUntil": "2022-02-07T22:12:58.191Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nick Freiling",
+          "screen_name": "NickFreiling",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "309677044",
+          "id": "309677044"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1490795020571578370",
+    "id_str": "1490795746177830913",
+    "in_reply_to_user_id": "309677044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1490795746177830913",
+    "in_reply_to_status_id": "1490795020571578370",
+    "created_at": "Mon Feb 07 21:12:58 +0000 2022",
+    "favorited": false,
+    "full_text": "@NickFreiling Always the other box.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NickFreiling",
+    "in_reply_to_user_id_str": "309677044"
+  }
+}

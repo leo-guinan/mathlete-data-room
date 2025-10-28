@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1916212117016916142"
+        ],
+        "editableUntil": "2025-04-26T20:25:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tyler Alterman",
+          "screen_name": "TylerAlterman",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "18280363",
+          "id": "18280363"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "184"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1916188939586834710",
+    "id_str": "1916212117016916142",
+    "in_reply_to_user_id": "18280363",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1916212117016916142",
+    "in_reply_to_status_id": "1916188939586834710",
+    "created_at": "Sat Apr 26 19:25:44 +0000 2025",
+    "favorited": false,
+    "full_text": "@TylerAlterman That would fail because economics isn’t an individual practice, it’s a communal one. Put it into a community that has the systems to deploy capital in a constrained way.",
+    "lang": "en",
+    "in_reply_to_screen_name": "TylerAlterman",
+    "in_reply_to_user_id_str": "18280363"
+  }
+}

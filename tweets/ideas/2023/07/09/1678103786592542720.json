@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1678103786592542720"
+        ],
+        "editableUntil": "2023-07-09T19:08:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "0",
+    "id_str": "1678103786592542720",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1678103786592542720",
+    "created_at": "Sun Jul 09 18:08:15 +0000 2023",
+    "favorited": false,
+    "full_text": "Hmmm, so it turns out I can use the YouTube API to grab videos that are premiering.\n\nBut I can't download them so I can transcribe them...\n\nDamn.",
+    "lang": "en"
+  }
+}

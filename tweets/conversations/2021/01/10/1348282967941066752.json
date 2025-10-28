@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348282967941066752"
+        ],
+        "editableUntil": "2021-01-10T15:58:04.100Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "domm",
+          "screen_name": "domm",
+          "indices": [
+            "3",
+            "8"
+          ],
+          "id_str": "219821581",
+          "id": "219821581"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "138"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348282967941066752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348282967941066752",
+    "created_at": "Sun Jan 10 14:58:04 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @domm: raising capital? its time to close your round!\n\nreply with your:\n* name / url\n* 1-line pitch for startup \n* funding stage/round…",
+    "lang": "en"
+  }
+}

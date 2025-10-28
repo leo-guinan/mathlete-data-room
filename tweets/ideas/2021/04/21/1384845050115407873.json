@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1384845050115407873"
+        ],
+        "editableUntil": "2021-04-21T13:22:43.781Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1384845050115407873/photo/1",
+          "indices": [
+            "117",
+            "140"
+          ],
+          "url": "https://t.co/o5DWnpGtGP",
+          "media_url": "http://pbs.twimg.com/media/Ezf1O94XIAAVhdV.jpg",
+          "id_str": "1384845047917649920",
+          "id": "1384845047917649920",
+          "media_url_https": "https://pbs.twimg.com/media/Ezf1O94XIAAVhdV.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/o5DWnpGtGP"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "4",
+    "id_str": "1384845050115407873",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1384845050115407873",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 21 12:22:43 +0000 2021",
+    "favorited": false,
+    "full_text": "I would like a refund please. This is not the spring I ordered.\n\nIt was 70°F out yesterday. Today I wake up to this. https://t.co/o5DWnpGtGP",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1384845050115407873/photo/1",
+          "indices": [
+            "117",
+            "140"
+          ],
+          "url": "https://t.co/o5DWnpGtGP",
+          "media_url": "http://pbs.twimg.com/media/Ezf1O94XIAAVhdV.jpg",
+          "id_str": "1384845047917649920",
+          "id": "1384845047917649920",
+          "media_url_https": "https://pbs.twimg.com/media/Ezf1O94XIAAVhdV.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/o5DWnpGtGP"
+        }
+      ]
+    }
+  }
+}

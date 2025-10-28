@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941640501800718573"
+        ],
+        "editableUntil": "2025-07-06T00:29:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Nol6m2OH0K",
+          "expanded_url": "https://cal.com/build-in-public-university/leo-as-a-service",
+          "display_url": "cal.com/build-in-publi…",
+          "indices": [
+            "27",
+            "50"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941566054913933784",
+    "id_str": "1941640501800718573",
+    "in_reply_to_user_id": "1170701109629018117",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941640501800718573",
+    "in_reply_to_status_id": "1941566054913933784",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 05 23:29:04 +0000 2025",
+    "favorited": false,
+    "full_text": "@ChrisChipMonk Let's chat: https://t.co/Nol6m2OH0K\n\nThere's an art to scaling that allows you to scale anything when you understand the network dynamics of the people you are scaling to.\n\nIf I'm helpful, you can have me on hand by text or video as needed. And if not, no worries.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ChrischipMonk",
+    "in_reply_to_user_id_str": "1170701109629018117"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1900550327834649079"
+        ],
+        "editableUntil": "2025-03-14T15:11:23.330Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "49"
+    ],
+    "favorite_count": "0",
+    "id_str": "1900550327834649079",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1900550327834649079",
+    "created_at": "Fri Mar 14 14:11:23 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: AGI has been achieved internally.",
+    "lang": "en"
+  }
+}

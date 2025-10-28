@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923843892111138943"
+        ],
+        "editableUntil": "2025-05-17T21:51:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/k0HOaLazFT",
+          "expanded_url": "https://x.com/rfkenmore/status/1923811924497608849",
+          "display_url": "x.com/rfkenmore/stat…",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923843892111138943/photo/1",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/4nUQ1jmdfH",
+          "media_url": "http://pbs.twimg.com/media/GrLd0eoWYAAZw_6.jpg",
+          "id_str": "1923843884485861376",
+          "id": "1923843884485861376",
+          "media_url_https": "https://pbs.twimg.com/media/GrLd0eoWYAAZw_6.jpg",
+          "sizes": {
+            "large": {
+              "w": "1152",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4nUQ1jmdfH"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "1",
+    "id_str": "1923843892111138943",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923843892111138943",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 17 20:51:41 +0000 2025",
+    "favorited": false,
+    "full_text": "Beard and tshirt = winning has been confirmed. https://t.co/k0HOaLazFT https://t.co/4nUQ1jmdfH",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923843892111138943/photo/1",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/4nUQ1jmdfH",
+          "media_url": "http://pbs.twimg.com/media/GrLd0eoWYAAZw_6.jpg",
+          "id_str": "1923843884485861376",
+          "id": "1923843884485861376",
+          "media_url_https": "https://pbs.twimg.com/media/GrLd0eoWYAAZw_6.jpg",
+          "sizes": {
+            "large": {
+              "w": "1152",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/4nUQ1jmdfH"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931089849655673220"
+        ],
+        "editableUntil": "2025-06-06T21:44:32.729Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Abstract Fairy",
+          "screen_name": "AbstractFairy",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1256624514500374530",
+          "id": "1256624514500374530"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "106"
+    ],
+    "favorite_count": "0",
+    "id_str": "1931089849655673220",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931089849655673220",
+    "created_at": "Fri Jun 06 20:44:32 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @AbstractFairy: the funniest thing about actually good marketing is that its good for everyone involved",
+    "lang": "en"
+  }
+}

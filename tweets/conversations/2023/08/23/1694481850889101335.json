@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1694481850889101335"
+        ],
+        "editableUntil": "2023-08-23T23:48:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Frank Elda | Build Your Freedom",
+          "screen_name": "frankelda1",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1278752707944251394",
+          "id": "1278752707944251394"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1694461952586621284",
+    "id_str": "1694481850889101335",
+    "in_reply_to_user_id": "1278752707944251394",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1694481850889101335",
+    "in_reply_to_status_id": "1694461952586621284",
+    "created_at": "Wed Aug 23 22:48:49 +0000 2023",
+    "favorited": false,
+    "full_text": "@FrankElda1 I like the one with the hand better I think (which is the opposite of the opinion I thought I'd have before watching them)",
+    "lang": "en",
+    "in_reply_to_screen_name": "frankelda1",
+    "in_reply_to_user_id_str": "1278752707944251394"
+  }
+}

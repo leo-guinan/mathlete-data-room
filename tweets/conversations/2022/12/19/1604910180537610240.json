@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1604910180537610240"
+        ],
+        "editableUntil": "2022-12-19T19:12:59.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonny Miller",
+          "screen_name": "jonnym1ller",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "495347209",
+          "id": "495347209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "8",
+    "in_reply_to_status_id_str": "1604723483526647808",
+    "id_str": "1604910180537610240",
+    "in_reply_to_user_id": "495347209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1604910180537610240",
+    "in_reply_to_status_id": "1604723483526647808",
+    "created_at": "Mon Dec 19 18:42:59 +0000 2022",
+    "favorited": false,
+    "full_text": "@jonnym1ller I love it. Every day is a new puzzle to solve. Being able to code is like having magic at your fingertips, because there is so much you can create. Powerful systems that can do amazing things.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jonnym1ller",
+    "in_reply_to_user_id_str": "495347209"
+  }
+}

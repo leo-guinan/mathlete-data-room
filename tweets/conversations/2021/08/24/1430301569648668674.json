@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1430301569648668674"
+        ],
+        "editableUntil": "2021-08-24T23:50:42.579Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Global Silicon Valley",
+          "screen_name": "GSVteam",
+          "indices": [
+            "81",
+            "89"
+          ],
+          "id_str": "3255899094",
+          "id": "3255899094"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1430301567551422467",
+    "id_str": "1430301569648668674",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1430301569648668674",
+    "in_reply_to_status_id": "1430301567551422467",
+    "created_at": "Tue Aug 24 22:50:42 +0000 2021",
+    "favorited": false,
+    "full_text": "Because it's not just telling a story. It's telling a story with multiple parts. @GSVteam recommends focusing on the 5 Ps. \n\nPeople\nProduct\nPredictability\nPotential\nPurpose\n\nFiguring out how to include those 5 points in 3 minutes while also telling a story is really challenging.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

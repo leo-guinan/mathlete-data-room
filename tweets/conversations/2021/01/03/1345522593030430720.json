@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1345522593030430720"
+        ],
+        "editableUntil": "2021-01-03T01:09:19.436Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1345506388353564673",
+    "id_str": "1345522593030430720",
+    "in_reply_to_user_id": "102500673",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1345522593030430720",
+    "in_reply_to_status_id": "1345506388353564673",
+    "created_at": "Sun Jan 03 00:09:19 +0000 2021",
+    "favorited": false,
+    "full_text": "@anshuman_usa Looks cool! Just signed up. One note on the form: i struggled a little with the input for company website. I copied and pasted the url that included the \"https://\" and it gave me an invalid url error. Eventually realized I could just take off the scheme and it would work. Fyi. :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "Mentor_Anshuman",
+    "in_reply_to_user_id_str": "102500673"
+  }
+}

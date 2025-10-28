@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1437215589467140098"
+        ],
+        "editableUntil": "2021-09-13T01:44:33.360Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/cdq8UJY10T",
+          "expanded_url": "https://frontier.pioneer.app/posts/cdf50894-leo-guinan-progress-update-september-12th-2021",
+          "display_url": "frontier.pioneer.app/posts/cdf50894…",
+          "indices": [
+            "233",
+            "256"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "0",
+    "id_str": "1437215589467140098",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1437215589467140098",
+    "possibly_sensitive": false,
+    "created_at": "Mon Sep 13 00:44:33 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nNo paying customers acquired. 1 user interview, which was really helpful. I finished up changing the data model, which still isn't perfect, but it is a lot better.\n\nRead the rest here:\n\n https://t.co/cdq8UJY10T",
+    "lang": "en"
+  }
+}

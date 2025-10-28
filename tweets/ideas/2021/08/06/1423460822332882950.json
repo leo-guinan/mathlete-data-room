@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423460822332882950"
+        ],
+        "editableUntil": "2021-08-06T02:48:01.324Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1423460822332882950/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/l6sEDEfuYc",
+          "media_url": "http://pbs.twimg.com/media/E8EmEuXWUAArm3u.jpg",
+          "id_str": "1423460819833081856",
+          "id": "1423460819833081856",
+          "media_url_https": "https://pbs.twimg.com/media/E8EmEuXWUAArm3u.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/l6sEDEfuYc"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "5",
+    "id_str": "1423460822332882950",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423460822332882950",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 06 01:48:01 +0000 2021",
+    "favorited": false,
+    "full_text": "Celebrating the Ws this week. \n\nSpecifically hitting $1K in revenue in about 72 hours after launching my course. Still blown away...🤯🤯\n\nLet's hear your wins! Who else is celebrating? https://t.co/l6sEDEfuYc",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1423460822332882950/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/l6sEDEfuYc",
+          "media_url": "http://pbs.twimg.com/media/E8EmEuXWUAArm3u.jpg",
+          "id_str": "1423460819833081856",
+          "id": "1423460819833081856",
+          "media_url_https": "https://pbs.twimg.com/media/E8EmEuXWUAArm3u.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/l6sEDEfuYc"
+        }
+      ]
+    }
+  }
+}

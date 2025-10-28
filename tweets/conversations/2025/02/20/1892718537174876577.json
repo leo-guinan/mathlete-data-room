@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892718537174876577"
+        ],
+        "editableUntil": "2025-02-21T00:30:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1892718537174876577/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/pMQPurjHsQ",
+          "media_url": "http://pbs.twimg.com/media/GkRJPG0XoAAU2Xx.png",
+          "id_str": "1892718267279581184",
+          "id": "1892718267279581184",
+          "media_url_https": "https://pbs.twimg.com/media/GkRJPG0XoAAU2Xx.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "126",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "223",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1400",
+              "h": "260",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pMQPurjHsQ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "304"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1892708044150054950",
+    "id_str": "1892718537174876577",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892718537174876577",
+    "in_reply_to_status_id": "1892708044150054950",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 20 23:30:38 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, it's time for demos, and I don't have something that's particularly interesting for a demo, but I do have an interesting search pattern.\n\nBasically, I want to understand someone's view on a topic given their twitter archive.\n\nSo I start by getting the top 10 tweets from each… https://t.co/pMQPurjHsQ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1892718537174876577/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/pMQPurjHsQ",
+          "media_url": "http://pbs.twimg.com/media/GkRJPG0XoAAU2Xx.png",
+          "id_str": "1892718267279581184",
+          "id": "1892718267279581184",
+          "media_url_https": "https://pbs.twimg.com/media/GkRJPG0XoAAU2Xx.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "126",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "223",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1400",
+              "h": "260",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pMQPurjHsQ"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1892718537174876577/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/pMQPurjHsQ",
+          "media_url": "http://pbs.twimg.com/media/GkRJUWjXMAAxIsG.png",
+          "id_str": "1892718357402562560",
+          "id": "1892718357402562560",
+          "media_url_https": "https://pbs.twimg.com/media/GkRJUWjXMAAxIsG.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "89",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1400",
+              "h": "184",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "158",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pMQPurjHsQ"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1343369680472465410"
+        ],
+        "editableUntil": "2020-12-28T02:34:25.083Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UCWFvHHizg",
+          "expanded_url": "https://frontier.pioneer.app/posts/9b6dc170-definet-progress-update-december-27th-2020",
+          "display_url": "frontier.pioneer.app/posts/9b6dc170…",
+          "indices": [
+            "143",
+            "166"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "166"
+    ],
+    "favorite_count": "1",
+    "id_str": "1343369680472465410",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1343369680472465410",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 28 01:34:25 +0000 2020",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nTalked with potential investor. Secured first partnership with Hugs app. \n\nRead the rest here:\n\n https://t.co/UCWFvHHizg",
+    "lang": "en"
+  }
+}

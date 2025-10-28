@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973809421957382489"
+        ],
+        "editableUntil": "2025-10-02T18:56:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Moore | Sponsorship Coach",
+          "screen_name": "justinmooretfam",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "544751289",
+          "id": "544751289"
+        },
+        {
+          "name": "Manifold",
+          "screen_name": "ManifoldMarkets",
+          "indices": [
+            "17",
+            "33"
+          ],
+          "id_str": "1466559813752606725",
+          "id": "1466559813752606725"
+        },
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "38",
+            "52"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        },
+        {
+          "name": "Memelord Technologies",
+          "screen_name": "memelordtech",
+          "indices": [
+            "264",
+            "277"
+          ],
+          "id_str": "1416065041082855430",
+          "id": "1416065041082855430"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1973804489401311452",
+    "id_str": "1973809421957382489",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973809421957382489",
+    "in_reply_to_status_id": "1973804489401311452",
+    "created_at": "Thu Oct 02 17:56:52 +0000 2025",
+    "favorited": false,
+    "full_text": "@justinmooretfam @ManifoldMarkets Hey @iamjasonlevin, I appreciate you teaching me that memes make millions. Because it's the only way I'd have the balls to do this. \n\nOnce I get my sponsorship for the channel, I'll be enough of a man to sign up for the expensive @memelordtech account. 🫡",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

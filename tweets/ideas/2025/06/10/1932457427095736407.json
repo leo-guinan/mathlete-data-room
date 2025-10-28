@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932457427095736407"
+        ],
+        "editableUntil": "2025-06-10T16:18:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2XgoDFnCLF",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/temporal-crypto",
+          "display_url": "hitchhikertothefuture.substack.com/p/temporal-cry…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        },
+        {
+          "url": "https://t.co/aFzMOrbKQo",
+          "expanded_url": "https://x.com/scheminglunatic/status/1932203121478164991",
+          "display_url": "x.com/scheminglunati…",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "70"
+    ],
+    "favorite_count": "3",
+    "id_str": "1932457427095736407",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932457427095736407",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 10 15:18:48 +0000 2025",
+    "favorited": false,
+    "full_text": "Solving it solves it.\n\nhttps://t.co/2XgoDFnCLF https://t.co/aFzMOrbKQo",
+    "lang": "en"
+  }
+}

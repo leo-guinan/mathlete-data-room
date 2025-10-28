@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1441912707930746883"
+        ],
+        "editableUntil": "2021-09-26T00:49:13.670Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "nocodedevs",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/nocodedevs/status/1441841328019570690/photo/1",
+          "source_status_id": "1441841328019570690",
+          "indices": [
+            "44",
+            "67"
+          ],
+          "url": "https://t.co/vOLRVwjkiJ",
+          "media_url": "http://pbs.twimg.com/media/FAJzC5oVgAMLtKL.jpg",
+          "id_str": "1441841324378914819",
+          "source_user_id": "1218996709432406017",
+          "id": "1441841324378914819",
+          "media_url_https": "https://pbs.twimg.com/media/FAJzC5oVgAMLtKL.jpg",
+          "source_user_id_str": "1218996709432406017",
+          "sizes": {
+            "medium": {
+              "w": "1170",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1170",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "628",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1441841328019570690",
+          "display_url": "pic.x.com/vOLRVwjkiJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "0",
+    "id_str": "1441912707930746883",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1441912707930746883",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 25 23:49:13 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @nocodedevs: IDK who needs to see this 👀 https://t.co/vOLRVwjkiJ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/nocodedevs/status/1441841328019570690/photo/1",
+          "source_status_id": "1441841328019570690",
+          "indices": [
+            "44",
+            "67"
+          ],
+          "url": "https://t.co/vOLRVwjkiJ",
+          "media_url": "http://pbs.twimg.com/media/FAJzC5oVgAMLtKL.jpg",
+          "id_str": "1441841324378914819",
+          "source_user_id": "1218996709432406017",
+          "id": "1441841324378914819",
+          "media_url_https": "https://pbs.twimg.com/media/FAJzC5oVgAMLtKL.jpg",
+          "source_user_id_str": "1218996709432406017",
+          "sizes": {
+            "medium": {
+              "w": "1170",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1170",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "628",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1441841328019570690",
+          "display_url": "pic.x.com/vOLRVwjkiJ"
+        }
+      ]
+    }
+  }
+}

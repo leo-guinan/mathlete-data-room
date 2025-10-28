@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617885382540144642"
+        ],
+        "editableUntil": "2023-01-24T14:31:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xu3112Gi69",
+          "expanded_url": "https://www.notboring.co/p/differentiation",
+          "display_url": "notboring.co/p/differentiat…",
+          "indices": [
+            "34",
+            "57"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1617884759904096256",
+    "id_str": "1617885382540144642",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617885382540144642",
+    "in_reply_to_status_id": "1617884759904096256",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 24 14:01:48 +0000 2023",
+    "favorited": false,
+    "full_text": "@Chuckenspire Recomend this read: https://t.co/xu3112Gi69",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

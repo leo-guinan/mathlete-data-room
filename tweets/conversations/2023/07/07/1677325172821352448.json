@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1677325172821352448"
+        ],
+        "editableUntil": "2023-07-07T15:34:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amanda Goetz",
+          "screen_name": "AmandaMGoetz",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23698119",
+          "id": "23698119"
+        },
+        {
+          "name": "Morning Brew ☕️",
+          "screen_name": "MorningBrew",
+          "indices": [
+            "14",
+            "26"
+          ],
+          "id_str": "3092541736",
+          "id": "3092541736"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "306"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1677318923178459136",
+    "id_str": "1677325172821352448",
+    "in_reply_to_user_id": "23698119",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1677325172821352448",
+    "in_reply_to_status_id": "1677318923178459136",
+    "created_at": "Fri Jul 07 14:34:19 +0000 2023",
+    "favorited": false,
+    "full_text": "@AmandaMGoetz @MorningBrew I think the differentiation between leading teams and leading individuals is huge.\n\nUnderstanding the individuals who are part of the org is a great way to let them shine. \n\nPeople are able to branch out wider than ever before and yet businesses are focused on making sure every…",
+    "lang": "en",
+    "in_reply_to_screen_name": "AmandaMGoetz",
+    "in_reply_to_user_id_str": "23698119"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1945124335275925952"
+        ],
+        "editableUntil": "2025-07-15T15:12:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Beff – e/acc",
+          "screen_name": "BasedBeffJezos",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1556550048862928898",
+          "id": "1556550048862928898"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1945124335275925952/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/64jJc9DEth",
+          "media_url": "http://pbs.twimg.com/media/Gv54ReVXQAETfud.jpg",
+          "id_str": "1945124330666409985",
+          "id": "1945124330666409985",
+          "media_url_https": "https://pbs.twimg.com/media/Gv54ReVXQAETfud.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/64jJc9DEth"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1945015017708863999",
+    "id_str": "1945124335275925952",
+    "in_reply_to_user_id": "1556550048862928898",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1945124335275925952",
+    "in_reply_to_status_id": "1945015017708863999",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 15 14:12:34 +0000 2025",
+    "favorited": false,
+    "full_text": "@BasedBeffJezos We’ve got to add civilizational cogsec\n\nIt’s bad https://t.co/64jJc9DEth",
+    "lang": "en",
+    "in_reply_to_screen_name": "BasedBeffJezos",
+    "in_reply_to_user_id_str": "1556550048862928898",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1945124335275925952/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/64jJc9DEth",
+          "media_url": "http://pbs.twimg.com/media/Gv54ReVXQAETfud.jpg",
+          "id_str": "1945124330666409985",
+          "id": "1945124330666409985",
+          "media_url_https": "https://pbs.twimg.com/media/Gv54ReVXQAETfud.jpg",
+          "sizes": {
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/64jJc9DEth"
+        }
+      ]
+    }
+  }
+}

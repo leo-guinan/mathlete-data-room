@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1788209314504548498"
+        ],
+        "editableUntil": "2024-05-08T15:08:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wCZSCw9gAO",
+          "expanded_url": "https://x.com/leo_guinan/status/1788209248981209585",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1787954606594814018",
+    "id_str": "1788209314504548498",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1788209314504548498",
+    "in_reply_to_status_id": "1787954606594814018",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 08 14:08:18 +0000 2024",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Oh, good call. :) \n\nhttps://t.co/wCZSCw9gAO",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

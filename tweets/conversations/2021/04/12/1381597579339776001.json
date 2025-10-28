@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381597579339776001"
+        ],
+        "editableUntil": "2021-04-12T14:18:26.413Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "137",
+            "148"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ga4PFuB2qd",
+          "expanded_url": "https://link.medium.com/wVjmdjmFifb",
+          "display_url": "link.medium.com/wVjmdjmFifb",
+          "indices": [
+            "149",
+            "172"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "0",
+    "id_str": "1381597579339776001",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381597579339776001",
+    "possibly_sensitive": false,
+    "created_at": "Mon Apr 12 13:18:26 +0000 2021",
+    "favorited": false,
+    "full_text": "“I wanted to write a bit about how I see the Medium economy and why I think it is a perfect fit for building DeFiNet’s first product.” — @leo_guinan https://t.co/ga4PFuB2qd",
+    "lang": "en"
+  }
+}

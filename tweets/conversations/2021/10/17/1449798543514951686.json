@@ -1,0 +1,193 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1449798543514951686"
+        ],
+        "editableUntil": "2021-10-17T19:04:43.385Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        },
+        {
+          "name": "𝕻𝖍𝖎𝖑 𝕮𝖆𝖘𝖙𝖗𝖔",
+          "screen_name": "philshungry",
+          "indices": [
+            "11",
+            "23"
+          ],
+          "id_str": "22879592",
+          "id": "22879592"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "24",
+            "40"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "41",
+            "56"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        },
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "57",
+            "67"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "68",
+            "78"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1449798543514951686/photo/1",
+          "indices": [
+            "141",
+            "164"
+          ],
+          "url": "https://t.co/zs2B9S8evB",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FB64FrXXsAEf3ai.jpg",
+          "id_str": "1449798537739481089",
+          "id": "1449798537739481089",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FB64FrXXsAEf3ai.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/zs2B9S8evB"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1449565885509869571",
+    "id_str": "1449798543514951686",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1449798543514951686",
+    "in_reply_to_status_id": "1449565885509869571",
+    "possibly_sensitive": false,
+    "created_at": "Sun Oct 17 18:04:43 +0000 2021",
+    "favorited": false,
+    "full_text": "@bkh_leung @philshungry @StroutMotivateU @fernandoparnes @oluadedej @NotechAna I'm not saying that....\n\nBut I'm also not not saying that.... https://t.co/zs2B9S8evB",
+    "lang": "en",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1449798543514951686/photo/1",
+          "indices": [
+            "141",
+            "164"
+          ],
+          "url": "https://t.co/zs2B9S8evB",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FB64FrXXsAEf3ai.jpg",
+          "id_str": "1449798537739481089",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "154"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FB64FrXXsAEf3ai.mp4"
+              }
+            ]
+          },
+          "id": "1449798537739481089",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FB64FrXXsAEf3ai.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "308",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/zs2B9S8evB"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1708918014383677552"
+        ],
+        "editableUntil": "2023-10-02T19:52:59.447Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jay Acunzo",
+          "screen_name": "jayacunzo",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "112596381",
+          "id": "112596381"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1708918014383677552",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1708918014383677552",
+    "created_at": "Mon Oct 02 18:52:59 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @jayacunzo: No, I don't want to \"maximize content output\" or \"generate 10x the content\" or \"create at greater scale.\"\n\nI want to make ri…",
+    "lang": "en"
+  }
+}

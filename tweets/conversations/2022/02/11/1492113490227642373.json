@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492113490227642373"
+        ],
+        "editableUntil": "2022-02-11T13:29:12.855Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1492113490227642373",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492113490227642373",
+    "created_at": "Fri Feb 11 12:29:12 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Ah, flex is so powerful. And then it does something weird.\n\nI'm still figuring it out. Usually there's a pretty easy way to…",
+    "lang": "en"
+  }
+}

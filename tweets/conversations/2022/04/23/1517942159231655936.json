@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1517942159231655936"
+        ],
+        "editableUntil": "2022-04-23T20:03:07.419Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/E5kQLogGXq",
+          "expanded_url": "https://www.producthunt.com/posts/feather-de9be3a3-8867-43b9-9ccc-aaf927291909/reviews/520925",
+          "display_url": "producthunt.com/posts/feather-…",
+          "indices": [
+            "63",
+            "86"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "86"
+    ],
+    "favorite_count": "0",
+    "id_str": "1517942159231655936",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1517942159231655936",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 23 19:03:07 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Check out Fernando Parnes's review of Feather: https://t.co/E5kQLogGXq",
+    "lang": "en"
+  }
+}

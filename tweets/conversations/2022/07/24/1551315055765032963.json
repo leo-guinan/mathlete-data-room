@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1551315055765032963"
+        ],
+        "editableUntil": "2022-07-24T21:45:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Manoj | fullstack.tel",
+          "screen_name": "indefiniteloops",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2165176904",
+          "id": "2165176904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pQeuquGkmW",
+          "expanded_url": "https://blog.buildinpublicuniversity.com/chaos-as-a-growth-lever/",
+          "display_url": "blog.buildinpublicuniversity.com/chaos-as-a-gro…",
+          "indices": [
+            "29",
+            "52"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "107"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1551217840203730946",
+    "id_str": "1551315055765032963",
+    "in_reply_to_user_id": "2165176904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1551315055765032963",
+    "in_reply_to_status_id": "1551217840203730946",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 24 21:15:05 +0000 2022",
+    "favorited": false,
+    "full_text": "@indefiniteloops Here it is! https://t.co/pQeuquGkmW\n\nWould love your feedback. Let me know what you think!",
+    "lang": "en",
+    "in_reply_to_screen_name": "indefiniteloops",
+    "in_reply_to_user_id_str": "2165176904"
+  }
+}

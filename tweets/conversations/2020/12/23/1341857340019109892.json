@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1341857340019109892"
+        ],
+        "editableUntil": "2020-12-23T22:24:55.021Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "weisser",
+          "screen_name": "julianweisser",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "11704332",
+          "id": "11704332"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1341856746176843776",
+    "id_str": "1341857340019109892",
+    "in_reply_to_user_id": "11704332",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1341857340019109892",
+    "in_reply_to_status_id": "1341856746176843776",
+    "created_at": "Wed Dec 23 21:24:55 +0000 2020",
+    "favorited": false,
+    "full_text": "@julianweisser That's what happens when companies take the majority of the value from the creators. That is leading me to build a creator-focused social media platform that will let them monetize their content for themselves, not for me. They should absolutely be paid more than they are now.",
+    "lang": "en",
+    "in_reply_to_screen_name": "julianweisser",
+    "in_reply_to_user_id_str": "11704332"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1880045397810508091"
+        ],
+        "editableUntil": "2025-01-17T01:12:07.049Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "andrew garber - edu/acc 📚",
+          "screen_name": "garberchov",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1037377766373707776",
+          "id": "1037377766373707776"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "24"
+    ],
+    "favorite_count": "0",
+    "id_str": "1880045397810508091",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1880045397810508091",
+    "created_at": "Fri Jan 17 00:12:07 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @garberchov: edu/acc!",
+    "lang": "fr"
+  }
+}

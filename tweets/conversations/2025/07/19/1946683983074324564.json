@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946683983074324564"
+        ],
+        "editableUntil": "2025-07-19T22:30:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/1BK1BohhlW",
+          "expanded_url": "https://x.com/leo_guinan/status/1946683762768478402",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "86",
+            "109"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "109"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1946682213036445850",
+    "id_str": "1946683983074324564",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946683983074324564",
+    "in_reply_to_status_id": "1946682213036445850",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 19 21:30:03 +0000 2025",
+    "favorited": false,
+    "full_text": "@dagorenouf Well, you got a real answer at least. \n\nI got the lazy grok version haha\n\nhttps://t.co/1BK1BohhlW",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561"
+  }
+}

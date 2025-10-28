@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1699431185766605133"
+        ],
+        "editableUntil": "2023-09-06T15:35:43.248Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "^🥷",
+          "screen_name": "JonnieDev",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1226184619588018183",
+          "id": "1226184619588018183"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "100",
+            "111"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N1O2HQd2w0",
+          "expanded_url": "https://open.substack.com/pub/internetfactory/p/hacks-hacking-and-hackers-oh-my?r=hindh&utm_campaign=post&utm_medium=email",
+          "display_url": "open.substack.com/pub/internetfa…",
+          "indices": [
+            "112",
+            "135"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "135"
+    ],
+    "favorite_count": "0",
+    "id_str": "1699431185766605133",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1699431185766605133",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 06 14:35:43 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @JonnieDev: Amazing read for cybersecurity enthusiasts 🫡\n\nHacks, Hacking, and Hackers, Oh My, by @leo_guinan https://t.co/N1O2HQd2w0",
+    "lang": "en"
+  }
+}

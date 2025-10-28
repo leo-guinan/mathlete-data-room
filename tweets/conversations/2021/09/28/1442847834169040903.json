@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1442847834169040903"
+        ],
+        "editableUntil": "2021-09-28T14:45:05.139Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1442847834169040903",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1442847834169040903",
+    "created_at": "Tue Sep 28 13:45:05 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @fernandoparnes: 🤔 Asking for a founder (me): what's your favorite way to send or receive investor updates after having already spoken w…",
+    "lang": "en"
+  }
+}

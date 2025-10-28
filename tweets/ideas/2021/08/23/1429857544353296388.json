@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1429857544353296388"
+        ],
+        "editableUntil": "2021-08-23T18:26:18.699Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "239"
+    ],
+    "favorite_count": "1",
+    "id_str": "1429857544353296388",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1429857544353296388",
+    "created_at": "Mon Aug 23 17:26:18 +0000 2021",
+    "favorited": false,
+    "full_text": "Ok, I'm learning that I am not good at CSS. I used to be functional. Now, not so much.\n\nI've gotten the functionality ironed out. Now I'm struggling to get things looking not terrible. \n\nNeed to spend time digging into Tailwind a bit more.",
+    "lang": "en"
+  }
+}

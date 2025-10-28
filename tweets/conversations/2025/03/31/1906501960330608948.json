@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1906501960330608948"
+        ],
+        "editableUntil": "2025-03-31T01:21:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kimberly Forsythe",
+          "screen_name": "NewWrldOptimist",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2590913185",
+          "id": "2590913185"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1906483927167967641",
+    "id_str": "1906501960330608948",
+    "in_reply_to_user_id": "2590913185",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1906501960330608948",
+    "in_reply_to_status_id": "1906483927167967641",
+    "created_at": "Mon Mar 31 00:21:03 +0000 2025",
+    "favorited": false,
+    "full_text": "@NewWrldOptimist In a world of everyone being able to produce anything they want, the difficulty becomes coordinating what to build. \n\nThis leads me to believe that governance is going to be focused tightly on the local level, both in terms of physical location and also within online communities.…",
+    "lang": "en",
+    "in_reply_to_screen_name": "NewWrldOptimist",
+    "in_reply_to_user_id_str": "2590913185"
+  }
+}

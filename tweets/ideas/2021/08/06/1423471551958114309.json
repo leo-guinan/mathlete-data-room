@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423471551958114309"
+        ],
+        "editableUntil": "2021-08-06T03:30:39.466Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/P4LjSNc877",
+          "expanded_url": "https://x.com/AaronOrendorff/status/1423326769730359296",
+          "display_url": "x.com/AaronOrendorff…",
+          "indices": [
+            "30",
+            "53"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "53"
+    ],
+    "favorite_count": "2",
+    "id_str": "1423471551958114309",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423471551958114309",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 06 02:30:39 +0000 2021",
+    "favorited": false,
+    "full_text": "Wow. So much great info here! https://t.co/P4LjSNc877",
+    "lang": "en"
+  }
+}

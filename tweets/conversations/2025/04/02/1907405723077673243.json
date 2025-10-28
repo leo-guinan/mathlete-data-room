@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1907405723077673243"
+        ],
+        "editableUntil": "2025-04-02T13:12:16.923Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Gladia.io",
+          "screen_name": "gladia_io",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1481301784018698240",
+          "id": "1481301784018698240"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1907405723077673243",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1907405723077673243",
+    "created_at": "Wed Apr 02 12:12:16 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @gladia_io: Speech is our most powerful and intimate form of connection–and for the first time, humans and AI can speak the same languag…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1610333228757356549"
+        ],
+        "editableUntil": "2023-01-03T18:22:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rando Tkatsenko",
+          "screen_name": "RTkatsenko",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1605176430559727616",
+          "id": "1605176430559727616"
+        },
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "12",
+            "22"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1610273002129604609",
+    "id_str": "1610333228757356549",
+    "in_reply_to_user_id": "1605176430559727616",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1610333228757356549",
+    "in_reply_to_status_id": "1610273002129604609",
+    "created_at": "Tue Jan 03 17:52:14 +0000 2023",
+    "favorited": false,
+    "full_text": "@RTkatsenko @bkh_leung haha, yeah that's a lot of work.\n\nGuess I might as well continue to build real products...",
+    "lang": "en",
+    "in_reply_to_screen_name": "RTkatsenko",
+    "in_reply_to_user_id_str": "1605176430559727616"
+  }
+}

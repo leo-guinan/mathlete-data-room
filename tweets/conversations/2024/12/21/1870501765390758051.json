@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1870501765390758051"
+        ],
+        "editableUntil": "2024-12-21T17:09:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "168"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1870496292486414438",
+    "id_str": "1870501765390758051",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1870501765390758051",
+    "in_reply_to_status_id": "1870496292486414438",
+    "created_at": "Sat Dec 21 16:09:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic There will be soon. \n\n(Currently exploring using that as the basis for a different insurance model based on individual people. Changes a lot of things)",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1614336867469508608"
+        ],
+        "editableUntil": "2023-01-14T19:31:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "259"
+    ],
+    "favorite_count": "1",
+    "id_str": "1614336867469508608",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1614336867469508608",
+    "created_at": "Sat Jan 14 19:01:16 +0000 2023",
+    "favorited": false,
+    "full_text": "Writing some scripts to download and process files for me.\n\nI want to create my personal content recommendation system based on creators I enjoy. So in addition to being able to recommend my content to others, I'm going to recommend content to me from others.",
+    "lang": "en"
+  }
+}

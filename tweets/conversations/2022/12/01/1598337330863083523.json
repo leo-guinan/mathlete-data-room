@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1598337330863083523"
+        ],
+        "editableUntil": "2022-12-01T15:54:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Vibroscope",
+          "screen_name": "Vibroscope",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1539220218194665477",
+          "id": "1539220218194665477"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1598334712048766978",
+    "id_str": "1598337330863083523",
+    "in_reply_to_user_id": "1593989371560075267",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1598337330863083523",
+    "in_reply_to_status_id": "1598334712048766978",
+    "created_at": "Thu Dec 01 15:24:50 +0000 2022",
+    "favorited": false,
+    "full_text": "@vibroscope The most interesting thing about humans is that they aren't influenced strictly by biological imperatives. It's a combination of biological and social influences mixed with individual experiences.\n\nReducing things to biology ignores too many factors.",
+    "lang": "en",
+    "in_reply_to_screen_name": "godprovideth",
+    "in_reply_to_user_id_str": "1593989371560075267"
+  }
+}

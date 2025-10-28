@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940061254317404610"
+        ],
+        "editableUntil": "2025-07-01T15:53:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940061254317404610/photo/1",
+          "indices": [
+            "114",
+            "137"
+          ],
+          "url": "https://t.co/66n4J59NUN",
+          "media_url": "http://pbs.twimg.com/media/Gux6C33WQAI6MOs.jpg",
+          "id_str": "1940059729264263170",
+          "id": "1940059729264263170",
+          "media_url_https": "https://pbs.twimg.com/media/Gux6C33WQAI6MOs.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/66n4J59NUN"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "137"
+    ],
+    "favorite_count": "2",
+    "id_str": "1940061254317404610",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940061254317404610",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 14:53:42 +0000 2025",
+    "favorited": false,
+    "full_text": "In a time of prophets, I offer some rules that technoprophets (or hitchhikers to the future) should keep in mind. https://t.co/66n4J59NUN",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940061254317404610/photo/1",
+          "indices": [
+            "114",
+            "137"
+          ],
+          "url": "https://t.co/66n4J59NUN",
+          "media_url": "http://pbs.twimg.com/media/Gux6C33WQAI6MOs.jpg",
+          "id_str": "1940059729264263170",
+          "id": "1940059729264263170",
+          "media_url_https": "https://pbs.twimg.com/media/Gux6C33WQAI6MOs.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/66n4J59NUN"
+        }
+      ]
+    }
+  }
+}

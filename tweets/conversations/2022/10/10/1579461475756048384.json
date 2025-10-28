@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1579461475756048384"
+        ],
+        "editableUntil": "2022-10-10T13:48:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dan Kulkov",
+          "screen_name": "DanKulkov",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1304474568149663745",
+          "id": "1304474568149663745"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1579461475756048384/photo/1",
+          "indices": [
+            "11",
+            "34"
+          ],
+          "url": "https://t.co/ahXrwJzpML",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fetf1kaXEAUw-6j.jpg",
+          "id_str": "1579461468235436037",
+          "id": "1579461468235436037",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fetf1kaXEAUw-6j.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ahXrwJzpML"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "34"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1579416923129151497",
+    "id_str": "1579461475756048384",
+    "in_reply_to_user_id": "1304474568149663745",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1579461475756048384",
+    "in_reply_to_status_id": "1579416923129151497",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 10 13:18:55 +0000 2022",
+    "favorited": false,
+    "full_text": "@DanKulkov https://t.co/ahXrwJzpML",
+    "lang": "qme",
+    "in_reply_to_screen_name": "DanKulkov",
+    "in_reply_to_user_id_str": "1304474568149663745",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1579461475756048384/photo/1",
+          "indices": [
+            "11",
+            "34"
+          ],
+          "url": "https://t.co/ahXrwJzpML",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Fetf1kaXEAUw-6j.jpg",
+          "id_str": "1579461468235436037",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Fetf1kaXEAUw-6j.mp4"
+              }
+            ]
+          },
+          "id": "1579461468235436037",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Fetf1kaXEAUw-6j.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/ahXrwJzpML"
+        }
+      ]
+    }
+  }
+}

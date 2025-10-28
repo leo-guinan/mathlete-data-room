@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1683474690839330819"
+        ],
+        "editableUntil": "2023-07-24T14:50:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uY5BXpnKb8",
+          "expanded_url": "https://app.buildinpublic.coach",
+          "display_url": "app.buildinpublic.coach",
+          "indices": [
+            "116",
+            "139"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "224"
+    ],
+    "favorite_count": "6",
+    "id_str": "1683474690839330819",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1683474690839330819",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 24 13:50:18 +0000 2023",
+    "favorited": false,
+    "full_text": "Was able to push Build In Public coach live last night. Still super basic functionality, but it works!\n\nDeployed to https://t.co/uY5BXpnKb8\n\nPutting together a list of features/tweaks that I'll be working on. moving forward.",
+    "lang": "en"
+  }
+}

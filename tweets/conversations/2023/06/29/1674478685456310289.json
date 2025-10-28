@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1674478685456310289"
+        ],
+        "editableUntil": "2023-06-29T19:03:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fuNo3raaqv",
+          "expanded_url": "http://Copy.ai",
+          "display_url": "Copy.ai",
+          "indices": [
+            "56",
+            "79"
+          ]
+        },
+        {
+          "url": "https://t.co/fuNo3raaqv",
+          "expanded_url": "http://Copy.ai",
+          "display_url": "Copy.ai",
+          "indices": [
+            "247",
+            "270"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1674478248380514305",
+    "id_str": "1674478685456310289",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1674478685456310289",
+    "in_reply_to_status_id": "1674478248380514305",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 29 18:03:23 +0000 2023",
+    "favorited": false,
+    "full_text": "So I'm going to process it locally to pass it on to the https://t.co/fuNo3raaqv workflow I'm using to analyze it and split. \n\nThen I can get the responses and shove them into Chroma, and generate answers to write DB pages, throw them into a third https://t.co/fuNo3raaqv workflow,",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

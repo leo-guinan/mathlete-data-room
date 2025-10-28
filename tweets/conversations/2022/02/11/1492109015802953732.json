@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492109015802953732"
+        ],
+        "editableUntil": "2022-02-11T13:11:26.069Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        },
+        {
+          "name": "Andrew Gazdecki",
+          "screen_name": "agazdecki",
+          "indices": [
+            "12",
+            "22"
+          ],
+          "id_str": "1511333035",
+          "id": "1511333035"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1492107078785277953",
+    "id_str": "1492109015802953732",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492109015802953732",
+    "in_reply_to_status_id": "1492107078785277953",
+    "created_at": "Fri Feb 11 12:11:26 +0000 2022",
+    "favorited": false,
+    "full_text": "@dagorenouf @agazdecki Great point. Knowing who's feedback to prioritize is really important. The wrong feedback will lead you astray",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561"
+  }
+}

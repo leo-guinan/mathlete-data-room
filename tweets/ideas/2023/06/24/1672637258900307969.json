@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1672637258900307969"
+        ],
+        "editableUntil": "2023-06-24T17:06:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fuNo3raaqv",
+          "expanded_url": "http://Copy.ai",
+          "display_url": "Copy.ai",
+          "indices": [
+            "114",
+            "137"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "2",
+    "id_str": "1672637258900307969",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1672637258900307969",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 24 16:06:13 +0000 2023",
+    "favorited": false,
+    "full_text": "Have a new workflow set up that allows me to add a question to a Notion database and that kicks off a workflow on https://t.co/fuNo3raaqv that writes a draft of a blog post and gives me all the SEO data I need for it.",
+    "lang": "en"
+  }
+}

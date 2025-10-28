@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1495757162731163660"
+        ],
+        "editableUntil": "2022-02-21T14:47:52.076Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        },
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        },
+        {
+          "name": "Tibo",
+          "screen_name": "tibo_maker",
+          "indices": [
+            "23",
+            "34"
+          ],
+          "id_str": "470129898",
+          "id": "470129898"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "75"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1495754530075693057",
+    "id_str": "1495757162731163660",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1495757162731163660",
+    "in_reply_to_status_id": "1495754530075693057",
+    "created_at": "Mon Feb 21 13:47:52 +0000 2022",
+    "favorited": false,
+    "full_text": "@bkh_leung @dagorenouf @tibo_maker Brian just likes playing on hard mode\n 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862"
+  }
+}

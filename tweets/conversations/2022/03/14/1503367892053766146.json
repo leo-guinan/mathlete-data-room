@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1503367892053766146"
+        ],
+        "editableUntil": "2022-03-14T14:50:11.347Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shawn 🐳",
+          "screen_name": "ShawnAxsom",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "7773312",
+          "id": "7773312"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "219"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1503367885732909056",
+    "id_str": "1503367892053766146",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1503367892053766146",
+    "in_reply_to_status_id": "1503367885732909056",
+    "created_at": "Mon Mar 14 13:50:11 +0000 2022",
+    "favorited": false,
+    "full_text": "@ShawnAxsom At the time of writing, I've had 15 people take me up on my offer. \n\nI'm really excited to connect with all sorts of different people. Looks like there are people from all over the world.\n\nThat's incredible.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

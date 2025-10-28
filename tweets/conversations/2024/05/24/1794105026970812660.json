@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1794105026970812660"
+        ],
+        "editableUntil": "2024-05-24T21:35:45.946Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1794105026970812660",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1794105026970812660",
+    "created_at": "Fri May 24 20:35:45 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @finereli: I'm working on a way to turn the last marketing bootcamp I ran into a free marketing playbook for introverted developers.\n\nTh…",
+    "lang": "en"
+  }
+}

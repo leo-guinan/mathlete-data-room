@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1886836886712324519"
+        ],
+        "editableUntil": "2025-02-04T18:59:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Bateman",
+          "screen_name": "mbateman",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "3467611",
+          "id": "3467611"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1886832413533217035",
+    "id_str": "1886836886712324519",
+    "in_reply_to_user_id": "3467611",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1886836886712324519",
+    "in_reply_to_status_id": "1886832413533217035",
+    "created_at": "Tue Feb 04 17:59:04 +0000 2025",
+    "favorited": false,
+    "full_text": "@mbateman what if we stopped trying to scale it?\n\nI actually think we could do a lot better by simply observing locally and trying to do what seems best in the moment.\n\nWe're hitting a rate of change where it doesn't make sense to scale approaches because all schools are becoming wildly…",
+    "lang": "en",
+    "in_reply_to_screen_name": "mbateman",
+    "in_reply_to_user_id_str": "3467611"
+  }
+}

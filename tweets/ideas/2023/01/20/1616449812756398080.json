@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1616449812756398080"
+        ],
+        "editableUntil": "2023-01-20T15:27:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "1",
+    "id_str": "1616449812756398080",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1616449812756398080",
+    "created_at": "Fri Jan 20 14:57:22 +0000 2023",
+    "favorited": false,
+    "full_text": "Got to look at tweaking my approach. When processing a bunch of content last night, was running into some errors, potentially related to parallelized tasks.\n\nThought I had it set up right, but might not have. Considering doing more of the work with Airtable/N8N actually.",
+    "lang": "en"
+  }
+}

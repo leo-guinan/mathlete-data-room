@@ -1,0 +1,186 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519386182039347204"
+        ],
+        "editableUntil": "2022-04-27T19:41:09.285Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/MindsetByDave/status/1519384099860930561/video/1",
+          "source_status_id": "1519384099860930561",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/ulX0xPcABZ",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519383982579847169/pu/img/3N1NdmLI85YNY7nS.jpg",
+          "id_str": "1519383982579847169",
+          "source_user_id": "112397978",
+          "id": "1519383982579847169",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519383982579847169/pu/img/3N1NdmLI85YNY7nS.jpg",
+          "source_user_id_str": "112397978",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1519384099860930561",
+          "display_url": "pic.x.com/ulX0xPcABZ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "chronicillness",
+          "indices": [
+            "52",
+            "67"
+          ]
+        },
+        {
+          "text": "disability",
+          "indices": [
+            "68",
+            "79"
+          ]
+        },
+        {
+          "text": "invisibleillness",
+          "indices": [
+            "80",
+            "97"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "121"
+    ],
+    "favorite_count": "0",
+    "id_str": "1519386182039347204",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1519386182039347204",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 27 18:41:09 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @MindsetByDave: Don’t compare, unless it’s fair! #chronicillness #disability #invisibleillness https://t.co/ulX0xPcABZ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/MindsetByDave/status/1519384099860930561/video/1",
+          "source_status_id": "1519384099860930561",
+          "indices": [
+            "98",
+            "121"
+          ],
+          "url": "https://t.co/ulX0xPcABZ",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519383982579847169/pu/img/3N1NdmLI85YNY7nS.jpg",
+          "id_str": "1519383982579847169",
+          "video_info": {
+            "aspect_ratio": [
+              "9",
+              "16"
+            ],
+            "duration_millis": "56554",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1519383982579847169/pu/pl/L15mYD-U75HHzGWT.m3u8?tag=12"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1519383982579847169/pu/vid/320x568/o37K7P3c-IuG3ruD.mp4?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1519383982579847169/pu/vid/720x1280/8N_sZgsxS-URWHME.mp4?tag=12"
+              },
+              {
+                "bitrate": "950000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1519383982579847169/pu/vid/480x852/dLrWPSkI0DD9GQn8.mp4?tag=12"
+              }
+            ]
+          },
+          "source_user_id": "112397978",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1519383982579847169",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519383982579847169/pu/img/3N1NdmLI85YNY7nS.jpg",
+          "source_user_id_str": "112397978",
+          "sizes": {
+            "medium": {
+              "w": "675",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "720",
+              "h": "1280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "383",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1519384099860930561",
+          "display_url": "pic.x.com/ulX0xPcABZ"
+        }
+      ]
+    }
+  }
+}

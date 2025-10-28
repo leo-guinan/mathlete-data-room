@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1815827253596467367"
+        ],
+        "editableUntil": "2024-07-23T20:12:08.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zach Gollwitzer",
+          "screen_name": "zg_dev",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "1344034901344083971",
+          "id": "1344034901344083971"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1815824137124020257",
+    "id_str": "1815827253596467367",
+    "in_reply_to_user_id": "1344034901344083971",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1815827253596467367",
+    "in_reply_to_status_id": "1815824137124020257",
+    "created_at": "Tue Jul 23 19:12:08 +0000 2024",
+    "favorited": false,
+    "full_text": "@zg_dev You didn't share the actual solution? I always like doing that, just in case... lol",
+    "lang": "en",
+    "in_reply_to_screen_name": "zg_dev",
+    "in_reply_to_user_id_str": "1344034901344083971"
+  }
+}

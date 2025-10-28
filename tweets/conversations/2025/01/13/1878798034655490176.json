@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1878798034655490176"
+        ],
+        "editableUntil": "2025-01-13T14:35:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tylercowen",
+          "screen_name": "tylercowen",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "8496762",
+          "id": "8496762"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1878795468173664655",
+    "id_str": "1878798034655490176",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1878798034655490176",
+    "in_reply_to_status_id": "1878795468173664655",
+    "created_at": "Mon Jan 13 13:35:32 +0000 2025",
+    "favorited": false,
+    "full_text": "@tylercowen Now, we're getting into cost disease, which I think I'm going to write a full post on. That's a new concept that I hadn't heard of, but my economic model solves that issue. \n\nIt's all about creating stability in one part of the economy to allow for rapid growth and change in…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

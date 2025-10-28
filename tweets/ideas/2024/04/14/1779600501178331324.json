@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1779600501178331324"
+        ],
+        "editableUntil": "2024-04-14T20:59:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1779600501178331324/photo/1",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/cyAc3uJkcf",
+          "media_url": "http://pbs.twimg.com/media/GLJpIahWgAAEJIK.jpg",
+          "id_str": "1779600396043845632",
+          "id": "1779600396043845632",
+          "media_url_https": "https://pbs.twimg.com/media/GLJpIahWgAAEJIK.jpg",
+          "sizes": {
+            "medium": {
+              "w": "941",
+              "h": "630",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "941",
+              "h": "630",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "455",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/cyAc3uJkcf"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "1",
+    "id_str": "1779600501178331324",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1779600501178331324",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 14 19:59:57 +0000 2024",
+    "favorited": false,
+    "full_text": "Me working with my submind on My AI Cofounder https://t.co/cyAc3uJkcf",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1779600501178331324/photo/1",
+          "indices": [
+            "46",
+            "69"
+          ],
+          "url": "https://t.co/cyAc3uJkcf",
+          "media_url": "http://pbs.twimg.com/media/GLJpIahWgAAEJIK.jpg",
+          "id_str": "1779600396043845632",
+          "id": "1779600396043845632",
+          "media_url_https": "https://pbs.twimg.com/media/GLJpIahWgAAEJIK.jpg",
+          "sizes": {
+            "medium": {
+              "w": "941",
+              "h": "630",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "941",
+              "h": "630",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "455",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/cyAc3uJkcf"
+        }
+      ]
+    }
+  }
+}

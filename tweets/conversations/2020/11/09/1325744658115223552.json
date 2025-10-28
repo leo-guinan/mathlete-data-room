@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1325744658115223552"
+        ],
+        "editableUntil": "2020-11-09T11:18:52.296Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Buy Me a Coffee",
+          "screen_name": "buymeacoffee",
+          "indices": [
+            "7",
+            "20"
+          ],
+          "id_str": "920892712416575488",
+          "id": "920892712416575488"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h0950tQMBG",
+          "expanded_url": "https://www.buymeacoffee.com/leoguinan",
+          "display_url": "buymeacoffee.com/leoguinan",
+          "indices": [
+            "88",
+            "111"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "0",
+    "id_str": "1325744658115223552",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1325744658115223552",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 09 10:18:52 +0000 2020",
+    "favorited": false,
+    "full_text": "I’m on @buymeacoffee. If you like my work, you can buy me a  and share your thoughts 🎉☕ https://t.co/h0950tQMBG",
+    "lang": "en"
+  }
+}

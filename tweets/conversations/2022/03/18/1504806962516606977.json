@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1504806962516606977"
+        ],
+        "editableUntil": "2022-03-18T14:08:32.482Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adam H",
+          "screen_name": "AdamHascall",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "751125058035195904",
+          "id": "751125058035195904"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "13",
+            "23"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/L9BX6meB2v",
+          "expanded_url": "https://x.com/leo_guinan/status/1504799794786615299?s=20&t=jI2-mCkLIMLwyU7Qt3eLww",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "132",
+            "155"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "179"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1504515306189860865",
+    "id_str": "1504806962516606977",
+    "in_reply_to_user_id": "751125058035195904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1504806962516606977",
+    "in_reply_to_status_id": "1504515306189860865",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 18 13:08:32 +0000 2022",
+    "favorited": false,
+    "full_text": "@AdamHascall @NotechAna Hey Adam! Would love to chat!\n\nHere's a link with some info and a form I'm using to keep track of interest: https://t.co/L9BX6meB2v\n\nLooking forward to it!",
+    "lang": "en",
+    "in_reply_to_screen_name": "AdamHascall",
+    "in_reply_to_user_id_str": "751125058035195904"
+  }
+}

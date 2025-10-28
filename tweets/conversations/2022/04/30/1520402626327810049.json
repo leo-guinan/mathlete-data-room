@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520402626327810049"
+        ],
+        "editableUntil": "2022-04-30T14:30:08.488Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nirav",
+          "screen_name": "sanghvinirav",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "87908734",
+          "id": "87908734"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1520401384998195202",
+    "id_str": "1520402626327810049",
+    "in_reply_to_user_id": "87908734",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1520402626327810049",
+    "in_reply_to_status_id": "1520401384998195202",
+    "created_at": "Sat Apr 30 14:00:08 +0000 2022",
+    "favorited": false,
+    "full_text": "@sanghvinirav Both.\n\nWriting code that does a specific thing is a skill.\n\nBut designing systems to work together and accomplish things is more of an art. There are a million \"correct\" ways. \n\nBut there is an art to simple powerful systems that not all grasp.",
+    "lang": "en",
+    "in_reply_to_screen_name": "sanghvinirav",
+    "in_reply_to_user_id_str": "87908734"
+  }
+}

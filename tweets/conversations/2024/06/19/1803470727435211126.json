@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803470727435211126"
+        ],
+        "editableUntil": "2024-06-19T17:51:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "michalfecko",
+          "screen_name": "MisoFecko",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "2823644786",
+          "id": "2823644786"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "11",
+            "23"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1803445142029795822",
+    "id_str": "1803470727435211126",
+    "in_reply_to_user_id": "2823644786",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803470727435211126",
+    "in_reply_to_status_id": "1803445142029795822",
+    "created_at": "Wed Jun 19 16:51:42 +0000 2024",
+    "favorited": false,
+    "full_text": "@MisoFecko @_buildspace The newsletter is where I'm writing my book of the same name in public. It's about the concepts, how I'm personally implementing them, and ideas for how to use the tools I put in the lab for others to use.",
+    "lang": "en",
+    "in_reply_to_screen_name": "MisoFecko",
+    "in_reply_to_user_id_str": "2823644786"
+  }
+}

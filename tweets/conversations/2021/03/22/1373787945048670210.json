@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1373787945048670210"
+        ],
+        "editableUntil": "2021-03-22T01:05:44.502Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rory",
+          "screen_name": "roryreckons",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1644297201357824001",
+          "id": "1644297201357824001"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "158"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1373787771630931972",
+    "id_str": "1373787945048670210",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1373787945048670210",
+    "in_reply_to_status_id": "1373787771630931972",
+    "created_at": "Mon Mar 22 00:05:44 +0000 2021",
+    "favorited": false,
+    "full_text": "@roryreckons I got better at it. Now, I don't write quite as much, but the practice from those couple months helped me figure out what worked and what didn't.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

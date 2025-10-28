@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1565345085134602240"
+        ],
+        "editableUntil": "2022-09-01T14:55:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Wes Foster",
+          "screen_name": "realwesfoster",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "200691135",
+          "id": "200691135"
+        },
+        {
+          "name": "YETI",
+          "screen_name": "YETICoolers",
+          "indices": [
+            "15",
+            "27"
+          ],
+          "id_str": "39811068",
+          "id": "39811068"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "305"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1565081103425277952",
+    "id_str": "1565345085134602240",
+    "in_reply_to_user_id": "200691135",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1565345085134602240",
+    "in_reply_to_status_id": "1565081103425277952",
+    "created_at": "Thu Sep 01 14:25:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@realwesfoster @YETICoolers I'm definitely a daily Yeti user.\n\nI haven't really gotten on the wireless charger kick yet, and honestly, I'm not sure why. Just hasn't stuck with me, probably because I use the same charger for multiple devices, and most don't support it.\n\nMight have to change my setup a bit",
+    "lang": "en",
+    "in_reply_to_screen_name": "realwesfoster",
+    "in_reply_to_user_id_str": "200691135"
+  }
+}

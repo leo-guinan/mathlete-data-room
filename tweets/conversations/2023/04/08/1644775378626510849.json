@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1644775378626510849"
+        ],
+        "editableUntil": "2023-04-08T19:23:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amy's Vue on this",
+          "screen_name": "detwiler_amy",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "4683397465",
+          "id": "4683397465"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "14",
+            "26"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "Art Inspired By Banned Books!",
+          "screen_name": "BannedBooksArt",
+          "indices": [
+            "27",
+            "42"
+          ],
+          "id_str": "1489067131396403202",
+          "id": "1489067131396403202"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1644774001430937601",
+    "id_str": "1644775378626510849",
+    "in_reply_to_user_id": "4683397465",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1644775378626510849",
+    "in_reply_to_status_id": "1644774001430937601",
+    "created_at": "Sat Apr 08 18:53:03 +0000 2023",
+    "favorited": false,
+    "full_text": "@detwiler_amy @_buildspace @BannedBooksArt Love it! \n\nWhich house are you in?",
+    "lang": "en",
+    "in_reply_to_screen_name": "detwiler_amy",
+    "in_reply_to_user_id_str": "4683397465"
+  }
+}

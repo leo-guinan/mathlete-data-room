@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1376912640870645762"
+        ],
+        "editableUntil": "2021-03-30T16:02:10.040Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jesse J. Anderson",
+          "screen_name": "jessejanderson",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1569906959150903303",
+          "id": "1569906959150903303"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1376912640870645762",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1376912640870645762",
+    "created_at": "Tue Mar 30 15:02:10 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @jessejanderson: You are wasting 80% of your time.\n\n80% of the value you create comes from just 20% of the work you put in. While the re…",
+    "lang": "en"
+  }
+}

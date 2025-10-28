@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1471934433448050700"
+        ],
+        "editableUntil": "2021-12-17T21:04:50.810Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5KKYWtEWaf",
+          "expanded_url": "https://x.com/TheKookamonga/status/1471933827371003905",
+          "display_url": "x.com/TheKookamonga/…",
+          "indices": [
+            "24",
+            "47"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "47"
+    ],
+    "favorite_count": "1",
+    "id_str": "1471934433448050700",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1471934433448050700",
+    "possibly_sensitive": false,
+    "created_at": "Fri Dec 17 20:04:50 +0000 2021",
+    "favorited": false,
+    "full_text": "Going live momentarily! https://t.co/5KKYWtEWaf",
+    "lang": "en"
+  }
+}

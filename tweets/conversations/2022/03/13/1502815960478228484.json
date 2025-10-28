@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1502815960478228484"
+        ],
+        "editableUntil": "2022-03-13T02:17:00.605Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shawn 🐳",
+          "screen_name": "ShawnAxsom",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "7773312",
+          "id": "7773312"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LXIOfSU9ps",
+          "expanded_url": "https://calendly.com/leo_guinan/coffee-chat",
+          "display_url": "calendly.com/leo_guinan/cof…",
+          "indices": [
+            "12",
+            "35"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "35"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1502814572490772481",
+    "id_str": "1502815960478228484",
+    "in_reply_to_user_id": "7773312",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1502815960478228484",
+    "in_reply_to_status_id": "1502814572490772481",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 13 01:17:00 +0000 2022",
+    "favorited": false,
+    "full_text": "@ShawnAxsom https://t.co/LXIOfSU9ps",
+    "lang": "qme",
+    "in_reply_to_screen_name": "ShawnAxsom",
+    "in_reply_to_user_id_str": "7773312"
+  }
+}

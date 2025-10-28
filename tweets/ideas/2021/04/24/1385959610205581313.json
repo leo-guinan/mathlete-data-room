@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1385959610205581313"
+        ],
+        "editableUntil": "2021-04-24T15:11:35.614Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wDxGYHadBD",
+          "expanded_url": "https://x.com/gregisenberg/status/1385958359023726592",
+          "display_url": "x.com/gregisenberg/s…",
+          "indices": [
+            "32",
+            "55"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "0",
+    "id_str": "1385959610205581313",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1385959610205581313",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 24 14:11:35 +0000 2021",
+    "favorited": false,
+    "full_text": "Another great thread from Greg! https://t.co/wDxGYHadBD",
+    "lang": "en"
+  }
+}

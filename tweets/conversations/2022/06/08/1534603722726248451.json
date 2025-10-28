@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1534603722726248451"
+        ],
+        "editableUntil": "2022-06-08T19:00:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1534603720486420481",
+    "id_str": "1534603722726248451",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1534603722726248451",
+    "in_reply_to_status_id": "1534603720486420481",
+    "created_at": "Wed Jun 08 18:30:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@hellostartupla So what if there was a DAO set up that could help cover moving expenses? With freedom of movement between locales with different governing beliefs, I think there would potentially be some interesting effects.\n\nSo how could you figure out how to allocate the available resources?",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

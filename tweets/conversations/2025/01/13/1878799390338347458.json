@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1878799390338347458"
+        ],
+        "editableUntil": "2025-01-13T14:40:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tylercowen",
+          "screen_name": "tylercowen",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "8496762",
+          "id": "8496762"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1878798034655490176",
+    "id_str": "1878799390338347458",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1878799390338347458",
+    "in_reply_to_status_id": "1878798034655490176",
+    "created_at": "Mon Jan 13 13:40:55 +0000 2025",
+    "favorited": false,
+    "full_text": "@tylercowen Then he mentions that people who study diffusion of new technologies never think there will be rapid takeoffs.\n\nHe did capture a something before this and something as part of this that I think are key.\n\nFirst of all, IQ isn't all that important for success. It's one component,…",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

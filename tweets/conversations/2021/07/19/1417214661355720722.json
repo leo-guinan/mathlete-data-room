@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1417214661355720722"
+        ],
+        "editableUntil": "2021-07-19T21:08:00.499Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1417214661355720722/photo/1",
+          "indices": [
+            "212",
+            "235"
+          ],
+          "url": "https://t.co/f9ITDkrBai",
+          "media_url": "http://pbs.twimg.com/media/E6r1OW5VUAcWOA4.png",
+          "id_str": "1417214659774468103",
+          "id": "1417214659774468103",
+          "media_url_https": "https://pbs.twimg.com/media/E6r1OW5VUAcWOA4.png",
+          "sizes": {
+            "small": {
+              "w": "252",
+              "h": "346",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "252",
+              "h": "346",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "252",
+              "h": "346",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/f9ITDkrBai"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "235"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1417214656574214156",
+    "id_str": "1417214661355720722",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1417214661355720722",
+    "in_reply_to_status_id": "1417214656574214156",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 19 20:08:00 +0000 2021",
+    "favorited": false,
+    "full_text": "A DAG is therefore a directed graph with no cycles.\nThis image shows you what a DAG looks like. It starts at node a, branches off from there, and all branches end at e. But there are no loops or cycles anywhere. https://t.co/f9ITDkrBai",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1417214661355720722/photo/1",
+          "indices": [
+            "212",
+            "235"
+          ],
+          "url": "https://t.co/f9ITDkrBai",
+          "media_url": "http://pbs.twimg.com/media/E6r1OW5VUAcWOA4.png",
+          "id_str": "1417214659774468103",
+          "id": "1417214659774468103",
+          "media_url_https": "https://pbs.twimg.com/media/E6r1OW5VUAcWOA4.png",
+          "sizes": {
+            "small": {
+              "w": "252",
+              "h": "346",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "252",
+              "h": "346",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "252",
+              "h": "346",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/f9ITDkrBai"
+        }
+      ]
+    }
+  }
+}

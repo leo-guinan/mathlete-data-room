@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1468646050906968071"
+        ],
+        "editableUntil": "2021-12-08T19:17:59.317Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        },
+        {
+          "name": "Sam",
+          "screen_name": "futurenomics",
+          "indices": [
+            "17",
+            "30"
+          ],
+          "id_str": "953893733468172288",
+          "id": "953893733468172288"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "281"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1468640934741041161",
+    "id_str": "1468646050906968071",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1468646050906968071",
+    "in_reply_to_status_id": "1468640934741041161",
+    "created_at": "Wed Dec 08 18:17:59 +0000 2021",
+    "favorited": false,
+    "full_text": "@benjamingreeley @futurenomics A dragon* attacks**!\n\nDo you: \n\nA. Use your sword*** to fight the dragon\nB. Run away****\n\n* potential bad actor\n** has obtained a large chunk of our coin and taken control\n*** try to deal head on\n**** reverse transaction and pretend it never happened",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

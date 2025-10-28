@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1626596667154898944"
+        ],
+        "editableUntil": "2023-02-17T15:27:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "269"
+    ],
+    "favorite_count": "0",
+    "id_str": "1626596667154898944",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1626596667154898944",
+    "created_at": "Fri Feb 17 14:57:20 +0000 2023",
+    "favorited": false,
+    "full_text": "Fun challenge I had yesterday:\nfigure out how to deal with a 25GB JSON file.\n\nI was working on some experimentation with data and had to pull down a large piece of a dataset and push that into my local Mongo instance.\n\nCan't say I've used that large a JSON file before.",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1771262670898888719"
+        ],
+        "editableUntil": "2024-03-22T20:48:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Abe Murray",
+          "screen_name": "abemurray",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "12476942",
+          "id": "12476942"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "122"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1771262465902297236",
+    "id_str": "1771262670898888719",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1771262670898888719",
+    "in_reply_to_status_id": "1771262465902297236",
+    "created_at": "Fri Mar 22 19:48:23 +0000 2024",
+    "favorited": false,
+    "full_text": "@abemurray so the trick is to capture the value that people are creating that isn't currently acknowledged by the economy.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

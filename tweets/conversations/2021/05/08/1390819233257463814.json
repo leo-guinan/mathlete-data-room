@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1390819233257463814"
+        ],
+        "editableUntil": "2021-05-08T01:02:00.037Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NeurodiverseEntrepreneurs",
+          "indices": [
+            "103",
+            "129"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "187",
+            "198"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5WkBHYamaS",
+          "expanded_url": "https://x.com/LobowSpark/status/1390818320866320384",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "201",
+            "224"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "224"
+    ],
+    "favorite_count": "1",
+    "id_str": "1390819233257463814",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1390819233257463814",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 08 00:02:00 +0000 2021",
+    "favorited": false,
+    "full_text": "Keep an eye out for this episode tomorrow. Had a blast with our conversation and sharing my vision for #NeurodiverseEntrepreneurs and @net_defi ! A huge thanks to Lowbow for having me on @LobowSpark ! https://t.co/5WkBHYamaS",
+    "lang": "en"
+  }
+}

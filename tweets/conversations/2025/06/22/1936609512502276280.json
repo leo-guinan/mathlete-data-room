@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1936609512502276280"
+        ],
+        "editableUntil": "2025-06-22T03:17:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🕳️",
+          "screen_name": "realitymap",
+          "indices": [
+            "1",
+            "12"
+          ],
+          "id_str": "1578792789680136192",
+          "id": "1578792789680136192"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "31"
+    ],
+    "favorite_count": "1",
+    "id_str": "1936609512502276280",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1936609512502276280",
+    "created_at": "Sun Jun 22 02:17:42 +0000 2025",
+    "favorited": false,
+    "full_text": ".@realitymap hivemind loading….",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1375106525887401991"
+        ],
+        "editableUntil": "2021-03-25T16:25:18.672Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Simon Spichak",
+          "screen_name": "SpichakSimon",
+          "indices": [
+            "112",
+            "125"
+          ],
+          "id_str": "942137632745811969",
+          "id": "942137632745811969"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/41NV5C0mtc",
+          "expanded_url": "https://link.medium.com/sT0XRT5TUeb",
+          "display_url": "link.medium.com/sT0XRT5TUeb",
+          "indices": [
+            "126",
+            "149"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "149"
+    ],
+    "favorite_count": "0",
+    "id_str": "1375106525887401991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1375106525887401991",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 25 15:25:18 +0000 2021",
+    "favorited": false,
+    "full_text": "“Coming from an academic background, I lacked a lot of institutional or basic business knowledge at the start.” @SpichakSimon https://t.co/41NV5C0mtc",
+    "lang": "en"
+  }
+}

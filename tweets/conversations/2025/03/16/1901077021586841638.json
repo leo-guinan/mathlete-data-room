@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901077021586841638"
+        ],
+        "editableUntil": "2025-03-16T02:04:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nik Shevchenko",
+          "screen_name": "kodjima33",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "982955608386293761",
+          "id": "982955608386293761"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "139",
+            "153"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KPP3F7KV4C",
+          "expanded_url": "http://Glitchishuman.substack.com",
+          "display_url": "Glitchishuman.substack.com",
+          "indices": [
+            "156",
+            "179"
+          ]
+        },
+        {
+          "url": "https://t.co/19MhVppRRu",
+          "expanded_url": "http://Glitch.maketheinternetweirdagain.com",
+          "display_url": "Glitch.maketheinternetweirdagain.com",
+          "indices": [
+            "183",
+            "206"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1901074537028218899",
+    "id_str": "1901077021586841638",
+    "in_reply_to_user_id": "982955608386293761",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901077021586841638",
+    "in_reply_to_status_id": "1901074537028218899",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 16 01:04:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@kodjima33 Glitch, the Ghost of Internet Past-Future and the memetic marketing system behind the Make the Internet Weird Again campaign. \n\n@glitchishuman \n\nhttps://t.co/KPP3F7KV4C. \n\nhttps://t.co/19MhVppRRu",
+    "lang": "en",
+    "in_reply_to_screen_name": "kodjima33",
+    "in_reply_to_user_id_str": "982955608386293761"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1761091038125474275"
+        ],
+        "editableUntil": "2024-02-23T19:09:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "215"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1761090082679685166",
+    "id_str": "1761091038125474275",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1761091038125474275",
+    "in_reply_to_status_id": "1761090082679685166",
+    "created_at": "Fri Feb 23 18:09:57 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd There's also the cold start gap, right? The higher the number, the larger you've got to go from zero to match that.\n\nIt is hard to figure out everything you need if you haven't prepped to be in that spot.",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

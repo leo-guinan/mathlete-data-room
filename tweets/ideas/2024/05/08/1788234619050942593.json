@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1788234619050942593"
+        ],
+        "editableUntil": "2024-05-08T16:48:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "0",
+    "id_str": "1788234619050942593",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1788234619050942593",
+    "created_at": "Wed May 08 15:48:51 +0000 2024",
+    "favorited": false,
+    "full_text": "We need to fix systems by improving informational density, not just informational velocity.\n\nWe don't need to process resumes faster. We need to replace resumes with more complete datasets and then filter on those. \n\nMore data at the system boundary = higher hit rate.",
+    "lang": "en"
+  }
+}

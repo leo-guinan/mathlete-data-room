@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1529613815423410177"
+        ],
+        "editableUntil": "2022-05-26T00:32:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ubo2sullJI",
+          "expanded_url": "https://x.com/leo_guinan/status/1417214647594209281?s=20&t=PILO1NKuW21LzBWQ5842fQ",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "219",
+            "242"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1529613813963706368",
+    "id_str": "1529613815423410177",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1529613815423410177",
+    "in_reply_to_status_id": "1529613813963706368",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 26 00:02:07 +0000 2022",
+    "favorited": false,
+    "full_text": "It's amazing how useful that process is. And while working on it, I ended up looking up a thread I wrote last year, which was interesting to go through.\n\nI love DAGs, what can I say? 😂 That's how I break down problems.\nhttps://t.co/ubo2sullJI",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

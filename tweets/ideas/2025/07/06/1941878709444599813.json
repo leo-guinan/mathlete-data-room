@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941878709444599813"
+        ],
+        "editableUntil": "2025-07-06T16:15:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941878709444599813/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/MCpX3rkA6s",
+          "media_url": "http://pbs.twimg.com/media/GvLv4WvXkAAj1vq.png",
+          "id_str": "1941878140806074368",
+          "id": "1941878140806074368",
+          "media_url_https": "https://pbs.twimg.com/media/GvLv4WvXkAAj1vq.png",
+          "sizes": {
+            "medium": {
+              "w": "1140",
+              "h": "1098",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "655",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1140",
+              "h": "1098",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MCpX3rkA6s"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1941878709444599813",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941878709444599813",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 06 15:15:37 +0000 2025",
+    "favorited": false,
+    "full_text": "Welcome to the collapse of the economy. Software complexity is strangling us while getting fat on our corpse. https://t.co/MCpX3rkA6s",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1941878709444599813/photo/1",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/MCpX3rkA6s",
+          "media_url": "http://pbs.twimg.com/media/GvLv4WvXkAAj1vq.png",
+          "id_str": "1941878140806074368",
+          "id": "1941878140806074368",
+          "media_url_https": "https://pbs.twimg.com/media/GvLv4WvXkAAj1vq.png",
+          "sizes": {
+            "medium": {
+              "w": "1140",
+              "h": "1098",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "655",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1140",
+              "h": "1098",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MCpX3rkA6s"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509535693948825606"
+        ],
+        "editableUntil": "2022-03-31T15:18:49.911Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "superregular",
+          "screen_name": "supesregs",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1497564775127076871",
+          "id": "1497564775127076871"
+        },
+        {
+          "name": "Michael Ashcroft",
+          "screen_name": "m_ashcroft",
+          "indices": [
+            "11",
+            "22"
+          ],
+          "id_str": "22151118",
+          "id": "22151118"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "311"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1509534744303833098",
+    "id_str": "1509535693948825606",
+    "in_reply_to_user_id": "1497564775127076871",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509535693948825606",
+    "in_reply_to_status_id": "1509534744303833098",
+    "created_at": "Thu Mar 31 14:18:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@supesregs @m_ashcroft @feathercrm Nah, it's not even a product yet. I'm still in the validation stages or making sure it has the effects I'm expecting it to for small startups and entrepreneurs.\n\nSo not a sales tactic so much as seeing if it makes lives easier. Only have a couple dozen people using it so far.",
+    "lang": "en",
+    "in_reply_to_screen_name": "supesregs",
+    "in_reply_to_user_id_str": "1497564775127076871"
+  }
+}

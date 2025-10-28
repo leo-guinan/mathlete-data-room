@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1845905900239823094"
+        ],
+        "editableUntil": "2024-10-14T20:13:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CRANQ",
+          "screen_name": "CranQnow",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1497230595889537028",
+          "id": "1497230595889537028"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "178"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1844048860316094525",
+    "id_str": "1845905900239823094",
+    "in_reply_to_user_id": "1497230595889537028",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1845905900239823094",
+    "in_reply_to_status_id": "1844048860316094525",
+    "created_at": "Mon Oct 14 19:13:56 +0000 2024",
+    "favorited": false,
+    "full_text": "@CranQnow Yep, it's a long-term project. Already planning out what they will be doing next year. Sounds like we'll be experimenting with breeding a different breed for next year.",
+    "lang": "en",
+    "in_reply_to_screen_name": "CranQnow",
+    "in_reply_to_user_id_str": "1497230595889537028"
+  }
+}

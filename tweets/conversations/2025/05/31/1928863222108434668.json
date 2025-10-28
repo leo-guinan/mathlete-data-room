@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1928863222108434668"
+        ],
+        "editableUntil": "2025-05-31T18:16:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928863222108434668/photo/1",
+          "indices": [
+            "248",
+            "271"
+          ],
+          "url": "https://t.co/7nqoxndvKv",
+          "media_url": "http://pbs.twimg.com/media/GsSgrj8XgAAl59p.jpg",
+          "id_str": "1928843210664673280",
+          "id": "1928843210664673280",
+          "media_url_https": "https://pbs.twimg.com/media/GsSgrj8XgAAl59p.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "516",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1540",
+              "h": "1168",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "910",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7nqoxndvKv"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1928863219759608281",
+    "id_str": "1928863222108434668",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1928863222108434668",
+    "in_reply_to_status_id": "1928863219759608281",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 31 17:16:43 +0000 2025",
+    "favorited": false,
+    "full_text": "I want to learn how to teach offline, so I want to run a session at Vibecamp on Tech for Mystics. This is the secret to defeating large AI companies. But I need it to spread with humans, and that means I have to re-learn what it means to be human. https://t.co/7nqoxndvKv",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1928863222108434668/photo/1",
+          "indices": [
+            "248",
+            "271"
+          ],
+          "url": "https://t.co/7nqoxndvKv",
+          "media_url": "http://pbs.twimg.com/media/GsSgrj8XgAAl59p.jpg",
+          "id_str": "1928843210664673280",
+          "id": "1928843210664673280",
+          "media_url_https": "https://pbs.twimg.com/media/GsSgrj8XgAAl59p.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "516",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1540",
+              "h": "1168",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "910",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7nqoxndvKv"
+        }
+      ]
+    }
+  }
+}

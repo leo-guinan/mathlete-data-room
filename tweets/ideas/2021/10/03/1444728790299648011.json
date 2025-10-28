@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1444728790299648011"
+        ],
+        "editableUntil": "2021-10-03T19:19:20.027Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hpObRlbfRx",
+          "expanded_url": "https://x.com/uberstuber/status/1444473190525194241",
+          "display_url": "x.com/uberstuber/sta…",
+          "indices": [
+            "72",
+            "95"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1444728790299648011/photo/1",
+          "indices": [
+            "96",
+            "119"
+          ],
+          "url": "https://t.co/NcRMMeoHes",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FAy1LMpXEAkPj2e.jpg",
+          "id_str": "1444728784456978441",
+          "id": "1444728784456978441",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAy1LMpXEAkPj2e.jpg",
+          "sizes": {
+            "medium": {
+              "w": "586",
+              "h": "332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "586",
+              "h": "332",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "586",
+              "h": "332",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NcRMMeoHes"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Tweet100",
+          "indices": [
+            "62",
+            "71"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "119"
+    ],
+    "favorite_count": "1",
+    "id_str": "1444728790299648011",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1444728790299648011",
+    "possibly_sensitive": false,
+    "created_at": "Sun Oct 03 18:19:20 +0000 2021",
+    "favorited": false,
+    "full_text": "Capybaras are amazing. Here's a thread of cute capybara gifs. #Tweet100 https://t.co/hpObRlbfRx https://t.co/NcRMMeoHes",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1444728790299648011/photo/1",
+          "indices": [
+            "96",
+            "119"
+          ],
+          "url": "https://t.co/NcRMMeoHes",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FAy1LMpXEAkPj2e.jpg",
+          "id_str": "1444728784456978441",
+          "video_info": {
+            "aspect_ratio": [
+              "293",
+              "166"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FAy1LMpXEAkPj2e.mp4"
+              }
+            ]
+          },
+          "id": "1444728784456978441",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FAy1LMpXEAkPj2e.jpg",
+          "sizes": {
+            "medium": {
+              "w": "586",
+              "h": "332",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "586",
+              "h": "332",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "586",
+              "h": "332",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/NcRMMeoHes"
+        }
+      ]
+    }
+  }
+}

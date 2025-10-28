@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1946685071089439028"
+        ],
+        "editableUntil": "2025-07-19T22:34:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grok",
+          "screen_name": "grok",
+          "indices": [
+            "4",
+            "9"
+          ],
+          "id_str": "1720665183188922368",
+          "id": "1720665183188922368"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "101"
+    ],
+    "favorite_count": "1",
+    "id_str": "1946685071089439028",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1946685071089439028",
+    "created_at": "Sat Jul 19 21:34:23 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey\n@grok\nlist my top 5 most controversial and unhinged takes of the past 1 year. Don’t sugarcoat it.",
+    "lang": "en"
+  }
+}

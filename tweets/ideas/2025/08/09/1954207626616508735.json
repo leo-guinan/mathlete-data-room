@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1954207626616508735"
+        ],
+        "editableUntil": "2025-08-09T16:46:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1954207626616508735/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/P9YRuYDmqU",
+          "media_url": "http://pbs.twimg.com/media/Gx69eUZXoAA6EHW.jpg",
+          "id_str": "1954207616894214144",
+          "id": "1954207616894214144",
+          "media_url_https": "https://pbs.twimg.com/media/Gx69eUZXoAA6EHW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/P9YRuYDmqU"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "id_str": "1954207626616508735",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1954207626616508735",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 09 15:46:20 +0000 2025",
+    "favorited": false,
+    "full_text": "In my house, even Pearl is a builder. \n\n(She likes arts and crafts. ) https://t.co/P9YRuYDmqU",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1954207626616508735/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/P9YRuYDmqU",
+          "media_url": "http://pbs.twimg.com/media/Gx69eUZXoAA6EHW.jpg",
+          "id_str": "1954207616894214144",
+          "id": "1954207616894214144",
+          "media_url_https": "https://pbs.twimg.com/media/Gx69eUZXoAA6EHW.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/P9YRuYDmqU"
+        }
+      ]
+    }
+  }
+}

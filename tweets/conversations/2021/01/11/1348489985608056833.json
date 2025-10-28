@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348489985608056833"
+        ],
+        "editableUntil": "2021-01-11T05:40:40.958Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Morgan Hughes",
+          "screen_name": "Morgan_Hughes",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "24408664",
+          "id": "24408664"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348489985608056833",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348489985608056833",
+    "created_at": "Mon Jan 11 04:40:40 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Morgan_Hughes: GOOD EVENING TO FANS OF DEE HASLAM OWNED SPORTS TEAMS ONLY",
+    "lang": "en"
+  }
+}

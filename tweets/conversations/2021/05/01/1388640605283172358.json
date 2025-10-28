@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1388640605283172358"
+        ],
+        "editableUntil": "2021-05-02T00:44:54.651Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "143",
+            "151"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NU71ghrFjx",
+          "expanded_url": "https://youtu.be/1I8yADGTUzI",
+          "display_url": "youtu.be/1I8yADGTUzI",
+          "indices": [
+            "115",
+            "138"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "151"
+    ],
+    "favorite_count": "1",
+    "id_str": "1388640605283172358",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1388640605283172358",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 01 23:44:54 +0000 2021",
+    "favorited": false,
+    "full_text": "Finally got around to some video editing. Let's talk NFTs alongside my cofounder, @curiousexaminer !\n\nTalking NFTs https://t.co/NU71ghrFjx via @YouTube",
+    "lang": "en"
+  }
+}

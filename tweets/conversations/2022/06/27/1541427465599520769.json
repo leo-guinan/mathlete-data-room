@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1541427465599520769"
+        ],
+        "editableUntil": "2022-06-27T14:55:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jacob Asper",
+          "screen_name": "asper_jacob",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1475203375662780420",
+          "id": "1475203375662780420"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "306"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1541295955437359105",
+    "id_str": "1541427465599520769",
+    "in_reply_to_user_id": "1475203375662780420",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1541427465599520769",
+    "in_reply_to_status_id": "1541295955437359105",
+    "created_at": "Mon Jun 27 14:25:20 +0000 2022",
+    "favorited": false,
+    "full_text": "@asper_jacob @TheMerCoder That's the biggest advantage to compiling the data and sharing it with candidates. Eventually, you can then share it with outside candidates that you do agree fully with.\n\nThe two-party system no longer has ultimate ownership over candidates.\n\nWe can start bringing in better ones",
+    "lang": "en",
+    "in_reply_to_screen_name": "asper_jacob",
+    "in_reply_to_user_id_str": "1475203375662780420"
+  }
+}

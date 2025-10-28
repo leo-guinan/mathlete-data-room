@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922849151626154262"
+        ],
+        "editableUntil": "2025-05-15T03:58:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ashley",
+          "screen_name": "ashleydzhang",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1024789603893403651",
+          "id": "1024789603893403651"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1922727423264817659",
+    "id_str": "1922849151626154262",
+    "in_reply_to_user_id": "1024789603893403651",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922849151626154262",
+    "in_reply_to_status_id": "1922727423264817659",
+    "created_at": "Thu May 15 02:58:57 +0000 2025",
+    "favorited": false,
+    "full_text": "@ashleydzhang Fully agree, and this is at the center of my thesis about the memetic nature of economics, and how we need to design systems that center humans as both beneficiary of and responsible party for the systems we create.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ashleydzhang",
+    "in_reply_to_user_id_str": "1024789603893403651"
+  }
+}

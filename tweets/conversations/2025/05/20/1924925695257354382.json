@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1924925695257354382"
+        ],
+        "editableUntil": "2025-05-20T21:30:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Daniel Vassallo",
+          "screen_name": "dvassallo",
+          "indices": [
+            "138",
+            "148"
+          ],
+          "id_str": "24179991",
+          "id": "24179991"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1924925695257354382/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/TleHKwtf0k",
+          "media_url": "http://pbs.twimg.com/media/Gra07FFWIAAS58m.png",
+          "id_str": "1924924817817346048",
+          "id": "1924924817817346048",
+          "media_url_https": "https://pbs.twimg.com/media/Gra07FFWIAAS58m.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "384",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "678",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1730",
+              "h": "978",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TleHKwtf0k"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "302"
+    ],
+    "favorite_count": "2",
+    "id_str": "1924925695257354382",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1924925695257354382",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 20 20:30:23 +0000 2025",
+    "favorited": false,
+    "full_text": "Testing out some messaging for a new offer and would love some feedback.\n\nIt's a one-time fee lifetime consulting offer, in the spirit of @dvassallo, because I think that model aligns incentives perfectly.\n\nOffer:\nMastery of time: faster growth, calmer rhythm, richer awareness. https://t.co/TleHKwtf0k",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1924925695257354382/photo/1",
+          "indices": [
+            "279",
+            "302"
+          ],
+          "url": "https://t.co/TleHKwtf0k",
+          "media_url": "http://pbs.twimg.com/media/Gra07FFWIAAS58m.png",
+          "id_str": "1924924817817346048",
+          "id": "1924924817817346048",
+          "media_url_https": "https://pbs.twimg.com/media/Gra07FFWIAAS58m.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "384",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "678",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1730",
+              "h": "978",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/TleHKwtf0k"
+        }
+      ]
+    }
+  }
+}

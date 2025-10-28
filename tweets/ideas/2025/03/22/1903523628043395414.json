@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1903523628043395414"
+        ],
+        "editableUntil": "2025-03-22T20:06:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UKYYGQ2ijq",
+          "expanded_url": "https://x.com/itsolelehmann/status/1903470222218240269",
+          "display_url": "x.com/itsolelehmann/…",
+          "indices": [
+            "41",
+            "64"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1903523628043395414/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/XsAsqAzsZn",
+          "media_url": "http://pbs.twimg.com/media/Gmqso82XIAA_-MB.jpg",
+          "id_str": "1903523612046336000",
+          "id": "1903523612046336000",
+          "media_url_https": "https://pbs.twimg.com/media/Gmqso82XIAA_-MB.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "627",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "208",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "367",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XsAsqAzsZn"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "1",
+    "id_str": "1903523628043395414",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1903523628043395414",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 22 19:06:13 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, I was inspired. Let's do this thing. https://t.co/UKYYGQ2ijq https://t.co/XsAsqAzsZn",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1903523628043395414/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/XsAsqAzsZn",
+          "media_url": "http://pbs.twimg.com/media/Gmqso82XIAA_-MB.jpg",
+          "id_str": "1903523612046336000",
+          "id": "1903523612046336000",
+          "media_url_https": "https://pbs.twimg.com/media/Gmqso82XIAA_-MB.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "627",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "208",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "367",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/XsAsqAzsZn"
+        }
+      ]
+    }
+  }
+}

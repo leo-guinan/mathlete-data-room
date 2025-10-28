@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340769576150294530"
+        ],
+        "editableUntil": "2020-12-20T22:22:31.905Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alexis Ohanian 🗽",
+          "screen_name": "alexisohanian",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "811350",
+          "id": "811350"
+        },
+        {
+          "name": "YouTube",
+          "screen_name": "YouTube",
+          "indices": [
+            "15",
+            "23"
+          ],
+          "id_str": "10228272",
+          "id": "10228272"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1340768318282723329",
+    "id_str": "1340769576150294530",
+    "in_reply_to_user_id": "811350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340769576150294530",
+    "in_reply_to_status_id": "1340768318282723329",
+    "created_at": "Sun Dec 20 21:22:31 +0000 2020",
+    "favorited": false,
+    "full_text": "@alexisohanian @YouTube Note to self: get @MrBeastYT on my new social media platform.",
+    "lang": "en",
+    "in_reply_to_screen_name": "alexisohanian",
+    "in_reply_to_user_id_str": "811350"
+  }
+}

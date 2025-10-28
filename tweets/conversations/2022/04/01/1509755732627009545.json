@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509755732627009545"
+        ],
+        "editableUntil": "2022-04-01T05:53:11.220Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gdkupToSo5",
+          "expanded_url": "https://x.com/reddy2go/status/1509377798783533064",
+          "display_url": "x.com/reddy2go/statu…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1509755732627009545",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509755732627009545",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 01 04:53:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: In a world that is optimizing for cold interactions, be the person giving warm hugs. https://t.co/gdkupToSo5 https://t.co/g…",
+    "lang": "en"
+  }
+}

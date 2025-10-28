@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898153644161482990"
+        ],
+        "editableUntil": "2025-03-08T00:27:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tbt",
+          "screen_name": "TechBroTino",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1732071117798404096",
+          "id": "1732071117798404096"
+        },
+        {
+          "name": "27 — floofy/acc 🦝📈🚀",
+          "screen_name": "happysmash27",
+          "indices": [
+            "13",
+            "26"
+          ],
+          "id_str": "707430773754875904",
+          "id": "707430773754875904"
+        },
+        {
+          "name": "the tiny corp",
+          "screen_name": "__tinygrad__",
+          "indices": [
+            "27",
+            "40"
+          ],
+          "id_str": "1674187388825006082",
+          "id": "1674187388825006082"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/H5nRJC2bZn",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/Research%20Statements/Make%20the%20Internet%20Weird%20Again.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "255",
+            "278"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "307"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898142722604581126",
+    "id_str": "1898153644161482990",
+    "in_reply_to_user_id": "1732071117798404096",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898153644161482990",
+    "in_reply_to_status_id": "1898142722604581126",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 07 23:27:49 +0000 2025",
+    "favorited": false,
+    "full_text": "@TechBroTino @happysmash27 @__tinygrad__ Nah, you are right. Existing systems suck. \n\nThey are extremely bad for people.\n\nThe Make the Internet Weird Again campaign is a way to battle this.\n\nHere's the theoretical underpinnings, if you care to read them:\nhttps://t.co/H5nRJC2bZn\n\nOtherwise, just sign up at…",
+    "lang": "en",
+    "in_reply_to_screen_name": "TechBroTino",
+    "in_reply_to_user_id_str": "1732071117798404096"
+  }
+}

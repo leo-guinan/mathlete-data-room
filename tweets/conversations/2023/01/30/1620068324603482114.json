@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1620068324603482114"
+        ],
+        "editableUntil": "2023-01-30T15:06:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "44",
+            "55"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bKR0F8DKsp",
+          "expanded_url": "https://x.com/ADHDdesigner/status/1619713043772080129",
+          "display_url": "x.com/ADHDdesigner/s…",
+          "indices": [
+            "81",
+            "104"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "2",
+    "id_str": "1620068324603482114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1620068324603482114",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jan 30 14:36:02 +0000 2023",
+    "favorited": false,
+    "full_text": "Love to see this level of impact. 💪💪 My man @LobowSpark out here changing lives. https://t.co/bKR0F8DKsp",
+    "lang": "en"
+  }
+}

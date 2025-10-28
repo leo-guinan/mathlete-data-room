@@ -1,0 +1,74 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1434531848349224961"
+        ],
+        "editableUntil": "2021-09-05T16:00:19.616Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperchargeYourTime",
+          "indices": [
+            "41",
+            "61"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MICHAEL",
+          "screen_name": "awemik",
+          "indices": [
+            "81",
+            "88"
+          ],
+          "id_str": "936916597",
+          "id": "936916597"
+        },
+        {
+          "name": "Fernando Parnes",
+          "screen_name": "fernandoparnes",
+          "indices": [
+            "172",
+            "187"
+          ],
+          "id_str": "1136454673521528832",
+          "id": "1136454673521528832"
+        },
+        {
+          "name": "Super",
+          "screen_name": "superdotfans",
+          "indices": [
+            "201",
+            "214"
+          ],
+          "id_str": "1382203111255674881",
+          "id": "1382203111255674881"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "4",
+    "id_str": "1434531848349224961",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1434531848349224961",
+    "created_at": "Sun Sep 05 15:00:19 +0000 2021",
+    "favorited": false,
+    "full_text": "Big day today! The first live session of #SuperchargeYourTime!\n\nA huge thanks to @awemik for helping get everything lined up on the operational side.\n\nAnd a huge thanks to @fernandoparnes and the team @superdotfans for providing the platform.",
+    "lang": "en"
+  }
+}

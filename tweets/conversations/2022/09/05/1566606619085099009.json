@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566606619085099009"
+        ],
+        "editableUntil": "2022-09-05T02:28:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "241"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1566602251455569921",
+    "id_str": "1566606619085099009",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566606619085099009",
+    "in_reply_to_status_id": "1566602251455569921",
+    "created_at": "Mon Sep 05 01:58:18 +0000 2022",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Haha, that's definitely being researched as an option.\n\nUntil I get the kinks ironed out though, gotta figure out how to manage things myself.\n\nFiguring out some systems that can be clones of small pieces of myself at least!",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

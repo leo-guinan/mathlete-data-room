@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422924754265198593"
+        ],
+        "editableUntil": "2021-08-04T15:17:52.737Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Harsh Makadia",
+          "screen_name": "MakadiaHarsh",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "555311904",
+          "id": "555311904"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1422919033528016896",
+    "id_str": "1422924754265198593",
+    "in_reply_to_user_id": "555311904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422924754265198593",
+    "in_reply_to_status_id": "1422919033528016896",
+    "created_at": "Wed Aug 04 14:17:52 +0000 2021",
+    "favorited": false,
+    "full_text": "@MakadiaHarsh 👋 that's awesome! Can't wait to check it out!",
+    "lang": "en",
+    "in_reply_to_screen_name": "MakadiaHarsh",
+    "in_reply_to_user_id_str": "555311904"
+  }
+}

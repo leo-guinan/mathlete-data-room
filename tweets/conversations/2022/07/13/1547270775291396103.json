@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1547270775291396103"
+        ],
+        "editableUntil": "2022-07-13T17:54:34.387Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Samantha Postman",
+          "screen_name": "SamanthaPostman",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "951591875441381376",
+          "id": "951591875441381376"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "21",
+            "32"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1547270775291396103",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1547270775291396103",
+    "created_at": "Wed Jul 13 17:24:34 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @SamanthaPostman: @leo_guinan 🎶”I'm envisioning a world in which all ADHD [Polymaths] people can pursue their passions and create their…",
+    "lang": "en"
+  }
+}

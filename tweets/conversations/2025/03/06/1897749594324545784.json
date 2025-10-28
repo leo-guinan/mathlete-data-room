@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897749594324545784"
+        ],
+        "editableUntil": "2025-03-06T21:42:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Kennedy",
+          "screen_name": "kenakennedy",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "50353584",
+          "id": "50353584"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "61"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1897684033800163640",
+    "id_str": "1897749594324545784",
+    "in_reply_to_user_id": "50353584",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897749594324545784",
+    "in_reply_to_status_id": "1897684033800163640",
+    "created_at": "Thu Mar 06 20:42:16 +0000 2025",
+    "favorited": false,
+    "full_text": "@kenakennedy 🫡 been working on my yapping the last few years.",
+    "lang": "en",
+    "in_reply_to_screen_name": "kenakennedy",
+    "in_reply_to_user_id_str": "50353584"
+  }
+}

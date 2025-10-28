@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566080616508129282"
+        ],
+        "editableUntil": "2022-09-03T15:38:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "turbz",
+          "screen_name": "nicktorba",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "803693608419422209",
+          "id": "803693608419422209"
+        },
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "299"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1565735590263488518",
+    "id_str": "1566080616508129282",
+    "in_reply_to_user_id": "803693608419422209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566080616508129282",
+    "in_reply_to_status_id": "1565735590263488518",
+    "created_at": "Sat Sep 03 15:08:10 +0000 2022",
+    "favorited": false,
+    "full_text": "@nicktorba @p_millerd That's one of my favorite books I've read this year! I think Paul wrote an incredible book and it's influenced me quite a bit.\n\nThe hardest part is getting people to understand that they can actually choose what to do. \n\nMost aren't aware of that possibility. So default it is.",
+    "lang": "en",
+    "in_reply_to_screen_name": "nicktorba",
+    "in_reply_to_user_id_str": "803693608419422209"
+  }
+}

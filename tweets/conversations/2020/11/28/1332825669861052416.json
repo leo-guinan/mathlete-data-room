@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1332825669861052416"
+        ],
+        "editableUntil": "2020-11-29T00:16:17.055Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "James Clear",
+          "screen_name": "JamesClear",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "226428094",
+          "id": "226428094"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "198"
+    ],
+    "favorite_count": "9",
+    "in_reply_to_status_id_str": "1332825338083241990",
+    "id_str": "1332825669861052416",
+    "in_reply_to_user_id": "226428094",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1332825669861052416",
+    "in_reply_to_status_id": "1332825338083241990",
+    "created_at": "Sat Nov 28 23:16:17 +0000 2020",
+    "favorited": false,
+    "full_text": "@JamesClear Download onetab. That extension will let you track all the tabs that you never go back to. Sure, it says that it is for you to come back and view later. But later never really comes... 😁",
+    "lang": "en",
+    "in_reply_to_screen_name": "JamesClear",
+    "in_reply_to_user_id_str": "226428094"
+  }
+}

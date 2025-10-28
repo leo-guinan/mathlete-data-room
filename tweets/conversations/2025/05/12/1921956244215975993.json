@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1921956244215975993"
+        ],
+        "editableUntil": "2025-05-12T16:50:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Guy IS GOING TO NYC!!!",
+          "screen_name": "nosilverv",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1163743742764998658",
+          "id": "1163743742764998658"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/oGhELIu2OA",
+          "expanded_url": "https://x.com/leo_guinan/status/1920872559559471335",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "224",
+            "247"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "247"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1921936049548226708",
+    "id_str": "1921956244215975993",
+    "in_reply_to_user_id": "1163743742764998658",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1921956244215975993",
+    "in_reply_to_status_id": "1921936049548226708",
+    "possibly_sensitive": false,
+    "created_at": "Mon May 12 15:50:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@nosilverv I've spent a lot of time the last 5 years trying to convince people I was one and not the other.\n\nThe trick was that I had to stop caring.\n\nThose labels will work themselves out in the end.\n\nOnly time will tell.\n\nhttps://t.co/oGhELIu2OA",
+    "lang": "en",
+    "in_reply_to_screen_name": "nosilverv",
+    "in_reply_to_user_id_str": "1163743742764998658"
+  }
+}

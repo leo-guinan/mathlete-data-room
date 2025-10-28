@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1559237642436362241"
+        ],
+        "editableUntil": "2022-08-15T18:26:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1559237640603541504",
+    "id_str": "1559237642436362241",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1559237642436362241",
+    "in_reply_to_status_id": "1559237640603541504",
+    "created_at": "Mon Aug 15 17:56:37 +0000 2022",
+    "favorited": false,
+    "full_text": "So I did change that to just be read/write.\n\nBut beyond that, I was limited to what Twitter's access levels are.\n\nOAuth2 allows for specific permission scopes (which I did use in the initial version of the app), but then I couldn't rely on it to refresh the token correctly.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

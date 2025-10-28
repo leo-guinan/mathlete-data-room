@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1576191585921933320"
+        ],
+        "editableUntil": "2022-10-01T13:15:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tweetscape",
+          "screen_name": "TweetscapeHQ",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1502034451617910790",
+          "id": "1502034451617910790"
+        },
+        {
+          "name": "turbz",
+          "screen_name": "nicktorba",
+          "indices": [
+            "14",
+            "24"
+          ],
+          "id_str": "803693608419422209",
+          "id": "803693608419422209"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/W2NvbHiP0c",
+          "expanded_url": "https://saasfactory.substack.com/",
+          "display_url": "saasfactory.substack.com",
+          "indices": [
+            "121",
+            "144"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1575915883506978816",
+    "id_str": "1576191585921933320",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1576191585921933320",
+    "in_reply_to_status_id": "1575915883506978816",
+    "possibly_sensitive": false,
+    "created_at": "Sat Oct 01 12:45:32 +0000 2022",
+    "favorited": false,
+    "full_text": "@TweetscapeHQ @nicktorba Want to join my on my journey to launch a new microsaas each week? Check out The SaaS Factory!\n\nhttps://t.co/W2NvbHiP0c",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

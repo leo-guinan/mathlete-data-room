@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1690423244371759104"
+        ],
+        "editableUntil": "2023-08-12T19:01:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjoF1",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "193"
+    ],
+    "favorite_count": "0",
+    "id_str": "1690423244371759104",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1690423244371759104",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 12 18:01:22 +0000 2023",
+    "favorited": false,
+    "full_text": "Working on displaying chat history on https://t.co/KphsBfjoF1 today.\n\nTossed what I had to prod and left for my sons football scrimmage, so will be great to see how it works once I get home!  #",
+    "lang": "en"
+  }
+}

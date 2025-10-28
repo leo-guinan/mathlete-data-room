@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1536712813447729153"
+        ],
+        "editableUntil": "2022-06-14T14:41:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Emily Leahy",
+          "screen_name": "iamemilyleahy",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "2897739555",
+          "id": "2897739555"
+        },
+        {
+          "name": "Founder in Flow",
+          "screen_name": "founderinflow",
+          "indices": [
+            "15",
+            "29"
+          ],
+          "id_str": "1318931468681240576",
+          "id": "1318931468681240576"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1536058411359535105",
+    "id_str": "1536712813447729153",
+    "in_reply_to_user_id": "2897739555",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1536712813447729153",
+    "in_reply_to_status_id": "1536058411359535105",
+    "created_at": "Tue Jun 14 14:11:00 +0000 2022",
+    "favorited": false,
+    "full_text": "@iamemilyleahy @founderinflow Those are really great points Emily! \n\nI think we are often too fast to put systems and strategies in place because they feel important, but we don't always consider why they exist.\n\nI think capacity and willpower are easier when we have systems to support us.",
+    "lang": "en",
+    "in_reply_to_screen_name": "iamemilyleahy",
+    "in_reply_to_user_id_str": "2897739555"
+  }
+}

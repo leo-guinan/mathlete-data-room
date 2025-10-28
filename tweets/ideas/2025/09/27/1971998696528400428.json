@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1971998696528400428"
+        ],
+        "editableUntil": "2025-09-27T19:01:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971998696528400428/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/oZkZ0BcNGF",
+          "media_url": "http://pbs.twimg.com/media/G13yXOqWoAAv7fw.jpg",
+          "id_str": "1971998692744798208",
+          "id": "1971998692744798208",
+          "media_url_https": "https://pbs.twimg.com/media/G13yXOqWoAAv7fw.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "221",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1320",
+              "h": "429",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "390",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oZkZ0BcNGF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "0",
+    "id_str": "1971998696528400428",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1971998696528400428",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 27 18:01:41 +0000 2025",
+    "favorited": false,
+    "full_text": "lol showed Claude a screenshot and got some info I didn’t expect https://t.co/oZkZ0BcNGF",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1971998696528400428/photo/1",
+          "indices": [
+            "65",
+            "88"
+          ],
+          "url": "https://t.co/oZkZ0BcNGF",
+          "media_url": "http://pbs.twimg.com/media/G13yXOqWoAAv7fw.jpg",
+          "id_str": "1971998692744798208",
+          "id": "1971998692744798208",
+          "media_url_https": "https://pbs.twimg.com/media/G13yXOqWoAAv7fw.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "221",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1320",
+              "h": "429",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "390",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oZkZ0BcNGF"
+        }
+      ]
+    }
+  }
+}

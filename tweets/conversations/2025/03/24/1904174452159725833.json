@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1904174452159725833"
+        ],
+        "editableUntil": "2025-03-24T15:12:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Guy IS GOING TO NYC!!!",
+          "screen_name": "nosilverv",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1163743742764998658",
+          "id": "1163743742764998658"
+        },
+        {
+          "name": "Emmett Shear",
+          "screen_name": "eshear",
+          "indices": [
+            "11",
+            "18"
+          ],
+          "id_str": "905201",
+          "id": "905201"
+        },
+        {
+          "name": "Julian",
+          "screen_name": "julianboolean_",
+          "indices": [
+            "19",
+            "34"
+          ],
+          "id_str": "1677449576427520003",
+          "id": "1677449576427520003"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "314"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1904170595308208416",
+    "id_str": "1904174452159725833",
+    "in_reply_to_user_id": "1163743742764998658",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1904174452159725833",
+    "in_reply_to_status_id": "1904170595308208416",
+    "created_at": "Mon Mar 24 14:12:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@nosilverv @eshear @julianboolean_ I would definitely love to read it. The funding thing is funny, because it's the problem I'm ultimately solving. We don't value information the correct way, which is leading to all of the problems you are writing about.\n\nThe solution is to have dedicated memetic attractors that…",
+    "lang": "en",
+    "in_reply_to_screen_name": "nosilverv",
+    "in_reply_to_user_id_str": "1163743742764998658"
+  }
+}

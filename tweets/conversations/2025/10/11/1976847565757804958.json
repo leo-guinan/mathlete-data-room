@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1976847565757804958"
+        ],
+        "editableUntil": "2025-10-11T04:09:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bryan Bishop",
+          "screen_name": "kanzure",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "11211542",
+          "id": "11211542"
+        },
+        {
+          "name": "Tyler Hulett",
+          "screen_name": "seromics",
+          "indices": [
+            "9",
+            "18"
+          ],
+          "id_str": "956784905723158528",
+          "id": "956784905723158528"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1976739615555174808",
+    "id_str": "1976847565757804958",
+    "in_reply_to_user_id": "11211542",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1976847565757804958",
+    "in_reply_to_status_id": "1976739615555174808",
+    "created_at": "Sat Oct 11 03:09:22 +0000 2025",
+    "favorited": false,
+    "full_text": "@kanzure @seromics It's a note I dropped about something I wanted to look into when I had the time and resources to investigate the physical effects of time violence in the economy.\n\nIf you want, here's a full outline. I realized there is an efficient market way to experiment with trust and novel…",
+    "lang": "en",
+    "in_reply_to_screen_name": "kanzure",
+    "in_reply_to_user_id_str": "11211542"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1965497451940565210"
+        ],
+        "editableUntil": "2025-09-09T20:28:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mage of Aquarius",
+          "screen_name": "mage_ofaquarius",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1671148549315399683",
+          "id": "1671148549315399683"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yMz4Nkv7AJ",
+          "expanded_url": "https://x.com/signulll/status/1965473646836662382",
+          "display_url": "x.com/signulll/statu…",
+          "indices": [
+            "57",
+            "80"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1964731747763118242",
+    "id_str": "1965497451940565210",
+    "in_reply_to_user_id": "1671148549315399683",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1965497451940565210",
+    "in_reply_to_status_id": "1964731747763118242",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 09 19:28:04 +0000 2025",
+    "favorited": false,
+    "full_text": "@mage_ofaquarius A much better illustration of the idea. https://t.co/yMz4Nkv7AJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "mage_ofaquarius",
+    "in_reply_to_user_id_str": "1671148549315399683"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1701397795985367541"
+        ],
+        "editableUntil": "2023-09-12T01:50:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjoF1",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "40",
+            "63"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1701397795985367541/photo/1",
+          "indices": [
+            "125",
+            "148"
+          ],
+          "url": "https://t.co/RGJU29hNHJ",
+          "media_url": "http://pbs.twimg.com/media/F5yT22rXMAA1Xu9.png",
+          "id_str": "1701397329838813184",
+          "id": "1701397329838813184",
+          "media_url_https": "https://pbs.twimg.com/media/F5yT22rXMAA1Xu9.png",
+          "sizes": {
+            "large": {
+              "w": "1674",
+              "h": "1032",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "740",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "419",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RGJU29hNHJ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "0",
+    "id_str": "1701397795985367541",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1701397795985367541",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 12 00:50:19 +0000 2023",
+    "favorited": false,
+    "full_text": "Week 5 in the books.\n\nStay tuned. A new https://t.co/KphsBfjoF1 demo video is coming soon and I think it's going to be epic. https://t.co/RGJU29hNHJ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1701397795985367541/photo/1",
+          "indices": [
+            "125",
+            "148"
+          ],
+          "url": "https://t.co/RGJU29hNHJ",
+          "media_url": "http://pbs.twimg.com/media/F5yT22rXMAA1Xu9.png",
+          "id_str": "1701397329838813184",
+          "id": "1701397329838813184",
+          "media_url_https": "https://pbs.twimg.com/media/F5yT22rXMAA1Xu9.png",
+          "sizes": {
+            "large": {
+              "w": "1674",
+              "h": "1032",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "740",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "419",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RGJU29hNHJ"
+        }
+      ]
+    }
+  }
+}

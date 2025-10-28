@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482011900829446153"
+        ],
+        "editableUntil": "2022-01-14T16:29:06.264Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Cassandra",
+          "screen_name": "cassandrafaris",
+          "indices": [
+            "43",
+            "58"
+          ],
+          "id_str": "76635078",
+          "id": "76635078"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1482011900829446153",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482011900829446153",
+    "created_at": "Fri Jan 14 15:29:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Just got done listening to @cassandrafaris talk about failure and vulnerability and it really hit home for me. \n\nBiggest ta…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1339586283534909443"
+        ],
+        "editableUntil": "2020-12-17T16:00:32.961Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hunter McKinley",
+          "screen_name": "huntermoonshot",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "306854600",
+          "id": "306854600"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z4AOGApJPg",
+          "expanded_url": "https://link.medium.com/lmsIEEHdicb",
+          "display_url": "link.medium.com/lmsIEEHdicb",
+          "indices": [
+            "204",
+            "227"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "227"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1339585281356222470",
+    "id_str": "1339586283534909443",
+    "in_reply_to_user_id": "306854600",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1339586283534909443",
+    "in_reply_to_status_id": "1339585281356222470",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 17 15:00:32 +0000 2020",
+    "favorited": false,
+    "full_text": "@huntermoonshot Check out the next link, Modern Monetary Theory. I have been researching that as part of a book I am writing about the economics of data. Here is a blog I wrote that summarizes my ideas:  https://t.co/Z4AOGApJPg",
+    "lang": "en",
+    "in_reply_to_screen_name": "huntermoonshot",
+    "in_reply_to_user_id_str": "306854600"
+  }
+}

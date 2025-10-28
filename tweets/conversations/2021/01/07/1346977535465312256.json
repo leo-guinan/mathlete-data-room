@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346977535465312256"
+        ],
+        "editableUntil": "2021-01-07T01:30:44.744Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Pariser | @elipariser@mastodon.social",
+          "screen_name": "elipariser",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "7845362",
+          "id": "7845362"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1346975196368965638",
+    "id_str": "1346977535465312256",
+    "in_reply_to_user_id": "7845362",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346977535465312256",
+    "in_reply_to_status_id": "1346975196368965638",
+    "created_at": "Thu Jan 07 00:30:44 +0000 2021",
+    "favorited": false,
+    "full_text": "@elipariser I want to hear ideas for giving people control over their data. As long as people with money control people's data, people can be easily controlled. What are some ideas for reversing that power dynamic?\n\nIf needed, I am full of ideas for how we do so. That's what I am building.",
+    "lang": "en",
+    "in_reply_to_screen_name": "elipariser",
+    "in_reply_to_user_id_str": "7845362"
+  }
+}

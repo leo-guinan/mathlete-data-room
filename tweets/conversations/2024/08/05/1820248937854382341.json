@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1820248937854382341"
+        ],
+        "editableUntil": "2024-08-05T01:02:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Annie Duke",
+          "screen_name": "AnnieDuke",
+          "indices": [
+            "209",
+            "219"
+          ],
+          "id_str": "24340604",
+          "id": "24340604"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1820248937854382341/photo/1",
+          "indices": [
+            "227",
+            "250"
+          ],
+          "url": "https://t.co/AL3FLoJ2Bb",
+          "media_url": "http://pbs.twimg.com/media/GULSvlpWsAAT2t4.png",
+          "id_str": "1820248914412351488",
+          "id": "1820248914412351488",
+          "media_url_https": "https://pbs.twimg.com/media/GULSvlpWsAAT2t4.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "603",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1706",
+              "h": "1512",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1064",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/AL3FLoJ2Bb"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "250"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1820248041909023018",
+    "id_str": "1820248937854382341",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1820248937854382341",
+    "in_reply_to_status_id": "1820248041909023018",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 05 00:02:20 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd I think it's the sunk cost fallacy at play. The amount of time/effort put into landing the current role feels like something you don't want to put in for whatever is behind the mystery door.\n\nLoved @AnnieDuke's take https://t.co/AL3FLoJ2Bb",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1820248937854382341/photo/1",
+          "indices": [
+            "227",
+            "250"
+          ],
+          "url": "https://t.co/AL3FLoJ2Bb",
+          "media_url": "http://pbs.twimg.com/media/GULSvlpWsAAT2t4.png",
+          "id_str": "1820248914412351488",
+          "id": "1820248914412351488",
+          "media_url_https": "https://pbs.twimg.com/media/GULSvlpWsAAT2t4.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "603",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1706",
+              "h": "1512",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1064",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/AL3FLoJ2Bb"
+        }
+      ]
+    }
+  }
+}

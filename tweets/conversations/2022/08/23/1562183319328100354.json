@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562183319328100354"
+        ],
+        "editableUntil": "2022-08-23T21:31:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "🅂🄰🄱🅁🄸🄽🄰 🄿🅈🄻🄴🅂",
+          "screen_name": "eggs_mayhem",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1307769479867363328",
+          "id": "1307769479867363328"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1562183319328100354/photo/1",
+          "indices": [
+            "214",
+            "237"
+          ],
+          "url": "https://t.co/lhvKWbr4g8",
+          "media_url": "http://pbs.twimg.com/media/Fa39cIIVEAAk7ID.jpg",
+          "id_str": "1562183305428013056",
+          "id": "1562183305428013056",
+          "media_url_https": "https://pbs.twimg.com/media/Fa39cIIVEAAk7ID.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lhvKWbr4g8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "237"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1562183298884898819",
+    "id_str": "1562183319328100354",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562183319328100354",
+    "in_reply_to_status_id": "1562183298884898819",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 23 21:01:41 +0000 2022",
+    "favorited": false,
+    "full_text": "@eggs_mayhem That put me in the right headspace. \n\nSo I decided to make some of my own art (using the tools at my disposal)\n\nOk, this image wasn't at all what I was going for, but it was delightful for a shitpost. https://t.co/lhvKWbr4g8",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1562183319328100354/photo/1",
+          "indices": [
+            "214",
+            "237"
+          ],
+          "url": "https://t.co/lhvKWbr4g8",
+          "media_url": "http://pbs.twimg.com/media/Fa39cIIVEAAk7ID.jpg",
+          "id_str": "1562183305428013056",
+          "id": "1562183305428013056",
+          "media_url_https": "https://pbs.twimg.com/media/Fa39cIIVEAAk7ID.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1024",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/lhvKWbr4g8"
+        }
+      ]
+    }
+  }
+}

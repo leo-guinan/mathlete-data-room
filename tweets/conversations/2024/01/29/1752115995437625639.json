@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1752115995437625639"
+        ],
+        "editableUntil": "2024-01-30T00:46:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1752111772960432436",
+    "id_str": "1752115995437625639",
+    "in_reply_to_user_id": "14338338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1752115995437625639",
+    "in_reply_to_status_id": "1752111772960432436",
+    "created_at": "Mon Jan 29 23:46:20 +0000 2024",
+    "favorited": false,
+    "full_text": "@p_millerd Our income is a reflection of our desires.\n\nIf you are leaving money on the table, it's because you don't desire something that requires that income.\n\nThat sounds selfish, but you can desire building institutions based around values, and that does need resources",
+    "lang": "en",
+    "in_reply_to_screen_name": "p_millerd",
+    "in_reply_to_user_id_str": "14338338"
+  }
+}

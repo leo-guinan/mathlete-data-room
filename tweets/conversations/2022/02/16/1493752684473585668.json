@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1493752684473585668"
+        ],
+        "editableUntil": "2022-02-16T02:02:47.218Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tyler Alterman",
+          "screen_name": "TylerAlterman",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "18280363",
+          "id": "18280363"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1493579209389838337",
+    "id_str": "1493752684473585668",
+    "in_reply_to_user_id": "18280363",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1493752684473585668",
+    "in_reply_to_status_id": "1493579209389838337",
+    "created_at": "Wed Feb 16 01:02:47 +0000 2022",
+    "favorited": false,
+    "full_text": "@TylerAlterman System design.\n\nHow to build systems in their lives that support them.\n\nWith people, technology, resources,  etc.\n\nWell designed systems are g olden.",
+    "lang": "en",
+    "in_reply_to_screen_name": "TylerAlterman",
+    "in_reply_to_user_id_str": "18280363"
+  }
+}

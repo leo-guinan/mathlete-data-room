@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379909148675047425"
+        ],
+        "editableUntil": "2021-04-07T22:29:13.173Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mqcBUeTMw1",
+          "expanded_url": "https://link.medium.com/LstZRDQTgfb",
+          "display_url": "link.medium.com/LstZRDQTgfb",
+          "indices": [
+            "88",
+            "111"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "2",
+    "id_str": "1379909148675047425",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379909148675047425",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 07 21:29:13 +0000 2021",
+    "favorited": false,
+    "full_text": "“So, let’s all of us make a promise.‘I promise to read at least 3–5 stories each day.’” https://t.co/mqcBUeTMw1",
+    "lang": "en"
+  }
+}

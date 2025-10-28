@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939054653146067157"
+        ],
+        "editableUntil": "2025-06-28T21:13:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nate O'Brien",
+          "screen_name": "nateobrienn",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1243933738951680003",
+          "id": "1243933738951680003"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lxVoqIZiDL",
+          "expanded_url": "https://x.com/leo_guinan/status/1938632231557443831",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "91",
+            "114"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1939052397969441038",
+    "id_str": "1939054653146067157",
+    "in_reply_to_user_id": "1243933738951680003",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939054653146067157",
+    "in_reply_to_status_id": "1939052397969441038",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 28 20:13:49 +0000 2025",
+    "favorited": false,
+    "full_text": "@nateobrienn I'm building Internet 2.0.\n\nWould love to chat if that's of interest to you.\n\nhttps://t.co/lxVoqIZiDL",
+    "lang": "en",
+    "in_reply_to_screen_name": "nateobrienn",
+    "in_reply_to_user_id_str": "1243933738951680003"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901345331700252735"
+        ],
+        "editableUntil": "2025-03-16T19:50:27.022Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🌱 John Ash 🌳",
+          "screen_name": "speakerjohnash",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "987120585124687872",
+          "id": "987120585124687872"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "108"
+    ],
+    "favorite_count": "0",
+    "id_str": "1901345331700252735",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901345331700252735",
+    "created_at": "Sun Mar 16 18:50:27 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @speakerjohnash: we should be optimizing to predict the future better, not to make arbitrary number go up",
+    "lang": "en"
+  }
+}

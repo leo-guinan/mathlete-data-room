@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1966208525765382322"
+        ],
+        "editableUntil": "2025-09-11T19:33:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grok",
+          "screen_name": "grok",
+          "indices": [
+            "4",
+            "9"
+          ],
+          "id_str": "1720665183188922368",
+          "id": "1720665183188922368"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "0",
+    "id_str": "1966208525765382322",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1966208525765382322",
+    "created_at": "Thu Sep 11 18:33:37 +0000 2025",
+    "favorited": false,
+    "full_text": "hey @grok , is the bottega the human equivalent of the transformer architecture that is at the core of your brain?",
+    "lang": "en"
+  }
+}

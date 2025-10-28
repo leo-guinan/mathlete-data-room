@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346905906366345216"
+        ],
+        "editableUntil": "2021-01-06T20:46:07.036Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Bobby Thakkar",
+          "screen_name": "BobbyThakkar",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1087774171",
+          "id": "1087774171"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1346905906366345216/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/ADg7FYCQSS",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErErxDfXYAUrcsB.jpg",
+          "id_str": "1346905885310935045",
+          "id": "1346905885310935045",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErErxDfXYAUrcsB.jpg",
+          "sizes": {
+            "small": {
+              "w": "398",
+              "h": "288",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "398",
+              "h": "288",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "398",
+              "h": "288",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/ADg7FYCQSS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "37"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1346683678529892354",
+    "id_str": "1346905906366345216",
+    "in_reply_to_user_id": "1087774171",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346905906366345216",
+    "in_reply_to_status_id": "1346683678529892354",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 06 19:46:07 +0000 2021",
+    "favorited": false,
+    "full_text": "@BobbyThakkar https://t.co/ADg7FYCQSS",
+    "lang": "qme",
+    "in_reply_to_screen_name": "BobbyThakkar",
+    "in_reply_to_user_id_str": "1087774171",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1346905906366345216/photo/1",
+          "indices": [
+            "14",
+            "37"
+          ],
+          "url": "https://t.co/ADg7FYCQSS",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ErErxDfXYAUrcsB.jpg",
+          "id_str": "1346905885310935045",
+          "video_info": {
+            "aspect_ratio": [
+              "199",
+              "144"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/ErErxDfXYAUrcsB.mp4"
+              }
+            ]
+          },
+          "id": "1346905885310935045",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ErErxDfXYAUrcsB.jpg",
+          "sizes": {
+            "small": {
+              "w": "398",
+              "h": "288",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "398",
+              "h": "288",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "398",
+              "h": "288",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/ADg7FYCQSS"
+        }
+      ]
+    }
+  }
+}

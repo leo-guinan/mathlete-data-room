@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499076616097513475"
+        ],
+        "editableUntil": "2022-03-02T18:38:11.431Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nHeYUWmPXb",
+          "expanded_url": "https://x.com/bbourque/status/1498791693130162177",
+          "display_url": "x.com/bbourque/statu…",
+          "indices": [
+            "54",
+            "77"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "0",
+    "id_str": "1499076616097513475",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499076616097513475",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 02 17:38:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: These are good questions to remember. https://t.co/nHeYUWmPXb",
+    "lang": "en"
+  }
+}

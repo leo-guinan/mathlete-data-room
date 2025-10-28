@@ -1,0 +1,171 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923393336699662533"
+        ],
+        "editableUntil": "2025-05-16T16:01:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mastra",
+          "screen_name": "mastra_ai",
+          "indices": [
+            "36",
+            "46"
+          ],
+          "id_str": "1861308613563949057",
+          "id": "1861308613563949057"
+        },
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "134",
+            "147"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923393336699662533/video/1",
+          "indices": [
+            "219",
+            "242"
+          ],
+          "url": "https://t.co/czkiGXka4c",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1923393087058931712/img/S9LbUVQucT1zdQhV.jpg",
+          "id_str": "1923393087058931712",
+          "id": "1923393087058931712",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1923393087058931712/img/S9LbUVQucT1zdQhV.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/czkiGXka4c"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "5",
+    "id_str": "1923393336699662533",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1923393336699662533",
+    "possibly_sensitive": false,
+    "created_at": "Fri May 16 15:01:21 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, just submitted my entry for the @mastra_ai hackathon! \n\nOnly 3 minutes before the deadline 😂\n\nBut it's a workflow that implements @jessyka_boat's IndieParrot main flow.\n\nCheck it out and let us know what you think! https://t.co/czkiGXka4c",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923393336699662533/video/1",
+          "indices": [
+            "219",
+            "242"
+          ],
+          "url": "https://t.co/czkiGXka4c",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1923393087058931712/img/S9LbUVQucT1zdQhV.jpg",
+          "id_str": "1923393087058931712",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "54743",
+            "variants": [
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1923393087058931712/vid/avc1/1280x720/2403ez6P2gZ2Qkmp.mp4"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1923393087058931712/vid/avc1/640x360/SA1Ce3AkC6SPLH4_.mp4"
+              },
+              {
+                "bitrate": "10368000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1923393087058931712/vid/avc1/1920x1080/bOlXpNAZwaNfKhnI.mp4"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1923393087058931712/vid/avc1/480x270/3GhkknCb1nQXXzhG.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1923393087058931712/pl/YWzUodJXaG0NnLKK.m3u8"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1923393087058931712",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1923393087058931712/img/S9LbUVQucT1zdQhV.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/czkiGXka4c"
+        }
+      ]
+    }
+  }
+}

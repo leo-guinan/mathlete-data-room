@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1935406087173456195"
+        ],
+        "editableUntil": "2025-06-18T19:35:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1935260778329760227",
+    "id_str": "1935406087173456195",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1935406087173456195",
+    "in_reply_to_status_id": "1935260778329760227",
+    "created_at": "Wed Jun 18 18:35:43 +0000 2025",
+    "favorited": false,
+    "full_text": "@finereli It's because we don't give them a cohesive timeline. We give them a small piece and make them figure out entire past and our desired future.\n\nThe key is to build tools that are tightly constrained to provide information about the decisions already made, the current context, and…",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

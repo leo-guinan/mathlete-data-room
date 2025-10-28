@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1391050772843008007"
+        ],
+        "editableUntil": "2021-05-08T16:22:03.376Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1bfkn47EwQ",
+          "expanded_url": "https://link.medium.com/vL8JvSCV5fb",
+          "display_url": "link.medium.com/vL8JvSCV5fb",
+          "indices": [
+            "65",
+            "88"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "88"
+    ],
+    "favorite_count": "2",
+    "id_str": "1391050772843008007",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1391050772843008007",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 08 15:22:03 +0000 2021",
+    "favorited": false,
+    "full_text": "I just published What’s Next For Creators In a Post-Covid World? https://t.co/1bfkn47EwQ",
+    "lang": "en"
+  }
+}

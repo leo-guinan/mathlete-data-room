@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1784605572655948164"
+        ],
+        "editableUntil": "2024-04-28T16:28:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1784331539993821265",
+    "id_str": "1784605572655948164",
+    "in_reply_to_user_id": "2518563752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1784605572655948164",
+    "in_reply_to_status_id": "1784331539993821265",
+    "created_at": "Sun Apr 28 15:28:19 +0000 2024",
+    "favorited": false,
+    "full_text": "@anuatluru Yeah, definitely one-sided. \n\nI think that comes down to the platform, honestly. All the metrics are single-player in nature, so that's all people can focus on (at least easily).\n\nI think it needs to be either multi-player metrics or a single-player platform. Needs alignment.",
+    "lang": "en",
+    "in_reply_to_screen_name": "anuatluru",
+    "in_reply_to_user_id_str": "2518563752"
+  }
+}

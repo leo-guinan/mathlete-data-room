@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1582078920773754880"
+        ],
+        "editableUntil": "2022-10-17T19:09:42.974Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "KeyLink | 🚀 on iOS & Android",
+          "screen_name": "KeyLinkApp",
+          "indices": [
+            "67",
+            "78"
+          ],
+          "id_str": "1579173525163806723",
+          "id": "1579173525163806723"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NqBKGz4shQ",
+          "expanded_url": "https://apps.apple.com/app/motivateu-keylink/id6443741737",
+          "display_url": "apps.apple.com/app/motivateu-…",
+          "indices": [
+            "117",
+            "140"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1582078920773754880",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1582078920773754880",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 17 18:39:42 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @StroutMotivateU: It’s official! We have launched! Download the @KeyLinkApp for free at Apple App Stores today: \n\nhttps://t.co/NqBKGz4shQ",
+    "lang": "en"
+  }
+}

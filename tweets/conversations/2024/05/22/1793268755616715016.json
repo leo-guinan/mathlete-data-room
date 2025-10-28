@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1793268755616715016"
+        ],
+        "editableUntil": "2024-05-22T14:12:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "25",
+            "35"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        },
+        {
+          "name": "Noah Kagan",
+          "screen_name": "noahkagan",
+          "indices": [
+            "48",
+            "58"
+          ],
+          "id_str": "13737",
+          "id": "13737"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Mm7NJ0NXBx",
+          "expanded_url": "https://youtu.be/MolxsU1csKc?si=hYu5HnduskHwf-jV",
+          "display_url": "youtu.be/MolxsU1csKc?si…",
+          "indices": [
+            "136",
+            "159"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "159"
+    ],
+    "favorite_count": "3",
+    "id_str": "1793268755616715016",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1793268755616715016",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 22 13:12:43 +0000 2024",
+    "favorited": false,
+    "full_text": "Anyone else checking out @arvidkahl's chat with @noahkagan that he's doing a premiere for this morning?\n\nAlready a great conversation.\n\nhttps://t.co/Mm7NJ0NXBx",
+    "lang": "en"
+  }
+}

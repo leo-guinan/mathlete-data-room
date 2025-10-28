@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1421944801939935234"
+        ],
+        "editableUntil": "2021-08-01T22:23:53.896Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oOVhpjqNe7",
+          "expanded_url": "https://blitzjs.com/",
+          "display_url": "blitzjs.com",
+          "indices": [
+            "68",
+            "91"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "7",
+    "id_str": "1421944801939935234",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1421944801939935234",
+    "possibly_sensitive": false,
+    "created_at": "Sun Aug 01 21:23:53 +0000 2021",
+    "favorited": false,
+    "full_text": "Not sure how I haven't discovered this until now, but fell into the https://t.co/oOVhpjqNe7 rabbit hole and I'm intrigued. I've been playing around with it for the past hour or so to see where I can get. I think this could accelerate what I'm able to do since it's built on Next",
+    "lang": "en"
+  }
+}

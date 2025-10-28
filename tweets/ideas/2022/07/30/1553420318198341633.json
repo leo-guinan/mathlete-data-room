@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553420318198341633"
+        ],
+        "editableUntil": "2022-07-30T17:10:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "4",
+    "id_str": "1553420318198341633",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553420318198341633",
+    "created_at": "Sat Jul 30 16:40:39 +0000 2022",
+    "favorited": false,
+    "full_text": "Sometimes knowing too many ways to do something can lead to paralysis.\n\nI'm trying to decide how I want to approach the Feather migration.\n\nIn a nutshell, it relies on Quirrel, which is shutting down as a hosted service tomorrow.",
+    "lang": "en"
+  }
+}

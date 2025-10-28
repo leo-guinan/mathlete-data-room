@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1933680227500032340"
+        ],
+        "editableUntil": "2025-06-14T01:17:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anthropic",
+          "screen_name": "AnthropicAI",
+          "indices": [
+            "9",
+            "21"
+          ],
+          "id_str": "1353836358901501952",
+          "id": "1353836358901501952"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lQX3Vjkjyf",
+          "expanded_url": "https://x.com/leo_guinan/status/1933678883485991412",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "23",
+            "46"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "0",
+    "id_str": "1933680227500032340",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1933680227500032340",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 14 00:17:46 +0000 2025",
+    "favorited": false,
+    "full_text": "Any help @AnthropicAI? https://t.co/lQX3Vjkjyf",
+    "lang": "en"
+  }
+}

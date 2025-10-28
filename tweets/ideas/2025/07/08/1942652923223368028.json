@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942652923223368028"
+        ],
+        "editableUntil": "2025-07-08T19:32:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LqkZxwmGm9",
+          "expanded_url": "https://github.com/Build-In-Public-University/entropy_analysis",
+          "display_url": "github.com/Build-In-Publi…",
+          "indices": [
+            "102",
+            "125"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "125"
+    ],
+    "favorite_count": "0",
+    "id_str": "1942652923223368028",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942652923223368028",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 08 18:32:04 +0000 2025",
+    "favorited": false,
+    "full_text": "Ok, now I've got a repo set up for anyone who wants to analyze their own chat history with anthropic:\nhttps://t.co/LqkZxwmGm9",
+    "lang": "en"
+  }
+}

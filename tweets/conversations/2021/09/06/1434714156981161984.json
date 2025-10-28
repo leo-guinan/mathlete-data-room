@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1434714156981161984"
+        ],
+        "editableUntil": "2021-09-06T04:04:45.381Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Andrew Gazdecki",
+          "screen_name": "agazdecki",
+          "indices": [
+            "17",
+            "27"
+          ],
+          "id_str": "1511333035",
+          "id": "1511333035"
+        },
+        {
+          "name": "Hiten Shah",
+          "screen_name": "hnshah",
+          "indices": [
+            "28",
+            "35"
+          ],
+          "id_str": "3382",
+          "id": "3382"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "82"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1434710515582910468",
+    "id_str": "1434714156981161984",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1434714156981161984",
+    "in_reply_to_status_id": "1434710515582910468",
+    "created_at": "Mon Sep 06 03:04:45 +0000 2021",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @agazdecki @hnshah Haha, same. But not for long...revenue shortly",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

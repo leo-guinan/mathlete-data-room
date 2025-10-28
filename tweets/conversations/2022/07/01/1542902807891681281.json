@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1542902807891681281"
+        ],
+        "editableUntil": "2022-07-01T16:37:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Saba Karim",
+          "screen_name": "sabakarimm",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "41325029",
+          "id": "41325029"
+        },
+        {
+          "name": "Adam Jacobson",
+          "screen_name": "ad4mj_",
+          "indices": [
+            "171",
+            "178"
+          ],
+          "id_str": "1467973264387543045",
+          "id": "1467973264387543045"
+        },
+        {
+          "name": "Markus Fuchs",
+          "screen_name": "mbfuchs",
+          "indices": [
+            "184",
+            "192"
+          ],
+          "id_str": "15788529",
+          "id": "15788529"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4detLX89Y9",
+          "expanded_url": "https://storyark.eu/",
+          "display_url": "storyark.eu",
+          "indices": [
+            "32",
+            "55"
+          ]
+        },
+        {
+          "url": "https://t.co/ATE4mXmW9Q",
+          "expanded_url": "https://link.chtbl.com/htsy-StoryArk",
+          "display_url": "link.chtbl.com/htsy-StoryArk",
+          "indices": [
+            "118",
+            "141"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "192"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1542739503290277888",
+    "id_str": "1542902807891681281",
+    "in_reply_to_user_id": "41325029",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1542902807891681281",
+    "in_reply_to_status_id": "1542739503290277888",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 01 16:07:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@sabakarimm Check out StoryArk: https://t.co/4detLX89Y9\n\nYou can checkout the interview I did with the founders here: https://t.co/ATE4mXmW9Q\n\nCan connect with them here: @ad4mj_  and @mbfuchs",
+    "lang": "en",
+    "in_reply_to_screen_name": "sabakarimm",
+    "in_reply_to_user_id_str": "41325029"
+  }
+}

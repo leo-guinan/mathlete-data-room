@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1340788837774188546"
+        ],
+        "editableUntil": "2020-12-20T23:39:04.234Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Carnage4Life",
+          "screen_name": "Carnage4Life",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1901401248655646720",
+          "id": "1901401248655646720"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "28"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1340788431803191297",
+    "id_str": "1340788837774188546",
+    "in_reply_to_user_id": "11336782",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1340788837774188546",
+    "in_reply_to_status_id": "1340788431803191297",
+    "created_at": "Sun Dec 20 22:39:04 +0000 2020",
+    "favorited": false,
+    "full_text": "@Carnage4Life Working on it!",
+    "lang": "en",
+    "in_reply_to_user_id_str": "11336782"
+  }
+}

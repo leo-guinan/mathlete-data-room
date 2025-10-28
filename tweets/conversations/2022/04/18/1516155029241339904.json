@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1516155029241339904"
+        ],
+        "editableUntil": "2022-04-18T21:11:42.426Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        },
+        {
+          "name": "Nick",
+          "screen_name": "nickcammarata",
+          "indices": [
+            "10",
+            "24"
+          ],
+          "id_str": "24761783",
+          "id": "24761783"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "255"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1516154695995334662",
+    "id_str": "1516155029241339904",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1516155029241339904",
+    "in_reply_to_status_id": "1516154695995334662",
+    "created_at": "Mon Apr 18 20:41:42 +0000 2022",
+    "favorited": false,
+    "full_text": "@visakanv @nickcammarata When you bring in a controlled context, it's usually relatively easy to get people to discuss nuanced ideas.\n\nSocial media is terrible at providing a standard context to discussions, which makes a lot of things way more difficult.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

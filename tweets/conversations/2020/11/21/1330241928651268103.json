@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1330241928651268103"
+        ],
+        "editableUntil": "2020-11-21T21:09:25.147Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrea Junker",
+          "screen_name": "Strandjunker",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1866938882",
+          "id": "1866938882"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1330241928651268103",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1330241928651268103",
+    "created_at": "Sat Nov 21 20:09:25 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @Strandjunker: Bill Barr’s daughter works at Treasury to protect Trump’s tax returns, and loans at Deutsche Bank.\n\nRudy Giuliani’s son g…",
+    "lang": "en"
+  }
+}

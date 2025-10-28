@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1724277578087678086"
+        ],
+        "editableUntil": "2023-11-14T05:06:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Matt Wensing 🐙",
+          "screen_name": "mattwensing",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "14982388",
+          "id": "14982388"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1724272796715405803",
+    "id_str": "1724277578087678086",
+    "in_reply_to_user_id": "14982388",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1724277578087678086",
+    "in_reply_to_status_id": "1724272796715405803",
+    "created_at": "Tue Nov 14 04:06:24 +0000 2023",
+    "favorited": false,
+    "full_text": "@mattwensing Well, depending on how deep you want to go, there are a few different levels to it.\n\nBut in a nutshell, search is broken because of the middlemen skewing the incentives involved. \n\nThe ranking algorithm is impacted by Google's business needs, in which both the searcher and the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "mattwensing",
+    "in_reply_to_user_id_str": "14982388"
+  }
+}

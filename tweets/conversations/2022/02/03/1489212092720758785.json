@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1489212092720758785"
+        ],
+        "editableUntil": "2022-02-03T13:20:05.784Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Olu",
+          "screen_name": "oluadedej",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1379146178244268035",
+          "id": "1379146178244268035"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1488921531656937475",
+    "id_str": "1489212092720758785",
+    "in_reply_to_user_id": "1379146178244268035",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1489212092720758785",
+    "in_reply_to_status_id": "1488921531656937475",
+    "created_at": "Thu Feb 03 12:20:05 +0000 2022",
+    "favorited": false,
+    "full_text": "@oluadedej That's a great solution, Olu!\n\nIt's so valuable to talk directly to users. That's a startup's best advantage: being so close to the customer. \n\nThat's a great way to maximize that proximity and figure out what needed to change.",
+    "lang": "en",
+    "in_reply_to_screen_name": "oluadedej",
+    "in_reply_to_user_id_str": "1379146178244268035"
+  }
+}

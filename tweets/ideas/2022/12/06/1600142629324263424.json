@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1600142629324263424"
+        ],
+        "editableUntil": "2022-12-06T15:28:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/cDAh61wcuZ",
+          "expanded_url": "https://link.medium.com/uStdEHrzxvb",
+          "display_url": "link.medium.com/uStdEHrzxvb",
+          "indices": [
+            "105",
+            "128"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "6",
+    "id_str": "1600142629324263424",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1600142629324263424",
+    "possibly_sensitive": false,
+    "created_at": "Tue Dec 06 14:58:26 +0000 2022",
+    "favorited": false,
+    "full_text": "“The hardest part isn’t doing boring things; it’s doing boring things without [...] revenue and profits” https://t.co/cDAh61wcuZ",
+    "lang": "en"
+  }
+}

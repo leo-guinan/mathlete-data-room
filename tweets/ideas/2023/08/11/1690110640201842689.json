@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1690110640201842689"
+        ],
+        "editableUntil": "2023-08-11T22:19:12.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1690110640201842689/photo/1",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/pxekrZE7hM",
+          "media_url": "http://pbs.twimg.com/media/F3R6qtIWYAARMLZ.jpg",
+          "id_str": "1690110634258489344",
+          "id": "1690110634258489344",
+          "media_url_https": "https://pbs.twimg.com/media/F3R6qtIWYAARMLZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pxekrZE7hM"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "4",
+    "id_str": "1690110640201842689",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1690110640201842689",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 11 21:19:12 +0000 2023",
+    "favorited": false,
+    "full_text": "Trying to organize my coffee habits. https://t.co/pxekrZE7hM",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1690110640201842689/photo/1",
+          "indices": [
+            "37",
+            "60"
+          ],
+          "url": "https://t.co/pxekrZE7hM",
+          "media_url": "http://pbs.twimg.com/media/F3R6qtIWYAARMLZ.jpg",
+          "id_str": "1690110634258489344",
+          "id": "1690110634258489344",
+          "media_url_https": "https://pbs.twimg.com/media/F3R6qtIWYAARMLZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/pxekrZE7hM"
+        }
+      ]
+    }
+  }
+}

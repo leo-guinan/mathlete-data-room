@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1392285193461977097"
+        ],
+        "editableUntil": "2021-05-12T02:07:12.186Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sl0cvrfW9U",
+          "expanded_url": "https://x.com/fernandoparnes/status/1392283956830031874",
+          "display_url": "x.com/fernandoparnes…",
+          "indices": [
+            "47",
+            "70"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "70"
+    ],
+    "favorite_count": "1",
+    "id_str": "1392285193461977097",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1392285193461977097",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 12 01:07:12 +0000 2021",
+    "favorited": false,
+    "full_text": "This is a great way to view audience building! https://t.co/sl0cvrfW9U",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1357816961707704321"
+        ],
+        "editableUntil": "2021-02-05T23:22:45.347Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mary Branscombe",
+          "screen_name": "marypcbuk",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "109323518",
+          "id": "109323518"
+        },
+        {
+          "name": "IanColdwater",
+          "screen_name": "IanColdwater",
+          "indices": [
+            "11",
+            "24"
+          ],
+          "id_str": "1932154860377350144",
+          "id": "1932154860377350144"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1357815548244074496",
+    "id_str": "1357816961707704321",
+    "in_reply_to_user_id": "109323518",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1357816961707704321",
+    "in_reply_to_status_id": "1357815548244074496",
+    "created_at": "Fri Feb 05 22:22:45 +0000 2021",
+    "favorited": false,
+    "full_text": "@marypcbuk @IanColdwater I disagree. Experimentation is needed because the current system is far from optimal. I think there are better ways that education can be run. But there definitely need to be guidelines around what the standard of education would be.",
+    "lang": "en",
+    "in_reply_to_screen_name": "marypcbuk",
+    "in_reply_to_user_id_str": "109323518"
+  }
+}

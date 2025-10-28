@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1390452170735169540"
+        ],
+        "editableUntil": "2021-05-07T00:43:25.512Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "CentiPenny | Tip Me 🪙",
+          "screen_name": "CentiPenny",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1306424021630812161",
+          "id": "1306424021630812161"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "52"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1390449734893064198",
+    "id_str": "1390452170735169540",
+    "in_reply_to_user_id": "1306424021630812161",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1390452170735169540",
+    "in_reply_to_status_id": "1390449734893064198",
+    "created_at": "Thu May 06 23:43:25 +0000 2021",
+    "favorited": false,
+    "full_text": "@CentiPenny Thank you for respecting user privacy! 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "CentiPenny",
+    "in_reply_to_user_id_str": "1306424021630812161"
+  }
+}

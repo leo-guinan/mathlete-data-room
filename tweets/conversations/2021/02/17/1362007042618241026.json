@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362007042618241026"
+        ],
+        "editableUntil": "2021-02-17T12:52:38.484Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adrian Krebs",
+          "screen_name": "krebs_adrian",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "3068881850",
+          "id": "3068881850"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1362007042618241026",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362007042618241026",
+    "created_at": "Wed Feb 17 11:52:38 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @krebs_adrian: Every time I want to buy a product, I spend hours reading reviews.\nWouldn't it be great to have a service that does all t…",
+    "lang": "en"
+  }
+}

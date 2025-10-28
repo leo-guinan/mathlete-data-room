@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1483594336424058880"
+        ],
+        "editableUntil": "2022-01-19T01:17:08.310Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1483591714430504961",
+    "id_str": "1483594336424058880",
+    "in_reply_to_user_id": "172849455",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1483594336424058880",
+    "in_reply_to_status_id": "1483591714430504961",
+    "created_at": "Wed Jan 19 00:17:08 +0000 2022",
+    "favorited": false,
+    "full_text": "@skulegirl @NotechAna It's amazing how far good relationship building will get you...",
+    "lang": "en",
+    "in_reply_to_user_id_str": "172849455"
+  }
+}

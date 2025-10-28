@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363593498159689730"
+        ],
+        "editableUntil": "2021-02-21T21:56:38.960Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "jack",
+          "screen_name": "jackbutcher",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "52188203",
+          "id": "52188203"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "245"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1363592302770475013",
+    "id_str": "1363593498159689730",
+    "in_reply_to_user_id": "52188203",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363593498159689730",
+    "in_reply_to_status_id": "1363592302770475013",
+    "created_at": "Sun Feb 21 20:56:38 +0000 2021",
+    "favorited": false,
+    "full_text": "@jackbutcher I am building out my company in public. Software and business sides. We are building out a financial services platform for creators. Content is the most valuable thing you can produce. We want to help creators monetize it. @net_defi",
+    "lang": "en",
+    "in_reply_to_screen_name": "jackbutcher",
+    "in_reply_to_user_id_str": "52188203"
+  }
+}

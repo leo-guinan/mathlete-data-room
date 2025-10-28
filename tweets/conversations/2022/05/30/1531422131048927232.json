@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1531422131048927232"
+        ],
+        "editableUntil": "2022-05-31T00:17:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jacob Asper",
+          "screen_name": "asper_jacob",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1475203375662780420",
+          "id": "1475203375662780420"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1531338868422737920",
+    "id_str": "1531422131048927232",
+    "in_reply_to_user_id": "1475203375662780420",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1531422131048927232",
+    "in_reply_to_status_id": "1531338868422737920",
+    "created_at": "Mon May 30 23:47:43 +0000 2022",
+    "favorited": false,
+    "full_text": "@asper_jacob It's something I've been watching play out for a long time now. \n\nI couldn't understand why progress wasn't being made.\n\nThen I realized that progress wasn't the goal. Most people in power weren't motivated by actually making changes because change is risky.",
+    "lang": "en",
+    "in_reply_to_screen_name": "asper_jacob",
+    "in_reply_to_user_id_str": "1475203375662780420"
+  }
+}

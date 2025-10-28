@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425904380234977284"
+        ],
+        "editableUntil": "2021-08-12T20:37:50.927Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jZ69eal3b6",
+          "expanded_url": "https://x.com/leo_guinan/status/1423678473797783552?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "70",
+            "93"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "5",
+    "in_reply_to_status_id_str": "1425904378972565504",
+    "id_str": "1425904380234977284",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425904380234977284",
+    "in_reply_to_status_id": "1425904378972565504",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 12 19:37:50 +0000 2021",
+    "favorited": false,
+    "full_text": "Thinking about your automation process? Ask yourself these questions\n\nhttps://t.co/jZ69eal3b6",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

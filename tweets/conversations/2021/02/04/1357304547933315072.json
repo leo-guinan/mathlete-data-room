@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1357304547933315072"
+        ],
+        "editableUntil": "2021-02-04T13:26:36.383Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Yacoubian",
+          "screen_name": "PaulYacoubian",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "175934436",
+          "id": "175934436"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LB7q8Zpa3q",
+          "expanded_url": "http://copy.ai",
+          "display_url": "copy.ai",
+          "indices": [
+            "39",
+            "62"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "269"
+    ],
+    "favorite_count": "1",
+    "id_str": "1357304547933315072",
+    "in_reply_to_user_id": "175934436",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1357304547933315072",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 04 12:26:36 +0000 2021",
+    "favorited": false,
+    "full_text": "@PaulYacoubian hey Paul! First of all, https://t.co/LB7q8Zpa3q is amazing. I was playing around with the trial and while I can't afford to pay for it yet, I will once I get my own company up and running enough. But I had a question.  One of the tools generated a quote.",
+    "lang": "en",
+    "in_reply_to_screen_name": "PaulYacoubian",
+    "in_reply_to_user_id_str": "175934436"
+  }
+}

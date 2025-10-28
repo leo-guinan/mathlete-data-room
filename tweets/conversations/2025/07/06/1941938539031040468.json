@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941938539031040468"
+        ],
+        "editableUntil": "2025-07-06T20:13:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Chris Lakin",
+          "screen_name": "ChrischipMonk",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1170701109629018117",
+          "id": "1170701109629018117"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941938202752721165",
+    "id_str": "1941938539031040468",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941938539031040468",
+    "in_reply_to_status_id": "1941938202752721165",
+    "created_at": "Sun Jul 06 19:13:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@ChrisChipMonk This means that I create systems that maximize the value created by maximizing the leverage of all participants in a system collectively.\n\nThis is different from every data business that leverages network ownership.\n\nIn other words, I optimize for all the people involved.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

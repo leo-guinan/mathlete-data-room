@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1773845413784621256"
+        ],
+        "editableUntil": "2024-03-29T23:51:17.757Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "UntappedKeg",
+          "screen_name": "UntappedKeg",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1228444695384203269",
+          "id": "1228444695384203269"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "0",
+    "id_str": "1773845413784621256",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1773845413784621256",
+    "created_at": "Fri Mar 29 22:51:17 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @UntappedKeg: Join Lindsay and I on this livestream and ask us questions!",
+    "lang": "en"
+  }
+}

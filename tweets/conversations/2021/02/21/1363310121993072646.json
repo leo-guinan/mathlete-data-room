@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363310121993072646"
+        ],
+        "editableUntil": "2021-02-21T03:10:36.817Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nikema is Advocating 🥑",
+          "screen_name": "dev_nikema",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1299058785634324480",
+          "id": "1299058785634324480"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0gocLlMyc0",
+          "expanded_url": "https://x.com/leo_guinan/status/1363306390601801730?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "226",
+            "249"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "249"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1363269581205237763",
+    "id_str": "1363310121993072646",
+    "in_reply_to_user_id": "744302714226544640",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1363310121993072646",
+    "in_reply_to_status_id": "1363269581205237763",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 21 02:10:36 +0000 2021",
+    "favorited": false,
+    "full_text": "@dev_nikema Love this! I would love for people to follow me as I build out @net_defi . Not only am I building the software in public, I am building the company in public. And we just announced the next stage: DeFiNet Banking: https://t.co/0gocLlMyc0",
+    "lang": "en",
+    "in_reply_to_screen_name": "NikemaCodes",
+    "in_reply_to_user_id_str": "744302714226544640"
+  }
+}

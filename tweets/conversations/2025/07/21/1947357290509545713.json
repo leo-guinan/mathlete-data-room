@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1947357290509545713"
+        ],
+        "editableUntil": "2025-07-21T19:05:32.863Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/dagorenouf/status/1947353890090791318/photo/1",
+          "source_status_id": "1947353890090791318",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/sm5BisNj4D",
+          "media_url": "http://pbs.twimg.com/media/GwZkAybW8AAFwCy.jpg",
+          "id_str": "1947353853583618048",
+          "source_user_id": "991657337747394561",
+          "id": "1947353853583618048",
+          "media_url_https": "https://pbs.twimg.com/media/GwZkAybW8AAFwCy.jpg",
+          "source_user_id_str": "991657337747394561",
+          "sizes": {
+            "large": {
+              "w": "750",
+              "h": "292",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "750",
+              "h": "292",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "265",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1947353890090791318",
+          "display_url": "pic.x.com/sm5BisNj4D"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "68"
+    ],
+    "favorite_count": "0",
+    "id_str": "1947357290509545713",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1947357290509545713",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 21 18:05:32 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @dagorenouf: Perfect description of LLMs. https://t.co/sm5BisNj4D",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/dagorenouf/status/1947353890090791318/photo/1",
+          "source_status_id": "1947353890090791318",
+          "indices": [
+            "45",
+            "68"
+          ],
+          "url": "https://t.co/sm5BisNj4D",
+          "media_url": "http://pbs.twimg.com/media/GwZkAybW8AAFwCy.jpg",
+          "id_str": "1947353853583618048",
+          "source_user_id": "991657337747394561",
+          "id": "1947353853583618048",
+          "media_url_https": "https://pbs.twimg.com/media/GwZkAybW8AAFwCy.jpg",
+          "source_user_id_str": "991657337747394561",
+          "sizes": {
+            "large": {
+              "w": "750",
+              "h": "292",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "750",
+              "h": "292",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "265",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1947353890090791318",
+          "display_url": "pic.x.com/sm5BisNj4D"
+        }
+      ]
+    }
+  }
+}

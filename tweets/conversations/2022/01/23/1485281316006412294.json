@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1485281316006412294"
+        ],
+        "editableUntil": "2022-01-23T17:00:35.585Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "284"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1485045858609598466",
+    "id_str": "1485281316006412294",
+    "in_reply_to_user_id": "4736729423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1485281316006412294",
+    "in_reply_to_status_id": "1485045858609598466",
+    "created_at": "Sun Jan 23 16:00:35 +0000 2022",
+    "favorited": false,
+    "full_text": "@thisiskp_ As always, there's not a lot of room for nuance to spread on Twitter.\n\nThere are plenty of ways to be successful building either. \n\nAnd keep in mind, if a body is short of a given vitamin and that lack causes pain, a vitamin could be a painkiller. \n\nDifferent for everyone.",
+    "lang": "en",
+    "in_reply_to_screen_name": "thisiskp_",
+    "in_reply_to_user_id_str": "4736729423"
+  }
+}

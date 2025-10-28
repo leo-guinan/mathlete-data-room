@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1379497827269763073"
+        ],
+        "editableUntil": "2021-04-06T19:14:46.508Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Businessweek",
+          "screen_name": "BW",
+          "indices": [
+            "172",
+            "175"
+          ],
+          "id_str": "67358777",
+          "id": "67358777"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nd7uzBB2Zf",
+          "expanded_url": "https://www.bloomberg.com/news/features/2021-03-31/employee-co-ops-need-financing-these-impact-investors-want-to-help",
+          "display_url": "bloomberg.com/news/features/…",
+          "indices": [
+            "144",
+            "167"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "175"
+    ],
+    "favorite_count": "0",
+    "id_str": "1379497827269763073",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1379497827269763073",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 06 18:14:46 +0000 2021",
+    "favorited": false,
+    "full_text": "Employee-owned co-ops give workers power, but they may struggle to get conventional loans. Impact investors want to come through with financing https://t.co/nd7uzBB2Zf via @BW",
+    "lang": "en"
+  }
+}

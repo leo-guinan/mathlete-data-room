@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1919904724389630190"
+        ],
+        "editableUntil": "2025-05-07T00:58:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Seibel",
+          "screen_name": "mwseibel",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "2400261",
+          "id": "2400261"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4KtyNN4uxb",
+          "expanded_url": "https://www.buildinpublicuniversity.com/complexity-inflation-the-hidden-economics-of-scaling/",
+          "display_url": "buildinpublicuniversity.com/complexity-inf…",
+          "indices": [
+            "140",
+            "163"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "163"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1919898553167839301",
+    "id_str": "1919904724389630190",
+    "in_reply_to_user_id": "2400261",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1919904724389630190",
+    "in_reply_to_status_id": "1919898553167839301",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 06 23:58:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@mwseibel Yes, it's an example of complexity inflation that is directly pushing risk on to people that are the most vulnerable in society.\n\nhttps://t.co/4KtyNN4uxb",
+    "lang": "en",
+    "in_reply_to_screen_name": "mwseibel",
+    "in_reply_to_user_id_str": "2400261"
+  }
+}

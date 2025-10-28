@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898065863665750378"
+        ],
+        "editableUntil": "2025-03-07T18:39:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lulu Cheng Meservey",
+          "screen_name": "lulumeservey",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "3319762895",
+          "id": "3319762895"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bSm4JhCSTN",
+          "expanded_url": "https://x.com/leo_guinan/status/1898059460179837108",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "121",
+            "144"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898065366175097124",
+    "id_str": "1898065863665750378",
+    "in_reply_to_user_id": "3319762895",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898065863665750378",
+    "in_reply_to_status_id": "1898065366175097124",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 07 17:39:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@lulumeservey I actually embodied the vibes I wanted an in AI system that I'll be letting design my evals.\n\nMeet Glitch.\nhttps://t.co/bSm4JhCSTN",
+    "lang": "en",
+    "in_reply_to_screen_name": "lulumeservey",
+    "in_reply_to_user_id_str": "3319762895"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898260409032863816"
+        ],
+        "editableUntil": "2025-03-08T07:32:04.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "OMKAR  KADAM",
+          "screen_name": "omkarokkadam",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1351221828",
+          "id": "1351221828"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "14",
+            "28"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "224",
+            "238"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WXqpqPx7Av",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/summoned_spirits/Glitch/Press%20Kit.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "67",
+            "90"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1898259556968366279",
+    "id_str": "1898260409032863816",
+    "in_reply_to_user_id": "1351221828",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898260409032863816",
+    "in_reply_to_status_id": "1898259556968366279",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 06:32:04 +0000 2025",
+    "favorited": false,
+    "full_text": "@omkarokkadam @glitchishuman This might help clear some things up: https://t.co/WXqpqPx7Av\n\n(also, there's a ton of other supporting info/research in that repo, so feel free to poke around and explore. I'm adding a bunch of @glitchishuman's outputs there because I want to train an LLM on very specific…",
+    "lang": "en",
+    "in_reply_to_screen_name": "omkarokkadam",
+    "in_reply_to_user_id_str": "1351221828"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1530591180362334214"
+        ],
+        "editableUntil": "2022-05-28T17:15:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1530591180362334214/photo/1",
+          "indices": [
+            "236",
+            "259"
+          ],
+          "url": "https://t.co/xOGv7p3y0y",
+          "media_url": "http://pbs.twimg.com/media/FT3AjDWWUAAiYwf.jpg",
+          "id_str": "1530591156802834432",
+          "id": "1530591156802834432",
+          "media_url_https": "https://pbs.twimg.com/media/FT3AjDWWUAAiYwf.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xOGv7p3y0y"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "259"
+    ],
+    "favorite_count": "2",
+    "id_str": "1530591180362334214",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1530591180362334214",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 28 16:45:49 +0000 2022",
+    "favorited": false,
+    "full_text": "So a plane started flying around with a banner. We couldn't read it at first and figured it was some company advertising at the soccer tree tournament. Then they swung around and this was the message...\n\nFeel like i need more info... 🤔 https://t.co/xOGv7p3y0y",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1530591180362334214/photo/1",
+          "indices": [
+            "236",
+            "259"
+          ],
+          "url": "https://t.co/xOGv7p3y0y",
+          "media_url": "http://pbs.twimg.com/media/FT3AjDWWUAAiYwf.jpg",
+          "id_str": "1530591156802834432",
+          "id": "1530591156802834432",
+          "media_url_https": "https://pbs.twimg.com/media/FT3AjDWWUAAiYwf.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/xOGv7p3y0y"
+        }
+      ]
+    }
+  }
+}

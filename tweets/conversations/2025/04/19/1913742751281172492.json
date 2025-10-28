@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1913742751281172492"
+        ],
+        "editableUntil": "2025-04-20T00:53:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bryce Roberts",
+          "screen_name": "bryce",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "6160742",
+          "id": "6160742"
+        },
+        {
+          "name": "David Senra",
+          "screen_name": "FoundersPodcast",
+          "indices": [
+            "22",
+            "38"
+          ],
+          "id_str": "4777305755",
+          "id": "4777305755"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "111"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1913730951445921855",
+    "id_str": "1913742751281172492",
+    "in_reply_to_user_id": "6160742",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1913742751281172492",
+    "in_reply_to_status_id": "1913730951445921855",
+    "created_at": "Sat Apr 19 23:53:22 +0000 2025",
+    "favorited": false,
+    "full_text": "@bryce I’ve gotta tag @FoundersPodcast in here to defend the honor of Canes, because it’s at a different level.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bryce",
+    "in_reply_to_user_id_str": "6160742"
+  }
+}

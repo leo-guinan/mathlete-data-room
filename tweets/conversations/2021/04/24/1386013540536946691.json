@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1386013540536946691"
+        ],
+        "editableUntil": "2021-04-24T18:45:53.607Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amina",
+          "screen_name": "yeahshewrites",
+          "indices": [
+            "10",
+            "24"
+          ],
+          "id_str": "1278447823",
+          "id": "1278447823"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "85"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1386009539540029442",
+    "id_str": "1386013540536946691",
+    "in_reply_to_user_id": "70751191",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1386013540536946691",
+    "in_reply_to_status_id": "1386009539540029442",
+    "created_at": "Sat Apr 24 17:45:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@Jon_Ayre @yeahshewrites That's an interesting view. I really like that idea. Thanks!",
+    "lang": "en",
+    "in_reply_to_user_id_str": "70751191"
+  }
+}

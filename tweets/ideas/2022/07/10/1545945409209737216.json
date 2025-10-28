@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545945409209737216"
+        ],
+        "editableUntil": "2022-07-10T02:08:02.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JXyzkiqC1J",
+          "expanded_url": "https://x.com/arvidkahl/status/1545942917344366593",
+          "display_url": "x.com/arvidkahl/stat…",
+          "indices": [
+            "37",
+            "60"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "5",
+    "id_str": "1545945409209737216",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545945409209737216",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jul 10 01:38:02 +0000 2022",
+    "favorited": false,
+    "full_text": "100% this.\n\nSeriously life-changing. https://t.co/JXyzkiqC1J",
+    "lang": "en"
+  }
+}

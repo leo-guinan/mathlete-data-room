@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1786093661169578376"
+        ],
+        "editableUntil": "2024-05-02T19:01:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1786093661169578376/photo/1",
+          "indices": [
+            "90",
+            "113"
+          ],
+          "url": "https://t.co/l1Zb8YFk1C",
+          "media_url": "http://pbs.twimg.com/media/GMl6se-W0AAOxuP.jpg",
+          "id_str": "1786093631876550656",
+          "id": "1786093631876550656",
+          "media_url_https": "https://pbs.twimg.com/media/GMl6se-W0AAOxuP.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "106",
+              "h": "106",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1068",
+              "h": "106",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "67",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1068",
+              "h": "106",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/l1Zb8YFk1C"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "1",
+    "id_str": "1786093661169578376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1786093661169578376",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 02 18:01:27 +0000 2024",
+    "favorited": false,
+    "full_text": "POV: you are manually kicking off jobs and need to come up with unique identifier strings https://t.co/l1Zb8YFk1C",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1786093661169578376/photo/1",
+          "indices": [
+            "90",
+            "113"
+          ],
+          "url": "https://t.co/l1Zb8YFk1C",
+          "media_url": "http://pbs.twimg.com/media/GMl6se-W0AAOxuP.jpg",
+          "id_str": "1786093631876550656",
+          "id": "1786093631876550656",
+          "media_url_https": "https://pbs.twimg.com/media/GMl6se-W0AAOxuP.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "106",
+              "h": "106",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1068",
+              "h": "106",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "67",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1068",
+              "h": "106",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/l1Zb8YFk1C"
+        }
+      ]
+    }
+  }
+}

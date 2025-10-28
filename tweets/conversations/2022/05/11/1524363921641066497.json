@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1524363921641066497"
+        ],
+        "editableUntil": "2022-05-11T12:50:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Melchor",
+          "screen_name": "Melchor_Eric",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "186882088",
+          "id": "186882088"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1524363276846575617",
+    "id_str": "1524363921641066497",
+    "in_reply_to_user_id": "186882088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1524363921641066497",
+    "in_reply_to_status_id": "1524363276846575617",
+    "created_at": "Wed May 11 12:20:54 +0000 2022",
+    "favorited": false,
+    "full_text": "@Melchor_Eric It really was! Disappointed the eagle didn't give me a chance to get a good picture. The other creatures were much nicer about that. 😂 \n\nHe just buzzed overhead once and then was chasing off other birds all around the lake. Was funny to watch them all take off quickly",
+    "lang": "en",
+    "in_reply_to_screen_name": "Melchor_Eric",
+    "in_reply_to_user_id_str": "186882088"
+  }
+}

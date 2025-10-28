@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1824911168613269509"
+        ],
+        "editableUntil": "2024-08-17T21:48:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonny Miller",
+          "screen_name": "jonnym1ller",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "495347209",
+          "id": "495347209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "181"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1824100604601339950",
+    "id_str": "1824911168613269509",
+    "in_reply_to_user_id": "495347209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1824911168613269509",
+    "in_reply_to_status_id": "1824100604601339950",
+    "created_at": "Sat Aug 17 20:48:22 +0000 2024",
+    "favorited": false,
+    "full_text": "@jonnym1ller Curious: what pdfs are you storing in large quantities and what do you use them for? \n\n(if you don't mind my asking, of course. You are free to ignore the question :) )",
+    "lang": "en",
+    "in_reply_to_screen_name": "jonnym1ller",
+    "in_reply_to_user_id_str": "495347209"
+  }
+}

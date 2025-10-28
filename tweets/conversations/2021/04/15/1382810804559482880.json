@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1382810804559482880"
+        ],
+        "editableUntil": "2021-04-15T22:39:21.846Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ben Putano 📚",
+          "screen_name": "BenjaminPutano",
+          "indices": [
+            "76",
+            "91"
+          ],
+          "id_str": "228834325",
+          "id": "228834325"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4i3OMhiQR3",
+          "expanded_url": "https://greatfounderswrite.substack.com/p/thinking-writing-and-building-with?r=evblp&utm_campaign=post&utm_medium=email&utm_source=twitter",
+          "display_url": "greatfounderswrite.substack.com/p/thinking-wri…",
+          "indices": [
+            "92",
+            "115"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "115"
+    ],
+    "favorite_count": "2",
+    "id_str": "1382810804559482880",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1382810804559482880",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 15 21:39:21 +0000 2021",
+    "favorited": false,
+    "full_text": "Another great read from Ben!\n\nThinking, Writing, and Building with Bets, by @BenjaminPutano https://t.co/4i3OMhiQR3",
+    "lang": "en"
+  }
+}

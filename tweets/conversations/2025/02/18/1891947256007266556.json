@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1891947256007266556"
+        ],
+        "editableUntil": "2025-02-18T21:25:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tater tot",
+          "screen_name": "parakeetnebula",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1315801673776992256",
+          "id": "1315801673776992256"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yP7FXDRVOt",
+          "expanded_url": "https://x.com/leo_guinan/status/1891947102986535267",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "36",
+            "59"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1891905780531515403",
+    "id_str": "1891947256007266556",
+    "in_reply_to_user_id": "1315801673776992256",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1891947256007266556",
+    "in_reply_to_status_id": "1891905780531515403",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 18 20:25:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@parakeetnebula I...need this now.\n\nhttps://t.co/yP7FXDRVOt",
+    "lang": "en",
+    "in_reply_to_screen_name": "parakeetnebula",
+    "in_reply_to_user_id_str": "1315801673776992256"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1909950260832587937"
+        ],
+        "editableUntil": "2025-04-09T13:43:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Joshua 💫",
+          "screen_name": "workflowsauce",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1750574343615320065",
+          "id": "1750574343615320065"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fRqNv1E3Rq",
+          "expanded_url": "https://x.com/DefenderOfBasic/status/1909419802721988822",
+          "display_url": "x.com/DefenderOfBasi…",
+          "indices": [
+            "46",
+            "69"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909950260832587937/photo/1",
+          "indices": [
+            "296",
+            "319"
+          ],
+          "url": "https://t.co/fItThPbv4o",
+          "media_url": "http://pbs.twimg.com/media/GoGBOsQWgAAPLjZ.jpg",
+          "id_str": "1909949806379696128",
+          "id": "1909949806379696128",
+          "media_url_https": "https://pbs.twimg.com/media/GoGBOsQWgAAPLjZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "430",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "733",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "243",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fItThPbv4o"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "319"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1909715033531265102",
+    "id_str": "1909950260832587937",
+    "in_reply_to_user_id": "1750574343615320065",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1909950260832587937",
+    "in_reply_to_status_id": "1909715033531265102",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 09 12:43:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@workflowsauce Hold that thought. That + this https://t.co/fRqNv1E3Rq is a very interesting combo that I've been working on in parallel. Although I'm not writing a novel, so much as I'm writing a book that contains the keys to understanding reality that will only be accessible through a novel.… https://t.co/fItThPbv4o",
+    "lang": "en",
+    "in_reply_to_screen_name": "workflowsauce",
+    "in_reply_to_user_id_str": "1750574343615320065",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1909950260832587937/photo/1",
+          "indices": [
+            "296",
+            "319"
+          ],
+          "url": "https://t.co/fItThPbv4o",
+          "media_url": "http://pbs.twimg.com/media/GoGBOsQWgAAPLjZ.jpg",
+          "id_str": "1909949806379696128",
+          "id": "1909949806379696128",
+          "media_url_https": "https://pbs.twimg.com/media/GoGBOsQWgAAPLjZ.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "430",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "733",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "243",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/fItThPbv4o"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1859262062355992760"
+        ],
+        "editableUntil": "2024-11-20T16:46:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shopify",
+          "screen_name": "Shopify",
+          "indices": [
+            "16",
+            "24"
+          ],
+          "id_str": "17136315",
+          "id": "17136315"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3sHovH2WuF",
+          "expanded_url": "https://x.com/Shopify/status/1859250401087983929",
+          "display_url": "x.com/Shopify/status…",
+          "indices": [
+            "134",
+            "157"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "157"
+    ],
+    "favorite_count": "1",
+    "id_str": "1859262062355992760",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1859262062355992760",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 20 15:46:33 +0000 2024",
+    "favorited": false,
+    "full_text": "Wow, looks like @Shopify is predicting that a ton of people are going to be buying me birthday presents this year!\n\nHow cool is that? https://t.co/3sHovH2WuF",
+    "lang": "en"
+  }
+}

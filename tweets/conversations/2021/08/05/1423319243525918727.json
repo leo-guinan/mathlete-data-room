@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1423319243525918727"
+        ],
+        "editableUntil": "2021-08-05T17:25:26.306Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dominic Zy 🐐",
+          "screen_name": "DominicZijlstra",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1252597118948323329",
+          "id": "1252597118948323329"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1423318666943336461",
+    "id_str": "1423319243525918727",
+    "in_reply_to_user_id": "1252597118948323329",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1423319243525918727",
+    "in_reply_to_status_id": "1423318666943336461",
+    "created_at": "Thu Aug 05 16:25:26 +0000 2021",
+    "favorited": false,
+    "full_text": "@DominicZijlstra I spent several years of my life looking at DAGs. It was a running joke on our team that every sentence needed to include DAG in it somewhere lol\n\nSeriously changed how I looked at the world. Only recently figured out that not everyone saw the world as a series of DAGs 🤣",
+    "lang": "en",
+    "in_reply_to_screen_name": "DominicZijlstra",
+    "in_reply_to_user_id_str": "1252597118948323329"
+  }
+}

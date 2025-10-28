@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363954035674521602"
+        ],
+        "editableUntil": "2021-02-22T21:49:17.802Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Startup Grind",
+          "screen_name": "StartupGrind",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "108698830",
+          "id": "108698830"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1363954035674521602",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363954035674521602",
+    "created_at": "Mon Feb 22 20:49:17 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @StartupGrind: What can you get rid of from your slide deck? A lot. Keep only what you need. A slide on: \nmarket, team, problem, what yo…",
+    "lang": "en"
+  }
+}

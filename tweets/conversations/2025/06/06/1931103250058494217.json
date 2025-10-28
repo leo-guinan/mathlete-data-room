@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931103250058494217"
+        ],
+        "editableUntil": "2025-06-06T22:37:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "lisatomic",
+          "screen_name": "lisatomic5",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1276645929781587969",
+          "id": "1276645929781587969"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "54",
+            "69"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "129"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1931100196395741223",
+    "id_str": "1931103250058494217",
+    "in_reply_to_user_id": "1276645929781587969",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931103250058494217",
+    "in_reply_to_status_id": "1931100196395741223",
+    "created_at": "Fri Jun 06 21:37:47 +0000 2025",
+    "favorited": false,
+    "full_text": "@lisatomic5 If you want to play around with things at @BuildInPublicU, would love to have you. It’s all about playing with ideas.",
+    "lang": "en",
+    "in_reply_to_screen_name": "lisatomic5",
+    "in_reply_to_user_id_str": "1276645929781587969"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1643305283190415376"
+        ],
+        "editableUntil": "2023-04-04T18:01:25.305Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Stina",
+          "screen_name": "Stinaia",
+          "indices": [
+            "3",
+            "11"
+          ],
+          "id_str": "38506082",
+          "id": "38506082"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1643305283190415376",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1643305283190415376",
+    "created_at": "Tue Apr 04 17:31:25 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @Stinaia: This is so important. Not even just educating them on why it's needed, but also on how to get the optimal output from using yo…",
+    "lang": "en"
+  }
+}

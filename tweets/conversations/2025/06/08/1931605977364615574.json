@@ -1,0 +1,135 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931605977364615574"
+        ],
+        "editableUntil": "2025-06-08T07:55:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "25",
+            "41"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uInb5zbXfY",
+          "expanded_url": "https://tickets.hitchhikersguidetothefuture.com/future/21",
+          "display_url": "…ckets.hitchhikersguidetothefuture.com/future/21",
+          "indices": [
+            "51",
+            "74"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931605977364615574/photo/1",
+          "indices": [
+            "75",
+            "98"
+          ],
+          "url": "https://t.co/1HQ2WArXnr",
+          "media_url": "http://pbs.twimg.com/media/Gs5xO6SWsAAPBIR.jpg",
+          "id_str": "1931605791166869504",
+          "id": "1931605791166869504",
+          "media_url_https": "https://pbs.twimg.com/media/Gs5xO6SWsAAPBIR.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1710",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1002",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "568",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1HQ2WArXnr"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "0",
+    "id_str": "1931605977364615574",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931605977364615574",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 08 06:55:27 +0000 2025",
+    "favorited": false,
+    "full_text": "Here's a future based on @DefenderOfBasic's work.\n\nhttps://t.co/uInb5zbXfY https://t.co/1HQ2WArXnr",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1931605977364615574/photo/1",
+          "indices": [
+            "75",
+            "98"
+          ],
+          "url": "https://t.co/1HQ2WArXnr",
+          "media_url": "http://pbs.twimg.com/media/Gs5xO6SWsAAPBIR.jpg",
+          "id_str": "1931605791166869504",
+          "id": "1931605791166869504",
+          "media_url_https": "https://pbs.twimg.com/media/Gs5xO6SWsAAPBIR.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1710",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1002",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "568",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1HQ2WArXnr"
+        }
+      ]
+    }
+  }
+}

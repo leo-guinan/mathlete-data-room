@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1611735704039481345"
+        ],
+        "editableUntil": "2023-01-07T15:15:11.101Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "98"
+    ],
+    "favorite_count": "0",
+    "id_str": "1611735704039481345",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1611735704039481345",
+    "created_at": "Sat Jan 07 14:45:11 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @JustinAllingham: It works. He did it for me. Not more content, the right content. Check it out",
+    "lang": "en"
+  }
+}

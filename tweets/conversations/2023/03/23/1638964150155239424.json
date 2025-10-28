@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1638964150155239424"
+        ],
+        "editableUntil": "2023-03-23T18:31:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Midjourney",
+          "screen_name": "midjourney",
+          "indices": [
+            "106",
+            "117"
+          ],
+          "id_str": "1307056292465274880",
+          "id": "1307056292465274880"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "196"
+    ],
+    "favorite_count": "0",
+    "id_str": "1638964150155239424",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1638964150155239424",
+    "created_at": "Thu Mar 23 18:01:18 +0000 2023",
+    "favorited": false,
+    "full_text": "New test of quality: when your app goes down, does a riot break out?\n\n(also, I spent a little time in the @midjourney Discord when the bot wasn't working.  Damn...)\n\nThat's how you know it's good.",
+    "lang": "en"
+  }
+}

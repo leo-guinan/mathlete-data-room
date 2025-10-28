@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887886331948261856"
+        ],
+        "editableUntil": "2025-02-07T16:29:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sara Campbell",
+          "screen_name": "tinyrevver",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "3949831",
+          "id": "3949831"
+        },
+        {
+          "name": "Steph Soussloff",
+          "screen_name": "stephsoussloff",
+          "indices": [
+            "12",
+            "27"
+          ],
+          "id_str": "839193825071497216",
+          "id": "839193825071497216"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "62"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1887885726387249515",
+    "id_str": "1887886331948261856",
+    "in_reply_to_user_id": "3949831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887886331948261856",
+    "in_reply_to_status_id": "1887885726387249515",
+    "created_at": "Fri Feb 07 15:29:11 +0000 2025",
+    "favorited": false,
+    "full_text": "@tinyrevver @stephsoussloff Happy birthday Steph!!!! ❤️🎉❤️🎉❤️🎉",
+    "lang": "en",
+    "in_reply_to_screen_name": "tinyrevver",
+    "in_reply_to_user_id_str": "3949831"
+  }
+}

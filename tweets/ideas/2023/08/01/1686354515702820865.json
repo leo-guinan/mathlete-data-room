@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1686354515702820865"
+        ],
+        "editableUntil": "2023-08-01T13:33:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1686354515702820865/photo/1",
+          "indices": [
+            "82",
+            "105"
+          ],
+          "url": "https://t.co/Ues4xczNQ2",
+          "media_url": "http://pbs.twimg.com/media/F2cidxWWYAAKC7v.png",
+          "id_str": "1686354480332169216",
+          "id": "1686354480332169216",
+          "media_url_https": "https://pbs.twimg.com/media/F2cidxWWYAAKC7v.png",
+          "sizes": {
+            "large": {
+              "w": "748",
+              "h": "122",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "748",
+              "h": "122",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "122",
+              "h": "122",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "111",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Ues4xczNQ2"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "2",
+    "id_str": "1686354515702820865",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1686354515702820865",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 01 12:33:42 +0000 2023",
+    "favorited": false,
+    "full_text": "Nothing like scheduling your newsletter to go out with plenty of time to spare... https://t.co/Ues4xczNQ2",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1686354515702820865/photo/1",
+          "indices": [
+            "82",
+            "105"
+          ],
+          "url": "https://t.co/Ues4xczNQ2",
+          "media_url": "http://pbs.twimg.com/media/F2cidxWWYAAKC7v.png",
+          "id_str": "1686354480332169216",
+          "id": "1686354480332169216",
+          "media_url_https": "https://pbs.twimg.com/media/F2cidxWWYAAKC7v.png",
+          "sizes": {
+            "large": {
+              "w": "748",
+              "h": "122",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "748",
+              "h": "122",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "122",
+              "h": "122",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "111",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Ues4xczNQ2"
+        }
+      ]
+    }
+  }
+}

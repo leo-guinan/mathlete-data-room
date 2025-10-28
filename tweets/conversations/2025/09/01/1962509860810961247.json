@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1962509860810961247"
+        ],
+        "editableUntil": "2025-09-01T14:36:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "52",
+            "67"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "152"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1962509310778589531",
+    "id_str": "1962509860810961247",
+    "in_reply_to_user_id": "2518563752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1962509860810961247",
+    "in_reply_to_status_id": "1962509310778589531",
+    "created_at": "Mon Sep 01 13:36:27 +0000 2025",
+    "favorited": false,
+    "full_text": "@anuatluru I’ve been doing this in small numbers at @BuildInPublicU, with the goal of expanding it over time as I nail models of teaching and exploring.",
+    "lang": "en",
+    "in_reply_to_screen_name": "anuatluru",
+    "in_reply_to_user_id_str": "2518563752"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381305698357817347"
+        ],
+        "editableUntil": "2021-04-11T18:58:36.564Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Gazdecki",
+          "screen_name": "agazdecki",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1511333035",
+          "id": "1511333035"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "0",
+    "id_str": "1381305698357817347",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381305698357817347",
+    "created_at": "Sun Apr 11 17:58:36 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @agazdecki: Startups give you massive leverage where a few good decisions per week can have massive impact.",
+    "lang": "en"
+  }
+}

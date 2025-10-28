@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811023336354242830"
+        ],
+        "editableUntil": "2024-07-10T14:03:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Torsten Jacobi",
+          "screen_name": "jacobi_torsten",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1210690795130564608",
+          "id": "1210690795130564608"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "180"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1811022521996644695",
+    "id_str": "1811023336354242830",
+    "in_reply_to_user_id": "1210690795130564608",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1811023336354242830",
+    "in_reply_to_status_id": "1811022521996644695",
+    "created_at": "Wed Jul 10 13:03:05 +0000 2024",
+    "favorited": false,
+    "full_text": "@jacobi_torsten One of the biggest benefits of AI: thinking without the feeling of being observed thinking.\n\nNo risk of judgement and loss of social capital while asking questions.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jacobi_torsten",
+    "in_reply_to_user_id_str": "1210690795130564608"
+  }
+}

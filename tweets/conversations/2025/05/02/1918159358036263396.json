@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1918159358036263396"
+        ],
+        "editableUntil": "2025-05-02T05:23:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Bryan Caplan",
+          "screen_name": "bryan_caplan",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "242423151",
+          "id": "242423151"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "229"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1917956814714306839",
+    "id_str": "1918159358036263396",
+    "in_reply_to_user_id": "242423151",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1918159358036263396",
+    "in_reply_to_status_id": "1917956814714306839",
+    "created_at": "Fri May 02 04:23:23 +0000 2025",
+    "favorited": false,
+    "full_text": "@bryan_caplan I don’t think that’s necessarily true. You would need to look at the number of people for whom the bonus would be enough to flip them to having n +1 kids.  \n\nI don’t think 5K is enough to flip many, but maybe a few.",
+    "lang": "en",
+    "in_reply_to_screen_name": "bryan_caplan",
+    "in_reply_to_user_id_str": "242423151"
+  }
+}

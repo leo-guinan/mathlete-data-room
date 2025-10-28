@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1556341433547751424"
+        ],
+        "editableUntil": "2022-08-07T18:38:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "203"
+    ],
+    "favorite_count": "1",
+    "id_str": "1556341433547751424",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1556341433547751424",
+    "created_at": "Sun Aug 07 18:08:07 +0000 2022",
+    "favorited": false,
+    "full_text": "Has anyone tried embedding airtable data on a Ghost page? \n\nStarted thinking about how to display certain things and realized that might be a good way to do it, just haven't played around with it enough.",
+    "lang": "en"
+  }
+}

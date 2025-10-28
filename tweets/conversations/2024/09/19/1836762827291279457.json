@@ -1,0 +1,166 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1836762827291279457"
+        ],
+        "editableUntil": "2024-09-19T14:42:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "CRANQ",
+          "screen_name": "CranQnow",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1497230595889537028",
+          "id": "1497230595889537028"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1836762827291279457/photo/1",
+          "indices": [
+            "148",
+            "171"
+          ],
+          "url": "https://t.co/YRBqoBIM2u",
+          "media_url": "http://pbs.twimg.com/media/GX199aqXMAAyd35.jpg",
+          "id_str": "1836762717119524864",
+          "id": "1836762717119524864",
+          "media_url_https": "https://pbs.twimg.com/media/GX199aqXMAAyd35.jpg",
+          "sizes": {
+            "large": {
+              "w": "1338",
+              "h": "1838",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "495",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "874",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YRBqoBIM2u"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "171"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1836113060089491543",
+    "id_str": "1836762827291279457",
+    "in_reply_to_user_id": "1497230595889537028",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1836762827291279457",
+    "in_reply_to_status_id": "1836113060089491543",
+    "possibly_sensitive": false,
+    "created_at": "Thu Sep 19 13:42:38 +0000 2024",
+    "favorited": false,
+    "full_text": "@CranQnow This Part Of Twitter. I'm honestly not sure how to describe it, so I'll let Grok do so.\n\nBasically, it's a mostly good subset of Twitter. https://t.co/YRBqoBIM2u",
+    "lang": "en",
+    "in_reply_to_screen_name": "CranQnow",
+    "in_reply_to_user_id_str": "1497230595889537028",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1836762827291279457/photo/1",
+          "indices": [
+            "148",
+            "171"
+          ],
+          "url": "https://t.co/YRBqoBIM2u",
+          "media_url": "http://pbs.twimg.com/media/GX199aqXMAAyd35.jpg",
+          "id_str": "1836762717119524864",
+          "id": "1836762717119524864",
+          "media_url_https": "https://pbs.twimg.com/media/GX199aqXMAAyd35.jpg",
+          "sizes": {
+            "large": {
+              "w": "1338",
+              "h": "1838",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "495",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "874",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YRBqoBIM2u"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1836762827291279457/photo/1",
+          "indices": [
+            "148",
+            "171"
+          ],
+          "url": "https://t.co/YRBqoBIM2u",
+          "media_url": "http://pbs.twimg.com/media/GX199awW4AAuuNa.jpg",
+          "id_str": "1836762717144670208",
+          "id": "1836762717144670208",
+          "media_url_https": "https://pbs.twimg.com/media/GX199awW4AAuuNa.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "424",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1338",
+              "h": "834",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "748",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/YRBqoBIM2u"
+        }
+      ]
+    }
+  }
+}

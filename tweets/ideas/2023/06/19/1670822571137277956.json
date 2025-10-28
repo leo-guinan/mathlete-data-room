@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1670822571137277956"
+        ],
+        "editableUntil": "2023-06-19T16:55:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1670822571137277956/photo/1",
+          "indices": [
+            "90",
+            "113"
+          ],
+          "url": "https://t.co/DJCXYfLooE",
+          "media_url": "http://pbs.twimg.com/media/Fy_0RfgXgAIJNl9.png",
+          "id_str": "1670822568129953794",
+          "id": "1670822568129953794",
+          "media_url_https": "https://pbs.twimg.com/media/Fy_0RfgXgAIJNl9.png",
+          "sizes": {
+            "medium": {
+              "w": "674",
+              "h": "462",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "674",
+              "h": "462",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "674",
+              "h": "462",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DJCXYfLooE"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "6",
+    "id_str": "1670822571137277956",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1670822571137277956",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 19 15:55:17 +0000 2023",
+    "favorited": false,
+    "full_text": "This is a bit wild.\n\nPretty cool! Making steady progress as my channel continues to grow! https://t.co/DJCXYfLooE",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1670822571137277956/photo/1",
+          "indices": [
+            "90",
+            "113"
+          ],
+          "url": "https://t.co/DJCXYfLooE",
+          "media_url": "http://pbs.twimg.com/media/Fy_0RfgXgAIJNl9.png",
+          "id_str": "1670822568129953794",
+          "id": "1670822568129953794",
+          "media_url_https": "https://pbs.twimg.com/media/Fy_0RfgXgAIJNl9.png",
+          "sizes": {
+            "medium": {
+              "w": "674",
+              "h": "462",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "674",
+              "h": "462",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "674",
+              "h": "462",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/DJCXYfLooE"
+        }
+      ]
+    }
+  }
+}

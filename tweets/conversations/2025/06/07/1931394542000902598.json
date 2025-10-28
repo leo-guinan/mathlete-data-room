@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931394542000902598"
+        ],
+        "editableUntil": "2025-06-07T17:55:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nivi",
+          "screen_name": "nivi",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "644863",
+          "id": "644863"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4RX3ztwhmK",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/welcome-to-day-1-of-the-future",
+          "display_url": "hitchhikertothefuture.substack.com/p/welcome-to-d…",
+          "indices": [
+            "70",
+            "93"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1931394323372728467",
+    "id_str": "1931394542000902598",
+    "in_reply_to_user_id": "644863",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931394542000902598",
+    "in_reply_to_status_id": "1931394323372728467",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 07 16:55:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@nivi Oh cool. You’re ready for the new internet. Glad to have you. \n\nhttps://t.co/4RX3ztwhmK",
+    "lang": "en",
+    "in_reply_to_screen_name": "nivi",
+    "in_reply_to_user_id_str": "644863"
+  }
+}

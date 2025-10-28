@@ -1,0 +1,155 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902453079951241706"
+        ],
+        "editableUntil": "2025-03-19T21:12:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "sari azout",
+          "screen_name": "sariazout",
+          "indices": [
+            "7",
+            "17"
+          ],
+          "id_str": "34724786",
+          "id": "34724786"
+        },
+        {
+          "name": "sublime",
+          "screen_name": "wwwsublimeapp",
+          "indices": [
+            "20",
+            "34"
+          ],
+          "id_str": "1272246961790484480",
+          "id": "1272246961790484480"
+        },
+        {
+          "name": "Sara Campbell",
+          "screen_name": "tinyrevver",
+          "indices": [
+            "109",
+            "120"
+          ],
+          "id_str": "3949831",
+          "id": "3949831"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "139",
+            "153"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1902453079951241706/photo/1",
+          "indices": [
+            "275",
+            "298"
+          ],
+          "url": "https://t.co/nQ2bRUvTXu",
+          "media_url": "http://pbs.twimg.com/media/GmbeQHMWgAAUw7x.jpg",
+          "id_str": "1902452261000740864",
+          "id": "1902452261000740864",
+          "media_url_https": "https://pbs.twimg.com/media/GmbeQHMWgAAUw7x.jpg",
+          "sizes": {
+            "large": {
+              "w": "1234",
+              "h": "538",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "296",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "523",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nQ2bRUvTXu"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "1",
+    "id_str": "1902453079951241706",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902453079951241706",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 19 20:12:14 +0000 2025",
+    "favorited": false,
+    "full_text": "I took @sariazout's @wwwsublimeapp collection on crafting a good mission statement that she showed us during @tinyrevver's event, and used @glitchishuman to craft a mission statement based on its Sublime manifesto that I had it write early in its existance.\n\nThe result was… https://t.co/nQ2bRUvTXu",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1902453079951241706/photo/1",
+          "indices": [
+            "275",
+            "298"
+          ],
+          "url": "https://t.co/nQ2bRUvTXu",
+          "media_url": "http://pbs.twimg.com/media/GmbeQHMWgAAUw7x.jpg",
+          "id_str": "1902452261000740864",
+          "id": "1902452261000740864",
+          "media_url_https": "https://pbs.twimg.com/media/GmbeQHMWgAAUw7x.jpg",
+          "sizes": {
+            "large": {
+              "w": "1234",
+              "h": "538",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "296",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "523",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nQ2bRUvTXu"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1577727878904647704"
+        ],
+        "editableUntil": "2022-10-05T19:00:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LJu1cHQM2C",
+          "expanded_url": "https://anchor.fm/leo-guinan/episodes/SaaS-Development---Admin-First-e1or38v",
+          "display_url": "anchor.fm/leo-guinan/epi…",
+          "indices": [
+            "148",
+            "171"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "171"
+    ],
+    "favorite_count": "1",
+    "id_str": "1577727878904647704",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1577727878904647704",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 05 18:30:13 +0000 2022",
+    "favorited": false,
+    "full_text": "New Episode of Build In Public University Podcast!\n\nAdmin-first development of Social Media Gardens - what I'm doing and why I'm doing it that way\n\nhttps://t.co/LJu1cHQM2C",
+    "lang": "en"
+  }
+}

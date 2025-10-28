@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923068762871279651"
+        ],
+        "editableUntil": "2025-05-15T18:31:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qpIkemMxf2",
+          "expanded_url": "https://x.com/leo_guinan/status/1923054902953304066",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "247",
+            "270"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923068762871279651/photo/1",
+          "indices": [
+            "271",
+            "294"
+          ],
+          "url": "https://t.co/nlooBcciRo",
+          "media_url": "http://pbs.twimg.com/media/GrARqWcWkAAOJqV.jpg",
+          "id_str": "1923056460163878912",
+          "id": "1923056460163878912",
+          "media_url_https": "https://pbs.twimg.com/media/GrARqWcWkAAOJqV.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "440",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1578",
+              "h": "1020",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "776",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nlooBcciRo"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "id_str": "1923068762871279651",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923068762871279651",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 15 17:31:36 +0000 2025",
+    "favorited": false,
+    "full_text": "Welcome to the time wars.\n\nMy research shows me that our biggest threat vector is our timeline, and I'm working to fix that and help others do the same.\n\nWe need to create temporal bridge institutions that don't allow timeline poisoning to occur. https://t.co/qpIkemMxf2 https://t.co/nlooBcciRo",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923068762871279651/photo/1",
+          "indices": [
+            "271",
+            "294"
+          ],
+          "url": "https://t.co/nlooBcciRo",
+          "media_url": "http://pbs.twimg.com/media/GrARqWcWkAAOJqV.jpg",
+          "id_str": "1923056460163878912",
+          "id": "1923056460163878912",
+          "media_url_https": "https://pbs.twimg.com/media/GrARqWcWkAAOJqV.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "440",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1578",
+              "h": "1020",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "776",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/nlooBcciRo"
+        }
+      ]
+    }
+  }
+}

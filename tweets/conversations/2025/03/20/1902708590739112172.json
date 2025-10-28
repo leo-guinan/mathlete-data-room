@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902708590739112172"
+        ],
+        "editableUntil": "2025-03-20T14:07:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "28",
+            "43"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sfXnc8mSE9",
+          "expanded_url": "https://sublime.app/card/ef35ef67-jpeg",
+          "display_url": "sublime.app/card/ef35ef67-…",
+          "indices": [
+            "70",
+            "93"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "id_str": "1902708590739112172",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902708590739112172",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 20 13:07:33 +0000 2025",
+    "favorited": false,
+    "full_text": "The world takes care of 1.\n\n@BuildInPublicU is here for the other 3.\n\nhttps://t.co/sfXnc8mSE9",
+    "lang": "en"
+  }
+}

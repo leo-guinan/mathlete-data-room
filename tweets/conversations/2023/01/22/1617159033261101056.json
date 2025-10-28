@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617159033261101056"
+        ],
+        "editableUntil": "2023-01-22T14:25:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "SimonMcNally",
+          "screen_name": "SimonMcNally5",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1344662973281927171",
+          "id": "1344662973281927171"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "249"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1617158301963419650",
+    "id_str": "1617159033261101056",
+    "in_reply_to_user_id": "1344662973281927171",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617159033261101056",
+    "in_reply_to_status_id": "1617158301963419650",
+    "created_at": "Sun Jan 22 13:55:33 +0000 2023",
+    "favorited": false,
+    "full_text": "@SimonMcNally5 Oh that's awesome! We had basketball and a swim meet for my older son and a Cub Scout event for my younger son. And today is our Cub Scout meeting. \n\nGood luck in the hockey games! Tell your son to go out and win that championship! :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "SimonMcNally5",
+    "in_reply_to_user_id_str": "1344662973281927171"
+  }
+}

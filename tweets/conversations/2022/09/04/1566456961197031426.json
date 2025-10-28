@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566456961197031426"
+        ],
+        "editableUntil": "2022-09-04T16:33:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Corey Wilks, Psy.D.",
+          "screen_name": "CoreyWilksPsyD",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1246991611793420288",
+          "id": "1246991611793420288"
+        },
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "16",
+            "26"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        },
+        {
+          "name": "Khe Hy",
+          "screen_name": "khemaridh",
+          "indices": [
+            "27",
+            "37"
+          ],
+          "id_str": "592068784",
+          "id": "592068784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1566455716969324545",
+    "id_str": "1566456961197031426",
+    "in_reply_to_user_id": "1246991611793420288",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566456961197031426",
+    "in_reply_to_status_id": "1566455716969324545",
+    "created_at": "Sun Sep 04 16:03:37 +0000 2022",
+    "favorited": false,
+    "full_text": "@CoreyWilksPsyD @p_millerd @khemaridh Our work is less and less tied to our outcomes too.\n\nCompanies don't reward efficiency. They punish it while enforcing times they want you in place. \n\nSo the more \"ambitious\" people are in corporate settings,  the more they are overworking themselves.",
+    "lang": "en",
+    "in_reply_to_screen_name": "CoreyWilksPsyD",
+    "in_reply_to_user_id_str": "1246991611793420288"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513945656779493381"
+        ],
+        "editableUntil": "2022-04-12T19:22:26.983Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ActuallyAutistic",
+          "indices": [
+            "25",
+            "42"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "autistictic - autistictic.bsky.social",
+          "screen_name": "autistictic",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "3305121173",
+          "id": "3305121173"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1513945656779493381",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513945656779493381",
+    "created_at": "Tue Apr 12 18:22:26 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @autistictic: So many #ActuallyAutistic people struggle with low self-esteem and a negative self-image due to a lifetime of bullying, mo…",
+    "lang": "en"
+  }
+}

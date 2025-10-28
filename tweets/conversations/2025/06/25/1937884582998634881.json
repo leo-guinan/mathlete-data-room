@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1937884582998634881"
+        ],
+        "editableUntil": "2025-06-25T15:44:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Chairman Birb Bernanke",
+          "screen_name": "Bonecondor",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "709822647652196353",
+          "id": "709822647652196353"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nJQ38YE1Aj",
+          "expanded_url": "https://www.buildinpublicuniversity.com/how-to-out-accelerate-silicon-valley-without-playing-their-dipshit-status-games/",
+          "display_url": "buildinpublicuniversity.com/how-to-out-acc…",
+          "indices": [
+            "230",
+            "253"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1937884582998634881/photo/1",
+          "indices": [
+            "254",
+            "277"
+          ],
+          "url": "https://t.co/E5jAicSKY6",
+          "media_url": "http://pbs.twimg.com/media/GuS_btDWkAAflqF.jpg",
+          "id_str": "1937884222347186176",
+          "id": "1937884222347186176",
+          "media_url_https": "https://pbs.twimg.com/media/GuS_btDWkAAflqF.jpg",
+          "sizes": {
+            "large": {
+              "w": "1690",
+              "h": "1182",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "476",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "839",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/E5jAicSKY6"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1937877001991262339",
+    "id_str": "1937884582998634881",
+    "in_reply_to_user_id": "709822647652196353",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1937884582998634881",
+    "in_reply_to_status_id": "1937877001991262339",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 25 14:44:23 +0000 2025",
+    "favorited": false,
+    "full_text": "@Bonecondor There's a solution to that. ;)\n\nSpeed is the key, so you simply go faster by removing the bullshit.\n\nI'm done accepting shitty tech and I'm showing the world how to join me in my rejection of the enshittified future.\n\nhttps://t.co/nJQ38YE1Aj https://t.co/E5jAicSKY6",
+    "lang": "en",
+    "in_reply_to_screen_name": "Bonecondor",
+    "in_reply_to_user_id_str": "709822647652196353",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1937884582998634881/photo/1",
+          "indices": [
+            "254",
+            "277"
+          ],
+          "url": "https://t.co/E5jAicSKY6",
+          "media_url": "http://pbs.twimg.com/media/GuS_btDWkAAflqF.jpg",
+          "id_str": "1937884222347186176",
+          "id": "1937884222347186176",
+          "media_url_https": "https://pbs.twimg.com/media/GuS_btDWkAAflqF.jpg",
+          "sizes": {
+            "large": {
+              "w": "1690",
+              "h": "1182",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "476",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "839",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/E5jAicSKY6"
+        }
+      ]
+    }
+  }
+}

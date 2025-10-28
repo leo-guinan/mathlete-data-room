@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617884958139510795"
+        ],
+        "editableUntil": "2023-01-24T14:30:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Adam Lyttle",
+          "screen_name": "adamlyttleapps",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "7479922",
+          "id": "7479922"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/g7n4wtHicF",
+          "expanded_url": "https://x.com/leo_guinan/status/1617884100832137217?s=20",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "141",
+            "164"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1617838393156849665",
+    "id_str": "1617884958139510795",
+    "in_reply_to_user_id": "7479922",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617884958139510795",
+    "in_reply_to_status_id": "1617838393156849665",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 24 14:00:07 +0000 2023",
+    "favorited": false,
+    "full_text": "@adamlyttleapps More info outlined in this response. I'm still trying to tease the ideas out of my head, but hopefully this clarifies a bit: https://t.co/g7n4wtHicF",
+    "lang": "en",
+    "in_reply_to_screen_name": "adamlyttleapps",
+    "in_reply_to_user_id_str": "7479922"
+  }
+}

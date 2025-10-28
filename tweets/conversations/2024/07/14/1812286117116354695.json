@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1812286117116354695"
+        ],
+        "editableUntil": "2024-07-14T01:40:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "236"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1812284849388245472",
+    "id_str": "1812286117116354695",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1812286117116354695",
+    "in_reply_to_status_id": "1812284849388245472",
+    "created_at": "Sun Jul 14 00:40:55 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli Bingo. Don't need the interview process to be perfect, just good enough to filter for the next step \n\n(Also, example of an abundant system, because isn't worried about minimal loss in exchange for info about a better future 😀)",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

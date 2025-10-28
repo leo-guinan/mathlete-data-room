@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1799837691678462414"
+        ],
+        "editableUntil": "2024-06-09T17:15:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Foster",
+          "screen_name": "0xFoster",
+          "indices": [
+            "65",
+            "74"
+          ],
+          "id_str": "1250822143597703169",
+          "id": "1250822143597703169"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Qo68KCrj4m",
+          "expanded_url": "https://x.com/leo_guinan/status/1799820285329482062",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "155",
+            "178"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "178"
+    ],
+    "favorite_count": "5",
+    "id_str": "1799837691678462414",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1799837691678462414",
+    "possibly_sensitive": false,
+    "created_at": "Sun Jun 09 16:15:19 +0000 2024",
+    "favorited": false,
+    "full_text": "1st draft is finished and submitted for editing by the wonderful @0xFoster team!\n\nLet me know if you want to read the draft and share any feedback with me https://t.co/Qo68KCrj4m",
+    "lang": "en"
+  }
+}

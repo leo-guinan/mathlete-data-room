@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1540697864489287681"
+        ],
+        "editableUntil": "2022-06-25T14:36:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9uk8BI7T31",
+          "expanded_url": "https://tally.so/r/mZjVGo",
+          "display_url": "tally.so/r/mZjVGo",
+          "indices": [
+            "124",
+            "147"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1540697862455013376",
+    "id_str": "1540697864489287681",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1540697864489287681",
+    "in_reply_to_status_id": "1540697862455013376",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 25 14:06:10 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark If you're interested in a free hour of consulting for your building in public efforts, just fill out this form: https://t.co/9uk8BI7T31\n\nAnd stay tuned for more: I'm building out this consulting offer in public just like I do my other products.\n\nNext up: starting a newsletter",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

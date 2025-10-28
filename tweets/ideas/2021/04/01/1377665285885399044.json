@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1377665285885399044"
+        ],
+        "editableUntil": "2021-04-01T17:52:54.595Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4qDgWyG8Pb",
+          "expanded_url": "https://x.com/uninvoluted/status/1377512739585802241",
+          "display_url": "x.com/uninvoluted/st…",
+          "indices": [
+            "36",
+            "59"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "1",
+    "id_str": "1377665285885399044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1377665285885399044",
+    "possibly_sensitive": false,
+    "created_at": "Thu Apr 01 16:52:54 +0000 2021",
+    "favorited": false,
+    "full_text": "Making a conversation all about me. https://t.co/4qDgWyG8Pb",
+    "lang": "en"
+  }
+}

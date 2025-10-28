@@ -1,0 +1,122 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1695576445047672892"
+        ],
+        "editableUntil": "2023-08-27T00:18:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1695576445047672892/photo/1",
+          "indices": [
+            "148",
+            "171"
+          ],
+          "url": "https://t.co/6C71Fs3Thc",
+          "media_url": "http://pbs.twimg.com/media/F4flyaaWAAAN2vr.jpg",
+          "id_str": "1695576438974316544",
+          "id": "1695576438974316544",
+          "media_url_https": "https://pbs.twimg.com/media/F4flyaaWAAAN2vr.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6C71Fs3Thc"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Crew96",
+          "indices": [
+            "140",
+            "147"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "171"
+    ],
+    "favorite_count": "5",
+    "id_str": "1695576445047672892",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1695576445047672892",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 26 23:18:21 +0000 2023",
+    "favorited": false,
+    "full_text": "When you give your kid a bullhorn and his first thought is to announce that Michael Bradley sucks, you know you are raising your kid right. #Crew96 https://t.co/6C71Fs3Thc",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1695576445047672892/photo/1",
+          "indices": [
+            "148",
+            "171"
+          ],
+          "url": "https://t.co/6C71Fs3Thc",
+          "media_url": "http://pbs.twimg.com/media/F4flyaaWAAAN2vr.jpg",
+          "id_str": "1695576438974316544",
+          "id": "1695576438974316544",
+          "media_url_https": "https://pbs.twimg.com/media/F4flyaaWAAAN2vr.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/6C71Fs3Thc"
+        }
+      ]
+    }
+  }
+}

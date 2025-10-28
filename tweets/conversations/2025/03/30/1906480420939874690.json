@@ -1,0 +1,150 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1906480420939874690"
+        ],
+        "editableUntil": "2025-03-30T23:55:27.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "BES",
+          "screen_name": "BESorenson",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "169679157",
+          "id": "169679157"
+        },
+        {
+          "name": "GREG ISENBERG",
+          "screen_name": "gregisenberg",
+          "indices": [
+            "12",
+            "25"
+          ],
+          "id_str": "14642331",
+          "id": "14642331"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/rPeolIamF1",
+          "expanded_url": "https://github.com/leo-guinan/phd",
+          "display_url": "github.com/leo-guinan/phd",
+          "indices": [
+            "172",
+            "195"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1906480420939874690/photo/1",
+          "indices": [
+            "196",
+            "219"
+          ],
+          "url": "https://t.co/Fb3tNQFcMi",
+          "media_url": "http://pbs.twimg.com/media/GnUtzTdXwAApX71.jpg",
+          "id_str": "1906480376681316352",
+          "id": "1906480376681316352",
+          "media_url_https": "https://pbs.twimg.com/media/GnUtzTdXwAApX71.jpg",
+          "sizes": {
+            "small": {
+              "w": "561",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1691",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "991",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Fb3tNQFcMi"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "219"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1906479095669514600",
+    "id_str": "1906480420939874690",
+    "in_reply_to_user_id": "169679157",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1906480420939874690",
+    "in_reply_to_status_id": "1906479095669514600",
+    "possibly_sensitive": false,
+    "created_at": "Sun Mar 30 22:55:27 +0000 2025",
+    "favorited": false,
+    "full_text": "@BESorenson @gregisenberg We will, because I am.\n\nAlso, it's way more efficient than the way we are doing things now, which will unlock all sorts of economic opportunity.\n\nhttps://t.co/rPeolIamF1 https://t.co/Fb3tNQFcMi",
+    "lang": "en",
+    "in_reply_to_screen_name": "BESorenson",
+    "in_reply_to_user_id_str": "169679157",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1906480420939874690/photo/1",
+          "indices": [
+            "196",
+            "219"
+          ],
+          "url": "https://t.co/Fb3tNQFcMi",
+          "media_url": "http://pbs.twimg.com/media/GnUtzTdXwAApX71.jpg",
+          "id_str": "1906480376681316352",
+          "id": "1906480376681316352",
+          "media_url_https": "https://pbs.twimg.com/media/GnUtzTdXwAApX71.jpg",
+          "sizes": {
+            "small": {
+              "w": "561",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1691",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "991",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Fb3tNQFcMi"
+        }
+      ]
+    }
+  }
+}

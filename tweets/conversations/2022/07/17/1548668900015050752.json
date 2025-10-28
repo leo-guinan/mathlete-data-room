@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1548668900015050752"
+        ],
+        "editableUntil": "2022-07-17T14:30:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Yagudaev 🧑🏻‍💻🇨🇦",
+          "screen_name": "yagudaev",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "238023498",
+          "id": "238023498"
+        },
+        {
+          "name": "SeaCat 🌊🐱🇺🇦 STAND WITH UKRAINE! ☮️",
+          "screen_name": "SeaCatWiz",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "757692601956831232",
+          "id": "757692601956831232"
+        },
+        {
+          "name": "Mauro Garcia",
+          "screen_name": "mauro_codes",
+          "indices": [
+            "21",
+            "33"
+          ],
+          "id_str": "1823997962",
+          "id": "1823997962"
+        },
+        {
+          "name": "Roberto Robles 😺 🚀",
+          "screen_name": "robertodigital_",
+          "indices": [
+            "34",
+            "50"
+          ],
+          "id_str": "122240174",
+          "id": "122240174"
+        },
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "51",
+            "61"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1548426309927260167",
+    "id_str": "1548668900015050752",
+    "in_reply_to_user_id": "238023498",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1548668900015050752",
+    "in_reply_to_status_id": "1548426309927260167",
+    "created_at": "Sun Jul 17 14:00:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@yagudaev @SeaCatWiz @mauro_codes @robertodigital_ @bkh_leung Sophia and Tangram are definitely also really cool!",
+    "lang": "en",
+    "in_reply_to_screen_name": "yagudaev",
+    "in_reply_to_user_id_str": "238023498"
+  }
+}

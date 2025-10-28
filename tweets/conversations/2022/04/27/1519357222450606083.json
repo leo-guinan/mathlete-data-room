@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519357222450606083"
+        ],
+        "editableUntil": "2022-04-27T17:16:04.781Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt",
+          "indices": [
+            "16",
+            "28"
+          ],
+          "id_str": "2208027565",
+          "id": "2208027565"
+        },
+        {
+          "name": "Goutham Jay ⚡",
+          "screen_name": "gouthamjay8",
+          "indices": [
+            "127",
+            "139"
+          ],
+          "id_str": "815894131452956672",
+          "id": "815894131452956672"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Yu4z8VkzU1",
+          "expanded_url": "https://www.producthunt.com/posts/famewall",
+          "display_url": "producthunt.com/posts/famewall",
+          "indices": [
+            "100",
+            "123"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "2",
+    "id_str": "1519357222450606083",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1519357222450606083",
+    "possibly_sensitive": false,
+    "created_at": "Wed Apr 27 16:46:04 +0000 2022",
+    "favorited": false,
+    "full_text": "Check it out on @ProductHunt! \n\nFamewall: Highlight social media mentions as beautiful testimonials https://t.co/Yu4z8VkzU1 by @gouthamjay8",
+    "lang": "en"
+  }
+}

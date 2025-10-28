@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1531717711838990337"
+        ],
+        "editableUntil": "2022-05-31T19:52:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ron Zakay 🏳️‍🌈 (he/him)",
+          "screen_name": "ronzakay",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "160795888",
+          "id": "160795888"
+        },
+        {
+          "name": "Janine Sickmeyer",
+          "screen_name": "myfriendjanine",
+          "indices": [
+            "10",
+            "25"
+          ],
+          "id_str": "14766188",
+          "id": "14766188"
+        },
+        {
+          "name": "Overlooked Ventures",
+          "screen_name": "OverlookedVC",
+          "indices": [
+            "26",
+            "39"
+          ],
+          "id_str": "1036213437611892736",
+          "id": "1036213437611892736"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "57"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1531704921304641536",
+    "id_str": "1531717711838990337",
+    "in_reply_to_user_id": "160795888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1531717711838990337",
+    "in_reply_to_status_id": "1531704921304641536",
+    "created_at": "Tue May 31 19:22:15 +0000 2022",
+    "favorited": false,
+    "full_text": "@ronzakay @myfriendjanine @OverlookedVC Yep! Fully agree.",
+    "lang": "en",
+    "in_reply_to_screen_name": "ronzakay",
+    "in_reply_to_user_id_str": "160795888"
+  }
+}

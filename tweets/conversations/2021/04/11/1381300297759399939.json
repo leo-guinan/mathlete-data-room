@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381300297759399939"
+        ],
+        "editableUntil": "2021-04-11T18:37:08.961Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ODCC1",
+          "indices": [
+            "98",
+            "104"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "85",
+            "95"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "104"
+    ],
+    "favorite_count": "5",
+    "id_str": "1381300297759399939",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1381300297759399939",
+    "created_at": "Sun Apr 11 17:37:08 +0000 2021",
+    "favorited": false,
+    "full_text": "\"Learning isn't the transfer of knowledge. It's the transformation of the student.\"\n~@Bazzaruto \n\n#ODCC1",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1404478347086807041"
+        ],
+        "editableUntil": "2021-06-14T17:38:26.548Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ODCC1",
+          "indices": [
+            "9",
+            "15"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "0",
+    "id_str": "1404478347086807041",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1404478347086807041",
+    "created_at": "Mon Jun 14 16:38:26 +0000 2021",
+    "favorited": false,
+    "full_text": "Now that #ODCC1 is over, time to shift my focus back to @net_defi \n\nWe are switching from a consumer model to a B2B model after some feedback we received. This makes a lot more sense honestly. I was trying to prove out a bunch of different ideas instead of solving a single prob.",
+    "lang": "en"
+  }
+}

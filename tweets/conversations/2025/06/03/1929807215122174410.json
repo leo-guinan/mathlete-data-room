@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929807215122174410"
+        ],
+        "editableUntil": "2025-06-03T08:47:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rob 🌿",
+          "screen_name": "robably__",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1038898772988780544",
+          "id": "1038898772988780544"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "70"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929792338760523780",
+    "id_str": "1929807215122174410",
+    "in_reply_to_user_id": "1038898772988780544",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929807215122174410",
+    "in_reply_to_status_id": "1929792338760523780",
+    "created_at": "Tue Jun 03 07:47:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@robably__ Requires both parts. And ideally systems that see everyone.",
+    "lang": "en",
+    "in_reply_to_screen_name": "robably__",
+    "in_reply_to_user_id_str": "1038898772988780544"
+  }
+}

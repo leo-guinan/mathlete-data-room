@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1420470777934225410"
+        ],
+        "editableUntil": "2021-07-28T20:46:39.187Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "JVH",
+          "screen_name": "jordwahl",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "842566807387078659",
+          "id": "842566807387078659"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "264"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1420470076621344771",
+    "id_str": "1420470777934225410",
+    "in_reply_to_user_id": "842566807387078659",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1420470777934225410",
+    "in_reply_to_status_id": "1420470076621344771",
+    "created_at": "Wed Jul 28 19:46:39 +0000 2021",
+    "favorited": false,
+    "full_text": "@jordwahl That's one of the interesting things about the creator economy. People are doing all sorts of weird things. And it works. \n\nPeople are surprised because they think things have to be done a certain way. So that's what they watch. They never see it coming.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jordwahl",
+    "in_reply_to_user_id_str": "842566807387078659"
+  }
+}

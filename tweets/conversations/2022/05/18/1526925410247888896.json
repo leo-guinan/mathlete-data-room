@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1526925410247888896"
+        ],
+        "editableUntil": "2022-05-18T14:29:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1526925407957696512",
+    "id_str": "1526925410247888896",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1526925410247888896",
+    "in_reply_to_status_id": "1526925407957696512",
+    "created_at": "Wed May 18 13:59:21 +0000 2022",
+    "favorited": false,
+    "full_text": "@LobowSpark 1. What am I currently doing?\n\nThis is the most basic BIP tweet. It's what I started with. Just talking about what I'm doing.\n\nIt's simple, you don't need to think too hard about it.\n\nJust write what you are doing and share it.\n\nEasy-peasy.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

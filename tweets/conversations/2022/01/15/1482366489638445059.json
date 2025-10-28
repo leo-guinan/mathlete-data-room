@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1482366489638445059"
+        ],
+        "editableUntil": "2022-01-15T15:58:06.824Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1482366489638445059",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1482366489638445059",
+    "created_at": "Sat Jan 15 14:58:06 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Need to have a talk or two or three prepared for next year, I think. \n\nShould be a lot easier than it was the first two tim…",
+    "lang": "en"
+  }
+}

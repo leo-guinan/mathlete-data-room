@@ -1,0 +1,158 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1445061279111163905"
+        ],
+        "editableUntil": "2021-10-04T17:20:31.537Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445061279111163905/photo/1",
+          "indices": [
+            "184",
+            "207"
+          ],
+          "url": "https://t.co/1IWjn5nvSU",
+          "media_url": "http://pbs.twimg.com/media/FA3jkadXoAcENyo.jpg",
+          "id_str": "1445061270173097991",
+          "id": "1445061270173097991",
+          "media_url_https": "https://pbs.twimg.com/media/FA3jkadXoAcENyo.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1IWjn5nvSU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Tweet100",
+          "indices": [
+            "174",
+            "183"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "207"
+    ],
+    "favorite_count": "2",
+    "id_str": "1445061279111163905",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1445061279111163905",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 04 16:20:31 +0000 2021",
+    "favorited": false,
+    "full_text": "Love these flowers I walk by regularly. Decided to try to get pics of them. Love how there's just a couple that poke through the fence and make the outside more beautiful. \n\n#Tweet100 https://t.co/1IWjn5nvSU",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445061279111163905/photo/1",
+          "indices": [
+            "184",
+            "207"
+          ],
+          "url": "https://t.co/1IWjn5nvSU",
+          "media_url": "http://pbs.twimg.com/media/FA3jkadXoAcENyo.jpg",
+          "id_str": "1445061270173097991",
+          "id": "1445061270173097991",
+          "media_url_https": "https://pbs.twimg.com/media/FA3jkadXoAcENyo.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1IWjn5nvSU"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445061279111163905/photo/1",
+          "indices": [
+            "184",
+            "207"
+          ],
+          "url": "https://t.co/1IWjn5nvSU",
+          "media_url": "http://pbs.twimg.com/media/FA3jkx3WEAYmxWm.jpg",
+          "id_str": "1445061276456062982",
+          "id": "1445061276456062982",
+          "media_url_https": "https://pbs.twimg.com/media/FA3jkx3WEAYmxWm.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1IWjn5nvSU"
+        }
+      ]
+    }
+  }
+}

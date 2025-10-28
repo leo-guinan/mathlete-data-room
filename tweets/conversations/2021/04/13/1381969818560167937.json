@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381969818560167937"
+        ],
+        "editableUntil": "2021-04-13T14:57:35.159Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "me",
+          "screen_name": "sunrisegiraffe",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1948952232579530756",
+          "id": "1948952232579530756"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1381964586476244994",
+    "id_str": "1381969818560167937",
+    "in_reply_to_user_id": "1362572391692578827",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381969818560167937",
+    "in_reply_to_status_id": "1381964586476244994",
+    "created_at": "Tue Apr 13 13:57:35 +0000 2021",
+    "favorited": false,
+    "full_text": "@sunrisegiraffe Oh, I like that one! Thanks! 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "sunrise_ace",
+    "in_reply_to_user_id_str": "1362572391692578827"
+  }
+}

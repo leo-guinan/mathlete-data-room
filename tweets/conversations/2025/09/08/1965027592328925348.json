@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1965027592328925348"
+        ],
+        "editableUntil": "2025-09-08T13:21:01.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Callan",
+          "screen_name": "callanable",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1488129416005890049",
+          "id": "1488129416005890049"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "256"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1965027077645799655",
+    "id_str": "1965027592328925348",
+    "in_reply_to_user_id": "1488129416005890049",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1965027592328925348",
+    "in_reply_to_status_id": "1965027077645799655",
+    "created_at": "Mon Sep 08 12:21:01 +0000 2025",
+    "favorited": false,
+    "full_text": "@callanable if you are, can you teach me how to be one?\n\nI've lost contact with my inner artist and I'm now on a journey to rediscover him.\n\nI don't know if \"art hoe\" is the right category for my artist self, but it seems as good a starting place as any! 😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "callanable",
+    "in_reply_to_user_id_str": "1488129416005890049"
+  }
+}

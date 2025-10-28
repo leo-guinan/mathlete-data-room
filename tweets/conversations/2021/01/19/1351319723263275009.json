@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1351319723263275009"
+        ],
+        "editableUntil": "2021-01-19T01:05:02.989Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tim Connors",
+          "screen_name": "itstimconnors",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "273565626",
+          "id": "273565626"
+        },
+        {
+          "name": "domm",
+          "screen_name": "domm",
+          "indices": [
+            "19",
+            "24"
+          ],
+          "id_str": "219821581",
+          "id": "219821581"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1351319723263275009",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1351319723263275009",
+    "created_at": "Tue Jan 19 00:05:02 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @itstimconnors: @domm We’re building a recruiting platform without a graphical interface. \n\nIt’s purely conversational, via SMS\n\nHow’s t…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1879233371647488019"
+        ],
+        "editableUntil": "2025-01-14T19:25:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Steph Soussloff",
+          "screen_name": "stephsoussloff",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "839193825071497216",
+          "id": "839193825071497216"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1879230201315647655",
+    "id_str": "1879233371647488019",
+    "in_reply_to_user_id": "839193825071497216",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1879233371647488019",
+    "in_reply_to_status_id": "1879230201315647655",
+    "created_at": "Tue Jan 14 18:25:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@stephsoussloff That's actually the goal of this, because the insurance company I'm building is designed to let you focus on that part of it while the company handles the economics. \n\nYou simply decide where you want to be and when, and the world adapts to fit your plans.",
+    "lang": "en",
+    "in_reply_to_screen_name": "stephsoussloff",
+    "in_reply_to_user_id_str": "839193825071497216"
+  }
+}

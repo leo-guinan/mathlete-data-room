@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1546888151037272067"
+        ],
+        "editableUntil": "2022-07-12T16:34:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Samantha Postman",
+          "screen_name": "SamanthaPostman",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "951591875441381376",
+          "id": "951591875441381376"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "75",
+            "86"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/A9naS9YQtl",
+          "expanded_url": "https://x.com/leo_guinan/status/1546888142615093248",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "167",
+            "190"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "190"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1546888149044977664",
+    "id_str": "1546888151037272067",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1546888151037272067",
+    "in_reply_to_status_id": "1546888149044977664",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 12 16:04:09 +0000 2022",
+    "favorited": false,
+    "full_text": "@SamanthaPostman That's a wrap!\n\nIf you enjoyed this thread:\n\n1. Follow me @leo_guinan for more of these\n2. RT the tweet below to share this thread with your audience https://t.co/A9naS9YQtl",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

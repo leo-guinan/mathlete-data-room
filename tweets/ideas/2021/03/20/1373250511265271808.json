@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1373250511265271808"
+        ],
+        "editableUntil": "2021-03-20T13:30:10.303Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pDkwgCtDHY",
+          "expanded_url": "https://x.com/KennethCassel/status/1373249213358874628",
+          "display_url": "x.com/KennethCassel/…",
+          "indices": [
+            "19",
+            "42"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "42"
+    ],
+    "favorite_count": "3",
+    "id_str": "1373250511265271808",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1373250511265271808",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 20 12:30:10 +0000 2021",
+    "favorited": false,
+    "full_text": "I love this quote! https://t.co/pDkwgCtDHY",
+    "lang": "en"
+  }
+}

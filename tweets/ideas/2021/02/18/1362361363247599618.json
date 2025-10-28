@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362361363247599618"
+        ],
+        "editableUntil": "2021-02-18T12:20:35.105Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yahnki6APh",
+          "expanded_url": "https://www.paypal.me/leoguinan",
+          "display_url": "paypal.me/leoguinan",
+          "indices": [
+            "63",
+            "86"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "156"
+    ],
+    "favorite_count": "12",
+    "id_str": "1362361363247599618",
+    "truncated": false,
+    "retweet_count": "3",
+    "id": "1362361363247599618",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 18 11:20:35 +0000 2021",
+    "favorited": false,
+    "full_text": "(1/) Ok, so here is my hackathon thread.\n\nYou can donate here: https://t.co/yahnki6APh\n\nGoal: build a fully functional SaaS product in 24 hours (or less)\n\n🧵",
+    "lang": "en"
+  }
+}

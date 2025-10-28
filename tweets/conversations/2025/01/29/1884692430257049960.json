@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1884692430257049960"
+        ],
+        "editableUntil": "2025-01-29T20:57:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Catalin",
+          "screen_name": "catalinmpit",
+          "indices": [
+            "17",
+            "29"
+          ],
+          "id_str": "173057927",
+          "id": "173057927"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1884684166932906365",
+    "id_str": "1884692430257049960",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1884692430257049960",
+    "in_reply_to_status_id": "1884684166932906365",
+    "created_at": "Wed Jan 29 19:57:45 +0000 2025",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @catalinmpit Unfortunately not. When they started charging for api access, it made the tool to expensive to maintain.",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

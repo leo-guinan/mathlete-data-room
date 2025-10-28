@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885419919359054282"
+        ],
+        "editableUntil": "2025-01-31T21:08:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brandon Brooks",
+          "screen_name": "OfficialBBrooks",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "929464603439923201",
+          "id": "929464603439923201"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "192"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1885418386017964173",
+    "id_str": "1885419919359054282",
+    "in_reply_to_user_id": "929464603439923201",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885419919359054282",
+    "in_reply_to_status_id": "1885418386017964173",
+    "created_at": "Fri Jan 31 20:08:32 +0000 2025",
+    "favorited": false,
+    "full_text": "@OfficialBBrooks I’ve got the math that shows the problem.  \n\nAnd I’ve got the business model that will execute it. \n\nThe prices are wrong and it’s a huge risk that they refuse to acknowledge.",
+    "lang": "en",
+    "in_reply_to_screen_name": "OfficialBBrooks",
+    "in_reply_to_user_id_str": "929464603439923201"
+  }
+}

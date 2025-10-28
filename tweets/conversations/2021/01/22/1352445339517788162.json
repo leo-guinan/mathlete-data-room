@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1352445339517788162"
+        ],
+        "editableUntil": "2021-01-22T03:37:50.817Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rajit Khanna",
+          "screen_name": "RajitWrites",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "1291561308970717184",
+          "id": "1291561308970717184"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "36",
+            "47"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7Ri8Tvqtmr",
+          "expanded_url": "https://rajitkhanna.com/podcast/leo/",
+          "display_url": "rajitkhanna.com/podcast/leo/",
+          "indices": [
+            "109",
+            "132"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "0",
+    "id_str": "1352445339517788162",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1352445339517788162",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 22 02:37:50 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @RajitWrites: My discussion with @leo_guinan about what it will take to create a decentralized internet.\n\nhttps://t.co/7Ri8Tvqtmr",
+    "lang": "en"
+  }
+}

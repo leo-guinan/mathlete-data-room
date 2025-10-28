@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1654949702406664192"
+        ],
+        "editableUntil": "2023-05-06T21:12:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Choose Your Algorithm",
+          "screen_name": "ChooseYourAlgo",
+          "indices": [
+            "48",
+            "63"
+          ],
+          "id_str": "1613997408190402580",
+          "id": "1613997408190402580"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1654949702406664192/photo/1",
+          "indices": [
+            "189",
+            "212"
+          ],
+          "url": "https://t.co/3QO8QBmRh2",
+          "media_url": "http://pbs.twimg.com/media/FveP7JIXwAEeSVV.jpg",
+          "id_str": "1654949634308030465",
+          "id": "1654949634308030465",
+          "media_url_https": "https://pbs.twimg.com/media/FveP7JIXwAEeSVV.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3QO8QBmRh2"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "1",
+    "id_str": "1654949702406664192",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1654949702406664192",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 06 20:42:11 +0000 2023",
+    "favorited": false,
+    "full_text": "Finally got the payment infrastructure live for @ChooseYourAlgo and headed out to a (really late) lunch and then plan on exploring the beach a bit.\n\nFound myself a nice pub to grab a bite. https://t.co/3QO8QBmRh2",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1654949702406664192/photo/1",
+          "indices": [
+            "189",
+            "212"
+          ],
+          "url": "https://t.co/3QO8QBmRh2",
+          "media_url": "http://pbs.twimg.com/media/FveP7JIXwAEeSVV.jpg",
+          "id_str": "1654949634308030465",
+          "id": "1654949634308030465",
+          "media_url_https": "https://pbs.twimg.com/media/FveP7JIXwAEeSVV.jpg",
+          "sizes": {
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/3QO8QBmRh2"
+        }
+      ]
+    }
+  }
+}

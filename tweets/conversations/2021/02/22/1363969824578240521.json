@@ -1,0 +1,49 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1363969824578240521"
+        ],
+        "editableUntil": "2021-02-22T22:52:02.170Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rajiv Nathan",
+          "screen_name": "RajNATION",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "133848434",
+          "id": "133848434"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "203"
+    ],
+    "favorite_count": "0",
+    "id_str": "1363969824578240521",
+    "in_reply_to_user_id": "133848434",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1363969824578240521",
+    "created_at": "Mon Feb 22 21:52:02 +0000 2021",
+    "favorited": false,
+    "full_text": "@RajNATION ok Raj. You sold me. I used your tips for pitching my company. I took a call from someone trying to sell me their product and I got them (and their spouse) as future client for mine. Que PASA?",
+    "lang": "en",
+    "in_reply_to_screen_name": "RajNATION",
+    "in_reply_to_user_id_str": "133848434"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1542962653848653826"
+        ],
+        "editableUntil": "2022-07-01T20:35:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gwVv9ctYRA",
+          "expanded_url": "http://doineedanotherdomain.com",
+          "display_url": "doineedanotherdomain.com",
+          "indices": [
+            "79",
+            "102"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1542885271657668609",
+    "id_str": "1542962653848653826",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1542962653848653826",
+    "in_reply_to_status_id": "1542885271657668609",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 01 20:05:38 +0000 2022",
+    "favorited": false,
+    "full_text": "@dagorenouf I may or may not have just purchased my second domain of the day:\n\nhttps://t.co/gwVv9ctYRA\n\n(I totally did.)",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561"
+  }
+}

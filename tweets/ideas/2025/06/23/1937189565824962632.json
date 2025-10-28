@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1937189565824962632"
+        ],
+        "editableUntil": "2025-06-23T17:42:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1937189565824962632/photo/1",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/vVC6a1KFO0",
+          "media_url": "http://pbs.twimg.com/media/GuJHhnoWYAA-tIn.jpg",
+          "id_str": "1937189432622211072",
+          "id": "1937189432622211072",
+          "media_url_https": "https://pbs.twimg.com/media/GuJHhnoWYAA-tIn.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "326",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1486",
+              "h": "404",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "185",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vVC6a1KFO0"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "1",
+    "id_str": "1937189565824962632",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1937189565824962632",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 23 16:42:38 +0000 2025",
+    "favorited": false,
+    "full_text": "The key to implementing compliance at online -&gt; offline gatherings: https://t.co/vVC6a1KFO0",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1937189565824962632/photo/1",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/vVC6a1KFO0",
+          "media_url": "http://pbs.twimg.com/media/GuJHhnoWYAA-tIn.jpg",
+          "id_str": "1937189432622211072",
+          "id": "1937189432622211072",
+          "media_url_https": "https://pbs.twimg.com/media/GuJHhnoWYAA-tIn.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "326",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1486",
+              "h": "404",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "185",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/vVC6a1KFO0"
+        }
+      ]
+    }
+  }
+}

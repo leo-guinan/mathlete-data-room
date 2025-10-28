@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1457439030786895877"
+        ],
+        "editableUntil": "2021-11-07T21:05:17.504Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1457430897507160064",
+    "id_str": "1457439030786895877",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1457439030786895877",
+    "in_reply_to_status_id": "1457430897507160064",
+    "created_at": "Sun Nov 07 20:05:17 +0000 2021",
+    "favorited": false,
+    "full_text": "@bkh_leung As a creator, getting their email lets you put things into that searchable hub.\n\nAnd you notify them of new content. \n\nSo, in order to disrupt email for creators, you need to disrupt both parts.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

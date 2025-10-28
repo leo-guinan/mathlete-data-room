@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922456533704601868"
+        ],
+        "editableUntil": "2025-05-14T01:58:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922456533704601868/photo/1",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/09GnxbgPXR",
+          "media_url": "http://pbs.twimg.com/media/Gq3wA2-WcAASRkt.png",
+          "id_str": "1922456513504768000",
+          "id": "1922456513504768000",
+          "media_url_https": "https://pbs.twimg.com/media/Gq3wA2-WcAASRkt.png",
+          "sizes": {
+            "large": {
+              "w": "1284",
+              "h": "244",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "129",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "228",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/09GnxbgPXR"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "1",
+    "id_str": "1922456533704601868",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922456533704601868",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 14 00:58:49 +0000 2025",
+    "favorited": false,
+    "full_text": "Just proved that P(doom) from a runaway AGI is 0.\n\nAMA. https://t.co/09GnxbgPXR",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922456533704601868/photo/1",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/09GnxbgPXR",
+          "media_url": "http://pbs.twimg.com/media/Gq3wA2-WcAASRkt.png",
+          "id_str": "1922456513504768000",
+          "id": "1922456513504768000",
+          "media_url_https": "https://pbs.twimg.com/media/Gq3wA2-WcAASRkt.png",
+          "sizes": {
+            "large": {
+              "w": "1284",
+              "h": "244",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "129",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "228",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/09GnxbgPXR"
+        }
+      ]
+    }
+  }
+}

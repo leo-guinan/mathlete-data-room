@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1381229144445497345"
+        ],
+        "editableUntil": "2021-04-11T13:54:24.689Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Janine Sickmeyer",
+          "screen_name": "myfriendjanine",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "14766188",
+          "id": "14766188"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1381229144445497345",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1381229144445497345",
+    "created_at": "Sun Apr 11 12:54:24 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @myfriendjanine: Being a first-time founder is hard!\nEverything takes 2x time and 3x money.\n\nHere are a few tips to help first-time foun…",
+    "lang": "en"
+  }
+}

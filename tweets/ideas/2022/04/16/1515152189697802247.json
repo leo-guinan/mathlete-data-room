@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1515152189697802247"
+        ],
+        "editableUntil": "2022-04-16T02:46:46.847Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/taoL4A2BRr",
+          "expanded_url": "https://x.com/reddy2go/status/1515047525052346370",
+          "display_url": "x.com/reddy2go/statu…",
+          "indices": [
+            "36",
+            "59"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "3",
+    "id_str": "1515152189697802247",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1515152189697802247",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 16 02:16:46 +0000 2022",
+    "favorited": false,
+    "full_text": "Was a good conversation (as always) https://t.co/taoL4A2BRr",
+    "lang": "en"
+  }
+}

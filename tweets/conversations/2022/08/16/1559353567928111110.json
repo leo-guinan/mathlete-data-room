@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1559353567928111110"
+        ],
+        "editableUntil": "2022-08-16T02:07:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Johnathon Williams",
+          "screen_name": "johnofhousejohn",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "845709271643901952",
+          "id": "845709271643901952"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1559348648600915969",
+    "id_str": "1559353567928111110",
+    "in_reply_to_user_id": "845709271643901952",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1559353567928111110",
+    "in_reply_to_status_id": "1559348648600915969",
+    "created_at": "Tue Aug 16 01:37:16 +0000 2022",
+    "favorited": false,
+    "full_text": "@johnofhousejohn Thanks Johnathon! Really appreciate it!",
+    "lang": "en",
+    "in_reply_to_screen_name": "johnofhousejohn",
+    "in_reply_to_user_id_str": "845709271643901952"
+  }
+}

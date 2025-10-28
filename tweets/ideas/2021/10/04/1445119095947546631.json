@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1445119095947546631"
+        ],
+        "editableUntil": "2021-10-04T21:10:16.145Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445119095947546631/photo/1",
+          "indices": [
+            "23",
+            "46"
+          ],
+          "url": "https://t.co/LIWYBZSgNA",
+          "media_url": "http://pbs.twimg.com/media/FA4YKH8WYAQW-x2.jpg",
+          "id_str": "1445119092642439172",
+          "id": "1445119092642439172",
+          "media_url_https": "https://pbs.twimg.com/media/FA4YKH8WYAQW-x2.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/LIWYBZSgNA"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "2",
+    "id_str": "1445119095947546631",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1445119095947546631",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 04 20:10:16 +0000 2021",
+    "favorited": false,
+    "full_text": "Dog, the Bounty hunter https://t.co/LIWYBZSgNA",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1445119095947546631/photo/1",
+          "indices": [
+            "23",
+            "46"
+          ],
+          "url": "https://t.co/LIWYBZSgNA",
+          "media_url": "http://pbs.twimg.com/media/FA4YKH8WYAQW-x2.jpg",
+          "id_str": "1445119092642439172",
+          "id": "1445119092642439172",
+          "media_url_https": "https://pbs.twimg.com/media/FA4YKH8WYAQW-x2.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/LIWYBZSgNA"
+        }
+      ]
+    }
+  }
+}

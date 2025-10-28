@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1772103242651988476"
+        ],
+        "editableUntil": "2024-03-25T04:28:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Peter Zakin",
+          "screen_name": "pzakin",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "23171244",
+          "id": "23171244"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TwffOSZOU7",
+          "expanded_url": "http://myaicofounder.com",
+          "display_url": "myaicofounder.com",
+          "indices": [
+            "18",
+            "41"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1772017854722068490",
+    "id_str": "1772103242651988476",
+    "in_reply_to_user_id": "23171244",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1772103242651988476",
+    "in_reply_to_status_id": "1772017854722068490",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 25 03:28:31 +0000 2024",
+    "favorited": false,
+    "full_text": "@pzakin Check out https://t.co/TwffOSZOU7.\n\nThat's exactly what I'm building.",
+    "lang": "en",
+    "in_reply_to_screen_name": "pzakin",
+    "in_reply_to_user_id_str": "23171244"
+  }
+}

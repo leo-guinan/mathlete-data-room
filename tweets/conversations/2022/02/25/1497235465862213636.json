@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1497235465862213636"
+        ],
+        "editableUntil": "2022-02-25T16:42:07.008Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rajiv Verma | The Full-Stack Guy 🧑‍💻",
+          "screen_name": "hackernewbie",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "17074702",
+          "id": "17074702"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BHqt4yWHHc",
+          "expanded_url": "https://www.theatlantic.com/technology/archive/2021/08/dead-internet-theory-wrong-but-feels-true/619937/",
+          "display_url": "theatlantic.com/technology/arc…",
+          "indices": [
+            "44",
+            "67"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1497233474096295937",
+    "id_str": "1497235465862213636",
+    "in_reply_to_user_id": "17074702",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1497235465862213636",
+    "in_reply_to_status_id": "1497233474096295937",
+    "possibly_sensitive": false,
+    "created_at": "Fri Feb 25 15:42:07 +0000 2022",
+    "favorited": false,
+    "full_text": "@hackernewbie This is a good article on it: https://t.co/BHqt4yWHHc\n\nBasically, it's the idea that the internet is just a bunch of AIs talking to each other.\n\nIt's interesting, because while not there yet, it's getting to that point. It's one of the things I'm building away from.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hackernewbie",
+    "in_reply_to_user_id_str": "17074702"
+  }
+}

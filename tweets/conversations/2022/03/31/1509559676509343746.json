@@ -1,0 +1,81 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509559676509343746"
+        ],
+        "editableUntil": "2022-03-31T16:54:07.799Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Hua",
+          "screen_name": "HuaTweets",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "21044273",
+          "id": "21044273"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Yehuda Zahler",
+          "screen_name": "YehudaZahler",
+          "indices": [
+            "22",
+            "35"
+          ],
+          "id_str": "1404647252900057089",
+          "id": "1404647252900057089"
+        },
+        {
+          "name": "wentin",
+          "screen_name": "DesignJokes",
+          "indices": [
+            "36",
+            "48"
+          ],
+          "id_str": "545316473",
+          "id": "545316473"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1509174977781809159",
+    "id_str": "1509559676509343746",
+    "in_reply_to_user_id": "21044273",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509559676509343746",
+    "in_reply_to_status_id": "1509174977781809159",
+    "created_at": "Thu Mar 31 15:54:07 +0000 2022",
+    "favorited": false,
+    "full_text": "@HuaTweets @NotechAna @YehudaZahler @DesignJokes It seems to help make it easier.\n\nBut I'm getting a feature ready that will let you amplify a tweet with a click of a button. \n\nAs you build up and audience that wants you to succeed, you can give them the ability to help.",
+    "lang": "en",
+    "in_reply_to_screen_name": "HuaTweets",
+    "in_reply_to_user_id_str": "21044273"
+  }
+}

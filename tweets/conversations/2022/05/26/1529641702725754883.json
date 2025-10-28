@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1529641702725754883"
+        ],
+        "editableUntil": "2022-05-26T02:22:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ron Zakay 🏳️‍🌈 (he/him)",
+          "screen_name": "ronzakay",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "160795888",
+          "id": "160795888"
+        },
+        {
+          "name": "Amy Louise Ouzoonian",
+          "screen_name": "Amy_Ouzoonian",
+          "indices": [
+            "10",
+            "24"
+          ],
+          "id_str": "14219947",
+          "id": "14219947"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "132"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1529641498672828416",
+    "id_str": "1529641702725754883",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1529641702725754883",
+    "in_reply_to_status_id": "1529641498672828416",
+    "created_at": "Thu May 26 01:52:55 +0000 2022",
+    "favorited": false,
+    "full_text": "@ronzakay @Amy_Ouzoonian Because people become defensive after getting hit with so many offers. \n\nWhich leads to low trust networks.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

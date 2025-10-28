@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1807768860281524499"
+        ],
+        "editableUntil": "2024-07-01T14:30:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ameya K",
+          "screen_name": "DrAmeyaKale",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "499807176",
+          "id": "499807176"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1807224183757127877",
+    "id_str": "1807768860281524499",
+    "in_reply_to_user_id": "499807176",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1807768860281524499",
+    "in_reply_to_status_id": "1807224183757127877",
+    "created_at": "Mon Jul 01 13:30:57 +0000 2024",
+    "favorited": false,
+    "full_text": "@DrAmeyaKale Can't wait to hear your thoughts!",
+    "lang": "en",
+    "in_reply_to_screen_name": "DrAmeyaKale",
+    "in_reply_to_user_id_str": "499807176"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499930038510272514"
+        ],
+        "editableUntil": "2022-03-05T03:09:23.190Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1499930038510272514/photo/1",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/1waHU35CwI",
+          "media_url": "http://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "id_str": "1499930035507150849",
+          "id": "1499930035507150849",
+          "media_url_https": "https://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1waHU35CwI"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "1",
+    "id_str": "1499930038510272514",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1499930038510272514",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 05 02:09:23 +0000 2022",
+    "favorited": false,
+    "full_text": "Someone's cuddling with the remnants of one of her toys https://t.co/1waHU35CwI",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1499930038510272514/photo/1",
+          "indices": [
+            "56",
+            "79"
+          ],
+          "url": "https://t.co/1waHU35CwI",
+          "media_url": "http://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "id_str": "1499930035507150849",
+          "id": "1499930035507150849",
+          "media_url_https": "https://pbs.twimg.com/media/FNDSa5pXwAEoYCh.jpg",
+          "sizes": {
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/1waHU35CwI"
+        }
+      ]
+    }
+  }
+}

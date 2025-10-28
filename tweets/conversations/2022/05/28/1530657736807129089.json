@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1530657736807129089"
+        ],
+        "editableUntil": "2022-05-28T21:40:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/W2NvbHiP0c",
+          "expanded_url": "https://saasfactory.substack.com/",
+          "display_url": "saasfactory.substack.com",
+          "indices": [
+            "250",
+            "273"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "7",
+    "in_reply_to_status_id_str": "1530657735267733505",
+    "id_str": "1530657736807129089",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1530657736807129089",
+    "in_reply_to_status_id": "1530657735267733505",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 28 21:10:17 +0000 2022",
+    "favorited": false,
+    "full_text": "I've got a newsletter:  check it out if you want the nitty-gritty details of getting to a point where I can launch a new microsaas every week.\n\nWhat I'm doing, how I'm doing it, and most importantly, why I'm doing it!\n\n First product launching soon!\nhttps://t.co/W2NvbHiP0c",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

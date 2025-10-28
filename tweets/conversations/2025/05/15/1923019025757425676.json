@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923019025757425676"
+        ],
+        "editableUntil": "2025-05-15T15:13:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923019025757425676/photo/1",
+          "indices": [
+            "147",
+            "170"
+          ],
+          "url": "https://t.co/7iERL7CQKL",
+          "media_url": "http://pbs.twimg.com/media/Gq_u3A2WUAEwtw3.jpg",
+          "id_str": "1923018194798661633",
+          "id": "1923018194798661633",
+          "media_url_https": "https://pbs.twimg.com/media/Gq_u3A2WUAEwtw3.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "171",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "302",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "516",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7iERL7CQKL"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "170"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1923019022934683666",
+    "id_str": "1923019025757425676",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923019025757425676",
+    "in_reply_to_status_id": "1923019022934683666",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 15 14:13:58 +0000 2025",
+    "favorited": false,
+    "full_text": "This means that Simultaneity gets really weird, because it's completely dependent on each individual position's view of the information available! https://t.co/7iERL7CQKL",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1923019025757425676/photo/1",
+          "indices": [
+            "147",
+            "170"
+          ],
+          "url": "https://t.co/7iERL7CQKL",
+          "media_url": "http://pbs.twimg.com/media/Gq_u3A2WUAEwtw3.jpg",
+          "id_str": "1923018194798661633",
+          "id": "1923018194798661633",
+          "media_url_https": "https://pbs.twimg.com/media/Gq_u3A2WUAEwtw3.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "171",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "302",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "516",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7iERL7CQKL"
+        }
+      ]
+    }
+  }
+}

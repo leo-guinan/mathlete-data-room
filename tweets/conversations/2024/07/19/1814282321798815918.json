@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1814282321798815918"
+        ],
+        "editableUntil": "2024-07-19T13:53:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "239"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1814274464042946813",
+    "id_str": "1814282321798815918",
+    "in_reply_to_user_id": "343990983",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1814282321798815918",
+    "in_reply_to_status_id": "1814274464042946813",
+    "created_at": "Fri Jul 19 12:53:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@arvidkahl Sounds like a cleanup process or something running and getting stuck. \n\nDon't know php that well, but i know celery runs periodic tasks that are supposed to clean up memory and database usage. I'd look at something around there.",
+    "lang": "en",
+    "in_reply_to_screen_name": "arvidkahl",
+    "in_reply_to_user_id_str": "343990983"
+  }
+}

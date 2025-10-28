@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1383422288419180557"
+        ],
+        "editableUntil": "2021-04-17T15:09:10.959Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Barry 🦁",
+          "screen_name": "Bazzaruto",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "36301478",
+          "id": "36301478"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1383422288419180557",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1383422288419180557",
+    "created_at": "Sat Apr 17 14:09:10 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @Bazzaruto: Every student goes through The Dip where it isn't clear they're learning and the temptation is to give up\n\nTo combat this th…",
+    "lang": "en"
+  }
+}

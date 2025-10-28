@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1384657563598340097"
+        ],
+        "editableUntil": "2021-04-21T00:57:43.512Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kyle Bowe",
+          "screen_name": "KyleBowe4",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1092300294849888258",
+          "id": "1092300294849888258"
+        },
+        {
+          "name": "Eric Jorgenson 📚 ☀️",
+          "screen_name": "EricJorgenson",
+          "indices": [
+            "11",
+            "25"
+          ],
+          "id_str": "14377979",
+          "id": "14377979"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1384605817719169028",
+    "id_str": "1384657563598340097",
+    "in_reply_to_user_id": "1092300294849888258",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1384657563598340097",
+    "in_reply_to_status_id": "1384605817719169028",
+    "created_at": "Tue Apr 20 23:57:43 +0000 2021",
+    "favorited": false,
+    "full_text": "@KyleBowe4 @EricJorgenson I'm attempting to build out the financial piece. I'm looking to allow new creators to leverage their content much earlier in the creator journey. The length of time to profitilability is too random right now. I can shorten that and provide help to ensure distribution.",
+    "lang": "en",
+    "in_reply_to_screen_name": "KyleBowe4",
+    "in_reply_to_user_id_str": "1092300294849888258"
+  }
+}

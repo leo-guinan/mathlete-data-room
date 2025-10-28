@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1774868266738999770"
+        ],
+        "editableUntil": "2024-04-01T19:35:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1774866652464582866",
+    "id_str": "1774868266738999770",
+    "in_reply_to_user_id": "2518563752",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1774868266738999770",
+    "in_reply_to_status_id": "1774866652464582866",
+    "created_at": "Mon Apr 01 18:35:44 +0000 2024",
+    "favorited": false,
+    "full_text": "@anuatluru I think that's an interesting side effect of being in an incredibly information rich environment. \n\nWe have so much information coming at us, we don't have time to actually process it, so we collect as much as possible and parrot ideas from people we think of highly.",
+    "lang": "en",
+    "in_reply_to_screen_name": "anuatluru",
+    "in_reply_to_user_id_str": "2518563752"
+  }
+}

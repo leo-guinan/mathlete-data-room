@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1558486971789500417"
+        ],
+        "editableUntil": "2022-08-13T16:43:44.019Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        },
+        {
+          "name": "Jenn Junod",
+          "screen_name": "JennJunod",
+          "indices": [
+            "27",
+            "37"
+          ],
+          "id_str": "1343768871078006785",
+          "id": "1343768871078006785"
+        },
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "56",
+            "67"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1558486971789500417",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1558486971789500417",
+    "created_at": "Sat Aug 13 16:13:44 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @bkh_leung: Came across @JennJunod's profile through @leo_guinan \n\nShe's got some awesome content\n\nYou should go give her a follow",
+    "lang": "en"
+  }
+}

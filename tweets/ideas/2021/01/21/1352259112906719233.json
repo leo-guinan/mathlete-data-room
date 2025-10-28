@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1352259112906719233"
+        ],
+        "editableUntil": "2021-01-21T15:17:50.933Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "NationalHuggingDay",
+          "indices": [
+            "6",
+            "25"
+          ]
+        },
+        {
+          "text": "HugsForHomelessYouth",
+          "indices": [
+            "159",
+            "180"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Z32UQq2OrY",
+          "expanded_url": "https://t.co/Z32UQq2OrY",
+          "display_url": "t.co/Z32UQq2OrY",
+          "indices": [
+            "181",
+            "204"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "204"
+    ],
+    "favorite_count": "2",
+    "id_str": "1352259112906719233",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1352259112906719233",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 21 14:17:50 +0000 2021",
+    "favorited": false,
+    "full_text": "Happy #NationalHuggingDay ! Check out this app. @net_defi will donate $1/ hug shared in the app for the first 5000. Proceeds to local homeless youth shelters. #HugsForHomelessYouth https://t.co/Z32UQq2OrY",
+    "lang": "en"
+  }
+}

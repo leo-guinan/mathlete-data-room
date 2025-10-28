@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1431664427082960898"
+        ],
+        "editableUntil": "2021-08-28T18:06:13.112Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1431664425887571976",
+    "id_str": "1431664427082960898",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1431664427082960898",
+    "in_reply_to_status_id": "1431664425887571976",
+    "created_at": "Sat Aug 28 17:06:13 +0000 2021",
+    "favorited": false,
+    "full_text": "Next thing I've got to solve is how to update the UI after things happen on the backend. I've got it decoupled for error handling and rate limiting reasons, but I'm going to need a way to send messages back",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

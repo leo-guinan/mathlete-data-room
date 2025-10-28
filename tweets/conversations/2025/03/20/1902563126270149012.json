@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902563126270149012"
+        ],
+        "editableUntil": "2025-03-20T04:29:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Gene Jelly",
+          "screen_name": "gene_jelly",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1824243479876182017",
+          "id": "1824243479876182017"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "290"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1902493985437893111",
+    "id_str": "1902563126270149012",
+    "in_reply_to_user_id": "1824243479876182017",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902563126270149012",
+    "in_reply_to_status_id": "1902493985437893111",
+    "created_at": "Thu Mar 20 03:29:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@gene_jelly Well, I’m taking the approach of challenging him to a live debate for Twitter, so I’d recommend covering a vastly different track of probability space. \n\nI think we see the same thing and have different approaches that would work best for us. \n\nNow we’ve got to get the rest of…",
+    "lang": "en",
+    "in_reply_to_screen_name": "gene_jelly",
+    "in_reply_to_user_id_str": "1824243479876182017"
+  }
+}

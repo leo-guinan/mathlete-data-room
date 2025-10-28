@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1974017841264296121"
+        ],
+        "editableUntil": "2025-10-03T08:45:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aaron Edwards",
+          "screen_name": "UglyRobotDev",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "101825923",
+          "id": "101825923"
+        },
+        {
+          "name": "Tony Dinh 🎯",
+          "screen_name": "tdinh_me",
+          "indices": [
+            "14",
+            "23"
+          ],
+          "id_str": "331379561",
+          "id": "331379561"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/poxFdnlIA2",
+          "expanded_url": "https://x.com/leo_guinan/status/1974017358906720763",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "91",
+            "114"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1973976322109296808",
+    "id_str": "1974017841264296121",
+    "in_reply_to_user_id": "101825923",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1974017841264296121",
+    "in_reply_to_status_id": "1973976322109296808",
+    "possibly_sensitive": false,
+    "created_at": "Fri Oct 03 07:45:03 +0000 2025",
+    "favorited": false,
+    "full_text": "@UglyRobotDev @tdinh_me Same offer. $100 and I guarantee my AI cofounder gets you results. https://t.co/poxFdnlIA2",
+    "lang": "en",
+    "in_reply_to_screen_name": "UglyRobotDev",
+    "in_reply_to_user_id_str": "101825923"
+  }
+}

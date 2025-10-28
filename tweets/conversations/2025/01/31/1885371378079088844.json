@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885371378079088844"
+        ],
+        "editableUntil": "2025-01-31T17:55:39.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "kevin ryan",
+          "screen_name": "kevinryan",
+          "indices": [
+            "168",
+            "178"
+          ],
+          "id_str": "6736292",
+          "id": "6736292"
+        },
+        {
+          "name": "thiswontlast",
+          "screen_name": "thiswontlast",
+          "indices": [
+            "182",
+            "195"
+          ],
+          "id_str": "1832121190233919489",
+          "id": "1832121190233919489"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "241"
+    ],
+    "favorite_count": "1",
+    "id_str": "1885371378079088844",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885371378079088844",
+    "created_at": "Fri Jan 31 16:55:39 +0000 2025",
+    "favorited": false,
+    "full_text": "\"And, you know, if insurance companies were not properly calculating the risk. The three of us on the phone would start an insurance company and make a ton of money.\"\n~@kevinryan on @thiswontlast \n\n^ this is why I'm starting human insurance.",
+    "lang": "en"
+  }
+}

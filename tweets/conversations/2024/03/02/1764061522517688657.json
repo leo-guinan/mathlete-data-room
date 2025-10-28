@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1764061522517688657"
+        ],
+        "editableUntil": "2024-03-02T23:53:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Emaz",
+          "screen_name": "em_az",
+          "indices": [
+            "0",
+            "6"
+          ],
+          "id_str": "371918029",
+          "id": "371918029"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1764060337966592230",
+    "id_str": "1764061522517688657",
+    "in_reply_to_user_id": "371918029",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1764061522517688657",
+    "in_reply_to_status_id": "1764060337966592230",
+    "created_at": "Sat Mar 02 22:53:36 +0000 2024",
+    "favorited": false,
+    "full_text": "@em_az There are a lot of great engineers. There are a lot of engineers who think they are great.\n\nThose groups are not a circle.\n\nThere are inflated salaries leading to inflated egos. \n\nI've had the pleasure of working with some truly great engineers, and I've seen the power of mentors",
+    "lang": "en",
+    "in_reply_to_screen_name": "em_az",
+    "in_reply_to_user_id_str": "371918029"
+  }
+}

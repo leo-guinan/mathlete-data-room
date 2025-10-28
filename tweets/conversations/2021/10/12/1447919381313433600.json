@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1447919381313433600"
+        ],
+        "editableUntil": "2021-10-12T14:37:36.203Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Fiona Aber - Taruona",
+          "screen_name": "_JustFi",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "104069160",
+          "id": "104069160"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1447919381313433600/photo/1",
+          "indices": [
+            "20",
+            "43"
+          ],
+          "url": "https://t.co/RS1fzutqHt",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FBgLACLXsAQHMrA.jpg",
+          "id_str": "1447919375412080644",
+          "id": "1447919375412080644",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBgLACLXsAQHMrA.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/RS1fzutqHt"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "43"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1447907180066246658",
+    "id_str": "1447919381313433600",
+    "in_reply_to_user_id": "104069160",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1447919381313433600",
+    "in_reply_to_status_id": "1447907180066246658",
+    "possibly_sensitive": false,
+    "created_at": "Tue Oct 12 13:37:36 +0000 2021",
+    "favorited": false,
+    "full_text": "@_JustFi Thanks Fi! https://t.co/RS1fzutqHt",
+    "lang": "en",
+    "in_reply_to_screen_name": "_JustFi",
+    "in_reply_to_user_id_str": "104069160",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1447919381313433600/photo/1",
+          "indices": [
+            "20",
+            "43"
+          ],
+          "url": "https://t.co/RS1fzutqHt",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FBgLACLXsAQHMrA.jpg",
+          "id_str": "1447919375412080644",
+          "video_info": {
+            "aspect_ratio": [
+              "6",
+              "5"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FBgLACLXsAQHMrA.mp4"
+              }
+            ]
+          },
+          "id": "1447919375412080644",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FBgLACLXsAQHMrA.jpg",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "400",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/RS1fzutqHt"
+        }
+      ]
+    }
+  }
+}

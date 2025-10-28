@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1660708680973557776"
+        ],
+        "editableUntil": "2023-05-22T18:36:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Taylor Rooks",
+          "screen_name": "TaylorRooks",
+          "indices": [
+            "179",
+            "191"
+          ],
+          "id_str": "1250732774",
+          "id": "1250732774"
+        },
+        {
+          "name": "Danny Miranda",
+          "screen_name": "heydannymiranda",
+          "indices": [
+            "195",
+            "211"
+          ],
+          "id_str": "1007896831186087938",
+          "id": "1007896831186087938"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "211"
+    ],
+    "favorite_count": "6",
+    "id_str": "1660708680973557776",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1660708680973557776",
+    "created_at": "Mon May 22 18:06:18 +0000 2023",
+    "favorited": false,
+    "full_text": "\"You have to learn to love the parts of yourself that nobody claps for\"\n\nDamn. Had to rewind the podcast episode to hear that couple more times.\n\nPowerful statement right there.\n\n@TaylorRooks to @heydannymiranda",
+    "lang": "en"
+  }
+}

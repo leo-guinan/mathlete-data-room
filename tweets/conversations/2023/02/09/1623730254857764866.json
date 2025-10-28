@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1623730254857764866"
+        ],
+        "editableUntil": "2023-02-09T17:37:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1bhlf2hXxI",
+          "expanded_url": "https://buildinpublictoolkit.com/posts/this-week-s-augmentation-seeing-the-future",
+          "display_url": "buildinpublictoolkit.com/posts/this-wee…",
+          "indices": [
+            "203",
+            "226"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "226"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1623730252689158146",
+    "id_str": "1623730254857764866",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1623730254857764866",
+    "in_reply_to_status_id": "1623730252689158146",
+    "possibly_sensitive": false,
+    "created_at": "Thu Feb 09 17:07:14 +0000 2023",
+    "favorited": false,
+    "full_text": "I think AI tools are going to have some outsized effects on a number of things, and creators should understand the likely future, so they can position themselves well.\n\nYou can check out the issue here: https://t.co/1bhlf2hXxI",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1440078265268387841"
+        ],
+        "editableUntil": "2021-09-20T23:19:48.457Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1440073895541829633",
+    "id_str": "1440078265268387841",
+    "in_reply_to_user_id": "1383553628888211456",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1440078265268387841",
+    "in_reply_to_status_id": "1440073895541829633",
+    "created_at": "Mon Sep 20 22:19:48 +0000 2021",
+    "favorited": false,
+    "full_text": "@LobowSpark It's weird.  I had the answers this time last year. But I didn't know the right questions. \n\nNow, I've got a different set of questions. It ends up being an interesting cycle. \n\nBut the journey is indeed the destination. Planning on enjoying the mini journeys along the way!",
+    "lang": "en",
+    "in_reply_to_screen_name": "LobowSpark",
+    "in_reply_to_user_id_str": "1383553628888211456"
+  }
+}

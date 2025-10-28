@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1947502031704379877"
+        ],
+        "editableUntil": "2025-07-22T04:40:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "22",
+            "35"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "279"
+    ],
+    "favorite_count": "6",
+    "id_str": "1947502031704379877",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1947502031704379877",
+    "created_at": "Tue Jul 22 03:40:41 +0000 2025",
+    "favorited": false,
+    "full_text": "Had a great chat with @jessyka_boat last night, and we were discussing the needs of vibe coders.\n\nShe recommended that I offer a fractional CTO service to vibe coders that want an experienced system architect to help them clean up their code and identify problem areas.\n\nIf this…",
+    "lang": "en"
+  }
+}

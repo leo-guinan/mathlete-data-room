@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1615528103580958720"
+        ],
+        "editableUntil": "2023-01-18T02:24:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "21",
+            "33"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/mYmUDETPRl",
+          "expanded_url": "https://x.com/ChooseYourAlgo/status/1615503667104256003",
+          "display_url": "x.com/ChooseYourAlgo…",
+          "indices": [
+            "94",
+            "117"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "117"
+    ],
+    "favorite_count": "0",
+    "id_str": "1615528103580958720",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1615528103580958720",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 18 01:54:49 +0000 2023",
+    "favorited": false,
+    "full_text": "Continuing along the @_buildspace N&amp;W S2 flow...\n\n(And have my first creator on board...) https://t.co/mYmUDETPRl",
+    "lang": "en"
+  }
+}

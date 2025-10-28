@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1608183613467643904"
+        ],
+        "editableUntil": "2022-12-28T20:00:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1608183613467643904/photo/1",
+          "indices": [
+            "126",
+            "149"
+          ],
+          "url": "https://t.co/Vc2Z1OWeuh",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FlFqePoWQAIdODF.jpg",
+          "id_str": "1608183609772359682",
+          "id": "1608183609772359682",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FlFqePoWQAIdODF.jpg",
+          "sizes": {
+            "medium": {
+              "w": "220",
+              "h": "122",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "122",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "122",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "122",
+              "h": "122",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Vc2Z1OWeuh"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "149"
+    ],
+    "favorite_count": "2",
+    "id_str": "1608183613467643904",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1608183613467643904",
+    "possibly_sensitive": false,
+    "created_at": "Wed Dec 28 19:30:26 +0000 2022",
+    "favorited": false,
+    "full_text": "Nothing like getting blocked from your own site for bot-like behavior because you decided to automate a repetitive task...😂😂😂 https://t.co/Vc2Z1OWeuh",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1608183613467643904/photo/1",
+          "indices": [
+            "126",
+            "149"
+          ],
+          "url": "https://t.co/Vc2Z1OWeuh",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FlFqePoWQAIdODF.jpg",
+          "id_str": "1608183609772359682",
+          "video_info": {
+            "aspect_ratio": [
+              "110",
+              "61"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FlFqePoWQAIdODF.mp4"
+              }
+            ]
+          },
+          "id": "1608183609772359682",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FlFqePoWQAIdODF.jpg",
+          "sizes": {
+            "medium": {
+              "w": "220",
+              "h": "122",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "220",
+              "h": "122",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "220",
+              "h": "122",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "122",
+              "h": "122",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/Vc2Z1OWeuh"
+        }
+      ]
+    }
+  }
+}

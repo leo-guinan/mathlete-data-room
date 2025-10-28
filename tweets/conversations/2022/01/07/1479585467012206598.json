@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1479585467012206598"
+        ],
+        "editableUntil": "2022-01-07T23:47:19.361Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Yacoubian",
+          "screen_name": "PaulYacoubian",
+          "indices": [
+            "14",
+            "28"
+          ],
+          "id_str": "175934436",
+          "id": "175934436"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1479581825232093184",
+    "id_str": "1479585467012206598",
+    "in_reply_to_user_id": "1360437535407710213",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1479585467012206598",
+    "in_reply_to_status_id": "1479581825232093184",
+    "created_at": "Fri Jan 07 22:47:19 +0000 2022",
+    "favorited": false,
+    "full_text": "@aseemthakar_ @PaulYacoubian Appreciate that Aseem!",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1360437535407710213"
+  }
+}

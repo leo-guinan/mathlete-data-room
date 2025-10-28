@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513227516047208453"
+        ],
+        "editableUntil": "2022-04-10T19:48:48.890Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zécca",
+          "screen_name": "Zecca_Lehn",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "127667573",
+          "id": "127667573"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nabLDdNA7p",
+          "expanded_url": "https://hbr.org/2022/03/using-technology-to-make-work-more-human?utm_source=twitter",
+          "display_url": "hbr.org/2022/03/using-…",
+          "indices": [
+            "16",
+            "39"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "39"
+    ],
+    "favorite_count": "0",
+    "id_str": "1513227516047208453",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513227516047208453",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 10 18:48:48 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @Zecca_Lehn: https://t.co/nabLDdNA7p",
+    "lang": "zxx"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527820308605976578"
+        ],
+        "editableUntil": "2022-05-21T01:45:21.757Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "sari azout",
+          "screen_name": "sariazout",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "34724786",
+          "id": "34724786"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1527820308605976578",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527820308605976578",
+    "created_at": "Sat May 21 01:15:21 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @sariazout: used to think who you know is more important than what you know\n\nthen realized who knows you is more important than who you…",
+    "lang": "en"
+  }
+}

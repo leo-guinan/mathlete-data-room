@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929680013374210294"
+        ],
+        "editableUntil": "2025-06-03T00:22:21.566Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "117"
+    ],
+    "favorite_count": "0",
+    "id_str": "1929680013374210294",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929680013374210294",
+    "created_at": "Mon Jun 02 23:22:21 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @jposhaughnessy: “You must trust and believe in people, or life becomes impossible.” \n~Attributed to Anton Chekhov",
+    "lang": "en"
+  }
+}

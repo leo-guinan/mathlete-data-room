@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1970543230795104683"
+        ],
+        "editableUntil": "2025-09-23T18:38:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Edward Cruz",
+          "screen_name": "themindboarder",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "602475043",
+          "id": "602475043"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/67Krih4U4S",
+          "expanded_url": "https://x.com/leo_guinan/status/1970329546168713369",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "53",
+            "76"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1970542075222597878",
+    "id_str": "1970543230795104683",
+    "in_reply_to_user_id": "602475043",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1970543230795104683",
+    "in_reply_to_status_id": "1970542075222597878",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 23 17:38:11 +0000 2025",
+    "favorited": false,
+    "full_text": "@themindboarder Bingo.\n\nThat's my entire focus too.\n\nhttps://t.co/67Krih4U4S",
+    "lang": "en",
+    "in_reply_to_screen_name": "themindboarder",
+    "in_reply_to_user_id_str": "602475043"
+  }
+}

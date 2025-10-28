@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422019981198385152"
+        ],
+        "editableUntil": "2021-08-02T03:22:38.028Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "nocode",
+          "indices": [
+            "50",
+            "57"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "nocodedevs",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1422019981198385152",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422019981198385152",
+    "created_at": "Mon Aug 02 02:22:38 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @nocodedevs: Are you interested in automation, #nocode, sales, SaaS and marketing? Sign-up for our FREE daily newsletter loaded with val…",
+    "lang": "en"
+  }
+}

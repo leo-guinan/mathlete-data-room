@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563255264500801539"
+        ],
+        "editableUntil": "2022-08-26T20:31:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MindGarden ✨ | Gamified Meditation",
+          "screen_name": "MindGardn",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1449145519125766144",
+          "id": "1449145519125766144"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "28"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1563225268730630144",
+    "id_str": "1563255264500801539",
+    "in_reply_to_user_id": "1449145519125766144",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563255264500801539",
+    "in_reply_to_status_id": "1563225268730630144",
+    "created_at": "Fri Aug 26 20:01:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@MindGardn That's the truth!",
+    "lang": "en",
+    "in_reply_to_screen_name": "MindGardn",
+    "in_reply_to_user_id_str": "1449145519125766144"
+  }
+}

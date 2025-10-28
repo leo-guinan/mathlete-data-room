@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1796611179059593686"
+        ],
+        "editableUntil": "2024-05-31T19:34:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonny Miller",
+          "screen_name": "jonnym1ller",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "495347209",
+          "id": "495347209"
+        },
+        {
+          "name": "Daniel",
+          "screen_name": "danielschmach",
+          "indices": [
+            "13",
+            "27"
+          ],
+          "id_str": "839082095142019072",
+          "id": "839082095142019072"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1796605313803747780",
+    "id_str": "1796611179059593686",
+    "in_reply_to_user_id": "495347209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1796611179059593686",
+    "in_reply_to_status_id": "1796605313803747780",
+    "created_at": "Fri May 31 18:34:19 +0000 2024",
+    "favorited": false,
+    "full_text": "@jonnym1ller @danielschmach +100. Businesses aren't (or at least shouldn't be) a proxy for healing wounds. Hurt people (create businesses that) hurt people.\n\nIt's possible to do the work and develop the ambition alongside that work. It's a lot harder, but it's doable.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jonnym1ller",
+    "in_reply_to_user_id_str": "495347209"
+  }
+}

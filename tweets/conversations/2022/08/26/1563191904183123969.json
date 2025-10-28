@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563191904183123969"
+        ],
+        "editableUntil": "2022-08-26T16:19:27.315Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Julia Furst Morgado",
+          "screen_name": "juliafmorgado",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1070855057564782594",
+          "id": "1070855057564782594"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1563191904183123969",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563191904183123969",
+    "created_at": "Fri Aug 26 15:49:27 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @juliafmorgado: Let's normalize failure.\n\nChoosing to \"lose\" is the most legit way of winning. Not tying your joy to winning, but the pr…",
+    "lang": "en"
+  }
+}

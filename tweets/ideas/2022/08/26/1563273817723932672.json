@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563273817723932672"
+        ],
+        "editableUntil": "2022-08-26T21:44:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/trXlJnWAyT",
+          "expanded_url": "https://www.twitch.tv/buildinpublicuniversity",
+          "display_url": "twitch.tv/buildinpublicu…",
+          "indices": [
+            "97",
+            "120"
+          ]
+        },
+        {
+          "url": "https://t.co/EoE9ndtAzf",
+          "expanded_url": "https://x.com/tshubillabong/status/1563257796547969024",
+          "display_url": "x.com/tshubillabong/…",
+          "indices": [
+            "154",
+            "177"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "177"
+    ],
+    "favorite_count": "1",
+    "id_str": "1563273817723932672",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563273817723932672",
+    "possibly_sensitive": false,
+    "created_at": "Fri Aug 26 21:14:57 +0000 2022",
+    "favorited": false,
+    "full_text": "A new twist for this episode!\n\nGoing to attempt to also stream it on twitch.\n\nCheck it out here: https://t.co/trXlJnWAyT\n\nGoing live in 15 minutes or so! https://t.co/EoE9ndtAzf",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1417440885697138690"
+        ],
+        "editableUntil": "2021-07-20T12:06:56.585Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anders Jensen",
+          "screen_name": "andersjensenorg",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1356332310170361856",
+          "id": "1356332310170361856"
+        },
+        {
+          "name": "UiPath",
+          "screen_name": "UiPath",
+          "indices": [
+            "17",
+            "24"
+          ],
+          "id_str": "127708877",
+          "id": "127708877"
+        },
+        {
+          "name": "Robocorp",
+          "screen_name": "RobocorpInc",
+          "indices": [
+            "25",
+            "37"
+          ],
+          "id_str": "1084485863025926147",
+          "id": "1084485863025926147"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1417379808594571302",
+    "id_str": "1417440885697138690",
+    "in_reply_to_user_id": "1356332310170361856",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1417440885697138690",
+    "in_reply_to_status_id": "1417379808594571302",
+    "created_at": "Tue Jul 20 11:06:56 +0000 2021",
+    "favorited": false,
+    "full_text": "@andersjensenorg @UiPath @RobocorpInc I'll check them out. Thanks!",
+    "lang": "en",
+    "in_reply_to_screen_name": "andersjensenorg",
+    "in_reply_to_user_id_str": "1356332310170361856"
+  }
+}

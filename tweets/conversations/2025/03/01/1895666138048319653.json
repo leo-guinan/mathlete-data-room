@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895666138048319653"
+        ],
+        "editableUntil": "2025-03-01T03:43:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Sara Campbell",
+          "screen_name": "tinyrevver",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "3949831",
+          "id": "3949831"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "292"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1895520256191578225",
+    "id_str": "1895666138048319653",
+    "in_reply_to_user_id": "3949831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895666138048319653",
+    "in_reply_to_status_id": "1895520256191578225",
+    "created_at": "Sat Mar 01 02:43:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@tinyrevver we should chat soon. I've been thinking about how we try to push people into very specific boxes because of all of the things we need to overcome when launching creator businesses, and I think coaching is one of those boxes that isn't enough in and of itself.\n\nI'm looking at how…",
+    "lang": "en",
+    "in_reply_to_screen_name": "tinyrevver",
+    "in_reply_to_user_id_str": "3949831"
+  }
+}

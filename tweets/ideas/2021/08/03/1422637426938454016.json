@@ -1,0 +1,137 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1422637426938454016"
+        ],
+        "editableUntil": "2021-08-03T20:16:08.564Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/kY4gBWQfBA",
+          "expanded_url": "https://x.com/leo_guinan/status/1422618081860411401",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "166",
+            "189"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1422637426938454016/photo/1",
+          "indices": [
+            "190",
+            "213"
+          ],
+          "url": "https://t.co/gYo2lH6CRp",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E745Mk8WYAI64K9.jpg",
+          "id_str": "1422637420533669890",
+          "id": "1422637420533669890",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E745Mk8WYAI64K9.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "500",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "500",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/gYo2lH6CRp"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "213"
+    ],
+    "favorite_count": "0",
+    "id_str": "1422637426938454016",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1422637426938454016",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 03 19:16:08 +0000 2021",
+    "favorited": false,
+    "full_text": "Why did one of my sisters add me on LinkedIn about a minute after I tweeted this? 🤣🤣🤣\n\nI don't think she follows me on Twitter, but maybe I need to watch what I say. https://t.co/kY4gBWQfBA https://t.co/gYo2lH6CRp",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1422637426938454016/photo/1",
+          "indices": [
+            "190",
+            "213"
+          ],
+          "url": "https://t.co/gYo2lH6CRp",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E745Mk8WYAI64K9.jpg",
+          "id_str": "1422637420533669890",
+          "video_info": {
+            "aspect_ratio": [
+              "25",
+              "14"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/E745Mk8WYAI64K9.mp4"
+              }
+            ]
+          },
+          "id": "1422637420533669890",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E745Mk8WYAI64K9.jpg",
+          "sizes": {
+            "large": {
+              "w": "500",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "500",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "500",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/gYo2lH6CRp"
+        }
+      ]
+    }
+  }
+}

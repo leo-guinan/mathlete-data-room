@@ -1,0 +1,55 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1861803525925216414"
+        ],
+        "editableUntil": "2024-11-27T17:05:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Bs9LrIHMbg",
+          "expanded_url": "https://modelcontextprotocol.io/quickstart",
+          "display_url": "modelcontextprotocol.io/quickstart",
+          "indices": [
+            "193",
+            "216"
+          ]
+        },
+        {
+          "url": "https://t.co/jidctC2rot",
+          "expanded_url": "https://x.com/leo_guinan/status/1861779921112100910",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "217",
+            "240"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "240"
+    ],
+    "favorite_count": "1",
+    "id_str": "1861803525925216414",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1861803525925216414",
+    "possibly_sensitive": false,
+    "created_at": "Wed Nov 27 16:05:25 +0000 2024",
+    "favorited": false,
+    "full_text": "Ok, actually once I talked about this being the way to do it, I'm now actually doing it. So here's a live tweet thread of me going through the process.\n\nUsing the quickstart instructions here:\nhttps://t.co/Bs9LrIHMbg https://t.co/jidctC2rot",
+    "lang": "en"
+  }
+}

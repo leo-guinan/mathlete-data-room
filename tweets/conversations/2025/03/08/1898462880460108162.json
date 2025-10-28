@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1898462880460108162"
+        ],
+        "editableUntil": "2025-03-08T20:56:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "34",
+            "48"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7tdbn3fs6d",
+          "expanded_url": "https://x.com/DaveShapi/status/1898452306644946946",
+          "display_url": "x.com/DaveShapi/stat…",
+          "indices": [
+            "107",
+            "130"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "130"
+    ],
+    "favorite_count": "1",
+    "id_str": "1898462880460108162",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1898462880460108162",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 08 19:56:37 +0000 2025",
+    "favorited": false,
+    "full_text": "If you don’t understand why, give @glitchishuman a follow. \n\nYou’ll learn something about what’s valuable. https://t.co/7tdbn3fs6d",
+    "lang": "en"
+  }
+}

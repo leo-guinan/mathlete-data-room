@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1887274231601229867"
+        ],
+        "editableUntil": "2025-02-05T23:56:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jim O'Shaughnessy",
+          "screen_name": "jposhaughnessy",
+          "indices": [
+            "19",
+            "34"
+          ],
+          "id_str": "28369153",
+          "id": "28369153"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/WKd8jed4SD",
+          "expanded_url": "https://x.com/leo_guinan/status/1887232095434534965",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "271",
+            "294"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "294"
+    ],
+    "favorite_count": "1",
+    "id_str": "1887274231601229867",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1887274231601229867",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 05 22:56:55 +0000 2025",
+    "favorited": false,
+    "full_text": "An open request to @jposhaughnessy and anyone else who would like to participate:\n\nI'd love if you could read this one minute blog post and assume that it's true.\n\nIf you see what that means for the economy, please reach out.\n\nIf you don't, please see my OSV fellowship… https://t.co/WKd8jed4SD",
+    "lang": "en"
+  }
+}

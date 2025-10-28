@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1492809320706330630"
+        ],
+        "editableUntil": "2022-02-13T11:34:11.769Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        },
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "56",
+            "66"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/N78FopOJj2",
+          "expanded_url": "https://boundless.substack.com/p/escaping-work-is-only-part-1-170?r=evblp&utm_campaign=post&utm_medium=email",
+          "display_url": "boundless.substack.com/p/escaping-wor…",
+          "indices": [
+            "67",
+            "90"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "90"
+    ],
+    "favorite_count": "0",
+    "id_str": "1492809320706330630",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1492809320706330630",
+    "possibly_sensitive": false,
+    "created_at": "Sun Feb 13 10:34:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Escaping Work Is Only Part 1 | #170, by @p_millerd https://t.co/N78FopOJj2",
+    "lang": "en"
+  }
+}

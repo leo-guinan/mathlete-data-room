@@ -1,0 +1,148 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1491412677708886025"
+        ],
+        "editableUntil": "2022-02-09T15:04:26.130Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "105",
+            "116"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ULR8XEEHpa",
+          "expanded_url": "https://x.com/LobowSpark/status/1490534728742670344",
+          "display_url": "x.com/LobowSpark/sta…",
+          "indices": [
+            "203",
+            "226"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1491412677708886025/photo/1",
+          "indices": [
+            "227",
+            "250"
+          ],
+          "url": "https://t.co/OObJOe5wV1",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FLKP7BPXIAMoBDN.jpg",
+          "id_str": "1491412670720974851",
+          "id": "1491412670720974851",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FLKP7BPXIAMoBDN.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/OObJOe5wV1"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "250"
+    ],
+    "favorite_count": "3",
+    "id_str": "1491412677708886025",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1491412677708886025",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 09 14:04:26 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, finally getting a chance to listen to this today!\n\nIt's exciting. It has been awesome to get to know @LobowSpark and work alongside him. And the entire community he attracts. \n\nCongrats on a year!!! https://t.co/ULR8XEEHpa https://t.co/OObJOe5wV1",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1491412677708886025/photo/1",
+          "indices": [
+            "227",
+            "250"
+          ],
+          "url": "https://t.co/OObJOe5wV1",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FLKP7BPXIAMoBDN.jpg",
+          "id_str": "1491412670720974851",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FLKP7BPXIAMoBDN.mp4"
+              }
+            ]
+          },
+          "id": "1491412670720974851",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FLKP7BPXIAMoBDN.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/OObJOe5wV1"
+        }
+      ]
+    }
+  }
+}

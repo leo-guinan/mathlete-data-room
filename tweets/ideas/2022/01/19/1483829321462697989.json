@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1483829321462697989"
+        ],
+        "editableUntil": "2022-01-19T16:50:53.109Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "224"
+    ],
+    "favorite_count": "3",
+    "id_str": "1483829321462697989",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1483829321462697989",
+    "created_at": "Wed Jan 19 15:50:53 +0000 2022",
+    "favorited": false,
+    "full_text": "Just validated the new @feathercrm deploy and looks like everything is working. \n\nEnded up exposing a bug in the framework, so took a bit longer than expected, but the fix has been committed and everything seems to work now.",
+    "lang": "en"
+  }
+}

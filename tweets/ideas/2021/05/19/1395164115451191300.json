@@ -1,0 +1,68 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1395164115451191300"
+        ],
+        "editableUntil": "2021-05-20T00:47:00.676Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AskADHD",
+          "indices": [
+            "0",
+            "8"
+          ]
+        },
+        {
+          "text": "AskingAutistics",
+          "indices": [
+            "9",
+            "25"
+          ]
+        },
+        {
+          "text": "NeurodiverseEntrepreneurs",
+          "indices": [
+            "128",
+            "154"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SF6U70QuUb",
+          "expanded_url": "https://neurodiverse.community.super.fans/",
+          "display_url": "neurodiverse.community.super.fans",
+          "indices": [
+            "168",
+            "191"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "191"
+    ],
+    "favorite_count": "2",
+    "id_str": "1395164115451191300",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1395164115451191300",
+    "possibly_sensitive": false,
+    "created_at": "Wed May 19 23:47:00 +0000 2021",
+    "favorited": false,
+    "full_text": "#AskADHD #AskingAutistics \n\nAre you an entrepreneur? Do you want to be an entrepreneur? If so, I'm building out a community for #NeurodiverseEntrepreneurs \n\nJoin here!\nhttps://t.co/SF6U70QuUb",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1818646798883225948"
+        ],
+        "editableUntil": "2024-07-31T14:56:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1818646798883225948/photo/1",
+          "indices": [
+            "291",
+            "314"
+          ],
+          "url": "https://t.co/NbvRdubc0g",
+          "media_url": "http://pbs.twimg.com/media/GT0hhEvWEAAp1iX.jpg",
+          "id_str": "1818646676619268096",
+          "id": "1818646676619268096",
+          "media_url_https": "https://pbs.twimg.com/media/GT0hhEvWEAAp1iX.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "610",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1642",
+              "h": "1474",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1077",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NbvRdubc0g"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "314"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1818492105188167831",
+    "id_str": "1818646798883225948",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1818646798883225948",
+    "in_reply_to_status_id": "1818492105188167831",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 31 13:56:00 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli Absolutely. Something I've identified is that I've been in the AI space, and specifically the generative AI space for several years now, and I'm very much AI-native in my thinking. It's something we focused on in my last role.\n\nAnd I've done a lot of work to learn course design,… https://t.co/NbvRdubc0g",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1818646798883225948/photo/1",
+          "indices": [
+            "291",
+            "314"
+          ],
+          "url": "https://t.co/NbvRdubc0g",
+          "media_url": "http://pbs.twimg.com/media/GT0hhEvWEAAp1iX.jpg",
+          "id_str": "1818646676619268096",
+          "id": "1818646676619268096",
+          "media_url_https": "https://pbs.twimg.com/media/GT0hhEvWEAAp1iX.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "610",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1642",
+              "h": "1474",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1077",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NbvRdubc0g"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1818646798883225948/photo/1",
+          "indices": [
+            "291",
+            "314"
+          ],
+          "url": "https://t.co/NbvRdubc0g",
+          "media_url": "http://pbs.twimg.com/media/GT0hhEvXIAEtss9.jpg",
+          "id_str": "1818646676619337729",
+          "id": "1818646676619337729",
+          "media_url_https": "https://pbs.twimg.com/media/GT0hhEvXIAEtss9.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1079",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "611",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1642",
+              "h": "1826",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NbvRdubc0g"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1818646798883225948/photo/1",
+          "indices": [
+            "291",
+            "314"
+          ],
+          "url": "https://t.co/NbvRdubc0g",
+          "media_url": "http://pbs.twimg.com/media/GT0hhFZbAAAEB6q.jpg",
+          "id_str": "1818646676795752448",
+          "id": "1818646676795752448",
+          "media_url_https": "https://pbs.twimg.com/media/GT0hhFZbAAAEB6q.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1079",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "611",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1642",
+              "h": "1826",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NbvRdubc0g"
+        },
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1818646798883225948/photo/1",
+          "indices": [
+            "291",
+            "314"
+          ],
+          "url": "https://t.co/NbvRdubc0g",
+          "media_url": "http://pbs.twimg.com/media/GT0hhEzWYAAR3uJ.jpg",
+          "id_str": "1818646676636065792",
+          "id": "1818646676636065792",
+          "media_url_https": "https://pbs.twimg.com/media/GT0hhEzWYAAR3uJ.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "658",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1642",
+              "h": "1588",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "1161",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/NbvRdubc0g"
+        }
+      ]
+    }
+  }
+}

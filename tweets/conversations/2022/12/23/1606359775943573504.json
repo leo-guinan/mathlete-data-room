@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1606359775943573504"
+        ],
+        "editableUntil": "2022-12-23T19:13:09.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "15",
+            "27"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "221"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1606354352339267584",
+    "id_str": "1606359775943573504",
+    "in_reply_to_user_id": "1089126907881443329",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1606359775943573504",
+    "in_reply_to_status_id": "1606354352339267584",
+    "created_at": "Fri Dec 23 18:43:09 +0000 2022",
+    "favorited": false,
+    "full_text": "@auroraByKunal @_buildspace Thanks! Also, should read either \"show notes generated\" or \"transcripts processed\", because the main idea is generating the show notes from the transcripts, but totally wrote the wrong thing 😂😂",
+    "lang": "en",
+    "in_reply_to_screen_name": "aroralanuk",
+    "in_reply_to_user_id_str": "1089126907881443329"
+  }
+}

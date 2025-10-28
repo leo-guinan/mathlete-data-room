@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929868670127227109"
+        ],
+        "editableUntil": "2025-06-03T12:52:00.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Theo - t3.gg",
+          "screen_name": "theo",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "786375418685165568",
+          "id": "786375418685165568"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZjAMpA69kM",
+          "expanded_url": "https://www.buildinpublicuniversity.com/introducing-temporal-crypto-building-a-trust-weighted-problem-solving-economy/",
+          "display_url": "buildinpublicuniversity.com/introducing-te…",
+          "indices": [
+            "57",
+            "80"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "80"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929761946871779463",
+    "id_str": "1929868670127227109",
+    "in_reply_to_user_id": "786375418685165568",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929868670127227109",
+    "in_reply_to_status_id": "1929761946871779463",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 03 11:52:00 +0000 2025",
+    "favorited": false,
+    "full_text": "@theo it's all wrong and is about to change forever. :)\n\nhttps://t.co/ZjAMpA69kM",
+    "lang": "en",
+    "in_reply_to_screen_name": "theo",
+    "in_reply_to_user_id_str": "786375418685165568"
+  }
+}

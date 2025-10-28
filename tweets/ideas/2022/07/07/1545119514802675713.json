@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1545119514802675713"
+        ],
+        "editableUntil": "2022-07-07T19:26:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JmVaY5h5X6",
+          "expanded_url": "https://x.com/dagorenouf/status/1544334886269587457",
+          "display_url": "x.com/dagorenouf/sta…",
+          "indices": [
+            "55",
+            "78"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "78"
+    ],
+    "favorite_count": "2",
+    "id_str": "1545119514802675713",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1545119514802675713",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 07 18:56:13 +0000 2022",
+    "favorited": false,
+    "full_text": "The perfect tweet doesn't exi-\n\nOh. Well played, Dago! https://t.co/JmVaY5h5X6",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1400533343305928709"
+        ],
+        "editableUntil": "2021-06-03T20:22:24.352Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mohammed's Product Marketing Hub",
+          "screen_name": "athick2",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "15796921",
+          "id": "15796921"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1400531468099719171",
+    "id_str": "1400533343305928709",
+    "in_reply_to_user_id": "15796921",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1400533343305928709",
+    "in_reply_to_status_id": "1400531468099719171",
+    "created_at": "Thu Jun 03 19:22:24 +0000 2021",
+    "favorited": false,
+    "full_text": "@athick2 Neurodivergent is a common identity claimed by those with ADHD, Autism, OCD, etc. Neurodiversity is the combination of those and neurotypical people. So neurodiverse entrepreneurs is an inclusive term that I'm hoping will resonate with people.",
+    "lang": "en",
+    "in_reply_to_screen_name": "athick2",
+    "in_reply_to_user_id_str": "15796921"
+  }
+}

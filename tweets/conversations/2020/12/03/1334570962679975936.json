@@ -1,0 +1,164 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334570962679975936"
+        ],
+        "editableUntil": "2020-12-03T19:51:27.289Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "paul rudd",
+          "screen_name": "philsadelphia",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "632713692",
+          "id": "632713692"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/philsadelphia/status/1046847223227711489/video/1",
+          "source_status_id": "1046847223227711489",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/miU6u4gWZX",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1046847058899062784/pu/img/B1uCX5zhxorE6D3E.jpg",
+          "id_str": "1046847058899062784",
+          "source_user_id": "632713692",
+          "id": "1046847058899062784",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1046847058899062784/pu/img/B1uCX5zhxorE6D3E.jpg",
+          "source_user_id_str": "632713692",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1046847223227711489",
+          "display_url": "pic.x.com/miU6u4gWZX"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "94"
+    ],
+    "favorite_count": "0",
+    "id_str": "1334570962679975936",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334570962679975936",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 03 18:51:27 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @philsadelphia: jack black is trending so im bringing this gem back https://t.co/miU6u4gWZX",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/philsadelphia/status/1046847223227711489/video/1",
+          "source_status_id": "1046847223227711489",
+          "indices": [
+            "71",
+            "94"
+          ],
+          "url": "https://t.co/miU6u4gWZX",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1046847058899062784/pu/img/B1uCX5zhxorE6D3E.jpg",
+          "id_str": "1046847058899062784",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "44011",
+            "variants": [
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1046847058899062784/pu/vid/320x180/jZ4Qj7lzCdTv0e-f.mp4?tag=5"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1046847058899062784/pu/pl/cQd3yLmoGPBd4pfP.m3u8?tag=5&v=8ee"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1046847058899062784/pu/vid/640x360/Mk5JdEx3cqtokKMK.mp4?tag=5"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1046847058899062784/pu/vid/1280x720/fqJGpY6gaBxcAm4v.mp4?tag=5"
+              }
+            ]
+          },
+          "source_user_id": "632713692",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1046847058899062784",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1046847058899062784/pu/img/B1uCX5zhxorE6D3E.jpg",
+          "source_user_id_str": "632713692",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1046847223227711489",
+          "display_url": "pic.x.com/miU6u4gWZX"
+        }
+      ]
+    }
+  }
+}

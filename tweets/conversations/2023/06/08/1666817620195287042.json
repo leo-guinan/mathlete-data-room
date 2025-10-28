@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1666817620195287042"
+        ],
+        "editableUntil": "2023-06-08T15:41:03.285Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jonny Miller",
+          "screen_name": "jonnym1ller",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "495347209",
+          "id": "495347209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "60"
+    ],
+    "favorite_count": "0",
+    "id_str": "1666817620195287042",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1666817620195287042",
+    "created_at": "Thu Jun 08 14:41:03 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @jonnym1ller: Slow productivity = nervous system friendly",
+    "lang": "en"
+  }
+}

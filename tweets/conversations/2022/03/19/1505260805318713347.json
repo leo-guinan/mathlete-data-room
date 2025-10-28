@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1505260805318713347"
+        ],
+        "editableUntil": "2022-03-19T20:11:57.038Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Tommy Walker",
+          "screen_name": "tommyismyname",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "48638717",
+          "id": "48638717"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1505260805318713347/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/stBxzNGMCU",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FOPCtqEWQAMFRXP.jpg",
+          "id_str": "1505260790114304003",
+          "id": "1505260790114304003",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOPCtqEWQAMFRXP.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/stBxzNGMCU"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "58"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1504938382966861826",
+    "id_str": "1505260805318713347",
+    "in_reply_to_user_id": "48638717",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1505260805318713347",
+    "in_reply_to_status_id": "1504938382966861826",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 19 19:11:57 +0000 2022",
+    "favorited": false,
+    "full_text": "@tommyismyname It's well deserved! https://t.co/stBxzNGMCU",
+    "lang": "en",
+    "in_reply_to_screen_name": "tommyismyname",
+    "in_reply_to_user_id_str": "48638717",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1505260805318713347/photo/1",
+          "indices": [
+            "35",
+            "58"
+          ],
+          "url": "https://t.co/stBxzNGMCU",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FOPCtqEWQAMFRXP.jpg",
+          "id_str": "1505260790114304003",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FOPCtqEWQAMFRXP.mp4"
+              }
+            ]
+          },
+          "id": "1505260790114304003",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOPCtqEWQAMFRXP.jpg",
+          "sizes": {
+            "small": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "480",
+              "h": "270",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/stBxzNGMCU"
+        }
+      ]
+    }
+  }
+}

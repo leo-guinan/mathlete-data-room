@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1503526093441097729"
+        ],
+        "editableUntil": "2022-03-15T01:18:49.497Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ron Zakay 🏳️‍🌈 (he/him)",
+          "screen_name": "ronzakay",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "160795888",
+          "id": "160795888"
+        },
+        {
+          "name": "Twitter",
+          "screen_name": "twitter",
+          "indices": [
+            "10",
+            "18"
+          ],
+          "id_str": "1683696495198089217",
+          "id": "1683696495198089217"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "278"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1503518113001738241",
+    "id_str": "1503526093441097729",
+    "in_reply_to_user_id": "160795888",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1503526093441097729",
+    "in_reply_to_status_id": "1503518113001738241",
+    "created_at": "Tue Mar 15 00:18:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@ronzakay @Twitter Ah, very cool. Just had to go do a little research on that lol\n\nIt's a term I've heard but didn't quite have a great grasp on.\n\nBut fixed that! 😀\n\nSo what does your ideal EIR spot look like?\n\nStill just in discussions or have you found a landing spot for now?",
+    "lang": "en",
+    "in_reply_to_screen_name": "ronzakay",
+    "in_reply_to_user_id_str": "160795888"
+  }
+}

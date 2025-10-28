@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1642500076886020099"
+        ],
+        "editableUntil": "2023-04-02T12:41:49.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VoteMorris",
+          "indices": [
+            "2",
+            "13"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Major League Soccer",
+          "screen_name": "MLS",
+          "indices": [
+            "18",
+            "22"
+          ],
+          "id_str": "107146095",
+          "id": "107146095"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "1",
+    "id_str": "1642500076886020099",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1642500076886020099",
+    "created_at": "Sun Apr 02 12:11:49 +0000 2023",
+    "favorited": false,
+    "full_text": "I #VoteMorris for @MLS Player of the Matchday!",
+    "lang": "en"
+  }
+}

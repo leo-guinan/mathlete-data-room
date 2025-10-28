@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1338859066546769922"
+        ],
+        "editableUntil": "2020-12-15T15:50:50.920Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "PaulVincent Robot",
+          "screen_name": "RobotsPJs",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "2680191",
+          "id": "2680191"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1338859066546769922",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1338859066546769922",
+    "created_at": "Tue Dec 15 14:50:50 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @RobotsPJs: It's funny how Batman saying \"the F word\" is considered edgy. Back in my day a whip wielding lady dressed up in a leather ca…",
+    "lang": "en"
+  }
+}

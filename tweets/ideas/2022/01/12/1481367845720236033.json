@@ -1,0 +1,137 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1481367845720236033"
+        ],
+        "editableUntil": "2022-01-12T21:49:51.560Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/32G5HjHNZE",
+          "expanded_url": "https://x.com/dagorenouf/status/1481303594611757060",
+          "display_url": "x.com/dagorenouf/sta…",
+          "indices": [
+            "83",
+            "106"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1481367845720236033/photo/1",
+          "indices": [
+            "107",
+            "130"
+          ],
+          "url": "https://t.co/g5PrUz2Dag",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FI7gM7TXoAABd_E.jpg",
+          "id_str": "1481367840133455872",
+          "id": "1481367840133455872",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI7gM7TXoAABd_E.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "374",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "374",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "374",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/g5PrUz2Dag"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "130"
+    ],
+    "favorite_count": "4",
+    "id_str": "1481367845720236033",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1481367845720236033",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 12 20:49:51 +0000 2022",
+    "favorited": false,
+    "full_text": "I'm going to start marketing, ok? I get it! \n\nDon't need to attack me like this... https://t.co/32G5HjHNZE https://t.co/g5PrUz2Dag",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1481367845720236033/photo/1",
+          "indices": [
+            "107",
+            "130"
+          ],
+          "url": "https://t.co/g5PrUz2Dag",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FI7gM7TXoAABd_E.jpg",
+          "id_str": "1481367840133455872",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "187"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FI7gM7TXoAABd_E.mp4"
+              }
+            ]
+          },
+          "id": "1481367840133455872",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FI7gM7TXoAABd_E.jpg",
+          "sizes": {
+            "large": {
+              "w": "498",
+              "h": "374",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "374",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "374",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/g5PrUz2Dag"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1347632227388153859"
+        ],
+        "editableUntil": "2021-01-08T20:52:15.462Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eshan Shetty",
+          "screen_name": "eshan_shetty",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "784057265158516736",
+          "id": "784057265158516736"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ztExaa38ev",
+          "expanded_url": "http://revisionisthistory.com/episodes/35-the-standard-case",
+          "display_url": "revisionisthistory.com/episodes/35-th…",
+          "indices": [
+            "38",
+            "61"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "149"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1347631705402667008",
+    "id_str": "1347632227388153859",
+    "in_reply_to_user_id": "784057265158516736",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1347632227388153859",
+    "in_reply_to_status_id": "1347631705402667008",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jan 08 19:52:15 +0000 2021",
+    "favorited": false,
+    "full_text": "@eshan_shetty Recommend this podcast: https://t.co/ztExaa38ev\n\nTalks a lot about understanding the specifics vs applying blanket rules to everything.",
+    "lang": "en",
+    "in_reply_to_screen_name": "eshan_shetty",
+    "in_reply_to_user_id_str": "784057265158516736"
+  }
+}

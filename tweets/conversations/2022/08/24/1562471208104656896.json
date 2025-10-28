@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562471208104656896"
+        ],
+        "editableUntil": "2022-08-24T16:35:39.980Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Junod",
+          "screen_name": "JennJunod",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1343768871078006785",
+          "id": "1343768871078006785"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fE9rX3TTnw",
+          "expanded_url": "https://x.com/i/spaces/1ynJOZMrzLwGR",
+          "display_url": "x.com/i/spaces/1ynJO…",
+          "indices": [
+            "15",
+            "38"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "38"
+    ],
+    "favorite_count": "0",
+    "id_str": "1562471208104656896",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562471208104656896",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 24 16:05:39 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @JennJunod: https://t.co/fE9rX3TTnw",
+    "lang": "zxx"
+  }
+}

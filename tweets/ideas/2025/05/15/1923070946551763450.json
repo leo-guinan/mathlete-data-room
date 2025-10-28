@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923070946551763450"
+        ],
+        "editableUntil": "2025-05-15T18:40:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/e9mZol4qVo",
+          "expanded_url": "https://x.com/workflowsauce/status/1923059062813397285",
+          "display_url": "x.com/workflowsauce/…",
+          "indices": [
+            "95",
+            "118"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "118"
+    ],
+    "favorite_count": "3",
+    "id_str": "1923070946551763450",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923070946551763450",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 15 17:40:17 +0000 2025",
+    "favorited": false,
+    "full_text": "My research shows that this is a good way to accelerate good timelines and slow down bad ones. https://t.co/e9mZol4qVo",
+    "lang": "en"
+  }
+}

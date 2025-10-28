@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1869839357953147244"
+        ],
+        "editableUntil": "2024-12-19T21:16:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lukas Tassanyi",
+          "screen_name": "vuapo_ai",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1706499553632100352",
+          "id": "1706499553632100352"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1869822992144052386",
+    "id_str": "1869839357953147244",
+    "in_reply_to_user_id": "1706499553632100352",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1869839357953147244",
+    "in_reply_to_status_id": "1869822992144052386",
+    "created_at": "Thu Dec 19 20:16:57 +0000 2024",
+    "favorited": false,
+    "full_text": "@vuapo_ai They are usually within the frames of the official rules. I think the best way to think of it is the separation between rules and norms, where norms are observed traditions that are not explicitly stated.\n\nNorms are designed to favor the existing power structure. They want the…",
+    "lang": "en",
+    "in_reply_to_screen_name": "vuapo_ai",
+    "in_reply_to_user_id_str": "1706499553632100352"
+  }
+}

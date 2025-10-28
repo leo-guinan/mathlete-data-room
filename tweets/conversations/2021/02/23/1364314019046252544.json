@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1364314019046252544"
+        ],
+        "editableUntil": "2021-02-23T21:39:44.526Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brendon Lucas",
+          "screen_name": "bsost_Brendon",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "12165102",
+          "id": "12165102"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Au9k6Zz0eI",
+          "expanded_url": "https://x.com/leo_guinan/status/1364312561861201923?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "42",
+            "65"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "65"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1364313548504133636",
+    "id_str": "1364314019046252544",
+    "in_reply_to_user_id": "12165102",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1364314019046252544",
+    "in_reply_to_status_id": "1364313548504133636",
+    "possibly_sensitive": false,
+    "created_at": "Tue Feb 23 20:39:44 +0000 2021",
+    "favorited": false,
+    "full_text": "@bsost_Brendon I had the same thought. 😀\n\nhttps://t.co/Au9k6Zz0eI",
+    "lang": "en",
+    "in_reply_to_screen_name": "bsost_Brendon",
+    "in_reply_to_user_id_str": "12165102"
+  }
+}

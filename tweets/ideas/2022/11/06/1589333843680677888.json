@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1589333843680677888"
+        ],
+        "editableUntil": "2022-11-06T19:38:11.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "242"
+    ],
+    "favorite_count": "0",
+    "id_str": "1589333843680677888",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1589333843680677888",
+    "created_at": "Sun Nov 06 19:08:11 +0000 2022",
+    "favorited": false,
+    "full_text": "Following up on my little thread earlier, I'm thinking about what algorithms look like to the individual.\n\nBreaking it down into first principles.\n\nFirst up: the algorithm needs to accomplish something. It's got to solve some sort of problem.",
+    "lang": "en"
+  }
+}

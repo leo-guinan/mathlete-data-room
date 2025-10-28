@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509560452858224642"
+        ],
+        "editableUntil": "2022-03-31T16:57:12.895Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eric Melchor",
+          "screen_name": "Melchor_Eric",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "186882088",
+          "id": "186882088"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LXIOfSU9ps",
+          "expanded_url": "https://calendly.com/leo_guinan/coffee-chat",
+          "display_url": "calendly.com/leo_guinan/cof…",
+          "indices": [
+            "156",
+            "179"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "179"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1509097577932808194",
+    "id_str": "1509560452858224642",
+    "in_reply_to_user_id": "186882088",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509560452858224642",
+    "in_reply_to_status_id": "1509097577932808194",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 31 15:57:12 +0000 2022",
+    "favorited": false,
+    "full_text": "@Melchor_Eric Absolutely! Here's a calendar you can use. If those times don't work or you want to chat earlier than you can find a spot, just let me know!\n\nhttps://t.co/LXIOfSU9ps",
+    "lang": "en",
+    "in_reply_to_screen_name": "Melchor_Eric",
+    "in_reply_to_user_id_str": "186882088"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1907900476605034606"
+        ],
+        "editableUntil": "2025-04-03T21:58:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "signüll",
+          "screen_name": "signulll",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1717671858521194496",
+          "id": "1717671858521194496"
+        },
+        {
+          "name": "anu",
+          "screen_name": "anuatluru",
+          "indices": [
+            "10",
+            "20"
+          ],
+          "id_str": "2518563752",
+          "id": "2518563752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "192"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1907899076441444536",
+    "id_str": "1907900476605034606",
+    "in_reply_to_user_id": "1717671858521194496",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1907900476605034606",
+    "in_reply_to_status_id": "1907899076441444536",
+    "created_at": "Thu Apr 03 20:58:15 +0000 2025",
+    "favorited": false,
+    "full_text": "@signulll @anuatluru everyone who is paying attention. In a world of infinite intelligence, there are two predominant moats:\n1. Raw information\n2. Live analysis\n\nEverything else is downstream.",
+    "lang": "en",
+    "in_reply_to_screen_name": "signulll",
+    "in_reply_to_user_id_str": "1717671858521194496"
+  }
+}

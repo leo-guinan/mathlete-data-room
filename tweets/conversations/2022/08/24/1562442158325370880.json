@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562442158325370880"
+        ],
+        "editableUntil": "2022-08-24T14:40:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tom Finn",
+          "screen_name": "OnlyLearnOnce",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1218222851511201792",
+          "id": "1218222851511201792"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z30IUM4mLH",
+          "expanded_url": "https://x.com/leo_guinan/status/1562442058954342400?s=20&t=ivg1KcbG2oenbw5mgtjbXQ",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "27",
+            "50"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1562246855727222784",
+    "id_str": "1562442158325370880",
+    "in_reply_to_user_id": "1218222851511201792",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562442158325370880",
+    "in_reply_to_status_id": "1562246855727222784",
+    "possibly_sensitive": false,
+    "created_at": "Wed Aug 24 14:10:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@OnlyLearnOnce And done! \n\nhttps://t.co/Z30IUM4mLH",
+    "lang": "en",
+    "in_reply_to_screen_name": "OnlyLearnOnce",
+    "in_reply_to_user_id_str": "1218222851511201792"
+  }
+}

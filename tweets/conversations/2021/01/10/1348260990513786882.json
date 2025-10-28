@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1348260990513786882"
+        ],
+        "editableUntil": "2021-01-10T14:30:44.273Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "RedditCFB",
+          "screen_name": "RedditCFB",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "242143073",
+          "id": "242143073"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "0",
+    "id_str": "1348260990513786882",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1348260990513786882",
+    "created_at": "Sun Jan 10 13:30:44 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @RedditCFB: Tom Brady's secret is that he stole the life force of Michigan Football and it sustains him indefinitely.",
+    "lang": "en"
+  }
+}

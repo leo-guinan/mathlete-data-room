@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1941187882892526028"
+        ],
+        "editableUntil": "2025-07-04T18:30:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "gfodor.id",
+          "screen_name": "gfodor",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "21245713",
+          "id": "21245713"
+        },
+        {
+          "name": "xjdr",
+          "screen_name": "_xjdr",
+          "indices": [
+            "8",
+            "14"
+          ],
+          "id_str": "1731404872871006208",
+          "id": "1731404872871006208"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1941187749366919654",
+    "id_str": "1941187882892526028",
+    "in_reply_to_user_id": "21245713",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1941187882892526028",
+    "in_reply_to_status_id": "1941187749366919654",
+    "created_at": "Fri Jul 04 17:30:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@gfodor @_xjdr actually the networks are.",
+    "lang": "en",
+    "in_reply_to_screen_name": "gfodor",
+    "in_reply_to_user_id_str": "21245713"
+  }
+}

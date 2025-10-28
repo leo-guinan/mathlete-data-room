@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1768087599518744919"
+        ],
+        "editableUntil": "2024-03-14T02:31:47.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rohan Sood",
+          "screen_name": "rohan_sood15",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "63052642",
+          "id": "63052642"
+        },
+        {
+          "name": "@levelsio",
+          "screen_name": "levelsio",
+          "indices": [
+            "14",
+            "23"
+          ],
+          "id_str": "1577241403",
+          "id": "1577241403"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "285"
+    ],
+    "favorite_count": "6",
+    "in_reply_to_status_id_str": "1768081737031299202",
+    "id_str": "1768087599518744919",
+    "in_reply_to_user_id": "63052642",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1768087599518744919",
+    "in_reply_to_status_id": "1768081737031299202",
+    "created_at": "Thu Mar 14 01:31:47 +0000 2024",
+    "favorited": false,
+    "full_text": "@rohan_sood15 @levelsio Yes, but the knowledge that goes into the building of that software is typically provided by way more than just software engineers.\n\nThe engineers are simply the ones who record that knowledge in specific ways.\n\nIt's a complex math problem so we simplify things",
+    "lang": "en",
+    "in_reply_to_screen_name": "rohan_sood15",
+    "in_reply_to_user_id_str": "63052642"
+  }
+}

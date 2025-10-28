@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1553230174996467712"
+        ],
+        "editableUntil": "2022-07-30T04:35:05.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/MQM206MPt7",
+          "expanded_url": "https://x.com/Jason/status/1553172802961780736",
+          "display_url": "x.com/Jason/status/1…",
+          "indices": [
+            "60",
+            "83"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "83"
+    ],
+    "favorite_count": "0",
+    "id_str": "1553230174996467712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1553230174996467712",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jul 30 04:05:05 +0000 2022",
+    "favorited": false,
+    "full_text": "Yes. Yes it was. \n\nBut determined to end it on a high note. https://t.co/MQM206MPt7",
+    "lang": "en"
+  }
+}

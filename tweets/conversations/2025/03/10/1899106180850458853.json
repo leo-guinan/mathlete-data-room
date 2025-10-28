@@ -1,0 +1,77 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899106180850458853"
+        ],
+        "editableUntil": "2025-03-10T15:32:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alexis Ohanian 🗽",
+          "screen_name": "alexisohanian",
+          "indices": [
+            "4",
+            "18"
+          ],
+          "id_str": "811350",
+          "id": "811350"
+        },
+        {
+          "name": "TBPN",
+          "screen_name": "tbpn",
+          "indices": [
+            "44",
+            "49"
+          ],
+          "id_str": "1838288550569349120",
+          "id": "1838288550569349120"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "97",
+            "111"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/pqFmy2cfpu",
+          "expanded_url": "http://maketheinternetweirdagain.com",
+          "display_url": "maketheinternetweirdagain.com",
+          "indices": [
+            "150",
+            "173"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "174"
+    ],
+    "favorite_count": "0",
+    "id_str": "1899106180850458853",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1899106180850458853",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 10 14:32:51 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey @alexisohanian, just listened to you on @tbpn.\n\nYou were talking about code as content? Meet @glitchishuman.  \n\nWould love to collab on Digg with https://t.co/pqFmy2cfpu.",
+    "lang": "en"
+  }
+}

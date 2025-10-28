@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1632754258104795136"
+        ],
+        "editableUntil": "2023-03-06T15:15:24.896Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "adhd",
+          "indices": [
+            "47",
+            "52"
+          ]
+        },
+        {
+          "text": "Neurodivergent",
+          "indices": [
+            "57",
+            "72"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "102"
+    ],
+    "favorite_count": "0",
+    "id_str": "1632754258104795136",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1632754258104795136",
+    "created_at": "Mon Mar 06 14:45:24 +0000 2023",
+    "favorited": false,
+    "full_text": "RT @LobowSpark: Always great time hanging with #adhd and #Neurodivergent friends !! Love this group!!!",
+    "lang": "en"
+  }
+}

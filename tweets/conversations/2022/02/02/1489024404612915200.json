@@ -1,0 +1,132 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1489024404612915200"
+        ],
+        "editableUntil": "2022-02-03T00:54:17.452Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1489024404612915200/photo/1",
+          "indices": [
+            "134",
+            "157"
+          ],
+          "url": "https://t.co/Gz94a1z0na",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FKoTzQkWYAM4DbR.jpg",
+          "id_str": "1489024398141054979",
+          "id": "1489024398141054979",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FKoTzQkWYAM4DbR.jpg",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "288",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "288",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "288",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/Gz94a1z0na"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "157"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1489024395108667394",
+    "id_str": "1489024404612915200",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1489024404612915200",
+    "in_reply_to_status_id": "1489024395108667394",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 02 23:54:17 +0000 2022",
+    "favorited": false,
+    "full_text": "I'm making it easier on myself by telling myself that the feature I'm adding is a marketing feature.\n\nSo I still get to add features! https://t.co/Gz94a1z0na",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1489024404612915200/photo/1",
+          "indices": [
+            "134",
+            "157"
+          ],
+          "url": "https://t.co/Gz94a1z0na",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FKoTzQkWYAM4DbR.jpg",
+          "id_str": "1489024398141054979",
+          "video_info": {
+            "aspect_ratio": [
+              "5",
+              "3"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FKoTzQkWYAM4DbR.mp4"
+              }
+            ]
+          },
+          "id": "1489024398141054979",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FKoTzQkWYAM4DbR.jpg",
+          "sizes": {
+            "medium": {
+              "w": "480",
+              "h": "288",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "480",
+              "h": "288",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "480",
+              "h": "288",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/Gz94a1z0na"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1551575654688251905"
+        ],
+        "editableUntil": "2022-07-25T15:00:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Patrice Gorissen",
+          "screen_name": "patricegorissen",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "57920691",
+          "id": "57920691"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "53"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1551568083130765312",
+    "id_str": "1551575654688251905",
+    "in_reply_to_user_id": "57920691",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1551575654688251905",
+    "in_reply_to_status_id": "1551568083130765312",
+    "created_at": "Mon Jul 25 14:30:37 +0000 2022",
+    "favorited": false,
+    "full_text": "@patricegorissen Was great chatting with you Patrice!",
+    "lang": "en",
+    "in_reply_to_screen_name": "patricegorissen",
+    "in_reply_to_user_id_str": "57920691"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1385589718130253826"
+        ],
+        "editableUntil": "2021-04-23T14:41:46.471Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kenneth Cassel",
+          "screen_name": "KennethCassel",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1319269656264409088",
+          "id": "1319269656264409088"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1385589718130253826",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1385589718130253826",
+    "created_at": "Fri Apr 23 13:41:46 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @KennethCassel: Having devs as customers is so badass. \n\nIt’s like a superpower. \n\nThey’re incredibly helpful with big reports, they hav…",
+    "lang": "en"
+  }
+}

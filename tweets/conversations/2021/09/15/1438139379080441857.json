@@ -1,0 +1,99 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1438139379080441857"
+        ],
+        "editableUntil": "2021-09-15T14:55:21.967Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KickChildhoodCancer",
+          "indices": [
+            "61",
+            "81"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "The Cooligans",
+          "screen_name": "SoccerCooligans",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "3057167124",
+          "id": "3057167124"
+        },
+        {
+          "name": "The Crew",
+          "screen_name": "ColumbusCrew",
+          "indices": [
+            "17",
+            "30"
+          ],
+          "id_str": "16960789",
+          "id": "16960789"
+        },
+        {
+          "name": "Major League Soccer",
+          "screen_name": "MLS",
+          "indices": [
+            "31",
+            "35"
+          ],
+          "id_str": "107146095",
+          "id": "107146095"
+        },
+        {
+          "name": "Children’s Oncology Group",
+          "screen_name": "COGorg",
+          "indices": [
+            "36",
+            "43"
+          ],
+          "id_str": "995103858123669504",
+          "id": "995103858123669504"
+        },
+        {
+          "name": "Continental Tire",
+          "screen_name": "continentaltire",
+          "indices": [
+            "44",
+            "60"
+          ],
+          "id_str": "30981244",
+          "id": "30981244"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1438136240394620939",
+    "id_str": "1438139379080441857",
+    "in_reply_to_user_id": "3057167124",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1438139379080441857",
+    "in_reply_to_status_id": "1438136240394620939",
+    "created_at": "Wed Sep 15 13:55:21 +0000 2021",
+    "favorited": false,
+    "full_text": "@SoccerCooligans @ColumbusCrew @MLS @COGorg @continentaltire #KickChildhoodCancer",
+    "lang": "qme",
+    "in_reply_to_screen_name": "SoccerCooligans",
+    "in_reply_to_user_id_str": "3057167124"
+  }
+}

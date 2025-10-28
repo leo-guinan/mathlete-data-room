@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1470010890737139717"
+        ],
+        "editableUntil": "2021-12-12T13:41:22.490Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Benjamin C.E.O. Greeley",
+          "screen_name": "benjamingreeley",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1277959050727239680",
+          "id": "1277959050727239680"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1470007257081466882",
+    "id_str": "1470010890737139717",
+    "in_reply_to_user_id": "1277959050727239680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1470010890737139717",
+    "in_reply_to_status_id": "1470007257081466882",
+    "created_at": "Sun Dec 12 12:41:22 +0000 2021",
+    "favorited": false,
+    "full_text": "@benjamingreeley Ive actually thought about playing around with a dynamic pricing model for my course. It's going to be pay what you want, but there's going to be a recommended price. \n\nI thought about making the recommended price algorithmically determined.",
+    "lang": "en",
+    "in_reply_to_screen_name": "benjamingreeley",
+    "in_reply_to_user_id_str": "1277959050727239680"
+  }
+}

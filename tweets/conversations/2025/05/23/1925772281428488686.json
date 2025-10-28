@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1925772281428488686"
+        ],
+        "editableUntil": "2025-05-23T05:34:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Data 💾",
+          "screen_name": "DataDeLaurier",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1720067960687960065",
+          "id": "1720067960687960065"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "56"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1925768126118912415",
+    "id_str": "1925772281428488686",
+    "in_reply_to_user_id": "1720067960687960065",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1925772281428488686",
+    "in_reply_to_status_id": "1925768126118912415",
+    "created_at": "Fri May 23 04:34:25 +0000 2025",
+    "favorited": false,
+    "full_text": "@DataDeLaurier I'll do that once my DMs work again, haha",
+    "lang": "en",
+    "in_reply_to_screen_name": "DataDeLaurier",
+    "in_reply_to_user_id_str": "1720067960687960065"
+  }
+}

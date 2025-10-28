@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1935504120225419306"
+        ],
+        "editableUntil": "2025-06-19T02:05:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1935504120225419306/photo/1",
+          "indices": [
+            "163",
+            "186"
+          ],
+          "url": "https://t.co/X53eTeCNVN",
+          "media_url": "http://pbs.twimg.com/media/GtxKj3jXoAAl-Es.jpg",
+          "id_str": "1935503919930646528",
+          "id": "1935503919930646528",
+          "media_url_https": "https://pbs.twimg.com/media/GtxKj3jXoAAl-Es.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "297",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1568",
+              "h": "388",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "168",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/X53eTeCNVN"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "186"
+    ],
+    "favorite_count": "5",
+    "id_str": "1935504120225419306",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1935504120225419306",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 19 01:05:16 +0000 2025",
+    "favorited": false,
+    "full_text": "New post about managing complexity for Indie Hackers. You have one job: protect your users from the complexity that builds up as you understand the problem space. https://t.co/X53eTeCNVN",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1935504120225419306/photo/1",
+          "indices": [
+            "163",
+            "186"
+          ],
+          "url": "https://t.co/X53eTeCNVN",
+          "media_url": "http://pbs.twimg.com/media/GtxKj3jXoAAl-Es.jpg",
+          "id_str": "1935503919930646528",
+          "id": "1935503919930646528",
+          "media_url_https": "https://pbs.twimg.com/media/GtxKj3jXoAAl-Es.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "297",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1568",
+              "h": "388",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "168",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/X53eTeCNVN"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1387377371158827009"
+        ],
+        "editableUntil": "2021-04-28T13:05:16.166Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tina Nayak",
+          "screen_name": "tinanayak23",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "14355086",
+          "id": "14355086"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "66"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1387364450966061060",
+    "id_str": "1387377371158827009",
+    "in_reply_to_user_id": "14355086",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1387377371158827009",
+    "in_reply_to_status_id": "1387364450966061060",
+    "created_at": "Wed Apr 28 12:05:16 +0000 2021",
+    "favorited": false,
+    "full_text": "@tinanayak23 Love these Tina! Thanks for putting them together! :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "tinanayak23",
+    "in_reply_to_user_id_str": "14355086"
+  }
+}

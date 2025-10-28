@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1849091346897768625"
+        ],
+        "editableUntil": "2024-10-23T15:11:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Monteleone",
+          "screen_name": "trivenge",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "108926202",
+          "id": "108926202"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "231"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1848907617831203068",
+    "id_str": "1849091346897768625",
+    "in_reply_to_user_id": "108926202",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1849091346897768625",
+    "in_reply_to_status_id": "1848907617831203068",
+    "created_at": "Wed Oct 23 14:11:46 +0000 2024",
+    "favorited": false,
+    "full_text": "@trivenge yeah, it's not necessarily something I would do personally, it was just something that occurred to me could be useful as people try to game existing systems with AI.\n\nThere's going to be a popup of \"certified\" data shops.",
+    "lang": "en",
+    "in_reply_to_screen_name": "trivenge",
+    "in_reply_to_user_id_str": "108926202"
+  }
+}

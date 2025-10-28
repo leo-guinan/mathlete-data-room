@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1519224358572601345"
+        ],
+        "editableUntil": "2022-04-27T08:58:07.564Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1519224358572601345",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1519224358572601345",
+    "created_at": "Wed Apr 27 07:58:07 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Yesterday was awesome. I had several really great conversations that are helping me figure out everything I need to do.\n\nIt…",
+    "lang": "en"
+  }
+}

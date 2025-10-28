@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1753163119940043057"
+        ],
+        "editableUntil": "2024-02-01T22:07:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "207"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1753162762002579662",
+    "id_str": "1753163119940043057",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1753163119940043057",
+    "in_reply_to_status_id": "1753162762002579662",
+    "created_at": "Thu Feb 01 21:07:14 +0000 2024",
+    "favorited": false,
+    "full_text": "@hellostartupla It's a really complex calculation because of how much it's possible to spend time learning and understanding. \n\nThere is so much incredibly valuable knowledge that the economy isn't tracking.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

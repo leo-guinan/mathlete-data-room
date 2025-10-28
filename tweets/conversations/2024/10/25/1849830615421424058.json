@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1849830615421424058"
+        ],
+        "editableUntil": "2024-10-25T16:09:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Michael Monteleone",
+          "screen_name": "trivenge",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "108926202",
+          "id": "108926202"
+        },
+        {
+          "name": "Jessyka Boatright",
+          "screen_name": "jessyka_boat",
+          "indices": [
+            "10",
+            "23"
+          ],
+          "id_str": "1400492097082327040",
+          "id": "1400492097082327040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1849829832336552049",
+    "id_str": "1849830615421424058",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1849830615421424058",
+    "in_reply_to_status_id": "1849829832336552049",
+    "created_at": "Fri Oct 25 15:09:21 +0000 2024",
+    "favorited": false,
+    "full_text": "@trivenge @jessyka_boat Actually had an idea for a similar one, where I was considering planting several people in a public setting to come up and ask me for autographs like I was someone famous, just to see if other people would come up and ask too.\n\nMay need to execute that at some point.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

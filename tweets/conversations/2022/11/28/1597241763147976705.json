@@ -1,0 +1,86 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1597241763147976705"
+        ],
+        "editableUntil": "2022-11-28T15:21:26.308Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Junod",
+          "screen_name": "JennJunod",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1343768871078006785",
+          "id": "1343768871078006785"
+        },
+        {
+          "name": "apidays Global",
+          "screen_name": "APIdaysGlobal",
+          "indices": [
+            "28",
+            "42"
+          ],
+          "id_str": "846276062",
+          "id": "846276062"
+        },
+        {
+          "name": "Nuxt Nation Conference",
+          "screen_name": "NuxtNation",
+          "indices": [
+            "48",
+            "59"
+          ],
+          "id_str": "1408426391146729477",
+          "id": "1408426391146729477"
+        },
+        {
+          "name": "Vue School",
+          "screen_name": "VueSchool_io",
+          "indices": [
+            "65",
+            "78"
+          ],
+          "id_str": "818452568267489280",
+          "id": "818452568267489280"
+        },
+        {
+          "name": "Denver API MeetUp",
+          "screen_name": "ApiDenver",
+          "indices": [
+            "96",
+            "106"
+          ],
+          "id_str": "1334519387546558465",
+          "id": "1334519387546558465"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "114"
+    ],
+    "favorite_count": "0",
+    "id_str": "1597241763147976705",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1597241763147976705",
+    "created_at": "Mon Nov 28 14:51:26 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @JennJunod: I've MC'd at @APIdaysGlobal  and @NuxtNation with @VueSchool_io \nCo-Organizer of @ApiDenver  Meetup",
+    "lang": "en"
+  }
+}

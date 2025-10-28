@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1328143870912307200"
+        ],
+        "editableUntil": "2020-11-16T02:12:29.202Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "The Hoarse Whisperer",
+          "screen_name": "TheRealHoarse",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "784575415457308672",
+          "id": "784575415457308672"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/TheRealHoarse/status/1328113925704085504/photo/1",
+          "source_status_id": "1328113925704085504",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/tHA1xeO28i",
+          "media_url": "http://pbs.twimg.com/media/Em5ok3zXIAA5G12.jpg",
+          "id_str": "1328113922784829440",
+          "source_user_id": "784575415457308672",
+          "id": "1328113922784829440",
+          "media_url_https": "https://pbs.twimg.com/media/Em5ok3zXIAA5G12.jpg",
+          "source_user_id_str": "784575415457308672",
+          "sizes": {
+            "large": {
+              "w": "827",
+              "h": "855",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "658",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "827",
+              "h": "855",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1328113925704085504",
+          "display_url": "pic.x.com/tHA1xeO28i"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "50"
+    ],
+    "favorite_count": "0",
+    "id_str": "1328143870912307200",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1328143870912307200",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 16 01:12:29 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @TheRealHoarse: Oh. My. https://t.co/tHA1xeO28i",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/TheRealHoarse/status/1328113925704085504/photo/1",
+          "source_status_id": "1328113925704085504",
+          "indices": [
+            "27",
+            "50"
+          ],
+          "url": "https://t.co/tHA1xeO28i",
+          "media_url": "http://pbs.twimg.com/media/Em5ok3zXIAA5G12.jpg",
+          "id_str": "1328113922784829440",
+          "source_user_id": "784575415457308672",
+          "id": "1328113922784829440",
+          "media_url_https": "https://pbs.twimg.com/media/Em5ok3zXIAA5G12.jpg",
+          "source_user_id_str": "784575415457308672",
+          "sizes": {
+            "large": {
+              "w": "827",
+              "h": "855",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "658",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "827",
+              "h": "855",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1328113925704085504",
+          "display_url": "pic.x.com/tHA1xeO28i"
+        }
+      ]
+    }
+  }
+}

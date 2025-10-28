@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1470192500921012234"
+        ],
+        "editableUntil": "2021-12-13T01:43:01.732Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "haps 🔅",
+          "screen_name": "hapsize",
+          "indices": [
+            "114",
+            "122"
+          ],
+          "id_str": "247572432",
+          "id": "247572432"
+        },
+        {
+          "name": "Blitz.js 2.0 ⚡️",
+          "screen_name": "blitz_js",
+          "indices": [
+            "164",
+            "173"
+          ],
+          "id_str": "1231437004941905921",
+          "id": "1231437004941905921"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0uz8QD7Z3V",
+          "expanded_url": "https://x.com/hapsize/status/1469120091862220803?t=nVTLKCS8DoawnFyVMoRTfw&s=19",
+          "display_url": "x.com/hapsize/status…",
+          "indices": [
+            "202",
+            "225"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "225"
+    ],
+    "favorite_count": "4",
+    "id_str": "1470192500921012234",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1470192500921012234",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 13 00:43:01 +0000 2021",
+    "favorited": false,
+    "full_text": "Released a new version of @feathercrm .\n\nIn this version: \n\nMore responsive UI. Thanks to this helpful tweet from @hapsize, I learned about optimistic updates, and @blitz_js of course made it simple. \n\nhttps://t.co/0uz8QD7Z3V",
+    "lang": "en"
+  }
+}

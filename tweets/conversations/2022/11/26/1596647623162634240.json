@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1596647623162634240"
+        ],
+        "editableUntil": "2022-11-27T00:00:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Terence Daniels",
+          "screen_name": "terencedaniels",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "291517460",
+          "id": "291517460"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1596041495399653378",
+    "id_str": "1596647623162634240",
+    "in_reply_to_user_id": "291517460",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1596647623162634240",
+    "in_reply_to_status_id": "1596041495399653378",
+    "created_at": "Sat Nov 26 23:30:32 +0000 2022",
+    "favorited": false,
+    "full_text": "@terencedaniels Excellent. Your bio came back with the following topics: Golf, startups, customer success, and Scaling.\n\nYour last 75 tweets have these topics:\n1.  productivity\n2.  World Cup\n3.  productivity\n4.  content marketing\n5.  hiring process\n6.  Golf apparel and gear",
+    "lang": "en",
+    "in_reply_to_screen_name": "terencedaniels",
+    "in_reply_to_user_id_str": "291517460"
+  }
+}

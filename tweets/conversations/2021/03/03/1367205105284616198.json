@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1367205105284616198"
+        ],
+        "editableUntil": "2021-03-03T21:07:53.199Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Monterey Bay Aquarium",
+          "screen_name": "MontereyAq",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "14750983",
+          "id": "14750983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1367205105284616198",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1367205105284616198",
+    "created_at": "Wed Mar 03 20:07:53 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @MontereyAq: realizing that squid have an ink sac and an internal shell called a pen so we’re living just a few short evolutionary steps…",
+    "lang": "en"
+  }
+}

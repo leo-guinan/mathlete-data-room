@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1358404059741487104"
+        ],
+        "editableUntil": "2021-02-07T14:15:40.426Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Franzou",
+          "screen_name": "ThisIsFranzou",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "1244325876088680452",
+          "id": "1244325876088680452"
+        },
+        {
+          "name": "Morgan Housel",
+          "screen_name": "morganhousel",
+          "indices": [
+            "112",
+            "125"
+          ],
+          "id_str": "284278132",
+          "id": "284278132"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1358404059741487104",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1358404059741487104",
+    "created_at": "Sun Feb 07 13:15:40 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @ThisIsFranzou: The most important part of every plan is planning on your plan not going according to plan - @morganhousel\n\nBusiness Pla…",
+    "lang": "en"
+  }
+}

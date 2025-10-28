@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1518982055446683650"
+        ],
+        "editableUntil": "2022-04-26T16:25:17.997Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ed",
+          "screen_name": "hellostartupla",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "3463490114",
+          "id": "3463490114"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1518977866284765184",
+    "id_str": "1518982055446683650",
+    "in_reply_to_user_id": "3463490114",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1518982055446683650",
+    "in_reply_to_status_id": "1518977866284765184",
+    "created_at": "Tue Apr 26 15:55:17 +0000 2022",
+    "favorited": false,
+    "full_text": "@hellostartupla Wow, that was incredible. It's so easy to be led down really bad paths when you  are left to your own devices.\n\nAnd the part about success being the warmest place to hide really resonated with me.",
+    "lang": "en",
+    "in_reply_to_screen_name": "hellostartupla",
+    "in_reply_to_user_id_str": "3463490114"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1604130853054996480"
+        ],
+        "editableUntil": "2022-12-17T15:36:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "2",
+    "id_str": "1604130853054996480",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1604130853054996480",
+    "created_at": "Sat Dec 17 15:06:13 +0000 2022",
+    "favorited": false,
+    "full_text": "Setting up an email workflow with N8N today. \n\nAs I was working on my newest tool, realized that an easy interface to use for it was email. Simply take in the email, process it, and send one back. Should take less than 5 minutes to process.\n\nHere's the flow I used:",
+    "lang": "en"
+  }
+}

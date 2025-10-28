@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346900985193631745"
+        ],
+        "editableUntil": "2021-01-06T20:26:33.737Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jorge Ortiz",
+          "screen_name": "jorgeiortiz4",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1086038268276281344",
+          "id": "1086038268276281344"
+        },
+        {
+          "name": "Janine Sickmeyer",
+          "screen_name": "myfriendjanine",
+          "indices": [
+            "14",
+            "29"
+          ],
+          "id_str": "14766188",
+          "id": "14766188"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "247"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1346892233577009152",
+    "id_str": "1346900985193631745",
+    "in_reply_to_user_id": "1086038268276281344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346900985193631745",
+    "in_reply_to_status_id": "1346892233577009152",
+    "created_at": "Wed Jan 06 19:26:33 +0000 2021",
+    "favorited": false,
+    "full_text": "@jorgeiortiz4 @myfriendjanine I have a decade of experience in a variety of tech stacks and domains. Would be happy to take a look and at least offer some advice. Then if you want, I would be willing to consult for a couple hours a week as needed.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jorgeiortiz4",
+    "in_reply_to_user_id_str": "1086038268276281344"
+  }
+}

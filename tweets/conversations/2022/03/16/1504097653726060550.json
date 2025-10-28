@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1504097653726060550"
+        ],
+        "editableUntil": "2022-03-16T15:10:00.088Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "271"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1504096642189991936",
+    "id_str": "1504097653726060550",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1504097653726060550",
+    "in_reply_to_status_id": "1504096642189991936",
+    "created_at": "Wed Mar 16 14:10:00 +0000 2022",
+    "favorited": false,
+    "full_text": "@NotechAna It's an evolving thing. I actually have plans to build up what is essentially an online university, based on everything I've studied. \n\nBut starting with the social network engineering course/community. I think that's a topic that is needed the most right now.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

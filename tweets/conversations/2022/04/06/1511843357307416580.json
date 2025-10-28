@@ -1,0 +1,76 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1511843357307416580"
+        ],
+        "editableUntil": "2022-04-07T00:08:39.730Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anthony Castrio",
+          "screen_name": "AnthonyCastrio",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "1309141400",
+          "id": "1309141400"
+        },
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "57",
+            "67"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        },
+        {
+          "name": "Bhanu Teja P",
+          "screen_name": "pbteja1998",
+          "indices": [
+            "74",
+            "85"
+          ],
+          "id_str": "795073342558457857",
+          "id": "795073342558457857"
+        },
+        {
+          "name": "Wizen Guides",
+          "screen_name": "WizenGuides",
+          "indices": [
+            "89",
+            "101"
+          ],
+          "id_str": "1495551813046652932",
+          "id": "1495551813046652932"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "0",
+    "id_str": "1511843357307416580",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1511843357307416580",
+    "created_at": "Wed Apr 06 23:08:39 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @AnthonyCastrio: Launching on Product Hunt today with @NotechAna &amp; @pbteja1998 🥳\n\n@WizenGuides is the missing manual for building your b…",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1402958402784014338"
+        ],
+        "editableUntil": "2021-06-10T12:58:43.587Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/iit94rbspf",
+          "expanded_url": "https://x.com/tomosman/status/1402953657746956290",
+          "display_url": "x.com/tomosman/statu…",
+          "indices": [
+            "266",
+            "289"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "2",
+    "id_str": "1402958402784014338",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1402958402784014338",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 10 11:58:43 +0000 2021",
+    "favorited": false,
+    "full_text": "Exactly. Right now, one of the best things we can do is work on developing apps that are backed by blockchain but don't require that users know that. It means we end up with some inefficiencies and challenges, but we give people an easier onramp to crypto this way. https://t.co/iit94rbspf",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334593445575471123"
+        ],
+        "editableUntil": "2020-12-03T21:20:47.629Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Cam",
+          "screen_name": "drsepah",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1421542561026506752",
+          "id": "1421542561026506752"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "281"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1334592351256281089",
+    "id_str": "1334593445575471123",
+    "in_reply_to_user_id": "1857901044",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334593445575471123",
+    "in_reply_to_status_id": "1334592351256281089",
+    "created_at": "Thu Dec 03 20:20:47 +0000 2020",
+    "favorited": false,
+    "full_text": "@DrSepah I believe this to be a distinctly American trait. I am working on a blog about it, but essentially what I see is an arrogance that we know better about everything, regardless of another person's expertise. I have caught myself doing it. It leads to some bizarre behaviors.",
+    "lang": "en",
+    "in_reply_to_screen_name": "DrCamRx",
+    "in_reply_to_user_id_str": "1857901044"
+  }
+}

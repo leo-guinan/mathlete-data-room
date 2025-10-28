@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1371169810160160768"
+        ],
+        "editableUntil": "2021-03-14T19:42:12.502Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Daniel Frost",
+          "screen_name": "dalexfrost",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "729056923",
+          "id": "729056923"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "232"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1371167716933967874",
+    "id_str": "1371169810160160768",
+    "in_reply_to_user_id": "729056923",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1371169810160160768",
+    "in_reply_to_status_id": "1371167716933967874",
+    "created_at": "Sun Mar 14 18:42:12 +0000 2021",
+    "favorited": false,
+    "full_text": "@dalexfrost Exactly. I am just starting to realize the power of storytelling. That was the focus of a bootcamp I just finished. Condensing everything into a 3 minute pitch. Having to compress it like that gives you a lot of clarity.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dalexfrost",
+    "in_reply_to_user_id_str": "729056923"
+  }
+}

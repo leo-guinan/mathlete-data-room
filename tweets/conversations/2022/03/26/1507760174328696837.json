@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1507760174328696837"
+        ],
+        "editableUntil": "2022-03-26T17:43:33.046Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Visakan Veerasamy",
+          "screen_name": "visakanv",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "16884623",
+          "id": "16884623"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1507758671379369989",
+    "id_str": "1507760174328696837",
+    "in_reply_to_user_id": "16884623",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1507760174328696837",
+    "in_reply_to_status_id": "1507758671379369989",
+    "created_at": "Sat Mar 26 16:43:33 +0000 2022",
+    "favorited": false,
+    "full_text": "@visakanv Have you thought about how information impacts the evolution of social networks?\n\nThat's what I've been focusing on. Because whoever controls the information almost always behaves differently from those who don't. \n\nCreates squeeze effects in networks.",
+    "lang": "en",
+    "in_reply_to_screen_name": "visakanv",
+    "in_reply_to_user_id_str": "16884623"
+  }
+}

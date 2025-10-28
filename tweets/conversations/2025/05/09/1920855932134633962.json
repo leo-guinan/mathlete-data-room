@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1920855932134633962"
+        ],
+        "editableUntil": "2025-05-09T15:58:36.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "Onion - ephemeral edgelord (65 of 100 draw things)",
+          "screen_name": "franki3stone",
+          "indices": [
+            "17",
+            "30"
+          ],
+          "id_str": "1351153127215525891",
+          "id": "1351153127215525891"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1920853284631257364",
+    "id_str": "1920855932134633962",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1920855932134633962",
+    "in_reply_to_status_id": "1920853284631257364",
+    "created_at": "Fri May 09 14:58:36 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic @franki3stone I believe there's a way to do this by measuring amount learned per iteration.\n\nIf something is fun, we absorb information much more easily, because we aren't actively trying to absorb information.\n\nIt's the combo acquisition of knowing+kenning",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

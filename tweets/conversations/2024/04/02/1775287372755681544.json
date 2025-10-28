@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1775287372755681544"
+        ],
+        "editableUntil": "2024-04-02T23:21:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "0",
+            "7"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        },
+        {
+          "name": "Ellen Fishbein",
+          "screen_name": "EllenRhymes",
+          "indices": [
+            "43",
+            "55"
+          ],
+          "id_str": "3016316704",
+          "id": "3016316704"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/l7HSUNhoyJ",
+          "expanded_url": "http://Altamira.studio",
+          "display_url": "Altamira.studio",
+          "indices": [
+            "90",
+            "113"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "113"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1775280013006569713",
+    "id_str": "1775287372755681544",
+    "in_reply_to_user_id": "5614412",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1775287372755681544",
+    "in_reply_to_status_id": "1775280013006569713",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 02 22:21:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@mykola Should definitely have a chat with @EllenRhymes + check out what she's doing with https://t.co/l7HSUNhoyJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "mykola",
+    "in_reply_to_user_id_str": "5614412"
+  }
+}

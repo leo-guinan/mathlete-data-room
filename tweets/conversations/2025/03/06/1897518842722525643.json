@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1897518842722525643"
+        ],
+        "editableUntil": "2025-03-06T06:25:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/H5nRJC1E9P",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/Research%20Statements/Make%20the%20Internet%20Weird%20Again.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "142",
+            "165"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "165"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1897477036106555842",
+    "id_str": "1897518842722525643",
+    "in_reply_to_user_id": "1680757426889342977",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1897518842722525643",
+    "in_reply_to_status_id": "1897477036106555842",
+    "possibly_sensitive": false,
+    "created_at": "Thu Mar 06 05:25:20 +0000 2025",
+    "favorited": false,
+    "full_text": "@DefenderOfBasic Whoops, that's a good reminder, thanks.\n\nHere's a research statement that should be out there before things really get wild:\nhttps://t.co/H5nRJC1E9P",
+    "lang": "en",
+    "in_reply_to_screen_name": "DefenderOfBasic",
+    "in_reply_to_user_id_str": "1680757426889342977"
+  }
+}

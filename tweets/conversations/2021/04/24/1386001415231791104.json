@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1386001415231791104"
+        ],
+        "editableUntil": "2021-04-24T17:57:42.709Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LHYYEw8VYU",
+          "expanded_url": "https://snipcart.com/blog/react-ecommerce-tutorial",
+          "display_url": "snipcart.com/blog/react-eco…",
+          "indices": [
+            "214",
+            "237"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "237"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1386001413768192000",
+    "id_str": "1386001415231791104",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1386001415231791104",
+    "in_reply_to_status_id": "1386001413768192000",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 24 16:57:42 +0000 2021",
+    "favorited": false,
+    "full_text": "I found a tutorial to follow that showed an incredibly simple build using Snipcart. I've never used Snipcart before, but getting a basic setup going was almost too easy.  Here's the tutorial for anyone interested: https://t.co/LHYYEw8VYU",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

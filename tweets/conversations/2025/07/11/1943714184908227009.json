@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1943714184908227009"
+        ],
+        "editableUntil": "2025-07-11T17:49:08.802Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Lisan al Gaib",
+          "screen_name": "scaling01",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1825243643529027584",
+          "id": "1825243643529027584"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1943714184908227009",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1943714184908227009",
+    "created_at": "Fri Jul 11 16:49:08 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @scaling01: And that kids, is why we don't do drugs. \n\nYou might not like it, but Grok-4 didn't get us any closer to AGI or ASI than o3.…",
+    "lang": "en"
+  }
+}

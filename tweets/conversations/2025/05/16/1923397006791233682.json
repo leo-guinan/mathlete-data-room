@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1923397006791233682"
+        ],
+        "editableUntil": "2025-05-16T16:15:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "judah",
+          "screen_name": "joodalooped",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1629110072994594816",
+          "id": "1629110072994594816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "175"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1923335429694087184",
+    "id_str": "1923397006791233682",
+    "in_reply_to_user_id": "1629110072994594816",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1923397006791233682",
+    "in_reply_to_status_id": "1923335429694087184",
+    "created_at": "Fri May 16 15:15:56 +0000 2025",
+    "favorited": false,
+    "full_text": "@joodalooped It’s not that everybody is stupid. \n\nIt’s that our networks are stupid and teach people to repeat stupid things. \n\nWe need smarter networks to get smarter people.",
+    "lang": "en",
+    "in_reply_to_screen_name": "joodalooped",
+    "in_reply_to_user_id_str": "1629110072994594816"
+  }
+}

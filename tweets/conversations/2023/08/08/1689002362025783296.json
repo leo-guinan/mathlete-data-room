@@ -1,0 +1,145 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1689002362025783296"
+        ],
+        "editableUntil": "2023-08-08T20:55:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "27",
+            "43"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "218",
+            "230"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjoF1",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "159",
+            "182"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1689002362025783296/photo/1",
+          "indices": [
+            "231",
+            "254"
+          ],
+          "url": "https://t.co/l0NKWIfHtl",
+          "media_url": "http://pbs.twimg.com/media/F3CKQFLWQAA0j4D.jpg",
+          "id_str": "1689001869136248832",
+          "id": "1689001869136248832",
+          "media_url_https": "https://pbs.twimg.com/media/F3CKQFLWQAA0j4D.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "821",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1836",
+              "h": "1256",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "465",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/l0NKWIfHtl"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "254"
+    ],
+    "favorite_count": "4",
+    "id_str": "1689002362025783296",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1689002362025783296",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 08 19:55:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Ok, let's kickstart things @_nightsweekends!\n\nEpisode 1: The Idea\n\nIs this clear enough for you? Compelling enough?\n\nWant to try it out?\n\n(it's already live @ https://t.co/KphsBfjoF1, let me know what you think!)\n\nCC: @_buildspace https://t.co/l0NKWIfHtl",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1689002362025783296/photo/1",
+          "indices": [
+            "231",
+            "254"
+          ],
+          "url": "https://t.co/l0NKWIfHtl",
+          "media_url": "http://pbs.twimg.com/media/F3CKQFLWQAA0j4D.jpg",
+          "id_str": "1689001869136248832",
+          "id": "1689001869136248832",
+          "media_url_https": "https://pbs.twimg.com/media/F3CKQFLWQAA0j4D.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "821",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1836",
+              "h": "1256",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "465",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/l0NKWIfHtl"
+        }
+      ]
+    }
+  }
+}

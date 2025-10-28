@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1489001963379433473"
+        ],
+        "editableUntil": "2022-02-02T23:25:07.045Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/cTjS9WXEIs",
+          "expanded_url": "https://vm.tiktok.com/TTPdkNrchQ/",
+          "display_url": "vm.tiktok.com/TTPdkNrchQ/",
+          "indices": [
+            "7",
+            "30"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "30"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1489001736916373513",
+    "id_str": "1489001963379433473",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1489001963379433473",
+    "in_reply_to_status_id": "1489001736916373513",
+    "possibly_sensitive": false,
+    "created_at": "Wed Feb 02 22:25:07 +0000 2022",
+    "favorited": false,
+    "full_text": "Day 1: https://t.co/cTjS9WXEIs",
+    "lang": "und",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

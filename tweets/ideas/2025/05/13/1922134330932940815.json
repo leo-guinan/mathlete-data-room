@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1922134330932940815"
+        ],
+        "editableUntil": "2025-05-13T04:38:30.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922134330932940815/photo/1",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/7A7IGcH1SQ",
+          "media_url": "http://pbs.twimg.com/media/GqzK1VcXsAAzYcY.png",
+          "id_str": "1922134158618374144",
+          "id": "1922134158618374144",
+          "media_url_https": "https://pbs.twimg.com/media/GqzK1VcXsAAzYcY.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "535",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "943",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1552",
+              "h": "1220",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7A7IGcH1SQ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "99"
+    ],
+    "favorite_count": "0",
+    "id_str": "1922134330932940815",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1922134330932940815",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 13 03:38:30 +0000 2025",
+    "favorited": false,
+    "full_text": "I'm curious about how much we can push the brain into different time flows. https://t.co/7A7IGcH1SQ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1922134330932940815/photo/1",
+          "indices": [
+            "76",
+            "99"
+          ],
+          "url": "https://t.co/7A7IGcH1SQ",
+          "media_url": "http://pbs.twimg.com/media/GqzK1VcXsAAzYcY.png",
+          "id_str": "1922134158618374144",
+          "id": "1922134158618374144",
+          "media_url_https": "https://pbs.twimg.com/media/GqzK1VcXsAAzYcY.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "535",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "943",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1552",
+              "h": "1220",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/7A7IGcH1SQ"
+        }
+      ]
+    }
+  }
+}

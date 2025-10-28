@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1970288446548725820"
+        ],
+        "editableUntil": "2025-09-23T01:45:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970288446548725820/photo/1",
+          "indices": [
+            "278",
+            "301"
+          ],
+          "url": "https://t.co/uRVk32FuVB",
+          "media_url": "http://pbs.twimg.com/media/G1faeThWsAA1PtL.jpg",
+          "id_str": "1970283576168984576",
+          "id": "1970283576168984576",
+          "media_url_https": "https://pbs.twimg.com/media/G1faeThWsAA1PtL.jpg",
+          "sizes": {
+            "small": {
+              "w": "590",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1190",
+              "h": "1372",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1041",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uRVk32FuVB"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "301"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1970288443642257544",
+    "id_str": "1970288446548725820",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1970288446548725820",
+    "in_reply_to_status_id": "1970288443642257544",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 23 00:45:46 +0000 2025",
+    "favorited": false,
+    "full_text": "But then I add a second part, in order to get much more comprehensive view of the problem: The Information Theoretic Complexity.  This is based on how much effort you need to use in order to figure out the right path through a given system.\n\nThis gives us something we can use. https://t.co/uRVk32FuVB",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1970288446548725820/photo/1",
+          "indices": [
+            "278",
+            "301"
+          ],
+          "url": "https://t.co/uRVk32FuVB",
+          "media_url": "http://pbs.twimg.com/media/G1faeThWsAA1PtL.jpg",
+          "id_str": "1970283576168984576",
+          "id": "1970283576168984576",
+          "media_url_https": "https://pbs.twimg.com/media/G1faeThWsAA1PtL.jpg",
+          "sizes": {
+            "small": {
+              "w": "590",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1190",
+              "h": "1372",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1041",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uRVk32FuVB"
+        }
+      ]
+    }
+  }
+}

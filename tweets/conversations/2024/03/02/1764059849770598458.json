@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1764059849770598458"
+        ],
+        "editableUntil": "2024-03-02T23:46:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Zack",
+          "screen_name": "HackingBaseball",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1081866076726743040",
+          "id": "1081866076726743040"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1763633217280643278",
+    "id_str": "1764059849770598458",
+    "in_reply_to_user_id": "1081866076726743040",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1764059849770598458",
+    "in_reply_to_status_id": "1763633217280643278",
+    "created_at": "Sat Mar 02 22:46:57 +0000 2024",
+    "favorited": false,
+    "full_text": "@HackingBaseball I really want to prove something...\n\nI'm almost certain I could take 10 random junior engineers (set a definition that everyone would be happy with) and get them to build a $10K MRR product in a month and only committing 10 hours per week.\n\nIn fact, I'll do it for free.",
+    "lang": "en",
+    "in_reply_to_screen_name": "HackingBaseball",
+    "in_reply_to_user_id_str": "1081866076726743040"
+  }
+}

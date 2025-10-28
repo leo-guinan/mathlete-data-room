@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1617899622743040002"
+        ],
+        "editableUntil": "2023-01-24T15:28:23.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "58",
+            "70"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1617899622743040002/photo/1",
+          "indices": [
+            "172",
+            "195"
+          ],
+          "url": "https://t.co/PbfZYF3bzK",
+          "media_url": "http://pbs.twimg.com/media/FnPvH7nWIAAyBQ6.jpg",
+          "id_str": "1617899610696982528",
+          "id": "1617899610696982528",
+          "media_url_https": "https://pbs.twimg.com/media/FnPvH7nWIAAyBQ6.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1152",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/PbfZYF3bzK"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DemoDay",
+          "indices": [
+            "40",
+            "48"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "195"
+    ],
+    "favorite_count": "2",
+    "id_str": "1617899622743040002",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1617899622743040002",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 24 14:58:23 +0000 2023",
+    "favorited": false,
+    "full_text": "It's all out to share with the world on #DemoDay.\n\nEnding @_buildspace's N&amp;W S2 this Saturday. If you want to check out the latest with @EffortlessReach, come find me! https://t.co/PbfZYF3bzK",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1617899622743040002/photo/1",
+          "indices": [
+            "172",
+            "195"
+          ],
+          "url": "https://t.co/PbfZYF3bzK",
+          "media_url": "http://pbs.twimg.com/media/FnPvH7nWIAAyBQ6.jpg",
+          "id_str": "1617899610696982528",
+          "id": "1617899610696982528",
+          "media_url_https": "https://pbs.twimg.com/media/FnPvH7nWIAAyBQ6.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1152",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/PbfZYF3bzK"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1582733112303587329"
+        ],
+        "editableUntil": "2022-10-19T14:29:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "4",
+            "19"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7nmFPYMbpc",
+          "expanded_url": "https://anchor.fm/leo-guinan/episodes/Competition---Myths-vs-Realities-e1pf6cd",
+          "display_url": "anchor.fm/leo-guinan/epi…",
+          "indices": [
+            "69",
+            "92"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "92"
+    ],
+    "favorite_count": "1",
+    "id_str": "1582733112303587329",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1582733112303587329",
+    "possibly_sensitive": false,
+    "created_at": "Wed Oct 19 13:59:14 +0000 2022",
+    "favorited": false,
+    "full_text": "New @BuildInPublicU podcast is live!\n\nLet's chat about competition.\n\nhttps://t.co/7nmFPYMbpc",
+    "lang": "en"
+  }
+}

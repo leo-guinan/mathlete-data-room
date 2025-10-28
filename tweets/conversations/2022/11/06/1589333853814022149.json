@@ -1,0 +1,40 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1589333853814022149"
+        ],
+        "editableUntil": "2022-11-06T19:38:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1589333851633029121",
+    "id_str": "1589333853814022149",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1589333853814022149",
+    "in_reply_to_status_id": "1589333851633029121",
+    "created_at": "Sun Nov 06 19:08:13 +0000 2022",
+    "favorited": false,
+    "full_text": "Next, you'll need to think about the data you need to solve the problem.\n\nWho has that data? Where does it live? Can you access it directly?\n\nCan you process data elsewhere to come up with the needed data?\n\nFigure out your source.\n\nSometimes, just need to ask people for it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

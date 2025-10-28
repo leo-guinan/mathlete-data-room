@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1796922221341860340"
+        ],
+        "editableUntil": "2024-06-01T16:10:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rob hardy",
+          "screen_name": "ungatedlife",
+          "indices": [
+            "28",
+            "40"
+          ],
+          "id_str": "532970397",
+          "id": "532970397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Bldr1KNExy",
+          "expanded_url": "https://forest.quest/artifacts/coffin/",
+          "display_url": "forest.quest/artifacts/coff…",
+          "indices": [
+            "51",
+            "74"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "74"
+    ],
+    "favorite_count": "1",
+    "id_str": "1796922221341860340",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1796922221341860340",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 01 15:10:17 +0000 2024",
+    "favorited": false,
+    "full_text": "Damn. This hit hard. Thanks @ungatedlife 🙏\n\nCoffin https://t.co/Bldr1KNExy",
+    "lang": "en"
+  }
+}

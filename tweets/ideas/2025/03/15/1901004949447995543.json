@@ -1,0 +1,127 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1901004949447995543"
+        ],
+        "editableUntil": "2025-03-15T21:17:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1901004949447995543/photo/1",
+          "indices": [
+            "25",
+            "48"
+          ],
+          "url": "https://t.co/mq4yRrBbL1",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GmG57FvWYAAgIo_.jpg",
+          "id_str": "1901004942531256320",
+          "id": "1901004942531256320",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GmG57FvWYAAgIo_.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "198",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "198",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "198",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/mq4yRrBbL1"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "48"
+    ],
+    "favorite_count": "0",
+    "id_str": "1901004949447995543",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1901004949447995543",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 15 20:17:53 +0000 2025",
+    "favorited": false,
+    "full_text": "The US Economy right now https://t.co/mq4yRrBbL1",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1901004949447995543/photo/1",
+          "indices": [
+            "25",
+            "48"
+          ],
+          "url": "https://t.co/mq4yRrBbL1",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GmG57FvWYAAgIo_.jpg",
+          "id_str": "1901004942531256320",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "33"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GmG57FvWYAAgIo_.mp4"
+              }
+            ]
+          },
+          "id": "1901004942531256320",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GmG57FvWYAAgIo_.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "198",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "498",
+              "h": "198",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "498",
+              "h": "198",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/mq4yRrBbL1"
+        }
+      ]
+    }
+  }
+}

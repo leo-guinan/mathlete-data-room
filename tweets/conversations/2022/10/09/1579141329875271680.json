@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1579141329875271680"
+        ],
+        "editableUntil": "2022-10-09T16:36:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "MechiMansilla 👩‍💻",
+          "screen_name": "MechiMansilla",
+          "indices": [
+            "14",
+            "28"
+          ],
+          "id_str": "1549551374383423488",
+          "id": "1549551374383423488"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "162"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1577613697656262656",
+    "id_str": "1579141329875271680",
+    "in_reply_to_user_id": "1346266259541921793",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1579141329875271680",
+    "in_reply_to_status_id": "1577613697656262656",
+    "created_at": "Sun Oct 09 16:06:46 +0000 2022",
+    "favorited": false,
+    "full_text": "@ChatPodcasts @MechiMansilla Oh, that's tempting...Although my wife might kill me if I leave her to handle the kids while I bounce to Hungary with no notice...🤔🤔🤔",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1346266259541921793"
+  }
+}

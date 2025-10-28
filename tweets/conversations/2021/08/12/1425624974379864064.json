@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425624974379864064"
+        ],
+        "editableUntil": "2021-08-12T02:07:35.380Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1425624974379864064/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/PNXbtom4U3",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8jWWwrXsAMj96f.jpg",
+          "id_str": "1425624968575037443",
+          "id": "1425624968575037443",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8jWWwrXsAMj96f.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/PNXbtom4U3"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "51"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1425624807161335809",
+    "id_str": "1425624974379864064",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425624974379864064",
+    "in_reply_to_status_id": "1425624807161335809",
+    "possibly_sensitive": false,
+    "created_at": "Thu Aug 12 01:07:35 +0000 2021",
+    "favorited": false,
+    "full_text": "@StroutMotivateU Hell yeah! https://t.co/PNXbtom4U3",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1425624974379864064/photo/1",
+          "indices": [
+            "28",
+            "51"
+          ],
+          "url": "https://t.co/PNXbtom4U3",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8jWWwrXsAMj96f.jpg",
+          "id_str": "1425624968575037443",
+          "video_info": {
+            "aspect_ratio": [
+              "249",
+              "140"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/E8jWWwrXsAMj96f.mp4"
+              }
+            ]
+          },
+          "id": "1425624968575037443",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8jWWwrXsAMj96f.jpg",
+          "sizes": {
+            "medium": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "280",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/PNXbtom4U3"
+        }
+      ]
+    }
+  }
+}

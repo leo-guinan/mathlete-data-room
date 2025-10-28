@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1616187626083549189"
+        ],
+        "editableUntil": "2023-01-19T22:05:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "SamJaxx | Business Juice",
+          "screen_name": "jaxx_sam",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1314613512442871810",
+          "id": "1314613512442871810"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "184"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1616132044660129809",
+    "id_str": "1616187626083549189",
+    "in_reply_to_user_id": "1314613512442871810",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1616187626083549189",
+    "in_reply_to_status_id": "1616132044660129809",
+    "created_at": "Thu Jan 19 21:35:32 +0000 2023",
+    "favorited": false,
+    "full_text": "@jaxx_sam A lot of what I do these days is trying to put things in motion that might eventually end up being something good. It's a weird approach, but it pays off more often than not.",
+    "lang": "en",
+    "in_reply_to_screen_name": "jaxx_sam",
+    "in_reply_to_user_id_str": "1314613512442871810"
+  }
+}

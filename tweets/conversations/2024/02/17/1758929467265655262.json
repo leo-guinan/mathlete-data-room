@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1758929467265655262"
+        ],
+        "editableUntil": "2024-02-17T20:00:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "It's Adon.",
+          "screen_name": "AtRiskMedia",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1380453648",
+          "id": "1380453648"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "194"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1758733284375216561",
+    "id_str": "1758929467265655262",
+    "in_reply_to_user_id": "1380453648",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1758929467265655262",
+    "in_reply_to_status_id": "1758733284375216561",
+    "created_at": "Sat Feb 17 19:00:38 +0000 2024",
+    "favorited": false,
+    "full_text": "@AtRiskMedia It's all true.\n\nThe world just hasn't noticed yet. :)\n\nOnce I had the math figured out, everything else just fell into place for me.\n\nNow, it's all about communication and building.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AtRiskMedia",
+    "in_reply_to_user_id_str": "1380453648"
+  }
+}

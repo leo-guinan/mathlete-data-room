@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1589052633372708865"
+        ],
+        "editableUntil": "2022-11-06T01:00:45.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        },
+        {
+          "name": "Ajinkya Wadhwa",
+          "screen_name": "WadhwaAjinkya",
+          "indices": [
+            "17",
+            "31"
+          ],
+          "id_str": "750780203773886464",
+          "id": "750780203773886464"
+        },
+        {
+          "name": "@jason",
+          "screen_name": "Jason",
+          "indices": [
+            "32",
+            "38"
+          ],
+          "id_str": "3840",
+          "id": "3840"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "286"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1588498372985753602",
+    "id_str": "1589052633372708865",
+    "in_reply_to_user_id": "2918253344",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1589052633372708865",
+    "in_reply_to_status_id": "1588498372985753602",
+    "created_at": "Sun Nov 06 00:30:45 +0000 2022",
+    "favorited": false,
+    "full_text": "@JustinAllingham @WadhwaAjinkya @Jason Small talk holds meaningful context in many instances and that gets lost quickly the further from the original message you go.\n\nPut people in the right context and the tools to interact within and explore that context, and good things will happen.",
+    "lang": "en",
+    "in_reply_to_screen_name": "JustinAllingham",
+    "in_reply_to_user_id_str": "2918253344"
+  }
+}

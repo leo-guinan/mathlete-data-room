@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1496332947913388042"
+        ],
+        "editableUntil": "2022-02-23T04:55:49.961Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Grace",
+          "screen_name": "sgy",
+          "indices": [
+            "0",
+            "4"
+          ],
+          "id_str": "18048288",
+          "id": "18048288"
+        },
+        {
+          "name": "Jamie Howard",
+          "screen_name": "JamieHoward",
+          "indices": [
+            "5",
+            "17"
+          ],
+          "id_str": "14348689",
+          "id": "14348689"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1496119492946104325",
+    "id_str": "1496332947913388042",
+    "in_reply_to_user_id": "18048288",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1496332947913388042",
+    "in_reply_to_status_id": "1496119492946104325",
+    "created_at": "Wed Feb 23 03:55:49 +0000 2022",
+    "favorited": false,
+    "full_text": "@sgy @JamieHoward Nope, that's a perfect answer. Families or tribes were what I was expecting as possible answers. Mostly curious to see what people associate with the term \"social network\".\n\nDidn't know if people viewed those as solely tech constructs or not.",
+    "lang": "en",
+    "in_reply_to_screen_name": "sgy",
+    "in_reply_to_user_id_str": "18048288"
+  }
+}

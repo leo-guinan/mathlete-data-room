@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513528151795802126"
+        ],
+        "editableUntil": "2022-04-11T15:43:26.038Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dustin Miller | POLYINNOVATOR LLC⚙️",
+          "screen_name": "polyinnovator",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "872914095321645056",
+          "id": "872914095321645056"
+        },
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "15",
+            "24"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1513301091068297217",
+    "id_str": "1513528151795802126",
+    "in_reply_to_user_id": "872914095321645056",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513528151795802126",
+    "in_reply_to_status_id": "1513301091068297217",
+    "created_at": "Mon Apr 11 14:43:26 +0000 2022",
+    "favorited": false,
+    "full_text": "@polyinnovator @reddy2go Likewise! \n\nIt was a fun conversation!",
+    "lang": "en",
+    "in_reply_to_screen_name": "polyinnovator",
+    "in_reply_to_user_id_str": "872914095321645056"
+  }
+}

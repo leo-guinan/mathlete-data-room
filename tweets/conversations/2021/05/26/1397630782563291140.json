@@ -1,0 +1,64 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1397630782563291140"
+        ],
+        "editableUntil": "2021-05-26T20:08:39.944Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ODCC1",
+          "indices": [
+            "64",
+            "70"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Marie Poulin",
+          "screen_name": "mariepoulin",
+          "indices": [
+            "34",
+            "46"
+          ],
+          "id_str": "14777520",
+          "id": "14777520"
+        },
+        {
+          "name": "Karaminder",
+          "screen_name": "Karaminder",
+          "indices": [
+            "241",
+            "252"
+          ],
+          "id_str": "4221671",
+          "id": "4221671"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "277"
+    ],
+    "favorite_count": "4",
+    "id_str": "1397630782563291140",
+    "truncated": false,
+    "retweet_count": "3",
+    "id": "1397630782563291140",
+    "created_at": "Wed May 26 19:08:39 +0000 2021",
+    "favorited": false,
+    "full_text": "Great Peer Supporter Session with @mariepoulin today as part of #ODCC1.\n\nOne of the topics that came up was when to jump from a safe job into the life of an entrepreneur. I ended up sharing a bit of my journey, thanks to a little nudge from @Karaminder. Here are some thoughts:",
+    "lang": "en"
+  }
+}

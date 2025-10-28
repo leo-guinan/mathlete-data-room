@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1427597885189902361"
+        ],
+        "editableUntil": "2021-08-17T12:47:13.972Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Prateek",
+          "screen_name": "fromprateek1",
+          "indices": [
+            "3",
+            "16"
+          ],
+          "id_str": "1400472796778700809",
+          "id": "1400472796778700809"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1427597885189902361",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1427597885189902361",
+    "created_at": "Tue Aug 17 11:47:13 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @fromprateek1: We have at some point been part of a project that seems too complex that one cannot see the end of it. It is draining not…",
+    "lang": "en"
+  }
+}

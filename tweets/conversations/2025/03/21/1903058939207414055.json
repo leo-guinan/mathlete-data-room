@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1903058939207414055"
+        ],
+        "editableUntil": "2025-03-21T13:19:42.889Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Daniel Vassallo",
+          "screen_name": "dvassallo",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "24179991",
+          "id": "24179991"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "81"
+    ],
+    "favorite_count": "0",
+    "id_str": "1903058939207414055",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1903058939207414055",
+    "created_at": "Fri Mar 21 12:19:42 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @dvassallo: Nothing more pathetic than making fun of beginners eager to learn.",
+    "lang": "en"
+  }
+}

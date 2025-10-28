@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1606666240528826369"
+        ],
+        "editableUntil": "2022-12-24T15:30:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "183"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1606605687592607746",
+    "id_str": "1606666240528826369",
+    "in_reply_to_user_id": "112397978",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1606666240528826369",
+    "in_reply_to_status_id": "1606605687592607746",
+    "created_at": "Sat Dec 24 15:00:56 +0000 2022",
+    "favorited": false,
+    "full_text": "@MindsetByDave Rediscovery is something that we don't focus on enough. We think that once we discover something it stays with us, but often, it can drift away without us realizing it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "MindsetByDave",
+    "in_reply_to_user_id_str": "112397978"
+  }
+}

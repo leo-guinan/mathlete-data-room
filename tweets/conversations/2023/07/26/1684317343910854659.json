@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1684317343910854659"
+        ],
+        "editableUntil": "2023-07-26T22:38:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "Catalin",
+          "screen_name": "catalinmpit",
+          "indices": [
+            "17",
+            "29"
+          ],
+          "id_str": "173057927",
+          "id": "173057927"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "298"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1684313146234748933",
+    "id_str": "1684317343910854659",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1684317343910854659",
+    "in_reply_to_status_id": "1684313146234748933",
+    "created_at": "Wed Jul 26 21:38:42 +0000 2023",
+    "favorited": false,
+    "full_text": "@StroutMotivateU @catalinmpit 100%! \n\nExperience in one counts as double in the other, as well. \n\nBecause you'll end up separating yourself from the pack, showing an understanding of what happens outside of the immediate vicinity.\n\nThese types of paired experiences really play well into each other",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

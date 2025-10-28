@@ -1,0 +1,60 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1338606009410088964"
+        ],
+        "editableUntil": "2020-12-14T23:05:17.397Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tweets from Zach Weinberg",
+          "screen_name": "zachweinberg",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23504313",
+          "id": "23504313"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3PgNze7tby",
+          "expanded_url": "https://leoguinan.substack.com/p/product-launch-announcement?r=c4nu3&utm_campaign=post&utm_medium=web&utm_source=copy",
+          "display_url": "leoguinan.substack.com/p/product-laun…",
+          "indices": [
+            "165",
+            "188"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "188"
+    ],
+    "favorite_count": "0",
+    "id_str": "1338606009410088964",
+    "in_reply_to_user_id": "23504313",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1338606009410088964",
+    "possibly_sensitive": false,
+    "created_at": "Mon Dec 14 22:05:17 +0000 2020",
+    "favorited": false,
+    "full_text": "@zachweinberg based on your tweets, you might be interested in my startup. I am building a decentralized financial social media app. My first alpha is a newsletter: https://t.co/3PgNze7tby",
+    "lang": "en",
+    "in_reply_to_screen_name": "zachweinberg",
+    "in_reply_to_user_id_str": "23504313"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1503367901004324867"
+        ],
+        "editableUntil": "2022-03-14T14:50:13.481Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Shawn 🐳",
+          "screen_name": "ShawnAxsom",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "7773312",
+          "id": "7773312"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "201"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1503367894482272256",
+    "id_str": "1503367901004324867",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1503367901004324867",
+    "in_reply_to_status_id": "1503367894482272256",
+    "created_at": "Mon Mar 14 13:50:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@ShawnAxsom I'm going to set a target of 10 people per month.\n\nOff to a good start here.\n\nI'm also going to keep track of where people are from.\n\nWonder how many different countries I can connect with?",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

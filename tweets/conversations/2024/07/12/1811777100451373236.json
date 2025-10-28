@@ -1,0 +1,163 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1811777100451373236"
+        ],
+        "editableUntil": "2024-07-12T15:58:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "6",
+            "17"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Wabastreams - $1 On Patreon!",
+          "screen_name": "wabastreams",
+          "indices": [
+            "175",
+            "187"
+          ],
+          "id_str": "1254795953741205504",
+          "id": "1254795953741205504"
+        },
+        {
+          "name": "Lobow's SPARK",
+          "screen_name": "LobowSpark",
+          "indices": [
+            "198",
+            "209"
+          ],
+          "id_str": "1383553628888211456",
+          "id": "1383553628888211456"
+        },
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "215",
+            "225"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1811777100451373236/photo/1",
+          "indices": [
+            "239",
+            "262"
+          ],
+          "url": "https://t.co/rMhyrw5Mzb",
+          "media_url": "http://pbs.twimg.com/media/GSS5VrBbkAA6R5j.jpg",
+          "id_str": "1811776732086898688",
+          "id": "1811776732086898688",
+          "media_url_https": "https://pbs.twimg.com/media/GSS5VrBbkAA6R5j.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "406",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1221",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "716",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rMhyrw5Mzb"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ADHDWithBenefits",
+          "indices": [
+            "49",
+            "66"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "262"
+    ],
+    "favorite_count": "3",
+    "id_str": "1811777100451373236",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1811777100451373236",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 12 14:58:16 +0000 2024",
+    "favorited": false,
+    "full_text": "Since @LobowSpark asked if I posted the pic from #ADHDWithBenefits last week and I didn't remember, figured I'd either post it for the first time or again.\n\nWith Jason+Kayla, @wabastreams+Will, and @LobowSpark! And @bethicalj is hidden :) https://t.co/rMhyrw5Mzb",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1811777100451373236/photo/1",
+          "indices": [
+            "239",
+            "262"
+          ],
+          "url": "https://t.co/rMhyrw5Mzb",
+          "media_url": "http://pbs.twimg.com/media/GSS5VrBbkAA6R5j.jpg",
+          "id_str": "1811776732086898688",
+          "id": "1811776732086898688",
+          "media_url_https": "https://pbs.twimg.com/media/GSS5VrBbkAA6R5j.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "406",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1221",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "716",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/rMhyrw5Mzb"
+        }
+      ]
+    }
+  }
+}

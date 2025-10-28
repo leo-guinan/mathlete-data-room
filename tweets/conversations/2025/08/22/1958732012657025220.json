@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1958732012657025220"
+        ],
+        "editableUntil": "2025-08-22T04:24:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alex Dobrenko",
+          "screen_name": "Dobrenkz",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "14577805",
+          "id": "14577805"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "144"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1958681239705022509",
+    "id_str": "1958732012657025220",
+    "in_reply_to_user_id": "14577805",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1958732012657025220",
+    "in_reply_to_status_id": "1958681239705022509",
+    "created_at": "Fri Aug 22 03:24:37 +0000 2025",
+    "favorited": false,
+    "full_text": "@Dobrenkz Let's have a chat.\n\nI believe I can help with that.\n\nOne question though: How would you rate your ability to evaluate and teach humor?",
+    "lang": "en",
+    "in_reply_to_screen_name": "Dobrenkz",
+    "in_reply_to_user_id_str": "14577805"
+  }
+}

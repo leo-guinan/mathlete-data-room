@@ -1,0 +1,66 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1480936604680310784"
+        ],
+        "editableUntil": "2022-01-11T17:16:15.684Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ruchin",
+          "screen_name": "Ruchin_Kulkarni",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "194009611",
+          "id": "194009611"
+        },
+        {
+          "name": "copy.ai",
+          "screen_name": "copy_ai",
+          "indices": [
+            "50",
+            "58"
+          ],
+          "id_str": "1300861660744372230",
+          "id": "1300861660744372230"
+        },
+        {
+          "name": "Toplyne",
+          "screen_name": "Toplynehq",
+          "indices": [
+            "69",
+            "79"
+          ],
+          "id_str": "1399664735671361539",
+          "id": "1399664735671361539"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "id_str": "1480936604680310784",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1480936604680310784",
+    "created_at": "Tue Jan 11 16:16:15 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @Ruchin_Kulkarni: Should I be embarrassed that @copy_ai described @Toplynehq better than me? 🙈\n\nNo wonder the team got from $0 to $2.4M…",
+    "lang": "en"
+  }
+}

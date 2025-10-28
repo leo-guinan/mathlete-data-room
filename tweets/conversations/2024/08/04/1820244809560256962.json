@@ -1,0 +1,92 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1820244809560256962"
+        ],
+        "editableUntil": "2024-08-05T00:45:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        },
+        {
+          "name": "Jason Cohen",
+          "screen_name": "asmartbear",
+          "indices": [
+            "10",
+            "21"
+          ],
+          "id_str": "17838032",
+          "id": "17838032"
+        },
+        {
+          "name": "Jay Vasant",
+          "screen_name": "__alter123",
+          "indices": [
+            "22",
+            "33"
+          ],
+          "id_str": "731124353958449154",
+          "id": "731124353958449154"
+        },
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "42",
+            "51"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EpPXY7TGfn",
+          "expanded_url": "https://x.com/leo_guinan/status/1820237824093757815",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "270",
+            "293"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "293"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1820242365795479709",
+    "id_str": "1820244809560256962",
+    "in_reply_to_user_id": "6378712",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1820244809560256962",
+    "in_reply_to_status_id": "1820242365795479709",
+    "possibly_sensitive": false,
+    "created_at": "Sun Aug 04 23:45:55 +0000 2024",
+    "favorited": false,
+    "full_text": "@finereli @asmartbear @__alter123 Curious @finereli, how much do you think it would be possible to increase the %age if you minimize the number of wrong paths taken. \n\nThinking that each wrong path = higher drop percentage.\n\nMinimize wrong paths, maximize success rate.\nhttps://t.co/EpPXY7TGfn",
+    "lang": "en",
+    "in_reply_to_screen_name": "finereli",
+    "in_reply_to_user_id_str": "6378712"
+  }
+}

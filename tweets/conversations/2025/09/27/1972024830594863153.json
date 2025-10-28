@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1972024830594863153"
+        ],
+        "editableUntil": "2025-09-27T20:45:32.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "🌱🌳✨TREEDoro ✨🪾🍂",
+          "screen_name": "DoroisDoro",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1527059163691507718",
+          "id": "1527059163691507718"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972024830594863153/photo/1",
+          "indices": [
+            "105",
+            "128"
+          ],
+          "url": "https://t.co/EGcbF9IIoE",
+          "media_url": "http://pbs.twimg.com/media/G14KIZQXEAAvRgk.jpg",
+          "id_str": "1972024826169593856",
+          "id": "1972024826169593856",
+          "media_url_https": "https://pbs.twimg.com/media/G14KIZQXEAAvRgk.jpg",
+          "sizes": {
+            "small": {
+              "w": "567",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1000",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1584",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EGcbF9IIoE"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "128"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1971915037729337436",
+    "id_str": "1972024830594863153",
+    "in_reply_to_user_id": "1527059163691507718",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1972024830594863153",
+    "in_reply_to_status_id": "1971915037729337436",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 27 19:45:32 +0000 2025",
+    "favorited": false,
+    "full_text": "@DoroisDoro I’m bringing back the bottega. Sure, it’s been done before. But so has everything else! 🤷‍♂️ https://t.co/EGcbF9IIoE",
+    "lang": "en",
+    "in_reply_to_screen_name": "DoroisDoro",
+    "in_reply_to_user_id_str": "1527059163691507718",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1972024830594863153/photo/1",
+          "indices": [
+            "105",
+            "128"
+          ],
+          "url": "https://t.co/EGcbF9IIoE",
+          "media_url": "http://pbs.twimg.com/media/G14KIZQXEAAvRgk.jpg",
+          "id_str": "1972024826169593856",
+          "id": "1972024826169593856",
+          "media_url_https": "https://pbs.twimg.com/media/G14KIZQXEAAvRgk.jpg",
+          "sizes": {
+            "small": {
+              "w": "567",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1000",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1320",
+              "h": "1584",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EGcbF9IIoE"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1450590081228673024"
+        ],
+        "editableUntil": "2021-10-19T23:30:00.682Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/M8Sq2y7Nnb",
+          "expanded_url": "https://en.m.wikipedia.org/wiki/Dunbar%27s_number",
+          "display_url": "en.m.wikipedia.org/wiki/Dunbar%27…",
+          "indices": [
+            "207",
+            "230"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "230"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1450590079332794374",
+    "id_str": "1450590081228673024",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1450590081228673024",
+    "in_reply_to_status_id": "1450590079332794374",
+    "possibly_sensitive": false,
+    "created_at": "Tue Oct 19 22:30:00 +0000 2021",
+    "favorited": false,
+    "full_text": "But I'm not worried about the majority of people I follow. I follow them for all sorts of reasons. \n\nThis makes sense. We can't maintain 1000s of close relationships. Dunbar's number says its about 150ish.\n\nhttps://t.co/M8Sq2y7Nnb",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

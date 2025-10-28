@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803547078074716219"
+        ],
+        "editableUntil": "2024-06-19T22:55:06.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Corderosa Amada Kugla",
+          "screen_name": "HausOfErostribe",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1327026808726855680",
+          "id": "1327026808726855680"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803547078074716219/photo/1",
+          "indices": [
+            "17",
+            "40"
+          ],
+          "url": "https://t.co/jHD7vSCr5Z",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQd8gaGXwAAKn8o.jpg",
+          "id_str": "1803547071988875264",
+          "id": "1803547071988875264",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQd8gaGXwAAKn8o.jpg",
+          "sizes": {
+            "medium": {
+              "w": "400",
+              "h": "260",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "400",
+              "h": "260",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "400",
+              "h": "260",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/jHD7vSCr5Z"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "40"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1803538337430643181",
+    "id_str": "1803547078074716219",
+    "in_reply_to_user_id": "1327026808726855680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803547078074716219",
+    "in_reply_to_status_id": "1803538337430643181",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 19 21:55:06 +0000 2024",
+    "favorited": false,
+    "full_text": "@HausOfErostribe https://t.co/jHD7vSCr5Z",
+    "lang": "qme",
+    "in_reply_to_screen_name": "HausOfErostribe",
+    "in_reply_to_user_id_str": "1327026808726855680",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803547078074716219/photo/1",
+          "indices": [
+            "17",
+            "40"
+          ],
+          "url": "https://t.co/jHD7vSCr5Z",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/GQd8gaGXwAAKn8o.jpg",
+          "id_str": "1803547071988875264",
+          "video_info": {
+            "aspect_ratio": [
+              "20",
+              "13"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/GQd8gaGXwAAKn8o.mp4"
+              }
+            ]
+          },
+          "id": "1803547071988875264",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/GQd8gaGXwAAKn8o.jpg",
+          "sizes": {
+            "medium": {
+              "w": "400",
+              "h": "260",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "400",
+              "h": "260",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "400",
+              "h": "260",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/jHD7vSCr5Z"
+        }
+      ]
+    }
+  }
+}

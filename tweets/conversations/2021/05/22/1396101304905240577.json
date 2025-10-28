@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1396101304905240577"
+        ],
+        "editableUntil": "2021-05-22T14:51:04.054Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "domm",
+          "screen_name": "domm",
+          "indices": [
+            "0",
+            "5"
+          ],
+          "id_str": "219821581",
+          "id": "219821581"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/EMrmj9stRK",
+          "expanded_url": "https://definet.dev",
+          "display_url": "definet.dev",
+          "indices": [
+            "14",
+            "37"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "76"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1396089176332906499",
+    "id_str": "1396101304905240577",
+    "in_reply_to_user_id": "219821581",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1396101304905240577",
+    "in_reply_to_status_id": "1396089176332906499",
+    "possibly_sensitive": false,
+    "created_at": "Sat May 22 13:51:04 +0000 2021",
+    "favorited": false,
+    "full_text": "@domm DeFiNet/https://t.co/EMrmj9stRK\n\nRevenue sharing platform for creators",
+    "lang": "en",
+    "in_reply_to_screen_name": "domm",
+    "in_reply_to_user_id_str": "219821581"
+  }
+}

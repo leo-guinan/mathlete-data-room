@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1917272326850085048"
+        ],
+        "editableUntil": "2025-04-29T18:38:38.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Julie Fredrickson",
+          "screen_name": "AlmostMedia",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "18842214",
+          "id": "18842214"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nli3vXEtJD",
+          "expanded_url": "https://x.com/leo_guinan/status/1916202912646312194",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "244",
+            "267"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "267"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1917272065633312932",
+    "id_str": "1917272326850085048",
+    "in_reply_to_user_id": "18842214",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1917272326850085048",
+    "in_reply_to_status_id": "1917272065633312932",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 29 17:38:38 +0000 2025",
+    "favorited": false,
+    "full_text": "@AlmostMedia concealing information is a problem in hypercompetitive systems.\n\nWe allow people to hide in space between the systems, instead of creating visibility into the processes.\n\nGood news is that this won't be possible for much longer.\n\nhttps://t.co/nli3vXEtJD",
+    "lang": "en",
+    "in_reply_to_screen_name": "AlmostMedia",
+    "in_reply_to_user_id_str": "18842214"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808869041391522250"
+        ],
+        "editableUntil": "2024-07-04T15:22:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/8TL4a9Ah9M",
+          "expanded_url": "https://x.com/denk_tweets/status/1808251340109631987",
+          "display_url": "x.com/denk_tweets/st…",
+          "indices": [
+            "248",
+            "271"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808869041391522250/photo/1",
+          "indices": [
+            "272",
+            "295"
+          ],
+          "url": "https://t.co/GEwLzINhib",
+          "media_url": "http://pbs.twimg.com/media/GRpgCNhWMAA_pM0.jpg",
+          "id_str": "1808863791448207360",
+          "id": "1808863791448207360",
+          "media_url_https": "https://pbs.twimg.com/media/GRpgCNhWMAA_pM0.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "191",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1156",
+              "h": "324",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1156",
+              "h": "324",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GEwLzINhib"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "295"
+    ],
+    "favorite_count": "3",
+    "id_str": "1808869041391522250",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808869041391522250",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jul 04 14:22:41 +0000 2024",
+    "favorited": false,
+    "full_text": "I was curious about how \"bad\" Tyler's deck actually was. So I ran it through Score My Deck to see!\n\nHonestly, that's a relatively low score, based on a number of the decks we've seen come through so far.\n\nA couple of things stand out to me though: https://t.co/8TL4a9Ah9M https://t.co/GEwLzINhib",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1808869041391522250/photo/1",
+          "indices": [
+            "272",
+            "295"
+          ],
+          "url": "https://t.co/GEwLzINhib",
+          "media_url": "http://pbs.twimg.com/media/GRpgCNhWMAA_pM0.jpg",
+          "id_str": "1808863791448207360",
+          "id": "1808863791448207360",
+          "media_url_https": "https://pbs.twimg.com/media/GRpgCNhWMAA_pM0.jpg",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "191",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1156",
+              "h": "324",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1156",
+              "h": "324",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/GEwLzINhib"
+        }
+      ]
+    }
+  }
+}

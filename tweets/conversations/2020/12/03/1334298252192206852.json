@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1334298252192206852"
+        ],
+        "editableUntil": "2020-12-03T01:47:48.042Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ted",
+          "screen_name": "trom771",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "2880052887",
+          "id": "2880052887"
+        },
+        {
+          "name": "sophon",
+          "screen_name": "liberalgoddess",
+          "indices": [
+            "9",
+            "24"
+          ],
+          "id_str": "21207491",
+          "id": "21207491"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1334215507910725632",
+    "id_str": "1334298252192206852",
+    "in_reply_to_user_id": "2880052887",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1334298252192206852",
+    "in_reply_to_status_id": "1334215507910725632",
+    "created_at": "Thu Dec 03 00:47:48 +0000 2020",
+    "favorited": false,
+    "full_text": "@trom771 @liberalgoddess Oh, wait. She knows what it's like to MAKE someone wait on a paycheck. Must have missed a couple words in that ad.",
+    "lang": "en",
+    "in_reply_to_screen_name": "trom771",
+    "in_reply_to_user_id_str": "2880052887"
+  }
+}

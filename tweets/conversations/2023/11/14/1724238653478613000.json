@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1724238653478613000"
+        ],
+        "editableUntil": "2023-11-14T02:31:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Corey Wilks, Psy.D.",
+          "screen_name": "CoreyWilksPsyD",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1246991611793420288",
+          "id": "1246991611793420288"
+        },
+        {
+          "name": "Justin Mulvaney",
+          "screen_name": "justinmulvs",
+          "indices": [
+            "16",
+            "28"
+          ],
+          "id_str": "1349577359167528965",
+          "id": "1349577359167528965"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9IjnItaGtj",
+          "expanded_url": "https://internetfactory.substack.com",
+          "display_url": "internetfactory.substack.com",
+          "indices": [
+            "280",
+            "303"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1724092360139718722",
+    "id_str": "1724238653478613000",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1724238653478613000",
+    "in_reply_to_status_id": "1724092360139718722",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 14 01:31:44 +0000 2023",
+    "favorited": false,
+    "full_text": "@CoreyWilksPsyD @justinmulvs If you're not building your own internet, you're giving up a ton of value.\n\nTake back control of your internet experience alongside me and checkout my newsletter, The Internet Factory, where I share what I'm doing to customize my internet experience: https://t.co/9IjnItaGtj",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

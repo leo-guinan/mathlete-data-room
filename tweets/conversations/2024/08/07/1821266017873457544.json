@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1821266017873457544"
+        ],
+        "editableUntil": "2024-08-07T20:23:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Colleen M. Brady",
+          "screen_name": "ColleenMBrady",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "803647670",
+          "id": "803647670"
+        },
+        {
+          "name": "n8n.io",
+          "screen_name": "n8n_io",
+          "indices": [
+            "15",
+            "22"
+          ],
+          "id_str": "1068479892537384960",
+          "id": "1068479892537384960"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "303"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1821259901815128391",
+    "id_str": "1821266017873457544",
+    "in_reply_to_user_id": "803647670",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1821266017873457544",
+    "in_reply_to_status_id": "1821259901815128391",
+    "created_at": "Wed Aug 07 19:23:50 +0000 2024",
+    "favorited": false,
+    "full_text": "@ColleenMBrady @n8n_io I didn't! I actually haven't gotten involved with the community much, because I'm in a position where if it's a complex workflow, I'll build something custom. For me, N8N is tiny workflows that connect pieces I don't want to build complex things for.\n\nExample: slack notifications",
+    "lang": "en",
+    "in_reply_to_screen_name": "ColleenMBrady",
+    "in_reply_to_user_id_str": "803647670"
+  }
+}

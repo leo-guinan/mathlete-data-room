@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1563931282094100480"
+        ],
+        "editableUntil": "2022-08-28T17:17:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UXeVVRRi2A",
+          "expanded_url": "https://t.co/UXeVVRRi2A",
+          "display_url": "t.co/UXeVVRRi2A",
+          "indices": [
+            "153",
+            "176"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "176"
+    ],
+    "favorite_count": "0",
+    "id_str": "1563931282094100480",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1563931282094100480",
+    "possibly_sensitive": false,
+    "created_at": "Sun Aug 28 16:47:28 +0000 2022",
+    "favorited": false,
+    "full_text": "Ok, this is my favorite thing I learned from the internet today.\n\nAnd it's certainly in the running for favorite of the week and month...perhaps longer. https://t.co/UXeVVRRi2A",
+    "lang": "en"
+  }
+}

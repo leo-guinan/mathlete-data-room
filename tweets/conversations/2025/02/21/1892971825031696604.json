@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892971825031696604"
+        ],
+        "editableUntil": "2025-02-21T17:17:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "lux 𓅪怪鹰",
+          "screen_name": "lux",
+          "indices": [
+            "0",
+            "4"
+          ],
+          "id_str": "3221",
+          "id": "3221"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "5",
+            "21"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        },
+        {
+          "name": "ayush",
+          "screen_name": "hyusapx",
+          "indices": [
+            "22",
+            "30"
+          ],
+          "id_str": "1702397309504434176",
+          "id": "1702397309504434176"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "306"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1891890945198538856",
+    "id_str": "1892971825031696604",
+    "in_reply_to_user_id": "3221",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892971825031696604",
+    "in_reply_to_status_id": "1891890945198538856",
+    "created_at": "Fri Feb 21 16:17:07 +0000 2025",
+    "favorited": false,
+    "full_text": "@lux @DefenderOfBasic @hyusapx I think there's actually something here in cryptography.\n\nIf you can create a language that is interpreted on the fly, you can say one thing on a public network that is interpreted one way by people who see it and don't have the translator, and another thing that is read by…",
+    "lang": "en",
+    "in_reply_to_screen_name": "lux",
+    "in_reply_to_user_id_str": "3221"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940056872322523423"
+        ],
+        "editableUntil": "2025-07-01T15:36:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/4kQYvlytIk",
+          "expanded_url": "https://x.com/mudscryer/status/1940039553915789482",
+          "display_url": "x.com/mudscryer/stat…",
+          "indices": [
+            "54",
+            "77"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "77"
+    ],
+    "favorite_count": "1",
+    "id_str": "1940056872322523423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940056872322523423",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 14:36:17 +0000 2025",
+    "favorited": false,
+    "full_text": "I want nothing more than to participate fully in this https://t.co/4kQYvlytIk",
+    "lang": "en"
+  }
+}

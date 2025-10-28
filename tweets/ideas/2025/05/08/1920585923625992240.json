@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1920585923625992240"
+        ],
+        "editableUntil": "2025-05-08T22:05:41.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1920585923625992240/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/aaTrQMZxM4",
+          "media_url": "http://pbs.twimg.com/media/GqdKtmSWoAASIjT.png",
+          "id_str": "1920585913328902144",
+          "id": "1920585913328902144",
+          "media_url_https": "https://pbs.twimg.com/media/GqdKtmSWoAASIjT.png",
+          "sizes": {
+            "medium": {
+              "w": "666",
+              "h": "204",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "666",
+              "h": "204",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "666",
+              "h": "204",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/aaTrQMZxM4"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "93"
+    ],
+    "favorite_count": "0",
+    "id_str": "1920585923625992240",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1920585923625992240",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 08 21:05:41 +0000 2025",
+    "favorited": false,
+    "full_text": "Time for some deep research.\n\nI made a joke.\n\nAnd then I had to know. https://t.co/aaTrQMZxM4",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1920585923625992240/photo/1",
+          "indices": [
+            "70",
+            "93"
+          ],
+          "url": "https://t.co/aaTrQMZxM4",
+          "media_url": "http://pbs.twimg.com/media/GqdKtmSWoAASIjT.png",
+          "id_str": "1920585913328902144",
+          "id": "1920585913328902144",
+          "media_url_https": "https://pbs.twimg.com/media/GqdKtmSWoAASIjT.png",
+          "sizes": {
+            "medium": {
+              "w": "666",
+              "h": "204",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "666",
+              "h": "204",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "666",
+              "h": "204",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/aaTrQMZxM4"
+        }
+      ]
+    }
+  }
+}

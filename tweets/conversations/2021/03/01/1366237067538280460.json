@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1366237067538280460"
+        ],
+        "editableUntil": "2021-03-01T05:01:15.015Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D59tvE1glp",
+          "expanded_url": "https://frontier.pioneer.app/posts/f00fc82d-definet-progress-update-february-28th-2021",
+          "display_url": "frontier.pioneer.app/posts/f00fc82d…",
+          "indices": [
+            "249",
+            "272"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "1",
+    "id_str": "1366237067538280460",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1366237067538280460",
+    "possibly_sensitive": false,
+    "created_at": "Mon Mar 01 04:01:15 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nThis week went a bit off the rails. Didn't get much done on the product. That said, we do have some meetings lined up with investors this coming week and a clearer plan for the S…\n\nRead the rest here:\n\n https://t.co/D59tvE1glp",
+    "lang": "en"
+  }
+}

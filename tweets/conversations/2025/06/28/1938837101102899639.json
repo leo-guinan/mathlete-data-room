@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938837101102899639"
+        ],
+        "editableUntil": "2025-06-28T06:49:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Hrishi",
+          "screen_name": "hrishioa",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "1548645654",
+          "id": "1548645654"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ThjCiVYYP8",
+          "expanded_url": "https://github.com/leo-guinan/PhD/blob/main/papers/Network%20Relativity/Network%20Relativity%20Theory.md",
+          "display_url": "github.com/leo-guinan/PhD…",
+          "indices": [
+            "235",
+            "258"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1938837101102899639/photo/1",
+          "indices": [
+            "259",
+            "282"
+          ],
+          "url": "https://t.co/BC6W97o0bx",
+          "media_url": "http://pbs.twimg.com/media/GugiEKxXAAAPMKt.jpg",
+          "id_str": "1938837094589202432",
+          "id": "1938837094589202432",
+          "media_url_https": "https://pbs.twimg.com/media/GugiEKxXAAAPMKt.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/BC6W97o0bx"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1938661610249429394",
+    "id_str": "1938837101102899639",
+    "in_reply_to_user_id": "1548645654",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938837101102899639",
+    "in_reply_to_status_id": "1938661610249429394",
+    "possibly_sensitive": false,
+    "created_at": "Sat Jun 28 05:49:21 +0000 2025",
+    "favorited": false,
+    "full_text": "@hrishioa Model time in your system not as a number, but as a set of changes experienced by a domain object. \n\nHave a slow lane and a fast lane, and you can do a lot of really cool things due to the principles of network relativity. \n\nhttps://t.co/ThjCiVYYP8 https://t.co/BC6W97o0bx",
+    "lang": "en",
+    "in_reply_to_screen_name": "hrishioa",
+    "in_reply_to_user_id_str": "1548645654",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1938837101102899639/photo/1",
+          "indices": [
+            "259",
+            "282"
+          ],
+          "url": "https://t.co/BC6W97o0bx",
+          "media_url": "http://pbs.twimg.com/media/GugiEKxXAAAPMKt.jpg",
+          "id_str": "1938837094589202432",
+          "id": "1938837094589202432",
+          "media_url_https": "https://pbs.twimg.com/media/GugiEKxXAAAPMKt.jpg",
+          "sizes": {
+            "medium": {
+              "w": "553",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "313",
+              "h": "680",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "943",
+              "h": "2048",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/BC6W97o0bx"
+        }
+      ]
+    }
+  }
+}

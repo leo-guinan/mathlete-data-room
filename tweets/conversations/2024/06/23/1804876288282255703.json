@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1804876288282255703"
+        ],
+        "editableUntil": "2024-06-23T14:56:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Colleen M. Brady",
+          "screen_name": "ColleenMBrady",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "803647670",
+          "id": "803647670"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "55"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1804274691034546586",
+    "id_str": "1804876288282255703",
+    "in_reply_to_user_id": "803647670",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1804876288282255703",
+    "in_reply_to_status_id": "1804274691034546586",
+    "created_at": "Sun Jun 23 13:56:54 +0000 2024",
+    "favorited": false,
+    "full_text": "@ColleenMBrady Awesome! Really looking forward to it :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "ColleenMBrady",
+    "in_reply_to_user_id_str": "803647670"
+  }
+}

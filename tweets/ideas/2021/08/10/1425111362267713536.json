@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1425111362267713536"
+        ],
+        "editableUntil": "2021-08-10T16:06:40.710Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1425111362267713536/photo/1",
+          "indices": [
+            "49",
+            "72"
+          ],
+          "url": "https://t.co/BNo5r14S6J",
+          "media_url": "http://pbs.twimg.com/media/E8cDOyJWEAg3LKM.jpg",
+          "id_str": "1425111359600070664",
+          "id": "1425111359600070664",
+          "media_url_https": "https://pbs.twimg.com/media/E8cDOyJWEAg3LKM.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/BNo5r14S6J"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "72"
+    ],
+    "favorite_count": "9",
+    "id_str": "1425111362267713536",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1425111362267713536",
+    "possibly_sensitive": false,
+    "created_at": "Tue Aug 10 15:06:40 +0000 2021",
+    "favorited": false,
+    "full_text": "Me, trying to get things done.\n\nMy dog: Hold me! https://t.co/BNo5r14S6J",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1425111362267713536/photo/1",
+          "indices": [
+            "49",
+            "72"
+          ],
+          "url": "https://t.co/BNo5r14S6J",
+          "media_url": "http://pbs.twimg.com/media/E8cDOyJWEAg3LKM.jpg",
+          "id_str": "1425111359600070664",
+          "id": "1425111359600070664",
+          "media_url_https": "https://pbs.twimg.com/media/E8cDOyJWEAg3LKM.jpg",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "510",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "900",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/BNo5r14S6J"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1902157932428407218"
+        ],
+        "editableUntil": "2025-03-19T01:39:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anna Gát 🧭",
+          "screen_name": "TheAnnaGat",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "22073831",
+          "id": "22073831"
+        },
+        {
+          "name": "Build In Public University",
+          "screen_name": "BuildInPublicU",
+          "indices": [
+            "27",
+            "42"
+          ],
+          "id_str": "1553802498720374784",
+          "id": "1553802498720374784"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "212"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1902157203017966015",
+    "id_str": "1902157932428407218",
+    "in_reply_to_user_id": "22073831",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1902157932428407218",
+    "in_reply_to_status_id": "1902157203017966015",
+    "created_at": "Wed Mar 19 00:39:26 +0000 2025",
+    "favorited": false,
+    "full_text": "@TheAnnaGat I'm setting up @BuildInPublicU so there's always a guild you can find and join. \n\nCore values are be kind, be generous, and be curious.\n\nAnything beyond those is up for debate.\n\nIt's a place to build.",
+    "lang": "en",
+    "in_reply_to_screen_name": "TheAnnaGat",
+    "in_reply_to_user_id_str": "22073831"
+  }
+}

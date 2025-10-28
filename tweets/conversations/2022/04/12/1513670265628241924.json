@@ -1,0 +1,67 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513670265628241924"
+        ],
+        "editableUntil": "2022-04-12T01:08:08.616Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        },
+        {
+          "name": "MotivateU",
+          "screen_name": "MotivateUTech",
+          "indices": [
+            "39",
+            "53"
+          ],
+          "id_str": "1378796282295255045",
+          "id": "1378796282295255045"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3UoHOmz87C",
+          "expanded_url": "https://wefunder.com/motivateu",
+          "display_url": "wefunder.com/motivateu",
+          "indices": [
+            "97",
+            "120"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "120"
+    ],
+    "favorite_count": "0",
+    "id_str": "1513670265628241924",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513670265628241924",
+    "possibly_sensitive": false,
+    "created_at": "Tue Apr 12 00:08:08 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @StroutMotivateU: Want to invest in @MotivateUTech? For more information and to invest visit: https://t.co/3UoHOmz87C",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1403382319113773059"
+        ],
+        "editableUntil": "2021-06-11T17:03:13.116Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fXSZcijBE4",
+          "expanded_url": "https://app.hopin.com/events/the-on-deck-learning-conference-2021/",
+          "display_url": "app.hopin.com/events/the-on-…",
+          "indices": [
+            "64",
+            "87"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "87"
+    ],
+    "favorite_count": "0",
+    "id_str": "1403382319113773059",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1403382319113773059",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 11 16:03:13 +0000 2021",
+    "favorited": false,
+    "full_text": "Excited for day 3 of the On Deck Learning Conference! Join us!\n\nhttps://t.co/fXSZcijBE4",
+    "lang": "en"
+  }
+}

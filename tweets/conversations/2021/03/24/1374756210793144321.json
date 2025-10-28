@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1374756210793144321"
+        ],
+        "editableUntil": "2021-03-24T17:13:17.045Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aaron Dinin",
+          "screen_name": "AaronDinin",
+          "indices": [
+            "151",
+            "162"
+          ],
+          "id_str": "260272608",
+          "id": "260272608"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Lp7a2kCfI9",
+          "expanded_url": "https://link.medium.com/GggyMnCiTeb",
+          "display_url": "link.medium.com/GggyMnCiTeb",
+          "indices": [
+            "163",
+            "186"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "186"
+    ],
+    "favorite_count": "1",
+    "id_str": "1374756210793144321",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1374756210793144321",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 24 16:13:17 +0000 2021",
+    "favorited": false,
+    "full_text": "“We need to do a better job of glorifying founders who prioritize protecting their users above founders who prioritize protecting their bottom lines.” @AaronDinin https://t.co/Lp7a2kCfI9",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1382276835661262850"
+        ],
+        "editableUntil": "2021-04-14T11:17:33.740Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "launchinpublic",
+          "indices": [
+            "56",
+            "71"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brendan McAdams",
+          "screen_name": "brendanmcadams",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "118678489",
+          "id": "118678489"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1382276835661262850",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1382276835661262850",
+    "created_at": "Wed Apr 14 10:17:33 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @brendanmcadams: I'm pleased to announce, after much #launchinpublic learning, the B2B Sales Conversation. \n\nPart sales training and wor…",
+    "lang": "en"
+  }
+}

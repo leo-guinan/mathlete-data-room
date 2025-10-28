@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1395402910280962051"
+        ],
+        "editableUntil": "2021-05-20T16:35:53.800Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tim Connors",
+          "screen_name": "itstimconnors",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "273565626",
+          "id": "273565626"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "268"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1395400812810194946",
+    "id_str": "1395402910280962051",
+    "in_reply_to_user_id": "273565626",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1395402910280962051",
+    "in_reply_to_status_id": "1395400812810194946",
+    "created_at": "Thu May 20 15:35:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@itstimconnors definitely. That's one thing that I've noticed as well. Everybody uses words that they define differently. It's a challenge to ensure that the words you use to communicate are received by someone the way you intended. The internet made this more obvious",
+    "lang": "en",
+    "in_reply_to_screen_name": "itstimconnors",
+    "in_reply_to_user_id_str": "273565626"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346611473657835520"
+        ],
+        "editableUntil": "2021-01-06T01:16:08.808Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "fintechjunkie",
+          "screen_name": "fintechjunkie",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "3153520937",
+          "id": "3153520937"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/fintechjunkie/status/1346611109835452418/photo/1",
+          "source_status_id": "1346611109835452418",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/Trt4kizVtY",
+          "media_url": "http://pbs.twimg.com/media/ErAfqpwWMAIDBiI.jpg",
+          "id_str": "1346611106207379458",
+          "source_user_id": "3153520937",
+          "id": "1346611106207379458",
+          "media_url_https": "https://pbs.twimg.com/media/ErAfqpwWMAIDBiI.jpg",
+          "source_user_id_str": "3153520937",
+          "sizes": {
+            "large": {
+              "w": "526",
+              "h": "514",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "526",
+              "h": "514",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "526",
+              "h": "514",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1346611109835452418",
+          "display_url": "pic.x.com/Trt4kizVtY"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "59"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346611473657835520",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346611473657835520",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jan 06 00:16:08 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @fintechjunkie: Made me laugh!!! https://t.co/Trt4kizVtY",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/fintechjunkie/status/1346611109835452418/photo/1",
+          "source_status_id": "1346611109835452418",
+          "indices": [
+            "36",
+            "59"
+          ],
+          "url": "https://t.co/Trt4kizVtY",
+          "media_url": "http://pbs.twimg.com/media/ErAfqpwWMAIDBiI.jpg",
+          "id_str": "1346611106207379458",
+          "source_user_id": "3153520937",
+          "id": "1346611106207379458",
+          "media_url_https": "https://pbs.twimg.com/media/ErAfqpwWMAIDBiI.jpg",
+          "source_user_id_str": "3153520937",
+          "sizes": {
+            "large": {
+              "w": "526",
+              "h": "514",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "526",
+              "h": "514",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "526",
+              "h": "514",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1346611109835452418",
+          "display_url": "pic.x.com/Trt4kizVtY"
+        }
+      ]
+    }
+  }
+}

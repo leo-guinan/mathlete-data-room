@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1579860261682704391"
+        ],
+        "editableUntil": "2022-10-11T16:13:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FKd3INbc3G",
+          "expanded_url": "https://x.com/nicktorba/status/1579832924790489088",
+          "display_url": "x.com/nicktorba/stat…",
+          "indices": [
+            "122",
+            "145"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "145"
+    ],
+    "favorite_count": "1",
+    "id_str": "1579860261682704391",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1579860261682704391",
+    "possibly_sensitive": false,
+    "created_at": "Tue Oct 11 15:43:33 +0000 2022",
+    "favorited": false,
+    "full_text": "This is really the best way. Let your users help you prioritize the work by telling you what they care about.\n\nLove this! https://t.co/FKd3INbc3G",
+    "lang": "en"
+  }
+}

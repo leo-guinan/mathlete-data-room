@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1561818227994394624"
+        ],
+        "editableUntil": "2022-08-22T21:20:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1561818227994394624/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/K1MO52sfov",
+          "media_url": "http://pbs.twimg.com/media/FayxYRLXkAIiTcC.jpg",
+          "id_str": "1561818201276780546",
+          "id": "1561818201276780546",
+          "media_url_https": "https://pbs.twimg.com/media/FayxYRLXkAIiTcC.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/K1MO52sfov"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "206"
+    ],
+    "favorite_count": "6",
+    "id_str": "1561818227994394624",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1561818227994394624",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 22 20:50:57 +0000 2022",
+    "favorited": false,
+    "full_text": "Tweaked my neck and was using a heating pad on it. \n\nGot up to do something and came back to this. \n\nShe was not moving without a fight...this was her favorite spot she's ever found. https://t.co/K1MO52sfov",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1561818227994394624/photo/1",
+          "indices": [
+            "183",
+            "206"
+          ],
+          "url": "https://t.co/K1MO52sfov",
+          "media_url": "http://pbs.twimg.com/media/FayxYRLXkAIiTcC.jpg",
+          "id_str": "1561818201276780546",
+          "id": "1561818201276780546",
+          "media_url_https": "https://pbs.twimg.com/media/FayxYRLXkAIiTcC.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "900",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "2048",
+              "h": "1536",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "510",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/K1MO52sfov"
+        }
+      ]
+    }
+  }
+}

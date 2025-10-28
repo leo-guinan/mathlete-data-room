@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1564968592319315969"
+        ],
+        "editableUntil": "2022-08-31T13:59:22.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "RossiniB",
+          "screen_name": "randomshenans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "121729403",
+          "id": "121729403"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "252"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1564929482472964096",
+    "id_str": "1564968592319315969",
+    "in_reply_to_user_id": "121729403",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1564968592319315969",
+    "in_reply_to_status_id": "1564929482472964096",
+    "created_at": "Wed Aug 31 13:29:22 +0000 2022",
+    "favorited": false,
+    "full_text": "@randomshenans I think people checking out is a result of the existing systems as well. When people aren't making enough money to create a decent life and that's paired with shitty work, shitty bosses, and everything else, it's tough to stay motivated.",
+    "lang": "en",
+    "in_reply_to_screen_name": "randomshenans",
+    "in_reply_to_user_id_str": "121729403"
+  }
+}

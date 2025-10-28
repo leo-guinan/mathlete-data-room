@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1693772589791871044"
+        ],
+        "editableUntil": "2023-08-22T00:50:28.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Kia Kamgar",
+          "screen_name": "kiakamgar",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "4270301",
+          "id": "4270301"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1693333471748329818",
+    "id_str": "1693772589791871044",
+    "in_reply_to_user_id": "4270301",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1693772589791871044",
+    "in_reply_to_status_id": "1693333471748329818",
+    "created_at": "Mon Aug 21 23:50:28 +0000 2023",
+    "favorited": false,
+    "full_text": "@kiakamgar Something really stood out to me:\n\nthe idea that we need to train our guts to have gut feelings we can rely on.\n\nI think that's a hugely underrated view of things. Sure, you might have a gut feeling that the shiny new app will solve all of your problems, but enough time (and…",
+    "lang": "en",
+    "in_reply_to_screen_name": "kiakamgar",
+    "in_reply_to_user_id_str": "4270301"
+  }
+}

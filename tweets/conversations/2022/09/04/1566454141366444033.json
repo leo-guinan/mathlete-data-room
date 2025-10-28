@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566454141366444033"
+        ],
+        "editableUntil": "2022-09-04T16:22:25.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Knight",
+          "screen_name": "onejasonknight",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "20244980",
+          "id": "20244980"
+        },
+        {
+          "name": "Who Should I Unfollow?",
+          "screen_name": "should_unfollow",
+          "indices": [
+            "16",
+            "32"
+          ],
+          "id_str": "1544441682741043203",
+          "id": "1544441682741043203"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8NMkSH841z",
+          "expanded_url": "https://whoshouldiunfollow.com",
+          "display_url": "whoshouldiunfollow.com",
+          "indices": [
+            "140",
+            "163"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "218"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1566453051258535937",
+    "id_str": "1566454141366444033",
+    "in_reply_to_user_id": "20244980",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566454141366444033",
+    "in_reply_to_status_id": "1566453051258535937",
+    "possibly_sensitive": false,
+    "created_at": "Sun Sep 04 15:52:25 +0000 2022",
+    "favorited": false,
+    "full_text": "@onejasonknight @should_unfollow I haven't updated the Twitter account profile yet. Just starting to use it. \n\nBeen building out the app at https://t.co/8NMkSH841z.\n\nWill be updating the Twitter profile for it shortly.",
+    "lang": "en",
+    "in_reply_to_screen_name": "onejasonknight",
+    "in_reply_to_user_id_str": "20244980"
+  }
+}

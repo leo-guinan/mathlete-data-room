@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1566120485397856259"
+        ],
+        "editableUntil": "2022-09-03T18:16:35.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "WritingInPublic",
+          "indices": [
+            "33",
+            "49"
+          ]
+        },
+        {
+          "text": "HitchhikersGuideToTheFuture",
+          "indices": [
+            "52",
+            "80"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yAYJtScmHS",
+          "expanded_url": "https://www.hitchhikersguidetothefuture.com/building-writing-in-public-the-game-plan/",
+          "display_url": "hitchhikersguidetothefuture.com/building-writi…",
+          "indices": [
+            "82",
+            "105"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "105"
+    ],
+    "favorite_count": "0",
+    "id_str": "1566120485397856259",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1566120485397856259",
+    "possibly_sensitive": false,
+    "created_at": "Sat Sep 03 17:46:35 +0000 2022",
+    "favorited": false,
+    "full_text": "New post outlining some ideas on #WritingInPublic:\n\n#HitchhikersGuideToTheFuture\n\nhttps://t.co/yAYJtScmHS",
+    "lang": "en"
+  }
+}

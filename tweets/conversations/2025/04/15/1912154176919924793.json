@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1912154176919924793"
+        ],
+        "editableUntil": "2025-04-15T15:40:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tom Davenport",
+          "screen_name": "TomDavenport",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "14109795",
+          "id": "14109795"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "49"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1912151068638654900",
+    "id_str": "1912154176919924793",
+    "in_reply_to_user_id": "14109795",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1912154176919924793",
+    "in_reply_to_status_id": "1912151068638654900",
+    "created_at": "Tue Apr 15 14:40:56 +0000 2025",
+    "favorited": false,
+    "full_text": "@TomDavenport Sent! Excited to get your feedback!",
+    "lang": "en",
+    "in_reply_to_screen_name": "TomDavenport",
+    "in_reply_to_user_id_str": "14109795"
+  }
+}

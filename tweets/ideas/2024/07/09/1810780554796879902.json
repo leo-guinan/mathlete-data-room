@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1810780554796879902"
+        ],
+        "editableUntil": "2024-07-09T21:58:21.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "273"
+    ],
+    "favorite_count": "0",
+    "id_str": "1810780554796879902",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1810780554796879902",
+    "created_at": "Tue Jul 09 20:58:21 +0000 2024",
+    "favorited": false,
+    "full_text": "Damn, the power of dynamic views populating from an AI chat is really fucking cool.\n\nNow saving some messages in JSON that act as links that can pass data on to the other half of the page and populate fields based on what the user wants.\n\nNot full generative UI, but close.",
+    "lang": "en"
+  }
+}

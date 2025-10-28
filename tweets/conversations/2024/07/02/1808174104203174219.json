@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1808174104203174219"
+        ],
+        "editableUntil": "2024-07-02T17:21:15.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "OMKAR  KADAM",
+          "screen_name": "omkarokkadam",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "1351221828",
+          "id": "1351221828"
+        },
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "14",
+            "26"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        },
+        {
+          "name": "nights & weekends",
+          "screen_name": "_nightsweekends",
+          "indices": [
+            "27",
+            "43"
+          ],
+          "id_str": "1635392864212463616",
+          "id": "1635392864212463616"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "164"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1808173478564044959",
+    "id_str": "1808174104203174219",
+    "in_reply_to_user_id": "1351221828",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1808174104203174219",
+    "in_reply_to_status_id": "1808173478564044959",
+    "created_at": "Tue Jul 02 16:21:15 +0000 2024",
+    "favorited": false,
+    "full_text": "@omkarokkadam @_buildspace @_nightsweekends Just subscribed! Excited to dig in and listen to your conversations so far. Looks like you are dropping them quickly! :)",
+    "lang": "en",
+    "in_reply_to_screen_name": "omkarokkadam",
+    "in_reply_to_user_id_str": "1351221828"
+  }
+}

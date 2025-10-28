@@ -1,0 +1,91 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1513247423929458694"
+        ],
+        "editableUntil": "2022-04-10T21:07:55.299Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "17",
+            "26"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        },
+        {
+          "name": "Dani Trusca",
+          "screen_name": "DanielTrusca1",
+          "indices": [
+            "27",
+            "41"
+          ],
+          "id_str": "1322099857377677312",
+          "id": "1322099857377677312"
+        },
+        {
+          "name": "Santosh",
+          "screen_name": "MrSantoshSuresh",
+          "indices": [
+            "42",
+            "58"
+          ],
+          "id_str": "1388565707000991745",
+          "id": "1388565707000991745"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/bzkHUNjWRW",
+          "expanded_url": "https://feathercrm.io",
+          "display_url": "feathercrm.io",
+          "indices": [
+            "189",
+            "212"
+          ]
+        },
+        {
+          "url": "https://t.co/WydWmfGPuT",
+          "expanded_url": "https://www.loom.com/share/881ca7c254134e12b423c833b5377a0e",
+          "display_url": "loom.com/share/881ca7c2…",
+          "indices": [
+            "252",
+            "275"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "319"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1513236454586998785",
+    "id_str": "1513247423929458694",
+    "in_reply_to_user_id": "1408541390401773569",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1513247423929458694",
+    "in_reply_to_status_id": "1513236454586998785",
+    "possibly_sensitive": false,
+    "created_at": "Sun Apr 10 20:07:55 +0000 2022",
+    "favorited": false,
+    "full_text": "@thebetternotion @reddy2go @DanielTrusca1 @MrSantoshSuresh The main features are available now, I just haven't added the analytics or subscription layer for paid accounts.\n\nAvailable here: https://t.co/bzkHUNjWRW\n\nAnd here's a quick video walkthrough: https://t.co/WydWmfGPuT\n\nMy DMs are open if you have any questions!",
+    "lang": "en",
+    "in_reply_to_screen_name": "onehalfcanvas",
+    "in_reply_to_user_id_str": "1408541390401773569"
+  }
+}

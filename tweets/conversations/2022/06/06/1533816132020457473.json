@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1533816132020457473"
+        ],
+        "editableUntil": "2022-06-06T14:50:37.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Evidence-based SE",
+          "screen_name": "evidenceSE",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1519325733788790788",
+          "id": "1519325733788790788"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "272"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1533815772270796800",
+    "id_str": "1533816132020457473",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1533816132020457473",
+    "in_reply_to_status_id": "1533815772270796800",
+    "created_at": "Mon Jun 06 14:20:37 +0000 2022",
+    "favorited": false,
+    "full_text": "@evidenceSE And by that, I mean that management treats estimates as guarantees for delivery.\n\nWhich affects a team's ability to estimate. \n\nBut that doesn't happen on all teams, so I think there will be extra noise in the data that you won't really be able to account for.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

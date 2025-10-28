@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1426539860198838287"
+        ],
+        "editableUntil": "2021-08-14T14:43:01.157Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brendan McAdams",
+          "screen_name": "brendanmcadams",
+          "indices": [
+            "64",
+            "79"
+          ],
+          "id_str": "118678489",
+          "id": "118678489"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vPk1dhG3pM",
+          "expanded_url": "https://podcasts.apple.com/us/podcast/5-crms-start-simple/id1574658061?i=1000531325646",
+          "display_url": "podcasts.apple.com/us/podcast/5-c…",
+          "indices": [
+            "224",
+            "247"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "247"
+    ],
+    "favorite_count": "8",
+    "id_str": "1426539860198838287",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1426539860198838287",
+    "possibly_sensitive": false,
+    "created_at": "Sat Aug 14 13:43:01 +0000 2021",
+    "favorited": false,
+    "full_text": "I'm listening to the episode of Let's Chat Sales about CRMs and @brendanmcadams pointed out something that I wanted to dive into:\n\nPeople have a tendency to try to automate things before they have figured out how to do it.\n\nhttps://t.co/vPk1dhG3pM",
+    "lang": "en"
+  }
+}

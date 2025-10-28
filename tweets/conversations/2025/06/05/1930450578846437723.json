@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1930450578846437723"
+        ],
+        "editableUntil": "2025-06-05T03:24:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "KP",
+          "screen_name": "thisiskp_",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "4736729423",
+          "id": "4736729423"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4RX3ztwhmK",
+          "expanded_url": "https://hitchhikertothefuture.substack.com/p/welcome-to-day-1-of-the-future",
+          "display_url": "hitchhikertothefuture.substack.com/p/welcome-to-d…",
+          "indices": [
+            "44",
+            "67"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "67"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1930309096869122177",
+    "id_str": "1930450578846437723",
+    "in_reply_to_user_id": "4736729423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1930450578846437723",
+    "in_reply_to_status_id": "1930309096869122177",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 05 02:24:18 +0000 2025",
+    "favorited": false,
+    "full_text": "@thisiskp_ 👋 that's part of the framework:\n\nhttps://t.co/4RX3ztwhmK",
+    "lang": "en",
+    "in_reply_to_screen_name": "thisiskp_",
+    "in_reply_to_user_id_str": "4736729423"
+  }
+}

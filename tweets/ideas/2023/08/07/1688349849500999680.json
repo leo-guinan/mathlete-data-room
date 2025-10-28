@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1688349849500999680"
+        ],
+        "editableUntil": "2023-08-07T01:42:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KphsBfjoF1",
+          "expanded_url": "http://buildinpublic.coach",
+          "display_url": "buildinpublic.coach",
+          "indices": [
+            "32",
+            "55"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1688349849500999680/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/381Qi2Qz6S",
+          "media_url": "http://pbs.twimg.com/media/F245J6lXgAAAFQx.jpg",
+          "id_str": "1688349752818106368",
+          "id": "1688349752818106368",
+          "media_url_https": "https://pbs.twimg.com/media/F245J6lXgAAAFQx.jpg",
+          "sizes": {
+            "large": {
+              "w": "1146",
+              "h": "954",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "566",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1146",
+              "h": "954",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/381Qi2Qz6S"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "304"
+    ],
+    "favorite_count": "3",
+    "id_str": "1688349849500999680",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1688349849500999680",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 07 00:42:26 +0000 2023",
+    "favorited": false,
+    "full_text": "New setup works a lot better on https://t.co/KphsBfjoF1\n\nI'm no longer using an agent to determine what to do, I've got a specified set of prompts/steps that I go through.\n\nI think I'll be able to add an agent at the end with some more specialized tools once I get there, but for… https://t.co/381Qi2Qz6S",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1688349849500999680/photo/1",
+          "indices": [
+            "281",
+            "304"
+          ],
+          "url": "https://t.co/381Qi2Qz6S",
+          "media_url": "http://pbs.twimg.com/media/F245J6lXgAAAFQx.jpg",
+          "id_str": "1688349752818106368",
+          "id": "1688349752818106368",
+          "media_url_https": "https://pbs.twimg.com/media/F245J6lXgAAAFQx.jpg",
+          "sizes": {
+            "large": {
+              "w": "1146",
+              "h": "954",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "566",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1146",
+              "h": "954",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/381Qi2Qz6S"
+        }
+      ]
+    }
+  }
+}

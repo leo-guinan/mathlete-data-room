@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931103646697320806"
+        ],
+        "editableUntil": "2025-06-06T22:39:22.200Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Levin",
+          "screen_name": "iamjasonlevin",
+          "indices": [
+            "3",
+            "17"
+          ],
+          "id_str": "362189690",
+          "id": "362189690"
+        },
+        {
+          "name": "Dwarkesh Patel",
+          "screen_name": "dwarkesh_sp",
+          "indices": [
+            "19",
+            "31"
+          ],
+          "id_str": "1209960539390201864",
+          "id": "1209960539390201864"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "103"
+    ],
+    "favorite_count": "0",
+    "id_str": "1931103646697320806",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931103646697320806",
+    "created_at": "Fri Jun 06 21:39:22 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @iamjasonlevin: @dwarkesh_sp Academics write for each other\n\nWhen you need to write for the internet",
+    "lang": "en"
+  }
+}

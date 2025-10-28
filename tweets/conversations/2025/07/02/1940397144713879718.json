@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940397144713879718"
+        ],
+        "editableUntil": "2025-07-02T14:08:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Rally",
+          "screen_name": "justaskrally",
+          "indices": [
+            "40",
+            "53"
+          ],
+          "id_str": "1887087589544665088",
+          "id": "1887087589544665088"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "244"
+    ],
+    "favorite_count": "0",
+    "id_str": "1940397144713879718",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940397144713879718",
+    "created_at": "Wed Jul 02 13:08:24 +0000 2025",
+    "favorited": false,
+    "full_text": "Running an experiment this morning with @justaskrally.\n\nI've got 5 audiences:\n\nTech Workers\nHealthcare Professionals\nParents with Young Children\nCreative Professionals\nRetirees\n\nWhat I want to do is test their willingness and ability to change.",
+    "lang": "en"
+  }
+}

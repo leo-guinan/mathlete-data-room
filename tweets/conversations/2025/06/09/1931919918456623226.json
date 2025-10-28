@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931919918456623226"
+        ],
+        "editableUntil": "2025-06-09T04:42:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Alexis Ohanian 🗽",
+          "screen_name": "alexisohanian",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "811350",
+          "id": "811350"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "161"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1931712872343847154",
+    "id_str": "1931919918456623226",
+    "in_reply_to_user_id": "811350",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931919918456623226",
+    "in_reply_to_status_id": "1931712872343847154",
+    "created_at": "Mon Jun 09 03:42:56 +0000 2025",
+    "favorited": false,
+    "full_text": "@alexisohanian You actually have it backwards. The only dead internet will be dead to the AIs. Humans can defend against them easily. \n\nYou’ll see soon enough. 😉",
+    "lang": "en",
+    "in_reply_to_screen_name": "alexisohanian",
+    "in_reply_to_user_id_str": "811350"
+  }
+}

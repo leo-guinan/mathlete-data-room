@@ -1,0 +1,125 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1520480209476202496"
+        ],
+        "editableUntil": "2022-04-30T19:38:25.752Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Mindset By Dave",
+          "screen_name": "MindsetByDave",
+          "indices": [
+            "131",
+            "145"
+          ],
+          "id_str": "112397978",
+          "id": "112397978"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1520480209476202496/photo/1",
+          "indices": [
+            "247",
+            "270"
+          ],
+          "url": "https://t.co/MD7t3XOPHW",
+          "media_url": "http://pbs.twimg.com/media/FRnTOY8XsAMmErX.jpg",
+          "id_str": "1520478593381543939",
+          "id": "1520478593381543939",
+          "media_url_https": "https://pbs.twimg.com/media/FRnTOY8XsAMmErX.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MD7t3XOPHW"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "270"
+    ],
+    "favorite_count": "2",
+    "id_str": "1520480209476202496",
+    "truncated": false,
+    "retweet_count": "2",
+    "id": "1520480209476202496",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 30 19:08:25 +0000 2022",
+    "favorited": false,
+    "full_text": "Was trying to think of a super cool way to announce this, but couldn't, so I'm just going to tweet it out.\n\nI get to be a guest on @MindsetByDave 's Mental Health Ultra Marathon!!!\n\nI'm really excited to chat about mental health and social media. https://t.co/MD7t3XOPHW",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1520480209476202496/photo/1",
+          "indices": [
+            "247",
+            "270"
+          ],
+          "url": "https://t.co/MD7t3XOPHW",
+          "media_url": "http://pbs.twimg.com/media/FRnTOY8XsAMmErX.jpg",
+          "id_str": "1520478593381543939",
+          "id": "1520478593381543939",
+          "media_url_https": "https://pbs.twimg.com/media/FRnTOY8XsAMmErX.jpg",
+          "sizes": {
+            "large": {
+              "w": "1280",
+              "h": "720",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/MD7t3XOPHW"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1975288274190033013"
+        ],
+        "editableUntil": "2025-10-06T20:53:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Owlcyon",
+          "screen_name": "owlcyon",
+          "indices": [
+            "0",
+            "8"
+          ],
+          "id_str": "1896636458829803520",
+          "id": "1896636458829803520"
+        },
+        {
+          "name": "Justin Allingham",
+          "screen_name": "JustinAllingham",
+          "indices": [
+            "9",
+            "25"
+          ],
+          "id_str": "2918253344",
+          "id": "2918253344"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sgpjIiGekZ",
+          "expanded_url": "https://manifold.markets?r=Q2h1bWNodWx1bQ",
+          "display_url": "manifold.markets/?r=Q2h1bWNodWx…",
+          "indices": [
+            "101",
+            "124"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "124"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1975287785948070015",
+    "id_str": "1975288274190033013",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1975288274190033013",
+    "in_reply_to_status_id": "1975287785948070015",
+    "possibly_sensitive": false,
+    "created_at": "Mon Oct 06 19:53:18 +0000 2025",
+    "favorited": false,
+    "full_text": "@owlcyon @JustinAllingham Whoops. I didn't even get the referral link right. Use this referral link:\nhttps://t.co/sgpjIiGekZ",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

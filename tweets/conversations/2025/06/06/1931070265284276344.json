@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1931070265284276344"
+        ],
+        "editableUntil": "2025-06-06T20:26:43.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Noah Smith 🐇",
+          "screen_name": "Noahpinion",
+          "indices": [
+            "16",
+            "27"
+          ],
+          "id_str": "281877818",
+          "id": "281877818"
+        },
+        {
+          "name": "Elon Musk",
+          "screen_name": "elonmusk",
+          "indices": [
+            "28",
+            "37"
+          ],
+          "id_str": "44196397",
+          "id": "44196397"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "310"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1931070049172717741",
+    "id_str": "1931070265284276344",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1931070265284276344",
+    "in_reply_to_status_id": "1931070049172717741",
+    "created_at": "Fri Jun 06 19:26:43 +0000 2025",
+    "favorited": false,
+    "full_text": "@crypto_foxtrot @Noahpinion @elonmusk It's not valuable for people to give it to them, because they don't have the money to spend. \n\nSo the future goes on by without them because they can't afford any of it.\n\nSo they don't care about watching it all burn. Why would they? They don't have a stake in it winning.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

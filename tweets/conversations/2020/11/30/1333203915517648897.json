@@ -1,0 +1,154 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1333203915517648897"
+        ],
+        "editableUntil": "2020-11-30T01:19:17.847Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "￮༺𓂂𓂃ᗙ 𝔐𝔞𝔯𝔱𝔦𝔫 ᗛ𓂃𓂂༻￮",
+          "screen_name": "KlatuBaradaNiko",
+          "indices": [
+            "3",
+            "19"
+          ],
+          "id_str": "1388656794",
+          "id": "1388656794"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/KlatuBaradaNiko/status/1327810311554940934/video/1",
+          "source_status_id": "1327810311554940934",
+          "indices": [
+            "40",
+            "63"
+          ],
+          "url": "https://t.co/ud5whqdvwZ",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327810289094463489/pu/img/845IrM39i3sm80Qq.jpg",
+          "id_str": "1327810289094463489",
+          "source_user_id": "1388656794",
+          "id": "1327810289094463489",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327810289094463489/pu/img/845IrM39i3sm80Qq.jpg",
+          "source_user_id_str": "1388656794",
+          "sizes": {
+            "large": {
+              "w": "202",
+              "h": "360",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "202",
+              "h": "360",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "202",
+              "h": "360",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1327810311554940934",
+          "display_url": "pic.x.com/ud5whqdvwZ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "63"
+    ],
+    "favorite_count": "0",
+    "id_str": "1333203915517648897",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1333203915517648897",
+    "possibly_sensitive": false,
+    "created_at": "Mon Nov 30 00:19:17 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @KlatuBaradaNiko: Lynx cat meowing 🐯 https://t.co/ud5whqdvwZ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/KlatuBaradaNiko/status/1327810311554940934/video/1",
+          "source_status_id": "1327810311554940934",
+          "indices": [
+            "40",
+            "63"
+          ],
+          "url": "https://t.co/ud5whqdvwZ",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327810289094463489/pu/img/845IrM39i3sm80Qq.jpg",
+          "id_str": "1327810289094463489",
+          "video_info": {
+            "aspect_ratio": [
+              "101",
+              "180"
+            ],
+            "duration_millis": "14948",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1327810289094463489/pu/pl/UT8rb5fGoM4RdK-8.m3u8?tag=10"
+              },
+              {
+                "bitrate": "632000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1327810289094463489/pu/vid/202x360/ECKjN3K7zfuw453A.mp4?tag=10"
+              }
+            ]
+          },
+          "source_user_id": "1388656794",
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1327810289094463489",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327810289094463489/pu/img/845IrM39i3sm80Qq.jpg",
+          "source_user_id_str": "1388656794",
+          "sizes": {
+            "large": {
+              "w": "202",
+              "h": "360",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "202",
+              "h": "360",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "202",
+              "h": "360",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "source_status_id_str": "1327810311554940934",
+          "display_url": "pic.x.com/ud5whqdvwZ"
+        }
+      ]
+    }
+  }
+}

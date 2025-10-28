@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1401951366256463876"
+        ],
+        "editableUntil": "2021-06-07T18:17:07.369Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/xzBzlYjRRD",
+          "expanded_url": "https://x.com/aaronreynolds/status/1401731659230220289",
+          "display_url": "x.com/aaronreynolds/…",
+          "indices": [
+            "24",
+            "47"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "47"
+    ],
+    "favorite_count": "1",
+    "id_str": "1401951366256463876",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1401951366256463876",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 07 17:17:07 +0000 2021",
+    "favorited": false,
+    "full_text": "This wins the internet. https://t.co/xzBzlYjRRD",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1815447198240252246"
+        ],
+        "editableUntil": "2024-07-22T19:01:56.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SjSf3f730S",
+          "expanded_url": "https://x.com/jam3scampbell/status/1815311642303009126",
+          "display_url": "x.com/jam3scampbell/…",
+          "indices": [
+            "250",
+            "273"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1815447198240252246/photo/1",
+          "indices": [
+            "274",
+            "297"
+          ],
+          "url": "https://t.co/SWGq84RzRV",
+          "media_url": "http://pbs.twimg.com/media/GTHCx1EWUAAXy7r.jpg",
+          "id_str": "1815446286121717760",
+          "id": "1815446286121717760",
+          "media_url_https": "https://pbs.twimg.com/media/GTHCx1EWUAAXy7r.jpg",
+          "sizes": {
+            "medium": {
+              "w": "941",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1569",
+              "h": "2001",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "533",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/SWGq84RzRV"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "297"
+    ],
+    "favorite_count": "0",
+    "id_str": "1815447198240252246",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1815447198240252246",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 22 18:01:56 +0000 2024",
+    "favorited": false,
+    "full_text": "I'm not entirely sure people are ready for my views on all of this, but fuck it, we ball.\n\n*deep breath*\n\nSuperintelligence is already here, we are just trying to define it incorrectly, so billions of dollars are being spent chasing the wrong thing. https://t.co/SjSf3f730S https://t.co/SWGq84RzRV",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1815447198240252246/photo/1",
+          "indices": [
+            "274",
+            "297"
+          ],
+          "url": "https://t.co/SWGq84RzRV",
+          "media_url": "http://pbs.twimg.com/media/GTHCx1EWUAAXy7r.jpg",
+          "id_str": "1815446286121717760",
+          "id": "1815446286121717760",
+          "media_url_https": "https://pbs.twimg.com/media/GTHCx1EWUAAXy7r.jpg",
+          "sizes": {
+            "medium": {
+              "w": "941",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1569",
+              "h": "2001",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "533",
+              "h": "680",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/SWGq84RzRV"
+        }
+      ]
+    }
+  }
+}

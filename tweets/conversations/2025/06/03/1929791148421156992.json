@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1929791148421156992"
+        ],
+        "editableUntil": "2025-06-03T07:43:58.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jan Wilmake",
+          "screen_name": "janwilmake",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "153933445",
+          "id": "153933445"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TwffOSZOU7",
+          "expanded_url": "http://myaicofounder.com",
+          "display_url": "myaicofounder.com",
+          "indices": [
+            "49",
+            "72"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "177"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1929789812015317495",
+    "id_str": "1929791148421156992",
+    "in_reply_to_user_id": "153933445",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1929791148421156992",
+    "in_reply_to_status_id": "1929789812015317495",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 03 06:43:58 +0000 2025",
+    "favorited": false,
+    "full_text": "@janwilmake @j4redux On that line, I've also got https://t.co/TwffOSZOU7 that is a zombie project :) \n\nalways happy to chat about AI cofounders, because it's what I started with",
+    "lang": "en",
+    "in_reply_to_screen_name": "janwilmake",
+    "in_reply_to_user_id_str": "153933445"
+  }
+}

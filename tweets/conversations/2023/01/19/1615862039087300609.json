@@ -1,0 +1,156 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1615862039087300609"
+        ],
+        "editableUntil": "2023-01-19T00:31:46.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Chuck 🧪✨ Personal Branding Catalyst",
+          "screen_name": "Chuckenspire",
+          "indices": [
+            "54",
+            "67"
+          ],
+          "id_str": "1461236887159382017",
+          "id": "1461236887159382017"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1615862039087300609/video/1",
+          "indices": [
+            "68",
+            "91"
+          ],
+          "url": "https://t.co/EcWioG8HMF",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615861708286791686/pu/img/2X5QjWFMlvOxhEjZ.jpg",
+          "id_str": "1615861708286791686",
+          "id": "1615861708286791686",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615861708286791686/pu/img/2X5QjWFMlvOxhEjZ.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/EcWioG8HMF"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "6",
+    "id_str": "1615862039087300609",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1615862039087300609",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 19 00:01:46 +0000 2023",
+    "favorited": false,
+    "full_text": "Ok, we're finally live!\n\nScale Your Storytelling with @Chuckenspire https://t.co/EcWioG8HMF",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1615862039087300609/video/1",
+          "indices": [
+            "68",
+            "91"
+          ],
+          "url": "https://t.co/EcWioG8HMF",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1615861708286791686/pu/img/2X5QjWFMlvOxhEjZ.jpg",
+          "id_str": "1615861708286791686",
+          "video_info": {
+            "aspect_ratio": [
+              "16",
+              "9"
+            ],
+            "duration_millis": "45400",
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1615861708286791686/pu/pl/1M7iqynxPQFVZAOS.m3u8?tag=12"
+              },
+              {
+                "bitrate": "256000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1615861708286791686/pu/vid/480x270/ZqMP2trR3i1QJcf-.mp4?tag=12"
+              },
+              {
+                "bitrate": "2176000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1615861708286791686/pu/vid/1280x720/Qze0KIK-oDzGK18W.mp4?tag=12"
+              },
+              {
+                "bitrate": "832000",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1615861708286791686/pu/vid/640x360/isUHhncrAGembozC.mp4?tag=12"
+              }
+            ]
+          },
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "id": "1615861708286791686",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1615861708286791686/pu/img/2X5QjWFMlvOxhEjZ.jpg",
+          "sizes": {
+            "large": {
+              "w": "1920",
+              "h": "1080",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "675",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "383",
+              "resize": "fit"
+            }
+          },
+          "type": "video",
+          "display_url": "pic.x.com/EcWioG8HMF"
+        }
+      ]
+    }
+  }
+}

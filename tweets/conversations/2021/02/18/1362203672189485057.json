@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1362203672189485057"
+        ],
+        "editableUntil": "2021-02-18T01:53:58.627Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Karns",
+          "screen_name": "jasonkarns",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "14139806",
+          "id": "14139806"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "300"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1362202151724941312",
+    "id_str": "1362203672189485057",
+    "in_reply_to_user_id": "14139806",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1362203672189485057",
+    "in_reply_to_status_id": "1362202151724941312",
+    "created_at": "Thu Feb 18 00:53:58 +0000 2021",
+    "favorited": false,
+    "full_text": "@jasonkarns @torturecrush I understand what you are saying. To clarify: sometimes the business has stupid use cases that make things prohibitively expensive to implement. I am speaking more to the point where engineers pick a pattern and force business logic to fit that pattern instead of vice versa",
+    "lang": "en",
+    "in_reply_to_screen_name": "jasonkarns",
+    "in_reply_to_user_id_str": "14139806"
+  }
+}

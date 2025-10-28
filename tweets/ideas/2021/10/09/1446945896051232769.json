@@ -1,0 +1,43 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1446945896051232769"
+        ],
+        "editableUntil": "2021-10-09T22:09:19.230Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperchargeYourTime",
+          "indices": [
+            "18",
+            "38"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "3",
+    "id_str": "1446945896051232769",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1446945896051232769",
+    "created_at": "Sat Oct 09 21:09:19 +0000 2021",
+    "favorited": false,
+    "full_text": "The next phase of #SuperchargeYourTime is going to focus on managing your own data. \n\nI'm continuing to build out my model of a Human API. \n\nI think it's an important skill for people to be able to manage their own data. But part of that is the need for companies to let them.",
+    "lang": "en"
+  }
+}

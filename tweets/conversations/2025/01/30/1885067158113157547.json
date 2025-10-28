@@ -1,0 +1,71 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885067158113157547"
+        ],
+        "editableUntil": "2025-01-30T21:46:48.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Will Petillo",
+          "screen_name": "ZenMarmot",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1435147256676581385",
+          "id": "1435147256676581385"
+        },
+        {
+          "name": "Jon 🌌",
+          "screen_name": "jon_vs_moloch",
+          "indices": [
+            "11",
+            "25"
+          ],
+          "id_str": "1759597498379980800",
+          "id": "1759597498379980800"
+        },
+        {
+          "name": "sarah",
+          "screen_name": "littIeramblings",
+          "indices": [
+            "26",
+            "42"
+          ],
+          "id_str": "617055739",
+          "id": "617055739"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "323"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1885065571685093480",
+    "id_str": "1885067158113157547",
+    "in_reply_to_user_id": "1435147256676581385",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885067158113157547",
+    "in_reply_to_status_id": "1885065571685093480",
+    "created_at": "Thu Jan 30 20:46:48 +0000 2025",
+    "favorited": false,
+    "full_text": "@ZenMarmot @jon_vs_moloch @littIeramblings Let me ask you this: have you ever tried to build a non-deterministic system in a complex dynamic world where technology is being developed every single second?\n\nSure, conceptually it's easy to do a lot of different things. In reality, this ends up being most useful to translate…",
+    "lang": "en",
+    "in_reply_to_screen_name": "ZenMarmot",
+    "in_reply_to_user_id_str": "1435147256676581385"
+  }
+}

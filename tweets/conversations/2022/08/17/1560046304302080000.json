@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1560046304302080000"
+        ],
+        "editableUntil": "2022-08-17T23:59:57.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Anshul Nanda",
+          "screen_name": "Anshul_Nanda1",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1479185537831473152",
+          "id": "1479185537831473152"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1560000466263711744",
+    "id_str": "1560046304302080000",
+    "in_reply_to_user_id": "1479185537831473152",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1560046304302080000",
+    "in_reply_to_status_id": "1560000466263711744",
+    "created_at": "Wed Aug 17 23:29:57 +0000 2022",
+    "favorited": false,
+    "full_text": "@Anshul_Nanda1 Yep, I did! It was my second launch via PH and thought it went pretty well, considering I didn't coordinate as much ahead of time as I did the first time, but learned what I needed to learn.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Anshul_Nanda1",
+    "in_reply_to_user_id_str": "1479185537831473152"
+  }
+}

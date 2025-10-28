@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1656679658937565185"
+        ],
+        "editableUntil": "2023-05-11T15:46:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mark Yerkes",
+          "screen_name": "markyerkes1734",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "115456939",
+          "id": "115456939"
+        },
+        {
+          "name": "Chris Jagger",
+          "screen_name": "reggaj",
+          "indices": [
+            "16",
+            "23"
+          ],
+          "id_str": "10056082",
+          "id": "10056082"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/GE4XLnGOdj",
+          "expanded_url": "https://x.com/alexandr_wang/status/1656326759804178432?s=20",
+          "display_url": "x.com/alexandr_wang/…",
+          "indices": [
+            "273",
+            "296"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "296"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1656677782494277635",
+    "id_str": "1656679658937565185",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1656679658937565185",
+    "in_reply_to_status_id": "1656677782494277635",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 11 15:16:24 +0000 2023",
+    "favorited": false,
+    "full_text": "@markyerkes1734 @reggaj There are also a number of companies popping up that can address these concerns. Some use open-source models, some use proprietary models with different safeguards in place.\n\nHere's an example of a company starting to build government partnerships:\nhttps://t.co/GE4XLnGOdj",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

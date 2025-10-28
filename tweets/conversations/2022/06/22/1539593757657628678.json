@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1539593757657628678"
+        ],
+        "editableUntil": "2022-06-22T13:28:50.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "RossiniB",
+          "screen_name": "randomshenans",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "121729403",
+          "id": "121729403"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "257"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1539592105449906178",
+    "id_str": "1539593757657628678",
+    "in_reply_to_user_id": "121729403",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1539593757657628678",
+    "in_reply_to_status_id": "1539592105449906178",
+    "created_at": "Wed Jun 22 12:58:50 +0000 2022",
+    "favorited": false,
+    "full_text": "@randomshenans Haha, I'm the same way. Bought two more last week!\n\nBut there's a plan for them! (and all the others...)\n\nEventually, I'll have a large network of sites that interconnect with each other. But until then, I've got a decent domain collection! 😅",
+    "lang": "en",
+    "in_reply_to_screen_name": "randomshenans",
+    "in_reply_to_user_id_str": "121729403"
+  }
+}

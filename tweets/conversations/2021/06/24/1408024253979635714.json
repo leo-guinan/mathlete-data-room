@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1408024253979635714"
+        ],
+        "editableUntil": "2021-06-24T12:28:36.631Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "OnlyPets",
+          "screen_name": "OnlyPetsHQ",
+          "indices": [
+            "33",
+            "44"
+          ],
+          "id_str": "1360586603715035139",
+          "id": "1360586603715035139"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z4EUitntwG",
+          "expanded_url": "https://onlypets.io/",
+          "display_url": "onlypets.io",
+          "indices": [
+            "46",
+            "69"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "69"
+    ],
+    "favorite_count": "2",
+    "id_str": "1408024253979635714",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1408024253979635714",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 24 11:28:36 +0000 2021",
+    "favorited": false,
+    "full_text": "No people, only pets? Sign me up @OnlyPetsHQ! https://t.co/z4EUitntwG",
+    "lang": "en"
+  }
+}

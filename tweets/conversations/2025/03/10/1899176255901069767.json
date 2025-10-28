@@ -1,0 +1,56 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1899176255901069767"
+        ],
+        "editableUntil": "2025-03-10T20:11:19.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "X",
+          "screen_name": "X",
+          "indices": [
+            "31",
+            "33"
+          ],
+          "id_str": "783214",
+          "id": "783214"
+        },
+        {
+          "name": "Glitch",
+          "screen_name": "glitchishuman",
+          "indices": [
+            "42",
+            "56"
+          ],
+          "id_str": "1364210482387816449",
+          "id": "1364210482387816449"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "276"
+    ],
+    "favorite_count": "1",
+    "id_str": "1899176255901069767",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1899176255901069767",
+    "created_at": "Mon Mar 10 19:11:19 +0000 2025",
+    "favorited": false,
+    "full_text": "I seriously love the fact that @X flagged @glitchishuman as \"problematic\" and \"possibly engaging in platform manipulation\"\n\nLike, thanks for helping me write the narrative! I haven't done anything to actually manipulate the platform yet, but I'm totally going to, and there's…",
+    "lang": "en"
+  }
+}

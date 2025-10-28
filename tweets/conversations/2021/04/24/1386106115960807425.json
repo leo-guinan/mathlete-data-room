@@ -1,0 +1,50 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1386106115960807425"
+        ],
+        "editableUntil": "2021-04-25T00:53:45.308Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Robin",
+          "screen_name": "lil_writer",
+          "indices": [
+            "10",
+            "21"
+          ],
+          "id_str": "552074709",
+          "id": "552074709"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "274"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1386105412026617856",
+    "id_str": "1386106115960807425",
+    "in_reply_to_user_id": "1109863945794400257",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1386106115960807425",
+    "in_reply_to_status_id": "1386105412026617856",
+    "created_at": "Sat Apr 24 23:53:45 +0000 2021",
+    "favorited": false,
+    "full_text": "@Grumpika @lil_writer Yeah, it really confused me. I thought twitter kept unfollowing people or that I was accidentally hitting buttons. Now I just try not to think too hard about it. I just do the best I can and if some people don't like it, oh well. They're missing out. 🙃",
+    "lang": "en",
+    "in_reply_to_user_id_str": "1109863945794400257"
+  }
+}

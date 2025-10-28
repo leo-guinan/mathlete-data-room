@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1375431447079686147"
+        ],
+        "editableUntil": "2021-03-26T13:56:25.921Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/SlNnAQ0qIa",
+          "expanded_url": "https://link.medium.com/rNLTJUloWeb",
+          "display_url": "link.medium.com/rNLTJUloWeb",
+          "indices": [
+            "0",
+            "23"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "23"
+    ],
+    "favorite_count": "0",
+    "id_str": "1375431447079686147",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1375431447079686147",
+    "possibly_sensitive": false,
+    "created_at": "Fri Mar 26 12:56:25 +0000 2021",
+    "favorited": false,
+    "full_text": "https://t.co/SlNnAQ0qIa",
+    "lang": "zxx"
+  }
+}

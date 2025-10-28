@@ -1,0 +1,143 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1798813640084320538"
+        ],
+        "editableUntil": "2024-06-06T21:26:06.794Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Ellen Fishbein",
+          "screen_name": "EllenRhymes",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "3016316704",
+          "id": "3016316704"
+        },
+        {
+          "name": "Liberty 💚🥃",
+          "screen_name": "LibertyRPF",
+          "indices": [
+            "17",
+            "28"
+          ],
+          "id_str": "702585281",
+          "id": "702585281"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/EllenRhymes/status/1798520438160838691/photo/1",
+          "source_status_id": "1798520438160838691",
+          "indices": [
+            "59",
+            "82"
+          ],
+          "url": "https://t.co/MysaymjIyM",
+          "media_url": "http://pbs.twimg.com/media/GPWgzbiXcAABK3n.jpg",
+          "id_str": "1798520431630053376",
+          "source_user_id": "3016316704",
+          "id": "1798520431630053376",
+          "media_url_https": "https://pbs.twimg.com/media/GPWgzbiXcAABK3n.jpg",
+          "source_user_id_str": "3016316704",
+          "sizes": {
+            "small": {
+              "w": "462",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1390",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "814",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1798520438160838691",
+          "display_url": "pic.x.com/MysaymjIyM"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "82"
+    ],
+    "favorite_count": "0",
+    "id_str": "1798813640084320538",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1798813640084320538",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jun 06 20:26:06 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @EllenRhymes: @LibertyRPF poetry &amp; entrepreneurship https://t.co/MysaymjIyM",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/EllenRhymes/status/1798520438160838691/photo/1",
+          "source_status_id": "1798520438160838691",
+          "indices": [
+            "59",
+            "82"
+          ],
+          "url": "https://t.co/MysaymjIyM",
+          "media_url": "http://pbs.twimg.com/media/GPWgzbiXcAABK3n.jpg",
+          "id_str": "1798520431630053376",
+          "source_user_id": "3016316704",
+          "id": "1798520431630053376",
+          "media_url_https": "https://pbs.twimg.com/media/GPWgzbiXcAABK3n.jpg",
+          "source_user_id_str": "3016316704",
+          "sizes": {
+            "small": {
+              "w": "462",
+              "h": "680",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1390",
+              "h": "2048",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "814",
+              "h": "1200",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1798520438160838691",
+          "display_url": "pic.x.com/MysaymjIyM"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1409831734955360256"
+        ],
+        "editableUntil": "2021-06-29T12:10:53.677Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Harlaksh Singh",
+          "screen_name": "HarlakshS",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1157893313833254913",
+          "id": "1157893313833254913"
+        },
+        {
+          "name": "Arvid Kahl",
+          "screen_name": "arvidkahl",
+          "indices": [
+            "11",
+            "21"
+          ],
+          "id_str": "343990983",
+          "id": "343990983"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1409819286898569219",
+    "id_str": "1409831734955360256",
+    "in_reply_to_user_id": "1157893313833254913",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1409831734955360256",
+    "in_reply_to_status_id": "1409819286898569219",
+    "created_at": "Tue Jun 29 11:10:53 +0000 2021",
+    "favorited": false,
+    "full_text": "@HarlakshS @arvidkahl This is awesome. ❤️",
+    "lang": "en",
+    "in_reply_to_screen_name": "HarlakshS",
+    "in_reply_to_user_id_str": "1157893313833254913"
+  }
+}

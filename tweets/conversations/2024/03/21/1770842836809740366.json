@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1770842836809740366"
+        ],
+        "editableUntil": "2024-03-21T17:00:07.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "danialhasan",
+          "screen_name": "dhasandev",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1319857338958942209",
+          "id": "1319857338958942209"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "148"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1769960737533751626",
+    "id_str": "1770842836809740366",
+    "in_reply_to_user_id": "1319857338958942209",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1770842836809740366",
+    "in_reply_to_status_id": "1769960737533751626",
+    "created_at": "Thu Mar 21 16:00:07 +0000 2024",
+    "favorited": false,
+    "full_text": "@dhasandev That will definitely be added in at some point.  Once i get the basic structures in place, it will be relatively trivial to support that.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dhasandev",
+    "in_reply_to_user_id_str": "1319857338958942209"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1562052074954805250"
+        ],
+        "editableUntil": "2022-08-23T12:50:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        },
+        {
+          "name": "Justin",
+          "screen_name": "JustinQuda",
+          "indices": [
+            "12",
+            "23"
+          ],
+          "id_str": "1463456280773681160",
+          "id": "1463456280773681160"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "283"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1562051200694063105",
+    "id_str": "1562052074954805250",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1562052074954805250",
+    "in_reply_to_status_id": "1562051200694063105",
+    "created_at": "Tue Aug 23 12:20:10 +0000 2022",
+    "favorited": false,
+    "full_text": "@dagorenouf @JustinQuda @feathercrm I'm trying to figure out exactly what it should be classified as. I'm not sure utility is right, but it's close.\n\nI think we need new categories to cover emergent tech. Planning for the evolution of systems and not allowing first to mean monopoly.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561"
+  }
+}

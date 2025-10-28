@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1885804122680500509"
+        ],
+        "editableUntil": "2025-02-01T22:35:14.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "society",
+          "screen_name": "a_real_society",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1286319793767952389",
+          "id": "1286319793767952389"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "291"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1885801774583259442",
+    "id_str": "1885804122680500509",
+    "in_reply_to_user_id": "1286319793767952389",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1885804122680500509",
+    "in_reply_to_status_id": "1885801774583259442",
+    "created_at": "Sat Feb 01 21:35:14 +0000 2025",
+    "favorited": false,
+    "full_text": "@a_real_society I think we are making paths to linear when we live in an exponential reality.\n\nThere shouldn't be college or trade school paths. There should be experiences that lead to other experiences that you can move around between more freely.\n\nWe punish choice by making it expensive.",
+    "lang": "en",
+    "in_reply_to_screen_name": "a_real_society",
+    "in_reply_to_user_id_str": "1286319793767952389"
+  }
+}

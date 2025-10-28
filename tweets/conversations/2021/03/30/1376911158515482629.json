@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1376911158515482629"
+        ],
+        "editableUntil": "2021-03-30T15:56:16.619Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ben Putano 📚",
+          "screen_name": "BenjaminPutano",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "228834325",
+          "id": "228834325"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1376911158515482629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1376911158515482629",
+    "created_at": "Tue Mar 30 14:56:16 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @BenjaminPutano: For startup founders, writing isn't just a tool. It's training for:\n\n- Clear thinking \n- Empathy\n- Persuasion\n- Strateg…",
+    "lang": "en"
+  }
+}

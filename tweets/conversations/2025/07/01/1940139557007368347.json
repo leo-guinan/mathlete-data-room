@@ -1,0 +1,130 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940139557007368347"
+        ],
+        "editableUntil": "2025-07-01T21:04:51.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "JohnnyTwoFingers",
+          "screen_name": "Johnny2Fingersz",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1266440523226595328",
+          "id": "1266440523226595328"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940139557007368347/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/oHb2Ny0zuS",
+          "media_url": "http://pbs.twimg.com/media/GuzCf67XkAA7kPA.png",
+          "id_str": "1940139393139838976",
+          "id": "1940139393139838976",
+          "media_url_https": "https://pbs.twimg.com/media/GuzCf67XkAA7kPA.png",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "784",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "613",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "347",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oHb2Ny0zuS"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "112"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1940139128475328691",
+    "id_str": "1940139557007368347",
+    "in_reply_to_user_id": "1266440523226595328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940139557007368347",
+    "in_reply_to_status_id": "1940139128475328691",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 01 20:04:51 +0000 2025",
+    "favorited": false,
+    "full_text": "@Johnny2Fingersz You'll see soon enough. Manifestos are are great way to map connection. https://t.co/oHb2Ny0zuS",
+    "lang": "en",
+    "in_reply_to_screen_name": "Johnny2Fingersz",
+    "in_reply_to_user_id_str": "1266440523226595328",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940139557007368347/photo/1",
+          "indices": [
+            "89",
+            "112"
+          ],
+          "url": "https://t.co/oHb2Ny0zuS",
+          "media_url": "http://pbs.twimg.com/media/GuzCf67XkAA7kPA.png",
+          "id_str": "1940139393139838976",
+          "id": "1940139393139838976",
+          "media_url_https": "https://pbs.twimg.com/media/GuzCf67XkAA7kPA.png",
+          "sizes": {
+            "large": {
+              "w": "1536",
+              "h": "784",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "613",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "680",
+              "h": "347",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/oHb2Ny0zuS"
+        }
+      ]
+    }
+  }
+}

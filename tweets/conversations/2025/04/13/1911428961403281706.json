@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1911428961403281706"
+        ],
+        "editableUntil": "2025-04-13T15:39:11.688Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "tessus",
+          "screen_name": "mettafive",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1445294426771922946",
+          "id": "1445294426771922946"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "46"
+    ],
+    "favorite_count": "0",
+    "id_str": "1911428961403281706",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1911428961403281706",
+    "created_at": "Sun Apr 13 14:39:11 +0000 2025",
+    "favorited": false,
+    "full_text": "RT @mettafive: be a finder instead of a seeker",
+    "lang": "en"
+  }
+}

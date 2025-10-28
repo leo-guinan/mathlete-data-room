@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895687320197627931"
+        ],
+        "editableUntil": "2025-03-01T05:07:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "active resonator",
+          "screen_name": "loopholekid",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "1915273423",
+          "id": "1915273423"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "287"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1895536007489126694",
+    "id_str": "1895687320197627931",
+    "in_reply_to_user_id": "1915273423",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895687320197627931",
+    "in_reply_to_status_id": "1895536007489126694",
+    "created_at": "Sat Mar 01 04:07:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@loopholekid Human Insurance solves this, because it decouples people from their assets.\n\nThe future can be guaranteed instead of a bunch of people guessing about values. We simply need to restructure the economic primitives we are using (and yes, I know that \"simply\" is doing a TON of…",
+    "lang": "en",
+    "in_reply_to_screen_name": "loopholekid",
+    "in_reply_to_user_id_str": "1915273423"
+  }
+}

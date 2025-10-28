@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1486802648015769604"
+        ],
+        "editableUntil": "2022-01-27T21:45:49.401Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Qekfkr5Q7t",
+          "expanded_url": "https://x.com/defaultalive/status/1486802420109774849",
+          "display_url": "x.com/defaultalive/s…",
+          "indices": [
+            "18",
+            "41"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "41"
+    ],
+    "favorite_count": "1",
+    "id_str": "1486802648015769604",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1486802648015769604",
+    "possibly_sensitive": false,
+    "created_at": "Thu Jan 27 20:45:49 +0000 2022",
+    "favorited": false,
+    "full_text": "I love this idea. https://t.co/Qekfkr5Q7t",
+    "lang": "en"
+  }
+}

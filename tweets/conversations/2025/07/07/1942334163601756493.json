@@ -1,0 +1,119 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1942334163601756493"
+        ],
+        "editableUntil": "2025-07-07T22:25:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942334163601756493/photo/1",
+          "indices": [
+            "162",
+            "185"
+          ],
+          "url": "https://t.co/o8feTlay3q",
+          "media_url": "http://pbs.twimg.com/media/GvSNbkUWYAAwuaY.png",
+          "id_str": "1942332844048539648",
+          "id": "1942332844048539648",
+          "media_url_https": "https://pbs.twimg.com/media/GvSNbkUWYAAwuaY.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1610",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "894",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/o8feTlay3q"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "185"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1942334160355635370",
+    "id_str": "1942334163601756493",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1942334163601756493",
+    "in_reply_to_status_id": "1942334160355635370",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jul 07 21:25:26 +0000 2025",
+    "favorited": false,
+    "full_text": "Starting to ramp up now. Hope it doesn't take 60 days to ramp up, but this is a conservative schedule based on my experience actually capturing attention online. https://t.co/o8feTlay3q",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1942334163601756493/photo/1",
+          "indices": [
+            "162",
+            "185"
+          ],
+          "url": "https://t.co/o8feTlay3q",
+          "media_url": "http://pbs.twimg.com/media/GvSNbkUWYAAwuaY.png",
+          "id_str": "1942332844048539648",
+          "id": "1942332844048539648",
+          "media_url_https": "https://pbs.twimg.com/media/GvSNbkUWYAAwuaY.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "507",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1610",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "1200",
+              "h": "894",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/o8feTlay3q"
+        }
+      ]
+    }
+  }
+}

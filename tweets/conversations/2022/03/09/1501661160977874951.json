@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1501661160977874951"
+        ],
+        "editableUntil": "2022-03-09T21:48:14.949Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Brian Leung | SwiftAds.io ⏩",
+          "screen_name": "bkh_leung",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "293839862",
+          "id": "293839862"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4UkGLODdVz",
+          "expanded_url": "https://x.com/leo_guinan/status/1501631679588405262?s=20&t=oeNr5-QOqtnbitEhqUd1wQ",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "11",
+            "34"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "34"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1501413424336711684",
+    "id_str": "1501661160977874951",
+    "in_reply_to_user_id": "293839862",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1501661160977874951",
+    "in_reply_to_status_id": "1501413424336711684",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 09 20:48:14 +0000 2022",
+    "favorited": false,
+    "full_text": "@bkh_leung https://t.co/4UkGLODdVz",
+    "lang": "qme",
+    "in_reply_to_screen_name": "bkh_leung",
+    "in_reply_to_user_id_str": "293839862"
+  }
+}

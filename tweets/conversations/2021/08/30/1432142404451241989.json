@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1432142404451241989"
+        ],
+        "editableUntil": "2021-08-30T01:45:31.797Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Pioneer",
+          "screen_name": "pioneerdotapp",
+          "indices": [
+            "29",
+            "43"
+          ],
+          "id_str": "1024113177007611904",
+          "id": "1024113177007611904"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/z5YnSnl4cu",
+          "expanded_url": "https://frontier.pioneer.app/posts/71b6f419-leo-guinan-progress-update-august-29th-2021",
+          "display_url": "frontier.pioneer.app/posts/71b6f419…",
+          "indices": [
+            "247",
+            "270"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "270"
+    ],
+    "favorite_count": "0",
+    "id_str": "1432142404451241989",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1432142404451241989",
+    "possibly_sensitive": false,
+    "created_at": "Mon Aug 30 00:45:31 +0000 2021",
+    "favorited": false,
+    "full_text": "My weekly progress update on @pioneerdotapp:\n\nI've launched and gotten a handful of users. They've given me some great feedback and I was able to get some pricing advice. \n\nNow I'm ready to start seeing where I can grow it.\n\nRead the rest here:\n\n https://t.co/z5YnSnl4cu",
+    "lang": "en"
+  }
+}

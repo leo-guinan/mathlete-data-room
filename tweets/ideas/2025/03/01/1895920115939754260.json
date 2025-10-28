@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1895920115939754260"
+        ],
+        "editableUntil": "2025-03-01T20:32:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1895920115939754260/photo/1",
+          "indices": [
+            "66",
+            "89"
+          ],
+          "url": "https://t.co/uNcuCfDvLZ",
+          "media_url": "http://pbs.twimg.com/media/Gk-pR8EXIAAY5MW.png",
+          "id_str": "1895920093793558528",
+          "id": "1895920093793558528",
+          "media_url_https": "https://pbs.twimg.com/media/Gk-pR8EXIAAY5MW.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "122",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "126",
+              "h": "126",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "704",
+              "h": "126",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "704",
+              "h": "126",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uNcuCfDvLZ"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "89"
+    ],
+    "favorite_count": "1",
+    "id_str": "1895920115939754260",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1895920115939754260",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 01 19:32:34 +0000 2025",
+    "favorited": false,
+    "full_text": "Hey bitch, that ain't my code, that's your code.\n\nTake ownership. https://t.co/uNcuCfDvLZ",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1895920115939754260/photo/1",
+          "indices": [
+            "66",
+            "89"
+          ],
+          "url": "https://t.co/uNcuCfDvLZ",
+          "media_url": "http://pbs.twimg.com/media/Gk-pR8EXIAAY5MW.png",
+          "id_str": "1895920093793558528",
+          "id": "1895920093793558528",
+          "media_url_https": "https://pbs.twimg.com/media/Gk-pR8EXIAAY5MW.png",
+          "sizes": {
+            "small": {
+              "w": "680",
+              "h": "122",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "126",
+              "h": "126",
+              "resize": "crop"
+            },
+            "medium": {
+              "w": "704",
+              "h": "126",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "704",
+              "h": "126",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/uNcuCfDvLZ"
+        }
+      ]
+    }
+  }
+}

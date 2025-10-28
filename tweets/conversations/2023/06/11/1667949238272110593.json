@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1667949238272110593"
+        ],
+        "editableUntil": "2023-06-11T18:37:42.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Amanda Goetz",
+          "screen_name": "AmandaMGoetz",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "23698119",
+          "id": "23698119"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "238"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1667839300187062272",
+    "id_str": "1667949238272110593",
+    "in_reply_to_user_id": "23698119",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1667949238272110593",
+    "in_reply_to_status_id": "1667839300187062272",
+    "created_at": "Sun Jun 11 17:37:42 +0000 2023",
+    "favorited": false,
+    "full_text": "@AmandaMGoetz Agreed.\n\nAnd something I've come to realize: once you start down that path, it's really hard to stop.\n\nWhen you see how much you can grow, you notice when you aren't growing, and that's more painful than being uncomfortable.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AmandaMGoetz",
+    "in_reply_to_user_id_str": "23698119"
+  }
+}

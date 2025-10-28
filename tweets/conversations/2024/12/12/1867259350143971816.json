@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1867259350143971816"
+        ],
+        "editableUntil": "2024-12-12T18:24:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "rob hardy",
+          "screen_name": "ungatedlife",
+          "indices": [
+            "167",
+            "179"
+          ],
+          "id_str": "532970397",
+          "id": "532970397"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/3Ij29qOYAW",
+          "expanded_url": "https://x.com/ungatedlife/status/1867240322226679997",
+          "display_url": "x.com/ungatedlife/st…",
+          "indices": [
+            "182",
+            "205"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "205"
+    ],
+    "favorite_count": "7",
+    "id_str": "1867259350143971816",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1867259350143971816",
+    "possibly_sensitive": false,
+    "created_at": "Thu Dec 12 17:24:55 +0000 2024",
+    "favorited": false,
+    "full_text": "This was an amazing journey that rob shared with us.\n\nI saw so many echoes of my own life, the battling of demons that I'm also fighting.\n\nyou should read it.\n\nThanks @ungatedlife 🙏 https://t.co/3Ij29qOYAW",
+    "lang": "en"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1359948459751702528"
+        ],
+        "editableUntil": "2021-02-11T20:32:34.082Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Fairmint",
+          "screen_name": "FairmintCo",
+          "indices": [
+            "38",
+            "49"
+          ],
+          "id_str": "1057613644589133824",
+          "id": "1057613644589133824"
+        },
+        {
+          "name": "Joris🤗",
+          "screen_name": "Joris_DLN",
+          "indices": [
+            "75",
+            "85"
+          ],
+          "id_str": "37452958",
+          "id": "37452958"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1359948458715660296",
+    "id_str": "1359948459751702528",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1359948459751702528",
+    "in_reply_to_status_id": "1359948458715660296",
+    "created_at": "Thu Feb 11 19:32:34 +0000 2021",
+    "favorited": false,
+    "full_text": "One of the ideas we are looking at is @FairmintCO . We have a meeting with @Joris_DLN to discuss potentially offering ownership in @net_defi to our subscribers. This is one method we are looking at. I personally love this idea and I am excited for the meeting. (6/)",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

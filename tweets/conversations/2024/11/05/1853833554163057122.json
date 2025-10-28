@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1853833554163057122"
+        ],
+        "editableUntil": "2024-11-05T17:15:36.531Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Paul Millerd",
+          "screen_name": "p_millerd",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "14338338",
+          "id": "14338338"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ZdHsN7PB3j",
+          "expanded_url": "https://pmillerd.com/what/",
+          "display_url": "pmillerd.com/what/",
+          "indices": [
+            "73",
+            "96"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "96"
+    ],
+    "favorite_count": "0",
+    "id_str": "1853833554163057122",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1853833554163057122",
+    "possibly_sensitive": false,
+    "created_at": "Tue Nov 05 16:15:36 +0000 2024",
+    "favorited": false,
+    "full_text": "RT @p_millerd: one of the most challenging questions on a pathless path\n\nhttps://t.co/ZdHsN7PB3j",
+    "lang": "en"
+  }
+}

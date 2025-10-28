@@ -1,0 +1,153 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1509900821026287617"
+        ],
+        "editableUntil": "2022-04-01T15:29:42.990Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "JC | 🇵🇭 's Community & Content Guy",
+          "screen_name": "venturedevelopr",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "709352736618192896",
+          "id": "709352736618192896"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UusKUSaUV9",
+          "expanded_url": "https://2j44no3s5sk.typeform.com/to/IyNrymqb",
+          "display_url": "2j44no3s5sk.typeform.com/to/IyNrymqb",
+          "indices": [
+            "17",
+            "40"
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1509900821026287617/photo/1",
+          "indices": [
+            "83",
+            "106"
+          ],
+          "url": "https://t.co/SfUwlxp3cw",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FPQ-yoNX0AEHMYI.jpg",
+          "id_str": "1509900814583844865",
+          "id": "1509900814583844865",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FPQ-yoNX0AEHMYI.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/SfUwlxp3cw"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "106"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1509805530524827650",
+    "id_str": "1509900821026287617",
+    "in_reply_to_user_id": "709352736618192896",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1509900821026287617",
+    "in_reply_to_status_id": "1509805530524827650",
+    "possibly_sensitive": false,
+    "created_at": "Fri Apr 01 14:29:42 +0000 2022",
+    "favorited": false,
+    "full_text": "@venturedevelopr https://t.co/UusKUSaUV9\n\nRight there! Let's get something set up! https://t.co/SfUwlxp3cw",
+    "lang": "en",
+    "in_reply_to_screen_name": "venturedevelopr",
+    "in_reply_to_user_id_str": "709352736618192896",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1509900821026287617/photo/1",
+          "indices": [
+            "83",
+            "106"
+          ],
+          "url": "https://t.co/SfUwlxp3cw",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/FPQ-yoNX0AEHMYI.jpg",
+          "id_str": "1509900814583844865",
+          "video_info": {
+            "aspect_ratio": [
+              "83",
+              "34"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/FPQ-yoNX0AEHMYI.mp4"
+              }
+            ]
+          },
+          "id": "1509900814583844865",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FPQ-yoNX0AEHMYI.jpg",
+          "sizes": {
+            "small": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "498",
+              "h": "204",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "display_url": "pic.x.com/SfUwlxp3cw"
+        }
+      ]
+    }
+  }
+}

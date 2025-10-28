@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1502071770060410880"
+        ],
+        "editableUntil": "2022-03-11T00:59:51.783Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Nat Eliason",
+          "screen_name": "nateliason",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "19032289",
+          "id": "19032289"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1501967452766457862",
+    "id_str": "1502071770060410880",
+    "in_reply_to_user_id": "19032289",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1502071770060410880",
+    "in_reply_to_status_id": "1501967452766457862",
+    "created_at": "Thu Mar 10 23:59:51 +0000 2022",
+    "favorited": false,
+    "full_text": "@nateliason Timequake - Kurt vonnegut\n\nGodel, escher, bach - Douglas Hofstadter",
+    "lang": "de",
+    "in_reply_to_screen_name": "nateliason",
+    "in_reply_to_user_id_str": "19032289"
+  }
+}

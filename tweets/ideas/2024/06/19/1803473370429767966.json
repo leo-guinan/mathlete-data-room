@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1803473370429767966"
+        ],
+        "editableUntil": "2024-06-19T18:02:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803473370429767966/photo/1",
+          "indices": [
+            "226",
+            "249"
+          ],
+          "url": "https://t.co/tkRjsm52r8",
+          "media_url": "http://pbs.twimg.com/media/GQc5X4aXgAEM0uK.png",
+          "id_str": "1803473258227924993",
+          "id": "1803473258227924993",
+          "media_url_https": "https://pbs.twimg.com/media/GQc5X4aXgAEM0uK.png",
+          "sizes": {
+            "small": {
+              "w": "203",
+              "h": "26",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "203",
+              "h": "26",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "26",
+              "h": "26",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "203",
+              "h": "26",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/tkRjsm52r8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "249"
+    ],
+    "favorite_count": "0",
+    "id_str": "1803473370429767966",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1803473370429767966",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jun 19 17:02:13 +0000 2024",
+    "favorited": false,
+    "full_text": "Have a new toy I built. I learn about someone from what I can find online and use it to try to understand how they think about a given topic.\n\nAnyone want to be a guinea pig? \n\nFirst time I showed off the results, I got this: https://t.co/tkRjsm52r8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1803473370429767966/photo/1",
+          "indices": [
+            "226",
+            "249"
+          ],
+          "url": "https://t.co/tkRjsm52r8",
+          "media_url": "http://pbs.twimg.com/media/GQc5X4aXgAEM0uK.png",
+          "id_str": "1803473258227924993",
+          "id": "1803473258227924993",
+          "media_url_https": "https://pbs.twimg.com/media/GQc5X4aXgAEM0uK.png",
+          "sizes": {
+            "small": {
+              "w": "203",
+              "h": "26",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "203",
+              "h": "26",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "26",
+              "h": "26",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "203",
+              "h": "26",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/tkRjsm52r8"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1925576708582711720"
+        ],
+        "editableUntil": "2025-05-22T16:37:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Daniel Vassallo",
+          "screen_name": "dvassallo",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "24179991",
+          "id": "24179991"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "203"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1925573533889175768",
+    "id_str": "1925576708582711720",
+    "in_reply_to_user_id": "24179991",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1925576708582711720",
+    "in_reply_to_status_id": "1925573533889175768",
+    "created_at": "Thu May 22 15:37:17 +0000 2025",
+    "favorited": false,
+    "full_text": "@dvassallo Depends on the strangers you are arguing with.\n\nThe key is to be willing to change your mind and find others willing to do the same. \n\nThen it becomes a self reflective, self improving system.",
+    "lang": "en",
+    "in_reply_to_screen_name": "dvassallo",
+    "in_reply_to_user_id_str": "24179991"
+  }
+}

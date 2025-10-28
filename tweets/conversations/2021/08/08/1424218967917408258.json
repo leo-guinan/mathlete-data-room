@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1424218967917408258"
+        ],
+        "editableUntil": "2021-08-08T05:00:37.317Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Aaron Orendorff",
+          "screen_name": "AaronOrendorff",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "754272146",
+          "id": "754272146"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "139"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1424155513105772549",
+    "id_str": "1424218967917408258",
+    "in_reply_to_user_id": "754272146",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1424218967917408258",
+    "in_reply_to_status_id": "1424155513105772549",
+    "created_at": "Sun Aug 08 04:00:37 +0000 2021",
+    "favorited": false,
+    "full_text": "@AaronOrendorff Sometimes the timing doesn't work. If I don't get the engagement I'm going for, sometimes I just RT it at a different time.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AaronOrendorff",
+    "in_reply_to_user_id_str": "754272146"
+  }
+}

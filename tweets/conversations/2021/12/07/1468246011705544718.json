@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1468246011705544718"
+        ],
+        "editableUntil": "2021-12-07T16:48:22.539Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ana Bibikova",
+          "screen_name": "NotechAna",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1316342249341542400",
+          "id": "1316342249341542400"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "288"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1468244993970163712",
+    "id_str": "1468246011705544718",
+    "in_reply_to_user_id": "1316342249341542400",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1468246011705544718",
+    "in_reply_to_status_id": "1468244993970163712",
+    "created_at": "Tue Dec 07 15:48:22 +0000 2021",
+    "favorited": false,
+    "full_text": "@NotechAna Oh, 100%. It totally ended up working out for me.\n\nIt was rough for a bit. But I was able to turn it all around and now I'm building and learning alongside the highest caliber team I've been on. \n\nMakes a world of difference when it's OK to build on the side. You get builders.",
+    "lang": "en",
+    "in_reply_to_screen_name": "NotechAna",
+    "in_reply_to_user_id_str": "1316342249341542400"
+  }
+}

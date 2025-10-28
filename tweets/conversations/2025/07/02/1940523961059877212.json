@@ -1,0 +1,140 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1940523961059877212"
+        ],
+        "editableUntil": "2025-07-02T22:32:20.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Dagobert - Corporate sellout 👔",
+          "screen_name": "dagorenouf",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "991657337747394561",
+          "id": "991657337747394561"
+        },
+        {
+          "name": "Eli Finer",
+          "screen_name": "finereli",
+          "indices": [
+            "225",
+            "234"
+          ],
+          "id_str": "6378712",
+          "id": "6378712"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940523961059877212/photo/1",
+          "indices": [
+            "292",
+            "315"
+          ],
+          "url": "https://t.co/qLOac51lXR",
+          "media_url": "http://pbs.twimg.com/media/Gu4f3hhWUAAprmU.jpg",
+          "id_str": "1940523528194772992",
+          "id": "1940523528194772992",
+          "media_url_https": "https://pbs.twimg.com/media/Gu4f3hhWUAAprmU.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "789",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1986",
+              "h": "1306",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "447",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qLOac51lXR"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "315"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1940521694898364894",
+    "id_str": "1940523961059877212",
+    "in_reply_to_user_id": "991657337747394561",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1940523961059877212",
+    "in_reply_to_status_id": "1940521694898364894",
+    "possibly_sensitive": false,
+    "created_at": "Wed Jul 02 21:32:20 +0000 2025",
+    "favorited": false,
+    "full_text": "@dagorenouf But I'm trying to solve that by creating a validated network of people that can make it easier to sell without having to focus on the selling, but rather people.\n\nWant to be one of the first ones in the network?\n(@finereli helped me work on the messaging because we all know I'm… https://t.co/qLOac51lXR",
+    "lang": "en",
+    "in_reply_to_screen_name": "dagorenouf",
+    "in_reply_to_user_id_str": "991657337747394561",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1940523961059877212/photo/1",
+          "indices": [
+            "292",
+            "315"
+          ],
+          "url": "https://t.co/qLOac51lXR",
+          "media_url": "http://pbs.twimg.com/media/Gu4f3hhWUAAprmU.jpg",
+          "id_str": "1940523528194772992",
+          "id": "1940523528194772992",
+          "media_url_https": "https://pbs.twimg.com/media/Gu4f3hhWUAAprmU.jpg",
+          "sizes": {
+            "medium": {
+              "w": "1200",
+              "h": "789",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "1986",
+              "h": "1306",
+              "resize": "fit"
+            },
+            "small": {
+              "w": "680",
+              "h": "447",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/qLOac51lXR"
+        }
+      ]
+    }
+  }
+}

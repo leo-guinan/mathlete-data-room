@@ -1,0 +1,35 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1616480494174064646"
+        ],
+        "editableUntil": "2023-01-20T17:29:17.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "280"
+    ],
+    "favorite_count": "1",
+    "id_str": "1616480494174064646",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1616480494174064646",
+    "created_at": "Fri Jan 20 16:59:17 +0000 2023",
+    "favorited": false,
+    "full_text": "Figured out one of my biggest issues. I'm trying to pass too much data through my worker and I should instead save the data in the DB and then pull it out.\n\nThat should lead to some considerable time savings, and then I can break things apart a bit more, and do it more piecemeal.",
+    "lang": "en"
+  }
+}

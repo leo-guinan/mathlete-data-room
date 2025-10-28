@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1915929712456540638"
+        ],
+        "editableUntil": "2025-04-26T01:43:34.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9uygjRqSzR",
+          "expanded_url": "https://x.com/iamjasonlevin/status/1915928884014682548",
+          "display_url": "x.com/iamjasonlevin/…",
+          "indices": [
+            "87",
+            "110"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "110"
+    ],
+    "favorite_count": "0",
+    "id_str": "1915929712456540638",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1915929712456540638",
+    "possibly_sensitive": false,
+    "created_at": "Sat Apr 26 00:43:34 +0000 2025",
+    "favorited": false,
+    "full_text": "The trick when pitching VCs: remember that the joke is on the other side of the table. https://t.co/9uygjRqSzR",
+    "lang": "en"
+  }
+}

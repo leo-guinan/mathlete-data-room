@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1958692735646302270"
+        ],
+        "editableUntil": "2025-08-22T01:48:33.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mage of Aquarius",
+          "screen_name": "mage_ofaquarius",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1671148549315399683",
+          "id": "1671148549315399683"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "245"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1958690748825477169",
+    "id_str": "1958692735646302270",
+    "in_reply_to_user_id": "1671148549315399683",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1958692735646302270",
+    "in_reply_to_status_id": "1958690748825477169",
+    "created_at": "Fri Aug 22 00:48:33 +0000 2025",
+    "favorited": false,
+    "full_text": "@mage_ofaquarius I'd love to chat with you about why that is, if you don't mind.\n\nHere's the issue that I keep finding: the best coaches are quitting while most of the winners are wrong.\n\nThat's a broken market and I'm currently digging into it.",
+    "lang": "en",
+    "in_reply_to_screen_name": "mage_ofaquarius",
+    "in_reply_to_user_id_str": "1671148549315399683"
+  }
+}

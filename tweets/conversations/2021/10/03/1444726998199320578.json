@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1444726998199320578"
+        ],
+        "editableUntil": "2021-10-03T19:12:12.757Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "reddy2go",
+          "screen_name": "reddy2go",
+          "indices": [
+            "3",
+            "12"
+          ],
+          "id_str": "15659972",
+          "id": "15659972"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "90"
+    ],
+    "favorite_count": "0",
+    "id_str": "1444726998199320578",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1444726998199320578",
+    "created_at": "Sun Oct 03 18:12:12 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @reddy2go: history repeats itself\n\nlook back if you want to know the flow of time ahead",
+    "lang": "en"
+  }
+}

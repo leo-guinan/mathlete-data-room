@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1696955544718737484"
+        ],
+        "editableUntil": "2023-08-30T19:38:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "buildspace",
+          "screen_name": "_buildspace",
+          "indices": [
+            "86",
+            "98"
+          ],
+          "id_str": "1422255111422754816",
+          "id": "1422255111422754816"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "172"
+    ],
+    "favorite_count": "4",
+    "id_str": "1696955544718737484",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1696955544718737484",
+    "created_at": "Wed Aug 30 18:38:24 +0000 2023",
+    "favorited": false,
+    "full_text": "New Youtube video is live! \n\nI shared what I've learned about catching attention from @_buildspace and analyze my own launch tweet and a couple of others.\n\nVideo link below",
+    "lang": "en"
+  }
+}

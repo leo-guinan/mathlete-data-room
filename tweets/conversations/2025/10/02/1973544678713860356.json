@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1973544678713860356"
+        ],
+        "editableUntil": "2025-10-02T01:24:52.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Callan",
+          "screen_name": "callanable",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "1488129416005890049",
+          "id": "1488129416005890049"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "203"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1973544054983168397",
+    "id_str": "1973544678713860356",
+    "in_reply_to_user_id": "1488129416005890049",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1973544678713860356",
+    "in_reply_to_status_id": "1973544054983168397",
+    "created_at": "Thu Oct 02 00:24:52 +0000 2025",
+    "favorited": false,
+    "full_text": "@callanable yeah, community is the absolute key and is the one thing that determines success or failure more than everything else combined.\n\nIt's crazy how simple it is, but how complicated we've made it",
+    "lang": "en",
+    "in_reply_to_screen_name": "callanable",
+    "in_reply_to_user_id_str": "1488129416005890049"
+  }
+}

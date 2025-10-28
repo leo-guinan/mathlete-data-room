@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1434580779380654085"
+        ],
+        "editableUntil": "2021-09-05T19:14:45.683Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mat Sherman",
+          "screen_name": "Mat_Sherman",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "2995012297",
+          "id": "2995012297"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "265"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1434578273531359233",
+    "id_str": "1434580779380654085",
+    "in_reply_to_user_id": "2995012297",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1434580779380654085",
+    "in_reply_to_status_id": "1434578273531359233",
+    "created_at": "Sun Sep 05 18:14:45 +0000 2021",
+    "favorited": false,
+    "full_text": "@Mat_Sherman This nails it. \n\nIt summarizes what I've learned from my experiences over the last 9 or so months. I haven't had levels right for success. At times, I've had too much ego. But that's kept me on the path. I've taken on a ton of risk, more than I should.",
+    "lang": "en",
+    "in_reply_to_screen_name": "Mat_Sherman",
+    "in_reply_to_user_id_str": "2995012297"
+  }
+}

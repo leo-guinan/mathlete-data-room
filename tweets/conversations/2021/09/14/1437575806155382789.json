@@ -1,0 +1,70 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1437575806155382789"
+        ],
+        "editableUntil": "2021-09-14T01:35:55.711Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SuperchargeYourTime",
+          "indices": [
+            "64",
+            "84"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YKdbG7O3xa",
+          "expanded_url": "https://x.com/leo_guinan/status/1425904378972565504?s=19",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "194",
+            "217"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "217"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1437571830928261122",
+    "id_str": "1437575806155382789",
+    "in_reply_to_user_id": "1378776755738140675",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1437575806155382789",
+    "in_reply_to_status_id": "1437571830928261122",
+    "possibly_sensitive": false,
+    "created_at": "Tue Sep 14 00:35:55 +0000 2021",
+    "favorited": false,
+    "full_text": "@StroutMotivateU In preparation for running the first cohort of #SuperchargeYourTime, I posted quite a few threads about how I view automation. This post was used to keep track of all of them.\n\nhttps://t.co/YKdbG7O3xa",
+    "lang": "en",
+    "in_reply_to_screen_name": "StroutMotivateU",
+    "in_reply_to_user_id_str": "1378776755738140675"
+  }
+}

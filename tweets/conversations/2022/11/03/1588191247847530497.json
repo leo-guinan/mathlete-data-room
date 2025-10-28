@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1588191247847530497"
+        ],
+        "editableUntil": "2022-11-03T15:57:55.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Beth Jones",
+          "screen_name": "bethicalj",
+          "indices": [
+            "0",
+            "10"
+          ],
+          "id_str": "1043842782891134976",
+          "id": "1043842782891134976"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "91"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1587721127522349056",
+    "id_str": "1588191247847530497",
+    "in_reply_to_user_id": "1043842782891134976",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1588191247847530497",
+    "in_reply_to_status_id": "1587721127522349056",
+    "created_at": "Thu Nov 03 15:27:55 +0000 2022",
+    "favorited": false,
+    "full_text": "@bethicalj It can. That's why you give it five years. No need to stuff it all in at once! 😀",
+    "lang": "en",
+    "in_reply_to_screen_name": "bethicalj",
+    "in_reply_to_user_id_str": "1043842782891134976"
+  }
+}

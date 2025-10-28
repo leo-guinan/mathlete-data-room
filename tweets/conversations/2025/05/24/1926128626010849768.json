@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1926128626010849768"
+        ],
+        "editableUntil": "2025-05-24T05:10:24.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Timo 🌱",
+          "screen_name": "TimoBuilds_",
+          "indices": [
+            "0",
+            "12"
+          ],
+          "id_str": "529448315",
+          "id": "529448315"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "20"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1925886290341371944",
+    "id_str": "1926128626010849768",
+    "in_reply_to_user_id": "529448315",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1926128626010849768",
+    "in_reply_to_status_id": "1925886290341371944",
+    "created_at": "Sat May 24 04:10:24 +0000 2025",
+    "favorited": false,
+    "full_text": "@TimoBuilds_ Gravity",
+    "lang": "en",
+    "in_reply_to_screen_name": "TimoBuilds_",
+    "in_reply_to_user_id_str": "529448315"
+  }
+}

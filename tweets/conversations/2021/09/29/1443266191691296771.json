@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1443266191691296771"
+        ],
+        "editableUntil": "2021-09-29T18:27:29.345Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Mirror",
+          "screen_name": "viamirror",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1314619820399353857",
+          "id": "1314619820399353857"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/7F4I3SSXdc",
+          "expanded_url": "https://dev.mirror.xyz/kkpmBMFAeKlCv4zi2HcyO0MfmpguVqTHoo-DL0WxwS8",
+          "display_url": "dev.mirror.xyz/kkpmBMFAeKlCv4…",
+          "indices": [
+            "108",
+            "131"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "131"
+    ],
+    "favorite_count": "0",
+    "id_str": "1443266191691296771",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1443266191691296771",
+    "possibly_sensitive": false,
+    "created_at": "Wed Sep 29 17:27:29 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @viamirror: Mirror is opening its creative and economic suite to the public, beginning with crowdfunds.\n\nhttps://t.co/7F4I3SSXdc",
+    "lang": "en"
+  }
+}

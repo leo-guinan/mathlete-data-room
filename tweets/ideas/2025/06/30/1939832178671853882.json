@@ -1,0 +1,114 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1939832178671853882"
+        ],
+        "editableUntil": "2025-07-01T00:43:26.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939832178671853882/photo/1",
+          "indices": [
+            "123",
+            "146"
+          ],
+          "url": "https://t.co/dc3MC5oUy8",
+          "media_url": "http://pbs.twimg.com/media/GuurFdHWAAAL2f5.jpg",
+          "id_str": "1939832174716256256",
+          "id": "1939832174716256256",
+          "media_url_https": "https://pbs.twimg.com/media/GuurFdHWAAAL2f5.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/dc3MC5oUy8"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "146"
+    ],
+    "favorite_count": "1",
+    "id_str": "1939832178671853882",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1939832178671853882",
+    "possibly_sensitive": false,
+    "created_at": "Mon Jun 30 23:43:26 +0000 2025",
+    "favorited": false,
+    "full_text": "Our cat’s name is Pearl. \n\nMy wife talked about a recipe with mozzarella pearls. \n\nI’m a madman with AI. \n\nYou’re welcome. https://t.co/dc3MC5oUy8",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/leo_guinan/status/1939832178671853882/photo/1",
+          "indices": [
+            "123",
+            "146"
+          ],
+          "url": "https://t.co/dc3MC5oUy8",
+          "media_url": "http://pbs.twimg.com/media/GuurFdHWAAAL2f5.jpg",
+          "id_str": "1939832174716256256",
+          "id": "1939832174716256256",
+          "media_url_https": "https://pbs.twimg.com/media/GuurFdHWAAAL2f5.jpg",
+          "sizes": {
+            "small": {
+              "w": "453",
+              "h": "680",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "800",
+              "h": "1200",
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "large": {
+              "w": "1024",
+              "h": "1536",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "display_url": "pic.x.com/dc3MC5oUy8"
+        }
+      ]
+    }
+  }
+}

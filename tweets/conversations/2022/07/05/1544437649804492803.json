@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1544437649804492803"
+        ],
+        "editableUntil": "2022-07-05T22:16:44.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Saba Karim",
+          "screen_name": "sabakarimm",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "41325029",
+          "id": "41325029"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/zLDpOyGIWA",
+          "expanded_url": "https://buildinpublicuniversity.com",
+          "display_url": "buildinpublicuniversity.com",
+          "indices": [
+            "66",
+            "89"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "183"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1544392759800315905",
+    "id_str": "1544437649804492803",
+    "in_reply_to_user_id": "41325029",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1544437649804492803",
+    "in_reply_to_status_id": "1544392759800315905",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jul 05 21:46:44 +0000 2022",
+    "favorited": false,
+    "full_text": "@sabakarimm Have them send me a DM or sign up for the waitlist on https://t.co/zLDpOyGIWA\n\nGoing to have some interesting things related to that coming out over the next month or two.",
+    "lang": "en",
+    "in_reply_to_screen_name": "sabakarimm",
+    "in_reply_to_user_id_str": "41325029"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1760002945003745738"
+        ],
+        "editableUntil": "2024-02-20T19:06:16.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Darren Matthews",
+          "screen_name": "Darrenmmatthews",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "870235184981049344",
+          "id": "870235184981049344"
+        },
+        {
+          "name": "Janis Ozolins",
+          "screen_name": "OzolinsJanis",
+          "indices": [
+            "17",
+            "30"
+          ],
+          "id_str": "1326123605709688832",
+          "id": "1326123605709688832"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "248"
+    ],
+    "favorite_count": "2",
+    "in_reply_to_status_id_str": "1760002699431383421",
+    "id_str": "1760002945003745738",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1760002945003745738",
+    "in_reply_to_status_id": "1760002699431383421",
+    "created_at": "Tue Feb 20 18:06:16 +0000 2024",
+    "favorited": false,
+    "full_text": "@Darrenmmatthews @OzolinsJanis And we do this via complexity. All the systems are tied together, so if you opt out of one, it makes everything else harder. This makes people avoid looking at the possibility of doing things outside of those systems.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

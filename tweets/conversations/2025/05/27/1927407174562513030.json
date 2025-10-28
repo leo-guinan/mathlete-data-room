@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1927407174562513030"
+        ],
+        "editableUntil": "2025-05-27T17:50:54.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "🌱 John Ash 🌳",
+          "screen_name": "speakerjohnash",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "987120585124687872",
+          "id": "987120585124687872"
+        },
+        {
+          "name": "Hermes Katz",
+          "screen_name": "VerumExChao",
+          "indices": [
+            "16",
+            "28"
+          ],
+          "id_str": "1692171830486786048",
+          "id": "1692171830486786048"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HoYgNZiPFc",
+          "expanded_url": "https://chronos.buildinpublicuniversity.com/",
+          "display_url": "chronos.buildinpublicuniversity.com",
+          "indices": [
+            "150",
+            "173"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "248"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1927405969320845638",
+    "id_str": "1927407174562513030",
+    "in_reply_to_user_id": "987120585124687872",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1927407174562513030",
+    "in_reply_to_status_id": "1927405969320845638",
+    "possibly_sensitive": false,
+    "created_at": "Tue May 27 16:50:54 +0000 2025",
+    "favorited": false,
+    "full_text": "@speakerjohnash @VerumExChao Oh wow, we've converged a lot more than I realized.\n\nHere's my version of the Iris.\n\nI call it the Chronos Time Machine.\nhttps://t.co/HoYgNZiPFc\n\nI'm in the process of implementing it in the first couple of communities.",
+    "lang": "en",
+    "in_reply_to_screen_name": "speakerjohnash",
+    "in_reply_to_user_id_str": "987120585124687872"
+  }
+}

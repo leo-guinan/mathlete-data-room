@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1527982593127464961"
+        ],
+        "editableUntil": "2022-05-21T12:30:13.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Ron Zakay 🏳️‍🌈 (he/him)",
+          "screen_name": "ronzakay",
+          "indices": [
+            "0",
+            "9"
+          ],
+          "id_str": "160795888",
+          "id": "160795888"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "282"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1527982282816032770",
+    "id_str": "1527982593127464961",
+    "in_reply_to_user_id": "1325102346792218629",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1527982593127464961",
+    "in_reply_to_status_id": "1527982282816032770",
+    "created_at": "Sat May 21 12:00:13 +0000 2022",
+    "favorited": false,
+    "full_text": "@ronzakay And one of the things I've come to realize is that change is happening so fast and the internet is making people face these changes, there are a lot of people who don't understand. They find it an attack on their traditional ways of viewing the world.\n\nAnd they push back.",
+    "lang": "en",
+    "in_reply_to_screen_name": "leo_guinan",
+    "in_reply_to_user_id_str": "1325102346792218629"
+  }
+}

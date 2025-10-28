@@ -1,0 +1,146 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1346527298586091520"
+        ],
+        "editableUntil": "2021-01-05T19:41:39.907Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "user_mentions": [
+        {
+          "name": "Hunter McKinley",
+          "screen_name": "huntermoonshot",
+          "indices": [
+            "3",
+            "18"
+          ],
+          "id_str": "306854600",
+          "id": "306854600"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "media": [
+        {
+          "expanded_url": "https://x.com/huntermoonshot/status/1346526191927365636/photo/1",
+          "source_status_id": "1346526191927365636",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/9c0RI96819",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eq_SbWQW4AAeAhc.jpg",
+          "id_str": "1346526180879556608",
+          "source_user_id": "306854600",
+          "id": "1346526180879556608",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eq_SbWQW4AAeAhc.jpg",
+          "source_user_id_str": "306854600",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            }
+          },
+          "type": "photo",
+          "source_status_id_str": "1346526191927365636",
+          "display_url": "pic.x.com/9c0RI96819"
+        }
+      ],
+      "hashtags": []
+    },
+    "display_text_range": [
+      "0",
+      "133"
+    ],
+    "favorite_count": "0",
+    "id_str": "1346527298586091520",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1346527298586091520",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jan 05 18:41:39 +0000 2021",
+    "favorited": false,
+    "full_text": "RT @huntermoonshot: The human brain can remember 200 or so colors\n\nBut we can remember over 10,000 scents\n\n👇🏻 https://t.co/9c0RI96819",
+    "lang": "en",
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://x.com/huntermoonshot/status/1346526191927365636/photo/1",
+          "source_status_id": "1346526191927365636",
+          "indices": [
+            "110",
+            "133"
+          ],
+          "url": "https://t.co/9c0RI96819",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Eq_SbWQW4AAeAhc.jpg",
+          "id_str": "1346526180879556608",
+          "video_info": {
+            "aspect_ratio": [
+              "4",
+              "3"
+            ],
+            "variants": [
+              {
+                "bitrate": "0",
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Eq_SbWQW4AAeAhc.mp4"
+              }
+            ]
+          },
+          "source_user_id": "306854600",
+          "id": "1346526180879556608",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eq_SbWQW4AAeAhc.jpg",
+          "source_user_id_str": "306854600",
+          "sizes": {
+            "thumb": {
+              "w": "150",
+              "h": "150",
+              "resize": "crop"
+            },
+            "small": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "medium": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            },
+            "large": {
+              "w": "480",
+              "h": "360",
+              "resize": "fit"
+            }
+          },
+          "type": "animated_gif",
+          "source_status_id_str": "1346526191927365636",
+          "display_url": "pic.x.com/9c0RI96819"
+        }
+      ]
+    }
+  }
+}

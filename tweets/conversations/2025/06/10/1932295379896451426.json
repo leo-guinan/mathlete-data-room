@@ -1,0 +1,72 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1932295379896451426"
+        ],
+        "editableUntil": "2025-06-10T05:34:53.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "JohnnyTwoFingers",
+          "screen_name": "Johnny2Fingersz",
+          "indices": [
+            "0",
+            "16"
+          ],
+          "id_str": "1266440523226595328",
+          "id": "1266440523226595328"
+        },
+        {
+          "name": "Your friend Myk 🌻🍉",
+          "screen_name": "mykola",
+          "indices": [
+            "17",
+            "24"
+          ],
+          "id_str": "5614412",
+          "id": "5614412"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/67X1DusX8U",
+          "expanded_url": "https://www.buildinpublicuniversity.com/temporal-dynamics-a-unified-solution-to-the-millennium-prize-problems/",
+          "display_url": "buildinpublicuniversity.com/temporal-dynam…",
+          "indices": [
+            "177",
+            "200"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "200"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1932293524881645603",
+    "id_str": "1932295379896451426",
+    "in_reply_to_user_id": "1266440523226595328",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1932295379896451426",
+    "in_reply_to_status_id": "1932293524881645603",
+    "possibly_sensitive": false,
+    "created_at": "Tue Jun 10 04:34:53 +0000 2025",
+    "favorited": false,
+    "full_text": "@Johnny2Fingersz @mykola Nah, I'm pretty sure at this point. I'm seeing solutions faster than people can create problems now. The only thing I'm limited by is reach currently.\n\nhttps://t.co/67X1DusX8U",
+    "lang": "en",
+    "in_reply_to_screen_name": "Johnny2Fingersz",
+    "in_reply_to_user_id_str": "1266440523226595328"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1892741101574144060"
+        ],
+        "editableUntil": "2025-02-21T02:00:18.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jason Shuman",
+          "screen_name": "JasonrShuman",
+          "indices": [
+            "0",
+            "13"
+          ],
+          "id_str": "26801410",
+          "id": "26801410"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "289"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1892740423732359413",
+    "id_str": "1892741101574144060",
+    "in_reply_to_user_id": "26801410",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1892741101574144060",
+    "in_reply_to_status_id": "1892740423732359413",
+    "created_at": "Fri Feb 21 01:00:18 +0000 2025",
+    "favorited": false,
+    "full_text": "@JasonrShuman I disagree.\n\nI'd say more companies will go public, but going public will be a lower scale than it currently is. \n\nThe average company size is going to shrink by quite a bit.\n\nIn an AI driven world, it's all about the speed of communication, and there's a lot of overhead as…",
+    "lang": "en",
+    "in_reply_to_screen_name": "JasonrShuman",
+    "in_reply_to_user_id_str": "26801410"
+  }
+}

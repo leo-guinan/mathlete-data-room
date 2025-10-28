@@ -1,0 +1,54 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1390436070140129281"
+        ],
+        "editableUntil": "2021-05-06T23:39:26.831Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MayContentChallenge",
+          "indices": [
+            "0",
+            "20"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DzJssR6rcv",
+          "expanded_url": "https://vm.tiktok.com/ZMeqUUB4k/",
+          "display_url": "vm.tiktok.com/ZMeqUUB4k/",
+          "indices": [
+            "56",
+            "79"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "79"
+    ],
+    "favorite_count": "0",
+    "id_str": "1390436070140129281",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1390436070140129281",
+    "possibly_sensitive": false,
+    "created_at": "Thu May 06 22:39:26 +0000 2021",
+    "favorited": false,
+    "full_text": "#MayContentChallenge\n\nShowing a little gratitude today\n\nhttps://t.co/DzJssR6rcv",
+    "lang": "en"
+  }
+}

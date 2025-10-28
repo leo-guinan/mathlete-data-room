@@ -1,0 +1,75 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1577316254158921728"
+        ],
+        "editableUntil": "2022-10-04T15:44:34.767Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "twitterspace",
+          "indices": [
+            "76",
+            "89"
+          ]
+        },
+        {
+          "text": "MentalHealth",
+          "indices": [
+            "90",
+            "103"
+          ]
+        },
+        {
+          "text": "Neurodiversity",
+          "indices": [
+            "104",
+            "119"
+          ]
+        },
+        {
+          "text": "Tech",
+          "indices": [
+            "123",
+            "128"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Jenn Junod",
+          "screen_name": "JennJunod",
+          "indices": [
+            "3",
+            "13"
+          ],
+          "id_str": "1343768871078006785",
+          "id": "1343768871078006785"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "140"
+    ],
+    "favorite_count": "0",
+    "id_str": "1577316254158921728",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1577316254158921728",
+    "created_at": "Tue Oct 04 15:14:34 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @JennJunod: Hey Beautiful Humans!! \n\nGo click set reminder for tomorrows #twitterspace #MentalHealth #Neurodiversity in #Tech: #Communit…",
+    "lang": "en"
+  }
+}

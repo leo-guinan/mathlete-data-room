@@ -1,0 +1,46 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1886549356297294154"
+        ],
+        "editableUntil": "2025-02-03T23:56:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1wjxsPh4cF",
+          "expanded_url": "https://x.com/mbateman/status/1886485988379386169",
+          "display_url": "x.com/mbateman/statu…",
+          "indices": [
+            "237",
+            "260"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "260"
+    ],
+    "favorite_count": "2",
+    "id_str": "1886549356297294154",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1886549356297294154",
+    "possibly_sensitive": false,
+    "created_at": "Mon Feb 03 22:56:31 +0000 2025",
+    "favorited": false,
+    "full_text": "Honestly, having kids gave me a much better understanding of how AI works, because I see how they process data and many times, it's a lot like an LLM. \n\nThere are hallucinations and statements designed to tell you what you want to hear. https://t.co/1wjxsPh4cF",
+    "lang": "en"
+  }
+}

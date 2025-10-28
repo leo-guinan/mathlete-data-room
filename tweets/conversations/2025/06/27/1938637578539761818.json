@@ -1,0 +1,62 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1938637578539761818"
+        ],
+        "editableUntil": "2025-06-27T17:36:31.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Gorm",
+          "screen_name": "metaphorician",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "144985692",
+          "id": "144985692"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lxVoqIZiDL",
+          "expanded_url": "https://x.com/leo_guinan/status/1938632231557443831",
+          "display_url": "x.com/leo_guinan/sta…",
+          "indices": [
+            "193",
+            "216"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "216"
+    ],
+    "favorite_count": "0",
+    "in_reply_to_status_id_str": "1938636944595902826",
+    "id_str": "1938637578539761818",
+    "in_reply_to_user_id": "144985692",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1938637578539761818",
+    "in_reply_to_status_id": "1938636944595902826",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jun 27 16:36:31 +0000 2025",
+    "favorited": false,
+    "full_text": "@metaphorician I decided that we should probably move away from the whole utopia/dystopia global narrative and start focusing on building systems that give people sovereignty over their time.\n\nhttps://t.co/lxVoqIZiDL",
+    "lang": "en",
+    "in_reply_to_screen_name": "metaphorician",
+    "in_reply_to_user_id_str": "144985692"
+  }
+}

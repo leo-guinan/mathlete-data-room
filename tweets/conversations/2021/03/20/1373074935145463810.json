@@ -1,0 +1,65 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1373074935145463810"
+        ],
+        "editableUntil": "2021-03-20T01:52:29.694Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GSVStartupBootcamp",
+          "indices": [
+            "41",
+            "60"
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Tim Draper",
+          "screen_name": "TimDraper",
+          "indices": [
+            "96",
+            "106"
+          ],
+          "id_str": "20884310",
+          "id": "20884310"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/VI8YZCa57l",
+          "expanded_url": "https://youtu.be/ibEMUNhUDAA",
+          "display_url": "youtu.be/ibEMUNhUDAA",
+          "indices": [
+            "192",
+            "215"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "215"
+    ],
+    "favorite_count": "0",
+    "id_str": "1373074935145463810",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1373074935145463810",
+    "possibly_sensitive": false,
+    "created_at": "Sat Mar 20 00:52:29 +0000 2021",
+    "favorited": false,
+    "full_text": "Had the pleasure of meeting Brian during #GSVStartupBootcamp. Check out his video to learn what @TimDraper told us during our pitch session. Glad he wrote it down because I didn't think to! 😅\nhttps://t.co/VI8YZCa57l",
+    "lang": "en"
+  }
+}

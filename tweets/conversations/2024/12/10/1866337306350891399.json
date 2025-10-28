@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1866337306350891399"
+        ],
+        "editableUntil": "2024-12-10T05:21:03.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Abstract Fairy",
+          "screen_name": "AbstractFairy",
+          "indices": [
+            "0",
+            "14"
+          ],
+          "id_str": "1256624514500374530",
+          "id": "1256624514500374530"
+        },
+        {
+          "name": "Defender",
+          "screen_name": "DefenderOfBasic",
+          "indices": [
+            "15",
+            "31"
+          ],
+          "id_str": "1680757426889342977",
+          "id": "1680757426889342977"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "258"
+    ],
+    "favorite_count": "1",
+    "in_reply_to_status_id_str": "1866335777816219837",
+    "id_str": "1866337306350891399",
+    "in_reply_to_user_id": "1256624514500374530",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1866337306350891399",
+    "in_reply_to_status_id": "1866335777816219837",
+    "created_at": "Tue Dec 10 04:21:03 +0000 2024",
+    "favorited": false,
+    "full_text": "@AbstractFairy @DefenderOfBasic The best part of it is that sense making is collective, this way.\n\nBy asking the questions,  we bring it to the surface and actually have the discussion. Then others get to see the arguments. \n\nIt's like calling an idea trial.",
+    "lang": "en",
+    "in_reply_to_screen_name": "AbstractFairy",
+    "in_reply_to_user_id_str": "1256624514500374530"
+  }
+}

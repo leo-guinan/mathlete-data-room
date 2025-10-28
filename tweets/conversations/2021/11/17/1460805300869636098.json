@@ -1,0 +1,61 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1460805300869636098"
+        ],
+        "editableUntil": "2021-11-17T04:01:38.834Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Noah Scales",
+          "screen_name": "NoahJohnScales",
+          "indices": [
+            "0",
+            "15"
+          ],
+          "id_str": "1442618514976563200",
+          "id": "1442618514976563200"
+        },
+        {
+          "name": "Jenn Strout | KeyLink | MotivateUTech",
+          "screen_name": "StroutMotivateU",
+          "indices": [
+            "16",
+            "32"
+          ],
+          "id_str": "1378776755738140675",
+          "id": "1378776755738140675"
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      "0",
+      "134"
+    ],
+    "favorite_count": "3",
+    "in_reply_to_status_id_str": "1460783973093699587",
+    "id_str": "1460805300869636098",
+    "in_reply_to_user_id": "1442618514976563200",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1460805300869636098",
+    "in_reply_to_status_id": "1460783973093699587",
+    "created_at": "Wed Nov 17 03:01:38 +0000 2021",
+    "favorited": false,
+    "full_text": "@NoahJohnScales @StroutMotivateU @racket100 Curious why you wouldn't include privacy?\n\nI think separation would be an interesting idea",
+    "lang": "en",
+    "in_reply_to_screen_name": "NoahJohnScales",
+    "in_reply_to_user_id_str": "1442618514976563200"
+  }
+}

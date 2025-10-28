@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1327950036160946176"
+        ],
+        "editableUntil": "2020-11-15T13:22:15.396Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "",
+          "screen_name": "SchaffnerCk",
+          "indices": [
+            "3",
+            "15"
+          ],
+          "id_str": "-1",
+          "id": "-1"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Od6nLVsXXS",
+          "expanded_url": "https://x.com/EgguShen/status/1327478819603718147",
+          "display_url": "x.com/EgguShen/statu…",
+          "indices": [
+            "42",
+            "65"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "65"
+    ],
+    "favorite_count": "0",
+    "id_str": "1327950036160946176",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1327950036160946176",
+    "possibly_sensitive": false,
+    "created_at": "Sun Nov 15 12:22:15 +0000 2020",
+    "favorited": false,
+    "full_text": "RT @SchaffnerCk: LOOK at these babies!!!! https://t.co/Od6nLVsXXS",
+    "lang": "en"
+  }
+}

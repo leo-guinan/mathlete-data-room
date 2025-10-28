@@ -1,0 +1,92 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1948778564406424027"
+        ],
+        "editableUntil": "2025-07-25T17:13:10.000Z",
+        "editsRemaining": "5",
+        "isEditEligible": false
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Andrew Wilkinson",
+          "screen_name": "awilkinson",
+          "indices": [
+            "0",
+            "11"
+          ],
+          "id_str": "3302",
+          "id": "3302"
+        },
+        {
+          "name": "Lindy",
+          "screen_name": "getlindy",
+          "indices": [
+            "12",
+            "21"
+          ],
+          "id_str": "1625244601820008448",
+          "id": "1625244601820008448"
+        },
+        {
+          "name": "Airtable",
+          "screen_name": "airtable",
+          "indices": [
+            "22",
+            "31"
+          ],
+          "id_str": "2786252385",
+          "id": "2786252385"
+        },
+        {
+          "name": "Mike Cardona | Automation Alchemist 🧪🔧",
+          "screen_name": "CSMikeCardona",
+          "indices": [
+            "36",
+            "50"
+          ],
+          "id_str": "2904219673",
+          "id": "2904219673"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/AykZFfPSLJ",
+          "expanded_url": "https://x.com/CSMikeCardona/status/1938999984814465159",
+          "display_url": "x.com/CSMikeCardona/…",
+          "indices": [
+            "156",
+            "179"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "179"
+    ],
+    "favorite_count": "4",
+    "in_reply_to_status_id_str": "1948754095751528723",
+    "id_str": "1948778564406424027",
+    "in_reply_to_user_id": "3302",
+    "truncated": false,
+    "retweet_count": "1",
+    "id": "1948778564406424027",
+    "in_reply_to_status_id": "1948754095751528723",
+    "possibly_sensitive": false,
+    "created_at": "Fri Jul 25 16:13:10 +0000 2025",
+    "favorited": false,
+    "full_text": "@awilkinson @getlindy @airtable Cc: @CSMikeCardona \n\nHe changed his middle name to Zapier. \n\nIf he’s not the automation nerd you need, I don’t know who is. https://t.co/AykZFfPSLJ",
+    "lang": "en",
+    "in_reply_to_screen_name": "awilkinson",
+    "in_reply_to_user_id_str": "3302"
+  }
+}

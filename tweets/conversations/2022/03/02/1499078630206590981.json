@@ -1,0 +1,57 @@
+{
+  "tweet": {
+    "edit_info": {
+      "initial": {
+        "editTweetIds": [
+          "1499078630206590981"
+        ],
+        "editableUntil": "2022-03-02T18:46:11.632Z",
+        "editsRemaining": "5",
+        "isEditEligible": true
+      }
+    },
+    "retweeted": false,
+    "source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "name": "Leo Guinan (📈)",
+          "screen_name": "leo_guinan",
+          "indices": [
+            "3",
+            "14"
+          ],
+          "id_str": "1325102346792218629",
+          "id": "1325102346792218629"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CdMhIDaFTo",
+          "expanded_url": "https://x.com/archillect/status/1498785303141703681",
+          "display_url": "x.com/archillect/sta…",
+          "indices": [
+            "61",
+            "84"
+          ]
+        }
+      ]
+    },
+    "display_text_range": [
+      "0",
+      "84"
+    ],
+    "favorite_count": "0",
+    "id_str": "1499078630206590981",
+    "truncated": false,
+    "retweet_count": "0",
+    "id": "1499078630206590981",
+    "possibly_sensitive": false,
+    "created_at": "Wed Mar 02 17:46:11 +0000 2022",
+    "favorited": false,
+    "full_text": "RT @leo_guinan: Me playing against my ADHD on a daily basis. https://t.co/CdMhIDaFTo",
+    "lang": "en"
+  }
+}
