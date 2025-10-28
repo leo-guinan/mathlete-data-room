@@ -9,6 +9,11 @@
 **Total Posts**: 580  
 **Total Words**: 345,241
 
+### YouTube Content
+
+**Total Videos**: 50  
+**Shorts**: 22 | **Longform**: 28
+
 #### Posts by Source
 
 - **medium_medium_leo**: 306 posts (221,129 words)
@@ -498,6 +503,10 @@
 │       │   ├── post-slug.md
 │       │   └── post-slug.json
 │       └── .cache/     # Cached calculations
+├── videos/
+│   └── YYYY/MM/DD/
+│       ├── shorts/     # YouTube Shorts
+│       └── longform/   # Longform videos
 └── .cache/             # Root-level statistics
 ```
 
