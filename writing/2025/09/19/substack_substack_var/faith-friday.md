@@ -1,0 +1,4 @@
+---
+title: Faith Friday
+---
+

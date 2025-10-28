@@ -1,0 +1,4 @@
+---
+title: The MetaSPN Manifesto 
+---
+

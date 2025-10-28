@@ -1,0 +1,4 @@
+---
+title: What if we built an internet where we didn't need to cheat?
+---
+

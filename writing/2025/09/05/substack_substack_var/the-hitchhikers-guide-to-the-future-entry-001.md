@@ -1,0 +1,4 @@
+---
+title: The Hitchhiker's Guide to the Future: Entry 001
+---
+

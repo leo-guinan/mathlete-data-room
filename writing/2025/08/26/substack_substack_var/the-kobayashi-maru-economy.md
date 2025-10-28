@@ -1,0 +1,4 @@
+---
+title: The Kobayashi Maru Economy
+---
+

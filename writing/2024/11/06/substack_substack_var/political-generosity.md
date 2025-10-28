@@ -1,0 +1,4 @@
+---
+title: Political Generosity
+---
+

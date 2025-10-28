@@ -1,0 +1,4 @@
+---
+title: The Real Story of ChatGPT Psychosis
+---
+

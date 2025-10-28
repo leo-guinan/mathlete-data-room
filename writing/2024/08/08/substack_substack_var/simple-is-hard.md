@@ -1,0 +1,4 @@
+---
+title: Simple is Hard
+---
+

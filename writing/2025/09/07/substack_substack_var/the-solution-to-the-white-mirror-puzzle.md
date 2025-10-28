@@ -1,0 +1,4 @@
+---
+title: The Solution to the White Mirror Puzzle
+---
+
