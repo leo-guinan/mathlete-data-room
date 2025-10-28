@@ -1,0 +1,16 @@
+# Show Your Work #shorts extra
+
+**Duration**: PT0M40S
+**Views**: 24
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #extra
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en now<00:00:00.799><c> why</c><00:00:01.079><c> am</c><00:00:01.199><c> I</c><00:00:01.360><c> talking</c><00:00:01.680><c> about</c><00:00:01.959><c> this</c><00:00:02.200><c> in</c> now why am I talking about this in now why am I talking about this in relation<00:00:03.000><c> to</c> relation to relation to business<00:00:04.759><c> well</c><00:00:05.160><c> I</c><00:00:05.279><c> think</c><00:00:05.480><c> building</c><00:00:05.799><c> in</c><00:00:06.120><c> public</c> business well I think building in public business well I think building in public is<00:00:06.879><c> a</c><00:00:07.080><c> lot</c><00:00:07.520><c> like</c><00:00:07.640><c> showing</c><00:00:08.040><c> your</c><00:00:08.200><c> work</c><00:00:08.400><c> on</c><00:00:08.559><c> your</c> is a lot like showing your work on your is a lot like showing your work on your math<00:00:09.000><c> test</c> math test math test right<00:00:11.240><c> you</c><00:00:12.120><c> don't</c><00:00:12.759><c> necessarily</c><00:00:13.759><c> need</c><00:00:14.040><c> to</c><00:00:14.240><c> do</c> right you don't necessarily need to do right you don't necessarily need to do it<00:00:16.279><c> but</c><00:00:16.640><c> if</c><00:00:16.760><c> you</c> it but if you it but if you do<00:00:18.760><c> your</c><00:00:19.000><c> potential</c><00:00:19.439><c> users</c><00:00:19.880><c> and</c><00:00:20.039><c> your</c> do your potential users and your do your potential users and your audience<00:00:20.720><c> can</c><00:00:20.920><c> give</c><00:00:21.039><c> you</c><00:00:21.199><c> partial</c><00:00:21.600><c> credit</c> audience can give you partial credit audience can give you partial credit they<00:00:22.600><c> can</c><00:00:22.760><c> see</c><00:00:23.000><c> that</c><00:00:23.119><c> you're</c><00:00:23.279><c> putting</c><00:00:23.519><c> in</c><00:00:23.680><c> the</c> they can see that you're putting in the they can see that you're putting in the effort<00:00:24.840><c> and</c><00:00:25.560><c> they</c><00:00:26.000><c> see</c><00:00:27.000><c> the</c><00:00:27.160><c> small</c> effort and they see the small effort and they see the small improvements<00:00:28.439><c> that</c><00:00:28.679><c> may</c><00:00:28.960><c> not</c><00:00:29.279><c> lead</c><00:00:30.240><c> to</c><00:00:30.920><c> the</c> improvements that may not lead to the improvements that may not lead to the final<00:00:31.759><c> result</c><00:00:32.759><c> being</c><00:00:33.360><c> 100%</c><00:00:34.040><c> correct</c><00:00:35.040><c> but</c> final result being 100% correct but final result being 100% correct but they'll<00:00:35.360><c> see</c><00:00:35.680><c> that</c><00:00:35.800><c> you're</c><00:00:36.000><c> putting</c><00:00:36.239><c> in</c><00:00:36.399><c> the</c> they'll see that you're putting in the they'll see that you're putting in the effort<00:00:37.640><c> to</c><00:00:37.960><c> make</c><00:00:38.160><c> it</c><00:00:38.520><c> more</c><00:00:38.840><c> successful</c>

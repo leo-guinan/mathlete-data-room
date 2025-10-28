@@ -1,0 +1,16 @@
+# Dad Jokes #shorts #dad
+
+**Duration**: PT0M15S
+**Views**: 160
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #dad
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en trying<00:00:00.399><c> to</c><00:00:00.480><c> figure</c><00:00:00.680><c> out</c><00:00:00.799><c> a</c><00:00:00.919><c> good</c><00:00:01.160><c> that</c><00:00:01.360><c> joke</c> trying to figure out a good that joke trying to figure out a good that joke rating rating rating system<00:00:03.719><c> piing</c><00:00:04.040><c> a</c><00:00:04.240><c> scale</c><00:00:04.520><c> of</c><00:00:04.720><c> zero</c><00:00:05.000><c> to</c><00:00:05.160><c> five</c><00:00:05.400><c> ey</c> system piing a scale of zero to five ey system piing a scale of zero to five ey rolls<00:00:06.520><c> because</c><00:00:07.520><c> got</c><00:00:07.720><c> two</c><00:00:08.000><c> kids</c><00:00:08.400><c> so</c><00:00:08.519><c> I</c><00:00:08.599><c> figure</c> rolls because got two kids so I figure rolls because got two kids so I figure if<00:00:09.080><c> I</c><00:00:09.200><c> can</c><00:00:10.200><c> hit</c><00:00:10.880><c> one</c><00:00:11.120><c> extra</c><00:00:11.400><c> eye</c><00:00:11.599><c> on</c><00:00:11.759><c> top</c><00:00:11.920><c> of</c> if I can hit one extra eye on top of if I can hit one extra eye on top of that<00:00:12.880><c> that's</c><00:00:13.040><c> got</c><00:00:13.160><c> to</c><00:00:13.240><c> be</c><00:00:13.320><c> a</c><00:00:13.440><c> pretty</c><00:00:13.639><c> good</c><00:00:13.799><c> one</c>

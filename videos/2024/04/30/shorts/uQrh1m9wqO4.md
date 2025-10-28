@@ -1,0 +1,18 @@
+# The Secrets of Time Travel  How Decisions Shape Our Reality #shorts #time
+
+**Duration**: PT0M32S
+**Views**: 35
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #time
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en [Music] what<00:00:10.280><c> do</c><00:00:10.559><c> time</c><00:00:10.840><c> travel</c><00:00:11.840><c> and</c><00:00:12.360><c> decision-making</c> what do time travel and decision-making what do time travel and decision-making have<00:00:13.519><c> in</c><00:00:13.719><c> common</c><00:00:14.639><c> welcome</c><00:00:14.879><c> back</c><00:00:15.000><c> to</c><00:00:15.080><c> the</c><00:00:15.160><c> idea</c> have in common welcome back to the idea have in common welcome back to the idea supply<00:00:15.759><c> chain</c><00:00:16.720><c> where</c><00:00:16.840><c> we</c><00:00:17.000><c> take</c><00:00:17.080><c> a</c><00:00:17.199><c> look</c><00:00:17.320><c> at</c> supply chain where we take a look at supply chain where we take a look at where<00:00:17.600><c> ideas</c><00:00:17.960><c> come</c><00:00:18.199><c> from</c><00:00:18.720><c> and</c><00:00:18.880><c> what</c><00:00:19.000><c> makes</c> where ideas come from and what makes where ideas come from and what makes those<00:00:19.400><c> ideas</c> those ideas those ideas valuable<00:00:21.320><c> today</c><00:00:21.600><c> I</c><00:00:21.680><c> want</c><00:00:21.800><c> to</c><00:00:22.000><c> talk</c><00:00:22.160><c> about</c><00:00:22.320><c> the</c> valuable today I want to talk about the valuable today I want to talk about the concept<00:00:23.000><c> of</c><00:00:23.439><c> time</c><00:00:24.119><c> travel</c><00:00:25.119><c> and</c><00:00:25.680><c> the</c><00:00:25.840><c> fact</c><00:00:26.080><c> is</c> concept of time travel and the fact is concept of time travel and the fact is most<00:00:26.720><c> of</c><00:00:26.880><c> us</c><00:00:27.199><c> have</c><00:00:27.720><c> sorry</c><00:00:28.119><c> all</c><00:00:28.279><c> of</c><00:00:28.400><c> us</c><00:00:28.599><c> really</c> most of us have sorry all of us really most of us have sorry all of us really have<00:00:29.279><c> the</c><00:00:29.439><c> ability</c><00:00:30.039><c> to</c><00:00:30.519><c> time</c><00:00:30.759><c> travel</c>

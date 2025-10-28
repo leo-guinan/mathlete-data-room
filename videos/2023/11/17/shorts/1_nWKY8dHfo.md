@@ -1,0 +1,16 @@
+# Multiple Man #shorts #multiple
+
+**Duration**: PT0M29S
+**Views**: 49
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #multiple
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en but<00:00:00.640><c> basically</c><00:00:01.000><c> this</c><00:00:01.120><c> is</c><00:00:01.240><c> the</c><00:00:01.400><c> idea</c><00:00:01.680><c> of</c><00:00:01.839><c> being</c> but basically this is the idea of being but basically this is the idea of being able<00:00:02.240><c> to</c><00:00:02.360><c> put</c><00:00:02.520><c> yourself</c><00:00:02.800><c> in</c><00:00:02.960><c> multiple</c><00:00:03.360><c> places</c> able to put yourself in multiple places able to put yourself in multiple places at<00:00:04.359><c> once</c><00:00:05.359><c> previously</c><00:00:05.920><c> you</c><00:00:06.040><c> could</c><00:00:06.160><c> do</c><00:00:06.319><c> this</c> at once previously you could do this at once previously you could do this kind<00:00:06.640><c> of</c><00:00:06.759><c> through</c><00:00:07.200><c> Automation</c><00:00:08.200><c> and</c><00:00:08.400><c> set</c> kind of through Automation and set kind of through Automation and set things<00:00:08.920><c> up</c><00:00:09.240><c> on</c><00:00:09.719><c> basic</c><00:00:10.080><c> triggers</c><00:00:10.960><c> or</c><00:00:11.880><c> you</c><00:00:12.000><c> know</c> things up on basic triggers or you know things up on basic triggers or you know various<00:00:12.559><c> types</c><00:00:12.759><c> of</c><00:00:12.920><c> inputs</c><00:00:13.799><c> great</c><00:00:14.440><c> they</c><00:00:14.559><c> would</c> various types of inputs great they would various types of inputs great they would run<00:00:15.120><c> certain</c><00:00:15.480><c> tasks</c><00:00:16.000><c> in</c><00:00:16.080><c> a</c><00:00:16.240><c> certain</c><00:00:16.680><c> way</c><00:00:17.680><c> but</c> run certain tasks in a certain way but run certain tasks in a certain way but now<00:00:18.600><c> we've</c><00:00:19.000><c> been</c><00:00:19.160><c> seeing</c><00:00:19.439><c> this</c><00:00:19.640><c> rise</c><00:00:19.920><c> of</c> now we've been seeing this rise of now we've been seeing this rise of autonomous<00:00:20.760><c> AI</c><00:00:21.320><c> agents</c><00:00:22.320><c> and</c><00:00:23.039><c> you're</c><00:00:23.320><c> not</c> autonomous AI agents and you're not autonomous AI agents and you're not seeing<00:00:23.800><c> a</c><00:00:24.000><c> ton</c><00:00:24.160><c> of</c><00:00:24.279><c> utility</c><00:00:24.680><c> in</c><00:00:24.840><c> general</c> seeing a ton of utility in general seeing a ton of utility in general purpose<00:00:25.480><c> AI</c><00:00:25.760><c> agents</c><00:00:26.240><c> although</c><00:00:26.560><c> they're</c> purpose AI agents although they're purpose AI agents although they're making<00:00:26.960><c> some</c><00:00:27.119><c> pretty</c><00:00:27.320><c> interesting</c><00:00:27.800><c> progress</c> making some pretty interesting progress making some pretty interesting progress there

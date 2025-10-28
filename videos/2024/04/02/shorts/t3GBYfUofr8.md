@@ -1,0 +1,16 @@
+# Ideas Transform #shorts #thoughts
+
+**Duration**: PT0M28S
+**Views**: 411
+**Likes**: 4
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #thoughts
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en ideas<00:00:00.640><c> ignite</c><00:00:01.120><c> Innovation</c><00:00:02.040><c> turning</c><00:00:02.480><c> the</c> ideas ignite Innovation turning the ideas ignite Innovation turning the simplest<00:00:03.199><c> thought</c><00:00:03.520><c> into</c><00:00:03.879><c> Monumental</c><00:00:04.680><c> change</c> simplest thought into Monumental change simplest thought into Monumental change each<00:00:05.960><c> Leap</c><00:00:06.319><c> Forward</c><00:00:06.799><c> begins</c><00:00:07.200><c> with</c><00:00:07.359><c> a</c><00:00:07.560><c> spark</c> each Leap Forward begins with a spark each Leap Forward begins with a spark daring<00:00:08.840><c> enough</c><00:00:09.160><c> to</c><00:00:09.400><c> challenge</c><00:00:09.960><c> the</c><00:00:10.160><c> status</c> daring enough to challenge the status daring enough to challenge the status quo<00:00:11.200><c> more</c><00:00:11.519><c> than</c><00:00:11.840><c> thoughts</c><00:00:12.719><c> they</c><00:00:12.840><c> are</c><00:00:13.040><c> the</c> quo more than thoughts they are the quo more than thoughts they are the driving<00:00:13.679><c> force</c><00:00:14.160><c> behind</c><00:00:14.599><c> progress</c> driving force behind progress driving force behind progress encouraging<00:00:16.000><c> us</c><00:00:16.160><c> to</c><00:00:16.400><c> explore</c><00:00:17.199><c> innovate</c><00:00:17.960><c> and</c> encouraging us to explore innovate and encouraging us to explore innovate and transcend<00:00:19.039><c> limits</c><00:00:19.720><c> embrace</c><00:00:20.199><c> the</c><00:00:20.400><c> potential</c> transcend limits embrace the potential transcend limits embrace the potential of<00:00:21.039><c> ideas</c><00:00:21.760><c> let</c><00:00:21.960><c> them</c><00:00:22.119><c> Propel</c><00:00:22.480><c> you</c><00:00:22.640><c> forward</c> of ideas let them Propel you forward of ideas let them Propel you forward unlocking<00:00:24.039><c> Endless</c><00:00:24.760><c> Possibilities</c><00:00:25.760><c> ideas</c> unlocking Endless Possibilities ideas unlocking Endless Possibilities ideas shape<00:00:26.920><c> the</c><00:00:27.080><c> future</c>

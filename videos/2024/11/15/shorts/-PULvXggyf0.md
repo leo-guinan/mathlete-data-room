@@ -1,0 +1,16 @@
+# Would You Rather??.. #question #choices
+
+**Duration**: PT0M31S
+**Views**: 550
+**Likes**: 22
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en give<00:00:00.240><c> up</c><00:00:00.359><c> your</c><00:00:00.480><c> phone</c><00:00:00.719><c> for</c><00:00:00.880><c> a</c><00:00:01.000><c> week</c><00:00:01.560><c> or</c><00:00:01.760><c> give</c><00:00:01.920><c> up</c> give up your phone for a week or give up give up your phone for a week or give up your<00:00:02.240><c> bed</c><00:00:02.560><c> for</c><00:00:02.720><c> a</c> week<00:00:06.399><c> lose</c><00:00:06.720><c> all</c><00:00:06.919><c> your</c><00:00:07.080><c> money</c><00:00:07.600><c> or</c><00:00:07.720><c> lose</c><00:00:07.879><c> all</c> week lose all your money or lose all week lose all your money or lose all your memories<00:00:12.000><c> be</c><00:00:12.160><c> stuck</c><00:00:12.440><c> in</c><00:00:12.599><c> 1253</c><00:00:13.440><c> ad</c><00:00:14.120><c> or</c> memories be stuck in 1253 ad or memories be stuck in 1253 ad or subscribe<00:00:14.879><c> and</c> relax<00:00:18.960><c> have</c><00:00:19.119><c> no</c><00:00:19.320><c> internet</c><00:00:19.800><c> access</c><00:00:20.279><c> or</c><00:00:20.439><c> have</c><00:00:20.600><c> no</c> relax have no internet access or have no relax have no internet access or have no Heating<00:00:21.080><c> in</c> Winter<00:00:25.000><c> live</c><00:00:25.279><c> without</c><00:00:25.599><c> music</c><00:00:26.000><c> or</c><00:00:26.240><c> live</c> Winter live without music or live Winter live without music or live without<00:00:26.760><c> books</c>

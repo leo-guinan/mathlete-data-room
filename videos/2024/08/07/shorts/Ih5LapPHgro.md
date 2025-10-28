@@ -1,0 +1,16 @@
+# Would You Rather? #question #choices
+
+**Duration**: PT0M37S
+**Views**: 4,029
+**Likes**: 68
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en have<00:00:00.240><c> a</c><00:00:00.320><c> phone</c><00:00:00.560><c> that</c><00:00:00.680><c> never</c><00:00:00.880><c> runs</c><00:00:01.079><c> out</c><00:00:01.240><c> of</c> have a phone that never runs out of have a phone that never runs out of battery<00:00:01.920><c> or</c><00:00:02.159><c> have</c><00:00:02.280><c> a</c><00:00:02.399><c> computer</c><00:00:02.760><c> that</c><00:00:02.879><c> never</c> crashes<00:00:07.000><c> live</c><00:00:07.200><c> in</c><00:00:07.319><c> a</c><00:00:07.439><c> world</c><00:00:07.680><c> without</c><00:00:08.080><c> Wi-Fi</c><00:00:08.679><c> or</c> crashes live in a world without Wi-Fi or crashes live in a world without Wi-Fi or live<00:00:09.160><c> without</c> smartphones<00:00:13.599><c> live</c><00:00:13.799><c> in</c><00:00:14.000><c> silence</c><00:00:14.400><c> forever</c><00:00:15.000><c> or</c> smartphones live in silence forever or smartphones live in silence forever or subscribe<00:00:15.639><c> and</c> relax<00:00:19.520><c> own</c><00:00:19.720><c> a</c><00:00:19.880><c> robot</c><00:00:20.279><c> that</c><00:00:20.400><c> does</c><00:00:20.560><c> all</c><00:00:20.720><c> your</c> relax own a robot that does all your relax own a robot that does all your chores<00:00:21.560><c> or</c><00:00:21.800><c> own</c><00:00:22.039><c> an</c><00:00:22.279><c> AI</c><00:00:22.840><c> assistant</c><00:00:23.320><c> that</c> chores or own an AI assistant that chores or own an AI assistant that perfectly<00:00:24.000><c> manages</c><00:00:24.400><c> your</c> schedule<00:00:28.480><c> experience</c><00:00:29.039><c> Cutting</c><00:00:29.320><c> Edge</c><00:00:29.519><c> virtual</c> schedule experience Cutting Edge virtual schedule experience Cutting Edge virtual reality<00:00:30.599><c> or</c><00:00:30.880><c> have</c><00:00:31.080><c> the</c><00:00:31.279><c> fastest</c><00:00:31.720><c> internet</c> reality or have the fastest internet reality or have the fastest internet connection<00:00:32.439><c> in</c><00:00:32.559><c> the</c><00:00:32.719><c> world</c>

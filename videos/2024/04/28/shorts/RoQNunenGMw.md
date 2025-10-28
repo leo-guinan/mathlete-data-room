@@ -1,0 +1,18 @@
+# Unlocking the Secrets of Time Travel #shorts #time
+
+**Duration**: PT0M39S
+**Views**: 2
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #time
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:02.480><c> that</c><00:00:02.600><c> is</c><00:00:02.720><c> a</c><00:00:02.840><c> powerful</c><00:00:03.199><c> mechanism</c><00:00:03.679><c> so</c><00:00:03.840><c> one</c> and that is a powerful mechanism so one and that is a powerful mechanism so one thing<00:00:04.080><c> you</c><00:00:04.160><c> want</c><00:00:04.279><c> to</c><00:00:04.400><c> do</c><00:00:04.560><c> when</c><00:00:04.680><c> you're</c><00:00:04.839><c> looking</c> thing you want to do when you're looking thing you want to do when you're looking to<00:00:05.480><c> you</c><00:00:05.600><c> know</c><00:00:06.160><c> time</c><00:00:06.399><c> travel</c><00:00:06.759><c> with</c><00:00:06.960><c> information</c> to you know time travel with information to you know time travel with information is<00:00:08.080><c> basically</c><00:00:08.800><c> you</c><00:00:08.960><c> need</c><00:00:09.200><c> to</c><00:00:09.480><c> say</c> is basically you need to say is basically you need to say okay<00:00:11.639><c> what</c><00:00:12.400><c> was</c><00:00:12.639><c> the</c><00:00:12.799><c> state</c><00:00:13.080><c> of</c><00:00:13.200><c> the</c> okay what was the state of the okay what was the state of the system<00:00:15.360><c> at</c><00:00:15.519><c> a</c><00:00:15.719><c> given</c><00:00:16.439><c> time</c><00:00:17.439><c> and</c><00:00:17.840><c> if</c><00:00:17.960><c> you</c><00:00:18.080><c> can</c> system at a given time and if you can system at a given time and if you can actually<00:00:18.880><c> figure</c><00:00:19.240><c> that</c><00:00:19.400><c> out</c><00:00:19.760><c> and</c><00:00:19.880><c> it</c><00:00:20.080><c> can</c><00:00:20.240><c> be</c> actually figure that out and it can be actually figure that out and it can be tough<00:00:20.880><c> because</c><00:00:21.279><c> a</c><00:00:21.400><c> lot</c><00:00:21.560><c> of</c><00:00:21.760><c> systems</c><00:00:22.720><c> you</c><00:00:22.880><c> know</c> tough because a lot of systems you know tough because a lot of systems you know mutate<00:00:23.920><c> evolve</c><00:00:24.400><c> over</c><00:00:24.680><c> time</c><00:00:24.920><c> so</c><00:00:25.160><c> any</c><00:00:26.000><c> long</c> mutate evolve over time so any long mutate evolve over time so any long stretch<00:00:26.640><c> of</c><00:00:26.800><c> time</c><00:00:27.000><c> it's</c><00:00:27.119><c> going</c><00:00:27.199><c> to</c><00:00:27.279><c> be</c><00:00:27.480><c> very</c> stretch of time it's going to be very stretch of time it's going to be very very<00:00:27.840><c> hard</c><00:00:28.039><c> to</c><00:00:28.199><c> recreate</c><00:00:28.679><c> the</c><00:00:28.840><c> exact</c><00:00:29.840><c> um</c><00:00:30.160><c> um</c> very hard to recreate the exact um um very hard to recreate the exact um um moment<00:00:31.480><c> in</c> moment in moment in time<00:00:33.280><c> but</c><00:00:34.280><c> I</c><00:00:34.399><c> actually</c><00:00:34.600><c> have</c><00:00:34.680><c> a</c><00:00:34.800><c> theory</c><00:00:35.120><c> that</c> time but I actually have a theory that time but I actually have a theory that you<00:00:35.360><c> don't</c><00:00:35.800><c> need</c><00:00:36.800><c> an</c><00:00:37.079><c> exact</c><00:00:37.559><c> copy</c>

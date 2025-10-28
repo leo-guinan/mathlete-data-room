@@ -1,0 +1,16 @@
+# Unlocking Your Potential #shorts #potential
+
+**Duration**: PT0M26S
+**Views**: 25
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #potential
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en because<00:00:00.280><c> it</c><00:00:00.399><c> does</c><00:00:00.560><c> start</c><00:00:00.760><c> with</c><00:00:00.880><c> yourself</c> because it does start with yourself because it does start with yourself because<00:00:02.000><c> once</c><00:00:02.120><c> you</c><00:00:02.240><c> have</c><00:00:02.360><c> a</c><00:00:02.560><c> good</c><00:00:02.919><c> clear</c> because once you have a good clear because once you have a good clear understanding<00:00:03.879><c> of</c> understanding of understanding of yourself<00:00:05.680><c> interacting</c><00:00:06.200><c> with</c><00:00:06.399><c> others</c><00:00:06.759><c> becomes</c> yourself interacting with others becomes yourself interacting with others becomes much<00:00:07.640><c> much</c><00:00:07.839><c> easier</c><00:00:08.639><c> and</c><00:00:08.760><c> this</c><00:00:08.880><c> is</c><00:00:09.040><c> this</c><00:00:09.120><c> is</c> much much easier and this is this is much much easier and this is this is exactly<00:00:09.559><c> what</c><00:00:09.639><c> I</c><00:00:09.760><c> found</c><00:00:10.000><c> and</c><00:00:10.080><c> I</c><00:00:10.160><c> had</c><00:00:10.280><c> to</c><00:00:10.400><c> become</c> exactly what I found and I had to become exactly what I found and I had to become way<00:00:11.080><c> more</c><00:00:11.280><c> comfortable</c><00:00:11.679><c> with</c><00:00:11.799><c> who</c><00:00:12.000><c> I</c><00:00:12.240><c> was</c> way more comfortable with who I was way more comfortable with who I was before<00:00:13.519><c> I</c><00:00:13.599><c> was</c><00:00:13.799><c> really</c><00:00:14.040><c> able</c><00:00:14.240><c> to</c><00:00:14.440><c> start</c> before I was really able to start before I was really able to start impacting<00:00:16.279><c> others</c><00:00:16.600><c> around</c><00:00:16.880><c> me</c><00:00:17.359><c> but</c><00:00:17.480><c> once</c><00:00:17.680><c> I</c> impacting others around me but once I impacting others around me but once I became<00:00:18.279><c> that</c><00:00:18.480><c> way</c><00:00:19.439><c> all</c><00:00:19.560><c> of</c><00:00:19.680><c> a</c><00:00:19.800><c> sudden</c><00:00:20.080><c> it</c> became that way all of a sudden it became that way all of a sudden it changed<00:00:20.840><c> and</c><00:00:21.080><c> like</c><00:00:21.600><c> I</c><00:00:21.720><c> I</c><00:00:21.840><c> find</c><00:00:22.080><c> people</c><00:00:22.359><c> like</c> changed and like I I find people like changed and like I I find people like looking<00:00:22.840><c> up</c><00:00:23.000><c> to</c><00:00:23.160><c> me</c><00:00:23.560><c> and</c><00:00:23.680><c> they're</c><00:00:23.840><c> like</c><00:00:24.039><c> oh</c> looking up to me and they're like oh looking up to me and they're like oh well<00:00:24.480><c> you</c><00:00:24.599><c> inspired</c><00:00:25.000><c> me</c><00:00:25.080><c> to</c><00:00:25.160><c> do</c><00:00:25.320><c> this</c>

@@ -1,0 +1,16 @@
+# Lets Experiment #new #shorts
+
+**Duration**: PT0M28S
+**Views**: 37
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #experiment
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en there's<00:00:01.620><c> a</c><00:00:01.740><c> lot</c><00:00:01.800><c> to</c><00:00:01.979><c> be</c><00:00:02.100><c> said</c><00:00:02.220><c> for</c> there's a lot to be said for there's a lot to be said for experimentation experimentation experimentation I<00:00:04.920><c> never</c><00:00:05.040><c> really</c><00:00:05.400><c> know</c><00:00:05.700><c> exactly</c><00:00:06.120><c> what's</c><00:00:06.359><c> going</c> I never really know exactly what's going I never really know exactly what's going to<00:00:06.660><c> work</c><00:00:06.779><c> well</c><00:00:07.020><c> when</c><00:00:07.200><c> I'm</c><00:00:07.379><c> trying</c><00:00:07.560><c> something</c> to work well when I'm trying something to work well when I'm trying something and<00:00:09.059><c> so</c><00:00:09.240><c> I'll</c><00:00:09.540><c> figure</c><00:00:09.720><c> out</c><00:00:09.960><c> a</c><00:00:10.260><c> number</c><00:00:10.380><c> of</c> and so I'll figure out a number of and so I'll figure out a number of different<00:00:10.679><c> ways</c><00:00:11.040><c> to</c><00:00:11.219><c> try</c><00:00:11.400><c> it</c><00:00:11.580><c> and</c><00:00:11.820><c> just</c><00:00:12.000><c> keep</c> different ways to try it and just keep different ways to try it and just keep you<00:00:13.799><c> know</c><00:00:13.920><c> putting</c><00:00:14.219><c> different</c><00:00:14.400><c> versions</c><00:00:14.759><c> out</c> you know putting different versions out you know putting different versions out and<00:00:15.179><c> kind</c><00:00:15.360><c> of</c><00:00:15.480><c> seeing</c><00:00:15.660><c> which</c><00:00:15.839><c> one</c><00:00:16.020><c> sticks</c> and kind of seeing which one sticks and kind of seeing which one sticks faster<00:00:17.460><c> iteration</c><00:00:17.940><c> leads</c><00:00:18.420><c> to</c><00:00:18.539><c> faster</c> faster iteration leads to faster faster iteration leads to faster Improvement<00:00:19.320><c> faster</c><00:00:20.160><c> experimentation</c><00:00:20.939><c> leads</c> Improvement faster experimentation leads Improvement faster experimentation leads to<00:00:21.539><c> faster</c><00:00:21.779><c> results</c> to faster results to faster results more<00:00:24.060><c> shots</c><00:00:24.240><c> on</c><00:00:24.420><c> goal</c><00:00:24.779><c> you</c><00:00:24.900><c> take</c><00:00:25.080><c> the</c><00:00:25.800><c> more</c> more shots on goal you take the more more shots on goal you take the more likely<00:00:26.279><c> it</c><00:00:26.400><c> is</c><00:00:26.519><c> that</c><00:00:26.760><c> you're</c><00:00:26.880><c> going</c><00:00:27.000><c> to</c><00:00:27.119><c> score</c> likely it is that you're going to score likely it is that you're going to score that<00:00:27.480><c> goal</c>

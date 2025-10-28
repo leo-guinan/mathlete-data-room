@@ -1,0 +1,16 @@
+# Breaking Free #shorts #free
+
+**Duration**: PT0M35S
+**Views**: 36
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #free
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en if<00:00:02.700><c> anything</c><00:00:02.820><c> how</c><00:00:03.240><c> much</c><00:00:03.360><c> your</c><00:00:03.600><c> culture</c> if anything how much your culture if anything how much your culture dictates<00:00:04.440><c> your</c><00:00:04.680><c> outcomes</c> dictates your outcomes dictates your outcomes and<00:00:06.480><c> I</c><00:00:06.899><c> mean</c><00:00:07.020><c> culture</c><00:00:07.440><c> in</c><00:00:07.620><c> terms</c><00:00:07.859><c> of</c><00:00:07.919><c> the</c> and I mean culture in terms of the and I mean culture in terms of the people<00:00:08.340><c> you</c><00:00:08.639><c> surround</c><00:00:08.940><c> yourself</c><00:00:09.059><c> with</c><00:00:09.360><c> the</c> people you surround yourself with the people you surround yourself with the ideas<00:00:09.780><c> you</c><00:00:10.080><c> surround</c><00:00:10.380><c> yourself</c><00:00:10.559><c> with</c> ideas you surround yourself with ideas you surround yourself with and<00:00:12.420><c> kind</c><00:00:12.780><c> of</c><00:00:12.900><c> everything</c> and kind of everything and kind of everything um but<00:00:15.000><c> one</c><00:00:15.179><c> of</c><00:00:15.299><c> the</c><00:00:15.360><c> things</c><00:00:15.480><c> that</c><00:00:15.719><c> I</c><00:00:16.379><c> really</c> um but one of the things that I really um but one of the things that I really started<00:00:17.220><c> realizing</c> started realizing started realizing is<00:00:19.020><c> that</c><00:00:19.199><c> the</c><00:00:19.500><c> longer</c><00:00:19.800><c> you've</c><00:00:20.100><c> put</c><00:00:20.220><c> yourself</c> is that the longer you've put yourself is that the longer you've put yourself in<00:00:21.300><c> a</c><00:00:21.600><c> certain</c><00:00:21.779><c> context</c> in a certain context in a certain context the<00:00:24.119><c> harder</c><00:00:24.660><c> it</c><00:00:24.779><c> is</c><00:00:24.900><c> to</c><00:00:25.199><c> break</c><00:00:25.439><c> free</c><00:00:25.740><c> from</c><00:00:25.980><c> that</c> the harder it is to break free from that the harder it is to break free from that and<00:00:27.359><c> so</c><00:00:27.660><c> by</c><00:00:28.500><c> surrounding</c><00:00:28.980><c> yourself</c><00:00:29.039><c> with</c><00:00:29.279><c> the</c> and so by surrounding yourself with the and so by surrounding yourself with the right<00:00:29.519><c> people</c><00:00:29.640><c> the</c><00:00:29.880><c> right</c><00:00:30.060><c> ideas</c><00:00:30.240><c> you</c><00:00:30.960><c> can</c> right people the right ideas you can right people the right ideas you can change<00:00:31.260><c> your</c><00:00:31.439><c> outcomes</c><00:00:31.859><c> but</c><00:00:32.460><c> it</c><00:00:32.640><c> takes</c> change your outcomes but it takes change your outcomes but it takes probably<00:00:33.059><c> more</c><00:00:33.360><c> time</c><00:00:33.480><c> than</c><00:00:33.660><c> You're</c><00:00:33.780><c> Expecting</c>

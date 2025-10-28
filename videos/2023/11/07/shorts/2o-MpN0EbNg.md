@@ -1,0 +1,16 @@
+# Rules To Be Happy Online #shorts #online
+
+**Duration**: PT0M26S
+**Views**: 8
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #online
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en Focus<00:00:00.560><c> your</c><00:00:00.880><c> time</c><00:00:01.560><c> on</c><00:00:02.440><c> the</c><00:00:02.600><c> people</c><00:00:02.840><c> you</c><00:00:02.960><c> want</c> Focus your time on the people you want Focus your time on the people you want to<00:00:03.199><c> spend</c><00:00:03.480><c> time</c><00:00:03.719><c> with</c><00:00:04.400><c> the</c><00:00:04.680><c> places</c><00:00:05.279><c> that</c><00:00:05.440><c> make</c> to spend time with the places that make to spend time with the places that make you<00:00:05.960><c> feel</c><00:00:06.960><c> satisfied</c><00:00:07.600><c> when</c><00:00:07.759><c> you're</c> you feel satisfied when you're you feel satisfied when you're online<00:00:09.519><c> the</c><00:00:10.240><c> systems</c><00:00:10.679><c> or</c><00:00:11.000><c> rules</c><00:00:11.360><c> that</c><00:00:11.480><c> you</c><00:00:11.599><c> can</c> online the systems or rules that you can online the systems or rules that you can put<00:00:11.920><c> in</c><00:00:12.080><c> place</c><00:00:12.280><c> to</c><00:00:12.480><c> really</c><00:00:12.759><c> make</c><00:00:12.960><c> sure</c><00:00:13.320><c> that</c> put in place to really make sure that put in place to really make sure that you're<00:00:13.639><c> spending</c><00:00:14.639><c> time</c><00:00:14.879><c> online</c><00:00:15.320><c> to</c><00:00:15.519><c> the</c><00:00:15.840><c> best</c> you're spending time online to the best you're spending time online to the best use<00:00:17.279><c> for</c><00:00:18.160><c> you</c><00:00:19.160><c> turn</c><00:00:19.400><c> off</c><00:00:19.560><c> the</c><00:00:20.039><c> notifications</c> use for you turn off the notifications use for you turn off the notifications and<00:00:21.320><c> finally</c><00:00:22.519><c> reflect</c><00:00:23.519><c> think</c><00:00:23.880><c> about</c><00:00:24.320><c> where</c> and finally reflect think about where and finally reflect think about where you've<00:00:24.800><c> been</c>

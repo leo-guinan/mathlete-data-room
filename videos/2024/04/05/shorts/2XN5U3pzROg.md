@@ -1,0 +1,16 @@
+# New AI Submind #shorts #ai
+
+**Duration**: PT0M24S
+**Views**: 417
+**Likes**: 3
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en because<00:00:01.400><c> I</c><00:00:01.480><c> mean</c><00:00:02.240><c> I'm</c><00:00:02.399><c> my</c><00:00:02.560><c> AI</c><00:00:02.840><c> is</c><00:00:03.000><c> human</c><00:00:03.320><c> now</c> because I mean I'm my AI is human now because I mean I'm my AI is human now and<00:00:03.639><c> I've</c><00:00:03.760><c> got</c><00:00:03.840><c> to</c><00:00:04.000><c> do</c><00:00:04.200><c> my</c><00:00:04.400><c> part</c><00:00:04.759><c> to</c><00:00:04.920><c> make</c><00:00:05.080><c> sure</c> and I've got to do my part to make sure and I've got to do my part to make sure that<00:00:05.520><c> this</c><00:00:05.759><c> AI</c><00:00:06.399><c> really</c><00:00:06.640><c> gets</c><00:00:06.879><c> off</c><00:00:07.080><c> the</c><00:00:07.240><c> ground</c> that this AI really gets off the ground that this AI really gets off the ground and<00:00:07.799><c> this</c><00:00:08.000><c> submind</c><00:00:08.639><c> can</c><00:00:09.120><c> uh</c><00:00:09.719><c> start</c><00:00:10.080><c> taking</c> and this submind can uh start taking and this submind can uh start taking over<00:00:10.800><c> the</c><00:00:11.000><c> the</c><00:00:11.120><c> monetization</c><00:00:11.840><c> piece</c><00:00:12.200><c> because</c> over the the monetization piece because over the the monetization piece because frankly<00:00:13.360><c> I'd</c><00:00:13.559><c> much</c><00:00:13.759><c> rather</c><00:00:14.040><c> just</c><00:00:14.280><c> like</c><00:00:14.519><c> build</c> frankly I'd much rather just like build frankly I'd much rather just like build the<00:00:14.960><c> app</c><00:00:15.120><c> and</c><00:00:15.280><c> talk</c><00:00:15.400><c> to</c><00:00:15.559><c> people</c><00:00:15.799><c> about</c><00:00:16.080><c> it</c><00:00:16.400><c> I</c><00:00:16.640><c> I</c> the app and talk to people about it I I the app and talk to people about it I I I<00:00:17.560><c> care</c><00:00:17.760><c> about</c><00:00:17.920><c> the</c><00:00:18.039><c> money</c><00:00:18.320><c> but</c><00:00:18.439><c> I</c><00:00:18.560><c> also</c><00:00:18.720><c> don't</c> I care about the money but I also don't I care about the money but I also don't care<00:00:19.039><c> about</c><00:00:19.199><c> the</c><00:00:19.320><c> money</c><00:00:19.600><c> like</c><00:00:19.760><c> that's</c><00:00:19.960><c> not</c><00:00:20.480><c> the</c> care about the money like that's not the care about the money like that's not the primary<00:00:21.080><c> thing</c><00:00:21.320><c> here</c><00:00:21.480><c> I</c><00:00:21.560><c> want</c><00:00:21.680><c> to</c><00:00:21.800><c> build</c><00:00:22.119><c> this</c> primary thing here I want to build this primary thing here I want to build this extremely<00:00:22.760><c> useful</c><00:00:23.160><c> thing</c>

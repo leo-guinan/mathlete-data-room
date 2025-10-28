@@ -1,0 +1,16 @@
+# Hitting Your Goal #shorts #goals
+
+**Duration**: PT0M16S
+**Views**: 249
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #goals
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en feedback<00:00:00.520><c> loop</c><00:00:01.040><c> of</c><00:00:01.280><c> like</c><00:00:01.520><c> you</c><00:00:01.680><c> do</c><00:00:01.880><c> a</c><00:00:02.040><c> little</c> feedback loop of like you do a little feedback loop of like you do a little bit<00:00:02.919><c> and</c><00:00:03.040><c> you</c><00:00:03.240><c> get</c><00:00:03.600><c> feedback</c><00:00:04.200><c> that</c><00:00:04.440><c> like</c><00:00:04.799><c> kind</c> bit and you get feedback that like kind bit and you get feedback that like kind of<00:00:05.279><c> like</c><00:00:05.440><c> pumps</c><00:00:05.759><c> you</c><00:00:05.879><c> up</c><00:00:06.000><c> for</c><00:00:06.200><c> that</c><00:00:06.399><c> next</c><00:00:06.759><c> step</c> of like pumps you up for that next step of like pumps you up for that next step um<00:00:08.200><c> so</c><00:00:08.519><c> you</c><00:00:08.639><c> know</c><00:00:08.880><c> you</c><00:00:09.040><c> you</c><00:00:09.160><c> kind</c><00:00:09.240><c> of</c><00:00:09.400><c> think</c><00:00:09.559><c> of</c> um so you know you you kind of think of um so you know you you kind of think of the<00:00:09.800><c> long-term</c><00:00:10.280><c> vision</c><00:00:10.679><c> and</c><00:00:10.800><c> then</c><00:00:11.000><c> literally</c> the long-term vision and then literally the long-term vision and then literally say<00:00:11.719><c> like</c><00:00:12.080><c> okay</c><00:00:12.320><c> what</c><00:00:12.480><c> can</c><00:00:12.599><c> I</c><00:00:12.759><c> do</c><00:00:13.000><c> in</c><00:00:13.120><c> the</c><00:00:13.280><c> next</c> say like okay what can I do in the next say like okay what can I do in the next five<00:00:13.920><c> minutes</c><00:00:14.280><c> that'll</c><00:00:14.559><c> get</c><00:00:14.679><c> me</c><00:00:14.799><c> closer</c><00:00:15.120><c> to</c> five minutes that'll get me closer to five minutes that'll get me closer to that<00:00:15.440><c> goal</c>

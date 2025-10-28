@@ -1,0 +1,18 @@
+# Time Travel Tutorial #shorts #time
+
+**Duration**: PT0M46S
+**Views**: 324
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #time
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en we<00:00:01.000><c> just</c><00:00:01.120><c> don't</c><00:00:01.319><c> think</c><00:00:01.520><c> we</c><00:00:01.840><c> do</c><00:00:02.840><c> because</c> we just don't think we do because we just don't think we do because typically<00:00:03.719><c> when</c><00:00:03.840><c> you</c><00:00:04.000><c> think</c><00:00:04.120><c> of</c><00:00:04.279><c> time</c><00:00:04.520><c> travel</c> typically when you think of time travel typically when you think of time travel right<00:00:05.799><c> you</c><00:00:06.680><c> imagine</c><00:00:07.680><c> hopping</c><00:00:08.040><c> in</c><00:00:08.160><c> the</c> right you imagine hopping in the right you imagine hopping in the DeLorean<00:00:10.040><c> getting</c><00:00:10.280><c> up</c><00:00:10.400><c> to</c><00:00:10.519><c> 88</c><00:00:10.920><c> miles</c><00:00:11.160><c> an</c> DeLorean getting up to 88 miles an DeLorean getting up to 88 miles an [Music] [Music] [Music] hour<00:00:14.000><c> and</c><00:00:14.599><c> moving</c><00:00:15.040><c> through</c><00:00:15.680><c> time</c><00:00:16.680><c> and</c><00:00:16.960><c> space</c> hour and moving through time and space hour and moving through time and space right<00:00:18.600><c> you're</c><00:00:18.960><c> thinking</c><00:00:19.400><c> that</c><00:00:19.560><c> you</c><00:00:19.680><c> have</c><00:00:19.840><c> to</c> right you're thinking that you have to right you're thinking that you have to physically<00:00:20.840><c> have</c><00:00:21.000><c> your</c><00:00:21.199><c> body</c><00:00:21.480><c> in</c><00:00:21.640><c> a</c><00:00:21.840><c> different</c> physically have your body in a different physically have your body in a different time<00:00:23.840><c> that's</c><00:00:24.000><c> not</c><00:00:24.199><c> actually</c> time that's not actually time that's not actually true true true in<00:00:28.400><c> to</c><00:00:28.679><c> to</c><00:00:28.840><c> Really</c><00:00:29.119><c> travel</c><00:00:29.480><c> time</c><00:00:30.039><c> all</c><00:00:30.160><c> you</c> in to to Really travel time all you in to to Really travel time all you really<00:00:30.480><c> need</c><00:00:30.679><c> to</c><00:00:30.800><c> do</c><00:00:31.039><c> is</c><00:00:31.160><c> you</c><00:00:31.279><c> need</c><00:00:31.439><c> to</c><00:00:31.560><c> be</c><00:00:31.679><c> able</c> really need to do is you need to be able really need to do is you need to be able to to to recreate<00:00:35.399><c> an</c><00:00:35.640><c> exact</c><00:00:36.000><c> moment</c><00:00:36.520><c> in</c><00:00:36.680><c> the</c><00:00:36.920><c> past</c><00:00:37.879><c> and</c> recreate an exact moment in the past and recreate an exact moment in the past and if<00:00:38.160><c> you're</c><00:00:38.280><c> trying</c><00:00:38.480><c> to</c><00:00:38.640><c> create</c><00:00:38.879><c> an</c><00:00:39.040><c> entire</c> if you're trying to create an entire if you're trying to create an entire physical<00:00:39.680><c> world</c><00:00:39.960><c> in</c><00:00:40.079><c> the</c><00:00:40.680><c> past</c><00:00:41.680><c> it's</c><00:00:41.840><c> a</c><00:00:41.920><c> lot</c><00:00:42.039><c> of</c> physical world in the past it's a lot of physical world in the past it's a lot of work<00:00:43.360><c> we</c><00:00:43.520><c> don't</c><00:00:43.640><c> have</c><00:00:43.760><c> all</c><00:00:43.879><c> the</c><00:00:44.000><c> data</c><00:00:44.239><c> for</c><00:00:44.399><c> that</c>

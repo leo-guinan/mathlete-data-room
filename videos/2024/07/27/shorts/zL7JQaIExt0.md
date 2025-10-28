@@ -1,0 +1,16 @@
+# Would You Rather - Tech #question #choices
+
+**Duration**: PT0M45S
+**Views**: 521
+**Likes**: 13
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en have<00:00:00.240><c> a</c><00:00:00.359><c> smartphone</c><00:00:00.799><c> that</c><00:00:00.960><c> tells</c><00:00:01.280><c> jokes</c><00:00:01.680><c> every</c> have a smartphone that tells jokes every have a smartphone that tells jokes every time<00:00:02.040><c> you</c><00:00:02.200><c> unlock</c><00:00:02.560><c> it</c><00:00:02.879><c> or</c><00:00:03.120><c> own</c><00:00:03.360><c> a</c><00:00:03.520><c> laptop</c><00:00:03.919><c> that</c> time you unlock it or own a laptop that time you unlock it or own a laptop that plays<00:00:04.279><c> your</c><00:00:04.480><c> favorite</c><00:00:04.799><c> song</c><00:00:05.120><c> whenever</c><00:00:05.400><c> you</c> plays your favorite song whenever you plays your favorite song whenever you turn<00:00:05.720><c> it</c> on<00:00:09.599><c> invent</c><00:00:09.920><c> a</c><00:00:10.080><c> robot</c><00:00:10.440><c> that</c><00:00:10.559><c> can</c><00:00:10.679><c> make</c><00:00:10.880><c> perfect</c> on invent a robot that can make perfect on invent a robot that can make perfect breakfast<00:00:11.639><c> pancakes</c><00:00:12.440><c> or</c><00:00:12.799><c> create</c><00:00:13.080><c> an</c><00:00:13.320><c> app</c><00:00:13.559><c> that</c> breakfast pancakes or create an app that breakfast pancakes or create an app that automatically<00:00:14.240><c> schedules</c><00:00:14.759><c> naps</c><00:00:15.120><c> for</c> you<00:00:18.840><c> not</c><00:00:19.039><c> able</c><00:00:19.279><c> to</c><00:00:19.400><c> use</c><00:00:19.680><c> technology</c><00:00:20.199><c> built</c> you not able to use technology built you not able to use technology built after<00:00:21.039><c> 1950</c><00:00:22.039><c> or</c><00:00:22.279><c> subscribe</c><00:00:22.760><c> in</c><00:00:22.880><c> your</c><00:00:23.080><c> game</c> room<00:00:26.960><c> use</c><00:00:27.279><c> Virtual</c><00:00:27.720><c> Reality</c><00:00:28.119><c> to</c><00:00:28.240><c> visit</c><00:00:28.519><c> any</c> room use Virtual Reality to visit any room use Virtual Reality to visit any place<00:00:28.880><c> in</c><00:00:29.039><c> history</c><00:00:29.519><c> or</c><00:00:29.679><c> have</c><00:00:29.759><c> a</c><00:00:30.000><c> smart</c> place in history or have a smart place in history or have a smart assistant<00:00:30.640><c> that</c><00:00:30.720><c> can</c><00:00:30.880><c> mimic</c><00:00:31.160><c> your</c><00:00:31.400><c> voice</c> perfectly<00:00:35.719><c> have</c><00:00:35.840><c> a</c><00:00:36.000><c> drone</c><00:00:36.360><c> that</c><00:00:36.480><c> delivers</c> perfectly have a drone that delivers perfectly have a drone that delivers snacks<00:00:37.280><c> to</c><00:00:37.399><c> you</c><00:00:37.559><c> anywhere</c><00:00:38.160><c> or</c><00:00:38.320><c> own</c><00:00:38.559><c> a</c> snacks to you anywhere or own a snacks to you anywhere or own a smartwatch<00:00:39.399><c> that</c><00:00:39.520><c> gives</c><00:00:39.719><c> you</c><00:00:39.879><c> silly</c> smartwatch that gives you silly smartwatch that gives you silly compliments<00:00:40.800><c> all</c><00:00:41.039><c> day</c>

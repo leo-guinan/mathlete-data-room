@@ -1,0 +1,16 @@
+# Easy Steps! #success #shorts
+
+**Duration**: PT0M12S
+**Views**: 1,606
+**Likes**: 29
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #challenge
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en if<00:00:00.659><c> you're</c><00:00:00.780><c> looking</c><00:00:00.900><c> to</c><00:00:01.140><c> improve</c><00:00:01.500><c> on</c> if you're looking to improve on if you're looking to improve on something<00:00:01.800><c> there's</c><00:00:02.340><c> two</c><00:00:02.580><c> keys</c><00:00:02.879><c> you</c><00:00:03.000><c> have</c><00:00:03.120><c> to</c> something there's two keys you have to something there's two keys you have to keep<00:00:03.300><c> in</c><00:00:03.419><c> mind</c><00:00:03.540><c> first</c><00:00:03.899><c> of</c><00:00:04.020><c> all</c><00:00:04.140><c> do</c><00:00:04.620><c> it</c><00:00:04.799><c> a</c><00:00:04.920><c> lot</c> keep in mind first of all do it a lot keep in mind first of all do it a lot the<00:00:05.759><c> more</c><00:00:05.940><c> you</c><00:00:06.060><c> do</c><00:00:06.240><c> it</c><00:00:06.359><c> the</c><00:00:06.600><c> better</c><00:00:06.720><c> you're</c> the more you do it the better you're the more you do it the better you're going<00:00:07.080><c> to</c><00:00:07.140><c> get</c><00:00:07.259><c> and</c><00:00:07.620><c> second</c><00:00:07.799><c> of</c><00:00:07.980><c> all</c><00:00:08.099><c> every</c> going to get and second of all every going to get and second of all every time<00:00:08.880><c> you</c><00:00:09.059><c> do</c><00:00:09.179><c> it</c><00:00:09.360><c> look</c><00:00:09.840><c> to</c><00:00:10.080><c> improve</c><00:00:10.380><c> one</c><00:00:10.620><c> small</c> time you do it look to improve one small time you do it look to improve one small thing

@@ -1,0 +1,16 @@
+# Chain Prompts #shorts #chain
+
+**Duration**: PT0M13S
+**Views**: 34
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #programming
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:00.520><c> so</c><00:00:01.079><c> what</c><00:00:01.280><c> this</c><00:00:01.439><c> shows</c><00:00:02.040><c> is</c><00:00:02.159><c> it</c><00:00:02.320><c> shows</c><00:00:02.560><c> us</c> and so what this shows is it shows us and so what this shows is it shows us how<00:00:03.520><c> to</c><00:00:04.520><c> easily</c><00:00:05.040><c> chain</c><00:00:05.560><c> multiple</c><00:00:05.960><c> prompts</c> how to easily chain multiple prompts how to easily chain multiple prompts together<00:00:07.560><c> you</c><00:00:07.720><c> can</c><00:00:08.559><c> do</c><00:00:09.559><c> um</c><00:00:09.920><c> really</c><00:00:10.240><c> any</c><00:00:10.480><c> number</c> together you can do um really any number together you can do um really any number of<00:00:10.880><c> prompts</c><00:00:11.240><c> and</c><00:00:11.360><c> it'll</c><00:00:11.519><c> run</c><00:00:11.679><c> them</c><00:00:11.799><c> all</c><00:00:11.920><c> in</c><00:00:12.000><c> a</c> of prompts and it'll run them all in a of prompts and it'll run them all in a row

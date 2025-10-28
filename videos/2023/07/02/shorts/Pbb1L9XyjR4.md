@@ -1,0 +1,16 @@
+# Elon vs Zuck #shorts #ufc
+
+**Duration**: PT0M33S
+**Views**: 471
+**Likes**: 12
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #ufc
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en all<00:00:00.539><c> right</c><00:00:00.659><c> now</c><00:00:01.140><c> let's</c><00:00:01.260><c> get</c><00:00:01.500><c> into</c><00:00:01.680><c> the</c><00:00:02.159><c> biggest</c> all right now let's get into the biggest all right now let's get into the biggest Tech<00:00:02.700><c> news</c><00:00:02.940><c> of</c><00:00:03.780><c> this</c><00:00:04.140><c> month</c><00:00:04.799><c> and</c><00:00:05.400><c> that</c><00:00:05.640><c> is</c> Tech news of this month and that is Tech news of this month and that is the<00:00:07.379><c> Elon</c><00:00:07.859><c> Zuck</c><00:00:08.400><c> cage</c><00:00:08.880><c> match</c><00:00:09.139><c> we</c><00:00:10.139><c> need</c><00:00:10.260><c> to</c><00:00:10.380><c> make</c> the Elon Zuck cage match we need to make the Elon Zuck cage match we need to make it<00:00:10.679><c> happen</c><00:00:10.860><c> if</c><00:00:11.400><c> you</c><00:00:11.519><c> haven't</c><00:00:11.639><c> been</c><00:00:11.820><c> following</c> it happen if you haven't been following it happen if you haven't been following the<00:00:12.179><c> news</c><00:00:12.360><c> living</c><00:00:12.660><c> under</c><00:00:12.900><c> a</c><00:00:13.139><c> rock</c><00:00:13.259><c> or</c> the news living under a rock or the news living under a rock or something something something basically<00:00:15.320><c> Elon</c><00:00:16.320><c> challenge</c><00:00:16.619><c> uh</c><00:00:17.039><c> to</c><00:00:17.279><c> a</c><00:00:17.400><c> cage</c> basically Elon challenge uh to a cage basically Elon challenge uh to a cage match<00:00:17.760><c> on</c><00:00:18.000><c> Twitter</c><00:00:18.180><c> it's</c><00:00:18.960><c> become</c><00:00:19.320><c> a</c><00:00:19.440><c> whole</c> match on Twitter it's become a whole match on Twitter it's become a whole thing thing thing gotta<00:00:21.480><c> say</c> gotta say gotta say this<00:00:23.160><c> needs</c><00:00:23.460><c> to</c><00:00:23.580><c> [&nbsp;__&nbsp;]</c><00:00:23.880><c> happen</c> this needs to [&nbsp;__&nbsp;] happen this needs to [&nbsp;__&nbsp;] happen 100<00:00:25.560><c> this</c><00:00:26.460><c> needs</c><00:00:26.820><c> to</c><00:00:26.880><c> happen</c> 100 this needs to happen 100 this needs to happen throw<00:00:28.500><c> them</c><00:00:28.740><c> in</c><00:00:28.859><c> a</c><00:00:28.980><c> cage</c><00:00:29.220><c> let</c><00:00:29.820><c> him</c><00:00:30.000><c> beat</c><00:00:30.119><c> the</c> throw them in a cage let him beat the throw them in a cage let him beat the [&nbsp;__&nbsp;]<00:00:30.480><c> out</c><00:00:30.599><c> of</c><00:00:30.720><c> each</c><00:00:30.840><c> other</c><00:00:30.960><c> put</c><00:00:31.560><c> it</c><00:00:31.679><c> on</c> [&nbsp;__&nbsp;] out of each other put it on [&nbsp;__&nbsp;] out of each other put it on Pay-per-view

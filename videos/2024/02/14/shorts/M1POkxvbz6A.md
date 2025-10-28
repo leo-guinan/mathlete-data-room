@@ -1,0 +1,16 @@
+# Its All Information! #shorts #value
+
+**Duration**: PT0M14S
+**Views**: 31
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #data
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:00.880><c> how</c><00:00:01.040><c> we</c><00:00:01.199><c> spend</c><00:00:01.439><c> our</c><00:00:01.719><c> time</c><00:00:02.639><c> sharing</c><00:00:03.120><c> ideas</c> and how we spend our time sharing ideas and how we spend our time sharing ideas out<00:00:03.600><c> into</c><00:00:03.800><c> the</c> out into the out into the world<00:00:05.520><c> because</c><00:00:06.120><c> Quantum</c><00:00:06.520><c> economics</c><00:00:07.080><c> focuses</c> world because Quantum economics focuses world because Quantum economics focuses on<00:00:07.839><c> everything</c> on everything on everything as<00:00:10.000><c> the</c><00:00:10.200><c> study</c><00:00:10.679><c> of</c><00:00:11.120><c> the</c><00:00:11.360><c> value</c><00:00:11.840><c> of</c><00:00:12.400><c> information</c>

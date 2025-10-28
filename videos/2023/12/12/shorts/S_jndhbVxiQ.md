@@ -1,0 +1,16 @@
+# Revolutionizing Chat Models #shorts #chat
+
+**Duration**: PT0M30S
+**Views**: 36
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #chat
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en all<00:00:00.359><c> right</c><00:00:00.599><c> so</c><00:00:00.719><c> it</c><00:00:00.799><c> looks</c><00:00:01.000><c> like</c><00:00:01.120><c> what</c><00:00:01.240><c> we</c> all right so it looks like what we all right so it looks like what we actually<00:00:01.520><c> need</c><00:00:01.680><c> to</c><00:00:01.839><c> do</c><00:00:02.200><c> is</c><00:00:02.440><c> use</c><00:00:02.879><c> partial</c> actually need to do is use partial actually need to do is use partial variables<00:00:04.080><c> so</c><00:00:04.279><c> this</c><00:00:04.359><c> is</c><00:00:04.480><c> a</c><00:00:04.600><c> way</c><00:00:04.799><c> to</c><00:00:05.040><c> say</c><00:00:05.440><c> like</c> variables so this is a way to say like variables so this is a way to say like hey<00:00:06.080><c> here</c><00:00:06.240><c> are</c><00:00:06.440><c> some</c><00:00:06.600><c> of</c><00:00:06.720><c> the</c><00:00:06.799><c> variables</c><00:00:07.120><c> in</c> hey here are some of the variables in hey here are some of the variables in prompt<00:00:08.400><c> um</c><00:00:08.880><c> and</c><00:00:09.040><c> then</c><00:00:09.320><c> I'm</c><00:00:09.400><c> going</c><00:00:09.519><c> to</c><00:00:09.639><c> separate</c> prompt um and then I'm going to separate prompt um and then I'm going to separate those<00:00:10.120><c> from</c><00:00:10.240><c> the</c><00:00:10.360><c> idea</c><00:00:10.599><c> of</c><00:00:10.759><c> input</c><00:00:11.160><c> variables</c> those from the idea of input variables those from the idea of input variables excellent<00:00:14.200><c> okay</c><00:00:14.679><c> so</c><00:00:15.519><c> now</c><00:00:15.679><c> we've</c><00:00:15.879><c> got</c><00:00:16.160><c> the</c><00:00:16.279><c> chat</c> excellent okay so now we've got the chat excellent okay so now we've got the chat model<00:00:17.640><c> in</c><00:00:17.800><c> our</c><00:00:18.240><c> chain</c><00:00:19.240><c> and</c><00:00:19.640><c> we</c><00:00:20.240><c> want</c><00:00:21.519><c> to</c> model in our chain and we want to model in our chain and we want to predict<00:00:23.000><c> this</c><00:00:24.000><c> based</c><00:00:24.240><c> on</c><00:00:24.359><c> the</c><00:00:24.519><c> idea</c><00:00:24.880><c> that</c><00:00:25.080><c> I</c> predict this based on the idea that I predict this based on the idea that I want<00:00:25.480><c> to</c><00:00:25.960><c> come</c><00:00:26.160><c> up</c><00:00:26.359><c> with</c><00:00:26.519><c> a</c><00:00:26.720><c> clever</c><00:00:27.080><c> way</c><00:00:27.279><c> to</c> want to come up with a clever way to want to come up with a clever way to announce<00:00:28.000><c> my</c><00:00:28.119><c> new</c><00:00:28.359><c> project</c>

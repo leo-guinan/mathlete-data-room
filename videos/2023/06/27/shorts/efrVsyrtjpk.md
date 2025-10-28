@@ -1,0 +1,16 @@
+# No One Knows #knowledge #shorts
+
+**Duration**: PT0M16S
+**Views**: 2,141
+**Likes**: 30
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #knowledge
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en world<00:00:00.420><c> makes</c><00:00:00.719><c> a</c><00:00:00.960><c> lot</c><00:00:01.079><c> more</c><00:00:01.319><c> sense</c><00:00:01.620><c> when</c><00:00:02.399><c> you</c> world makes a lot more sense when you world makes a lot more sense when you realize<00:00:03.000><c> that</c><00:00:03.419><c> it's</c><00:00:03.720><c> a</c><00:00:03.959><c> bunch</c><00:00:04.140><c> of</c><00:00:04.319><c> people</c><00:00:04.560><c> who</c> realize that it's a bunch of people who realize that it's a bunch of people who have<00:00:05.339><c> no</c><00:00:05.880><c> clue</c><00:00:06.120><c> what</c><00:00:06.299><c> they're</c><00:00:06.480><c> talking</c><00:00:06.720><c> about</c> have no clue what they're talking about have no clue what they're talking about telling<00:00:08.760><c> all</c><00:00:09.120><c> sorts</c><00:00:09.360><c> of</c><00:00:09.420><c> other</c><00:00:09.660><c> people</c> telling all sorts of other people telling all sorts of other people what<00:00:11.460><c> to</c><00:00:11.639><c> think</c><00:00:11.820><c> about</c><00:00:12.420><c> things</c><00:00:12.900><c> that</c><00:00:13.500><c> they</c> what to think about things that they what to think about things that they have<00:00:13.799><c> no</c><00:00:14.040><c> idea</c><00:00:14.340><c> about</c>

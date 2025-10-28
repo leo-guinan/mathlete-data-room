@@ -1,0 +1,18 @@
+# Rejecting Yourself #shorts #positive
+
+**Duration**: PT0M31S
+**Views**: 424
+**Likes**: 9
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #positive
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en how<00:00:00.440><c> much</c><00:00:00.799><c> are</c><00:00:01.000><c> you</c><00:00:01.319><c> rejecting</c><00:00:02.080><c> yourself</c> how much are you rejecting yourself how much are you rejecting yourself versus<00:00:03.679><c> how</c><00:00:03.919><c> much</c><00:00:04.200><c> are</c><00:00:04.359><c> you</c><00:00:04.680><c> actually</c><00:00:05.080><c> making</c> versus how much are you actually making versus how much are you actually making other<00:00:05.720><c> people</c><00:00:06.040><c> reject</c><00:00:06.399><c> you</c><00:00:07.160><c> and</c><00:00:07.279><c> when</c><00:00:07.399><c> you're</c> other people reject you and when you're other people reject you and when you're dealing<00:00:07.799><c> with</c><00:00:08.000><c> rejection</c><00:00:08.760><c> really</c><00:00:09.240><c> pay</c><00:00:09.480><c> close</c> dealing with rejection really pay close dealing with rejection really pay close attention<00:00:10.120><c> to</c><00:00:10.320><c> that</c><00:00:10.599><c> because</c><00:00:10.920><c> I</c><00:00:11.120><c> think</c><00:00:11.519><c> you'll</c> attention to that because I think you'll attention to that because I think you'll find<00:00:12.759><c> that</c><00:00:12.920><c> a</c><00:00:13.040><c> lot</c><00:00:13.160><c> of</c><00:00:13.360><c> times</c><00:00:13.960><c> you're</c> find that a lot of times you're find that a lot of times you're rejecting<00:00:14.799><c> yourself</c><00:00:15.360><c> on</c><00:00:15.559><c> behalf</c><00:00:15.920><c> of</c><00:00:16.160><c> other</c> rejecting yourself on behalf of other rejecting yourself on behalf of other people<00:00:17.359><c> assuming</c><00:00:17.880><c> that</c><00:00:18.039><c> they're</c><00:00:18.240><c> rejecting</c> people assuming that they're rejecting people assuming that they're rejecting you<00:00:19.279><c> when</c><00:00:19.439><c> you</c><00:00:19.560><c> have</c><00:00:19.760><c> no</c><00:00:20.000><c> idea</c><00:00:20.359><c> whether</c><00:00:20.519><c> or</c><00:00:20.680><c> not</c> you when you have no idea whether or not you when you have no idea whether or not they<00:00:21.119><c> actually</c><00:00:21.800><c> are</c><00:00:22.800><c> so</c><00:00:23.560><c> that's</c><00:00:23.680><c> it</c><00:00:23.800><c> for</c> they actually are so that's it for they actually are so that's it for today's<00:00:24.320><c> video</c><00:00:25.320><c> um</c><00:00:26.320><c> hope</c><00:00:26.560><c> that's</c><00:00:26.720><c> helpful</c><00:00:27.359><c> let</c> today's video um hope that's helpful let today's video um hope that's helpful let me<00:00:27.599><c> know</c><00:00:27.720><c> in</c><00:00:27.800><c> the</c><00:00:27.960><c> comments</c><00:00:28.760><c> thanks</c><00:00:28.960><c> for</c> me know in the comments thanks for me know in the comments thanks for watching<00:00:29.439><c> and</c><00:00:29.560><c> I'll</c><00:00:29.679><c> see</c><00:00:29.759><c> you</c><00:00:29.840><c> next</c><00:00:30.000><c> extra</c>

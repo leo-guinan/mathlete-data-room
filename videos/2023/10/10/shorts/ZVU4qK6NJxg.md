@@ -1,0 +1,16 @@
+# You Are A Genius! #shorts #genius
+
+**Duration**: PT0M37S
+**Views**: 8
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #genius
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en heard<00:00:01.079><c> a</c><00:00:01.240><c> crazy</c><00:00:01.520><c> stat</c><00:00:01.839><c> listening</c><00:00:02.159><c> to</c><00:00:02.320><c> a</c> heard a crazy stat listening to a heard a crazy stat listening to a podcast<00:00:03.000><c> the</c><00:00:03.120><c> other</c><00:00:03.360><c> day</c><00:00:04.200><c> do</c><00:00:04.319><c> you</c><00:00:04.400><c> know</c><00:00:04.640><c> the</c><00:00:04.880><c> ad</c> podcast the other day do you know the ad podcast the other day do you know the ad the<00:00:05.799><c> average</c><00:00:06.240><c> person</c> the average person the average person today<00:00:08.880><c> in</c><00:00:09.000><c> a</c><00:00:09.160><c> given</c><00:00:09.440><c> day</c><00:00:09.639><c> will</c><00:00:09.840><c> consume</c><00:00:10.280><c> more</c> today in a given day will consume more today in a given day will consume more information<00:00:11.759><c> than</c><00:00:11.920><c> the</c><00:00:12.080><c> average</c><00:00:12.400><c> person</c><00:00:12.719><c> 700</c> information than the average person 700 information than the average person 700 years<00:00:13.440><c> ago</c><00:00:13.719><c> did</c><00:00:13.880><c> in</c><00:00:13.960><c> a</c> years ago did in a years ago did in a lifetime<00:00:16.560><c> that's</c><00:00:16.720><c> an</c><00:00:16.880><c> incredible</c><00:00:17.279><c> amount</c><00:00:17.480><c> of</c> lifetime that's an incredible amount of lifetime that's an incredible amount of information<00:00:18.720><c> now</c><00:00:19.160><c> the</c><00:00:19.359><c> question</c><00:00:20.000><c> is</c><00:00:21.000><c> how</c><00:00:21.199><c> well</c> information now the question is how well information now the question is how well are<00:00:24.080><c> you</c><00:00:24.320><c> focusing</c><00:00:25.000><c> on</c><00:00:25.320><c> the</c><00:00:25.480><c> type</c><00:00:25.680><c> of</c> are you focusing on the type of are you focusing on the type of information<00:00:26.240><c> that</c><00:00:26.359><c> you're</c><00:00:26.880><c> consuming</c> information that you're consuming information that you're consuming because<00:00:28.359><c> the</c><00:00:28.519><c> type</c><00:00:28.679><c> of</c><00:00:28.840><c> information</c><00:00:29.199><c> you're</c> because the type of information you're because the type of information you're consuming<00:00:30.080><c> really</c><00:00:30.359><c> does</c><00:00:30.640><c> dictate</c><00:00:31.039><c> your</c> consuming really does dictate your consuming really does dictate your outcomes<00:00:31.800><c> so</c><00:00:31.960><c> if</c><00:00:32.040><c> you're</c><00:00:32.160><c> not</c><00:00:32.320><c> consuming</c><00:00:32.680><c> the</c> outcomes so if you're not consuming the outcomes so if you're not consuming the right<00:00:33.000><c> information</c><00:00:33.960><c> you're</c><00:00:34.200><c> probably</c><00:00:34.440><c> not</c> right information you're probably not right information you're probably not getting<00:00:34.800><c> the</c><00:00:34.920><c> outcomes</c><00:00:35.280><c> you</c><00:00:35.399><c> want</c>

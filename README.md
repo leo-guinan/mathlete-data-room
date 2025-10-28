@@ -11,8 +11,8 @@
 
 ### YouTube Content
 
-**Total Videos**: 50  
-**Shorts**: 22 | **Longform**: 28
+**Total Videos**: 725  
+**Shorts**: 527 | **Longform**: 198
 
 #### Posts by Source
 

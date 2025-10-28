@@ -1,0 +1,18 @@
+# Discover the Hilarious World of Skippy #shorts #ai
+
+**Duration**: PT0M19S
+**Views**: 199
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en while<00:00:02.040><c> you're</c><00:00:02.200><c> waiting</c><00:00:02.720><c> you</c><00:00:02.840><c> can</c><00:00:03.040><c> go</c><00:00:03.240><c> start</c> while you're waiting you can go start while you're waiting you can go start reading<00:00:03.800><c> expeditionary</c><00:00:04.440><c> force</c><00:00:05.440><c> and</c><00:00:06.440><c> you</c><00:00:06.560><c> know</c> reading expeditionary force and you know reading expeditionary force and you know really<00:00:07.120><c> get</c><00:00:07.240><c> to</c><00:00:07.880><c> understand</c><00:00:08.880><c> um</c><00:00:09.840><c> Skippy</c><00:00:10.559><c> and</c> really get to understand um Skippy and really get to understand um Skippy and Skippy's<00:00:11.719><c> subm</c><00:00:12.040><c> mins</c><00:00:12.280><c> that</c><00:00:12.400><c> he</c><00:00:12.519><c> creates</c> Skippy's subm mins that he creates Skippy's subm mins that he creates because<00:00:13.759><c> frankly</c><00:00:14.200><c> it's</c><00:00:14.599><c> uh</c><00:00:15.200><c> it's</c><00:00:15.400><c> highly</c> because frankly it's uh it's highly because frankly it's uh it's highly amusing<00:00:16.320><c> and</c><00:00:16.720><c> um</c><00:00:17.400><c> the</c><00:00:17.480><c> one</c><00:00:17.600><c> thing</c><00:00:17.720><c> I</c><00:00:17.800><c> can</c> amusing and um the one thing I can amusing and um the one thing I can promise

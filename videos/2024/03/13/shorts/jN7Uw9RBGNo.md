@@ -1,0 +1,16 @@
+# Key to Success #shorts #success
+
+**Duration**: PT0M14S
+**Views**: 444
+**Likes**: 6
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #success
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en because<00:00:00.960><c> that's</c><00:00:01.280><c> where</c><00:00:02.000><c> all</c><00:00:02.200><c> of</c><00:00:02.360><c> the</c><00:00:02.520><c> other</c> because that's where all of the other because that's where all of the other large<00:00:03.439><c> companies</c><00:00:04.040><c> are</c><00:00:04.200><c> going</c><00:00:04.400><c> to</c><00:00:04.600><c> end</c><00:00:04.759><c> up</c> large companies are going to end up large companies are going to end up missing<00:00:05.240><c> out</c><00:00:05.600><c> as</c><00:00:05.720><c> they're</c><00:00:05.920><c> trying</c><00:00:06.160><c> to</c> missing out as they're trying to missing out as they're trying to minimize<00:00:06.799><c> cost</c><00:00:07.040><c> and</c><00:00:07.240><c> maximize</c> minimize cost and maximize minimize cost and maximize profits<00:00:09.599><c> you</c><00:00:09.800><c> focus</c><00:00:10.080><c> on</c><00:00:10.200><c> the</c> profits you focus on the profits you focus on the people<00:00:12.000><c> that's</c><00:00:12.160><c> the</c><00:00:12.280><c> key</c><00:00:12.440><c> to</c><00:00:12.599><c> success</c>

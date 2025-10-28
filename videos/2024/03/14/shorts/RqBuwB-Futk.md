@@ -1,0 +1,16 @@
+# Don't Miss Out #shorts #people
+
+**Duration**: PT0M13S
+**Views**: 409
+**Likes**: 6
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #people
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en if<00:00:00.199><c> you're</c><00:00:00.320><c> looking</c><00:00:00.520><c> to</c><00:00:00.599><c> build</c><00:00:00.760><c> a</c><00:00:00.880><c> company</c> if you're looking to build a company if you're looking to build a company focus<00:00:02.240><c> on</c><00:00:02.600><c> the</c> focus on the focus on the people<00:00:04.279><c> because</c><00:00:04.680><c> that's</c><00:00:05.000><c> where</c><00:00:05.680><c> all</c><00:00:05.920><c> of</c><00:00:06.080><c> the</c> people because that's where all of the people because that's where all of the other<00:00:06.720><c> large</c><00:00:07.160><c> companies</c><00:00:07.720><c> are</c><00:00:08.000><c> going</c><00:00:08.160><c> to</c><00:00:08.320><c> end</c> other large companies are going to end other large companies are going to end up<00:00:08.639><c> missing</c><00:00:08.960><c> out</c><00:00:09.320><c> as</c><00:00:09.440><c> they're</c><00:00:09.639><c> trying</c><00:00:09.880><c> to</c> up missing out as they're trying to up missing out as they're trying to minimize<00:00:10.519><c> costs</c><00:00:10.759><c> and</c><00:00:10.920><c> maximize</c><00:00:11.440><c> profits</c>

@@ -1,0 +1,18 @@
+# Impress with Unique Application Strategy #shorts #success
+
+**Duration**: PT0M38S
+**Views**: 32
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://www.scoremydeck.com/
+
+#shorts #success
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:00.160><c> so</c><00:00:00.320><c> you</c><00:00:00.440><c> can</c><00:00:00.640><c> take</c><00:00:00.840><c> it</c><00:00:00.960><c> to</c><00:00:01.120><c> a</c><00:00:01.319><c> company</c><00:00:01.760><c> and</c> and so you can take it to a company and and so you can take it to a company and say<00:00:02.520><c> hey</c><00:00:03.520><c> I</c><00:00:03.679><c> did</c><00:00:04.000><c> this</c><00:00:04.240><c> thing</c><00:00:04.920><c> based</c><00:00:05.359><c> on</c><00:00:06.040><c> you</c> say hey I did this thing based on you say hey I did this thing based on you know<00:00:06.359><c> you've</c><00:00:06.560><c> got</c><00:00:06.799><c> this</c><00:00:07.040><c> job</c><00:00:07.520><c> I</c><00:00:07.680><c> want</c><00:00:08.000><c> I</c><00:00:08.200><c> I</c><00:00:08.360><c> I</c> know you've got this job I want I I I know you've got this job I want I I I would<00:00:08.599><c> be</c><00:00:08.719><c> interested</c><00:00:09.280><c> in</c><00:00:09.519><c> this</c> would be interested in this would be interested in this position<00:00:11.639><c> and</c><00:00:11.799><c> I</c><00:00:11.920><c> did</c><00:00:12.120><c> this</c><00:00:12.320><c> thing</c><00:00:12.679><c> based</c><00:00:13.040><c> on</c> position and I did this thing based on position and I did this thing based on my<00:00:13.599><c> knowledge</c><00:00:13.920><c> and</c><00:00:14.160><c> experience</c><00:00:14.799><c> and</c><00:00:15.120><c> you</c><00:00:15.280><c> know</c> my knowledge and experience and you know my knowledge and experience and you know my<00:00:16.480><c> understanding</c><00:00:16.960><c> of</c><00:00:17.240><c> like</c><00:00:17.680><c> what</c><00:00:18.439><c> type</c><00:00:18.640><c> of</c> my understanding of like what type of my understanding of like what type of company<00:00:19.199><c> you</c><00:00:19.320><c> are</c><00:00:19.560><c> and</c><00:00:19.800><c> what</c><00:00:19.920><c> your</c><00:00:20.119><c> needs</c> company you are and what your needs company you are and what your needs are<00:00:22.480><c> and</c><00:00:23.480><c> this</c><00:00:24.279><c> thing</c><00:00:24.560><c> is</c><00:00:24.760><c> going</c><00:00:24.960><c> to</c><00:00:25.400><c> be</c><00:00:26.400><c> a</c><00:00:26.679><c> much</c> are and this thing is going to be a much are and this thing is going to be a much better<00:00:27.800><c> representation</c><00:00:28.800><c> of</c><00:00:29.439><c> Who</c><00:00:29.599><c> You</c><00:00:29.720><c> Are</c><00:00:30.240><c> and</c> better representation of Who You Are and better representation of Who You Are and what<00:00:30.640><c> you</c><00:00:31.320><c> understand</c><00:00:31.640><c> about</c><00:00:32.000><c> the</c><00:00:32.200><c> current</c> what you understand about the current what you understand about the current state<00:00:32.719><c> of</c><00:00:32.880><c> the</c><00:00:33.079><c> world</c><00:00:34.079><c> than</c><00:00:34.399><c> whatever</c><00:00:34.800><c> you</c><00:00:34.920><c> can</c> state of the world than whatever you can state of the world than whatever you can fit<00:00:35.320><c> on</c><00:00:35.440><c> your</c><00:00:35.600><c> resume</c><00:00:36.120><c> that</c><00:00:36.239><c> makes</c><00:00:36.440><c> it</c><00:00:36.640><c> through</c> fit on your resume that makes it through fit on your resume that makes it through the<00:00:36.920><c> AI</c><00:00:37.200><c> filters</c>

@@ -1,0 +1,16 @@
+# Would You Rather .. #question #choices
+
+**Duration**: PT0M42S
+**Views**: 559
+**Likes**: 13
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en live<00:00:00.320><c> without</c><00:00:00.560><c> internet</c><00:00:00.960><c> for</c><00:00:01.120><c> a</c><00:00:01.280><c> year</c><00:00:01.680><c> or</c><00:00:01.920><c> live</c> live without internet for a year or live live without internet for a year or live without<00:00:02.480><c> phone</c><00:00:02.840><c> for</c><00:00:03.040><c> a</c> year<00:00:06.839><c> a</c><00:00:07.000><c> smartwatch</c><00:00:07.680><c> that</c><00:00:08.000><c> predicts</c><00:00:08.519><c> stock</c> year a smartwatch that predicts stock year a smartwatch that predicts stock trends<00:00:09.360><c> but</c><00:00:09.519><c> only</c><00:00:09.840><c> Whispers</c><00:00:10.440><c> them</c><00:00:10.920><c> or</c><00:00:11.080><c> a</c><00:00:11.280><c> robot</c> trends but only Whispers them or a robot trends but only Whispers them or a robot that<00:00:11.920><c> demands</c><00:00:12.440><c> tips</c><00:00:12.840><c> after</c><00:00:13.120><c> every</c> chore<00:00:17.240><c> be</c><00:00:17.439><c> stuck</c><00:00:17.760><c> in</c><00:00:17.880><c> the</c><00:00:18.039><c> year</c><00:00:18.760><c> 1226</c><00:00:19.760><c> ad</c><00:00:20.680><c> or</c> chore be stuck in the year 1226 ad or chore be stuck in the year 1226 ad or subscribe<00:00:21.519><c> and</c> relax<00:00:25.680><c> never</c><00:00:25.920><c> speak</c><00:00:26.279><c> again</c><00:00:26.679><c> or</c><00:00:26.920><c> never</c><00:00:27.160><c> hear</c> relax never speak again or never hear relax never speak again or never hear music<00:00:27.920><c> again</c> get<00:00:31.800><c> free</c><00:00:32.119><c> internet</c><00:00:32.599><c> everywhere</c><00:00:33.280><c> but</c><00:00:33.399><c> it's</c> get free internet everywhere but it's get free internet everywhere but it's always<00:00:33.840><c> slow</c><00:00:34.360><c> or</c><00:00:34.559><c> get</c><00:00:34.719><c> Lightning</c><00:00:35.239><c> Fast</c><00:00:35.680><c> Wi-Fi</c> always slow or get Lightning Fast Wi-Fi always slow or get Lightning Fast Wi-Fi that<00:00:36.480><c> only</c><00:00:36.719><c> works</c><00:00:37.120><c> half</c><00:00:37.320><c> the</c><00:00:37.520><c> day</c>

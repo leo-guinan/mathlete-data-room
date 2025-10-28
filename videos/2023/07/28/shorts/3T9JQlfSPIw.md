@@ -1,0 +1,16 @@
+# New Superhero! #shorts #superhero
+
+**Duration**: PT0M16S
+**Views**: 1,313
+**Likes**: 23
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #super
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en so<00:00:00.539><c> I</c><00:00:00.659><c> was</c><00:00:00.780><c> chatting</c><00:00:01.020><c> with</c><00:00:01.079><c> a</c><00:00:01.199><c> friendly</c><00:00:01.439><c> of</c><00:00:01.620><c> the</c> so I was chatting with a friendly of the so I was chatting with a friendly of the day<00:00:01.800><c> and</c><00:00:01.979><c> accidentally</c><00:00:02.460><c> invented</c><00:00:02.940><c> a</c><00:00:03.000><c> new</c> day and accidentally invented a new day and accidentally invented a new superhero<00:00:04.200><c> and</c><00:00:04.799><c> but</c><00:00:05.040><c> he's</c><00:00:05.160><c> not</c><00:00:05.339><c> a</c><00:00:05.460><c> normal</c> superhero and but he's not a normal superhero and but he's not a normal superhero<00:00:06.299><c> he</c><00:00:06.660><c> actually</c><00:00:06.899><c> uh</c><00:00:07.859><c> is</c><00:00:08.460><c> going</c><00:00:08.820><c> to</c> superhero he actually uh is going to superhero he actually uh is going to help<00:00:09.599><c> teach</c><00:00:09.900><c> kids</c><00:00:10.200><c> the</c><00:00:10.800><c> power</c><00:00:11.160><c> of</c><00:00:11.639><c> semantic</c> help teach kids the power of semantic help teach kids the power of semantic embeddings<00:00:12.840><c> are</c><00:00:13.500><c> you</c><00:00:13.620><c> ready</c><00:00:13.799><c> the</c><00:00:14.280><c> semantic</c> embeddings are you ready the semantic embeddings are you ready the semantic Enforcer

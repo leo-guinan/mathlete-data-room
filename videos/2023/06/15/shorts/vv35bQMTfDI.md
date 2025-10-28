@@ -1,0 +1,16 @@
+# AI Can't Do It! #ai #shorts
+
+**Duration**: PT0M10S
+**Views**: 1,225
+**Likes**: 8
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #podcast
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:00.480><c> it</c><00:00:00.659><c> took</c><00:00:00.900><c> us</c><00:00:01.079><c> knowing</c><00:00:01.500><c> each</c><00:00:01.680><c> other</c><00:00:01.800><c> in</c> and it took us knowing each other in and it took us knowing each other in real<00:00:02.399><c> life</c><00:00:02.639><c> face</c><00:00:03.179><c> to</c><00:00:03.419><c> face</c> real life face to face real life face to face for<00:00:04.920><c> you</c><00:00:05.040><c> to</c><00:00:05.279><c> understand</c><00:00:05.400><c> what</c><00:00:06.000><c> would</c><00:00:06.120><c> work</c> for you to understand what would work for you to understand what would work best<00:00:07.140><c> for</c><00:00:07.560><c> me</c><00:00:07.680><c> to</c><00:00:07.919><c> understand</c><00:00:08.040><c> something</c><00:00:08.519><c> AI</c> best for me to understand something AI best for me to understand something AI cannot<00:00:09.420><c> do</c><00:00:09.540><c> that</c>

@@ -1,0 +1,16 @@
+# Controlling Time #shorts #time
+
+**Duration**: PT0M29S
+**Views**: 29
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #time
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en so<00:00:00.320><c> it</c><00:00:00.399><c> took</c><00:00:00.560><c> a</c><00:00:00.640><c> lot</c><00:00:00.760><c> of</c><00:00:00.840><c> time</c><00:00:01.000><c> to</c><00:00:01.120><c> create</c> so it took a lot of time to create so it took a lot of time to create leverage<00:00:02.280><c> now</c><00:00:03.199><c> you're</c><00:00:03.399><c> able</c><00:00:03.560><c> to</c><00:00:03.639><c> do</c><00:00:03.800><c> this</c> leverage now you're able to do this leverage now you're able to do this almost<00:00:04.319><c> instantly</c><00:00:05.240><c> and</c><00:00:05.400><c> even</c><00:00:05.640><c> people</c><00:00:05.799><c> who</c> almost instantly and even people who almost instantly and even people who don't<00:00:06.120><c> really</c><00:00:06.279><c> know</c><00:00:06.440><c> how</c><00:00:06.520><c> to</c><00:00:06.680><c> code</c><00:00:07.319><c> can</c> don't really know how to code can don't really know how to code can generate<00:00:07.879><c> the</c><00:00:08.040><c> code</c><00:00:08.280><c> they</c><00:00:08.440><c> need</c><00:00:08.880><c> and</c><00:00:09.040><c> the</c> generate the code they need and the generate the code they need and the instructions<00:00:09.679><c> on</c><00:00:09.840><c> how</c><00:00:09.920><c> to</c><00:00:10.080><c> implement</c><00:00:10.719><c> it</c> instructions on how to implement it instructions on how to implement it which<00:00:12.200><c> gets</c><00:00:12.440><c> them</c><00:00:12.599><c> a</c><00:00:12.719><c> lot</c><00:00:12.880><c> closer</c><00:00:13.280><c> a</c><00:00:13.400><c> lot</c> which gets them a lot closer a lot which gets them a lot closer a lot faster<00:00:14.440><c> and</c><00:00:14.599><c> that</c><00:00:14.719><c> brings</c><00:00:15.000><c> us</c><00:00:15.240><c> into</c> faster and that brings us into faster and that brings us into superpower<00:00:16.560><c> number</c><00:00:17.400><c> two</c><00:00:18.400><c> time</c> superpower number two time superpower number two time manipulation<00:00:20.640><c> gonna</c><00:00:20.880><c> feel</c><00:00:21.080><c> a</c><00:00:21.199><c> little</c><00:00:21.400><c> bit</c> manipulation gonna feel a little bit manipulation gonna feel a little bit like<00:00:21.760><c> Doctor</c><00:00:22.000><c> Strange</c><00:00:22.439><c> here</c><00:00:22.640><c> perhaps</c><00:00:23.279><c> but</c> like Doctor Strange here perhaps but like Doctor Strange here perhaps but basically<00:00:25.720><c> you</c><00:00:25.880><c> get</c><00:00:26.119><c> time</c><00:00:26.320><c> manipulation</c><00:00:27.000><c> by</c> basically you get time manipulation by basically you get time manipulation by being<00:00:27.359><c> able</c><00:00:27.519><c> to</c><00:00:27.679><c> learn</c><00:00:28.000><c> faster</c>

@@ -1,0 +1,18 @@
+# Unlock the Secret #shorts #business
+
+**Duration**: PT0M35S
+**Views**: 406
+**Likes**: 4
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://www.scoremydeck.com/
+
+#shorts #business
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en there<00:00:00.120><c> are</c><00:00:00.280><c> kind</c><00:00:00.399><c> of</c><00:00:00.599><c> these</c><00:00:00.960><c> standards</c><00:00:01.400><c> of</c> there are kind of these standards of there are kind of these standards of communication<00:00:02.560><c> within</c><00:00:03.560><c> the</c><00:00:04.200><c> uh</c><00:00:04.359><c> founder</c><00:00:04.759><c> VC</c> communication within the uh founder VC communication within the uh founder VC ecosystem<00:00:06.279><c> and</c><00:00:06.399><c> if</c><00:00:06.480><c> you're</c><00:00:06.600><c> a</c><00:00:06.680><c> new</c><00:00:06.839><c> founder</c> ecosystem and if you're a new founder ecosystem and if you're a new founder you<00:00:07.520><c> probably</c><00:00:07.759><c> don't</c><00:00:08.000><c> know</c><00:00:08.240><c> that</c><00:00:09.200><c> um</c><00:00:09.719><c> and</c><00:00:09.840><c> so</c> you probably don't know that um and so you probably don't know that um and so like<00:00:10.240><c> when</c><00:00:10.360><c> you're</c><00:00:10.639><c> writing</c><00:00:10.920><c> a</c><00:00:11.040><c> cold</c><00:00:11.280><c> email</c><00:00:11.599><c> it</c> like when you're writing a cold email it like when you're writing a cold email it keeps<00:00:11.960><c> it</c><00:00:12.120><c> to</c><00:00:12.320><c> about</c><00:00:12.480><c> a</c><00:00:12.599><c> 100</c><00:00:12.799><c> words</c><00:00:13.000><c> in</c><00:00:13.320><c> length</c> keeps it to about a 100 words in length keeps it to about a 100 words in length uh<00:00:14.519><c> keeps</c><00:00:14.719><c> it</c><00:00:14.839><c> really</c><00:00:15.120><c> actionable</c><00:00:15.719><c> hey</c><00:00:16.039><c> here's</c> uh keeps it really actionable hey here's uh keeps it really actionable hey here's what<00:00:16.440><c> we're</c><00:00:16.880><c> raising</c><00:00:17.480><c> here's</c><00:00:17.720><c> what</c><00:00:17.840><c> we're</c> what we're raising here's what we're what we're raising here's what we're doing<00:00:19.160><c> here's</c><00:00:19.560><c> why</c><00:00:20.199><c> you</c><00:00:20.320><c> know</c><00:00:20.439><c> we're</c><00:00:20.680><c> the</c><00:00:20.880><c> team</c> doing here's why you know we're the team doing here's why you know we're the team to<00:00:21.560><c> do</c><00:00:21.720><c> it</c><00:00:21.920><c> or</c><00:00:22.119><c> here's</c><00:00:22.320><c> the</c><00:00:22.439><c> traction</c><00:00:22.800><c> we</c><00:00:22.920><c> have</c> to do it or here's the traction we have to do it or here's the traction we have something<00:00:23.400><c> like</c><00:00:23.599><c> that</c><00:00:24.439><c> um</c><00:00:24.760><c> and</c><00:00:24.920><c> then</c> something like that um and then something like that um and then basically<00:00:25.640><c> just</c><00:00:25.800><c> kind</c><00:00:25.920><c> of</c><00:00:26.000><c> a</c><00:00:26.160><c> request</c><00:00:26.439><c> for</c><00:00:27.240><c> a</c> basically just kind of a request for a basically just kind of a request for a further<00:00:27.640><c> intro</c><00:00:28.080><c> and</c><00:00:28.199><c> so</c><00:00:28.320><c> you're</c><00:00:28.519><c> able</c><00:00:28.800><c> to</c><00:00:29.800><c> um</c> further intro and so you're able to um further intro and so you're able to um um<00:00:31.160><c> really</c><00:00:31.920><c> like</c><00:00:32.719><c> communicate</c><00:00:33.719><c> effectively</c>

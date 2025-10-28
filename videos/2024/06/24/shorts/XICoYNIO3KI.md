@@ -1,0 +1,18 @@
+# The Future of Google Search #shorts #ai
+
+**Duration**: PT0M18S
+**Views**: 423
+**Likes**: 4
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://www.scoremydeck.com/
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en but<00:00:00.640><c> I</c><00:00:00.760><c> don't</c><00:00:00.919><c> know</c><00:00:01.160><c> that</c><00:00:01.520><c> Google</c><00:00:01.800><c> search</c><00:00:02.399><c> is</c> but I don't know that Google search is but I don't know that Google search is going<00:00:02.679><c> to</c><00:00:02.800><c> be</c><00:00:03.080><c> it</c><00:00:04.080><c> um</c><00:00:05.000><c> and</c><00:00:05.319><c> especially</c><00:00:06.080><c> like</c> going to be it um and especially like going to be it um and especially like after<00:00:07.000><c> this</c><00:00:07.160><c> roll</c><00:00:07.399><c> out</c><00:00:07.799><c> of</c><00:00:08.240><c> AI</c> after this roll out of AI after this roll out of AI results<00:00:10.880><c> there's</c><00:00:11.040><c> a</c><00:00:11.120><c> lot</c><00:00:11.240><c> of</c><00:00:11.360><c> work</c><00:00:11.519><c> to</c><00:00:11.599><c> be</c><00:00:11.759><c> done</c> results there's a lot of work to be done results there's a lot of work to be done so<00:00:13.120><c> we'll</c><00:00:13.320><c> see</c><00:00:13.440><c> how</c><00:00:13.559><c> it</c><00:00:13.719><c> goes</c><00:00:14.040><c> but</c><00:00:14.160><c> anyway</c><00:00:14.599><c> I</c> so we'll see how it goes but anyway I so we'll see how it goes but anyway I just<00:00:14.960><c> I</c><00:00:15.120><c> happen</c><00:00:15.360><c> to</c><00:00:15.719><c> see</c><00:00:16.000><c> a</c><00:00:16.119><c> thread</c><00:00:16.320><c> of</c><00:00:16.480><c> these</c> just I happen to see a thread of these just I happen to see a thread of these and<00:00:16.920><c> thought</c><00:00:17.080><c> you</c><00:00:17.199><c> might</c><00:00:17.400><c> enjoy</c><00:00:17.640><c> it</c>

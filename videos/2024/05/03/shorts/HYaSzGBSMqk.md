@@ -1,0 +1,18 @@
+# Challenges with Large Language Models #shorts #ai
+
+**Duration**: PT0M37S
+**Views**: 455
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:00.680><c> as</c><00:00:00.799><c> you</c><00:00:00.919><c> may</c><00:00:01.079><c> or</c><00:00:01.160><c> may</c><00:00:01.319><c> not</c><00:00:01.520><c> know</c><00:00:02.120><c> this</c> and as you may or may not know this and as you may or may not know this results<00:00:02.639><c> in</c><00:00:02.800><c> things</c><00:00:03.120><c> like</c><00:00:03.639><c> hallucinations</c> results in things like hallucinations results in things like hallucinations right<00:00:04.839><c> there's</c><00:00:05.080><c> no</c><00:00:05.359><c> idea</c><00:00:06.120><c> of</c><00:00:07.120><c> what's</c><00:00:07.399><c> true</c> right there's no idea of what's true right there's no idea of what's true what's<00:00:08.240><c> not</c><00:00:09.120><c> and</c><00:00:09.960><c> anything</c><00:00:10.320><c> like</c><00:00:10.519><c> that</c><00:00:10.920><c> and</c> what's not and anything like that and what's not and anything like that and there's<00:00:11.360><c> a</c><00:00:11.519><c> good</c><00:00:11.679><c> reason</c><00:00:11.880><c> for</c><00:00:12.080><c> this</c><00:00:12.360><c> it's</c> there's a good reason for this it's there's a good reason for this it's because<00:00:12.960><c> the</c><00:00:13.120><c> world</c><00:00:13.480><c> is</c><00:00:13.719><c> constantly</c><00:00:14.440><c> changing</c> because the world is constantly changing because the world is constantly changing there's<00:00:15.759><c> no</c><00:00:16.199><c> way</c><00:00:16.880><c> based</c><00:00:17.160><c> on</c><00:00:17.320><c> the</c><00:00:17.480><c> way</c><00:00:17.720><c> that</c> there's no way based on the way that there's no way based on the way that open<00:00:18.119><c> AI</c><00:00:18.439><c> trains</c><00:00:18.760><c> their</c><00:00:18.960><c> models</c><00:00:19.960><c> that</c><00:00:20.160><c> that</c> open AI trains their models that that open AI trains their models that that model<00:00:20.640><c> can</c><00:00:20.800><c> keep</c><00:00:21.000><c> up</c><00:00:21.119><c> to</c><00:00:21.240><c> date</c><00:00:21.400><c> on</c><00:00:21.920><c> everything</c> model can keep up to date on everything model can keep up to date on everything uh<00:00:23.400><c> and</c><00:00:23.880><c> know</c><00:00:24.880><c> what</c><00:00:25.119><c> information</c><00:00:25.519><c> is</c> uh and know what information is uh and know what information is important<00:00:26.199><c> what's</c><00:00:26.480><c> not</c><00:00:26.840><c> and</c><00:00:27.039><c> so</c><00:00:27.880><c> a</c><00:00:27.960><c> lot</c><00:00:28.080><c> of</c><00:00:28.199><c> the</c> important what's not and so a lot of the important what's not and so a lot of the stuff<00:00:28.480><c> they've</c><00:00:28.640><c> been</c><00:00:28.760><c> doing</c><00:00:28.960><c> with</c><00:00:29.119><c> these</c> stuff they've been doing with these stuff they've been doing with these giant<00:00:29.640><c> data</c><00:00:30.199><c> sets</c><00:00:31.199><c> is</c><00:00:31.400><c> teaching</c><00:00:31.679><c> it</c><00:00:31.840><c> to</c> giant data sets is teaching it to giant data sets is teaching it to understand<00:00:33.559><c> human</c><00:00:33.920><c> intention</c><00:00:34.559><c> via</c><00:00:34.840><c> the</c><00:00:34.960><c> way</c> understand human intention via the way understand human intention via the way we<00:00:35.520><c> use</c><00:00:35.800><c> language</c>

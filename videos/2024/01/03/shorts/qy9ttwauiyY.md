@@ -1,0 +1,16 @@
+# Authenticity On Social Media
+
+**Duration**: PT0M41S
+**Views**: 91
+**Likes**: 3
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #online
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en social<00:00:00.520><c> media</c><00:00:00.960><c> can</c><00:00:01.120><c> be</c><00:00:01.319><c> real</c><00:00:01.959><c> if</c><00:00:02.240><c> we</c><00:00:02.520><c> are</c> social media can be real if we are social media can be real if we are real<00:00:04.440><c> it's</c><00:00:04.600><c> an</c><00:00:04.839><c> incredibly</c><00:00:05.480><c> powerful</c><00:00:05.920><c> concept</c> real it's an incredibly powerful concept real it's an incredibly powerful concept social<00:00:07.240><c> media</c><00:00:07.680><c> is</c><00:00:08.120><c> what</c><00:00:08.320><c> you</c><00:00:08.480><c> make</c><00:00:08.920><c> it</c><00:00:09.920><c> if</c><00:00:10.080><c> you</c> social media is what you make it if you social media is what you make it if you can't<00:00:11.320><c> be</c><00:00:11.519><c> real</c><00:00:11.920><c> yourself</c><00:00:12.280><c> on</c><00:00:12.519><c> social</c><00:00:13.120><c> media</c> can't be real yourself on social media can't be real yourself on social media chances<00:00:14.799><c> are</c><00:00:15.799><c> the</c><00:00:16.000><c> people</c><00:00:16.240><c> that</c><00:00:16.320><c> you're</c> chances are the people that you're chances are the people that you're interacting<00:00:17.000><c> with</c><00:00:17.199><c> are</c><00:00:17.359><c> not</c><00:00:17.560><c> going</c><00:00:17.760><c> to</c><00:00:17.920><c> be</c> interacting with are not going to be interacting with are not going to be real<00:00:19.039><c> people</c><00:00:19.560><c> either</c><00:00:20.560><c> they're</c><00:00:20.840><c> going</c><00:00:21.039><c> to</c><00:00:21.279><c> be</c> real people either they're going to be real people either they're going to be these<00:00:21.880><c> facades</c><00:00:22.480><c> they</c><00:00:22.640><c> put</c><00:00:22.840><c> up</c><00:00:23.279><c> to</c><00:00:24.279><c> Showcase</c> these facades they put up to Showcase these facades they put up to Showcase allegiance<00:00:25.680><c> to</c><00:00:26.599><c> One</c><00:00:26.880><c> Tribe</c><00:00:27.199><c> or</c> allegiance to One Tribe or allegiance to One Tribe or another<00:00:30.439><c> but</c><00:00:30.720><c> the</c><00:00:31.240><c> best</c><00:00:31.519><c> relationships</c> another but the best relationships another but the best relationships online<00:00:33.160><c> are</c><00:00:33.320><c> made</c><00:00:33.559><c> with</c><00:00:33.760><c> people</c><00:00:34.120><c> who</c><00:00:34.719><c> are</c> online are made with people who are online are made with people who are being<00:00:35.160><c> authentically</c><00:00:35.879><c> themselves</c><00:00:36.440><c> and</c><00:00:36.640><c> so</c> being authentically themselves and so being authentically themselves and so you<00:00:37.680><c> find</c><00:00:38.000><c> those</c><00:00:38.200><c> people</c><00:00:38.559><c> by</c><00:00:38.760><c> being</c> you find those people by being you find those people by being authentically<00:00:39.960><c> yourself</c>

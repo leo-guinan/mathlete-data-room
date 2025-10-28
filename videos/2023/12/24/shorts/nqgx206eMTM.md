@@ -1,0 +1,16 @@
+# College Journey #shorts #college
+
+**Duration**: PT0M19S
+**Views**: 47
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en people<00:00:00.880><c> when</c><00:00:01.079><c> they</c><00:00:01.240><c> hear</c><00:00:02.040><c> chat</c><00:00:02.320><c> GPT</c><00:00:02.840><c> in</c> people when they hear chat GPT in people when they hear chat GPT in college<00:00:03.399><c> they</c><00:00:03.560><c> think</c><00:00:04.040><c> right</c><00:00:04.319><c> it's</c><00:00:04.520><c> going</c><00:00:04.600><c> to</c> college they think right it's going to college they think right it's going to write<00:00:04.880><c> my</c><00:00:05.000><c> essays</c><00:00:05.400><c> for</c><00:00:05.560><c> me</c><00:00:06.359><c> we're</c><00:00:06.520><c> not</c><00:00:06.640><c> doing</c> write my essays for me we're not doing write my essays for me we're not doing that<00:00:07.080><c> here</c><00:00:08.000><c> instead</c><00:00:08.480><c> we're</c><00:00:08.639><c> going</c><00:00:08.760><c> to</c><00:00:08.920><c> use</c> that here instead we're going to use that here instead we're going to use some<00:00:09.559><c> creative</c><00:00:10.040><c> ways</c><00:00:10.320><c> to</c><00:00:10.480><c> use</c><00:00:10.679><c> chat</c><00:00:10.960><c> GPT</c><00:00:11.480><c> to</c> some creative ways to use chat GPT to some creative ways to use chat GPT to help<00:00:11.799><c> you</c><00:00:11.960><c> learn</c><00:00:12.200><c> the</c><00:00:12.320><c> material</c><00:00:12.960><c> faster</c><00:00:13.960><c> make</c> help you learn the material faster make help you learn the material faster make your<00:00:14.400><c> life</c><00:00:14.679><c> easier</c><00:00:15.639><c> and</c><00:00:15.839><c> just</c><00:00:16.560><c> overall</c><00:00:17.080><c> have</c><00:00:17.199><c> a</c> your life easier and just overall have a your life easier and just overall have a better<00:00:17.520><c> learning</c><00:00:18.000><c> experience</c>

@@ -1,0 +1,16 @@
+# No Stopping Them! #shorts #success
+
+**Duration**: PT0M24S
+**Views**: 3
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #success
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en these<00:00:00.480><c> are</c><00:00:00.719><c> the</c> these are the these are the people<00:00:02.720><c> that</c><00:00:02.919><c> I</c><00:00:03.080><c> love</c><00:00:03.320><c> to</c><00:00:03.480><c> just</c><00:00:03.719><c> bat</c><00:00:03.959><c> on</c><00:00:04.160><c> and</c> people that I love to just bat on and people that I love to just bat on and say<00:00:04.560><c> like</c><00:00:05.040><c> these</c><00:00:05.279><c> guys</c><00:00:05.520><c> are</c><00:00:05.759><c> going</c><00:00:06.399><c> to</c><00:00:07.399><c> change</c> say like these guys are going to change say like these guys are going to change things<00:00:08.480><c> it's</c><00:00:08.719><c> because</c><00:00:09.080><c> they</c><00:00:09.280><c> cannot</c><00:00:09.760><c> be</c> things it's because they cannot be things it's because they cannot be deterred<00:00:11.000><c> they</c><00:00:11.120><c> are</c><00:00:11.400><c> people</c><00:00:12.240><c> who</c><00:00:13.240><c> have</c> deterred they are people who have deterred they are people who have no<00:00:15.080><c> focus</c><00:00:16.119><c> on</c><00:00:17.119><c> the</c><00:00:17.279><c> monetary</c><00:00:17.800><c> circumstances</c> no focus on the monetary circumstances no focus on the monetary circumstances they're<00:00:18.800><c> just</c><00:00:19.039><c> they're</c><00:00:19.240><c> driven</c><00:00:19.600><c> toward</c><00:00:20.039><c> this</c> they're just they're driven toward this they're just they're driven toward this thing<00:00:22.000><c> and</c><00:00:22.119><c> they're</c><00:00:22.240><c> going</c><00:00:22.359><c> to</c><00:00:22.480><c> figure</c><00:00:22.720><c> it</c><00:00:22.840><c> out</c>

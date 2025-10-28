@@ -1,0 +1,16 @@
+# Not Easy #shorts #business
+
+**Duration**: PT0M11S
+**Views**: 75
+**Likes**: 3
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #business
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en starting<00:00:00.240><c> off</c><00:00:00.399><c> it's</c><00:00:00.560><c> really</c><00:00:00.760><c> easy</c><00:00:01.040><c> to</c><00:00:01.240><c> just</c> starting off it's really easy to just starting off it's really easy to just look<00:00:01.640><c> at</c><00:00:02.040><c> the</c><00:00:02.919><c> best</c><00:00:03.199><c> possible</c><00:00:03.520><c> outcome</c><00:00:03.879><c> and</c> look at the best possible outcome and look at the best possible outcome and say<00:00:04.319><c> yeah</c><00:00:04.480><c> let's</c><00:00:04.600><c> shoot</c><00:00:04.839><c> for</c><00:00:05.040><c> that</c><00:00:06.200><c> um</c> say yeah let's shoot for that um say yeah let's shoot for that um but<00:00:08.800><c> that's</c><00:00:09.000><c> not</c><00:00:09.280><c> usually</c><00:00:09.599><c> what</c><00:00:09.760><c> happens</c>

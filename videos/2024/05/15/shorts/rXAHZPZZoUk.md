@@ -1,0 +1,18 @@
+# Introducing Chef Daddy Nine Thousand #shorts #chef
+
+**Duration**: PT0M26S
+**Views**: 414
+**Likes**: 6
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #chef
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en but<00:00:00.799><c> I</c><00:00:01.040><c> I'm</c><00:00:01.240><c> actually</c><00:00:01.640><c> working</c><00:00:02.040><c> on</c><00:00:02.320><c> an</c><00:00:02.639><c> idea</c> but I I'm actually working on an idea but I I'm actually working on an idea that<00:00:04.520><c> uh</c><00:00:05.160><c> you</c><00:00:05.279><c> know</c><00:00:05.480><c> for</c><00:00:05.640><c> a</c><00:00:05.799><c> channel</c><00:00:06.200><c> like</c> that uh you know for a channel like that uh you know for a channel like yours<00:00:07.680><c> um</c><00:00:08.120><c> but</c><00:00:08.320><c> less</c><00:00:08.679><c> with</c><00:00:08.920><c> interviews</c><00:00:09.840><c> and</c> yours um but less with interviews and yours um but less with interviews and I'm<00:00:10.200><c> gonna</c><00:00:10.440><c> call</c><00:00:10.639><c> it</c><00:00:10.880><c> h</c><00:00:11.040><c> Chef</c><00:00:11.360><c> daddy</c><00:00:11.920><c> 9000</c><00:00:12.920><c> uh</c> I'm gonna call it h Chef daddy 9000 uh I'm gonna call it h Chef daddy 9000 uh it's<00:00:13.240><c> had</c><00:00:13.480><c> like</c><00:00:13.679><c> several</c><00:00:14.120><c> names</c><00:00:14.879><c> as</c><00:00:15.120><c> I've</c><00:00:15.280><c> been</c> it's had like several names as I've been it's had like several names as I've been rolling<00:00:15.759><c> over</c><00:00:16.080><c> this</c><00:00:16.279><c> idea</c><00:00:16.560><c> over</c><00:00:16.760><c> the</c><00:00:16.920><c> years</c> rolling over this idea over the years rolling over this idea over the years like<00:00:18.080><c> I</c><00:00:18.560><c> I</c><00:00:18.640><c> don't</c><00:00:19.240><c> I'm</c><00:00:19.359><c> not</c><00:00:19.760><c> big</c><00:00:20.000><c> on</c><00:00:20.199><c> putting</c> like I I don't I'm not big on putting like I I don't I'm not big on putting myself<00:00:20.920><c> out</c><00:00:21.199><c> there</c><00:00:21.680><c> like</c><00:00:21.840><c> I</c><00:00:21.920><c> do</c><00:00:22.080><c> have</c><00:00:22.279><c> great</c> myself out there like I do have great myself out there like I do have great ideas<00:00:23.320><c> and</c><00:00:23.439><c> I</c><00:00:23.560><c> do</c><00:00:23.680><c> want</c><00:00:23.760><c> to</c><00:00:23.920><c> make</c><00:00:24.080><c> the</c><00:00:24.199><c> world</c><00:00:24.400><c> a</c> ideas and I do want to make the world a ideas and I do want to make the world a better<00:00:24.960><c> place</c>

@@ -1,0 +1,16 @@
+# Would You Rather - Smartphone #question #choices
+
+**Duration**: PT0M39S
+**Views**: 471
+**Likes**: 6
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en have<00:00:00.199><c> a</c><00:00:00.320><c> smartphone</c><00:00:00.799><c> that</c><00:00:00.919><c> folds</c><00:00:01.240><c> into</c><00:00:01.480><c> a</c> have a smartphone that folds into a have a smartphone that folds into a bracelet<00:00:02.200><c> or</c><00:00:02.360><c> use</c><00:00:02.520><c> a</c><00:00:02.720><c> laptop</c><00:00:03.080><c> that</c><00:00:03.199><c> projects</c><00:00:03.520><c> a</c> bracelet or use a laptop that projects a bracelet or use a laptop that projects a holographic keyboard<00:00:08.000><c> own</c><00:00:08.200><c> a</c><00:00:08.320><c> smartwatch</c><00:00:08.800><c> that</c><00:00:08.920><c> predicts</c> keyboard own a smartwatch that predicts keyboard own a smartwatch that predicts your<00:00:09.440><c> dreams</c><00:00:10.040><c> or</c><00:00:10.200><c> have</c><00:00:10.320><c> a</c><00:00:10.480><c> tablet</c><00:00:10.800><c> that</c><00:00:10.880><c> can</c> your dreams or have a tablet that can your dreams or have a tablet that can transform<00:00:11.639><c> into</c><00:00:11.840><c> a</c> notebook<00:00:15.639><c> no</c><00:00:15.799><c> more</c><00:00:16.119><c> technology</c><00:00:16.800><c> or</c><00:00:17.119><c> subscribe</c> notebook no more technology or subscribe notebook no more technology or subscribe and relax<00:00:21.480><c> use</c><00:00:21.720><c> a</c><00:00:21.920><c> virtual</c><00:00:22.320><c> reality</c><00:00:22.800><c> headset</c><00:00:23.160><c> that</c> relax use a virtual reality headset that relax use a virtual reality headset that lets<00:00:23.519><c> you</c><00:00:23.680><c> time</c><00:00:24.039><c> travel</c><00:00:24.560><c> or</c><00:00:24.720><c> have</c><00:00:24.840><c> a</c><00:00:25.000><c> drone</c> lets you time travel or have a drone lets you time travel or have a drone that<00:00:25.480><c> can</c><00:00:25.640><c> play</c><00:00:25.840><c> your</c><00:00:26.000><c> favorite</c><00:00:26.359><c> songs</c> have<00:00:30.400><c> a</c><00:00:30.519><c> camera</c><00:00:30.840><c> that</c><00:00:30.920><c> turns</c><00:00:31.160><c> your</c><00:00:31.320><c> photos</c> have a camera that turns your photos have a camera that turns your photos into<00:00:31.880><c> animated</c><00:00:32.320><c> movies</c><00:00:32.880><c> or</c><00:00:33.040><c> own</c><00:00:33.360><c> headphones</c> into animated movies or own headphones into animated movies or own headphones that<00:00:34.000><c> change</c><00:00:34.360><c> colors</c><00:00:34.719><c> with</c><00:00:34.879><c> the</c><00:00:35.040><c> music</c>

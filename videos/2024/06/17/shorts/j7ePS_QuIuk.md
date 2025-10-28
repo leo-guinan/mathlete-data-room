@@ -1,0 +1,18 @@
+# How Reddit Turned GameStop into Financial Legend #shorts #stocks
+
+**Duration**: PT0M44S
+**Views**: 255
+**Likes**: 3
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://www.scoremydeck.com/
+
+#shorts #stocks
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en there's<00:00:00.359><c> nothing</c><00:00:00.840><c> there</c><00:00:01.079><c> saying</c><00:00:01.679><c> to</c><00:00:02.679><c> buy</c> there's nothing there saying to buy there's nothing there saying to buy stock<00:00:03.600><c> uh</c><00:00:03.719><c> you</c><00:00:03.800><c> know</c><00:00:03.959><c> Buy</c> stock uh you know Buy stock uh you know Buy Gamestop Gamestop Gamestop um<00:00:07.520><c> but</c><00:00:08.519><c> it</c><00:00:08.679><c> had</c><00:00:08.840><c> that</c><00:00:08.960><c> same</c><00:00:09.240><c> effect</c><00:00:09.960><c> because</c> um but it had that same effect because um but it had that same effect because he<00:00:11.160><c> knew</c><00:00:11.639><c> that</c><00:00:11.799><c> people</c><00:00:12.040><c> knew</c><00:00:12.240><c> the</c> he knew that people knew the he knew that people knew the story<00:00:13.960><c> he</c><00:00:14.120><c> knew</c><00:00:14.360><c> that</c><00:00:14.480><c> he</c><00:00:14.599><c> had</c><00:00:14.719><c> an</c><00:00:14.879><c> audience</c> story he knew that he had an audience story he knew that he had an audience base<00:00:16.680><c> he</c><00:00:16.960><c> knew</c><00:00:17.960><c> what</c><00:00:18.160><c> those</c><00:00:18.359><c> memes</c><00:00:18.880><c> were</c><00:00:19.119><c> used</c> base he knew what those memes were used base he knew what those memes were used to<00:00:19.600><c> represent</c><00:00:20.480><c> in</c><00:00:21.680><c> culture</c><00:00:22.680><c> and</c><00:00:22.920><c> he</c><00:00:23.039><c> was</c><00:00:23.160><c> able</c> to represent in culture and he was able to represent in culture and he was able to<00:00:23.480><c> turn</c><00:00:23.720><c> that</c><00:00:24.000><c> knowledge</c> to turn that knowledge to turn that knowledge into<00:00:26.359><c> uh</c><00:00:26.760><c> a</c><00:00:27.320><c> gigantic</c><00:00:28.400><c> win</c><00:00:29.400><c> for</c><00:00:29.599><c> himself</c> into uh a gigantic win for himself into uh a gigantic win for himself financially<00:00:31.720><c> um</c><00:00:32.680><c> honestly</c><00:00:33.040><c> it's</c><00:00:33.120><c> a</c><00:00:33.280><c> masterful</c> financially um honestly it's a masterful financially um honestly it's a masterful move<00:00:34.840><c> and</c><00:00:35.840><c> one</c><00:00:36.280><c> that</c> move and one that move and one that uh<00:00:38.520><c> was</c><00:00:38.719><c> impressively</c><00:00:39.280><c> executed</c> uh was impressively executed uh was impressively executed like<00:00:41.559><c> I</c><00:00:41.719><c> admire</c><00:00:42.239><c> that</c>

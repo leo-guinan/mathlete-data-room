@@ -1,0 +1,16 @@
+# Power of Empathy #shorts #business
+
+**Duration**: PT0M22S
+**Views**: 411
+**Likes**: 9
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #business
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:00.160><c> if</c><00:00:00.280><c> you're</c><00:00:00.599><c> a</c><00:00:00.799><c> business</c> and if you're a business and if you're a business owner<00:00:03.120><c> your</c><00:00:03.439><c> reputation</c><00:00:04.040><c> is</c><00:00:04.240><c> built</c><00:00:05.200><c> off</c><00:00:05.359><c> of</c> owner your reputation is built off of owner your reputation is built off of what<00:00:05.799><c> you</c><00:00:05.960><c> do</c><00:00:06.680><c> when</c><00:00:07.000><c> things</c><00:00:07.399><c> go</c> what you do when things go what you do when things go wrong<00:00:10.679><c> make</c><00:00:10.920><c> sure</c><00:00:11.360><c> you</c><00:00:12.080><c> see</c><00:00:12.679><c> the</c> wrong make sure you see the wrong make sure you see the person<00:00:15.080><c> show</c><00:00:15.519><c> empathy</c><00:00:16.199><c> for</c><00:00:16.440><c> what</c><00:00:16.560><c> they're</c> person show empathy for what they're person show empathy for what they're going going going through<00:00:18.720><c> do</c><00:00:18.960><c> whatever</c><00:00:19.320><c> you</c><00:00:19.520><c> can</c><00:00:20.080><c> to</c><00:00:20.279><c> make</c><00:00:20.439><c> it</c> through do whatever you can to make it through do whatever you can to make it right

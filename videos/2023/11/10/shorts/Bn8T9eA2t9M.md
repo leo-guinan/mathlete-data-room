@@ -1,0 +1,16 @@
+# Schools Make You Average #shorts #school
+
+**Duration**: PT0M14S
+**Views**: 49
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #school
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en individually<00:00:01.199><c> and</c><00:00:01.319><c> so</c><00:00:01.560><c> schools</c><00:00:01.880><c> are</c><00:00:02.000><c> not</c><00:00:02.240><c> made</c> individually and so schools are not made individually and so schools are not made for<00:00:02.840><c> individual</c><00:00:03.320><c> students</c><00:00:03.679><c> to</c><00:00:04.359><c> excel</c><00:00:05.359><c> they</c> for individual students to excel they for individual students to excel they are<00:00:06.000><c> made</c><00:00:06.359><c> for</c><00:00:06.839><c> the</c><00:00:07.080><c> average</c><00:00:07.480><c> student</c><00:00:07.839><c> to</c><00:00:08.040><c> do</c> are made for the average student to do are made for the average student to do okay<00:00:10.360><c> when</c><00:00:10.480><c> you</c><00:00:10.880><c> understand</c><00:00:11.040><c> that</c><00:00:11.200><c> you</c> okay when you understand that you okay when you understand that you approach<00:00:11.719><c> School</c><00:00:12.280><c> much</c><00:00:12.519><c> much</c><00:00:12.759><c> differently</c>

@@ -1,0 +1,16 @@
+# Building Trust #shorts #trust
+
+**Duration**: PT0M12S
+**Views**: 232
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #business
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en I<00:00:00.199><c> really</c><00:00:00.320><c> do</c><00:00:00.520><c> believe</c><00:00:00.760><c> that</c><00:00:01.000><c> everybody</c><00:00:01.360><c> can</c> I really do believe that everybody can I really do believe that everybody can benefit<00:00:01.839><c> from</c><00:00:01.959><c> building</c><00:00:02.240><c> in</c><00:00:02.480><c> public</c><00:00:03.199><c> and</c><00:00:03.320><c> I</c> benefit from building in public and I benefit from building in public and I think<00:00:03.520><c> it's</c><00:00:03.639><c> going</c><00:00:03.719><c> to</c><00:00:03.800><c> be</c><00:00:03.959><c> very</c><00:00:04.160><c> very</c> think it's going to be very very think it's going to be very very important<00:00:04.799><c> as</c><00:00:04.920><c> a</c><00:00:05.080><c> way</c><00:00:05.319><c> to</c><00:00:05.680><c> build</c><00:00:06.040><c> trust</c><00:00:06.680><c> with</c> important as a way to build trust with important as a way to build trust with you<00:00:07.680><c> know</c><00:00:07.879><c> potential</c><00:00:08.200><c> clients</c><00:00:08.559><c> users</c><00:00:09.120><c> what</c> you know potential clients users what you know potential clients users what whatever<00:00:09.960><c> it</c><00:00:10.040><c> really</c><00:00:10.200><c> depends</c><00:00:10.440><c> on</c><00:00:10.559><c> the</c> whatever it really depends on the whatever it really depends on the business

@@ -1,0 +1,16 @@
+# People Are Looking! #shorts #old
+
+**Duration**: PT0M21S
+**Views**: 259
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #old
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en anybody<00:00:00.520><c> else</c><00:00:00.840><c> get</c><00:00:01.560><c> self-conscious</c><00:00:02.280><c> about</c> anybody else get self-conscious about anybody else get self-conscious about the<00:00:02.919><c> act</c><00:00:03.159><c> of</c><00:00:03.360><c> filming</c><00:00:03.919><c> that's</c><00:00:04.120><c> how</c><00:00:04.279><c> I</c><00:00:04.400><c> realize</c> the act of filming that's how I realize the act of filming that's how I realize that<00:00:05.000><c> I'm</c><00:00:05.839><c> old</c><00:00:06.839><c> uh</c><00:00:07.279><c> I</c><00:00:07.399><c> still</c><00:00:07.640><c> get</c><00:00:07.839><c> this</c><00:00:08.160><c> like</c> that I'm old uh I still get this like that I'm old uh I still get this like weird<00:00:09.040><c> feeling</c><00:00:09.519><c> of</c><00:00:10.519><c> actually</c><00:00:10.880><c> filming</c><00:00:11.320><c> it</c><00:00:11.599><c> and</c> weird feeling of actually filming it and weird feeling of actually filming it and people<00:00:12.000><c> might</c><00:00:12.160><c> see</c><00:00:12.519><c> that</c><00:00:13.120><c> and</c><00:00:13.200><c> then</c><00:00:13.360><c> I</c><00:00:13.480><c> post</c><00:00:13.759><c> it</c> people might see that and then I post it people might see that and then I post it online<00:00:14.440><c> for</c><00:00:14.599><c> a</c><00:00:14.719><c> bunch</c><00:00:14.879><c> of</c><00:00:15.000><c> people</c><00:00:15.200><c> to</c> online for a bunch of people to online for a bunch of people to watch<00:00:17.520><c> it's</c><00:00:17.680><c> a</c><00:00:17.960><c> very</c><00:00:18.240><c> weird</c><00:00:18.600><c> dichotomy</c><00:00:19.199><c> going</c> watch it's a very weird dichotomy going watch it's a very weird dichotomy going on<00:00:19.600><c> right</c><00:00:19.760><c> there</c>

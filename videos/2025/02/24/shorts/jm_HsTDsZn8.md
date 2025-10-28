@@ -1,0 +1,16 @@
+# Making the Internet Weird Again #shorts #weird
+
+**Duration**: PT0M27S
+**Views**: 536
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #weird
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en and<00:00:00.320><c> so</c><00:00:00.680><c> one</c><00:00:00.840><c> of</c><00:00:01.000><c> the</c><00:00:01.199><c> things</c><00:00:01.480><c> that</c><00:00:01.640><c> I've</c> and so one of the things that I've and so one of the things that I've really<00:00:02.040><c> started</c><00:00:02.320><c> to</c><00:00:02.480><c> play</c><00:00:02.679><c> around</c><00:00:03.000><c> with</c><00:00:03.159><c> is</c> really started to play around with is really started to play around with is the<00:00:03.480><c> idea</c><00:00:03.959><c> of</c><00:00:04.319><c> uh</c><00:00:04.440><c> make</c><00:00:04.680><c> the</c><00:00:04.799><c> internet</c><00:00:05.120><c> weird</c> the idea of uh make the internet weird the idea of uh make the internet weird again<00:00:06.680><c> um</c><00:00:07.399><c> because</c><00:00:07.640><c> the</c><00:00:07.759><c> internet</c><00:00:08.120><c> used</c><00:00:08.280><c> to</c><00:00:08.440><c> be</c> again um because the internet used to be again um because the internet used to be a<00:00:09.599><c> beautiful</c><00:00:10.240><c> weird</c> a beautiful weird a beautiful weird place<00:00:12.480><c> before</c><00:00:12.759><c> it</c><00:00:12.960><c> became</c><00:00:13.440><c> valuable</c><00:00:14.440><c> and</c> place before it became valuable and place before it became valuable and companies<00:00:15.160><c> came</c><00:00:15.320><c> online</c><00:00:15.719><c> and</c><00:00:16.160><c> ruined</c> companies came online and ruined companies came online and ruined everything<00:00:17.920><c> and</c><00:00:18.320><c> if</c><00:00:18.439><c> you</c><00:00:18.600><c> know</c><00:00:19.119><c> anything</c> everything and if you know anything everything and if you know anything about<00:00:19.720><c> what</c><00:00:19.880><c> I've</c><00:00:20.039><c> been</c><00:00:20.439><c> doing</c><00:00:21.760><c> um</c><00:00:22.760><c> I</c><00:00:22.920><c> I</c><00:00:23.039><c> tend</c> about what I've been doing um I I tend about what I've been doing um I I tend to<00:00:23.800><c> uh</c><00:00:24.359><c> fight</c><00:00:24.840><c> back</c><00:00:25.160><c> against</c><00:00:25.480><c> those</c><00:00:25.680><c> sort</c><00:00:25.840><c> of</c> to uh fight back against those sort of to uh fight back against those sort of companies

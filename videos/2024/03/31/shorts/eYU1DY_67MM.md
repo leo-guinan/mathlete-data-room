@@ -1,0 +1,16 @@
+# The World With AI #shorts #ai
+
+**Duration**: PT0M29S
+**Views**: 3
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en artificial<00:00:00.719><c> intelligence</c><00:00:01.400><c> is</c><00:00:01.640><c> reshaping</c><00:00:02.360><c> our</c> artificial intelligence is reshaping our artificial intelligence is reshaping our potential<00:00:03.439><c> it</c><00:00:03.600><c> streamlines</c><00:00:04.520><c> tasks</c><00:00:05.400><c> enhances</c> potential it streamlines tasks enhances potential it streamlines tasks enhances productivity<00:00:07.279><c> and</c><00:00:07.439><c> opens</c><00:00:08.000><c> new</c><00:00:08.280><c> avenues</c><00:00:08.800><c> in</c> productivity and opens new avenues in productivity and opens new avenues in health<00:00:09.280><c> and</c><00:00:09.559><c> education</c><00:00:10.559><c> imagine</c><00:00:11.200><c> AI</c> health and education imagine AI health and education imagine AI assistance<00:00:12.280><c> that</c><00:00:12.440><c> organize</c><00:00:12.960><c> our</c><00:00:13.240><c> day</c> assistance that organize our day assistance that organize our day algorithms<00:00:14.679><c> predicting</c><00:00:15.240><c> health</c><00:00:15.519><c> issues</c><00:00:16.480><c> and</c> algorithms predicting health issues and algorithms predicting health issues and educational<00:00:17.520><c> platforms</c><00:00:18.199><c> accessible</c> educational platforms accessible educational platforms accessible worldwide<00:00:20.000><c> together</c><00:00:20.480><c> Ai</c><00:00:20.920><c> and</c><00:00:21.160><c> Humanity</c><00:00:21.960><c> are</c> worldwide together Ai and Humanity are worldwide together Ai and Humanity are crafting<00:00:22.600><c> a</c><00:00:22.760><c> future</c><00:00:23.199><c> of</c><00:00:23.480><c> Endless</c> crafting a future of Endless crafting a future of Endless Possibilities<00:00:25.160><c> proving</c><00:00:25.680><c> that</c><00:00:25.840><c> our</c><00:00:26.199><c> greatest</c> Possibilities proving that our greatest Possibilities proving that our greatest achievements<00:00:27.679><c> lie</c><00:00:28.160><c> ahead</c>

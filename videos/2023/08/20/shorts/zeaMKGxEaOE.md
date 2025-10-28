@@ -1,0 +1,16 @@
+# Feel Special #shorts #special
+
+**Duration**: PT0M35S
+**Views**: 1,114
+**Likes**: 51
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #special
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en there<00:00:00.359><c> becomes</c><00:00:00.719><c> more</c><00:00:00.840><c> and</c><00:00:00.960><c> more</c><00:00:01.079><c> email</c> there becomes more and more email there becomes more and more email newsletters newsletters newsletters and<00:00:03.120><c> you</c><00:00:03.300><c> get</c><00:00:03.419><c> these</c><00:00:03.659><c> recommendation</c><00:00:04.140><c> systems</c> and you get these recommendation systems and you get these recommendation systems like<00:00:04.920><c> sub</c><00:00:05.160><c> stack</c><00:00:05.520><c> or</c><00:00:05.880><c> beehive</c><00:00:06.359><c> has</c><00:00:06.600><c> one</c> like sub stack or beehive has one like sub stack or beehive has one convertkit<00:00:07.500><c> has</c><00:00:07.680><c> one</c><00:00:07.919><c> and</c><00:00:08.580><c> they</c><00:00:08.760><c> say</c><00:00:08.880><c> oh</c> convertkit has one and they say oh convertkit has one and they say oh you're<00:00:09.179><c> signing</c><00:00:09.480><c> it</c><00:00:09.540><c> for</c><00:00:09.660><c> this</c><00:00:09.780><c> newsletter</c> you're signing it for this newsletter you're signing it for this newsletter you're<00:00:10.440><c> probably</c><00:00:10.559><c> like</c><00:00:10.740><c> these</c><00:00:10.980><c> others</c> you're probably like these others you're probably like these others and<00:00:12.599><c> then</c> and then and then they'll<00:00:14.400><c> sell</c><00:00:14.880><c> things</c><00:00:15.120><c> for</c><00:00:15.299><c> subscribers</c><00:00:15.839><c> to</c> they'll sell things for subscribers to they'll sell things for subscribers to where<00:00:16.199><c> like</c><00:00:16.379><c> hey</c><00:00:16.560><c> if</c><00:00:16.740><c> you</c><00:00:16.859><c> get</c><00:00:16.980><c> me</c><00:00:17.100><c> this</c><00:00:17.279><c> many</c> where like hey if you get me this many where like hey if you get me this many subscribers<00:00:18.060><c> you</c><00:00:18.600><c> know</c><00:00:18.720><c> I'll</c><00:00:18.960><c> pay</c><00:00:19.140><c> out</c><00:00:19.260><c> for</c> subscribers you know I'll pay out for subscribers you know I'll pay out for that but<00:00:23.340><c> I</c><00:00:23.460><c> had</c><00:00:23.580><c> someone</c><00:00:23.699><c> subscribe</c><00:00:24.180><c> to</c><00:00:24.300><c> me</c><00:00:24.420><c> lately</c> but I had someone subscribe to me lately but I had someone subscribe to me lately who<00:00:25.260><c> had</c> who had who had on<00:00:27.000><c> substack</c><00:00:27.599><c> who</c><00:00:28.140><c> was</c><00:00:28.800><c> also</c><00:00:29.039><c> subscribed</c><00:00:29.460><c> to</c> on substack who was also subscribed to on substack who was also subscribed to 750<00:00:30.300><c> other</c><00:00:30.539><c> newsletters</c> 750 other newsletters 750 other newsletters way<00:00:33.420><c> to</c><00:00:33.660><c> make</c><00:00:33.780><c> me</c><00:00:33.899><c> feel</c><00:00:34.020><c> special</c>

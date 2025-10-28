@@ -1,0 +1,16 @@
+# Working Together for Maximum Value #shorts #value
+
+**Duration**: PT0M21S
+**Views**: 109
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #value
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en it's<00:00:00.560><c> all</c><00:00:00.880><c> about</c><00:00:01.360><c> people</c><00:00:01.640><c> working</c><00:00:02.120><c> together</c> it's all about people working together it's all about people working together to<00:00:02.600><c> create</c><00:00:02.879><c> the</c><00:00:03.080><c> maximum</c><00:00:03.600><c> value</c><00:00:04.000><c> for</c><00:00:04.560><c> all</c><00:00:04.799><c> the</c> to create the maximum value for all the to create the maximum value for all the people people people involved<00:00:08.120><c> nothing</c><00:00:08.360><c> about</c><00:00:08.559><c> money</c><00:00:09.400><c> it's</c><00:00:09.559><c> all</c> involved nothing about money it's all involved nothing about money it's all about<00:00:09.920><c> the</c><00:00:10.280><c> people</c><00:00:11.400><c> and</c><00:00:12.400><c> when</c><00:00:12.519><c> you</c><00:00:12.599><c> start</c> about the people and when you start about the people and when you start thinking<00:00:13.080><c> about</c><00:00:13.360><c> that</c><00:00:13.920><c> you</c><00:00:14.040><c> start</c><00:00:14.400><c> realizing</c> thinking about that you start realizing thinking about that you start realizing everybody's<00:00:15.799><c> got</c><00:00:15.920><c> different</c><00:00:16.160><c> strengths</c><00:00:16.440><c> and</c> everybody's got different strengths and everybody's got different strengths and weaknesses<00:00:17.199><c> and</c><00:00:17.320><c> we</c><00:00:17.439><c> can</c><00:00:17.560><c> work</c><00:00:17.880><c> together</c><00:00:18.439><c> to</c> weaknesses and we can work together to weaknesses and we can work together to make<00:00:19.039><c> life</c><00:00:19.359><c> easier</c><00:00:19.920><c> for</c><00:00:20.160><c> everybody</c>

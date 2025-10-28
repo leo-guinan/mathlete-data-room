@@ -1,0 +1,16 @@
+# Would You Rather or??? #question #choices
+
+**Duration**: PT0M34S
+**Views**: 1,173
+**Likes**: 21
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en use<00:00:00.359><c> Virtual</c><00:00:00.840><c> Reality</c><00:00:01.240><c> for</c><00:00:01.400><c> all</c> use Virtual Reality for all use Virtual Reality for all entertainment<00:00:02.360><c> or</c><00:00:02.560><c> never</c><00:00:02.760><c> use</c><00:00:02.960><c> any</c><00:00:03.159><c> screen</c> again<00:00:07.080><c> have</c><00:00:07.200><c> a</c><00:00:07.359><c> cryptocurrency</c><00:00:08.120><c> named</c><00:00:08.440><c> after</c> again have a cryptocurrency named after again have a cryptocurrency named after you<00:00:09.160><c> or</c><00:00:09.400><c> own</c><00:00:09.599><c> a</c><00:00:09.800><c> private</c> satellite<00:00:13.839><c> no</c><00:00:14.000><c> more</c><00:00:14.280><c> entertainment</c><00:00:15.200><c> or</c> satellite no more entertainment or satellite no more entertainment or subscribe<00:00:16.000><c> and</c> relax<00:00:19.880><c> control</c><00:00:20.279><c> your</c><00:00:20.480><c> home</c><00:00:20.720><c> with</c><00:00:20.880><c> voice</c> relax control your home with voice relax control your home with voice commands<00:00:22.000><c> or</c><00:00:22.199><c> control</c><00:00:22.600><c> your</c><00:00:22.800><c> car</c><00:00:23.080><c> with</c><00:00:23.199><c> an</c> app<00:00:26.960><c> have</c><00:00:27.080><c> a</c><00:00:27.199><c> self-driving</c><00:00:27.880><c> car</c><00:00:28.320><c> or</c><00:00:28.599><c> have</c><00:00:28.760><c> a</c> app have a self-driving car or have a app have a self-driving car or have a car<00:00:29.240><c> that</c><00:00:29.359><c> can</c><00:00:29.519><c> fly</c><00:00:30.039><c> by</c>

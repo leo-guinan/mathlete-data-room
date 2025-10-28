@@ -1,0 +1,16 @@
+# AI Poem #shorts #ai
+
+**Duration**: PT0M27S
+**Views**: 30
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en in<00:00:00.320><c> every</c><00:00:00.599><c> decision</c><00:00:01.280><c> it</c><00:00:01.480><c> has</c><00:00:01.599><c> a</c> in every decision it has a in every decision it has a say<00:00:04.120><c> from</c><00:00:04.359><c> product</c><00:00:04.720><c> design</c><00:00:05.080><c> to</c><00:00:05.240><c> the</c><00:00:05.359><c> market</c> say from product design to the market say from product design to the market stance<00:00:06.919><c> it</c><00:00:07.120><c> aids</c><00:00:07.799><c> it</c><00:00:08.280><c> supports</c><00:00:09.280><c> in</c><00:00:09.480><c> every</c> stance it aids it supports in every stance it aids it supports in every stance<00:00:11.440><c> why</c><00:00:11.639><c> leave</c><00:00:11.840><c> your</c><00:00:12.040><c> business</c><00:00:12.480><c> to</c><00:00:12.679><c> me</c> stance why leave your business to me stance why leave your business to me chance<00:00:14.400><c> with</c><00:00:14.599><c> my</c><00:00:14.879><c> ey</c><00:00:15.160><c> co-founder</c><00:00:16.080><c> enhance</c> chance with my ey co-founder enhance chance with my ey co-founder enhance your your your advance<00:00:18.880><c> so</c><00:00:19.119><c> dreamers</c><00:00:19.760><c> with</c><00:00:20.000><c> ambitions</c><00:00:20.439><c> in</c> advance so dreamers with ambitions in advance so dreamers with ambitions in sight<00:00:22.439><c> embrace</c><00:00:22.840><c> your</c><00:00:23.039><c> AI</c> sight embrace your AI sight embrace your AI co-founder<00:00:25.240><c> ignite</c><00:00:25.840><c> your</c><00:00:26.119><c> life</c>

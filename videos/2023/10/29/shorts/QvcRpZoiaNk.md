@@ -1,0 +1,16 @@
+# Get It Done! #shorts
+
+**Duration**: PT0M35S
+**Views**: 31
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en the<00:00:00.240><c> thing</c><00:00:00.480><c> is</c><00:00:00.760><c> like</c><00:00:01.000><c> I</c><00:00:01.079><c> see</c><00:00:01.400><c> like</c><00:00:01.560><c> notion</c> the thing is like I see like notion the thing is like I see like notion notion<00:00:03.480><c> is</c><00:00:04.000><c> really</c><00:00:05.000><c> powerful</c><00:00:05.720><c> feel</c><00:00:05.960><c> intuitive</c> notion is really powerful feel intuitive notion is really powerful feel intuitive to<00:00:06.919><c> me</c><00:00:07.919><c> like</c><00:00:08.400><c> you</c><00:00:08.559><c> can</c><00:00:08.840><c> do</c><00:00:09.360><c> anything</c><00:00:09.960><c> with</c><00:00:10.160><c> it</c> to me like you can do anything with it to me like you can do anything with it and<00:00:10.840><c> so</c><00:00:11.000><c> what</c><00:00:11.080><c> do</c><00:00:11.280><c> most</c><00:00:11.480><c> people</c><00:00:11.679><c> do</c><00:00:11.840><c> with</c> and so what do most people do with and so what do most people do with notion<00:00:13.120><c> they</c><00:00:13.360><c> procrastinate</c><00:00:14.280><c> actually</c><00:00:14.639><c> doing</c> notion they procrastinate actually doing notion they procrastinate actually doing stuff<00:00:16.080><c> by</c><00:00:16.720><c> organizing</c><00:00:17.520><c> notion</c><00:00:18.160><c> to</c><00:00:18.400><c> their</c> stuff by organizing notion to their stuff by organizing notion to their heart's<00:00:19.039><c> content</c><00:00:20.039><c> but</c><00:00:20.199><c> never</c><00:00:20.519><c> actually</c><00:00:20.960><c> like</c> heart's content but never actually like heart's content but never actually like doing<00:00:22.160><c> anything</c><00:00:23.080><c> and</c><00:00:23.240><c> that's</c><00:00:23.359><c> why</c><00:00:23.519><c> I</c><00:00:23.640><c> really</c> doing anything and that's why I really doing anything and that's why I really like<00:00:24.039><c> our</c><00:00:24.320><c> Focus</c><00:00:24.800><c> it's</c><00:00:25.119><c> like</c><00:00:25.880><c> no</c><00:00:26.119><c> the</c><00:00:26.279><c> focus</c><00:00:26.519><c> is</c> like our Focus it's like no the focus is like our Focus it's like no the focus is not<00:00:26.880><c> on</c><00:00:27.199><c> like</c><00:00:28.119><c> keeping</c><00:00:28.480><c> all</c><00:00:28.599><c> of</c><00:00:28.760><c> this</c><00:00:28.960><c> stuff</c> not on like keeping all of this stuff not on like keeping all of this stuff organized<00:00:30.359><c> or</c><00:00:30.560><c> any</c><00:00:30.679><c> of</c><00:00:30.880><c> that</c><00:00:31.039><c> it's</c><00:00:31.279><c> like</c><00:00:32.119><c> it</c><00:00:32.279><c> is</c> organized or any of that it's like it is organized or any of that it's like it is get<00:00:33.920><c> done</c>

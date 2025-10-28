@@ -1,0 +1,16 @@
+# True Resilience #shorts #startup
+
+**Duration**: PT0M34S
+**Views**: 31
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #business
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en I<00:00:00.280><c> didn't</c><00:00:00.880><c> understand</c><00:00:01.079><c> the</c><00:00:01.240><c> true</c><00:00:01.480><c> meaning</c><00:00:01.760><c> of</c> I didn't understand the true meaning of I didn't understand the true meaning of resiliency<00:00:02.879><c> until</c><00:00:03.879><c> I</c><00:00:04.040><c> took</c><00:00:04.240><c> a</c><00:00:04.400><c> step</c><00:00:04.680><c> back</c> resiliency until I took a step back resiliency until I took a step back realized<00:00:05.720><c> this</c><00:00:05.879><c> is</c><00:00:06.040><c> not</c><00:00:06.279><c> what</c><00:00:06.399><c> I</c><00:00:06.520><c> want</c><00:00:06.960><c> out</c><00:00:07.160><c> of</c> realized this is not what I want out of realized this is not what I want out of life<00:00:08.280><c> I</c><00:00:08.400><c> shut</c><00:00:08.679><c> that</c><00:00:08.840><c> startup</c><00:00:09.400><c> down</c><00:00:10.040><c> and</c><00:00:10.200><c> I</c><00:00:10.360><c> said</c> life I shut that startup down and I said life I shut that startup down and I said I'm<00:00:11.360><c> GNA</c><00:00:11.599><c> start</c><00:00:11.880><c> over</c><00:00:12.280><c> again</c><00:00:13.240><c> and</c><00:00:13.440><c> figure</c><00:00:13.799><c> out</c> I'm GNA start over again and figure out I'm GNA start over again and figure out how<00:00:14.639><c> I</c><00:00:14.719><c> can</c><00:00:14.879><c> do</c><00:00:15.200><c> this</c><00:00:15.559><c> in</c><00:00:15.679><c> a</c><00:00:15.839><c> way</c><00:00:16.119><c> that</c> how I can do this in a way that how I can do this in a way that resonates<00:00:17.400><c> with</c><00:00:17.800><c> what</c><00:00:17.960><c> I</c><00:00:18.080><c> want</c><00:00:18.320><c> out</c><00:00:18.480><c> of</c> resonates with what I want out of resonates with what I want out of life<00:00:20.920><c> that</c><00:00:21.039><c> was</c><00:00:21.400><c> probably</c><00:00:22.039><c> like</c><00:00:22.880><c> the</c><00:00:23.119><c> darkest</c> life that was probably like the darkest life that was probably like the darkest place<00:00:24.960><c> that</c><00:00:25.119><c> I</c><00:00:25.240><c> was</c><00:00:25.400><c> in</c><00:00:25.599><c> for</c><00:00:25.760><c> a</c><00:00:25.920><c> long</c><00:00:26.240><c> time</c> place that I was in for a long time place that I was in for a long time until<00:00:27.080><c> I</c><00:00:27.199><c> flipped</c><00:00:27.519><c> on</c><00:00:27.640><c> that</c><00:00:27.800><c> light</c><00:00:28.000><c> switch</c><00:00:28.359><c> and</c> until I flipped on that light switch and until I flipped on that light switch and I<00:00:28.960><c> said</c> I said I said oh<00:00:31.880><c> now</c><00:00:32.040><c> I</c><00:00:32.200><c> get</c><00:00:32.320><c> it</c>

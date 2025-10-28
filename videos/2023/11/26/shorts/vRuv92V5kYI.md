@@ -1,0 +1,16 @@
+# Fear Of AI #shorts #fear
+
+**Duration**: PT0M58S
+**Views**: 5
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #fear
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en let's<00:00:00.919><c> talk</c><00:00:01.120><c> about</c><00:00:01.520><c> Ai</c><00:00:02.159><c> and</c> let's talk about Ai and let's talk about Ai and fear<00:00:04.600><c> you</c><00:00:04.720><c> know</c><00:00:05.200><c> I</c><00:00:05.400><c> I</c><00:00:05.520><c> see</c><00:00:05.960><c> a</c><00:00:06.200><c> lot</c><00:00:06.520><c> of</c> fear you know I I see a lot of fear you know I I see a lot of people<00:00:08.840><c> genuinely</c><00:00:09.360><c> worried</c><00:00:10.160><c> about</c><00:00:11.160><c> the</c> people genuinely worried about the people genuinely worried about the future<00:00:11.840><c> of</c><00:00:11.960><c> the</c><00:00:12.120><c> human</c> future of the human future of the human race<00:00:14.120><c> with</c><00:00:14.679><c> all</c><00:00:14.839><c> of</c><00:00:15.040><c> the</c><00:00:15.200><c> advances</c><00:00:16.199><c> in</c><00:00:16.680><c> AI</c> race with all of the advances in AI race with all of the advances in AI technology<00:00:19.080><c> the</c><00:00:19.800><c> rapid</c><00:00:20.279><c> rate</c><00:00:21.119><c> with</c><00:00:21.480><c> which</c><00:00:21.640><c> it</c> technology the rapid rate with which it technology the rapid rate with which it is is is improving<00:00:24.240><c> and</c><00:00:24.359><c> I</c><00:00:24.439><c> want</c><00:00:24.560><c> to</c><00:00:24.680><c> start</c><00:00:24.880><c> by</c><00:00:25.320><c> saying</c> improving and I want to start by saying improving and I want to start by saying it's<00:00:26.599><c> totally</c><00:00:27.000><c> fine</c><00:00:27.199><c> to</c><00:00:27.359><c> be</c> it's totally fine to be it's totally fine to be scared scared scared but<00:00:31.240><c> I</c><00:00:31.359><c> also</c><00:00:31.560><c> want</c><00:00:31.640><c> to</c><00:00:31.840><c> point</c><00:00:32.480><c> out</c> but I also want to point out but I also want to point out that that that anytime<00:00:37.840><c> new</c><00:00:38.200><c> technology</c><00:00:39.600><c> has</c><00:00:40.600><c> been</c> anytime new technology has been anytime new technology has been invented<00:00:43.000><c> that</c><00:00:44.000><c> fundamentally</c> invented that fundamentally invented that fundamentally [Music] [Music] [Music] changes<00:00:48.480><c> the</c><00:00:48.680><c> way</c><00:00:48.920><c> we</c><00:00:49.160><c> work</c><00:00:49.399><c> and</c> changes the way we work and changes the way we work and live<00:00:52.520><c> it's</c><00:00:52.680><c> been</c> live it's been live it's been okay<00:00:54.960><c> and</c><00:00:55.079><c> I</c><00:00:55.160><c> think</c><00:00:55.280><c> you're</c><00:00:55.399><c> going</c><00:00:55.480><c> to</c><00:00:55.600><c> see</c> okay and I think you're going to see okay and I think you're going to see that<00:00:55.840><c> it's</c><00:00:55.960><c> going</c><00:00:56.079><c> to</c><00:00:56.199><c> be</c><00:00:56.399><c> okay</c><00:00:56.680><c> again</c>

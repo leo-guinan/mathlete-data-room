@@ -1,0 +1,16 @@
+# Yeti Hats #shorts #yeti
+
+**Duration**: PT0M30S
+**Views**: 72
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #yeti
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en but<00:00:00.780><c> he</c><00:00:01.319><c> was</c><00:00:01.800><c> getting</c><00:00:02.040><c> like</c> but he was getting like but he was getting like so<00:00:04.140><c> annoyed</c><00:00:04.500><c> with</c><00:00:04.620><c> me</c><00:00:04.740><c> and</c><00:00:04.860><c> we're</c><00:00:04.980><c> kind</c><00:00:05.160><c> of</c> so annoyed with me and we're kind of so annoyed with me and we're kind of going<00:00:05.339><c> back</c><00:00:05.520><c> and</c><00:00:05.640><c> forth</c><00:00:05.819><c> with</c><00:00:06.000><c> it</c><00:00:06.240><c> and</c><00:00:07.020><c> I</c><00:00:07.140><c> said</c> going back and forth with it and I said going back and forth with it and I said you<00:00:08.340><c> know</c><00:00:08.400><c> what</c><00:00:08.519><c> that's</c><00:00:09.059><c> it</c> you know what that's it you know what that's it I'm<00:00:10.500><c> gonna</c><00:00:10.679><c> open</c><00:00:10.920><c> up</c><00:00:11.219><c> uh</c><00:00:11.820><c> online</c><00:00:12.240><c> store</c><00:00:12.719><c> called</c> I'm gonna open up uh online store called I'm gonna open up uh online store called yetihat.com<00:00:14.280><c> we're</c><00:00:14.940><c> gonna</c><00:00:15.120><c> say</c><00:00:15.240><c> Yeti</c><00:00:15.599><c> hats</c> yetihat.com we're gonna say Yeti hats yetihat.com we're gonna say Yeti hats and<00:00:18.060><c> so</c><00:00:18.660><c> he</c><00:00:18.840><c> kind</c><00:00:19.020><c> of</c><00:00:19.140><c> rolled</c><00:00:19.680><c> his</c><00:00:19.740><c> eyes</c><00:00:19.920><c> all</c> and so he kind of rolled his eyes all and so he kind of rolled his eyes all the<00:00:20.220><c> way</c><00:00:20.220><c> to</c><00:00:20.400><c> the</c><00:00:20.520><c> back</c><00:00:20.640><c> of</c><00:00:20.760><c> his</c><00:00:20.880><c> head</c><00:00:21.060><c> as</c><00:00:21.300><c> kids</c> the way to the back of his head as kids the way to the back of his head as kids do<00:00:22.939><c> and</c><00:00:23.939><c> so</c><00:00:24.900><c> that's</c><00:00:25.140><c> the</c><00:00:25.320><c> dumbest</c><00:00:25.560><c> idea</c><00:00:25.800><c> you've</c> do and so that's the dumbest idea you've do and so that's the dumbest idea you've ever had<00:00:26.400><c> dad</c> ever had dad ever had dad and<00:00:28.560><c> so</c><00:00:28.680><c> I</c><00:00:28.800><c> went</c><00:00:28.859><c> and</c><00:00:28.980><c> bought</c><00:00:29.099><c> the</c><00:00:29.220><c> domain</c>

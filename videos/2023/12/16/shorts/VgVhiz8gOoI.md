@@ -1,0 +1,16 @@
+# Dealing With Criticism #shorts #knowledge
+
+**Duration**: PT0M29S
+**Views**: 270
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #business
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en they<00:00:00.240><c> also</c><00:00:00.480><c> have</c><00:00:00.640><c> no</c><00:00:00.840><c> idea</c><00:00:01.120><c> what</c><00:00:01.240><c> they're</c> they also have no idea what they're they also have no idea what they're talking<00:00:01.800><c> about</c><00:00:02.679><c> and</c><00:00:02.840><c> so</c><00:00:03.120><c> there's</c><00:00:03.360><c> this</c><00:00:03.600><c> idea</c> talking about and so there's this idea talking about and so there's this idea of<00:00:04.240><c> like</c><00:00:04.960><c> seek</c><00:00:05.520><c> criticism</c><00:00:06.200><c> from</c><00:00:06.720><c> people</c><00:00:07.160><c> that</c> of like seek criticism from people that of like seek criticism from people that you<00:00:07.560><c> respect</c><00:00:08.160><c> and</c><00:00:08.280><c> who</c><00:00:08.440><c> know</c><00:00:08.599><c> what</c><00:00:08.719><c> they're</c> you respect and who know what they're you respect and who know what they're talking<00:00:09.280><c> about</c><00:00:09.960><c> yeah</c><00:00:10.360><c> um</c><00:00:10.840><c> and</c><00:00:11.200><c> nobody</c><00:00:11.559><c> else</c> talking about yeah um and nobody else talking about yeah um and nobody else matters<00:00:12.719><c> anybody</c><00:00:13.080><c> else</c><00:00:13.759><c> we</c><00:00:13.880><c> don't</c><00:00:14.200><c> we</c><00:00:14.360><c> we</c> matters anybody else we don't we we matters anybody else we don't we we don't<00:00:14.639><c> need</c><00:00:14.799><c> to</c><00:00:14.920><c> listen</c><00:00:15.160><c> to</c><00:00:15.320><c> them</c><00:00:16.320><c> um</c><00:00:16.880><c> love</c> don't need to listen to them um love don't need to listen to them um love find<00:00:17.840><c> the</c><00:00:18.039><c> right</c><00:00:18.320><c> sources</c><00:00:18.760><c> to</c><00:00:18.960><c> tell</c><00:00:19.160><c> you</c><00:00:19.359><c> where</c> find the right sources to tell you where find the right sources to tell you where you<00:00:19.760><c> suck</c><00:00:20.160><c> and</c><00:00:20.320><c> listen</c><00:00:20.760><c> only</c><00:00:21.080><c> to</c><00:00:21.320><c> them</c><00:00:21.800><c> because</c> you suck and listen only to them because you suck and listen only to them because the<00:00:22.199><c> rest</c><00:00:22.320><c> of</c><00:00:22.439><c> the</c><00:00:22.560><c> people</c><00:00:23.279><c> they</c><00:00:23.400><c> don't</c><00:00:23.560><c> have</c> the rest of the people they don't have the rest of the people they don't have your<00:00:23.800><c> best</c><00:00:24.000><c> interest</c><00:00:24.279><c> at</c><00:00:24.439><c> heart</c><00:00:25.199><c> they</c><00:00:25.320><c> don't</c> your best interest at heart they don't your best interest at heart they don't actually<00:00:25.920><c> care</c><00:00:26.599><c> they</c><00:00:26.679><c> don't</c><00:00:26.840><c> know</c><00:00:27.000><c> what</c> actually care they don't know what actually care they don't know what they're<00:00:27.279><c> talking</c><00:00:27.560><c> about</c><00:00:27.920><c> [&nbsp;__&nbsp;]</c><00:00:28.119><c> them</c>

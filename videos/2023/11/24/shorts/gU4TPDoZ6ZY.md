@@ -1,0 +1,16 @@
+# Power of Storytelling #shorts #story
+
+**Duration**: PT0M32S
+**Views**: 21
+**Likes**: 3
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #story
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en learn<00:00:00.399><c> how</c><00:00:00.520><c> to</c><00:00:00.640><c> tell</c><00:00:00.799><c> a</c><00:00:00.919><c> compelling</c><00:00:01.840><c> story</c> learn how to tell a compelling story learn how to tell a compelling story change<00:00:03.240><c> the</c> change the change the world<00:00:05.080><c> it's</c><00:00:05.560><c> incredibly</c> world it's incredibly world it's incredibly powerful<00:00:07.720><c> think</c><00:00:08.080><c> of</c><00:00:08.200><c> all</c><00:00:08.360><c> the</c><00:00:08.480><c> best</c><00:00:08.679><c> content</c> powerful think of all the best content powerful think of all the best content creators<00:00:10.040><c> they're</c><00:00:10.240><c> out</c><00:00:10.440><c> there</c><00:00:10.639><c> they're</c> creators they're out there they're creators they're out there they're telling<00:00:11.160><c> their</c><00:00:11.719><c> story</c><00:00:12.719><c> or</c><00:00:12.920><c> they're</c><00:00:13.080><c> telling</c> telling their story or they're telling telling their story or they're telling other<00:00:13.880><c> people's</c><00:00:14.559><c> stories</c><00:00:15.559><c> and</c><00:00:15.719><c> they're</c><00:00:16.000><c> doing</c> other people's stories and they're doing other people's stories and they're doing it<00:00:16.440><c> in</c><00:00:16.560><c> a</c><00:00:16.760><c> way</c><00:00:17.160><c> that</c><00:00:17.320><c> brings</c><00:00:17.680><c> you</c><00:00:18.240><c> in</c><00:00:19.240><c> it</c><00:00:19.359><c> makes</c> it in a way that brings you in it makes it in a way that brings you in it makes you<00:00:19.760><c> a</c><00:00:19.920><c> part</c><00:00:20.080><c> of</c><00:00:20.400><c> it</c><00:00:21.400><c> and</c><00:00:21.560><c> that's</c><00:00:21.760><c> why</c><00:00:21.920><c> you</c> you a part of it and that's why you you a part of it and that's why you watch<00:00:23.080><c> that's</c><00:00:23.240><c> why</c><00:00:23.400><c> you</c><00:00:23.519><c> listen</c><00:00:23.920><c> that's</c><00:00:24.119><c> why</c> watch that's why you listen that's why watch that's why you listen that's why you<00:00:24.840><c> read</c><00:00:25.840><c> storytelling</c><00:00:26.720><c> is</c><00:00:27.000><c> incredibly</c> you read storytelling is incredibly you read storytelling is incredibly powerful<00:00:28.640><c> learn</c><00:00:29.119><c> how</c><00:00:29.320><c> to</c><00:00:29.519><c> use</c><00:00:29.759><c> it</c><00:00:30.240><c> to</c><00:00:30.519><c> your</c> powerful learn how to use it to your powerful learn how to use it to your advantage

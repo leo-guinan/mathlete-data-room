@@ -1,0 +1,16 @@
+# Don't Follow the Algorithm #shorts #breaking
+
+**Duration**: PT0M54S
+**Views**: 29
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #breaking
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en one<00:00:00.240><c> of</c><00:00:00.399><c> the</c><00:00:00.520><c> things</c><00:00:00.760><c> that</c><00:00:00.880><c> I've</c><00:00:01.079><c> realized</c><00:00:01.839><c> is</c> that<00:00:06.279><c> we</c> let<00:00:10.040><c> our</c><00:00:10.240><c> chasing</c><00:00:10.679><c> of</c><00:00:10.840><c> the</c><00:00:10.960><c> algorithm</c> let our chasing of the algorithm let our chasing of the algorithm influence<00:00:12.519><c> the</c><00:00:12.719><c> content</c><00:00:13.400><c> that</c><00:00:13.519><c> we</c> create<00:00:18.880><c> when</c><00:00:19.039><c> our</c><00:00:19.320><c> ideas</c><00:00:20.240><c> become</c><00:00:20.600><c> tied</c><00:00:20.920><c> to</c> metrics<00:00:24.160><c> we</c><00:00:24.359><c> focus</c><00:00:24.680><c> on</c> metrics we focus on metrics we focus on ideas<00:00:27.679><c> that</c><00:00:27.880><c> score</c><00:00:28.240><c> the</c><00:00:28.400><c> best</c><00:00:28.640><c> against</c><00:00:28.920><c> the</c> ideas that score the best against the ideas that score the best against the metric so<00:00:40.239><c> I</c><00:00:40.320><c> wanted</c><00:00:40.520><c> to</c><00:00:40.680><c> do</c><00:00:40.840><c> something</c><00:00:41.160><c> different</c> today<00:00:46.640><c> I</c><00:00:46.760><c> wanted</c><00:00:47.000><c> to</c><00:00:47.120><c> leave</c><00:00:47.320><c> some</c> today I wanted to leave some today I wanted to leave some space<00:00:49.199><c> in</c><00:00:49.360><c> between</c> space in between space in between words<00:00:51.640><c> in</c><00:00:51.800><c> between</c><00:00:52.120><c> ideas</c>

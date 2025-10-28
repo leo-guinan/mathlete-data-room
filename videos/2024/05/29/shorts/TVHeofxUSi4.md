@@ -1,0 +1,18 @@
+# Unlock the Sub Minds #shorts #ai
+
+**Duration**: PT0M25S
+**Views**: 11
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+Check it out: https://myaicofounder.com/
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en so<00:00:01.040><c> um</c><00:00:02.040><c> yeah</c><00:00:02.200><c> stay</c><00:00:02.399><c> tuned</c><00:00:02.840><c> that's</c><00:00:03.000><c> going</c><00:00:03.120><c> to</c><00:00:03.199><c> be</c> so um yeah stay tuned that's going to be so um yeah stay tuned that's going to be super<00:00:03.679><c> cool</c><00:00:04.400><c> uh</c><00:00:04.600><c> really</c><00:00:04.920><c> excited</c><00:00:05.799><c> and</c> super cool uh really excited and super cool uh really excited and uh<00:00:08.320><c> while</c><00:00:08.480><c> you're</c><00:00:08.639><c> waiting</c><00:00:09.160><c> you</c><00:00:09.280><c> can</c><00:00:09.480><c> go</c><00:00:09.679><c> start</c> uh while you're waiting you can go start uh while you're waiting you can go start reading<00:00:10.240><c> expeditionary</c><00:00:10.880><c> force</c><00:00:11.880><c> and</c><00:00:12.880><c> you</c><00:00:13.000><c> know</c> reading expeditionary force and you know reading expeditionary force and you know really<00:00:13.559><c> get</c><00:00:13.679><c> to</c><00:00:14.320><c> understand</c><00:00:15.320><c> um</c><00:00:16.279><c> Skippy</c><00:00:17.000><c> and</c> really get to understand um Skippy and really get to understand um Skippy and Skippy's<00:00:18.160><c> subm</c><00:00:18.480><c> mins</c><00:00:18.720><c> that</c><00:00:18.840><c> he</c><00:00:18.960><c> creates</c> Skippy's subm mins that he creates Skippy's subm mins that he creates because<00:00:20.199><c> frankly</c><00:00:20.640><c> it's</c><00:00:21.000><c> uh</c><00:00:21.640><c> it's</c><00:00:21.840><c> highly</c> because frankly it's uh it's highly because frankly it's uh it's highly amusing<00:00:22.760><c> and</c><00:00:23.160><c> um</c><00:00:23.920><c> one</c><00:00:24.080><c> thing</c><00:00:24.160><c> I</c><00:00:24.240><c> can</c><00:00:24.359><c> promise</c>

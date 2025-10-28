@@ -1,0 +1,16 @@
+# Starting Conversations! #shorts #ai
+
+**Duration**: PT0M37S
+**Views**: 42
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #conversations
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en this<00:00:00.440><c> takes</c><00:00:00.760><c> the</c><00:00:00.960><c> conversation</c><00:00:01.800><c> outside</c><00:00:02.240><c> of</c> this takes the conversation outside of this takes the conversation outside of the<00:00:02.520><c> realm</c><00:00:03.000><c> of</c><00:00:03.280><c> just</c><00:00:03.560><c> the</c><00:00:03.920><c> app</c><00:00:04.920><c> and</c><00:00:05.080><c> because</c> the realm of just the app and because the realm of just the app and because I've<00:00:05.440><c> already</c><00:00:05.640><c> got</c><00:00:05.799><c> the</c><00:00:05.960><c> ability</c><00:00:06.480><c> to</c><00:00:06.839><c> create</c> I've already got the ability to create I've already got the ability to create these<00:00:07.399><c> conversations</c><00:00:08.200><c> and</c><00:00:08.360><c> I've</c><00:00:08.480><c> got</c><00:00:08.599><c> the</c> these conversations and I've got the these conversations and I've got the ability<00:00:09.040><c> to</c><00:00:09.160><c> send</c><00:00:09.480><c> emails</c><00:00:09.880><c> from</c><00:00:10.040><c> the</c><00:00:10.240><c> app</c><00:00:10.880><c> and</c> ability to send emails from the app and ability to send emails from the app and all<00:00:11.200><c> of</c> all of all of that<00:00:13.240><c> this</c><00:00:13.400><c> all</c><00:00:13.599><c> becomes</c><00:00:13.960><c> very</c><00:00:14.160><c> very</c> that this all becomes very very that this all becomes very very straightforward<00:00:15.000><c> to</c><00:00:15.160><c> do</c><00:00:16.119><c> and</c><00:00:16.279><c> this</c><00:00:16.359><c> is</c> straightforward to do and this is straightforward to do and this is something<00:00:16.840><c> that</c><00:00:16.960><c> I'm</c><00:00:17.160><c> really</c><00:00:17.520><c> excited</c><00:00:17.920><c> about</c> something that I'm really excited about something that I'm really excited about using<00:00:18.560><c> AI</c><00:00:19.000><c> for</c><00:00:19.560><c> in</c><00:00:19.760><c> terms</c><00:00:20.680><c> of</c><00:00:21.680><c> getting</c><00:00:22.199><c> user</c> using AI for in terms of getting user using AI for in terms of getting user activation<00:00:23.439><c> keeping</c><00:00:23.760><c> that</c><00:00:24.039><c> conversation</c> activation keeping that conversation activation keeping that conversation going<00:00:25.000><c> keeping</c><00:00:25.279><c> them</c><00:00:25.519><c> engaged</c><00:00:26.400><c> and</c><00:00:26.599><c> helping</c> going keeping them engaged and helping going keeping them engaged and helping them<00:00:27.760><c> achieve</c><00:00:28.160><c> their</c> them achieve their them achieve their goals goals goals and<00:00:31.599><c> so</c><00:00:32.320><c> from</c><00:00:32.520><c> the</c><00:00:32.719><c> technical</c><00:00:33.160><c> standpoint</c> and so from the technical standpoint and so from the technical standpoint it's<00:00:34.160><c> really</c><00:00:34.760><c> not</c><00:00:35.079><c> terribly</c><00:00:35.559><c> hard</c>

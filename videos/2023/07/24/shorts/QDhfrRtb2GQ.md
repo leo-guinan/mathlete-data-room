@@ -1,0 +1,16 @@
+# Building New Chats #shorts #technology
+
+**Duration**: PT0M12S
+**Views**: 137
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #technology
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en all<00:00:00.590><c> right</c><00:00:00.770><c> so</c><00:00:00.950><c> it</c><00:00:01.130><c> looks</c><00:00:01.250><c> like</c><00:00:01.370><c> what</c><00:00:01.490><c> we</c> all right so it looks like what we all right so it looks like what we actually<00:00:01.790><c> need</c><00:00:01.969><c> to</c><00:00:02.090><c> do</c><00:00:02.270><c> is</c><00:00:02.629><c> use</c><00:00:02.990><c> partial</c> actually need to do is use partial actually need to do is use partial variables<00:00:03.949><c> so</c><00:00:04.490><c> this</c><00:00:04.610><c> is</c><00:00:04.730><c> a</c><00:00:04.850><c> way</c><00:00:04.970><c> to</c><00:00:05.210><c> say</c><00:00:05.450><c> like</c> variables so this is a way to say like variables so this is a way to say like hey<00:00:06.109><c> here</c><00:00:06.529><c> are</c><00:00:06.710><c> some</c><00:00:06.890><c> of</c><00:00:06.950><c> the</c><00:00:07.009><c> variables</c><00:00:07.310><c> in</c> hey here are some of the variables in hey here are some of the variables in prompt prompt prompt um<00:00:08.870><c> and</c><00:00:09.290><c> then</c><00:00:09.410><c> I'm</c><00:00:09.650><c> going</c><00:00:09.769><c> to</c><00:00:09.830><c> separate</c><00:00:10.130><c> those</c> um and then I'm going to separate those um and then I'm going to separate those from<00:00:10.490><c> the</c><00:00:10.610><c> idea</c><00:00:10.790><c> of</c><00:00:10.910><c> input</c><00:00:11.150><c> variable</c>

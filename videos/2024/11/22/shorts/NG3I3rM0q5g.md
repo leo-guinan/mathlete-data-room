@@ -1,0 +1,16 @@
+# Would You Rather?..? #question #choices
+
+**Duration**: PT0M31S
+**Views**: 1,227
+**Likes**: 26
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en have<00:00:00.240><c> a</c><00:00:00.359><c> boring</c><00:00:00.760><c> job</c><00:00:01.199><c> or</c><00:00:01.400><c> no</c><00:00:01.640><c> job</c><00:00:01.880><c> at</c> all<00:00:05.680><c> work</c><00:00:05.920><c> only</c><00:00:06.200><c> weekends</c><00:00:06.879><c> or</c><00:00:07.040><c> work</c><00:00:07.240><c> only</c> weekdays<00:00:11.519><c> be</c><00:00:11.719><c> stuck</c><00:00:11.960><c> in</c><00:00:12.040><c> the</c><00:00:12.160><c> year</c><00:00:12.480><c> 1124</c><00:00:13.480><c> or</c> weekdays be stuck in the year 1124 or weekdays be stuck in the year 1124 or subscribe<00:00:14.200><c> and</c> relax<00:00:18.400><c> have</c><00:00:18.560><c> no</c><00:00:18.760><c> internet</c><00:00:19.160><c> for</c><00:00:19.320><c> a</c><00:00:19.480><c> week</c><00:00:19.880><c> or</c> relax have no internet for a week or relax have no internet for a week or have<00:00:20.199><c> no</c><00:00:20.320><c> phone</c><00:00:20.560><c> for</c><00:00:20.760><c> a</c> week<00:00:24.439><c> never</c><00:00:24.720><c> use</c><00:00:25.080><c> social</c><00:00:25.480><c> media</c><00:00:26.039><c> or</c><00:00:26.240><c> never</c> week never use social media or never week never use social media or never watch<00:00:26.840><c> TV</c> what

@@ -1,0 +1,16 @@
+# It Isn't Real! #shorts #ai
+
+**Duration**: PT0M32S
+**Views**: 77
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #ai
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en my<00:00:00.320><c> concern</c><00:00:01.040><c> is</c><00:00:01.199><c> the</c><00:00:01.400><c> very</c><00:00:01.760><c> name</c><00:00:02.760><c> artificial</c><00:00:03.600><c> I</c> my concern is the very name artificial I my concern is the very name artificial I think<00:00:03.840><c> there</c><00:00:03.959><c> isn't</c><00:00:04.279><c> an</c><00:00:04.440><c> issue</c><00:00:04.759><c> with</c><00:00:04.960><c> branding</c> think there isn't an issue with branding think there isn't an issue with branding here<00:00:06.040><c> because</c><00:00:06.600><c> you</c><00:00:06.680><c> know</c><00:00:06.919><c> first</c><00:00:07.120><c> of</c><00:00:07.279><c> all</c><00:00:07.680><c> if</c> here because you know first of all if here because you know first of all if you<00:00:08.000><c> think</c><00:00:08.280><c> of</c><00:00:08.880><c> you</c><00:00:09.040><c> know</c><00:00:09.639><c> AI</c><00:00:10.639><c> a</c><00:00:10.759><c> lot</c><00:00:10.880><c> of</c><00:00:11.080><c> times</c> you think of you know AI a lot of times you think of you know AI a lot of times our<00:00:12.080><c> minds</c><00:00:12.519><c> go</c><00:00:12.840><c> to</c><00:00:13.400><c> what</c><00:00:13.559><c> we've</c><00:00:13.799><c> seen</c><00:00:14.839><c> in</c> our minds go to what we've seen in our minds go to what we've seen in movies<00:00:16.560><c> TV</c><00:00:17.359><c> there's</c><00:00:17.640><c> no</c><00:00:18.320><c> show</c><00:00:19.039><c> about</c><00:00:19.359><c> the</c><00:00:19.600><c> fact</c> movies TV there's no show about the fact movies TV there's no show about the fact that<00:00:20.800><c> you</c><00:00:20.920><c> know</c><00:00:21.199><c> we</c><00:00:21.400><c> created</c><00:00:21.840><c> these</c><00:00:22.039><c> machines</c> that you know we created these machines that you know we created these machines that<00:00:22.680><c> could</c><00:00:22.840><c> learn</c><00:00:23.519><c> and</c><00:00:23.680><c> then</c><00:00:24.320><c> everybody</c><00:00:24.880><c> just</c> that could learn and then everybody just that could learn and then everybody just was<00:00:25.400><c> a</c><00:00:25.519><c> bit</c><00:00:25.680><c> more</c><00:00:25.960><c> productive</c><00:00:26.640><c> and</c><00:00:26.760><c> had</c><00:00:26.880><c> a</c> was a bit more productive and had a was a bit more productive and had a great<00:00:27.279><c> life</c><00:00:27.760><c> and</c><00:00:27.920><c> that's</c><00:00:28.119><c> the</c><00:00:28.240><c> end</c><00:00:28.359><c> of</c><00:00:28.480><c> the</c> great life and that's the end of the great life and that's the end of the show<00:00:29.000><c> because</c><00:00:29.279><c> nobody</c><00:00:29.560><c> would</c><00:00:29.720><c> fight</c><00:00:29.960><c> you</c><00:00:30.039><c> can</c> show because nobody would fight you can show because nobody would fight you can watch<00:00:30.480><c> that</c>

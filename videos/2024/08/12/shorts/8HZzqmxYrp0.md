@@ -1,0 +1,16 @@
+# Would You Rather or?? #question #choices
+
+**Duration**: PT0M39S
+**Views**: 481
+**Likes**: 16
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en have<00:00:00.280><c> the</c><00:00:00.399><c> latest</c><00:00:00.719><c> smartphone</c><00:00:01.199><c> but</c><00:00:01.360><c> no</c><00:00:01.599><c> access</c> have the latest smartphone but no access have the latest smartphone but no access to<00:00:02.040><c> social</c><00:00:02.320><c> media</c><00:00:02.760><c> or</c><00:00:03.000><c> have</c><00:00:03.120><c> an</c><00:00:03.240><c> old</c><00:00:03.439><c> flip</c> to social media or have an old flip to social media or have an old flip phone<00:00:04.160><c> with</c><00:00:04.319><c> unlimited</c><00:00:04.839><c> social</c><00:00:05.120><c> media</c> access<00:00:09.360><c> explore</c><00:00:09.800><c> space</c><00:00:10.040><c> with</c><00:00:10.200><c> the</c><00:00:10.320><c> latest</c> access explore space with the latest access explore space with the latest tech<00:00:11.000><c> or</c><00:00:11.200><c> dive</c><00:00:11.440><c> into</c><00:00:11.599><c> the</c><00:00:11.759><c> deep</c><00:00:11.960><c> sea</c><00:00:12.240><c> with</c> tech or dive into the deep sea with tech or dive into the deep sea with cuttingedge submarines<00:00:16.960><c> eat</c><00:00:17.199><c> straw</c><00:00:17.560><c> for</c><00:00:17.840><c> life</c><00:00:18.160><c> or</c> submarines eat straw for life or submarines eat straw for life or subscribe<00:00:18.880><c> and</c> relax<00:00:22.880><c> live</c><00:00:23.119><c> in</c><00:00:23.279><c> a</c><00:00:23.400><c> fully</c><00:00:23.680><c> automated</c><00:00:24.199><c> smart</c> relax live in a fully automated smart relax live in a fully automated smart home<00:00:24.920><c> or</c><00:00:25.080><c> live</c><00:00:25.240><c> in</c><00:00:25.439><c> beautifully</c><00:00:25.880><c> rustic</c><00:00:26.279><c> cabin</c> home or live in beautifully rustic cabin home or live in beautifully rustic cabin with<00:00:26.760><c> no</c><00:00:26.920><c> modern</c><00:00:27.240><c> tech</c> have<00:00:30.960><c> a</c><00:00:31.160><c> robot</c><00:00:31.560><c> that</c><00:00:31.720><c> handles</c><00:00:32.079><c> all</c><00:00:32.239><c> your</c> have a robot that handles all your have a robot that handles all your chores<00:00:33.079><c> or</c><00:00:33.280><c> have</c><00:00:33.399><c> an</c><00:00:33.600><c> AI</c><00:00:33.960><c> that</c><00:00:34.120><c> answers</c><00:00:34.440><c> all</c> chores or have an AI that answers all chores or have an AI that answers all your<00:00:34.840><c> questions</c>

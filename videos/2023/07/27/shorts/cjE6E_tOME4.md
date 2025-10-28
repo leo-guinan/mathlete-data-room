@@ -1,0 +1,16 @@
+# New Mistakes #shorts #mistakes
+
+**Duration**: PT0M29S
+**Views**: 105
+**Likes**: 4
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #motivation
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en been<00:00:01.260><c> reading</c><00:00:01.620><c> this</c><00:00:01.740><c> book</c><00:00:01.979><c> lately</c><00:00:02.340><c> and</c><00:00:02.879><c> I've</c> been reading this book lately and I've been reading this book lately and I've got<00:00:03.540><c> to</c><00:00:03.659><c> say</c><00:00:03.840><c> it</c><00:00:04.140><c> has</c><00:00:04.259><c> some</c><00:00:04.500><c> just</c><00:00:04.680><c> absolute</c> got to say it has some just absolute got to say it has some just absolute gems<00:00:06.120><c> in</c><00:00:06.299><c> there</c><00:00:06.420><c> so</c><00:00:06.720><c> I</c><00:00:06.899><c> wanted</c><00:00:07.080><c> to</c><00:00:07.259><c> share</c><00:00:07.440><c> some</c> gems in there so I wanted to share some gems in there so I wanted to share some this<00:00:09.960><c> is</c><00:00:10.080><c> such</c><00:00:10.200><c> a</c><00:00:10.380><c> great</c><00:00:10.500><c> quote</c><00:00:10.740><c> make</c><00:00:11.219><c> new</c> this is such a great quote make new this is such a great quote make new mistakes<00:00:11.700><c> every</c><00:00:11.940><c> day</c><00:00:12.120><c> don't</c><00:00:12.360><c> waste</c><00:00:12.719><c> time</c> mistakes every day don't waste time mistakes every day don't waste time repeating<00:00:13.259><c> the</c><00:00:13.380><c> old</c><00:00:13.500><c> ones</c><00:00:13.799><c> uh</c><00:00:14.400><c> Danny</c><00:00:14.759><c> Meyer</c><00:00:15.059><c> so</c> repeating the old ones uh Danny Meyer so repeating the old ones uh Danny Meyer so you<00:00:16.139><c> know</c><00:00:16.260><c> I</c><00:00:16.740><c> am</c><00:00:17.279><c> a</c><00:00:17.520><c> big</c><00:00:17.640><c> fan</c><00:00:17.820><c> of</c><00:00:18.000><c> this</c><00:00:18.180><c> I</c><00:00:18.539><c> try</c><00:00:18.720><c> to</c> you know I am a big fan of this I try to you know I am a big fan of this I try to make<00:00:19.080><c> all</c><00:00:19.560><c> sorts</c><00:00:19.859><c> of</c><00:00:19.920><c> new</c><00:00:20.160><c> mistakes</c><00:00:20.580><c> every</c> make all sorts of new mistakes every make all sorts of new mistakes every single<00:00:21.420><c> day</c> single day single day um um um more<00:00:24.240><c> mistakes</c><00:00:24.539><c> I'm</c><00:00:24.779><c> making</c><00:00:25.019><c> more</c><00:00:25.619><c> I'm</c> more mistakes I'm making more I'm more mistakes I'm making more I'm learning<00:00:26.279><c> the</c><00:00:27.240><c> better</c><00:00:27.359><c> my</c><00:00:27.599><c> outcomes</c>

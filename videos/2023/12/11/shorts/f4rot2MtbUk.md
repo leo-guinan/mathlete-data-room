@@ -1,0 +1,16 @@
+# Getting Meta #shorts #meta
+
+**Duration**: PT0M17S
+**Views**: 29
+**Likes**: 0
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #meta
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en in<00:00:00.880><c> my</c><00:00:01.079><c> next</c><00:00:01.319><c> video</c><00:00:01.599><c> what</c><00:00:01.719><c> I</c><00:00:01.800><c> want</c><00:00:01.920><c> to</c><00:00:02.040><c> do</c><00:00:02.200><c> is</c><00:00:02.320><c> I</c> in my next video what I want to do is I in my next video what I want to do is I actually<00:00:02.720><c> want</c><00:00:03.080><c> to</c><00:00:04.080><c> set</c><00:00:04.400><c> up</c><00:00:05.160><c> a</c><00:00:05.759><c> chain</c><00:00:06.759><c> that</c> actually want to set up a chain that actually want to set up a chain that will<00:00:07.680><c> help</c><00:00:08.000><c> me</c><00:00:08.240><c> write</c><00:00:08.559><c> a</c><00:00:08.760><c> script</c><00:00:09.280><c> for</c><00:00:09.599><c> a</c> will help me write a script for a will help me write a script for a YouTube<00:00:10.160><c> video</c><00:00:10.920><c> we're</c><00:00:11.120><c> getting</c><00:00:11.280><c> a</c><00:00:11.360><c> little</c> YouTube video we're getting a little YouTube video we're getting a little meta<00:00:11.920><c> here</c><00:00:12.320><c> so</c><00:00:13.120><c> stay</c><00:00:13.320><c> tuned</c><00:00:14.000><c> that's</c><00:00:14.280><c> coming</c> meta here so stay tuned that's coming meta here so stay tuned that's coming soon<00:00:15.639><c> thanks</c><00:00:15.839><c> for</c><00:00:16.000><c> watch</c>

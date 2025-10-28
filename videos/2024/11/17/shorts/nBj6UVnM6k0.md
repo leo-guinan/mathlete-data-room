@@ -1,0 +1,16 @@
+# Would You Rather?. #question #choices
+
+**Duration**: PT0M38S
+**Views**: 880
+**Likes**: 18
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en never<00:00:00.320><c> use</c><00:00:00.480><c> a</c><00:00:00.640><c> phone</c><00:00:01.000><c> again</c><00:00:01.599><c> or</c><00:00:01.839><c> never</c><00:00:02.120><c> watch</c> never use a phone again or never watch never use a phone again or never watch TV again<00:00:06.640><c> have</c><00:00:06.799><c> no</c><00:00:06.960><c> internet</c><00:00:07.319><c> for</c><00:00:07.480><c> a</c><00:00:07.600><c> week</c><00:00:08.000><c> or</c> again have no internet for a week or again have no internet for a week or have<00:00:08.240><c> no</c><00:00:08.440><c> electricity</c><00:00:09.000><c> for</c><00:00:09.200><c> a</c> week<00:00:12.840><c> be</c><00:00:13.080><c> stuck</c><00:00:13.360><c> in</c><00:00:13.480><c> the</c><00:00:13.639><c> year</c><00:00:13.880><c> 1212</c><00:00:14.839><c> or</c> week be stuck in the year 1212 or week be stuck in the year 1212 or subscribe<00:00:15.799><c> and</c> relax<00:00:19.920><c> see</c><00:00:20.160><c> a</c><00:00:20.279><c> drone</c><00:00:20.600><c> that</c><00:00:20.720><c> needs</c><00:00:20.960><c> you</c><00:00:21.080><c> to</c> relax see a drone that needs you to relax see a drone that needs you to dance<00:00:21.560><c> for</c><00:00:21.760><c> deliveries</c><00:00:22.640><c> or</c><00:00:22.840><c> have</c><00:00:22.960><c> a</c><00:00:23.080><c> bike</c><00:00:23.359><c> that</c> dance for deliveries or have a bike that dance for deliveries or have a bike that critiques<00:00:24.000><c> your</c> budgeting<00:00:27.960><c> get</c><00:00:28.119><c> a</c><00:00:28.320><c> smart</c><00:00:28.800><c> watch</c><00:00:29.080><c> to</c><00:00:29.240><c> pause</c> budgeting get a smart watch to pause budgeting get a smart watch to pause inflation<00:00:30.119><c> for</c><00:00:30.279><c> a</c><00:00:30.480><c> day</c><00:00:30.920><c> or</c><00:00:31.160><c> have</c><00:00:31.279><c> a</c><00:00:31.439><c> phone</c><00:00:31.759><c> app</c> inflation for a day or have a phone app inflation for a day or have a phone app that<00:00:32.200><c> rewards</c><00:00:32.680><c> saving</c><00:00:33.120><c> with</c><00:00:33.320><c> memes</c>

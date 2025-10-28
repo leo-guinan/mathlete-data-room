@@ -1,0 +1,16 @@
+# Making Gut Feelings a Reality #shorts #guts
+
+**Duration**: PT0M16S
+**Views**: 361
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #guts
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en if<00:00:00.320><c> you</c><00:00:00.560><c> can't</c><00:00:00.919><c> back</c><00:00:01.120><c> your</c><00:00:01.280><c> gut</c><00:00:01.480><c> up</c><00:00:01.599><c> with</c><00:00:01.719><c> data</c> if you can't back your gut up with data if you can't back your gut up with data and<00:00:02.240><c> you</c><00:00:02.320><c> just</c><00:00:02.440><c> don't</c><00:00:02.600><c> do</c> and you just don't do and you just don't do anything<00:00:05.480><c> nothing's</c><00:00:05.799><c> going</c><00:00:05.879><c> to</c> happen<00:00:10.160><c> there's</c><00:00:10.360><c> so</c><00:00:10.519><c> much</c><00:00:10.679><c> that's</c><00:00:10.960><c> possible</c> happen there's so much that's possible happen there's so much that's possible in<00:00:11.320><c> the</c> in the in the world<00:00:13.360><c> but</c><00:00:13.480><c> it</c><00:00:13.639><c> requires</c><00:00:14.080><c> you</c><00:00:14.320><c> to</c><00:00:14.519><c> take</c><00:00:14.759><c> action</c>

@@ -1,0 +1,16 @@
+# Would You Rather - 2025 #question #choices
+
+**Duration**: PT0M33S
+**Views**: 741
+**Likes**: 8
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en always<00:00:00.399><c> be</c><00:00:00.599><c> late</c><00:00:01.079><c> or</c><00:00:01.240><c> always</c><00:00:01.520><c> be</c> early<00:00:05.400><c> restart</c><00:00:05.960><c> 2024</c><00:00:06.879><c> with</c><00:00:07.080><c> current</c> early restart 2024 with current early restart 2024 with current knowledge<00:00:08.080><c> or</c><00:00:08.320><c> hit</c><00:00:08.639><c> 2025</c><00:00:09.519><c> running</c><00:00:09.800><c> and</c><00:00:09.960><c> own</c> knowledge or hit 2025 running and own knowledge or hit 2025 running and own the year<00:00:13.920><c> be</c><00:00:14.120><c> stuck</c><00:00:14.400><c> in</c><00:00:14.519><c> the</c><00:00:14.639><c> year</c><00:00:14.839><c> 2002</c><00:00:15.599><c> a</c><00:00:16.440><c> or</c> year be stuck in the year 2002 a or year be stuck in the year 2002 a or subscribe<00:00:17.520><c> and</c> relax<00:00:21.600><c> be</c><00:00:21.760><c> a</c><00:00:21.920><c> night</c><00:00:22.160><c> owl</c><00:00:22.560><c> or</c><00:00:22.720><c> be</c><00:00:22.880><c> an</c><00:00:23.000><c> early</c> bird<00:00:27.039><c> invest</c><00:00:27.359><c> in</c><00:00:27.519><c> crypto</c><00:00:28.000><c> or</c><00:00:28.240><c> invest</c><00:00:28.599><c> in</c><00:00:28.840><c> ETFs</c>

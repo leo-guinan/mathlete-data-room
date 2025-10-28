@@ -1,0 +1,16 @@
+# Content Curation #shorts #content
+
+**Duration**: PT0M13S
+**Views**: 1,099
+**Likes**: 10
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #brand
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en this<00:00:00.199><c> is</c><00:00:00.440><c> content</c><00:00:00.960><c> curation</c><00:00:01.680><c> it's</c><00:00:01.839><c> where</c><00:00:01.959><c> you</c> this is content curation it's where you this is content curation it's where you take<00:00:02.480><c> all</c><00:00:02.639><c> of</c><00:00:02.800><c> the</c><00:00:02.919><c> ideas</c><00:00:03.280><c> out</c><00:00:03.560><c> there</c><00:00:04.480><c> and</c><00:00:04.759><c> pick</c> take all of the ideas out there and pick take all of the ideas out there and pick the<00:00:05.359><c> best</c><00:00:06.000><c> ones</c><00:00:07.000><c> if</c><00:00:07.120><c> you're</c><00:00:07.319><c> really</c><00:00:07.560><c> good</c><00:00:07.759><c> at</c> the best ones if you're really good at the best ones if you're really good at this<00:00:08.639><c> you</c><00:00:08.760><c> can</c><00:00:08.920><c> turn</c><00:00:09.200><c> this</c><00:00:09.360><c> into</c><00:00:09.840><c> all</c><00:00:10.240><c> sorts</c><00:00:10.639><c> of</c> this you can turn this into all sorts of this you can turn this into all sorts of things<00:00:11.240><c> down</c><00:00:11.480><c> the</c><00:00:11.639><c> line</c>

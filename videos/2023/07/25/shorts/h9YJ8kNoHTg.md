@@ -1,0 +1,16 @@
+# AI Superpower #shorts #time
+
+**Duration**: PT0M11S
+**Views**: 64
+**Likes**: 2
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #technology
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en we've<00:00:00.570><c> got</c><00:00:00.690><c> time</c><00:00:00.930><c> manipulation</c><00:00:01.589><c> got</c><00:00:02.310><c> Doctor</c> we've got time manipulation got Doctor we've got time manipulation got Doctor Strange<00:00:03.090><c> we're</c><00:00:04.049><c> manipulating</c><00:00:04.710><c> it</c><00:00:05.009><c> we're</c> Strange we're manipulating it we're Strange we're manipulating it we're changing<00:00:06.150><c> it</c><00:00:06.270><c> speeding</c><00:00:06.750><c> it</c><00:00:06.810><c> up</c><00:00:06.930><c> slowing</c><00:00:07.290><c> it</c> changing it speeding it up slowing it changing it speeding it up slowing it down<00:00:07.589><c> whatever</c><00:00:07.830><c> we</c><00:00:08.130><c> need</c><00:00:08.250><c> to</c><00:00:08.370><c> do</c><00:00:08.490><c> in</c><00:00:08.670><c> order</c><00:00:08.790><c> to</c> down whatever we need to do in order to down whatever we need to do in order to get<00:00:09.090><c> the</c><00:00:09.269><c> results</c><00:00:09.389><c> that</c><00:00:09.690><c> we</c><00:00:09.870><c> want</c>

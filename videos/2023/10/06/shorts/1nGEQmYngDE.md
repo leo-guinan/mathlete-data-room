@@ -1,0 +1,16 @@
+# God I'm Old! #shorts #old
+
+**Duration**: PT0M26S
+**Views**: 84
+**Likes**: 1
+
+**Description**:
+Full Videos: https://www.youtube.com/@listentoleonow?sub_confirmation=1
+
+#shorts #old
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en realized<00:00:01.480><c> I</c><00:00:01.640><c> was</c><00:00:01.959><c> well</c><00:00:02.120><c> the</c><00:00:02.240><c> other</c><00:00:02.440><c> day</c><00:00:02.679><c> I</c><00:00:03.120><c> was</c> realized I was well the other day I was realized I was well the other day I was looking<00:00:04.400><c> at</c><00:00:04.520><c> one</c><00:00:04.640><c> of</c><00:00:04.759><c> my</c><00:00:04.920><c> shorts</c><00:00:05.400><c> and</c> looking at one of my shorts and looking at one of my shorts and YouTube's<00:00:07.319><c> like</c><00:00:08.200><c> hey</c><00:00:08.559><c> uh</c><00:00:08.639><c> you</c><00:00:08.760><c> know</c><00:00:08.880><c> you</c><00:00:08.960><c> can</c> YouTube's like hey uh you know you can YouTube's like hey uh you know you can change<00:00:09.400><c> videos</c><00:00:09.880><c> by</c><00:00:10.080><c> swiping</c><00:00:10.559><c> up</c><00:00:10.880><c> right</c><00:00:11.000><c> and</c> change videos by swiping up right and change videos by swiping up right and I'm<00:00:11.280><c> like</c><00:00:11.480><c> oh</c><00:00:11.639><c> well</c><00:00:11.759><c> that's</c><00:00:11.880><c> really</c><00:00:12.120><c> nice</c> I'm like oh well that's really nice I'm like oh well that's really nice suggesting<00:00:12.960><c> that</c><00:00:13.080><c> I</c><00:00:13.240><c> swipe</c><00:00:13.639><c> up</c><00:00:14.360><c> on</c><00:00:14.519><c> my</c><00:00:14.639><c> own</c> suggesting that I swipe up on my own suggesting that I swipe up on my own video<00:00:15.839><c> uh</c><00:00:16.039><c> then</c><00:00:16.119><c> I</c><00:00:16.199><c> realized</c><00:00:16.520><c> it</c><00:00:16.600><c> was</c><00:00:16.720><c> because</c> video uh then I realized it was because video uh then I realized it was because I<00:00:17.039><c> was</c><00:00:17.199><c> watching</c><00:00:17.480><c> the</c><00:00:17.560><c> short</c><00:00:17.920><c> over</c><00:00:18.119><c> and</c><00:00:18.279><c> over</c> I was watching the short over and over I was watching the short over and over again<00:00:18.920><c> and</c><00:00:19.279><c> uh</c><00:00:20.039><c> trying</c><00:00:20.279><c> to</c><00:00:20.400><c> tell</c><00:00:20.560><c> me</c><00:00:20.760><c> that</c> again and uh trying to tell me that again and uh trying to tell me that obviously<00:00:21.920><c> you</c><00:00:22.039><c> don't</c><00:00:22.240><c> know</c><00:00:22.400><c> how</c><00:00:22.519><c> shorts</c><00:00:22.880><c> work</c> obviously you don't know how shorts work obviously you don't know how shorts work and<00:00:23.279><c> you</c><00:00:23.400><c> need</c><00:00:23.560><c> to</c><00:00:23.680><c> swipe</c><00:00:24.039><c> to</c><00:00:24.160><c> see</c><00:00:24.359><c> more</c>

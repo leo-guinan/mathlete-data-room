@@ -1,0 +1,16 @@
+# Would You Rather #question #choices
+
+**Duration**: PT0M36S
+**Views**: 608
+**Likes**: 24
+
+**Description**:
+https://www.youtube.com/@ideasupplychain?sub_confirmation=1
+
+#shorts #choices
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en live<00:00:00.359><c> without</c><00:00:00.719><c> internet</c><00:00:01.280><c> or</c><00:00:01.480><c> live</c><00:00:01.760><c> without</c> AC<00:00:05.839><c> give</c><00:00:06.000><c> up</c><00:00:06.240><c> social</c><00:00:06.560><c> media</c><00:00:07.120><c> or</c><00:00:07.359><c> give</c><00:00:07.520><c> up</c> AC give up social media or give up AC give up social media or give up streaming services<00:00:12.080><c> be</c><00:00:12.320><c> stuck</c><00:00:12.599><c> in</c><00:00:12.719><c> the</c><00:00:12.880><c> year</c><00:00:13.320><c> 1842</c><00:00:14.320><c> or</c> services be stuck in the year 1842 or services be stuck in the year 1842 or subscribe<00:00:15.040><c> and</c> relax<00:00:19.199><c> have</c><00:00:19.320><c> a</c><00:00:19.480><c> wallet</c><00:00:19.800><c> that</c><00:00:19.920><c> doubles</c><00:00:20.279><c> your</c> relax have a wallet that doubles your relax have a wallet that doubles your cash<00:00:20.800><c> but</c><00:00:20.960><c> talks</c><00:00:21.320><c> non-stop</c><00:00:22.199><c> or</c><00:00:22.359><c> have</c><00:00:22.480><c> a</c><00:00:22.600><c> phone</c> cash but talks non-stop or have a phone cash but talks non-stop or have a phone that<00:00:23.039><c> charges</c><00:00:23.400><c> only</c><00:00:23.640><c> in</c><00:00:23.760><c> a</c> freezer<00:00:27.679><c> have</c><00:00:27.800><c> a</c><00:00:27.960><c> smartwatch</c><00:00:28.599><c> predicting</c> freezer have a smartwatch predicting freezer have a smartwatch predicting sales<00:00:29.279><c> and</c><00:00:29.439><c> riddles</c><00:00:30.160><c> or</c><00:00:30.320><c> have</c><00:00:30.439><c> a</c><00:00:30.560><c> drone</c> sales and riddles or have a drone sales and riddles or have a drone delivering<00:00:31.480><c> cash</c><00:00:31.759><c> if</c><00:00:31.880><c> you</c><00:00:32.079><c> dance</c>
