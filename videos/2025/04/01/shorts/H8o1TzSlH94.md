@@ -1,0 +1,14 @@
+# Idea Supply Chain Live Stream
+
+**Duration**: PT1M43S
+**Views**: 1
+**Likes**: 0
+
+**Description**:
+
+
+---
+
+**Transcript** (youtube-subs):
+
+Kind: captions Language: en okay<00:00:11.599><c> so</c><00:00:12.040><c> I</c><00:00:12.120><c> don't</c><00:00:12.400><c> actually</c><00:00:12.599><c> know</c><00:00:12.759><c> what's</c> okay so I don't actually know what's okay so I don't actually know what's happening<00:00:13.280><c> with</c><00:00:13.519><c> this</c><00:00:14.320><c> but</c> okay so<00:00:41.559><c> says</c><00:00:41.920><c> excellent</c> condition<00:00:51.440><c> okay</c><00:00:51.840><c> well</c><00:00:52.120><c> that</c><00:00:52.320><c> seems</c><00:00:52.559><c> to</c><00:00:52.680><c> be</c> condition okay well that seems to be condition okay well that seems to be working<00:00:53.280><c> now</c> DVR yes<00:01:04.119><c> okay</c><00:01:05.119><c> cool</c><00:01:06.119><c> that</c><00:01:06.320><c> actually</c><00:01:06.680><c> looks</c><00:01:06.920><c> like</c> yes okay cool that actually looks like yes okay cool that actually looks like that<00:01:07.680><c> works</c> um<00:01:12.360><c> does</c><00:01:12.560><c> it</c><00:01:12.840><c> work</c><00:01:13.439><c> on</c> here<00:01:22.479><c> it</c><00:01:22.799><c> does</c><00:01:23.079><c> not</c><00:01:23.560><c> seem</c> here it does not seem here it does not seem to<00:01:25.880><c> does</c><00:01:26.079><c> it</c><00:01:26.240><c> work</c><00:01:26.439><c> on</c><00:01:26.680><c> Twitch</c> yes<00:01:35.399><c> okay</c><00:01:35.960><c> that</c><00:01:36.439><c> seems</c><00:01:36.799><c> to</c><00:01:36.960><c> be</c><00:01:37.159><c> coming</c><00:01:37.439><c> through</c> yes okay that seems to be coming through yes okay that seems to be coming through okay<00:01:38.000><c> on</c><00:01:38.399><c> Twitch</c><00:01:39.399><c> so</c><00:01:39.560><c> we've</c><00:01:39.720><c> got</c><00:01:39.880><c> twitch</c><00:01:40.079><c> and</c> okay on Twitch so we've got twitch and okay on Twitch so we've got twitch and YouTube<00:01:40.720><c> just</c><00:01:41.040><c> not</c><00:01:41.520><c> X</c>
