@@ -1,0 +1,77 @@
+---
+title: My Career Wasn’t Progressing as Fast as I Wanted
+---
+
+<!DOCTYPE html>
+<html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"/><title>My Career Wasn’t Progressing as Fast as I Wanted</title><style>
+      * {
+        font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+      }
+      h1 {
+        font-size: 50px;
+        margin-bottom: 17px;
+        color: #333;
+      }
+      h2 {
+        font-size: 24px;
+        line-height: 1.6;
+        margin: 30px 0 0 0;
+        margin-bottom: 18px;
+        margin-top: 33px;
+        color: #333;
+      }
+      h3 {
+        font-size: 30px;
+        margin: 10px 0 20px 0;
+        color: #333;
+      }
+      header {
+        width: 640px;
+        margin: auto;
+      }
+      section {
+        width: 640px;
+        margin: auto;
+      }
+      section p {
+        margin-bottom: 27px;
+        font-size: 20px;
+        line-height: 1.6;
+        color: #333;
+      }
+      section img {
+        max-width: 640px;
+      }
+      footer {
+        padding: 0 20px;
+        margin: 50px 0;
+        text-align: center;
+        font-size: 12px;
+      }
+      .aspectRatioPlaceholder {
+        max-width: auto !important;
+        max-height: auto !important;
+      }
+      .aspectRatioPlaceholder-fill {
+        padding-bottom: 0 !important;
+      }
+      header,
+      section[data-field=subtitle],
+      section[data-field=description] {
+        display: none;
+      }
+      </style></head><body><article class="h-entry">
+<header>
+<h1 class="p-name">My Career Wasn’t Progressing as Fast as I Wanted</h1>
+</header>
+<section class="p-summary" data-field="subtitle">
+So I Changed The Game
+</section>
+<section class="e-content" data-field="body">
+<section class="section section--body section--first" name="91f7"><div class="section-divider"><hr class="section-divider"/></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h3 class="graf graf--h3 graf--leading graf--title" id="5229" name="5229">My Career Wasn’t Progressing as Fast as I Wanted</h3><h4 class="graf graf--h4 graf-after--h3 graf--subtitle" id="c556" name="c556">So I Changed The Game</h4><figure class="graf graf--figure graf-after--h4" id="97b3" name="97b3"><img class="graf-image" data-height="3793" data-image-id="0*tTr-okq1l8w96HBU" data-is-featured="true" data-unsplash-photo-id="PJYOpJCcbRg" data-width="2529" src="https://cdn-images-1.medium.com/max/800/0*tTr-okq1l8w96HBU"/><figcaption class="imageCaption">Photo by <a class="markup--anchor markup--figure-anchor" data-href="https://unsplash.com/@lgnwvr?utm_source=medium&amp;utm_medium=referral" href="https://unsplash.com/@lgnwvr?utm_source=medium&amp;utm_medium=referral" rel="photo-creator noopener" target="_blank">LOGAN WEAVER</a> on <a class="markup--anchor markup--figure-anchor" data-href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" rel="photo-source noopener" target="_blank">Unsplash</a></figcaption></figure><p class="graf graf--p graf-after--figure" id="8faf" name="8faf">Since I entered the workforce about a decade ago, one thing has remained consistent. I haven’t advanced as fast as I wanted. I am definitely making progress but I just seem to keep getting stuck on one thing.</p><h4 class="graf graf--h4 graf-after--p" id="0d8c" name="0d8c">Time.</h4><p class="graf graf--p graf-after--h4" id="090c" name="090c">I haven’t been there long enough. Or I haven’t been doing a specific job long enough.</p><p class="graf graf--p graf-after--p" id="a1a1" name="a1a1">It always came back to time. Never once was the argument that I couldn’t do the job. I just had to put the time in.</p><p class="graf graf--p graf-after--p" id="f9f3" name="f9f3">There are certainly some benefits to making people wait. Many times, the experience gained over time is key to being successful.</p><p class="graf graf--p graf-after--p graf--trailing" id="6835" name="6835">The problem though, is in tying money to waiting. I have a bunch of student loan debt that keeps chasing me. I want to get to a point in my career where I no longer have to worry about bills. Isn’t that what most people want?</p></div></div></section><section class="section section--body" name="a9e1"><div class="section-divider"><hr class="section-divider"/></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 class="graf graf--h4 graf--leading" id="49f1" name="49f1">Of course I want to advance quickly.</h4><p class="graf graf--p graf-after--h4" id="d376" name="d376">Advancement is the best way to make more money so I wanted to advance. This led to a lot of frustration for me and a couple of job changes.</p><p class="graf graf--p graf-after--p" id="ea59" name="ea59">There is also an argument that it isn’t fair to advance past people who have been in positions longer. I do understand that. We are all trying to reach the point of financial freedom. I don’t want my success to limit others.</p><p class="graf graf--p graf-after--p" id="7d26" name="7d26">Then I realized, if my success is limiting the others that I work with, the system is poorly designed.</p><p class="graf graf--p graf-after--p" id="26b3" name="26b3">The fact of the matter is that if I am working at a company, the ideal goal state should be all employees focused on the same goals. If I am competing with my coworkers for a given position, it helps me reach my potential faster, but if I lose and it affects my ability to pay my bills? That is where I tend to start looking around for new opportunities. Then I lose focus on hitting the company’s goals.</p><p class="graf graf--p graf-after--p" id="4922" name="4922">I actually had a discussion with my boss over the summer. I had people reach out to me with potential jobs. I interviewed with a few different places. I didn’t get them. I explained to him that I wasn’t really actively looking, but they were offering pay scales that were high enough to pique my interest.</p><p class="graf graf--p graf-after--p graf--trailing" id="6f8b" name="6f8b">Thanks to Covid, my wife was in the room when I was talking to my boss. She couldn’t believe that I would be so open and honest. I am pretty sure she was ready to kill me as I am the main income for the family. She felt that my honesty was risky. I felt that I owed it to myself and my company to be honest with them.</p></div></div></section><section class="section section--body" name="deb8"><div class="section-divider"><hr class="section-divider"/></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 class="graf graf--h4 graf--leading" id="4f4f" name="4f4f">I know this isn’t just me.</h4><p class="graf graf--p graf-after--h4" id="9f80" name="9f80">It isn’t that I want to look for new opportunities, I just want my family to be as financially stable as possible. I have seen people leave companies many times because of this. I have left companies because of this, even if I didn’t want to.</p><p class="graf graf--p graf-after--p" id="d62b" name="d62b">For example, in my first job out of college, the company I worked for was excellent. I loved my coworkers and I got to work on some really cool problems. The reason I left?</p><blockquote class="graf graf--pullquote graf-after--p" id="5be8" name="5be8">A 40% raise.</blockquote><p class="graf graf--p graf-after--pullquote" id="792b" name="792b">Money certainly isn’t everything. I actually turned down a position with the same company the year before. But it does make a difference. Especially to me at that point.</p><p class="graf graf--p graf-after--p" id="b8ed" name="b8ed">I had recently had my second kid. Still couldn’t afford to pay down my student loan debt. The monthly payment they told me that I could afford was more than my rent. I was living in a crappy rental house.</p><p class="graf graf--p graf-after--p graf--trailing" id="c34f" name="c34f">Could I have done things differently? Sure. Couldn’t we all? But my wife and I made the decision that she would stay home with the kids. We put most of our resources into them. I kept telling myself that at some point I would be financially secure. I just needed to climb the corporate ladder far enough. So I pushed back everything I could. The longer I could make the game, the better chance I had of winning.</p></div></div></section><section class="section section--body" name="821e"><div class="section-divider"><hr class="section-divider"/></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><h4 class="graf graf--h4 graf--leading" id="7378" name="7378">Now, I see that I was trying to win a race that was rigged against me.</h4><blockquote class="graf graf--pullquote graf-after--h4" id="1e83" name="1e83">Now it is time to change the game.</blockquote><p class="graf graf--p graf-after--pullquote" id="0b08" name="0b08">And I want to be fully transparent here. I come from privilege. I acknowledge this and attribute it to my success so far in life. But I have quite a bit of privilege and I can’t manage to win with this system? No wonder people are pissed. The system is rigged unless you have already won. Sure, some still manage to win. But they are the exception, not the rule.</p><p class="graf graf--p graf-after--p" id="dbee" name="dbee">Now it is time to change the game. I see where it is broken so I know how I can fix it. I am changing the game from multiple angles. <a class="markup--anchor markup--p-anchor" data-href="https://medium.com/illumination-curated/the-rise-of-fake-news-be8c2e32c0e" href="https://medium.com/illumination-curated/the-rise-of-fake-news-be8c2e32c0e" target="_blank">I have studied the economy and I understand where it broke.</a></p><div class="graf graf--mixtapeEmbed graf-after--p" id="a7b4" name="a7b4"><a class="markup--anchor markup--mixtapeEmbed-anchor" data-href="https://medium.com/illumination-curated/the-rise-of-fake-news-be8c2e32c0e" href="https://medium.com/illumination-curated/the-rise-of-fake-news-be8c2e32c0e" title="https://medium.com/illumination-curated/the-rise-of-fake-news-be8c2e32c0e"><strong class="markup--strong markup--mixtapeEmbed-strong">The Rise of Fake News</strong><br/><em class="markup--em markup--mixtapeEmbed-em">Exploring the Origins and Futures of Fake News</em>medium.com</a><a class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="ce24f33ab8d87edd5b7a59a454a34509" data-thumbnail-img-id="0*PD8hSR35ZxzBNLJ1" href="https://medium.com/illumination-curated/the-rise-of-fake-news-be8c2e32c0e" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*PD8hSR35ZxzBNLJ1);"></a></div><div class="graf graf--mixtapeEmbed graf-after--mixtapeEmbed" id="3f81" name="3f81"><a class="markup--anchor markup--mixtapeEmbed-anchor" data-href="https://medium.com/the-innovation/the-human-api-3dbfa885caf4" href="https://medium.com/the-innovation/the-human-api-3dbfa885caf4" title="https://medium.com/the-innovation/the-human-api-3dbfa885caf4"><strong class="markup--strong markup--mixtapeEmbed-strong">The Human API</strong><br/><em class="markup--em markup--mixtapeEmbed-em">Redesigning the Internet to be Human-Centric</em>medium.com</a><a class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="16fb7c3f55d53e206e4f59a60d8a0fb6" data-thumbnail-img-id="0*cDW52iGNHQ-hDg8B" href="https://medium.com/the-innovation/the-human-api-3dbfa885caf4" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*cDW52iGNHQ-hDg8B);"></a></div><p class="graf graf--p graf-after--mixtapeEmbed" id="c7b8" name="c7b8">As part of my plan, I launched a startup whose goal is to show society that there is a better way to do things. I am currently seeking funding for this endeavor. I am going to prove that things can be done differently. Please reach out if you are interested in doing things differently. I am happy to share my knowledge and experience.</p><div class="graf graf--mixtapeEmbed graf-after--p" id="3860" name="3860"><a class="markup--anchor markup--mixtapeEmbed-anchor" data-href="https://medium.com/illumination/why-i-am-offering-my-services-as-a-highly-skilled-unpaid-intern-af8a49952199" href="https://medium.com/illumination/why-i-am-offering-my-services-as-a-highly-skilled-unpaid-intern-af8a49952199" title="https://medium.com/illumination/why-i-am-offering-my-services-as-a-highly-skilled-unpaid-intern-af8a49952199"><strong class="markup--strong markup--mixtapeEmbed-strong">Why I am Offering my Services as a Highly Skilled Unpaid Intern</strong><br/><em class="markup--em markup--mixtapeEmbed-em">Interns can be the Most Valuable Employees</em>medium.com</a><a class="js-mixtapeImage mixtapeImage u-ignoreBlock" data-media-id="5321b1dd052082c7f293a4c0144da01e" data-thumbnail-img-id="0*R6-4HKZYyUrm3Yj7" href="https://medium.com/illumination/why-i-am-offering-my-services-as-a-highly-skilled-unpaid-intern-af8a49952199" style="background-image: url(https://cdn-images-1.medium.com/fit/c/160/160/0*R6-4HKZYyUrm3Yj7);"></a></div><p class="graf graf--p graf-after--mixtapeEmbed" id="da60" name="da60">I am also working within my current company. I have some really cool ideas for us to change the world. Things are progressing nicely there. Nothing that I can really talk about yet in detail, but progress. Coming from a place of open honesty now, I am not worried about how things will be received. I am taking my shots where I get them. Some of my paths have been blocked, but every time I get stuck somewhere, something else comes along and inspires me to take a different direction.</p><p class="graf graf--p graf-after--p" id="520e" name="520e">Finally, I am writing. This is the easiest way for me to share my ideas with the world. I am documenting my process as I develop and refine it. In addition to this blog, I am working on a book that will outline many of my theories that I am basing everything on.</p><h4 class="graf graf--h4 graf-after--p graf--trailing" id="1b26" name="1b26">Let me know if you want to help me change the world.</h4></div></div></section><section class="section section--body section--last" name="fc97"><div class="section-divider"><hr class="section-divider"/></div><div class="section-content"><div class="section-inner sectionLayout--insetColumn"><p class="graf graf--p graf--leading graf--trailing" id="9325" name="9325"><a class="markup--anchor markup--p-anchor" data-href="https://research.guinantech.com/humane-tech" href="https://research.guinantech.com/humane-tech" rel="noopener" target="_blank"><em class="markup--em markup--p-em">Things can be much better than they currently are. I plan on proving it. Sign up for my mailing list to receive updates on my progress or to join in my efforts.</em></a></p></div></div></section>
+</section>
+<footer><p>By <a class="p-author h-card" href="https://medium.com/@guinanleo">Leo Guinan</a> on <a href="https://medium.com/p/967c61240557"><time class="dt-published" datetime="2020-10-28T09:34:49.284Z">October 28, 2020</time></a>.</p><p><a class="p-canonical" href="https://medium.com/@guinanleo/my-career-wasnt-progressing-as-fast-as-i-wanted-967c61240557">Canonical link</a></p><p>Exported from <a href="https://medium.com">Medium</a> on October 11, 2025.</p></footer></article></body></html>
